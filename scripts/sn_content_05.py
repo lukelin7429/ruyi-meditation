@@ -34148,3 +34148,138 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.4 — Paṭhamaarahantasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 4, "Paṭhamaarahanta", "A Perfected One (1st)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.4 — A Perfected One (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaarahantasutta — the same threefold lens met at "
+        "SN 48.2, here leading not to stream-entry but to full "
+        "arahantship, freedom through not grasping. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The five faculties restated, then a single "
+                 "condition defining the arahant, mirroring SN 48.2's "
+                 "own threefold structure but naming full "
+                 "enlightenment as the result"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the \"(1st)\" title suggests, by "
+                         "the same pattern already confirmed at SN "
+                         "48.2-3, a companion discourse still ahead"),
+    ],
+    why=(
+        "This discourse repeats SN 48.2's own threefold lens "
+        "&mdash; gratification, drawback, and escape, applied to the "
+        "five faculties &mdash; but where SN 48.2 named stream-entry "
+        "as the result, THIS discourse names full arahantship: a "
+        "mendicant &ldquo;freed by not grasping&rdquo; after truly "
+        "understanding the five faculties this way, closing with the "
+        "canon's own full arahant formula."
+    ),
+    guide=[
+        ("The same threefold lens, a different named result", [
+            "Confirmed by direct reading, this discourse's own "
+            "condition is WORD FOR WORD the same threefold lens "
+            "already met at SN 48.2 (gratification, drawback, "
+            "escape) &mdash; but rather than closing with the "
+            "stream-entry formula, it closes with &ldquo;"
+            "anupādāvimutto&rdquo; (&ldquo;freed by not "
+            "grasping&rdquo;) and the FULL arahant formula.",
+        ]),
+        ("The complete arahant formula, spelled out in full", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing formula names SEVEN distinct qualities of the "
+            "arahant in sequence: defilements ended, having "
+            "completed the spiritual journey, done what had to be "
+            "done, laid down the burden, achieved the heart's own "
+            "goal, utterly ended the fetter of continued existence, "
+            "and rightly freed through enlightenment.",
+        ]),
+        ("\"(1st)\" again -- a pattern this project has already confirmed once", [
+            "This discourse's own title, &ldquo;Paṭhamaarahanta-"
+            "sutta&rdquo; (&ldquo;A Perfected One, First "
+            "Version&rdquo;), is confirmed by direct reading to "
+            "follow the identical &ldquo;(1st)&rdquo; naming pattern "
+            "this project already confirmed at SN 48.2, where the "
+            "predicted companion (SN 48.3) turned out to expand the "
+            "threefold lens to a fivefold one &mdash; this project "
+            "will confirm, not assume, whether the same expansion "
+            "recurs here.",
+        ]),
+    ],
+    terms=[
+        ("anupādāvimutto", "&ldquo;freed by not grasping&rdquo; "
+             "&mdash; this discourse's own condition for arahantship, "
+             "replacing SN 48.2's own stream-entry closing"),
+        ("khīṇāsavo", "&ldquo;with defilements ended&rdquo; &mdash; "
+             "the first quality named in the full arahant formula"),
+        ("vusitavā katakaraṇīyo ohitabhāro", "&ldquo;having "
+             "completed the spiritual journey, done what had to be "
+             "done, laid down the burden&rdquo; &mdash; three "
+             "further qualities in the sequence"),
+        ("anuppattasadattho parikkhīṇabhavasaṁyojano", "&ldquo;"
+             "achieved the heart's own goal, utterly ended the "
+             "fetter of continued existence&rdquo; &mdash; two more "
+             "qualities closing the formula's own middle section"),
+        ("sammadaññāvimutto", "&ldquo;rightly freed through "
+             "enlightenment&rdquo; &mdash; the seventh and final "
+             "quality closing the full arahant formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.4:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own threefold lens compare to SN 48.2's own?",
+         "opts": ["Word for word identical (gratification, drawback, escape), but leading to a different named result", "Completely different, sharing no terms with SN 48.2", "Expanded to five angles already, unlike SN 48.2's own three", "Reduced to a single angle, unlike SN 48.2's own three"],
+         "correct": 0,
+         "expl": "The same threefold lens, but closing with the arahant formula rather than the stream-entry formula."},
+        {"q": "How many distinct qualities does this discourse's own full arahant formula name?",
+         "opts": ["Seven, in sequence from \"defilements ended\" to \"rightly freed through enlightenment\"", "Three, matching the threefold lens exactly", "One single quality, summarizing the rest", "Twelve, a much longer list than given here"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a complete seven-part formula."},
+        {"q": "What does this discourse's own \"(1st)\" title suggest, based on the pattern already confirmed at SN 48.2?",
+         "opts": ["A companion discourse still ahead, whose own exact content this project will confirm rather than assume", "Nothing further; \"(1st)\" has no structural significance", "That this is the very first discourse of the entire saṃyutta", "That the discourse has two internally distinct sections"],
+         "correct": 0,
+         "expl": "SN 48.2's own predicted companion (SN 48.3) turned out to expand the lens — this project will verify, not assume, what recurs here."},
+    ],
+    marginalia=[
+        ("Same lens, different destination", [
+            "gratification, drawback, escape — again —",
+            "but arahantship, not stream-entry, this time"
+        ]),
+        ("Seven qualities, the full formula", [
+            "defilements ended through rightly freed —",
+            "the complete arahant description"
+        ]),
+        ("\"(1st)\" — a pattern already seen once", [
+            "SN 48.2 predicted correctly before —",
+            "this project verifies again, not assumes"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.3.html\">SN 48.3 &middot; A Stream-Enterer "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
