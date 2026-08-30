@@ -47376,3 +47376,151 @@ page_range(
         "expanded treatment of the identical twelve similes.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.89-98 — Punaesanādisutta (bare cross-reference, own vagga)
+# Vagga confirmed by direct reading to carry no worked example --
+# only a cross-reference and closing uddāna. A genuine INTERNAL
+# discrepancy within this single file, reported honestly rather than
+# resolved: this file's own opening "0.2" header field reads "8.
+# Punaesanāvagga," but its own closing colophon reads "Esanāvaggo
+# navamo" ("the Searches chapter, the NINTH") -- two different
+# position numbers within the same file, neither silently corrected
+# to match the other or this project's own count.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 89, 98, "Punaesanādi", "Another Series on Searches, Etc.",
+    vagga="Punaesanāvagga",
+    meta_title="SN 50.89–98 — Another Series on Searches, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.89–98 — ten discourses on searches, cross-referenced "
+        "in full, with a genuine internal discrepancy in this file's "
+        "own vagga numbering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single cross-reference instruction, plus a "
+                 "closing uddāna; no worked example of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a genuine internal discrepancy "
+                         "within this file's own vagga numbering, "
+                         "reported without resolution"),
+    ],
+    why=(
+        "This file carries no worked example, only a cross-reference "
+        "and closing uddāna &mdash; but its own internal structure "
+        "carries a genuine discrepancy, reported honestly rather "
+        "than silently corrected: its own opening &ldquo;0.2&rdquo; "
+        "header reads &ldquo;8. Punaesanāvagga,&rdquo; while its own "
+        "closing colophon reads &ldquo;Esanāvaggo navamo&rdquo; "
+        "(&ldquo;the Searches chapter, the NINTH&rdquo;) &mdash; two "
+        "different position numbers within the same single file."
+    ),
+    guide=[
+        ("An internal discrepancy, reported without resolution", [
+            "Confirmed by direct reading, this single file's own two "
+            "numbering markers disagree: the opening field names "
+            "this the eighth vagga, while the closing colophon calls "
+            "it the ninth. Consistent with this project's own "
+            "standing practice, neither number is silently corrected "
+            "to match the other, this project's own running count, "
+            "or the genuinely different vagga-nesting structure "
+            "already confirmed at SN 50.77-88.",
+        ]),
+        ("The removal-of-greed formula, spelled out explicitly", [
+            "Confirmed by direct reading, this file's own Pāli root "
+            "spells out the specific closing formula directly within "
+            "the cross-reference itself (&ldquo;rāgavinayapariyosānaṁ "
+            "dosavinayapariyosānaṁ mohavinayapariyosānaṁ&rdquo;) "
+            "rather than merely citing a source range &mdash; "
+            "matching the English source's own &ldquo;removal of "
+            "greed version&rdquo; note precisely.",
+        ]),
+        ("Ten topics, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.161-170: "
+            "the ten topics are searches, discriminations, "
+            "defilements, states of existence, threefold suffering, "
+            "barrenness, stains, troubles, feelings, and "
+            "craving/thirst, here applied to the developed five "
+            "powers.",
+        ]),
+    ],
+    terms=[
+        ("Punaesanāvaggo", "&ldquo;Another Searches Chapter&rdquo; "
+             "&mdash; this file's own opening name, its own "
+             "&ldquo;0.2&rdquo; field naming this the eighth vagga"),
+        ("Esanāvaggo navamo", "&ldquo;the Searches chapter, the "
+             "ninth&rdquo; &mdash; this file's own closing colophon, "
+             "genuinely disagreeing with its own opening field"),
+        ("Evaṁ esanāpāḷi vitthāretabbā&mdash;rāgavinayapariyosānaṁ...",
+             "&ldquo;thus the searches text is to be elaborated, "
+             "culminating in the removal of greed, hate, and "
+             "delusion&rdquo; &mdash; the specific formula spelled "
+             "out directly within the cross-reference"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso", "the closing "
+             "uddāna's own opening line, identical to every prior "
+             "instance of this formula this project has met"),
+        ("khilaṁ malañca nīgho ca; vedanā taṇhā tasinā", "the "
+             "uddāna's remaining five topics, completing the count "
+             "of ten"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.89-98:1.1"),
+        ("p", "Uddāna", "sn50.89-98:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What genuine discrepancy exists within this single file's own numbering?",
+         "opts": ["Its own opening \"0.2\" field names this the eighth vagga, while its own closing colophon calls it the ninth", "There is no discrepancy — both markers agree exactly", "The English source and Pāli root disagree about the topic entirely", "The file gives three different vagga numbers"],
+         "correct": 0,
+         "expl": "Reported honestly rather than silently corrected, matching this project's own standing practice."},
+        {"q": "How is the removal-of-greed formula presented in this file's own root Pāli?",
+         "opts": ["Spelled out directly within the cross-reference itself, not merely cited by source range", "Not present at all in this file", "Only implied, never stated explicitly", "Contradicted by the English source"],
+         "correct": 0,
+         "expl": "The Pāli quotes the exact closing phrase directly, matching the English source's own note precisely."},
+        {"q": "What does the closing uddāna confirm about this vagga's own topics?",
+         "opts": ["Ten topics: searches, discriminations, defilements, states of existence, threefold suffering, barrenness, stains, troubles, feelings, and craving/thirst", "Only five topics, matching the five powers", "A single topic repeated ten times", "No topics — a purely abstract count"],
+         "correct": 0,
+         "expl": "Identical to every prior instance of this formula this project has met."},
+    ],
+    marginalia=[
+        ("Eighth, or ninth?", [
+            "the header says one number, the colophon another —",
+            "both kept, neither smoothed over"
+        ]),
+        ("The formula spelled out, not just cited", [
+            "removal of greed, written directly in the text —",
+            "not left to a source reference alone"
+        ]),
+        ("Ten topics, held elsewhere in full", [
+            "searches, defilements, feelings, thirst —",
+            "the content lives at SN 45.161"
+        ]),
+        ("A vagga's own internal disagreement", [
+            "SN 50 has already shown its own genuine variations —",
+            "this one keeps its own numbering honest, not tidy"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.89-98/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.77-88.html\">SN 50.77&ndash;88 &middot; "
+        "Another Chapter on Hard Work</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; this project's own earlier, fully expanded "
+        "treatment of the identical ten topics.",
+    ],
+)
