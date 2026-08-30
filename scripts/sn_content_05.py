@@ -30098,3 +30098,152 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 4. Ananussutavagga — Not Learned From Anyone Else (Vagga 4 of
+# Book VII, Satipaṭṭhānasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 47.31 — Ananussutasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 31, "Ananussuta", "Not Learned From Anyone Else",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.31 — Not Learned From Anyone Else | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ananussutasutta — the Buddha's own testimony of "
+        "original discovery, describing a threefold insight (this "
+        "is the practice; it should be developed; it has been "
+        "developed) arising for each of the four kinds of "
+        "mindfulness meditation, in teachings not learned from "
+        "anyone else. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A structured threefold formula (recognition, "
+                 "prescription, completion) applied to each of the "
+                 "four mindfulness objects in turn"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens this saṃyutta's own fourth "
+                         "vagga with a structure paralleling the "
+                         "classic three-turns formula of the first "
+                         "sermon"),
+    ],
+    why=(
+        "The Buddha describes, for each of the four kinds of "
+        "mindfulness meditation in turn, an identical threefold "
+        "insight arising in him &mdash; &ldquo;this IS the "
+        "observation,&rdquo; &ldquo;this observation SHOULD BE "
+        "developed,&rdquo; &ldquo;this observation HAS BEEN "
+        "developed&rdquo; &mdash; each accompanied by the fivefold "
+        "arising of &ldquo;vision, knowledge, wisdom, realization, "
+        "and light,&rdquo; and each explicitly framed as knowledge "
+        "&ldquo;not learned before from another.&rdquo;"
+    ),
+    guide=[
+        ("A threefold structure echoing the first sermon", [
+            "Confirmed by direct reading, this discourse's own "
+            "threefold pattern &mdash; recognizing what a practice "
+            "IS, that it SHOULD be developed, and that it HAS BEEN "
+            "developed &mdash; parallels the classic &ldquo;three "
+            "turns&rdquo; structure this project's own earlier work "
+            "identified in the Buddha's first sermon (SN 56.11) "
+            "applied there to the four noble truths, here applied "
+            "instead to the four kinds of mindfulness meditation.",
+        ]),
+        ("A fivefold arising, repeated for each object and each stage", [
+            "The identical fivefold formula &mdash; &ldquo;vision, "
+            "knowledge, wisdom, realization, and light&rdquo; "
+            "&mdash; is confirmed by direct reading to be repeated "
+            "for EVERY one of the twelve total insights this "
+            "discourse describes (three stages &times; four "
+            "objects), confirming this is not a single moment of "
+            "discovery but a structured, repeated pattern of "
+            "original insight.",
+        ]),
+        ("\"Not learned before from another\" -- a claim of original discovery", [
+            "The discourse's own repeated qualifier &mdash; &ldquo;"
+            "regarding teachings not learned before from "
+            "another&rdquo; &mdash; is confirmed by direct reading to "
+            "frame this entire twelvefold insight as the Buddha's own "
+            "original discovery, not knowledge received from any "
+            "prior teacher, echoing the identical claim made for the "
+            "four noble truths themselves.",
+        ]),
+    ],
+    terms=[
+        ("pubbe ananussutesu dhammesu", "&ldquo;regarding teachings "
+             "not learned before from another&rdquo; &mdash; the "
+             "discourse's own repeated claim of original discovery"),
+        ("cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā "
+             "udapādi, āloko udapādi", "&ldquo;vision, knowledge, "
+             "wisdom, realization, and light arose&rdquo; &mdash; the "
+             "fivefold formula repeated for each of the twelve "
+             "insights described"),
+        ("ayaṁ kāye kāyānupassanā", "&ldquo;this is the observation "
+             "of an aspect of the body&rdquo; &mdash; the first "
+             "stage of the threefold structure, recognizing the "
+             "practice itself"),
+        ("bhāvetabbā", "&ldquo;should be developed&rdquo; &mdash; "
+             "the second stage, prescribing the practice"),
+        ("bhāvitā", "&ldquo;has been developed&rdquo; &mdash; the "
+             "third and final stage, confirming the practice's own "
+             "completion"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the body", "sn47.31:1.1-1.4"),
+        ("p", "&sect;2 &mdash; feelings", "sn47.31:2.1-2.3"),
+        ("p", "&sect;3 &mdash; the mind", "sn47.31:3.1-3.3"),
+        ("p", "&sect;4 &mdash; principles", "sn47.31:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What threefold structure does this discourse apply to each of the four mindfulness objects?",
+         "opts": ["Recognizing what the practice is, that it should be developed, and that it has been developed", "A comparison between three different teachers", "Three separate locations where the practice was taught", "Three different lengths of meditation session"],
+         "correct": 0,
+         "expl": "Paralleling the classic \"three turns\" structure this project's own earlier work identified in the first sermon, SN 56.11."},
+        {"q": "What fivefold formula repeats for each of the twelve total insights described?",
+         "opts": ["\"Vision, knowledge, wisdom, realization, and light\" arose", "Five different named teachers approved the insight", "Five separate monasteries confirmed the teaching", "Five years passed before each insight arose"],
+         "correct": 0,
+         "expl": "Confirming this is a structured, repeated pattern of original insight, not a single moment."},
+        {"q": "What does the discourse's own repeated phrase \"not learned before from another\" claim?",
+         "opts": ["That this entire twelvefold insight is the Buddha's own original discovery, not received from a prior teacher", "That the teaching was learned from a specific named teacher", "That the teaching is unimportant and can be disregarded", "That the teaching was borrowed from an earlier tradition"],
+         "correct": 0,
+         "expl": "Echoing the identical claim of original discovery made for the four noble truths themselves."},
+    ],
+    marginalia=[
+        ("Three turns, echoing the first sermon", [
+            "this is it, it should be developed, it has been developed —",
+            "the same structure as the four noble truths"
+        ]),
+        ("Vision, knowledge, wisdom, realization, light", [
+            "the identical fivefold arising, twelve times over —",
+            "a structured pattern, not a single moment"
+        ]),
+        ("\"Not learned before from another\"", [
+            "a claim of original discovery, repeated —",
+            "the same words used for the truths themselves"
+        ]),
+        ("This saṃyutta's own fourth vagga opens", [
+            "Ananussutavagga, named for its own claim —",
+            "twenty more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.30.html\">SN 47.30 &middot; With "
+        "Mānadinna</a> &mdash; the previous discourse, closing the "
+        "preceding vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
