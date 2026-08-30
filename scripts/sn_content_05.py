@@ -42821,3 +42821,145 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.64 — Āsavakkhayasutta
+# The fourth discourse in the confirmed series (SN 48.61-64), and the
+# one that settles the question this project held open since SN
+# 48.62: this discourse's own second paragraph explicitly recaps all
+# three prior outcomes together with its own new outcome, ending of
+# defilements — confirming a genuine cumulative sequence, not simply
+# four parallel variants.
+# --------------------------------------------------------------------------- #
+page(
+    48, 64, "Āsavakkhaya", "Ending of Defilements",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.64 — Ending of Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavakkhayasutta — the five faculties, developed and "
+        "cultivated, lead to the ending of defilements, and this "
+        "discourse's own second paragraph recaps the full cumulative "
+        "series. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "Two paragraphs: a single new outcome, then a full "
+                 "cumulative recap"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms, in the text's own words, "
+                         "that SN 48.61-64 forms a genuine cumulative "
+                         "series rather than four independent "
+                         "variants"),
+    ],
+    why=(
+        "This discourse settles a question this project held open "
+        "since SN 48.62 rather than assume: its own second paragraph "
+        "explicitly lists all four outcomes together &mdash; giving "
+        "up the fetters, uprooting the underlying tendencies, "
+        "completely understanding the course of time, and ending the "
+        "defilements &mdash; confirming SN 48.61-64 as a genuine, "
+        "self-declared cumulative sequence."
+    ),
+    guide=[
+        ("Two paragraphs, one confirming the whole series", [
+            "This discourse's own structure differs from SN 48.61-63: "
+            "a first paragraph names &ldquo;āsavānaṁ khaya&rdquo; "
+            "(ending of defilements) alone, matching the prior "
+            "discourses' own single-outcome form; a second paragraph "
+            "then explicitly recaps all four outcomes together in a "
+            "single list &mdash; this project's own open question "
+            "about whether SN 48.61-63 formed a genuine series is now "
+            "settled by the text's own words, not by inference.",
+        ]),
+        ("Āsavakkhaya: the ending of defilements", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;āsava&rdquo; (defilements, taints, "
+            "&ldquo;influxes&rdquo;) traditionally names the "
+            "deepest-rooted corruptions &mdash; their ending "
+            "(khaya) is the classic canonical marker of full "
+            "awakening, arahantship itself.",
+        ]),
+        ("A deliberate crescendo, culminating in awakening", [
+            "This project's own observation, now confirmed rather "
+            "than merely suggested: the four outcomes named across "
+            "SN 48.61-64 &mdash; fetters given up, tendencies "
+            "uprooted, the whole course of time understood, "
+            "defilements ended &mdash; read as an ascending sequence "
+            "toward full awakening, with this discourse's own second "
+            "paragraph binding all four into a single, deliberate "
+            "statement.",
+        ]),
+    ],
+    terms=[
+        ("āsavānaṁ khayāya saṁvattanti", "&ldquo;lead to the ending "
+             "of defilements&rdquo; &mdash; this discourse's own new "
+             "outcome, and the classic marker of full awakening"),
+        ("āsava", "&ldquo;defilement, taint, influx&rdquo; &mdash; "
+             "the deepest-rooted corruptions ended at full "
+             "awakening"),
+        ("saṁyojanappahānāya...anusayasamugghātāya...addhānapariññāya"
+         "...āsavānaṁ khayāya", "the full cumulative list, recapping "
+             "SN 48.61-64's own four outcomes together in a single "
+             "sentence"),
+        ("bhāvitāni bahulīkatāni", "&ldquo;developed and "
+             "cultivated&rdquo; &mdash; the recurring qualifier "
+             "shared across this entire series"),
+        ("Catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fourth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.64:1.1-1.4"),
+        ("p", "&sect;2", "sn48.64:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own second paragraph do that settles a question this project held open?",
+         "opts": ["It explicitly recaps all four outcomes from SN 48.61-64 together, confirming a genuine cumulative series", "It denies any connection to the previous three discourses", "It introduces an entirely new set of five faculties", "It repeats only the very first discourse's own content, SN 48.61"],
+         "correct": 0,
+         "expl": "The text's own words confirm the series, rather than this project inferring it."},
+        {"q": "What does \"āsavakkhaya\" (ending of defilements) traditionally mark, as general canonical background?",
+         "opts": ["The classic canonical marker of full awakening, arahantship itself", "A temporary state that always later returns", "A term used only for lay practitioners, never monastics", "A synonym for simply calming the mind for one sitting"],
+         "correct": 0,
+         "expl": "The deepest-rooted corruptions, ended only at full awakening."},
+        {"q": "How do the four outcomes named across SN 48.61-64 read together?",
+         "opts": ["As a deliberate ascending sequence culminating in full awakening", "As four unrelated, randomly ordered topics", "As a single outcome repeated four times with no variation", "As a warning against developing the five faculties at all"],
+         "correct": 0,
+         "expl": "Fetters given up, tendencies uprooted, the course of time understood, defilements ended — a crescendo."},
+    ],
+    marginalia=[
+        ("Four, now named as one", [
+            "the series confirmed in its own words &mdash;",
+            "not this project's guess, but the text's own recap"
+        ]),
+        ("Āsavakkhaya, the deepest ending", [
+            "defilements at their very root &mdash;",
+            "the classic mark of full awakening"
+        ]),
+        ("A crescendo across four discourses", [
+            "fetters, tendencies, time, defilements &mdash;",
+            "each one deeper than the one before"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "brief as the three before it &mdash;",
+            "yet binding them all into one statement"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.64/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.63.html\">SN 48.63 &middot; Complete "
+        "Understanding</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
