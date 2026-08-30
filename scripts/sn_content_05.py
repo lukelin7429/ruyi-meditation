@@ -39121,3 +39121,148 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.39 — Kaṭṭhopamasutta
+# A genuinely new discourse type in this vagga: teaches each feeling
+# faculty's dependent arising and cessation, tied to its corresponding
+# type of contact, illustrated by the vivid simile of rubbing two
+# fire-sticks together.
+# --------------------------------------------------------------------------- #
+page(
+    48, 39, "Kaṭṭhopama", "The Simile of the Fire Sticks",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.39 — The Simile of the Fire Sticks | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kaṭṭhopamasutta — each feeling faculty arises dependent "
+        "on its corresponding contact and ceases when that contact "
+        "ceases, illustrated by the simile of rubbing two fire-sticks "
+        "together. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A structured teaching on each faculty's dependent "
+                 "arising and cessation, illustrated by a vivid "
+                 "simile"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a genuinely new teaching device in "
+                         "this vagga, using a memorable simile to "
+                         "illustrate dependent origination applied "
+                         "to each feeling faculty"),
+    ],
+    why=(
+        "This discourse departs from this vagga's own earlier "
+        "definitional and consolidating discourses to teach "
+        "something new: each feeling faculty arises dependent on its "
+        "OWN corresponding type of contact, is recognized while "
+        "present (&ldquo;I'm in a state of pleasure&rdquo;), and "
+        "ceases entirely when that contact ceases &mdash; illustrated "
+        "by the vivid image of rubbing two sticks together, where "
+        "heat exists only as long as the friction continues."
+    ),
+    guide=[
+        ("Each faculty tied to its own corresponding contact", [
+            "Confirmed by direct reading, this discourse teaches that "
+            "each of the five feeling faculties arises dependent on "
+            "a SPECIFIC, matching type of contact &mdash; the "
+            "faculty of pleasure arises dependent on &ldquo;contact "
+            "to be experienced as pleasant&rdquo; (sukhavedaniyaṁ "
+            "phassaṁ), and likewise for pain, happiness, sadness, "
+            "and equanimity &mdash; each faculty paired one-to-one "
+            "with its own condition, not a general undifferentiated "
+            "contact.",
+        ]),
+        ("Recognized while present, understood to cease with its condition", [
+            "Confirmed by direct reading, this discourse's own "
+            "pattern for each faculty is threefold: recognizing "
+            "oneself as being in that state while it lasts "
+            "(&ldquo;I'm in a state of pleasure&rdquo;), and "
+            "understanding directly that the faculty ceases and "
+            "stops precisely when its own corresponding contact "
+            "ceases &mdash; a close, first-person watching of "
+            "dependent arising and passing as it happens.",
+        ]),
+        ("The fire-stick simile: no independent existence apart from its condition", [
+            "Confirmed by direct reading, this discourse's own "
+            "simile &mdash; rubbing two sticks together generates "
+            "heat and fire, but the heat ceases entirely once the "
+            "sticks are parted and laid aside &mdash; makes vivid "
+            "that a feeling faculty has no independent existence "
+            "apart from its own generating contact, exactly as heat "
+            "has none apart from the friction that produces it.",
+        ]),
+    ],
+    terms=[
+        ("Kaṭṭhopamasutta", "&ldquo;the fire-stick simile "
+             "discourse&rdquo; &mdash; this discourse's own title, "
+             "naming its central teaching image"),
+        ("sukhavedaniyaṁ phassaṁ paṭicca", "&ldquo;dependent on "
+             "contact to be experienced as pleasant&rdquo; &mdash; "
+             "the specific, matching condition for the pleasure "
+             "faculty's own arising"),
+        ("&lsquo;sukhitosmī&rsquo;ti pajānāti", "&ldquo;one "
+             "understands, &lsquo;I'm in a state of pleasure&rsquo;"
+             "&rdquo; &mdash; the first-person recognition while the "
+             "faculty is present"),
+        ("dvinnaṁ kaṭṭhānaṁ saṅghaṭṭanasamodhānā usmā jāyati", "the "
+             "simile's own opening image: &ldquo;when you rub two "
+             "sticks together, heat is generated&rdquo;, ceasing "
+             "entirely once the sticks are parted"),
+        ("Navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's ninth "
+             "discourse, still without a vagga-closing formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-5 &mdash; each faculty's own dependent "
+              "arising and cessation", "sn48.39:1.1-5.3"),
+        ("p", "&sect;6-7 &mdash; the fire-stick simile", "sn48.39:6.1-7.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say each feeling faculty arises dependent on?",
+         "opts": ["Its own specific, matching type of contact — pleasure on pleasant contact, pain on painful contact, and so on", "A single undifferentiated contact shared by all five faculties", "The six sense faculties, treated as the cause of all feeling", "Nothing; the faculties are said to arise without any condition"],
+         "correct": 0,
+         "expl": "Each faculty paired one-to-one with its own generating contact."},
+        {"q": "What does the fire-stick simile illustrate?",
+         "opts": ["A feeling faculty has no independent existence apart from its own generating contact, exactly as heat has none apart from friction", "That two different faculties can arise from the same contact simultaneously", "That mendicants should literally practice fire-making as a meditation", "That the faculties are eternal and never actually cease"],
+         "correct": 0,
+         "expl": "Heat exists only as long as the sticks are rubbed together; the faculty exists only as long as its own contact continues."},
+        {"q": "What threefold pattern does this discourse trace for each faculty?",
+         "opts": ["Arising dependent on its own contact, recognition while present, and understood cessation when that contact ceases", "A denial that the faculty exists, followed by two contradictions", "The fivefold lens of origin, disappearance, gratification, drawback, and escape", "A comparison to the classic arahant formula"],
+         "correct": 0,
+         "expl": "A close, first-person watching of dependent arising and passing as it happens."},
+    ],
+    marginalia=[
+        ("A faculty, matched to its own contact", [
+            "not one condition for all five —",
+            "each faculty paired with its own cause"
+        ]),
+        ("Present, then understood to pass", [
+            "\"I'm in a state of pleasure\" — then it's gone —",
+            "watched arising and watched ceasing, both"
+        ]),
+        ("Two sticks, rubbed and parted", [
+            "heat while the friction continues —",
+            "nothing once the sticks are laid aside"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "a vivid simile, not yet the vagga's own close —",
+            "more of Sukhindriyavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.38.html\">SN 48.38 &middot; Analysis "
+        "(3rd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
