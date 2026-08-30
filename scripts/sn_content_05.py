@@ -38538,3 +38538,154 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.35 — Dutiyasamaṇabrāhmaṇasutta
+# Mirrors SN 48.30's own fourfold structure (understanding, origin,
+# cessation, path) applied faculty by faculty, now for the five
+# feeling faculties. Critically, this discourse's own source carries
+# NO vagga-closing colophon or uddāna (only "Pañcamaṁ," "the fifth")
+# — confirming, by direct reading rather than assumption, that
+# Sukhindriyavagga does NOT close at five discourses the way
+# Chaḷindriyavagga closed at ten.
+# --------------------------------------------------------------------------- #
+page(
+    48, 35, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.35 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta — the same criterion as SN "
+        "48.34, now applied to each of the five feeling faculties "
+        "individually. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A contrastive statement, repeating the same "
+                 "fourfold structure for each of the five faculties "
+                 "in turn"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; mirrors SN 48.30's own fourfold "
+                         "structure, but carries NO vagga-closing "
+                         "colophon or uddāna, confirming this vagga "
+                         "does not close at five discourses the way "
+                         "Chaḷindriyavagga closed at ten"),
+    ],
+    why=(
+        "This discourse mirrors this project's own SN 48.30 closely "
+        "&mdash; the same fourfold structure (understanding, origin, "
+        "cessation, and the practice leading to cessation) applied "
+        "to each of the five feeling faculties individually &mdash; "
+        "but its own source carries no vagga-closing colophon or "
+        "uddāna, only the bare marker &ldquo;Pañcamaṁ&rdquo; "
+        "(&ldquo;the fifth&rdquo;), confirming by direct reading that "
+        "Sukhindriyavagga continues past this discourse rather than "
+        "closing here the way Chaḷindriyavagga closed at ten."
+    ),
+    guide=[
+        ("The same fourfold structure as SN 48.30", [
+            "Confirmed by direct reading, this discourse repeats SN "
+            "48.30's own itemized structure exactly: rather than "
+            "bundling the five feeling faculties as SN 48.34 did, it "
+            "applies the fourfold judgment (understanding a faculty, "
+            "its origin, its cessation, and the practice leading to "
+            "its cessation) to each of the five faculties in turn "
+            "&mdash; pleasure, pain, happiness, sadness, and "
+            "equanimity.",
+        ]),
+        ("No vagga-closing colophon here, unlike SN 48.30", [
+            "Confirmed by direct reading of this discourse's own "
+            "source, there is no vagga-closing formula here matching "
+            "SN 48.30's own &ldquo;Chaḷindriyavaggo tatiyo&rdquo; and "
+            "its uddāna verse &mdash; only the bare ordinal marker "
+            "&ldquo;Pañcamaṁ&rdquo; (&ldquo;the fifth&rdquo;). This "
+            "project's own honest reading concludes Sukhindriyavagga "
+            "does NOT close at five discourses; more of this vagga's "
+            "own discourses remain to be read fresh, without "
+            "assuming they will match Chaḷindriyavagga's own length "
+            "or further structure.",
+        ]),
+        ("Confirming a decision made rather than assumed", [
+            "This project's own methodological note: this discourse "
+            "vindicates the deliberate choice, stated explicitly at "
+            "SN 48.34's own reading guide, not to assume this "
+            "vagga's sequence would match Vagga 3's own length "
+            "&mdash; the close tracking of discourse TYPES (plain, "
+            "stream-enterer, arahant, ascetics-and-brahmins) did not "
+            "extend to a matching total COUNT of discourses.",
+        ]),
+    ],
+    terms=[
+        ("Sukhindriyavagga", "&ldquo;the vagga of the pleasure "
+             "faculty&rdquo; &mdash; this vagga's own name, now "
+             "confirmed to continue past its own fifth discourse"),
+        ("sukhindriyaṁ, sukhindriyasamudayaṁ, sukhindriyanirodhaṁ, "
+             "sukhindriyanirodhagāminiṁ paṭipadaṁ", "&ldquo;the "
+             "faculty of pleasure, its origin, its cessation, and "
+             "the practice leading to its cessation&rdquo; &mdash; "
+             "the fourfold structure applied to each of the five "
+             "faculties in turn"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own bare closing marker, notably NOT "
+             "accompanied by a vagga-closing colophon or uddāna"),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā", "&ldquo;the goal of "
+             "life as an ascetic or brahmin&rdquo; &mdash; what "
+             "genuine understanding of each faculty allows one to "
+             "realize"),
+        ("Dutiyasamaṇabrāhmaṇasutta", "this discourse's own Pāli "
+             "title, &ldquo;the second ascetics-and-brahmins "
+             "discourse&rdquo; &mdash; matching SN 48.30's own title "
+             "exactly, for the previous vagga's own corresponding "
+             "closing pair"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.35:1.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure compare to SN 48.30's?",
+         "opts": ["It is nearly identical — the same fourfold structure applied to each faculty individually, now for the five feeling faculties", "It abandons the fourfold structure for the fivefold lens instead", "It bundles all five faculties as a single unit, unlike SN 48.30", "It has no relationship to SN 48.30 at all"],
+         "correct": 0,
+         "expl": "A close structural mirror, applied to a different faculty set."},
+        {"q": "What does this project's own reading guide conclude about this discourse's own closing marker?",
+         "opts": ["Unlike SN 48.30, there is no vagga-closing colophon or uddāna here — Sukhindriyavagga continues past this discourse", "It closes Sukhindriyavagga exactly as SN 48.30 closed Chaḷindriyavagga", "It marks the end of the entire saṃyutta", "It signals a return to the five spiritual faculties"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — only the bare marker \"Pañcamaṁ,\" the fifth, with no colophon or uddāna."},
+        {"q": "What methodological point does this discourse's own structure confirm?",
+         "opts": ["The decision not to assume this vagga's length matches Vagga 3's was correct — discourse types tracked closely, but not the total count", "That every vagga in this saṃyutta must contain exactly ten discourses", "That this vagga was mistakenly started and should be abandoned", "That no further discourses remain in this saṃyutta"],
+         "correct": 0,
+         "expl": "A deliberate methodological choice, now vindicated by this discourse's own source."},
+    ],
+    marginalia=[
+        ("The same shape as SN 48.30", [
+            "four terms, repeated five times over —",
+            "understanding, origin, cessation, path"
+        ]),
+        ("No closing marker here", [
+            "only \"the fifth,\" nothing more —",
+            "this vagga's own survey not yet done"
+        ]),
+        ("A choice confirmed, not assumed", [
+            "types matched closely, the count did not —",
+            "read fresh, proven right by this discourse"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "brief as the vagga's own count so far —",
+            "more of Sukhindriyavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.34.html\">SN 48.34 &middot; Ascetics and "
+        "Brahmins (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
