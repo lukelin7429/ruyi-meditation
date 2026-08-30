@@ -37824,3 +37824,166 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.30 — Dutiyasamaṇabrāhmaṇasutta
+# Closes 3. Chaḷindriyavagga (SN 48.21-30), with its own colophon and
+# uddāna naming all ten discourses of the vagga. Confirmed by direct
+# reading: the uddāna's own eight items bundle SN 48.22+48.23 into a
+# single compound word ("jīvitaññāya") and SN 48.29+48.30 into an
+# explicit pair ("dve ca samaṇabrāhmaṇā," "the two ascetics-and-
+# brahmins [discourses]") — together accounting for all ten discourses
+# this project has translated, matching its own tracked sequence
+# exactly. This discourse also uses a genuinely different fourfold
+# lens (understanding, origin, cessation, the path to cessation) than
+# SN 48.29's own fivefold one, applied faculty by faculty rather than
+# to the six faculties bundled as one unit.
+# --------------------------------------------------------------------------- #
+page(
+    48, 30, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.30 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta, closing Chaḷindriyavagga — "
+        "the same criterion as SN 48.29, now applied to each of the "
+        "six sense faculties individually through a fourfold "
+        "understanding/origin/cessation/path structure. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A contrastive statement, repeating the same "
+                 "fourfold structure for each of the six faculties in "
+                 "turn, closing with this vagga's own colophon and "
+                 "uddāna"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Chaḷindriyavagga, confirmed "
+                         "exactly by its own uddāna against this "
+                         "project's own already-translated ten "
+                         "discourses"),
+    ],
+    why=(
+        "This discourse closes Chaḷindriyavagga, pairing directly "
+        "with SN 48.29 as its own explicit &ldquo;second&rdquo; "
+        "installment &mdash; but where SN 48.29 applied a fivefold "
+        "lens to the six faculties bundled as one unit, this "
+        "discourse applies a genuinely different fourfold structure "
+        "(understanding, origin, cessation, and the practice leading "
+        "to cessation &mdash; the shape of the four noble truths) to "
+        "each of the six faculties individually, one at a time."
+    ),
+    guide=[
+        ("A different lens than SN 48.29's own", [
+            "Confirmed by direct reading, this discourse's own "
+            "analytical structure genuinely differs from SN 48.29: "
+            "rather than the fivefold lens (origin, disappearance, "
+            "gratification, drawback, escape) already met five times "
+            "in this vagga, this discourse uses a fourfold structure "
+            "&mdash; understanding a faculty, its origin, its "
+            "cessation (nirodha, a stronger term than "
+            "&ldquo;disappearance&rdquo;), and the practice leading "
+            "to its cessation &mdash; the same shape as the four "
+            "noble truths, applied to each of the six faculties in "
+            "turn rather than to all six bundled together.",
+        ]),
+        ("The vagga's own closing colophon and uddāna, confirmed exactly", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing colophon &mdash; &ldquo;Chaḷindriyavaggo "
+            "tatiyo&rdquo; (&ldquo;Chaḷindriyavagga, the third [vagga "
+            "of this saṃyutta], is finished&rdquo;) &mdash; and its "
+            "own uddāna verse account for all ten discourses this "
+            "project has translated in this vagga: the uddāna's "
+            "eight items bundle SN 48.22 and 48.23 into a single "
+            "compound word (&ldquo;jīvitaññāya&rdquo;) and explicitly "
+            "name SN 48.29 and this discourse as a pair (&ldquo;dve "
+            "ca samaṇabrāhmaṇā,&rdquo; &ldquo;the two ascetics-and-"
+            "brahmins [discourses]&rdquo;) &mdash; together matching "
+            "this project's own tracked sequence of all ten "
+            "discourses exactly.",
+        ]),
+        ("From bundled treatment to itemized repetition", [
+            "This project's own direct comparison: SN 48.29 treated "
+            "the six sense faculties as a single bundled unit judged "
+            "by one criterion; this discourse instead repeats the "
+            "identical fourfold judgment separately for each of the "
+            "six faculties (eye, ear, nose, tongue, body, mind) in "
+            "turn, a more granular, itemized elaboration of the same "
+            "underlying concern &mdash; who deserves to be called a "
+            "true ascetic or brahmin.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavaggo tatiyo", "&ldquo;the third vagga, "
+             "Chaḷindriyavagga, is finished&rdquo; &mdash; the Pāli "
+             "root's own closing colophon"),
+        ("cakkhundriyaṁ, cakkhundriyasamudayaṁ, "
+             "cakkhundriyanirodhaṁ, cakkhundriyanirodhagāminiṁ "
+             "paṭipadaṁ", "&ldquo;the eye faculty, its origin, its "
+             "cessation, and the practice leading to its "
+             "cessation&rdquo; &mdash; the fourfold structure applied "
+             "to each of the six faculties in turn"),
+        ("nirodha", "&ldquo;cessation&rdquo; &mdash; a stronger term "
+             "than the &ldquo;disappearance&rdquo; (atthaṅgama) used "
+             "in this vagga's own earlier fivefold-lens discourses"),
+        ("dve ca samaṇabrāhmaṇāti", "&ldquo;and the two ascetics-and-"
+             "brahmins [discourses]&rdquo; &mdash; the uddāna's own "
+             "explicit confirmation that SN 48.29 and this discourse "
+             "form a pair"),
+        ("Punabbhavo jīvitaññāya, ekabījī ca suddhakaṁ; Soto "
+             "arahasambuddho, dve ca samaṇabrāhmaṇāti", "the closing "
+             "uddāna, confirmed to match this project's own SN "
+             "48.21-30 exactly, item for item"),
+    ],
+    text_intro=("The complete discourse. This vagga's own closing "
+        "colophon and uddāna are described, not translated, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.30:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own analytical structure differ from SN 48.29's own?",
+         "opts": ["It uses a fourfold structure (understanding, origin, cessation, path) applied to each faculty individually, not the fivefold lens applied to all six bundled together", "It is identical to SN 48.29 in every respect", "It abandons the six sense faculties for the five spiritual ones", "It denies that ascetics and brahmins can be judged by any criterion"],
+         "correct": 0,
+         "expl": "A genuinely different, more granular structure — the shape of the four noble truths, applied faculty by faculty."},
+        {"q": "What does this discourse's own uddāna confirm?",
+         "opts": ["This project's own tracking of all ten discourses in this vagga, including an explicit pairing of the two \"ascetics and brahmins\" discourses", "That this vagga actually contains only five discourses", "That a new saṃyutta begins immediately afterward", "Nothing; the uddāna is left entirely untranslated"],
+         "correct": 0,
+         "expl": "The uddāna's eight items bundle SN 48.22-23 and explicitly pair SN 48.29-30, together matching all ten discourses exactly."},
+        {"q": "What does this discourse's own colophon confirm?",
+         "opts": ["That Chaḷindriyavagga, the third vagga of this saṃyutta, is finished", "That this is the first vagga of the saṃyutta", "That the entire saṃyutta (Indriyasaṃyutta) is now complete", "That this discourse belongs to a different saṃyutta entirely"],
+         "correct": 0,
+         "expl": "\"Chaḷindriyavaggo tatiyo\" — confirming this closes the third vagga, with more of SN 48 still ahead."},
+    ],
+    marginalia=[
+        ("A different shape than before", [
+            "not five terms bundled as one —",
+            "four terms, repeated six times over"
+        ]),
+        ("The uddāna, confirmed exactly", [
+            "eight items holding all ten discourses —",
+            "this project's own sequence, matched"
+        ]),
+        ("Bundled once, now itemized", [
+            "SN 48.29 judged the six as one —",
+            "this discourse judges each in turn"
+        ]),
+        ("Tenth discourse, vagga complete", [
+            "Chaḷindriyavaggo tatiyo — the third vagga finished —",
+            "SN 48.31 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.29.html\">SN 48.29 &middot; Ascetics and "
+        "Brahmins (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
