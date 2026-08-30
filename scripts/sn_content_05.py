@@ -25732,3 +25732,147 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.2 — Satisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 2, "Sati", "Mindful",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.2 — Mindful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Satisutta — defining what it means for a mendicant to "
+        "be \"mindful and aware,\" pairing the fourfold mindfulness "
+        "formula with a separate definition of situational awareness. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ambapālī's mango grove, near Vesālī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single short discourse, defining two paired "
+                 "terms in turn"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short and direct, defining two commonly "
+                       "paired terms"),
+    ],
+    why=(
+        "The Buddha's own instruction, &ldquo;a mendicant should live "
+        "mindful and aware,&rdquo; is unpacked here into its two "
+        "component terms: mindfulness (sati), defined by the same "
+        "fourfold formula already met at SN 47.1, and situational "
+        "awareness (sampajañña), defined separately through a list of "
+        "everyday bodily activities &mdash; confirming these two "
+        "commonly paired qualities are, in this discourse's own "
+        "structure, genuinely distinct."
+    ),
+    guide=[
+        ("Mindful -- defined by the fourfold formula", [
+            "The discourse first asks &ldquo;how is a mendicant "
+            "mindful?&rdquo; and answers with the identical fourfold "
+            "formula from SN 47.1 (observing the body, feelings, "
+            "mind, and principles), here elided in the Pāli root "
+            "after the body is spelled out in full &mdash; confirming "
+            "this project's own earlier reading that SN 47.1's "
+            "formula is the shared foundation every later discourse "
+            "assumes rather than restates.",
+        ]),
+        ("Aware -- defined by everyday situational clarity", [
+            "The discourse then asks &ldquo;how is a mendicant "
+            "aware?&rdquo; and answers with a DIFFERENT kind of list "
+            "entirely: acting with full clarity while going and "
+            "coming, looking ahead and aside, bending and extending "
+            "the limbs, carrying robe and bowl, eating and drinking, "
+            "using the toilet, and while walking, standing, sitting, "
+            "sleeping, waking, speaking, and staying silent &mdash; "
+            "confirming &ldquo;awareness&rdquo; (sampajañña) in this "
+            "discourse's own usage names ordinary bodily clarity "
+            "during daily activity, not a synonym for mindfulness "
+            "itself.",
+        ]),
+        ("The same instruction, opening and closing", [
+            "The discourse's own instruction &mdash; &ldquo;a "
+            "mendicant should live mindful and aware; this is my "
+            "instruction to you&rdquo; &mdash; is confirmed by direct "
+            "reading to bookend both halves of the discourse "
+            "identically, framing the two definitions that follow as "
+            "elaborations of one single teaching rather than two "
+            "separate ones.",
+        ]),
+    ],
+    terms=[
+        ("sato... sampajāno", "&ldquo;mindful... and aware&rdquo; "
+             "&mdash; the paired instruction this discourse exists "
+             "to define, term by term"),
+        ("kāye kāyānupassī viharati... dhammesu dhammānupassī "
+             "viharati", "the fourfold mindfulness formula, "
+             "identical to SN 47.1's own, here elided in the Pāli "
+             "root after the body is spelled out"),
+        ("abhikkante paṭikkante sampajānakārī hoti", "&ldquo;acts "
+             "with situational awareness when going out and coming "
+             "back&rdquo; &mdash; the first of many everyday "
+             "activities named in this discourse's own definition of "
+             "awareness"),
+        ("gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve",
+             "&ldquo;walking, standing, sitting, sleeping, waking, "
+             "speaking, and keeping silent&rdquo; &mdash; the closing "
+             "items in this discourse's own list of everyday "
+             "activities requiring situational awareness"),
+        ("ayaṁ vo amhākaṁ anusāsanī", "&ldquo;this is my instruction "
+             "to you&rdquo; &mdash; the shared closing line bookending "
+             "both the mindfulness and awareness definitions"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; setting", "sn47.2:1.1-1.5"),
+        ("p", "&sect;2 &mdash; defining \"mindful\"",
+             "sn47.2:2.1-2.8"),
+        ("p", "&sect;3 &mdash; defining \"aware\"",
+             "sn47.2:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define what it means for a mendicant to be \"mindful\"?",
+         "opts": ["By the same fourfold formula as SN 47.1: observing the body, feelings, mind, and principles", "By sitting perfectly still for extended periods", "By memorizing the entire discourse collection", "By avoiding all conversation permanently"],
+         "correct": 0,
+         "expl": "Confirming the fourfold formula from SN 47.1 is the shared foundation this saṃyutta's later discourses assume."},
+        {"q": "How does this discourse define what it means for a mendicant to be \"aware\" (sampajāno)?",
+         "opts": ["Through situational clarity during everyday bodily activities — going, looking, bending, eating, using the toilet, walking, and more", "Through the identical fourfold mindfulness formula, making it a synonym for \"mindful\"", "Through the ability to predict the future", "Through advanced philosophical debate"], "correct": 0,
+         "expl": "Confirming \"mindful\" and \"aware\" are genuinely distinct qualities in this discourse's own structure, not synonyms."},
+        {"q": "What instruction bookends both halves of this discourse?",
+         "opts": ["\"A mendicant should live mindful and aware; this is my instruction to you\"", "\"Meditate in complete isolation from all other mendicants\"", "\"Study only the Vinaya and no other texts\"", "\"Speak only in the presence of senior monks\""],
+         "correct": 0,
+         "expl": "Framing the two definitions that follow as elaborations of one single teaching."},
+    ],
+    marginalia=[
+        ("Two terms, two separate answers", [
+            "\"mindful\" gets the fourfold formula —",
+            "\"aware\" gets a list of daily activities instead"
+        ]),
+        ("Bending a limb, eating a meal", [
+            "situational clarity in the most ordinary acts —",
+            "not a synonym for mindfulness itself"
+        ]),
+        ("One instruction, opening and closing", [
+            "\"this is my instruction to you\" —",
+            "framing both halves as a single teaching"
+        ]),
+        ("The fourfold formula, already assumed", [
+            "elided here after the body alone is spelled out —",
+            "SN 47.1's own foundation, now taken for granted"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.1.html\">SN 47.1 &middot; In Ambapālī's "
+        "Mango Grove</a> &mdash; the previous discourse, giving the "
+        "fourfold formula this discourse assumes.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
