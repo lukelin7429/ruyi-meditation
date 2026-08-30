@@ -38402,3 +38402,139 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.34 — Paṭhamasamaṇabrāhmaṇasutta
+# Mirrors SN 48.29 (Vagga 3's own first "ascetics and brahmins"
+# discourse), now applied to the five feeling faculties. This vagga's
+# own discourse sequence so far (Suddhika, Sotāpanna, Arahanta, now
+# this) tracks SN 48.25-29's own sequence closely, though this project
+# declines to assume the sequences match exactly going forward.
+# --------------------------------------------------------------------------- #
+page(
+    48, 34, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins (1st)",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.34 — Ascetics and Brahmins (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamaṇabrāhmaṇasutta — the Buddha's own criterion "
+        "for a true ascetic or brahmin, now applied to the five "
+        "feeling faculties. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A contrastive statement, denying and then "
+                 "affirming the title \"true ascetic or brahmin\" by "
+                 "a single criterion"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; mirrors SN 48.29's own criterion, "
+                         "now for the five feeling faculties, "
+                         "continuing this vagga's own close tracking "
+                         "of Vagga 3's discourse sequence"),
+    ],
+    why=(
+        "This discourse mirrors this project's own SN 48.29 almost "
+        "word for word: the Buddha's own criterion for who deserves "
+        "to be called a true ascetic or brahmin, now applied to the "
+        "five feeling faculties rather than the six sense faculties "
+        "&mdash; continuing this vagga's own close tracking of Vagga "
+        "3's discourse sequence, discourse type by discourse type."
+    ),
+    guide=[
+        ("A direct echo of SN 48.29, faculty set aside", [
+            "Confirmed by direct reading, this discourse's own text "
+            "is nearly identical to SN 48.29: the same criterion, "
+            "the same contrastive structure denying and then "
+            "affirming the title of true ascetic or brahmin, applied "
+            "here to the five feeling faculties instead of the six "
+            "sense faculties.",
+        ]),
+        ("This vagga's own sequence, tracking Vagga 3's closely", [
+            "This project's own running observation: this vagga's "
+            "own discourse types so far &mdash; plain listing "
+            "(48.31), stream-enterer (48.32), arahant (48.33), and "
+            "now ascetics-and-brahmins (48.34) &mdash; track Vagga "
+            "3's own sequence (SN 48.25-29) closely, category for "
+            "category. This project continues to read each "
+            "discourse fresh rather than assume the parallel holds "
+            "exactly for what remains.",
+        ]),
+        ("Marked \"(1st)\" again, expecting a paired continuation", [
+            "Confirmed by direct reading, this discourse's own title "
+            "again explicitly marks it &ldquo;(1st),&rdquo; matching "
+            "SN 48.29's own pattern and signaling a paired "
+            "&ldquo;(2nd)&rdquo; discourse next &mdash; which this "
+            "project will read fresh rather than assume mirrors SN "
+            "48.30 in every detail.",
+        ]),
+    ],
+    terms=[
+        ("Sukhindriyavagga", "&ldquo;the vagga of the pleasure "
+             "faculty&rdquo; &mdash; this discourse continues the "
+             "five feeling faculties named at SN 48.31-33"),
+        ("samaṇā vā brāhmaṇā", "&ldquo;ascetics or brahmins&rdquo; "
+             "&mdash; the category this discourse's own criterion "
+             "judges, identical to SN 48.29's own category"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "same fivefold lens recurring throughout this saṃyutta"),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā", "&ldquo;the goal of "
+             "life as an ascetic or brahmin&rdquo; &mdash; what "
+             "genuine understanding of the five faculties allows one "
+             "to realize"),
+        ("Catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fourth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.34:1.1-2.2"),
+    ],
+    quiz=[
+        {"q": "Which earlier discourse does this one closely mirror?",
+         "opts": ["SN 48.29, the first ascetics-and-brahmins discourse for the six sense faculties", "SN 48.20, closing Mudutaravagga", "SN 48.1, opening the entire saṃyutta", "SN 48.24, the graduated hierarchy of noble persons"],
+         "correct": 0,
+         "expl": "The same criterion and structure, now for the five feeling faculties."},
+        {"q": "How does this project's own reading guide characterize this vagga's own sequence so far?",
+         "opts": ["It tracks Vagga 3's own sequence closely, category by category, though each discourse is still read fresh", "It bears no resemblance to Vagga 3 at all", "It is identical to Vagga 3 in every single word", "It abandons the five feeling faculties partway through"],
+         "correct": 0,
+         "expl": "A close but not assumed parallel, confirmed discourse by discourse rather than guessed in advance."},
+        {"q": "What does this discourse's own title signal, as SN 48.29's did before it?",
+         "opts": ["A paired \"(2nd)\" discourse to follow, which this project will read fresh rather than assume mirrors SN 48.30 exactly", "That this is the vagga's own final discourse", "That the five feeling faculties are now abandoned", "Nothing — the title carries no such signal"],
+         "correct": 0,
+         "expl": "Consistent with this project's own established practice of confirming rather than assuming."},
+    ],
+    marginalia=[
+        ("An echo of SN 48.29", [
+            "the same criterion, spoken again —",
+            "now for pleasure, pain, and three more"
+        ]),
+        ("A sequence tracking closely", [
+            "plain, stream-enterer, arahant, and this —",
+            "matching Vagga 3's own order so far"
+        ]),
+        ("Marked \"first\" once more", [
+            "paṭhama — a second still expected —",
+            "its own content not yet guessed at"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "brief as the others before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.33.html\">SN 48.33 &middot; A Perfected "
+        "One</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
