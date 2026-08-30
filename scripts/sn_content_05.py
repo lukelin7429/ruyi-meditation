@@ -39902,3 +39902,156 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.44 — Pubbakoṭṭhakasutta
+# Sāriputta explicitly declines to rely on faith in the Buddha's own
+# claim, asserting instead his own direct personal verification. The
+# "deathless" (amata) formula closing this discourse directly echoes
+# the "nibbāna" formula already met at SN 48.42 — the same conceptual
+# shape (grounded in X, X as destination, X as culmination), a
+# different key term for the same final goal.
+# --------------------------------------------------------------------------- #
+page(
+    48, 44, "Pubbakoṭṭhaka", "At the Eastern Gate",
+    vagga="Jarāvagga",
+    meta_title="SN 48.44 — At the Eastern Gate | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pubbakoṭṭhakasutta — Sāriputta declines to rely on "
+        "faith in the Buddha's own claim, asserting instead his own "
+        "direct knowledge that developing the five faculties leads "
+        "to the deathless. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, at the eastern gate"),
+        ("Speakers", "The Buddha, questioning Venerable Sāriputta; "
+                     "Sāriputta, answering with his own direct "
+                     "realization rather than faith"),
+        ("Form", "A pointed question and a remarkable, considered "
+                 "answer, confirmed by the Buddha"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; Sāriputta explicitly declines to "
+                         "rely on faith even in the Buddha's own "
+                         "presence, and this discourse's own closing "
+                         "formula directly echoes the nibbāna formula "
+                         "already met at SN 48.42"),
+    ],
+    why=(
+        "This discourse records a remarkable moment: when the Buddha "
+        "asks Sāriputta whether he has FAITH that developing the "
+        "five spiritual faculties leads to the deathless, Sāriputta "
+        "explicitly declines that framing &mdash; he does not rely "
+        "on faith in the Buddha's own claim, but on his own direct "
+        "knowledge, seeing, understanding, realization, and "
+        "experience of it with wisdom, leaving him without doubt or "
+        "uncertainty."
+    ),
+    guide=[
+        ("Declining faith, asserting direct knowledge", [
+            "Confirmed by direct reading, Sāriputta's own answer "
+            "draws a sharp distinction: those who have not "
+            "personally known, seen, understood, realized, and "
+            "experienced this truth with wisdom &ldquo;may rely on "
+            "faith in this matter&rdquo;; but Sāriputta himself has "
+            "directly verified it and therefore has &ldquo;no doubts "
+            "or uncertainties&rdquo; &mdash; he explicitly does not "
+            "answer &ldquo;yes, I have faith,&rdquo; even when asked "
+            "by the Buddha himself.",
+        ]),
+        ("The Buddha's own approval of this distinction", [
+            "Confirmed by direct reading, the Buddha responds "
+            "&ldquo;Good, good, Sāriputta!&rdquo; and repeats "
+            "Sāriputta's own distinction back almost verbatim "
+            "&mdash; confirming that faith remains valid for those "
+            "who have not yet directly realized the truth, while "
+            "direct knowledge supersedes the need for faith once "
+            "that realization has occurred.",
+        ]),
+        ("A direct echo of SN 48.42's own nibbāna formula", [
+            "Confirmed by direct comparison, this discourse's own "
+            "closing formula &mdash; &ldquo;amatogadhaṁ "
+            "amataparāyaṇaṁ amatapariyosānaṁ&rdquo; (&ldquo;grounded "
+            "in the deathless, the deathless as destination, the "
+            "deathless as culmination&rdquo;) &mdash; shares the "
+            "identical grammatical shape with SN 48.42's own "
+            "&ldquo;nibbānogadhaṁ &hellip; nibbānaparāyaṇaṁ "
+            "nibbānapariyosānaṁ&rdquo; formula, using &ldquo;amata"
+            "&rdquo; (the deathless) in place of &ldquo;nibbāna"
+            "&rdquo; (extinguishment) for what this project's own "
+            "reading takes to be the same final goal, named two "
+            "ways.",
+        ]),
+    ],
+    terms=[
+        ("saddahasi", "&ldquo;do you have faith&rdquo; &mdash; the "
+             "Buddha's own opening question, which Sāriputta's own "
+             "answer explicitly redirects"),
+        ("na khvāhaṁ &hellip; saddhāya gacchāmi", "&ldquo;I don't "
+             "rely on faith&rdquo; &mdash; Sāriputta's own remarkable "
+             "declaration, even in the Buddha's own presence"),
+        ("ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya", "the "
+             "fivefold formula for direct verification: "
+             "&ldquo;known, seen, understood, realized, and "
+             "experienced with wisdom&rdquo;"),
+        ("amatogadhaṁ amataparāyaṇaṁ amatapariyosānaṁ", "&ldquo;"
+             "grounded in the deathless, the deathless as "
+             "destination, the deathless as culmination&rdquo; "
+             "&mdash; directly echoing SN 48.42's own nibbāna "
+             "formula"),
+        ("Catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fourth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own question", "sn48.44:1.1-1.5"),
+        ("p", "&sect;2 &mdash; Sāriputta's own answer", "sn48.44:2.1-2.8"),
+        ("p", "&sect;3 &mdash; the Buddha's own approval", "sn48.44:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta answer the Buddha's own question about faith?",
+         "opts": ["He explicitly declines to rely on faith, asserting his own direct knowledge and realization instead", "He simply says \"yes, I have faith\" without elaboration", "He refuses to answer the question at all", "He claims that faith and direct knowledge are exactly the same thing"],
+         "correct": 0,
+         "expl": "A remarkable distinction, drawn even in the Buddha's own presence."},
+        {"q": "What distinction does Sāriputta's own answer draw?",
+         "opts": ["Those without direct realization may rely on faith; those with direct realization, like himself, have no need of it", "That faith is always superior to direct knowledge", "That only the Buddha himself is capable of direct realization", "That faith and doubt are the same mental state"],
+         "correct": 0,
+         "expl": "Confirmed and repeated back by the Buddha's own approval."},
+        {"q": "What does this discourse's own closing formula share with SN 48.42?",
+         "opts": ["The identical grammatical shape — grounded in X, X as destination, X as culmination — using \"the deathless\" here and \"nibbāna\" there", "Nothing; the two discourses are entirely unrelated", "The same setting, Sāketa", "A denial that either the deathless or nibbāna actually exist"],
+         "correct": 0,
+         "expl": "The same conceptual shape, two names for the same final goal."},
+    ],
+    marginalia=[
+        ("A question redirected", [
+            "not \"yes,\" but a distinction drawn instead —",
+            "faith for some, direct knowledge for himself"
+        ]),
+        ("Even before the Buddha", [
+            "Sāriputta declines to simply agree —",
+            "his own verification stands on its own"
+        ]),
+        ("\"Good, good, Sāriputta\"", [
+            "the Buddha confirms the distinction —",
+            "faith and direct knowledge, each in its place"
+        ]),
+        ("The deathless, echoing nibbāna", [
+            "grounded in, destined for, ending in —",
+            "the same shape as SN 48.42's own formula"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.43.html\">SN 48.43 &middot; At Sāketa</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
