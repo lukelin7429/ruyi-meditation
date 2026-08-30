@@ -27111,3 +27111,145 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 2. Nāḷandavagga — At Nāḷandā (Vagga 2 of Book VII, Satipaṭṭhānasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 47.11 — Mahāpurisasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 11, "Mahāpurisa", "A Great Man",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.11 — A Great Man | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahāpurisasutta — Sāriputta asks how \"a great man\" is "
+        "defined, and the Buddha redefines the term entirely around "
+        "a freed mind, developed through the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Sāriputta and the Buddha"),
+        ("Form", "A single question and answer, opening this "
+                 "saṃyutta's own second vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short and direct, redefining a familiar term"),
+    ],
+    why=(
+        "Sāriputta asks how the term &ldquo;a great man&rdquo; "
+        "(mahāpurisa) &mdash; likely already circulating with other, "
+        "more conventional associations of status or physical "
+        "marks &mdash; is actually defined. The Buddha's own answer "
+        "sets aside any such association entirely: greatness is "
+        "measured solely by whether the mind is freed, and that "
+        "freedom is developed specifically through the four kinds of "
+        "mindfulness meditation."
+    ),
+    guide=[
+        ("A term redefined, not merely explained", [
+            "Confirmed by direct reading, Sāriputta's own question "
+            "(&ldquo;they speak of &lsquo;a great man&rsquo;... how "
+            "is a great man defined?&rdquo;) implies the term was "
+            "already in circulation with some existing sense; the "
+            "Buddha's own answer does not describe that existing "
+            "usage but replaces it outright with a single criterion: "
+            "&ldquo;someone whose mind is free is a great man, I "
+            "say.&rdquo;",
+        ]),
+        ("A binary criterion, stated twice for emphasis", [
+            "The Buddha's own answer is confirmed by direct reading "
+            "to state its criterion in strict binary form, both at "
+            "the start and the end of his reply: a freed mind makes "
+            "one a great man; an unfreed mind means one is not "
+            "&mdash; no intermediate category or partial greatness is "
+            "admitted.",
+        ]),
+        ("Freedom defined as dispassion arising from the fourfold practice", [
+            "&ldquo;A free mind&rdquo; is confirmed by direct reading "
+            "to be defined specifically as what arises FROM observing "
+            "the body, feelings, mind, and principles: &ldquo;their "
+            "mind becomes dispassionate, and is freed from the "
+            "defilements by not grasping&rdquo; &mdash; not a vague "
+            "aspiration but a stated causal outcome of the fourfold "
+            "practice.",
+        ]),
+    ],
+    terms=[
+        ("mahāpuriso", "&ldquo;a great man&rdquo; &mdash; the term "
+             "Sāriputta asks the Buddha to define, here redefined "
+             "around a freed mind rather than any conventional "
+             "association"),
+        ("vimuttacittattā", "&ldquo;because the mind is free&rdquo; "
+             "&mdash; the Buddha's own single stated criterion for "
+             "greatness"),
+        ("cittaṁ virajjati, vimuccati anupādāya āsavehi", "&ldquo;the "
+             "mind becomes dispassionate, and is freed from the "
+             "defilements by not grasping&rdquo; &mdash; the specific "
+             "outcome of the fourfold mindfulness practice that "
+             "defines a freed mind"),
+        ("kāye kāyānupassī viharati... dhammesu dhammānupassī "
+             "viharati", "the fourfold mindfulness formula, "
+             "identical to SN 47.1's own, presented here as the "
+             "means to a freed mind"),
+        ("avimuttacittattā", "&ldquo;because the mind is not "
+             "free&rdquo; &mdash; the Buddha's own stated criterion "
+             "for NOT being a great man, stated symmetrically to the "
+             "positive criterion"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Sāriputta's own question",
+             "sn47.11:1.1-1.6"),
+        ("p", "&sect;2 &mdash; a freed mind, defined",
+             "sn47.11:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha define \"a great man\" in this discourse?",
+         "opts": ["Solely by whether the mind is free — someone with a free mind is a great man, someone without one is not", "By physical strength and stature", "By social status or family lineage", "By the number of disciples one has"],
+         "correct": 0,
+         "expl": "The Buddha replaces any existing conventional sense of the term with a single binary criterion."},
+        {"q": "How is \"a free mind\" specifically defined in this discourse?",
+         "opts": ["As dispassion and freedom from defilements arising from the fourfold mindfulness practice", "As the absence of all thought whatsoever", "As agreement with every teaching without question", "As physical relaxation during sleep"],
+         "correct": 0,
+         "expl": "A stated causal outcome of observing the body, feelings, mind, and principles — not a vague aspiration."},
+        {"q": "What structural feature does the Buddha's own answer share at both its start and its end?",
+         "opts": ["The identical binary criterion, stated twice for emphasis: a freed mind makes one great, an unfreed mind means one is not", "Two completely different definitions of greatness", "A question directed back at Sāriputta", "A list of physical marks of greatness"],
+         "correct": 0,
+         "expl": "No intermediate category or partial greatness is admitted in this discourse's own framing."},
+    ],
+    marginalia=[
+        ("A familiar term, redefined entirely", [
+            "\"a great man\" — already in circulation —",
+            "replaced outright with a single criterion"
+        ]),
+        ("Free or not free, no middle ground", [
+            "stated twice, at both start and end —",
+            "a strict binary, not a matter of degree"
+        ]),
+        ("Freedom traced to its own cause", [
+            "dispassion arising from the fourfold practice —",
+            "a stated outcome, not a vague aspiration"
+        ]),
+        ("This saṃyutta's own second vagga opens", [
+            "Nāḷandavagga, named for its own setting —",
+            "greatness redefined as its opening question"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.10.html\">SN 47.10 &middot; The Nuns' "
+        "Quarters</a> &mdash; the previous discourse, closing the "
+        "preceding vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
