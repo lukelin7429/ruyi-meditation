@@ -23676,3 +23676,179 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 9. Gaṅgāpeyyālavagga — Abbreviated Texts on the Ganges (SN 46.77-88)
+# Confirmed by direct bilara-data reading: this entire twelve-discourse
+# vagga is stored as a SINGLE merged file, giving only one explicit
+# example (the Ganges sloping east) before an explicit source
+# instruction -- in the English translation, "(Tell in full for each
+# of the different rivers as in SN 45.91-102)"; in the Pāli root,
+# "(Yāva esanā pāḷi vitthāretabbā)" ("to be elaborated in full,
+# following the Searches text"), left untranslated in the consulted
+# English source. This directly cross-references this project's own
+# already-completed Gaṅgāpeyyālavagga from the Maggasaṃyutta
+# (SN 45.91-102), confirmed by the closing uddāna's own "six sloping
+# east, six sloping to the ocean, these two sixes make twelve" to
+# share the identical structure: the Ganges, Yamunā, Aciravatī,
+# Sarabhū, and Mahī, each sloping first east then to the ocean, plus
+# two collective statements, using the single self-referential
+# "slants, slopes, and inclines to extinguishment" formula throughout
+# -- not the three-formula-set structure found in SN 45's own SECOND
+# Gaṅgā vagga (Dutiyagaṅgāpeyyālavagga). The vagga's own colophon
+# ("Gaṅgāpeyyālavaggo navamo," "the Gaṅgāpeyyāla chapter, the ninth")
+# is unambiguous, matching this project's own count.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.77-88 — Gaṅgānadīādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 77, 88, "Gaṅgānadīādi", "The Ganges River, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 46.77–88 — The Ganges River, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 46.77–88 — twelve discourses on five great rivers sloping "
+        "to the east and to the ocean, confirmed to mirror this "
+        "project's own already-completed Gaṅgāpeyyālavagga from the "
+        "Maggasaṃyutta, here applied to the seven awakening factors. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Twelve discourses compressed into a single "
+                 "bilara-data file, giving one explicit example "
+                 "before an explicit cross-reference instruction"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own written form, but "
+                       "structurally confirmed to represent twelve "
+                       "discourses"),
+    ],
+    why=(
+        "The Ganges river, sloping east, illustrates a mendicant who "
+        "develops the seven awakening factors and thereby "
+        "&ldquo;slants, slopes, and inclines to extinguishment&rdquo; "
+        "&mdash; the identical simile already met at SN 45.91 in this "
+        "book's own Maggasaṃyutta, here explicitly cross-referenced "
+        "by the source itself rather than rewritten, confirmed by the "
+        "closing uddāna to span twelve discourses across five great "
+        "rivers and two directions."
+    ),
+    guide=[
+        ("A direct cross-reference, not independent content", [
+            "Confirmed by direct reading, the source itself instructs "
+            "readers to &ldquo;tell in full for each of the different "
+            "rivers as in SN 45.91&ndash;102&rdquo; &mdash; this "
+            "project's own already-completed Gaṅgāpeyyālavagga from "
+            "the Maggasaṃyutta &mdash; rather than rewriting the full "
+            "river-by-river content again. The five great rivers "
+            "(Gaṅgā, Yamunā, Aciravatī, Sarabhū, Mahī), sloping first "
+            "east and then to the ocean, with two collective "
+            "statements closing each direction, are confirmed by the "
+            "closing uddāna's own explicit count (&ldquo;six sloping "
+            "east, six sloping to the ocean, these two sixes make "
+            "twelve&rdquo;) to structure this entire twelve-discourse "
+            "vagga identically to its own earlier counterpart.",
+        ]),
+        ("A single formula, not the later three-set structure", [
+            "Unlike SN 45's own SECOND Gaṅgā vagga "
+            "(Dutiyagaṅgāpeyyālavagga), which cycled through three "
+            "distinct closing formulas across three full repetitions "
+            "of the twelve-discourse pattern, this vagga uses only "
+            "the single self-referential &ldquo;slants, slopes, and "
+            "inclines to extinguishment&rdquo; formula throughout "
+            "&mdash; confirmed by direct reading to match the "
+            "simpler, single-formula structure of SN 45's own FIRST "
+            "Gaṅgā vagga rather than its own more elaborate second "
+            "installment.",
+        ]),
+        ("A colophon and uddāna, confirming this vagga's own position", [
+            "The Pāli root closes with &ldquo;Gaṅgāpeyyālavaggo "
+            "navamo&rdquo; (&ldquo;the Gaṅgāpeyyāla chapter, the "
+            "ninth&rdquo;), matching this project's own count without "
+            "discrepancy &mdash; and an editorial cross-reference note "
+            "(&ldquo;to be elaborated in full, following the Searches "
+            "text&rdquo;) left untranslated in the consulted English "
+            "source and described here rather than rendered as "
+            "invented translation.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines to "
+             "the east&rdquo; &mdash; the identical opening image "
+             "already met at SN 45.91, this book's own recurring "
+             "river simile"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;"
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the single formula used throughout this vagga, "
+             "distinct from SN 45's own later three-formula-set "
+             "structure"),
+        ("yathā... vitthāretabbaṁ", "&ldquo;tell in full... as"
+             "&rdquo; &mdash; the source's own explicit cross-reference "
+             "instruction, pointing to SN 45.91-102 rather than "
+             "repeating that content"),
+        ("gaṅgāpeyyālavaggo navamo", "&ldquo;the Gaṅgāpeyyāla "
+             "chapter, the ninth&rdquo; &mdash; unambiguous "
+             "confirmation of this vagga's own position, matching "
+             "this project's own count without discrepancy"),
+        ("cha pācīnato ninnā, cha ninnā ca samuddato", "&ldquo;six "
+             "sloping east, six sloping to the ocean&rdquo; &mdash; "
+             "the closing uddāna's own explicit count, confirming "
+             "this vagga's own twelve discourses"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.77-88:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does the source itself instruct, rather than rewriting the full river-by-river content?",
+         "opts": ["To tell the discourse in full for each river, following the pattern already established at SN 45.91–102", "To skip this vagga entirely", "To invent a completely new simile unrelated to rivers", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed Gaṅgāpeyyālavagga from the Maggasaṃyutta."},
+        {"q": "How does this vagga's own closing formula differ from SN 45's own second Gaṅgā vagga (Dutiyagaṅgāpeyyālavagga)?",
+         "opts": ["It uses only the single self-referential \"extinguishment\" formula, not the later three-formula-set structure", "It uses all three formula sets, exactly like the second Gaṅgā vagga", "It uses no closing formula of any kind", "It introduces a fourth, entirely new closing formula"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading to match the simpler structure of SN 45's own FIRST Gaṅgā vagga instead."},
+        {"q": "What does this vagga's own closing uddāna confirm about its own total discourse count?",
+         "opts": ["Twelve discourses — six sloping east, six sloping to the ocean", "Only one discourse, with no further elaboration implied", "Twenty-four discourses, double the expected count", "The uddāna gives no specific count"],
+         "correct": 0,
+         "expl": "Matching the identical structure already confirmed for SN 45.91-102."},
+    ],
+    marginalia=[
+        ("A direct cross-reference, not rewritten content", [
+            "\"tell in full as at SN 45.91–102\" —",
+            "this project's own earlier work, confirmed reused"
+        ]),
+        ("The simpler of two Gaṅgā patterns", [
+            "one formula throughout, not three sets —",
+            "matching the first Gaṅgā vagga, not the second"
+        ]),
+        ("Six and six make twelve, confirmed", [
+            "the closing uddāna's own explicit count —",
+            "five rivers, two directions, two collective statements"
+        ]),
+        ("A new peyyāla cycle begins", [
+            "Diligence, Hard Work, Searches, Floods still ahead —",
+            "each run through twice, mirroring SN 45's own structure"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.77-88/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.76.html\">SN 46.76 &middot; Cessation</a> "
+        "&mdash; the previous page, closing the preceding vagga.",
+        "<a href=\"sn-45.91.html\">SN 45.91 &middot; Slanting "
+        "East</a> &mdash; this project's own earlier treatment of "
+        "the identical river structure, applied there to the "
+        "eightfold path.",
+    ],
+)
