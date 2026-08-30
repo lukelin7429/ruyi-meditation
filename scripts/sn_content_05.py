@@ -28806,3 +28806,145 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.22 — Ciraṭṭhitisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 22, "Ciraṭṭhiti", "Long Lasting",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.22 — Long Lasting | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ciraṭṭhitisutta — Bhadda asks Ānanda why the true "
+        "teaching does or doesn't last long after the Realized One's "
+        "own final quenching, and Ānanda answers: it depends entirely "
+        "on whether the four kinds of mindfulness meditation are "
+        "developed and cultivated. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The Chicken Monastery, near Pāṭaliputta &mdash; "
+                     "the same setting as SN 47.21"),
+        ("Speakers", "Venerable Bhadda and Venerable Ānanda"),
+        ("Form", "A question and answer, continuing directly from "
+                 "SN 47.21"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; addresses the survival of the "
+                         "teaching itself after the Buddha's own "
+                         "death"),
+    ],
+    why=(
+        "Bhadda asks a question with high stakes: what determines "
+        "whether the true teaching survives, or fails to survive, "
+        "after the Realized One has passed away? Ānanda's own answer "
+        "is direct and unqualified: it is entirely a matter of "
+        "whether the four kinds of mindfulness meditation are "
+        "developed and cultivated &mdash; naming this single practice "
+        "as the deciding factor for the teaching's own long-term "
+        "survival."
+    ),
+    guide=[
+        ("A question of consequence, framed both ways at once", [
+            "Confirmed by direct reading, Bhadda's own question asks "
+            "for both the cause of failure AND the cause of success "
+            "in a single breath &mdash; &ldquo;what is the reason why "
+            "the true teaching does not last long... what is the "
+            "reason why the true teaching does last long&rdquo; "
+            "&mdash; setting up an answer that must address both "
+            "outcomes symmetrically.",
+        ]),
+        ("A single, unqualified answer for both outcomes", [
+            "Ānanda's own answer is confirmed by direct reading to "
+            "name a single deciding factor for both directions: the "
+            "ABSENCE of developing and cultivating the four kinds of "
+            "mindfulness meditation causes the teaching's own "
+            "decline, and its PRESENCE causes the teaching's own "
+            "long survival &mdash; not two separate causes, but one "
+            "practice whose presence or absence determines the "
+            "outcome either way.",
+        ]),
+        ("The same courteous opening as SN 47.21", [
+            "This discourse's own opening &mdash; Ānanda's identical "
+            "praise for Bhadda's question, restated word for word "
+            "&mdash; is confirmed by direct comparison to match "
+            "SN 47.21's own opening exactly, confirming this is a "
+            "direct continuation of the same conversation between the "
+            "same two mendicants.",
+        ]),
+    ],
+    terms=[
+        ("tathāgate parinibbute", "&ldquo;after the Realized One's "
+             "own final quenching&rdquo; &mdash; the temporal "
+             "condition this discourse's own question addresses"),
+        ("saddhammo na ciraṭṭhitiko hoti", "&ldquo;the true teaching "
+             "does not last long&rdquo; &mdash; the negative outcome "
+             "Bhadda asks about"),
+        ("catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā",
+             "&ldquo;because of not developing and cultivating the "
+             "four kinds of mindfulness meditation&rdquo; &mdash; "
+             "Ānanda's own stated cause for the teaching's own "
+             "decline"),
+        ("bhāvitattā bahulīkatattā", "&ldquo;because of developing "
+             "and cultivating&rdquo; &mdash; the identical practice, "
+             "now named as the cause of the teaching's own long "
+             "survival"),
+        ("saddhammo ciraṭṭhitiko hoti", "&ldquo;the true teaching "
+             "does last long&rdquo; &mdash; the positive outcome, "
+             "attributed to the same single practice"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Bhadda's own question",
+             "sn47.22:1.1-1.4"),
+        ("p", "&sect;2 &mdash; Ānanda's own answer",
+             "sn47.22:2.1-2.8"),
+        ("p", "&sect;3 &mdash; the fourfold formula, and the answer "
+              "restated", "sn47.22:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "What question does Bhadda ask Ānanda in this discourse?",
+         "opts": ["What causes the true teaching to last long, or fail to last long, after the Realized One's own final quenching", "How long the Buddha himself will live", "Which mendicant should succeed the Buddha as leader", "How many discourses the Buddha has taught"],
+         "correct": 0,
+         "expl": "A question asking for both the cause of failure and the cause of success in a single breath."},
+        {"q": "What single factor does Ānanda name as deciding both outcomes?",
+         "opts": ["Whether the four kinds of mindfulness meditation are developed and cultivated", "The number of mendicants in the Saṅgha", "The wealth of lay supporters", "The location of the Buddha's own relics"],
+         "correct": 0,
+         "expl": "Its absence causes decline, its presence causes long survival — one practice, not two separate causes."},
+        {"q": "How does this discourse's own opening compare to SN 47.21's own opening?",
+         "opts": ["Worded identically — Ānanda's praise for Bhadda's question, confirming this is a direct continuation of the same conversation", "Completely different, with no relationship to SN 47.21", "This discourse has no opening at all", "SN 47.21 has no equivalent opening"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to be the same two mendicants continuing their exchange."},
+    ],
+    marginalia=[
+        ("A question with real stakes", [
+            "does the teaching survive, or fade away? —",
+            "both outcomes asked about in one breath"
+        ]),
+        ("One practice, both outcomes", [
+            "its absence causes decline, its presence causes survival —",
+            "not two separate causes but a single deciding factor"
+        ]),
+        ("The same conversation, continued", [
+            "identical opening praise as SN 47.21 —",
+            "Bhadda and Ānanda, still talking"
+        ]),
+        ("Mindfulness named as what keeps the teaching alive", [
+            "development and cultivation, or their absence —",
+            "the deciding factor for the Dhamma's own future"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.21.html\">SN 47.21 &middot; Ethics</a> "
+        "&mdash; the previous discourse, the same conversation "
+        "continued here.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
