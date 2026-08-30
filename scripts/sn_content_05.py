@@ -45374,3 +45374,177 @@ page_range(
         "this book is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 49 (Sammappadhānasaṁyutta, "Linked Discourses on the Right
+# Efforts") -- confirmed by direct bilara-data listing to be a small,
+# entirely peyyāla-compressed saṃyutta: only five merged files total
+# (49.1-12, 49.13-22, 49.23-34, 49.35-44, 49.45-54), 54 discourses
+# across 5 vaggas per the file-range boundaries -- to be confirmed
+# vagga by vagga as each is directly read, not assumed uniform from
+# this opening file alone. This saṃyutta's own subject, the four
+# right efforts (cattāro sammappadhānā -- preventing unarisen bad
+# qualities, abandoning arisen bad qualities, developing unarisen
+# good qualities, and maintaining/increasing arisen good qualities),
+# is a term this project has already met used generically elsewhere
+# but not yet treated as its own saṃyutta's own governing subject.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 49.1-12 — Pācīnādisutta (merged peyyāla range)
+# Opens Vagga 1 (Gaṅgāpeyyālavagga), confirmed by direct reading to
+# reuse the identical river-simile formula this project has already
+# met twice: at SN 45.91-102 (for the eightfold path) and SN
+# 48.71-82 (for the five faculties). Here it illustrates the four
+# right efforts instead. Unlike SN 48.71-82's own compressed single
+# example, this file gives the full base formula (both the four
+# right efforts themselves and the river simile) before its own
+# cross-reference instruction for the remaining eleven discourses.
+# --------------------------------------------------------------------------- #
+page_range(
+    49, 1, 12, "Pācīnādi", "Sloping East, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 49.1–12 — Sloping East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 49.1–12 — the Ganges river simile, opening the Linked "
+        "Discourses on the Right Efforts, twelve discourses merged "
+        "into a single bilara-data file. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The four right efforts defined in full, then a "
+                 "river simile, twelve discourses merged into a "
+                 "single bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new saṃyutta, reusing a "
+                         "formula this project has already met twice "
+                         "before"),
+    ],
+    why=(
+        "This discourse opens the Sammappadhānasaṁyutta (&ldquo;"
+        "Linked Discourses on the Right Efforts&rdquo;), a saṃyutta "
+        "this project has not yet treated in its own right, though "
+        "the term &ldquo;sammappadhāna&rdquo; has already appeared "
+        "generically elsewhere. Its own Vagga 1 immediately reuses "
+        "the Gaṅgāpeyyāla river-simile formula already met at SN "
+        "45.91-102 and SN 48.71-82, now illustrating the four right "
+        "efforts rather than the eightfold path or the five "
+        "faculties."
+    ),
+    guide=[
+        ("The four right efforts, defined in full", [
+            "Confirmed by direct reading, this discourse opens by "
+            "defining its own saṃyutta's governing subject in full: "
+            "the four right efforts (sammappadhāna) &mdash; "
+            "preventing unarisen bad qualities, abandoning arisen bad "
+            "qualities, developing unarisen good qualities, and "
+            "maintaining, not losing, but increasing, maturing, and "
+            "completing arisen good qualities &mdash; before turning "
+            "to the river simile.",
+        ]),
+        ("A formula met twice before, now for a third quality set", [
+            "Confirmed by direct comparison, this vagga's own river "
+            "simile &mdash; the Ganges river's own natural "
+            "&ldquo;slanting, sloping, inclining&rdquo; toward the "
+            "east, mirrored in a mendicant's own inclination toward "
+            "extinguishment &mdash; is identical in structure to SN "
+            "45.91-102 (there for the eightfold path) and SN 48.71-82 "
+            "(there for the five faculties), reused here for the "
+            "four right efforts.",
+        ]),
+        ("A fuller opening than SN 48.71-82's own compressed version", [
+            "This project's own observation: unlike SN 48.71-82, "
+            "which quoted only a single compressed paragraph before "
+            "its own uddāna, this opening file gives both the full "
+            "definition of the four right efforts AND the full river "
+            "simile before its own cross-reference instruction "
+            "(&ldquo;tell in full as in SN 45.92&ndash;102&rdquo;) "
+            "for the remaining eleven discourses &mdash; a fuller "
+            "treatment than this project has seen for this exact "
+            "formula's own opening discourse before.",
+        ]),
+    ],
+    terms=[
+        ("cattāro sammappadhānā", "&ldquo;the four right "
+             "efforts&rdquo; &mdash; this saṃyutta's own governing "
+             "subject, defined in full at this discourse's own "
+             "opening"),
+        ("anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya...",
+             "&ldquo;so that bad, unskillful qualities don't "
+             "arise&rdquo; &mdash; the first of the four right "
+             "efforts, restraint"),
+        ("uppannānaṁ kusalānaṁ dhammānaṁ...bhāvanāya pāripūriyā",
+             "&ldquo;so that skillful qualities that have arisen... "
+             "are completed by development&rdquo; &mdash; the "
+             "fourth right effort, maintaining and developing what "
+             "is good"),
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; the identical simile already met "
+             "at SN 45.91-102 and SN 48.71-82"),
+        ("Gaṅgāpeyyālavaggo paṭhamo", "&ldquo;the Ganges "
+             "Abbreviated-Texts chapter, the first&rdquo; &mdash; "
+             "this file's own closing colophon, confirming this as "
+             "SN 49's own first vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn49.1-12:1.1-1.9"),
+        ("p", "&sect;2", "sn49.1-12:2.1-2.8"),
+        ("p", "Cross-reference", "sn49.1-12:3.1"),
+        ("p", "Uddāna", "sn49.1-12:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What are the four right efforts, defined at this discourse's own opening?",
+         "opts": ["Preventing unarisen bad qualities, abandoning arisen bad qualities, developing unarisen good qualities, and maintaining/increasing arisen good qualities", "The five faculties of faith, energy, mindfulness, immersion, and wisdom", "The eightfold path's own eight factors", "The four noble truths"],
+         "correct": 0,
+         "expl": "This saṃyutta's own governing subject, defined in full before the river simile."},
+        {"q": "How does this vagga's own river simile relate to formulas this project has already met?",
+         "opts": ["It reuses the identical formula already met at SN 45.91-102 and SN 48.71-82, now for the four right efforts", "It is an entirely new simile never before encountered", "It contradicts the earlier versions of this simile", "It applies only to lay practitioners, not mendicants"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the third saṃyutta to reuse this exact formula."},
+        {"q": "How does this opening file compare to SN 48.71-82's own compressed opening?",
+         "opts": ["It gives a fuller treatment, including the full definition of the four right efforts, before its own cross-reference for the remaining discourses", "It is even more compressed, with no worked example at all", "It contains no cross-reference instruction of any kind", "It is identical in every respect to SN 48.71-82"],
+         "correct": 0,
+         "expl": "A fuller opening than this project has seen for this exact formula's own first discourse before."},
+    ],
+    marginalia=[
+        ("A new saṃyutta opens", [
+            "sammappadhāna, met generically before —",
+            "now this project's own dedicated subject"
+        ]),
+        ("A familiar river, a third quality set", [
+            "eightfold path, five faculties, now right efforts —",
+            "one formula, reused a third time"
+        ]),
+        ("Fuller than its own compressed cousin", [
+            "SN 48.71-82 gave one paragraph —",
+            "this opening gives the full definition first"
+        ]),
+        ("First vagga, confirmed by its own colophon", [
+            "Gaṅgāpeyyālavaggo paṭhamo, stated plainly —",
+            "this saṃyutta's own first twelve discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn49.1-12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.169-178.html\">SN 48.169&ndash;178 &middot; "
+        "Another Series on Floods, Etc.</a> &mdash; the previous "
+        "page, closing the Indriyasaṁyutta.",
+        "<a href=\"sn-45.91.html\">SN 45.91 &middot; Slanting "
+        "East</a> &mdash; this project's own earlier encounter with "
+        "the identical river simile, there for the eightfold path.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
