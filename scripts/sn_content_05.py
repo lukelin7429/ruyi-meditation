@@ -39440,3 +39440,158 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.41 — Jarādhammasutta
+# Opens 5. Jarāvagga ("Old Age") — a radically different genre from
+# every discourse in Vaggas 1-4: a genuine narrative scene, Ānanda
+# massaging the aging Buddha's limbs and remarking on visible
+# physical decline. A genuine textual variant is reported honestly:
+# only FIVE sense faculties are named here (eye, ear, nose, tongue,
+# body), omitting mind (mano) — unlike SN 48.25's own six-fold list.
+# --------------------------------------------------------------------------- #
+page(
+    48, 41, "Jarādhamma", "Old Age",
+    vagga="Jarāvagga",
+    meta_title="SN 48.41 — Old Age | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jarādhammasutta — Ānanda massages the aging Buddha's "
+        "limbs and remarks on his visible physical decline, "
+        "including deterioration in the sense faculties. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, the stilt longhouse of Migāra's "
+                     "mother in the Eastern Monastery, late "
+                     "afternoon"),
+        ("Speakers", "Venerable Ānanda, massaging the Buddha's limbs "
+                     "and remarking on his aging; the Buddha, "
+                     "confirming it plainly and closing with two "
+                     "verses"),
+        ("Form", "A genuine narrative scene, closing with verse "
+                 "&mdash; a radically different genre from every "
+                 "discourse in Vaggas 1-4"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a deeply human, personal scene "
+                         "opening this new vagga, and a genuine "
+                         "textual variant worth reporting honestly: "
+                         "only five sense faculties named, not six"),
+    ],
+    why=(
+        "This discourse opens Jarāvagga (&ldquo;Old Age&rdquo;) with "
+        "a radically different genre than every discourse in Vaggas "
+        "1-4: a genuine narrative scene, Ānanda massaging the aging "
+        "Buddha's limbs and remarking, with evident tenderness, on "
+        "his visible physical decline &mdash; including a "
+        "deterioration in the faculties of eye, ear, nose, tongue, "
+        "and body &mdash; which the Buddha confirms plainly and "
+        "closes with two somber verses on old age and death's "
+        "universal reach."
+    ),
+    guide=[
+        ("A narrative scene, not a doctrinal listing", [
+            "Confirmed by direct reading, this discourse departs "
+            "entirely from the form of every discourse this project "
+            "has translated across Vaggas 1-4 of this saṃyutta: a "
+            "specific setting, named characters, a physical gesture "
+            "(Ānanda massaging the Buddha's limbs), and a personal, "
+            "even tender, observation about the Buddha's own visible "
+            "aging.",
+        ]),
+        ("A genuine variant: five sense faculties, not six", [
+            "Confirmed by direct reading, this discourse names only "
+            "FIVE sense faculties as showing visible "
+            "&ldquo;deterioration&rdquo; (aññathatta) &mdash; eye, "
+            "ear, nose, tongue, and body &mdash; omitting mind "
+            "(manindriya), unlike the six-fold list this project's "
+            "own SN 48.25 confirmed earlier in this saṃyutta. This "
+            "project reports this variant plainly rather than "
+            "guessing at a reason; a natural reading is that only "
+            "physically visible decline is being described, but this "
+            "discourse's own text does not state that explicitly.",
+        ]),
+        ("Old age's ravages, and death's universal reach", [
+            "Confirmed by direct reading, the Buddha's own closing "
+            "verses lament old age directly (&ldquo;curse this "
+            "wretched old age, which makes you so ugly&rdquo;) and "
+            "close with a stark reminder that no lifespan, however "
+            "long, escapes death: &ldquo;even if you live for a "
+            "hundred years, you'll still end up dying &hellip; death "
+            "spares no-one, but crushes all underfoot.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("Jarāvagga", "&ldquo;the vagga of old age&rdquo; &mdash; "
+             "this new vagga's own name, opening with a personal "
+             "scene rather than a doctrinal category"),
+        ("jarādhammo yobbaññe, byādhidhammo ārogye, maraṇadhammo "
+             "jīvite", "&ldquo;when young you're liable to grow old; "
+             "when healthy you're liable to get sick; and when "
+             "alive you're liable to die&rdquo; &mdash; the Buddha's "
+             "own plain confirmation"),
+        ("cakkhundriyassa sotindriyassa ghānindriyassa jivhindriyassa "
+             "kāyindriyassa", "the five sense faculties named here "
+             "&mdash; eye, ear, nose, tongue, body &mdash; notably "
+             "omitting mind (manindriya)"),
+        ("jarāya abhimadditaṁ", "&ldquo;ground down by old age&rdquo; "
+             "&mdash; the verse's own central image for the "
+             "body's decline"),
+        ("sabbamevābhimaddati", "&ldquo;crushes all underfoot&rdquo; "
+             "&mdash; death's universal reach, closing this "
+             "discourse's own final verse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the setting", "sn48.41:1.1-1.3"),
+        ("p", "&sect;2 &mdash; Ānanda's own observation", "sn48.41:2.1-2.4"),
+        ("p", "&sect;3 &mdash; the Buddha's own confirmation", "sn48.41:3.1-3.4"),
+        ("p", "&sect;4-6 &mdash; the closing verses", "sn48.41:4.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own form differ from every discourse in Vaggas 1-4?",
+         "opts": ["It is a genuine narrative scene with a setting, named characters, and a personal gesture, not an abstract doctrinal listing", "It abandons the Pāli language entirely for English", "It denies that the five faculties exist", "It repeats SN 48.1's own bare list verbatim"],
+         "correct": 0,
+         "expl": "A radically different genre, opening this new vagga."},
+        {"q": "What genuine textual variant does this discourse's own list of faculties show?",
+         "opts": ["Only five sense faculties are named, omitting mind (manindriya), unlike SN 48.25's own six-fold list", "It names six faculties, one more than SN 48.25's own list", "It names the five spiritual faculties instead of sense faculties", "It denies that any faculties are subject to change"],
+         "correct": 0,
+         "expl": "Reported honestly, without guessing at a reason not stated in the text."},
+        {"q": "What does the Buddha's own closing verse say about a hundred-year lifespan?",
+         "opts": ["Even living for a hundred years, one still ends up dying — death spares no one", "A hundred-year lifespan guarantees escape from old age", "Only those who live exactly a hundred years experience death", "The verse denies that death is inevitable at all"],
+         "correct": 0,
+         "expl": "Death's universal reach, regardless of how long one lives."},
+    ],
+    marginalia=[
+        ("A tender, human scene", [
+            "Ānanda's own hands upon the Buddha's limbs —",
+            "a gesture this saṃyutta has not shown before"
+        ]),
+        ("Five named, not six", [
+            "eye, ear, nose, tongue, body — mind left out —",
+            "a variant reported, not explained away"
+        ]),
+        ("Curse this wretched old age", [
+            "the delightful puppet, ground down —",
+            "a lament spoken plainly, without disguise"
+        ]),
+        ("Death crushes all underfoot", [
+            "a hundred years changes nothing at the end —",
+            "no lifespan escapes this closing verse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.40.html\">SN 48.40 &middot; Irregular "
+        "Order</a> &mdash; the previous discourse, closing "
+        "Sukhindriyavagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
