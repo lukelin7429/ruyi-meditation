@@ -40200,3 +40200,146 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.46 — Dutiyapubbārāmasutta
+# Confirms explicitly, via its own opening "Taṁyeva nidānaṁ" ("the
+# same setting"), what SN 48.45's own text had not stated outright —
+# this is the same occasion, not merely the same location. This time
+# the Buddha names TWO faculties as sufficient: wisdom and immersion,
+# the latter identified with "noble freedom."
+# --------------------------------------------------------------------------- #
+page(
+    48, 46, "Dutiyapubbārāma", "At the Eastern Monastery (2nd)",
+    vagga="Jarāvagga",
+    meta_title="SN 48.46 — At the Eastern Monastery (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapubbārāmasutta — the same occasion as SN 48.45, "
+        "now naming two faculties, wisdom and immersion, as "
+        "sufficient for a mendicant to declare full enlightenment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The same occasion as SN 48.45, explicitly "
+                     "confirmed by this discourse's own opening"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical question-and-deferral structure as "
+                 "SN 48.45, with a different, expanded answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirms explicitly what SN 48.45's "
+                         "own text left unstated, and expands the "
+                         "single-faculty claim to two, without "
+                         "contradicting it"),
+    ],
+    why=(
+        "This discourse resolves, by its own explicit opening "
+        "&mdash; &ldquo;Taṁyeva nidānaṁ&rdquo; (&ldquo;the same "
+        "setting&rdquo;) &mdash; the honest uncertainty this "
+        "project's own SN 48.45 left open: this is genuinely the "
+        "same teaching occasion, not merely the same location. The "
+        "Buddha now names TWO faculties as sufficient for full "
+        "enlightenment: noble wisdom, identified with the faculty of "
+        "wisdom, and noble freedom, identified with the faculty of "
+        "immersion."
+    ),
+    guide=[
+        ("Confirmed: the same occasion as SN 48.45", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening formula, &ldquo;Taṁyeva nidānaṁ,&rdquo; states "
+            "outright that this is the SAME setting as the "
+            "immediately preceding discourse &mdash; resolving the "
+            "honest uncertainty this project's own SN 48.45 left "
+            "open, that its shared location with SN 48.41 did not "
+            "by itself confirm a shared occasion.",
+        ]),
+        ("From one faculty to two, without contradiction", [
+            "Confirmed by direct reading, this discourse expands SN "
+            "48.45's own single-faculty claim (wisdom alone) to two "
+            "faculties: &ldquo;noble wisdom&rdquo; (ariyā paññā), "
+            "identified with the faculty of wisdom exactly as "
+            "before, and &ldquo;noble freedom&rdquo; (ariyā "
+            "vimutti), now identified with the faculty of immersion "
+            "(samādhindriya) &mdash; a genuinely different, "
+            "expanded answer to the identical question, not a "
+            "correction of the earlier one.",
+        ]),
+        ("Freedom identified with immersion, not a separate category", [
+            "Confirmed by direct reading, this discourse's own "
+            "reasoning identifies &ldquo;noble freedom&rdquo; "
+            "directly WITH the faculty of immersion, rather than "
+            "treating freedom as a wholly separate attainment from "
+            "the five faculties already named throughout this "
+            "saṃyutta &mdash; a specific doctrinal identification "
+            "this project reports as this discourse's own text "
+            "states it, without extending the claim further.",
+        ]),
+    ],
+    terms=[
+        ("Taṁyeva nidānaṁ", "&ldquo;the same setting&rdquo; &mdash; "
+             "this discourse's own opening, explicitly confirming "
+             "continuity with SN 48.45"),
+        ("dvinnaṁ indriyānaṁ", "&ldquo;of two faculties&rdquo; "
+             "&mdash; the expanded answer, following SN 48.45's own "
+             "single-faculty claim"),
+        ("ariyā paññā", "&ldquo;noble wisdom&rdquo; &mdash; "
+             "identified with the faculty of wisdom, as in SN 48.45"),
+        ("ariyā vimutti", "&ldquo;noble freedom&rdquo; &mdash; "
+             "identified here with the faculty of immersion "
+             "(samādhindriya), the second of the two faculties named"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's sixth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own question", "sn48.46:1.1-1.3"),
+        ("p", "&sect;2 &mdash; the answer: wisdom and immersion "
+              "together", "sn48.46:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own opening formula confirm?",
+         "opts": ["That this is genuinely the same teaching occasion as SN 48.45, not merely the same location", "That this discourse takes place at an entirely different monastery", "That the Buddha is addressing a different audience than in SN 48.45", "Nothing about continuity with any earlier discourse"],
+         "correct": 0,
+         "expl": "Resolving the honest uncertainty this project's own SN 48.45 left open."},
+        {"q": "How many faculties does this discourse say are sufficient for full enlightenment, and which ones?",
+         "opts": ["Two — wisdom and immersion (identified with noble freedom)", "One — wisdom alone, exactly as SN 48.45 stated", "All five faculties together, without exception", "Three — wisdom, immersion, and mindfulness"],
+         "correct": 0,
+         "expl": "An expanded, not contradictory, answer to the identical question SN 48.45 posed."},
+        {"q": "How does this discourse identify \"noble freedom\"?",
+         "opts": ["Directly with the faculty of immersion (samādhindriya)", "As an entirely separate attainment unrelated to any of the five faculties", "With the faculty of energy instead", "As identical to noble wisdom, with no distinction between them"],
+         "correct": 0,
+         "expl": "A specific doctrinal identification, reported as this discourse's own text states it."},
+    ],
+    marginalia=[
+        ("The same setting, confirmed", [
+            "taṁyeva nidānaṁ — no longer uncertain —",
+            "one continuous teaching occasion"
+        ]),
+        ("From one to two", [
+            "wisdom alone was SN 48.45's own claim —",
+            "now immersion joins it, not replacing it"
+        ]),
+        ("Freedom, named as immersion", [
+            "noble freedom is the faculty of immersion —",
+            "a specific identification, stated plainly"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "brief as its own pair before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.45.html\">SN 48.45 &middot; At the Eastern "
+        "Monastery (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
