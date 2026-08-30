@@ -28516,3 +28516,154 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.20 — Janapadakalyāṇīsutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 20, "Janapadakalyāṇī", "The Finest Lady in the Land",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.20 — The Finest Lady in the Land | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Janapadakalyāṇīsutta — a famous simile of a man forced "
+        "to carry a brimming bowl of oil through a crowd distracted "
+        "by a dancing beauty, a sword-bearer close behind, "
+        "illustrating the undivided focus of mindfulness of the "
+        "body. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The town of Sedaka, in the land of the Sumbhas "
+                     "&mdash; the same setting as SN 47.19"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A vivid simile, followed by its own direct "
+                 "doctrinal explanation"),
+        ("Length", "2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; one of the tradition's most vivid "
+                         "images for undivided mindfulness"),
+    ],
+    why=(
+        "A man who wants to live, not die, is forced to carry a bowl "
+        "of oil filled to the very brim through a crowd gathered to "
+        "watch the finest lady in the land dancing and singing "
+        "&mdash; with a swordsman following behind, ready to behead "
+        "him the instant a single drop spills. The Buddha confirms "
+        "such a man would never lose focus on the bowl, then reveals "
+        "the simile's own meaning: the bowl of oil is mindfulness of "
+        "the body itself."
+    ),
+    guide=[
+        ("Two competing pulls, deliberately stacked against focus", [
+            "Confirmed by direct reading, the simile deliberately "
+            "combines two separate distractions &mdash; a &ldquo;"
+            "large crowd&rdquo; drawn by fame, and &ldquo;the finest "
+            "lady in the land... dancing and singing in a most "
+            "thrilling way&rdquo; &mdash; specifically to make the "
+            "test of undivided attention as demanding as this "
+            "discourse's own imagination allows.",
+        ]),
+        ("A threat that leaves no room for negligence", [
+            "The consequence for even a single spilled drop &mdash; "
+            "immediate beheading by the swordsman following behind "
+            "&mdash; is confirmed by direct reading to be absolute "
+            "and immediate, not a gradual penalty, ensuring the "
+            "Buddha's own rhetorical question (&ldquo;would that "
+            "person lose focus... and negligently get distracted "
+            "outside?&rdquo;) can only be answered &ldquo;no.&rdquo;",
+        ]),
+        ("A simile explicitly decoded, not left for interpretation", [
+            "Unlike many parables in this project's own broader "
+            "collection, the Buddha here states outright, &ldquo;"
+            "I've made up this simile to make a point,&rdquo; then "
+            "supplies the decoding directly: &ldquo;a bowl of oil "
+            "filled to the brim&rdquo; is confirmed by direct reading "
+            "to be &ldquo;a term for mindfulness of the body,&rdquo; "
+            "leaving no ambiguity about what the bowl represents.",
+        ]),
+        ("A training formula naming six distinct qualities", [
+            "The discourse's own closing training formula names, "
+            "confirmed by direct reading, six distinct qualities to "
+            "be developed for mindfulness of the body: cultivating "
+            "it, making it one's own vehicle and basis, keeping it "
+            "up, consolidating it, and properly implementing it "
+            "&mdash; a fuller specification than the bare fourfold "
+            "formula given elsewhere in this saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("janapadakalyāṇī nāccati gāyati", "&ldquo;the finest lady "
+             "in the land... dancing and singing in a most thrilling "
+             "way&rdquo; &mdash; the first of two distractions "
+             "deliberately stacked in this discourse's own simile"),
+        ("samatittiko telapatto", "&ldquo;a bowl full to the "
+             "brim&rdquo; &mdash; the object the man must carry "
+             "without spilling"),
+        ("yattha... okiraṇamattampi assa, tattheva assa sīsaṁ "
+             "chindeyya", "&ldquo;wherever you spill even a drop, "
+             "he'll chop off your head right there&rdquo; &mdash; the "
+             "absolute, immediate consequence enforcing undivided "
+             "attention"),
+        ("kāyagatāya satiyā adhivacanaṁ", "&ldquo;a term for "
+             "mindfulness of the body&rdquo; &mdash; the Buddha's own "
+             "direct decoding of the bowl of oil"),
+        ("bhāvitā... bahulīkatā yānīkatā vatthukatā anuṭṭhitā "
+             "paricitā susamāraddhā", "&ldquo;developed... cultivated, "
+             "made one's vehicle and basis, kept up, consolidated, "
+             "and properly implemented&rdquo; &mdash; the six "
+             "qualities named in this discourse's own closing "
+             "training formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; setting", "sn47.20:1.1-1.6"),
+        ("p", "&sect;2 &mdash; the bowl of oil, the crowd, and the "
+              "swordsman", "sn47.20:2.1-2.11"),
+        ("p", "&sect;3 &mdash; the simile decoded", "sn47.20:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What two distractions does this discourse's own simile deliberately combine?",
+         "opts": ["A large crowd drawn by fame, and the finest lady in the land dancing and singing", "A storm and an earthquake", "Hunger and thirst", "Two identical bowls of oil"],
+         "correct": 0,
+         "expl": "Deliberately stacked to make the test of undivided attention as demanding as possible."},
+        {"q": "What does the Buddha state \"a bowl of oil filled to the brim\" represents?",
+         "opts": ["Mindfulness of the body", "Physical wealth", "The finest lady in the land herself", "The swordsman's own sword"],
+         "correct": 0,
+         "expl": "The Buddha explicitly decodes the simile rather than leaving it for interpretation."},
+        {"q": "How many distinct qualities does this discourse's own closing training formula name for mindfulness of the body?",
+         "opts": ["Six — developing, cultivating, making it one's vehicle and basis, keeping it up, consolidating it, and properly implementing it", "Only one — simple awareness", "Four — matching the bare fourfold formula exactly", "Ten — a full list of virtues"],
+         "correct": 0,
+         "expl": "A fuller specification than the bare fourfold formula given elsewhere in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Two distractions, deliberately stacked", [
+            "a crowd's own fame, a dancer's own thrill —",
+            "the hardest possible test of focus"
+        ]),
+        ("A single drop, an immediate consequence", [
+            "the sword falls the instant oil spills —",
+            "no room left for negligence"
+        ]),
+        ("A simile, decoded outright", [
+            "\"I've made up this simile to make a point\" —",
+            "the bowl of oil named plainly: mindfulness of the body"
+        ]),
+        ("Six qualities, not merely four", [
+            "cultivated, a vehicle, a basis, kept up —",
+            "a fuller specification than elsewhere in this saṃyutta"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.19.html\">SN 47.19 &middot; At Sedaka</a> "
+        "&mdash; the previous discourse, sharing this discourse's own "
+        "setting.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
