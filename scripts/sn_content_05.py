@@ -18110,3 +18110,1223 @@ page(
         "the next vagga, Hindrances, is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 4. Nīvaraṇavagga — Hindrances (SN 46.31-40)
+# Confirmed by direct bilara-data reading: this vagga's own colophon
+# ("Nīvaraṇavaggo catuttho," "the Hindrances chapter, the fourth") is
+# unambiguous, matching this project's own count. The vagga contrasts
+# the five hindrances against the seven awakening factors throughout,
+# most vividly in two extended similes -- five metals that corrupt
+# native gold (SN 46.33) and strangler figs that engulf and destroy
+# their own host trees (SN 46.39) -- before closing with a direct
+# antithetical statement (SN 46.40) naming the hindrances as
+# "destroyers" and the awakening factors as "creators" of vision and
+# knowledge.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.31 — Paṭhamakusalasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 31, "Paṭhamakusala", "Skillful (1st)",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.31 — Skillful (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Kusalasutta — diligence as the root of every "
+        "skillful quality, and so of the seven awakening factors "
+        "themselves. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A brief categorical claim, opening a new vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opening this vagga's own paired "
+                       "sequence"),
+    ],
+    why=(
+        "Every skillful quality, this discourse states, is "
+        "&ldquo;rooted in diligence and meets at diligence&rdquo; "
+        "&mdash; the identical claim already met at SN 45.139 (The "
+        "Realized One) applied there to the eightfold path, here "
+        "extended to the seven awakening factors, confirming this "
+        "root claim's own reach across both of Book V's own major "
+        "saṃyuttas."
+    ),
+    guide=[
+        ("A familiar root claim, extended to a new object", [
+            "&ldquo;Sabbe te appamādamūlakā appamādasamosaraṇā"
+            "&rdquo; (&ldquo;all of them are rooted in diligence and "
+            "meet at diligence&rdquo;) is the identical phrase "
+            "already met throughout SN 45's own Appamādapeyyālavagga "
+            "&mdash; confirming diligence's own status as a "
+            "foundational root claim spanning the eightfold path and "
+            "the seven awakening factors alike.",
+        ]),
+    ],
+    terms=[
+        ("appamādamūlakā appamādasamosaraṇā", "&ldquo;rooted in "
+             "diligence and meeting at diligence&rdquo; &mdash; the "
+             "identical phrase already met throughout SN 45's own "
+             "Appamādapeyyālavagga, now applied to the seven "
+             "awakening factors"),
+        ("appamādo", "&ldquo;diligence&rdquo; &mdash; named here as "
+             "&ldquo;the best&rdquo; among all skillful qualities"),
+        ("appamatto bhikkhu pāṭikaṅkho", "&ldquo;a diligent mendicant "
+             "can expect&rdquo; &mdash; the discourse's own claim of "
+             "reliable expectation"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as this discourse's own object"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, applied here to each awakening factor "
+             "in turn"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.31:1.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What earlier part of Book V uses the identical \"rooted in diligence\" phrase found in this discourse?",
+         "opts": ["SN 45's own Appamādapeyyālavagga, there applied to the eightfold path", "SN 46's own Gilānavagga", "The Dhammapada's own opening verses", "No earlier discourse uses this phrase"],
+         "correct": 0,
+         "expl": "Confirming diligence's own status as a root claim spanning both major saṃyuttas of Book V."},
+        {"q": "What is named as \"the best\" among all skillful qualities in this discourse?",
+         "opts": ["Diligence (appamāda)", "Wisdom (paññā)", "Ethics (sīla)", "Concentration (samādhi)"],
+         "correct": 0,
+         "expl": "The single quality all others are said to be rooted in and to meet at."},
+        {"q": "What does this discourse claim a diligent mendicant can reliably expect?",
+         "opts": ["To develop and cultivate the seven awakening factors", "To become wealthy through their own diligence", "To be reborn immediately as a deva", "Nothing in particular is claimed"],
+         "correct": 0,
+         "expl": "A claim of dependable expectation, not mere possibility."},
+    ],
+    marginalia=[
+        ("A familiar root, a new object", [
+            "diligence, once for the eightfold path —",
+            "now for the seven awakening factors"
+        ]),
+        ("The same phrase, spanning two saṃyuttas", [
+            "\"rooted in diligence, meeting at diligence\" —",
+            "confirmed word for word from SN 45's own vagga"
+        ]),
+        ("A new vagga opens with a paired sequence", [
+            "diligence here, rational attention next —",
+            "the same claim, two different roots named"
+        ]),
+        ("Nine discourses remain in this vagga", [
+            "gold's own corruptions, strangler figs —",
+            "closing with a direct antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.30.html\">SN 46.30 &middot; With "
+        "Udāyī</a> &mdash; the previous page, closing the preceding "
+        "vagga.",
+        "<a href=\"sn-46.32.html\">SN 46.32 &middot; Skillful "
+        "(2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.32 — Dutiyakusalasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 32, "Dutiyakusala", "Skillful (2nd)",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.32 — Skillful (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Kusalasutta — rational application of mind, "
+        "rather than diligence, named as the root of every skillful "
+        "quality. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.31"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical claim already met at SN 46.31, one "
+                 "term substituted"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, the second of a paired discourse"),
+    ],
+    why=(
+        "The identical &ldquo;rooted in... and meeting at...&rdquo; "
+        "formula returns, now naming rational application of mind "
+        "(yoniso manasikāra) rather than diligence as the root of "
+        "every skillful quality &mdash; a second, complementary "
+        "candidate for what all skillful qualities ultimately trace "
+        "back to."
+    ),
+    guide=[
+        ("Two roots, not a contradiction", [
+            "Read together, SN 46.31 and this discourse name two "
+            "distinct qualities &mdash; diligence and rational "
+            "application of mind &mdash; both said to be the root of "
+            "every skillful quality, using the identical formula. "
+            "Rather than a contradiction, this pairing suggests both "
+            "operate together as complementary foundations, echoing "
+            "the similar pairing of good friendship and rational "
+            "application of mind already met at SN 46.12-13.",
+        ]),
+    ],
+    terms=[
+        ("yonisomanasikāramūlakā yonisomanasikārasamosaraṇā",
+             "&ldquo;rooted in rational application of mind and "
+             "meeting at rational application of mind&rdquo; &mdash; "
+             "this discourse's own substitution for SN 46.31's own "
+             "diligence"),
+        ("yonisomanasikārasampanno bhikkhu pāṭikaṅkho", "&ldquo;a "
+             "mendicant accomplished in rational application of mind "
+             "can expect&rdquo; &mdash; the discourse's own claim of "
+             "reliable expectation, mirroring SN 46.31's own"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as this discourse's own object"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, applied here to each awakening factor "
+             "in turn"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.32:1.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the root of every skillful quality, distinct from SN 46.31's own claim?",
+         "opts": ["Rational application of mind (yoniso manasikāra)", "Wisdom", "Physical health", "A second instance of diligence"],
+         "correct": 0,
+         "expl": "A complementary root, paired with SN 46.31's own diligence, using the identical formula."},
+        {"q": "How should these two paired discourses (SN 46.31-32) most likely be understood?",
+         "opts": ["As complementary foundations working together, not as contradictory claims", "As direct contradictions, only one of which can be correct", "As unrelated discourses on entirely different topics", "As proof that diligence and rational attention are identical in every respect"],
+         "correct": 0,
+         "expl": "Echoing the similar pairing of good friendship and rational application of mind at SN 46.12-13."},
+        {"q": "Where else in this saṃyutta was a similar two-condition pairing already met?",
+         "opts": ["SN 46.12-13, pairing good friendship with rational application of mind as forerunners of the awakening factors", "SN 46.1, in the dragon simile", "SN 46.17, the verse discourse", "No similar pairing appears anywhere else in this saṃyutta"],
+         "correct": 0,
+         "expl": "A recurring pattern of naming two complementary conditions with the identical formula."},
+    ],
+    marginalia=[
+        ("The same formula, a different root", [
+            "rational attention, not diligence this time —",
+            "both said to be where skillful qualities meet"
+        ]),
+        ("A pairing, not a contradiction", [
+            "as with good friendship and careful attention before —",
+            "two foundations, working together"
+        ]),
+        ("This vagga's own opening pair, complete", [
+            "eight discourses remain —",
+            "gold's own corruptions wait just ahead"
+        ]),
+        ("Roots named twice, in two different vaggas", [
+            "diligence and rational attention recur —",
+            "a thread running through this whole saṃyutta"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.31.html\">SN 46.31 &middot; Skillful "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.33.html\">SN 46.33 &middot; "
+        "Corruptions</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.33 — Upakkilesasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 33, "Upakkilesa", "Corruptions",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.33 — Corruptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upakkilesasutta — the five metals that corrupt native "
+        "gold, likened to the five hindrances that corrupt the mind's "
+        "own workability and radiance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One extended simile, naming five specific corrupting "
+                 "metals and five specific corrupting mental states in "
+                 "parallel"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid, precise imagery drawn from metallurgy"),
+    ],
+    why=(
+        "Native gold, corrupted by iron, copper, tin, lead, or "
+        "silver, becomes brittle, unworkable, and dull rather than "
+        "pliable, workable, and radiant &mdash; a precise metallurgical "
+        "image applied directly to the mind, corrupted in the same "
+        "way by the five hindrances, and thereby unable to reach the "
+        "immersion needed for the ending of defilements."
+    ),
+    guide=[
+        ("A one-to-one correspondence, not a loose analogy", [
+            "Confirmed by direct reading, this discourse names five "
+            "specific metals (iron, copper, tin, lead, silver) as "
+            "corrupting gold in the identical way the five hindrances "
+            "corrupt the mind, using the identical descriptive terms "
+            "(&ldquo;not pliable, workable, or radiant... brittle"
+            "&rdquo;) for both &mdash; a precise, symmetrical simile "
+            "rather than a loose comparison.",
+        ]),
+        ("A well-known image beyond this discourse alone", [
+            "The gold-and-impurities simile for mental purification "
+            "recurs elsewhere in the canon (notably in accounts of "
+            "purifying concentration through progressive removal of "
+            "defilements) &mdash; this discourse applies it "
+            "specifically to the five hindrances as what keeps the "
+            "mind from being &ldquo;rightly immersed in samādhi for "
+            "the ending of defilements.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("jātarūpassa upakkilesā", "&ldquo;corruptions of native "
+             "gold&rdquo; &mdash; the discourse's own opening image, "
+             "naming five specific metals"),
+        ("ayo lohaṁ tipu sīsaṁ sajjhaṁ", "&ldquo;iron, copper, tin, "
+             "lead, and silver&rdquo; &mdash; the five metals named "
+             "as corrupting native gold, rendering it brittle and "
+             "unworkable"),
+        ("na ceva mudu hoti na ca kammaniyaṁ na ca pabhassaraṁ",
+             "&ldquo;not pliable, workable, or radiant&rdquo; "
+             "&mdash; the identical description applied to both "
+             "corrupted gold and the corrupted mind"),
+        ("kāmacchando byāpādo thinamiddhaṁ uddhaccakukkuccaṁ "
+             "vicikicchā", "sensual desire, ill will, dullness and "
+             "drowsiness, restlessness and remorse, and doubt "
+             "&mdash; the five corruptions of the mind, corresponding "
+             "to the five corrupting metals"),
+        ("na ca sammā samādhiyati āsavānaṁ khayāya", "&ldquo;not "
+             "rightly immersed in samādhi for the ending of "
+             "defilements&rdquo; &mdash; the specific consequence of "
+             "a mind corrupted by the five hindrances"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the five corruptions of gold",
+             "sn46.33:1.1-1.8"),
+        ("p", "&sect;2 &mdash; the five corruptions of the mind",
+             "sn46.33:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five metals does this discourse name as corrupting native gold?",
+         "opts": ["Iron, copper, tin, lead, and silver", "Gold, platinum, bronze, brass, and steel", "Sand, clay, ash, salt, and charcoal", "The discourse names no specific metals"],
+         "correct": 0,
+         "expl": "A precise, specific list corresponding one-to-one with the five hindrances."},
+        {"q": "What specific consequence does the discourse name for a mind corrupted by the five hindrances?",
+         "opts": ["It is not rightly immersed in samādhi for the ending of defilements", "It becomes permanently and irreversibly damaged", "It develops the seven awakening factors more quickly", "It has no consequence at all"],
+         "correct": 0,
+         "expl": "A precise functional consequence, mirroring the metallurgical image of gold rendered unworkable."},
+        {"q": "How does this discourse's own comparison work — as a loose analogy or a precise correspondence?",
+         "opts": ["A precise, symmetrical correspondence, with identical descriptive language for both gold and mind", "A loose, impressionistic comparison with no real structural parallel", "The discourse makes no comparison between gold and mind at all", "The comparison only covers one of the five hindrances"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — five metals matched to five hindrances, with identical language throughout."},
+    ],
+    marginalia=[
+        ("Five metals corrupt native gold", [
+            "iron, copper, tin, lead, silver —",
+            "each rendering it brittle, unworkable"
+        ]),
+        ("Five hindrances corrupt the mind, the same way", [
+            "not pliable, not radiant —",
+            "identical language, precise correspondence"
+        ]),
+        ("A well-known image, applied specifically here", [
+            "gold's own purification, elsewhere in the canon —",
+            "here tied precisely to the five hindrances"
+        ]),
+        ("The very next discourse states the opposite", [
+            "seven awakening factors, NOT corruptions —",
+            "the antithesis, immediately following"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.32.html\">SN 46.32 &middot; Skillful "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.34.html\">SN 46.34 &middot; Not "
+        "Corruptions</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.34 — Anupakkilesasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 34, "Anupakkilesa", "Not Corruptions",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.34 — Not Corruptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anupakkilesasutta — the seven awakening factors "
+        "declared, by direct contrast with SN 46.33's own gold "
+        "simile, to be no obstacle, hindrance, or corruption at all. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A brief antithetical statement, directly answering "
+                 "SN 46.33's own gold simile"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but structurally pivotal as an "
+                       "immediate antithesis"),
+    ],
+    why=(
+        "Immediately following SN 46.33's own extended gold simile, "
+        "this discourse states the direct antithesis: the seven "
+        "awakening factors are &ldquo;not obstacles, hindrances, or "
+        "corruptions of the mind&rdquo; at all &mdash; and, "
+        "positively, lead to the realization of knowledge and "
+        "freedom's own fruit."
+    ),
+    guide=[
+        ("An antithesis placed immediately, not delayed", [
+            "Confirmed by direct sequence, this discourse's own "
+            "placement right after SN 46.33 makes its own antithetical "
+            "function explicit &mdash; where the preceding discourse "
+            "named five specific corruptions in detail, this one "
+            "names what the awakening factors are NOT, using the same "
+            "vocabulary (&ldquo;obstacles, hindrances, corruptions"
+            "&rdquo;) in direct negation.",
+        ]),
+    ],
+    terms=[
+        ("na āvaraṇā na nīvaraṇā na cetaso upakkilesā", "&ldquo;not "
+             "obstacles, hindrances, or corruptions of the mind"
+             "&rdquo; &mdash; the discourse's own direct negation, "
+             "using the same three near-synonymous terms found "
+             "throughout this vagga"),
+        ("bhāvitā bahulīkatā vijjāvimuttiphalasacchikiriyāya "
+             "saṁvattanti", "&ldquo;when developed and cultivated "
+             "they lead to the realization of the fruit of knowledge "
+             "and freedom&rdquo; &mdash; the discourse's own positive "
+             "counterpart to the negation"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as this discourse's own subject"),
+        ("upakkilesa", "&ldquo;corruption&rdquo; &mdash; the same "
+             "term used at SN 46.33 for what corrupts gold and mind "
+             "alike, here explicitly denied of the awakening factors"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.34:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse state about the seven awakening factors, in direct contrast to SN 46.33's own gold simile?",
+         "opts": ["That they are not obstacles, hindrances, or corruptions of the mind at all", "That they are themselves the fifth corrupting metal", "That they corrupt the mind more severely than the five hindrances", "That they have no relationship to purity or corruption"],
+         "correct": 0,
+         "expl": "An explicit antithesis, using the same vocabulary as the preceding discourse in direct negation."},
+        {"q": "What positive outcome does the discourse name for developing and cultivating the awakening factors?",
+         "opts": ["The realization of the fruit of knowledge and freedom", "Physical strength and longevity", "Wealth and social status", "Nothing positive is named"],
+         "correct": 0,
+         "expl": "The discourse's own positive counterpart, balancing the negative claim."},
+        {"q": "What three near-synonymous terms does this discourse deny of the awakening factors?",
+         "opts": ["Obstacles, hindrances, and corruptions", "Formulas, similes, and lists", "Sights, sounds, and smells", "Kings, ministers, and commoners"],
+         "correct": 0,
+         "expl": "The same three terms used throughout this vagga, here explicitly negated."},
+    ],
+    marginalia=[
+        ("An antithesis, placed immediately", [
+            "not corruptions, hindrances, or obstacles —",
+            "answering the gold simile just before it"
+        ]),
+        ("The same words, in direct negation", [
+            "\"upakkilesa\" — corruption — denied outright —",
+            "confirmed by exact vocabulary reuse"
+        ]),
+        ("A brief but pivotal turn", [
+            "one discourse names what corrupts —",
+            "the next names what never could"
+        ]),
+        ("Six discourses remain in this vagga", [
+            "irrational attention, growth, obstacles —",
+            "then strangler figs, and a closing antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.33.html\">SN 46.33 &middot; "
+        "Corruptions</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.35.html\">SN 46.35 &middot; Irrational "
+        "Application of Mind</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.35 — Ayonisosutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 35, "Ayoniso", "Irrational Application of Mind",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.35 — Irrational Application of Mind | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ayonisosutta — two separate brief statements on "
+        "irrational and rational application of mind, distinct in "
+        "form from SN 46.24's own single symmetric discourse. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two separate, standalone statements, not a single "
+                 "mirrored discourse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but formally distinct from its own "
+                       "earlier counterpart"),
+    ],
+    why=(
+        "This discourse restates the same basic claim already met at "
+        "SN 46.24 &mdash; irrational attention feeds the hindrances, "
+        "rational attention feeds the awakening factors &mdash; but "
+        "structures it as two independent, standalone statements "
+        "rather than one continuous mirrored teaching."
+    ),
+    guide=[
+        ("Two statements, not one symmetric discourse", [
+            "Confirmed by direct reading of the source's own key "
+            "structure, this discourse presents irrational and "
+            "rational application of mind as two separate assertions "
+            "&mdash; each complete on its own &mdash; rather than SN "
+            "46.24's own single unified statement moving between both "
+            "conditions within one continuous passage.",
+        ]),
+    ],
+    terms=[
+        ("ayoniso manasikaroto", "&ldquo;when you apply the mind "
+             "irrationally&rdquo; &mdash; the condition named in this "
+             "discourse's own first, standalone statement"),
+        ("kāmacchando byāpādo thinamiddhaṁ uddhaccakukkuccaṁ "
+             "vicikicchā", "the five hindrances, named as what "
+             "irrational attention causes to arise and grow"),
+        ("yoniso manasikaroto", "&ldquo;when you apply the mind "
+             "rationally&rdquo; &mdash; the condition named in this "
+             "discourse's own second, standalone statement"),
+        ("sati... upekkhā", "the seven awakening factors, named as "
+             "what rational attention causes to arise and be fully "
+             "developed"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse, both standalone statements "
+        "in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; irrational application of mind",
+             "sn46.35:1.1"),
+        ("p", "&sect;2 &mdash; rational application of mind",
+             "sn46.35:2.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure differ from SN 46.24's own treatment of the same claim?",
+         "opts": ["It presents two separate, standalone statements rather than one continuous mirrored teaching", "It denies any relationship between application of mind and the hindrances", "It applies only to rational attention, omitting irrational attention entirely", "There is no structural difference at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the source's own key structure — two independent assertions."},
+        {"q": "What basic claim does this discourse share with SN 46.24, despite the structural difference?",
+         "opts": ["Irrational attention feeds the hindrances; rational attention feeds the awakening factors", "The hindrances and awakening factors are unrelated to attention entirely", "Only rational attention has any effect on the mind", "The claim in this discourse contradicts SN 46.24's own"],
+         "correct": 0,
+         "expl": "The same underlying mechanism, restated in a different formal structure."},
+        {"q": "Why might this project treat the two standalone statements as two occasions rather than one continuous teaching?",
+         "opts": ["The source's own key structure separates them as two distinct, complete statements", "There is no textual basis for this distinction at all", "The Buddha explicitly says they were spoken on different days", "One statement is in verse and the other in prose"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the bilara-data's own key numbering, distinct from SN 46.24's own single continuous passage."},
+    ],
+    marginalia=[
+        ("The same claim, a different structure", [
+            "two standalone statements this time —",
+            "not one continuous mirrored teaching"
+        ]),
+        ("Irrational attention, alone", [
+            "one complete statement on its own —",
+            "the hindrances, arising and growing"
+        ]),
+        ("Rational attention, alone", [
+            "a second complete statement —",
+            "the awakening factors, arising and developing"
+        ]),
+        ("Five discourses remain in this vagga", [
+            "growth, obstacles, without obstacles —",
+            "then strangler figs, and a closing antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.34.html\">SN 46.34 &middot; Not "
+        "Corruptions</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.36.html\">SN 46.36 &middot; Growth</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.36 — Vuddhisutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 36, "Vuddhi", "Growth",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.36 — Growth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vuddhisutta — the seven awakening factors, developed and "
+        "cultivated, lead to growth and progress. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A brief categorical statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, this vagga's own briefest positive "
+                       "claim"),
+    ],
+    why=(
+        "This discourse names a simple, positively-framed outcome "
+        "&mdash; &ldquo;growth and progress&rdquo; (vuddhi and "
+        "virūḷhi) &mdash; without the antithetical structure found in "
+        "most of this vagga's own other discourses, a brief statement "
+        "of what developing the seven awakening factors accomplishes "
+        "in its own right."
+    ),
+    guide=[
+        ("A positive claim, without an explicit antithesis", [
+            "Unlike SN 46.33-34's own paired corruption/non-corruption "
+            "discourses or SN 46.37's own hindrance/awakening-factor "
+            "contrast, this discourse simply states a positive "
+            "outcome on its own, without pairing it against what the "
+            "hindrances instead produce &mdash; a brief, "
+            "self-contained claim within this vagga's own broader "
+            "antithetical pattern.",
+        ]),
+    ],
+    terms=[
+        ("vuddhiṁ virūḷhiṁ", "&ldquo;growth and progress&rdquo; "
+             "&mdash; the outcome named for developing and "
+             "cultivating the seven awakening factors, stated without "
+             "an explicit contrasting claim about the hindrances"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase describing sustained "
+             "meditative practice"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as this discourse's own subject"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+        ("vuddhi", "&ldquo;growth&rdquo; &mdash; a term used "
+             "elsewhere in the canon (notably in the Aṅguttara "
+             "Nikāya's own list of five growth-qualities) for genuine "
+             "spiritual increase"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.36:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What outcome does this discourse name for developing the seven awakening factors?",
+         "opts": ["Growth and progress (vuddhi and virūḷhi)", "The immediate ending of physical illness", "Wealth and social prestige", "A return to the sensual realm"],
+         "correct": 0,
+         "expl": "A positive, self-contained claim about spiritual increase."},
+        {"q": "How does this discourse's own structure differ from most others in this vagga?",
+         "opts": ["It makes a simple positive claim without pairing it against an explicit contrasting statement about the hindrances", "It is the only discourse in the vagga mentioning the hindrances at all", "It contradicts every other discourse in this vagga", "It is the longest discourse in the entire saṃyutta"],
+         "correct": 0,
+         "expl": "A brief, self-contained claim within this vagga's own broader antithetical pattern."},
+        {"q": "What two Pāli terms together make up this discourse's own named outcome?",
+         "opts": ["Vuddhi and virūḷhi — growth and progress", "Khaya and nirodha — ending and cessation", "Āvaraṇa and nīvaraṇa — obstacle and hindrance", "Sati and upekkhā — mindfulness and equanimity"],
+         "correct": 0,
+         "expl": "A pair of near-synonymous terms for genuine spiritual increase."},
+    ],
+    marginalia=[
+        ("A simple positive claim", [
+            "growth and progress, stated plainly —",
+            "no explicit contrast with the hindrances here"
+        ]),
+        ("Brief, self-contained", [
+            "not paired against a negative claim —",
+            "this vagga's own exception to its own pattern"
+        ]),
+        ("A term with roots elsewhere in the canon", [
+            "vuddhi, genuine spiritual increase —",
+            "echoed in other growth-quality lists"
+        ]),
+        ("Four discourses remain in this vagga", [
+            "obstacles, without obstacles —",
+            "then strangler figs, and a closing antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.35.html\">SN 46.35 &middot; Irrational "
+        "Application of Mind</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.37.html\">SN 46.37 &middot; "
+        "Obstacles</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.37 — Āvaraṇanīvaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 37, "Āvaraṇanīvaraṇa", "Obstacles",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.37 — Obstacles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āvaraṇanīvaraṇasutta — the five hindrances named as "
+        "\"corruptions of the heart that weaken wisdom,\" paired "
+        "directly against the seven awakening factors within a "
+        "single discourse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two paired statements within one discourse, "
+                 "naming the hindrances and then the awakening "
+                 "factors in direct sequence"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "combines this vagga's own two named categories "
+                       "in one place"),
+    ],
+    why=(
+        "This discourse names the five hindrances as &ldquo;"
+        "obstacles and hindrances, corruptions of the heart that "
+        "weaken wisdom&rdquo; and then, within the very same "
+        "discourse, restates the seven awakening factors as "
+        "precisely NOT any of these things &mdash; the first "
+        "discourse in this vagga to combine both halves of the "
+        "antithesis (previously split across SN 46.33 and 46.34) "
+        "into a single unified statement."
+    ),
+    guide=[
+        ("Two discourses' own claims, now combined in one", [
+            "SN 46.33 and 46.34 made their own respective claims (gold "
+            "corrupted by metals; awakening factors not corrupted) as "
+            "two separate discourses. This one presents both halves "
+            "together within a single unified statement, confirmed by "
+            "direct reading to use the identical closing formula "
+            "already met at SN 46.34 (&ldquo;not obstacles, "
+            "hindrances, or corruptions of the mind... lead to the "
+            "realization of the fruit of knowledge and freedom"
+            "&rdquo;) for its own second half.",
+        ]),
+        ("A specific effect named: weakening wisdom", [
+            "&ldquo;Paññāya dubbalīkaraṇā&rdquo; (&ldquo;that weaken "
+            "wisdom&rdquo;) names a precise cognitive effect of the "
+            "five hindrances, distinct from this vagga's own other "
+            "descriptions (brittleness, at SN 46.33; destroying "
+            "vision, at SN 46.40) &mdash; each discourse in this vagga "
+            "supplying its own distinct angle on the same underlying "
+            "five obstructions.",
+        ]),
+    ],
+    terms=[
+        ("āvaraṇā nīvaraṇā cetaso upakkilesā paññāya dubbalīkaraṇā",
+             "&ldquo;obstacles and hindrances, corruptions of the "
+             "heart that weaken wisdom&rdquo; &mdash; the discourse's "
+             "own fourfold description of the five hindrances, "
+             "naming a specific cognitive weakening effect"),
+        ("kāmacchando byāpādo thinamiddhaṁ uddhaccakukkuccaṁ "
+             "vicikicchā", "the five hindrances, named in full as "
+             "this discourse's own first subject"),
+        ("na āvaraṇā na nīvaraṇā na cetaso upakkilesā", "&ldquo;not "
+             "obstacles, hindrances, or corruptions of the mind"
+             "&rdquo; &mdash; the identical negation already met at "
+             "SN 46.34, restated here as this discourse's own second "
+             "half"),
+        ("vijjāvimuttiphalasacchikiriyāya saṁvattanti", "&ldquo;lead "
+             "to the realization of the fruit of knowledge and "
+             "freedom&rdquo; &mdash; the positive outcome named for "
+             "the seven awakening factors"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse, both halves in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the five hindrances that weaken "
+              "wisdom", "sn46.37:1.1-1.8"),
+        ("p", "&sect;2 &mdash; the seven awakening factors, not "
+              "corruptions", "sn46.37:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse combine that SN 46.33 and 46.34 presented as two separate discourses?",
+         "opts": ["Both the hindrance-corruption claim and the awakening-factor non-corruption claim, within one unified statement", "The dragon simile and the roof-peak simile", "Two different sets of five hindrances", "Two entirely unrelated topics"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical closing formula from SN 46.34 reused here as this discourse's own second half."},
+        {"q": "What specific effect does this discourse name for the five hindrances, distinct from SN 46.33's own \"brittleness\" language?",
+         "opts": ["They weaken wisdom (paññāya dubbalīkaraṇā)", "They cause physical illness directly", "They shorten one's own lifespan", "They have no specific named effect"],
+         "correct": 0,
+         "expl": "Each discourse in this vagga supplies its own distinct angle on the same five obstructions."},
+        {"q": "What five hindrances are named in full in this discourse's own first half?",
+         "opts": ["Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt", "Greed, hate, delusion, pride, and envy", "Sensuality, existence, views, ignorance, and craving", "Form, feeling, perception, choices, and consciousness"],
+         "correct": 0,
+         "expl": "The standard fivefold list found consistently throughout this vagga and elsewhere in the canon."},
+    ],
+    marginalia=[
+        ("Two claims, now combined in one", [
+            "gold's own corruption, and its own antithesis —",
+            "here united within a single discourse"
+        ]),
+        ("A specific effect: weakened wisdom", [
+            "not just brittleness, this time —",
+            "a precise cognitive consequence named"
+        ]),
+        ("The same negation, reused word for word", [
+            "\"not obstacles, hindrances, corruptions\" —",
+            "confirmed identical to SN 46.34's own closing"
+        ]),
+        ("Three discourses remain in this vagga", [
+            "without obstacles, strangler figs —",
+            "then a closing antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.36.html\">SN 46.36 &middot; Growth</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.38.html\">SN 46.38 &middot; Without "
+        "Obstacles</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.38 — Anāvaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 38, "Anāvaraṇa", "Without Obstacles",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.38 — Without Obstacles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anāvaraṇasutta — the specific occasion when a noble "
+        "disciple listens attentively to the teaching, at which the "
+        "five hindrances are naturally absent and the seven "
+        "awakening factors naturally complete. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A named occasion, followed by an explicit twofold "
+                 "question-and-answer confirming both what is absent "
+                 "and what is complete"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "names a specific, recognizable occasion rather "
+                       "than a general principle"),
+    ],
+    why=(
+        "Rather than a general claim about hindrances and awakening "
+        "factors, this discourse names a specific, recognizable "
+        "occasion: when a noble disciple &ldquo;pays attention, "
+        "applies the mind, concentrates wholeheartedly, and actively "
+        "listens to the teaching,&rdquo; the five hindrances are "
+        "simply absent and the seven awakening factors are, at that "
+        "very moment, fully developed."
+    ),
+    guide=[
+        ("A concrete occasion, not an abstract mechanism", [
+            "Where most of this vagga's own discourses describe a "
+            "general mechanism or make a categorical claim, this one "
+            "names an ordinary, recognizable moment &mdash; genuinely "
+            "attentive listening to a teaching &mdash; as the specific "
+            "occasion when both conditions (hindrance-absence and "
+            "awakening-factor-completeness) hold simultaneously, "
+            "confirmed by the discourse's own explicit "
+            "question-and-answer structure for each.",
+        ]),
+    ],
+    terms=[
+        ("aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā "
+             "ohitasoto dhammaṁ suṇāti", "&ldquo;pays attention, "
+             "applies the mind, concentrates wholeheartedly, and "
+             "actively listens to the teaching&rdquo; &mdash; the "
+             "specific occasion this discourse names, a fourfold "
+             "description of genuine attentive listening"),
+        ("pañca nīvaraṇā tasmiṁ samaye na honti", "&ldquo;at such a "
+             "time the five hindrances are absent&rdquo; &mdash; the "
+             "discourse's own first confirmed condition"),
+        ("satta bojjhaṅgā tasmiṁ samaye bhāvanāpāripūriṁ gacchanti",
+             "&ldquo;the seven awakening factors are fully "
+             "developed&rdquo; &mdash; the discourse's own second "
+             "confirmed condition, occurring at the identical moment"),
+        ("ariyasāvako", "&ldquo;a noble disciple&rdquo; &mdash; the "
+             "discourse's own specific subject, one who has already "
+             "attained at least the first stage of awakening"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse, including its own explicit "
+        "question-and-answer confirmation. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the occasion", "sn46.38:1.1"),
+        ("p", "&sect;2 &mdash; the hindrances confirmed absent",
+             "sn46.38:2.1-2.3"),
+        ("p", "&sect;3 &mdash; the awakening factors confirmed "
+              "complete", "sn46.38:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What specific occasion does this discourse name, unlike most of this vagga's own more general claims?",
+         "opts": ["A noble disciple genuinely paying attention and listening attentively to the teaching", "A monastic ordination ceremony", "The moment of physical death", "A formal debate between two teachers"],
+         "correct": 0,
+         "expl": "An ordinary, recognizable moment rather than an abstract mechanism."},
+        {"q": "What two conditions does the discourse confirm hold simultaneously during this occasion?",
+         "opts": ["The five hindrances are absent, and the seven awakening factors are fully developed", "The five hindrances are present, and the awakening factors are absent", "Neither the hindrances nor the awakening factors are relevant", "Only the hindrances are mentioned, with no reference to the awakening factors"],
+         "correct": 0,
+         "expl": "Confirmed by the discourse's own explicit question-and-answer structure for each condition."},
+        {"q": "Who is the specific subject of this discourse?",
+         "opts": ["A noble disciple (ariyasāvako), one who has attained at least the first stage of awakening", "Any ordinary uninstructed person", "Only the Buddha himself", "A lay follower who has never taken refuge"],
+         "correct": 0,
+         "expl": "A specific category of person, distinct from a general claim about all beings."},
+    ],
+    marginalia=[
+        ("A recognizable moment, not an abstraction", [
+            "genuinely listening, wholeheartedly attending —",
+            "not a general mechanism, but an actual occasion"
+        ]),
+        ("Both conditions, confirmed together", [
+            "hindrances absent, factors complete —",
+            "at the very same moment, explicitly confirmed"
+        ]),
+        ("A noble disciple, specifically", [
+            "not just any listener —",
+            "one already advanced on the path"
+        ]),
+        ("Two discourses remain in this vagga", [
+            "strangler figs, a vivid warning —",
+            "then a closing antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.37.html\">SN 46.37 &middot; "
+        "Obstacles</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.39.html\">SN 46.39 &middot; Trees</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.39 — Rukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 39, "Rukkha", "Trees",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.39 — Trees | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rukkhasutta — strangler figs that engulf and destroy "
+        "their own host trees, likened to a mendicant overcome by the "
+        "very sensual pleasures they renounced. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "An extended botanical simile, naming six specific "
+                 "tree species, followed by the five hindrances and "
+                 "seven awakening factors as \"parasites\" and "
+                 "their own absence"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "vivid, cautionary imagery with a named "
+                       "botanical basis"),
+    ],
+    why=(
+        "Certain large trees begin from tiny seeds, grow up and "
+        "around a host tree as parasites, and eventually cause it to "
+        "&ldquo;break apart, collapse, and fall&rdquo; &mdash; a "
+        "precise image applied to a mendicant who, having renounced "
+        "sensual pleasures, is overcome by pleasures &ldquo;similar, "
+        "or even worse&rdquo; than those left behind, and falls in "
+        "the same way."
+    ),
+    guide=[
+        ("Six named species, not a generic \"tree\"", [
+            "The discourse names six specific strangler-fig species "
+            "(peepal, banyan, wavy leaf fig, cluster fig, Moreton Bay "
+            "fig, white fig) &mdash; all genuinely parasitic trees in "
+            "the ficus family that grow around a host, eventually "
+            "strangling and toppling it &mdash; grounding the "
+            "discourse's own simile in accurate, specific botanical "
+            "observation rather than a vague or invented comparison.",
+        ]),
+        ("A warning about relapse, not initial temptation", [
+            "The mendicant in this discourse's own simile has already "
+            "&ldquo;gone forth... abandoning sensual pleasures"
+            "&rdquo; &mdash; the danger named is not first temptation "
+            "but being &ldquo;beset by sensual pleasures that are "
+            "similar, or even worse&rdquo; after renunciation, "
+            "echoing the strangler fig's own way of growing "
+            "unnoticed around an already-established tree before "
+            "eventually destroying it.",
+        ]),
+        ("The vagga's own vocabulary shifts, briefly, to \"parasites\"", [
+            "Where SN 46.33-38 consistently use &ldquo;corruptions"
+            "&rdquo; or &ldquo;obstacles and hindrances,&rdquo; this "
+            "discourse's own closing restatement instead calls the "
+            "five hindrances &ldquo;parasites of the mind&rdquo; "
+            "(cittassa upakkilesā rendered to match the tree "
+            "imagery) &mdash; a vocabulary shift tied directly to "
+            "this discourse's own botanical simile.",
+        ]),
+    ],
+    terms=[
+        ("mahārukkhā appabījā mahākāyā", "&ldquo;large trees with "
+             "tiny seeds and big bodies&rdquo; &mdash; the discourse's "
+             "own opening description of parasitic strangler figs"),
+        ("assattho nigrodho pilakkho udumbaro kacchako kapitthano",
+             "the peepal, banyan, wavy leaf fig, cluster fig, "
+             "Moreton Bay fig, and white fig &mdash; six specific "
+             "strangler-fig species named by the discourse"),
+        ("kāmehi sadisehi vā hīnehi vā vippakiṇṇo", "&ldquo;beset by "
+             "sensual pleasures that are similar, or even worse"
+             "&rdquo; &mdash; the specific danger this discourse "
+             "warns against, distinct from initial temptation"),
+        ("so bhijjati palujjati viradīyati", "&ldquo;he breaks apart, "
+             "collapses, and falls&rdquo; &mdash; the discourse's own "
+             "description of both the engulfed tree and the relapsing "
+             "mendicant"),
+        ("pañca āvaraṇā nīvaraṇā cetaso upakkilesā", "&ldquo;five "
+             "obstacles and hindrances, parasites of the mind&rdquo; "
+             "&mdash; this discourse's own vocabulary, tied directly "
+             "to its own tree simile"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the strangler-fig simile",
+             "sn46.39:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the five hindrances as parasites of "
+              "the mind", "sn46.39:2.1-2.8"),
+        ("p", "&sect;3 &mdash; the seven awakening factors, not "
+              "parasites", "sn46.39:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What six tree species does this discourse name as parasitic strangler figs?",
+         "opts": ["The peepal, banyan, wavy leaf fig, cluster fig, Moreton Bay fig, and white fig", "The oak, pine, cedar, maple, birch, and willow", "Six unnamed generic \"large trees\"", "Bamboo, palm, coconut, mango, banana, and jackfruit"],
+         "correct": 0,
+         "expl": "Specific, genuinely parasitic species in the ficus family, grounding the simile in accurate botanical observation."},
+        {"q": "What specific danger does the mendicant simile warn against?",
+         "opts": ["Being overcome by sensual pleasures similar to or worse than those already renounced, after going forth", "The temptation to ordain in the first place", "The danger of formal debate with other ascetics", "Physical illness contracted while wandering"],
+         "correct": 0,
+         "expl": "A warning about relapse after renunciation, not about initial temptation before ordination."},
+        {"q": "What vocabulary shift appears in this discourse's own closing restatement, tied to its own tree imagery?",
+         "opts": ["The five hindrances are called \"parasites of the mind,\" rather than this vagga's own more common \"corruptions\"", "The awakening factors are renamed entirely", "The discourse abandons all technical vocabulary", "No vocabulary shift occurs at all"],
+         "correct": 0,
+         "expl": "A vocabulary choice directly connected to this discourse's own particular botanical simile."},
+    ],
+    marginalia=[
+        ("Six named trees, genuinely parasitic", [
+            "peepal, banyan, and four fig varieties —",
+            "accurate botany, not invented imagery"
+        ]),
+        ("A warning about falling back, not falling in", [
+            "already gone forth, already renounced —",
+            "and still overcome, similar or worse"
+        ]),
+        ("\"Parasites,\" not \"corruptions,\" this time", [
+            "vocabulary tied to the tree simile itself —",
+            "a shift this vagga's own other discourses don't make"
+        ]),
+        ("One discourse remains in this vagga", [
+            "a closing antithesis, destroyers versus creators —",
+            "of vision, knowledge, and extinguishment itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.38.html\">SN 46.38 &middot; Without "
+        "Obstacles</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.40.html\">SN 46.40 &middot; "
+        "Hindrances</a> &mdash; the next discourse, closing this "
+        "vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.40 — Nīvaraṇasutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    46, 40, "Nīvaraṇa", "Hindrances",
+    vagga="Nīvaraṇavagga",
+    meta_title="SN 46.40 — Hindrances | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the closing Nīvaraṇasutta — the five hindrances as "
+        "destroyers of vision and knowledge, the seven awakening "
+        "factors as their own creators, closing the Nīvaraṇavagga "
+        "with a direct antithesis. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A direct antithesis in two parallel halves, closing "
+                 "this vagga's own ten discourses"),
+        ("Length", "1-2 minutes to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own antithetical pattern "
+                       "with its own most complete statement"),
+    ],
+    why=(
+        "The five hindrances, this closing discourse states, are "
+        "&ldquo;destroyers of sight, vision, and knowledge... on the "
+        "side of distress&rdquo; and do not lead to extinguishment; "
+        "the seven awakening factors are their precise opposite: "
+        "&ldquo;creators of vision and knowledge... on the side of "
+        "solace,&rdquo; leading directly to extinguishment &mdash; "
+        "the vagga's own most complete and symmetrical antithesis, "
+        "closing everything that came before it."
+    ),
+    guide=[
+        ("The fullest antithesis in the entire vagga", [
+            "Confirmed by direct comparison, this discourse's own "
+            "closing statement is the most elaborate version of the "
+            "hindrance/awakening-factor contrast found anywhere in "
+            "this vagga &mdash; four distinct qualities named for "
+            "each side (destroyer/creator of vision and knowledge; "
+            "blocking/growing wisdom; siding with distress/solace; "
+            "not leading/leading to extinguishment), rather than the "
+            "single or double contrasts found in SN 46.34 or 46.37.",
+        ]),
+        ("A colophon and uddāna confirming this vagga's own count", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Nīvaraṇavaggo "
+            "catuttho&rdquo; (&ldquo;the Hindrances chapter, the "
+            "fourth&rdquo;) &mdash; unambiguous, matching this "
+            "project's own count without discrepancy. The closing "
+            "uddāna names all ten discourses in order: two on "
+            "Skillful qualities, Corruptions and Not Corruptions; two "
+            "on rational application of mind and Growth; Obstacles, "
+            "Without Obstacles, Trees; and this discourse itself, "
+            "Hindrances.",
+        ]),
+    ],
+    terms=[
+        ("andhakaraṇā acakkhukaraṇā aññāṇakaraṇā", "&ldquo;destroyers "
+             "of sight, vision, and knowledge&rdquo; &mdash; the "
+             "first of four qualities named for the five hindrances, "
+             "the most vivid negative description in this vagga's "
+             "own sequence"),
+        ("paññānirodhikā vighātapakkhiyā anibbānasaṁvattanikā",
+             "&ldquo;they block wisdom, they're on the side of "
+             "distress, and they don't lead to extinguishment&rdquo; "
+             "&mdash; the remaining three negative qualities, "
+             "completing the fourfold description"),
+        ("cakkhukaraṇā ñāṇakaraṇā paññābuddhiyā", "&ldquo;creators of "
+             "vision and knowledge... they grow wisdom&rdquo; "
+             "&mdash; the precise positive antithesis, applied to "
+             "the seven awakening factors"),
+        ("avighātapakkhiyā nibbānasaṁvattanikā", "&ldquo;on the side "
+             "of solace, and lead to extinguishment&rdquo; &mdash; "
+             "completing the fourfold positive antithesis"),
+        ("nīvaraṇavaggo catuttho", "&ldquo;the Hindrances chapter, "
+             "the fourth&rdquo; &mdash; unambiguous confirmation of "
+             "this vagga's own position, matching this project's own "
+             "count without discrepancy"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, closing the Nīvaraṇavagga. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the five hindrances as destroyers",
+             "sn46.40:1.1-1.3"),
+        ("p", "&sect;1 (concluded) &mdash; the restatement",
+             "sn46.40:1.8"),
+        ("p", "&sect;2 &mdash; the seven awakening factors as "
+              "creators", "sn46.40:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many distinct qualities does this discourse name for each side of its own antithesis, making it the vagga's own most elaborate version?",
+         "opts": ["Four — destroyer/creator of vision and knowledge, blocking/growing wisdom, siding with distress/solace, and not leading/leading to extinguishment", "Only one quality per side", "Seven qualities, matching the seven awakening factors themselves", "The discourse names no specific qualities at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to be more elaborate than the single or double contrasts found in SN 46.34 or 46.37."},
+        {"q": "What does this vagga's own closing colophon confirm about its own position?",
+         "opts": ["It is unambiguously the fourth vagga of this saṃyutta, matching this project's own count", "It is disputed between being the third and fourth vagga", "It belongs to the preceding saṃyutta, SN 45", "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed without discrepancy, unlike several vaggas met throughout SN 45."},
+        {"q": "What outcome does the discourse attribute to the seven awakening factors, in direct contrast to the five hindrances?",
+         "opts": ["They lead to extinguishment, while the hindrances do not", "They also fail to lead to extinguishment", "Neither the hindrances nor the awakening factors relate to extinguishment", "The discourse makes no claim about extinguishment"],
+         "correct": 0,
+         "expl": "The final and most consequential term in this discourse's own fourfold antithesis."},
+    ],
+    marginalia=[
+        ("Destroyers of vision; creators of vision", [
+            "the fullest antithesis in this vagga —",
+            "four qualities, precisely opposed"
+        ]),
+        ("Distress on one side; solace on the other", [
+            "blocking wisdom, or growing it —",
+            "not leading to extinguishment, or leading there directly"
+        ]),
+        ("A colophon without discrepancy, confirmed", [
+            "\"the Hindrances chapter, the fourth\" —",
+            "matching this project's own count exactly"
+        ]),
+        ("Ten discourses, one vagga, complete", [
+            "diligence and attention as twin roots —",
+            "gold, strangler figs, and this closing antithesis"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.39.html\">SN 46.39 &middot; Trees</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, A Wheel-Turning Monarch, is still in "
+        "preparation.",
+    ],
+)
