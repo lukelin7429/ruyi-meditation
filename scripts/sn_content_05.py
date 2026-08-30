@@ -39595,3 +39595,160 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.42 — Uṇṇābhabrāhmaṇasutta
+# A second narrative discourse, confirming the five-sense-faculty
+# pattern (omitting mind) already observed at SN 48.41 — now genuinely
+# confirmed rather than a one-off variant. The Buddha traces a
+# philosophical regress from the five senses through mind,
+# mindfulness, and freedom, to extinguishment itself, then declines a
+# question that goes beyond the limit of questioning.
+# --------------------------------------------------------------------------- #
+page(
+    48, 42, "Uṇṇābhabrāhmaṇa", "The Brahmin Uṇṇābha",
+    vagga="Jarāvagga",
+    meta_title="SN 48.42 — The Brahmin Uṇṇābha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uṇṇābhabrāhmaṇasutta — a philosophical dialogue tracing "
+        "the five senses' own recourse through mind, mindfulness, and "
+        "freedom, to extinguishment itself, closing with a memorable "
+        "simile of sunlight through a window. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The brahmin Uṇṇābha, questioning the Buddha; "
+                     "the Buddha, answering and later addressing the "
+                     "mendicants after Uṇṇābha's own departure"),
+        ("Form", "A philosophical dialogue in a chain of "
+                 "questions, followed by a simile addressed to the "
+                 "mendicants"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirms the five-sense-faculty "
+                         "pattern first observed at SN 48.41, and "
+                         "traces a philosophical regress ending at "
+                         "the Buddha's own explicit refusal to answer "
+                         "a question that goes too far"),
+    ],
+    why=(
+        "This discourse confirms, for a second time, the pattern "
+        "this project's own SN 48.41 first observed: only the five "
+        "sense faculties (eye, ear, nose, tongue, body), omitting "
+        "mind. The brahmin Uṇṇābha then draws the Buddha into a "
+        "philosophical regress &mdash; the five senses have recourse "
+        "to the mind, the mind to mindfulness, mindfulness to "
+        "freedom, freedom to extinguishment &mdash; until the Buddha "
+        "declines to answer what extinguishment itself has recourse "
+        "to, since it is the spiritual life's own final destination."
+    ),
+    guide=[
+        ("The five-faculty pattern, now confirmed a second time", [
+            "Confirmed by direct reading, this discourse names the "
+            "identical five sense faculties as SN 48.41 &mdash; eye, "
+            "ear, nose, tongue, body, again omitting mind &mdash; "
+            "strengthening this project's own earlier honest "
+            "observation into a genuinely confirmed pattern within "
+            "this vagga, rather than a single isolated variant.",
+        ]),
+        ("A chain of recourse, ending at a refused question", [
+            "Confirmed by direct reading, Uṇṇābha's own line of "
+            "questioning traces a regress: the five senses have "
+            "recourse to (paṭisaraṇa) the mind, which alone "
+            "experiences all their domains; the mind has recourse to "
+            "mindfulness; mindfulness to freedom; freedom to "
+            "extinguishment (nibbāna). When Uṇṇābha asks what "
+            "extinguishment itself has recourse to, the Buddha "
+            "explicitly refuses: &ldquo;this question goes too far "
+            "&hellip; you weren't able to grasp the limit of "
+            "questioning,&rdquo; since extinguishment is itself "
+            "&ldquo;the objective, destination, and culmination of "
+            "the spiritual life,&rdquo; with nothing further to ask "
+            "beyond it.",
+        ]),
+        ("A memorable simile: sunlight through an east-facing window", [
+            "Confirmed by direct reading, after Uṇṇābha's own "
+            "departure the Buddha tells the mendicants that a ray of "
+            "morning sunlight entering an east-facing window lands "
+            "on the WESTERN wall &mdash; illustrating that Uṇṇābha's "
+            "own faith in the Buddha is so settled, rooted, and "
+            "immovable that, were he to die at that very time, no "
+            "fetter would bind him to return to this world.",
+        ]),
+    ],
+    terms=[
+        ("Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, "
+             "kāyindriyaṁ", "the five sense faculties named here, "
+             "again omitting mind, matching this project's own "
+             "SN 48.41"),
+        ("paṭisaraṇa", "&ldquo;recourse, refuge&rdquo; &mdash; the "
+             "key term linking each stage of Uṇṇābha's own regress "
+             "chain to the next"),
+        ("sati", "&ldquo;mindfulness&rdquo; &mdash; what the mind "
+             "itself has recourse to, in the chain's own second "
+             "step"),
+        ("nibbānogadhaṁ &hellip; nibbānaparāyaṇaṁ "
+             "nibbānapariyosānaṁ", "&ldquo;extinguishment is the "
+             "objective, destination, and culmination&rdquo; of the "
+             "spiritual life &mdash; the Buddha's own reason for "
+             "declining a question beyond it"),
+        ("Dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's second "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-2 &mdash; the setting and Uṇṇābha's own "
+              "question", "sn48.42:1.1-2.4"),
+        ("p", "&sect;3-4 &mdash; the chain of recourse, ending at "
+              "the Buddha's own refusal", "sn48.42:3.1-4.9"),
+        ("p", "&sect;5-6 &mdash; Uṇṇābha's departure and the simile "
+              "of sunlight through a window", "sn48.42:5.1-6.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about the five faculties it names?",
+         "opts": ["Only five sense faculties, omitting mind, confirming the pattern first observed at SN 48.41", "Six faculties, including mind, contradicting SN 48.41", "The five spiritual faculties instead of sense faculties", "A different set of faculties entirely, unrelated to the sense faculties"],
+         "correct": 0,
+         "expl": "Strengthening the earlier honest observation into a genuinely confirmed pattern."},
+        {"q": "Why does the Buddha decline to answer what extinguishment itself has recourse to?",
+         "opts": ["Because extinguishment is itself the spiritual life's own final objective, destination, and culmination, with nothing further beyond it", "Because the Buddha does not know the answer", "Because Uṇṇābha asked the question rudely", "Because the question was answered earlier in the discourse"],
+         "correct": 0,
+         "expl": "The question goes beyond the limit of what can meaningfully be asked."},
+        {"q": "What does the sunlight-through-a-window simile illustrate?",
+         "opts": ["Uṇṇābha's own faith in the Buddha is so settled and rooted that he would not return to this world if he died at that time", "That sunlight always favors the eastern wall of a building", "That Uṇṇābha's questions were ultimately unanswerable and pointless", "That the Buddha doubted Uṇṇābha's own sincerity"],
+         "correct": 0,
+         "expl": "An extraordinary claim about the depth of Uṇṇābha's own unshakeable faith."},
+    ],
+    marginalia=[
+        ("Five again, not six", [
+            "eye, ear, nose, tongue, body — mind left out —",
+            "the same pattern as the discourse before it"
+        ]),
+        ("A chain, step by step", [
+            "senses to mind, mind to mindfulness —",
+            "mindfulness to freedom, freedom to extinguishment"
+        ]),
+        ("A question refused", [
+            "nothing lies beyond the final shore —",
+            "the limit of questioning, reached and named"
+        ]),
+        ("Light through an eastern window", [
+            "landing on the farthest wall —",
+            "faith rooted deep enough not to return"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.41.html\">SN 48.41 &middot; Old Age</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
