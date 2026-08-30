@@ -43100,3 +43100,139 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.66 — Dutiyaphalasutta
+# Confirms the companion discourse this project flagged as an open
+# possibility at SN 48.65, rather than assumed: "Dutiya" ("second"),
+# expanding the two fruits into the classic sevenfold formula by
+# splitting "this very life" into early/at-death and "non-return"
+# into the five traditional types of non-returner.
+# --------------------------------------------------------------------------- #
+page(
+    48, 66, "Dutiyaphala", "Seven Benefits",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.66 — Seven Benefits | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaphalasutta — the five faculties, developed and "
+        "cultivated, yield seven fruits and benefits, expanding the "
+        "two fruits of SN 48.65. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement, listing seven "
+                 "items"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms and expands SN 48.65's own "
+                         "two fruits into the classic sevenfold "
+                         "formula"),
+    ],
+    why=(
+        "This discourse confirms, in the text's own words, the "
+        "companion this project flagged as an open possibility at SN "
+        "48.65 rather than assumed in advance: its own Pali title, "
+        "&ldquo;Dutiya&rdquo; (&ldquo;second&rdquo;), pairs directly "
+        "with SN 48.65's &ldquo;Paṭhama&rdquo; (&ldquo;first&rdquo;), "
+        "and its own content expands the prior discourse's two fruits "
+        "into the well-known sevenfold formula."
+    ),
+    guide=[
+        ("A confirmed pair, and a genuine expansion", [
+            "Confirmed by direct reading, this discourse's own title "
+            "and content settle what SN 48.65 only suggested: this "
+            "is indeed its paired &ldquo;second&rdquo; discourse, and "
+            "it expands &mdash; not merely repeats &mdash; the prior "
+            "discourse's two fruits into seven, by splitting each "
+            "fruit into its own traditional finer gradations.",
+        ]),
+        ("Seven fruits: two for full awakening, five for non-return", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: the first "
+            "fruit (full awakening) splits into early-in-this-life or "
+            "at-the-moment-of-death; the second (non-return) splits "
+            "into the five classic types of non-returner &mdash; "
+            "extinguished between one life and the next, upon "
+            "landing, without extra effort, with extra effort, or "
+            "heading upstream to the Akaniṭṭha realm.",
+        ]),
+        ("A formula recurring across the canon", [
+            "This project's own observation: this exact sevenfold "
+            "list &mdash; expanding the two fruits into seven "
+            "&mdash; recurs at the close of other major canonical "
+            "practice sequences, such as the Ānāpānasatisutta, "
+            "confirming this as a standard, widely reused closing "
+            "formula rather than something unique to this vagga.",
+        ]),
+    ],
+    terms=[
+        ("satta phalā sattānisaṁsā", "&ldquo;seven fruits and "
+             "benefits&rdquo; &mdash; this discourse's own expanded "
+             "count"),
+        ("diṭṭheva dhamme paṭikacca aññaṁ ārādheti", "&ldquo;attains "
+             "enlightenment early on in this very life&rdquo; "
+             "&mdash; the first of the seven"),
+        ("antarāparinibbāyī...upahaccaparinibbāyī..."
+         "asaṅkhāraparinibbāyī...sasaṅkhāraparinibbāyī...uddhaṁsoto "
+         "akaniṭṭhagāmī", "the five traditional types of "
+             "non-returner, each named as its own distinct fruit"),
+        ("orambhāgiyānaṁ saṁyojanānaṁ parikkhayā", "&ldquo;with the "
+             "ending of the five lower fetters&rdquo; &mdash; the "
+             "condition for non-return"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's sixth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.66:1.1-1.14"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 48.65's own \"two fruits\"?",
+         "opts": ["It confirms the companion this project flagged as possible, and expands the two fruits into a sevenfold list", "It denies that SN 48.65's two fruits are correct", "It is an unrelated topic with no connection to the previous discourse", "It reduces the two fruits down to a single fruit"],
+         "correct": 0,
+         "expl": "\"Dutiya\" (second) pairs directly with \"Paṭhama\" (first) — confirmed, not assumed."},
+        {"q": "How do the seven fruits break down, as general canonical background?",
+         "opts": ["Two gradations of full awakening (early in life or at death), and five traditional types of non-returner", "Seven completely unrelated outcomes with no shared structure", "Seven different levels of meditative absorption (jhāna)", "A list of seven precepts to be kept"],
+         "correct": 0,
+         "expl": "The two fruits of SN 48.65, each expanded into its own finer gradations."},
+        {"q": "What does this project note about where this sevenfold formula appears?",
+         "opts": ["It recurs at the close of other major canonical sequences, such as the Ānāpānasatisutta", "It is found nowhere else in the entire canon", "It was composed specifically and only for this vagga", "It contradicts the sevenfold list found in other suttas"],
+         "correct": 0,
+         "expl": "A standard, widely reused closing formula, not unique to this vagga."},
+    ],
+    marginalia=[
+        ("A pair confirmed, not guessed", [
+            "Paṭhama and Dutiya, first and second &mdash;",
+            "the text itself settles it"
+        ]),
+        ("Two fruits, opened into seven", [
+            "awakening split in two, non-return in five &mdash;",
+            "the same two doors, finer hinges"
+        ]),
+        ("Five ways to not return", [
+            "between lives, on landing, with ease or with effort &mdash;",
+            "or upstream, all the way to Akaniṭṭha"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "a familiar formula, reused once more &mdash;",
+            "recognized here, not invented here"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.65.html\">SN 48.65 &middot; Two Fruits</a> "
+        "&mdash; the previous discourse, and this discourse's own "
+        "confirmed pair.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
