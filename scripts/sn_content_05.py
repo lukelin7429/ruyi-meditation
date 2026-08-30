@@ -26186,3 +26186,142 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.5 — Akusalarāsisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 5, "Akusalarāsi", "A Heap of the Unskillful",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.5 — A Heap of the Unskillful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Akusalarāsisutta — a symmetrical discourse naming the "
+        "five hindrances as \"entirely a heap of the unskillful\" and "
+        "the four kinds of mindfulness meditation as \"entirely a "
+        "heap of the skillful.\" From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two parallel, symmetrically-worded halves, "
+                 "naming an unskillful heap and a skillful heap in "
+                 "turn"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short and direct, built on a clear antithesis"),
+    ],
+    why=(
+        "This discourse names the five hindrances &mdash; sensual "
+        "desire, ill will, dullness and drowsiness, restlessness and "
+        "remorse, and doubt &mdash; as &ldquo;entirely a heap of the "
+        "unskillful,&rdquo; then names the four kinds of mindfulness "
+        "meditation as &ldquo;entirely a heap of the skillful,&rdquo; "
+        "using identical sentence structure for both, so that each "
+        "list is confirmed to stand as a single, complete opposite of "
+        "the other."
+    ),
+    guide=[
+        ("Two heaps, one grammatical structure", [
+            "Confirmed by direct comparison, the discourse's own two "
+            "halves use word-for-word identical sentence structure "
+            "&mdash; &ldquo;rightly speaking, you'd call these "
+            "[N] a &lsquo;heap of the [unskillful/skillful]&rsquo;; "
+            "for these [N] are entirely a heap of the "
+            "[unskillful/skillful]&rdquo; &mdash; applied first to the "
+            "five hindrances and then to the four kinds of "
+            "mindfulness meditation, framing them as structural "
+            "opposites rather than merely two separate lists.",
+        ]),
+        ("\"Entirely\" -- kevalo, not merely a collection", [
+            "The word &ldquo;kevalo&rdquo; (&ldquo;entirely, "
+            "wholly&rdquo;) is confirmed by direct reading to modify "
+            "both heaps identically &mdash; the hindrances are not "
+            "PART of what is unskillful but the WHOLE of it, and the "
+            "four establishments are not part of what is skillful but "
+            "the whole of it, at least as this discourse's own "
+            "rhetorical claim frames the comparison.",
+        ]),
+        ("Five hindrances, four establishments -- an asymmetry within the symmetry", [
+            "The two heaps are confirmed by direct count to be "
+            "UNEQUAL in size &mdash; five hindrances against four "
+            "establishments of mindfulness &mdash; a detail this "
+            "discourse's own parallel wording does not smooth over, "
+            "left here as the source itself presents it rather than "
+            "adjusted for a false symmetry.",
+        ]),
+    ],
+    terms=[
+        ("akusalarāsi", "&ldquo;a heap of the unskillful&rdquo; "
+             "&mdash; the discourse's own name for the five "
+             "hindrances taken together"),
+        ("kusalarāsi", "&ldquo;a heap of the skillful&rdquo; "
+             "&mdash; the discourse's own name for the four kinds of "
+             "mindfulness meditation taken together"),
+        ("pañca nīvaraṇā: kāmacchanda, byāpāda, thinamiddha, "
+             "uddhaccakukkucca, vicikicchā", "&ldquo;the five "
+             "hindrances: sensual desire, ill will, dullness and "
+             "drowsiness, restlessness and remorse, and doubt&rdquo; "
+             "&mdash; named in full as this discourse's own "
+             "unskillful heap"),
+        ("kevalo", "&ldquo;entirely, wholly&rdquo; &mdash; the word "
+             "modifying both heaps identically, confirming each list "
+             "is claimed to be the WHOLE of its category, not merely "
+             "a part"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; named as this "
+             "discourse's own skillful heap, in direct antithesis to "
+             "the five hindrances"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the five hindrances as a heap of the "
+              "unskillful", "sn47.5:1.1-1.8"),
+        ("p", "&sect;2 &mdash; the four establishments as a heap of "
+              "the skillful", "sn47.5:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as \"entirely a heap of the unskillful\"?",
+         "opts": ["The five hindrances: sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt", "The four kinds of mindfulness meditation", "The eightfold path", "The three characteristics of existence"],
+         "correct": 0,
+         "expl": "The first of two symmetrically-worded halves in this discourse."},
+        {"q": "What grammatical feature does this discourse use to link its two halves?",
+         "opts": ["Word-for-word identical sentence structure applied first to the hindrances, then to the mindfulness formula", "Two completely unrelated sentence structures", "A single sentence spanning both halves without division", "A question-and-answer dialogue format"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, framing the two heaps as structural opposites."},
+        {"q": "What numerical detail does this discourse's own parallel wording NOT smooth over?",
+         "opts": ["The two heaps are unequal in size — five hindrances against only four establishments of mindfulness", "The two heaps are both made of exactly ten items", "There are actually six hindrances, not five", "The mindfulness formula has only two components, not four"],
+         "correct": 0,
+         "expl": "Left as the source itself presents it rather than adjusted for a false symmetry."},
+    ],
+    marginalia=[
+        ("Two heaps, one grammar", [
+            "identical wording for both halves —",
+            "framing them as structural opposites"
+        ]),
+        ("\"Entirely,\" not merely in part", [
+            "kevalo modifies both heaps alike —",
+            "the whole of unskillful, the whole of skillful"
+        ]),
+        ("Five against four", [
+            "an asymmetry the parallel wording keeps —",
+            "not smoothed into a false balance"
+        ]),
+        ("A rhetorical claim, stated twice", [
+            "\"rightly speaking, you'd call these...\" —",
+            "the same formula, opposite content"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.4.html\">SN 47.4 &middot; At Sālā</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
