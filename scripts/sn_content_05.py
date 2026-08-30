@@ -35140,3 +35140,142 @@ page(
         "48.11 onward) are still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 2. Mudutaravagga — Weaker (Vagga 2 of Book VIII, Indriyasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 48.11 — Paṭilābhasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 11, "Paṭilābha", "Gain",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.11 — Gain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭilābhasutta — opening a new vagga by redefining "
+        "energy and mindfulness not as the practice itself, but as "
+        "what is gained owing to that practice. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five paired questions and answers, mixing "
+                 "unchanged definitions with two subtly recast ones"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; opens a new vagga, Mudutaravagga "
+                         "(&ldquo;Weaker&rdquo;), whose own naming "
+                         "logic this project will confirm as further "
+                         "discourses are reached"),
+    ],
+    why=(
+        "This discourse opens a new vagga by taking Suddhikavagga's "
+        "own five definitions and recasting two of them, energy and "
+        "mindfulness, in a subtly different way &mdash; not as the "
+        "practice itself, but as what is GAINED (paṭilābha) OWING TO "
+        "that practice, matching this discourse's own title exactly, "
+        "while leaving faith, immersion, and wisdom unchanged from "
+        "the previous vagga's own definitions."
+    ),
+    guide=[
+        ("A causal recasting, not a new definition", [
+            "Confirmed by direct reading, energy and mindfulness are "
+            "defined here as &ldquo;the energy/mindfulness that's "
+            "gained OWING TO&rdquo; (ārabbha... paṭilabhati) the "
+            "four right efforts and the four kinds of mindfulness "
+            "meditation respectively &mdash; a subtly different "
+            "framing from SN 48.9's own brief statement (the "
+            "faculty simply IS the practice) and SN 48.10's own full "
+            "formula (spelling the practice out).",
+        ]),
+        ("Three faculties unchanged, two recast", [
+            "This project's own direct comparison confirms faith, "
+            "immersion, and wisdom are defined here WORD FOR WORD as "
+            "in SN 48.9 and SN 48.10 &mdash; only energy and "
+            "mindfulness are recast, both now framed as an "
+            "ACQUISITION resulting from practice rather than the "
+            "practice or its own outcome stated directly.",
+        ]),
+        ("A new vagga, whose own name is not yet explained", [
+            "Confirmed by direct reading, this discourse opens "
+            "Mudutaravagga (&ldquo;Weaker&rdquo;) &mdash; this "
+            "project has not yet found, within this single opening "
+            "discourse, what specifically the vagga's own name "
+            "refers to, and will confirm rather than guess as "
+            "further discourses in this vagga are reached.",
+        ]),
+    ],
+    terms=[
+        ("paṭilābha", "&ldquo;gain, acquisition&rdquo; &mdash; this "
+             "discourse's own title term, framing two of the five "
+             "faculties as something acquired through practice"),
+        ("cattāro sammappadhāne ārabbha vīriyaṁ paṭilabhati", "&ldquo;"
+             "the energy that's gained owing to the four right "
+             "efforts&rdquo; &mdash; this discourse's own recast "
+             "definition of the faculty of energy"),
+        ("cattāro satipaṭṭhāne ārabbha satiṁ paṭilabhati", "&ldquo;"
+             "the mindfulness that's gained owing to the four kinds "
+             "of mindfulness meditation&rdquo; &mdash; the recast "
+             "definition of the faculty of mindfulness"),
+        ("Mudutaravagga", "&ldquo;Weaker&rdquo; &mdash; this vagga's "
+             "own name, whose specific reference within this "
+             "discourse is not yet confirmed"),
+        ("saddhindriyaṁ... samādhindriyaṁ... paññindriyaṁ", "faith, "
+             "immersion, and wisdom, all three defined here "
+             "identically to SN 48.9 and SN 48.10, unaffected by "
+             "this discourse's own recasting of energy and "
+             "mindfulness"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.11:1.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse redefine the faculties of energy and mindfulness?",
+         "opts": ["As what is gained owing to the four right efforts and the four kinds of mindfulness meditation, rather than the practice itself", "As identical to SN 48.9's own brief statements, with no change at all", "As entirely new practices not mentioned in earlier discourses", "As only applicable to advanced practitioners"],
+         "correct": 0,
+         "expl": "A causal, acquisition-framed definition matching this discourse's own title, \"Gain.\""},
+        {"q": "Which three faculties remain unchanged from SN 48.9 and SN 48.10?",
+         "opts": ["Faith, immersion, and wisdom", "Energy, mindfulness, and wisdom", "All five faculties are changed in this discourse", "Only faith remains unchanged"],
+         "correct": 0,
+         "expl": "Word for word identical, confirming only energy and mindfulness are recast."},
+        {"q": "What does this project do regarding the vagga's own name, \"Weaker\" (Mudutara)?",
+         "opts": ["Confirms its specific reference only as further discourses in the vagga are reached, rather than guessing now", "Assumes it refers to a weakened version of the five faculties without further checking", "Ignores the name entirely as irrelevant", "Assumes it must mean the opposite of SN 48.1's own vagga name"],
+         "correct": 0,
+         "expl": "Consistent with this project's own standing rule never to assume a later vagga's own structure or naming logic."},
+    ],
+    marginalia=[
+        ("Gained, not simply practiced", [
+            "energy and mindfulness, recast —",
+            "an acquisition owing to the practice"
+        ]),
+        ("Three unchanged, two recast", [
+            "faith, immersion, wisdom — identical —",
+            "only energy and mindfulness shift"
+        ]),
+        ("A new vagga, its own name unexplained yet", [
+            "Mudutaravagga, \"Weaker\" —",
+            "confirmed later, not guessed now"
+        ]),
+        ("First discourse, Paṭhamaṁ", [
+            "opening this saṃyutta's own second vagga —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.10.html\">SN 48.10 &middot; Analysis "
+        "(2nd)</a> &mdash; the previous discourse, closing the "
+        "preceding vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
