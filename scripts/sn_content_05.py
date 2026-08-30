@@ -36091,3 +36091,149 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.18 — Paṭipannasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 18, "Paṭipanna", "Practicing",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.18 — Practicing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭipannasutta — interleaving each fruit of awakening "
+        "with the stage of practicing toward it, then naming those "
+        "totally lacking the five faculties as standing entirely "
+        "outside, among ordinary persons. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "An eight-level scale alternating each attained "
+                 "fruit with the stage of practicing toward it, "
+                 "closing with a new statement about those entirely "
+                 "lacking the five faculties"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a genuinely new structure, "
+                         "distinct from both the &ldquo;brief&rdquo; "
+                         "and &ldquo;detailed&rdquo; scales already "
+                         "met, introducing the ordinary person "
+                         "(puthujjana) as standing outside entirely"),
+    ],
+    why=(
+        "This discourse introduces a genuinely new structure, "
+        "distinct from the six-discourse mirror set just completed "
+        "(SN 48.12-17): rather than a single descending scale, it "
+        "INTERLEAVES each of the four fruits (arahantship, "
+        "non-return, once-return, stream-entry) with the stage of "
+        "PRACTICING toward that same fruit, doubling four levels "
+        "into eight &mdash; then closes with a wholly new statement, "
+        "naming those who totally and utterly lack the five "
+        "faculties as standing OUTSIDE this entire scale, among "
+        "ordinary persons (puthujjana)."
+    ),
+    guide=[
+        ("Fruit and path-to-fruit, alternating", [
+            "Confirmed by direct reading, this discourse's own scale "
+            "alternates each attained fruit with the corresponding "
+            "PRACTICE toward it: arahant, then one practicing to "
+            "realize the fruit of arahantship; non-returner, then "
+            "one practicing for that fruit; and so on through "
+            "once-return and stream-entry &mdash; a structure this "
+            "project has not met in this exact form among the "
+            "earlier discourses of this vagga.",
+        ]),
+        ("A shorter scale, stopping at stream-entry", [
+            "This project's own direct comparison confirms this "
+            "discourse's own scale is SHORTER than the six- and "
+            "nine-level scales already met &mdash; it stops at "
+            "&ldquo;practicing to realize the fruit of "
+            "stream-entry,&rdquo; without descending further to "
+            "follower of teachings or follower by faith.",
+        ]),
+        ("The ordinary person, standing entirely outside", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing statement is genuinely new: someone who "
+            "TOTALLY AND UTTERLY (sabbena sabbaṁ sabbathā sabbaṁ) "
+            "lacks the five faculties is said to stand OUTSIDE "
+            "(bāhira), in the faction of ordinary persons "
+            "(puthujjanapakkha) &mdash; a category this discourse's "
+            "own scale does not otherwise measure, since the scale "
+            "itself only describes degrees of possessing the "
+            "faculties, not their total absence.",
+        ]),
+    ],
+    terms=[
+        ("arahattaphalasacchikiriyāya paṭipanno", "&ldquo;practicing "
+             "to realize the fruit of perfection&rdquo; &mdash; the "
+             "stage interleaved directly after the arahant in this "
+             "discourse's own scale"),
+        ("...phalasacchikiriyāya paṭipanno", "the same "
+             "&ldquo;practicing to realize the fruit of...&rdquo; "
+             "pattern repeated for non-return, once-return, and "
+             "stream-entry"),
+        ("sabbena sabbaṁ sabbathā sabbaṁ natthi", "&ldquo;totally "
+             "and utterly lacks&rdquo; &mdash; the discourse's own "
+             "emphatic phrase describing complete absence of the "
+             "five faculties"),
+        ("bāhiro puthujjanapakkhe ṭhito", "&ldquo;standing outside, "
+             "in the faction of ordinary persons&rdquo; &mdash; this "
+             "discourse's own new category, outside the scale of "
+             "practicing toward or attaining any fruit"),
+        ("puthujjana", "&ldquo;ordinary person, worldling&rdquo; "
+             "&mdash; a term for one who has not entered any stage "
+             "of awakening, here named as standing entirely outside "
+             "this discourse's own scale"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.18:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own scale differ structurally from SN 48.12-17's own scales?",
+         "opts": ["It interleaves each attained fruit with the stage of practicing toward it, doubling four levels into eight", "It is identical to the six-level scale already met", "It is identical to the nine-level scale already met", "It removes all levels of attainment entirely"],
+         "correct": 0,
+         "expl": "A genuinely new structure this project has not met in this exact form among the earlier discourses."},
+        {"q": "Where does this discourse's own scale stop, compared to the earlier six-level scale?",
+         "opts": ["At stream-entry, without descending to follower of teachings or follower by faith", "It continues further than the six-level scale, adding new categories below faith", "It stops at non-return, higher than the six-level scale", "It is identical in length to the earlier scale"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to be shorter than the scales already met."},
+        {"q": "What new category does this discourse's own closing statement introduce?",
+         "opts": ["The ordinary person (puthujjana), standing entirely outside the scale for totally lacking the five faculties", "A new, higher stage above the arahant", "A category for those who have only partially developed one faculty", "Nothing new; the closing repeats an earlier discourse's own content"],
+         "correct": 0,
+         "expl": "A category the scale itself does not otherwise measure, since it only describes degrees of possessing the faculties."},
+    ],
+    marginalia=[
+        ("Fruit and path, interleaved", [
+            "each attainment paired with practicing toward it —",
+            "four levels doubled into eight"
+        ]),
+        ("A shorter scale this time", [
+            "stopping at stream-entry —",
+            "not descending to the two lowest followers"
+        ]),
+        ("The ordinary person — standing outside", [
+            "totally and utterly lacking the faculties —",
+            "a category the scale itself cannot measure"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.17.html\">SN 48.17 &middot; In Detail "
+        "(3rd)</a> &mdash; the previous discourse, closing the "
+        "six-discourse mirror set.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
