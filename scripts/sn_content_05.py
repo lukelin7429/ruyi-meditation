@@ -34015,3 +34015,136 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.3 — Dutiyasotāpannasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 3, "Dutiyasotāpanna", "A Stream-Enterer (2nd)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.3 — A Stream-Enterer (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasotāpannasutta — confirming the companion "
+        "discourse signaled by SN 48.2's own \"(1st)\" title, "
+        "expanding the threefold lens to five: origin, disappearance, "
+        "gratification, drawback, and escape. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The five faculties restated, then a single "
+                 "condition defining the stream-enterer, expanded "
+                 "from SN 48.2's own threefold lens to a fivefold one"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and confirms exactly what SN 48.2's "
+                       "own \"(1st)\" title predicted"),
+    ],
+    why=(
+        "This discourse confirms, by direct reading, exactly the "
+        "companion discourse SN 48.2's own title (&ldquo;A "
+        "Stream-Enterer, First Version&rdquo;) predicted &mdash; and "
+        "it expands the earlier discourse's own threefold lens "
+        "(gratification, drawback, escape) to a FIVEFOLD one, adding "
+        "origin (samudaya) and disappearance (atthaṅgama) as two "
+        "further angles for understanding the five faculties, while "
+        "closing with the identical stream-entry formula."
+    ),
+    guide=[
+        ("Confirmed: the predicted companion discourse", [
+            "This project's own SN 48.2 correctly anticipated that "
+            "its own &ldquo;(1st)&rdquo; title signaled a companion "
+            "discourse &mdash; confirmed here by direct reading, "
+            "this discourse's own title, &ldquo;Dutiyasotāpanna-"
+            "sutta&rdquo; (&ldquo;A Stream-Enterer, Second "
+            "Version&rdquo;), is that exact companion.",
+        ]),
+        ("Five angles, not three -- origin and disappearance added", [
+            "Confirmed by direct reading, this discourse's own "
+            "condition for stream-entry adds TWO further angles "
+            "beyond SN 48.2's own threefold lens: &ldquo;samudaya"
+            "&rdquo; (origin) and &ldquo;atthaṅgama&rdquo; "
+            "(disappearance), preceding the same gratification, "
+            "drawback, and escape already met, giving this discourse "
+            "a fuller, fivefold analytical framework applied to the "
+            "identical five faculties.",
+        ]),
+        ("The identical closing formula, despite the expanded condition", [
+            "Confirmed by direct reading, despite the expanded "
+            "fivefold condition, this discourse closes with the "
+            "IDENTICAL stream-entry formula already met at SN 48.2 "
+            "&mdash; &ldquo;sotāpanno avinipātadhammo niyato "
+            "sambodhiparāyaṇo&rdquo; &mdash; confirming both "
+            "discourses describe the same attainment, reached "
+            "through two different degrees of analytical thoroughness.",
+        ]),
+    ],
+    terms=[
+        ("samudaya", "&ldquo;origin, arising&rdquo; &mdash; the "
+             "first of the two additional angles in this discourse's "
+             "own expanded lens, not present at SN 48.2"),
+        ("atthaṅgama", "&ldquo;disappearance, ending&rdquo; &mdash; "
+             "the second additional angle, paired with origin"),
+        ("assādañca ādīnavañca nissaraṇañca", "&ldquo;gratification, "
+             "drawback, and escape&rdquo; &mdash; the same threefold "
+             "lens already met at SN 48.2, here following the two "
+             "new angles"),
+        ("yathābhūtaṁ pajānāti", "&ldquo;truly understands, "
+             "understands as it really is&rdquo; &mdash; the "
+             "discourse's own verb governing all five angles at once"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo",
+             "the identical closing formula for stream-entry already "
+             "met at SN 48.2, unaffected by the expanded condition"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.3:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about SN 48.2's own \"(1st)\" title?",
+         "opts": ["It correctly predicted this exact companion discourse, \"A Stream-Enterer (2nd)\"", "The prediction was mistaken; no companion discourse exists", "This discourse belongs to a completely different vagga", "The two discourses have no relationship to each other"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this project's own anticipation was correct."},
+        {"q": "How many angles does this discourse's own condition for stream-entry name, compared to SN 48.2's own three?",
+         "opts": ["Five — adding origin and disappearance to the earlier threefold lens", "Still only three, identical to SN 48.2", "Seven, a completely different set", "One single angle, simpler than SN 48.2"],
+         "correct": 0,
+         "expl": "Origin and disappearance added, preceding the same gratification, drawback, and escape."},
+        {"q": "Does the expanded fivefold condition change the discourse's own closing formula?",
+         "opts": ["No — the identical stream-entry formula from SN 48.2 closes this discourse too", "Yes — a completely different formula is used", "The discourse has no closing formula at all", "The formula is expanded to match the fivefold condition"],
+         "correct": 0,
+         "expl": "Both discourses describe the same attainment, reached through two different degrees of analytical thoroughness."},
+    ],
+    marginalia=[
+        ("The predicted companion, confirmed", [
+            "\"(1st)\" pointed here, exactly —",
+            "Dutiyasotāpannasutta, \"the second version\""
+        ]),
+        ("Five angles now, not three", [
+            "origin, disappearance, added —",
+            "before the same gratification, drawback, escape"
+        ]),
+        ("The same formula, despite more analysis", [
+            "sotāpanna — stream-entry unchanged —",
+            "two paths of thoroughness, one attainment"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.2.html\">SN 48.2 &middot; A Stream-Enterer "
+        "(1st)</a> &mdash; the previous discourse, whose own title "
+        "predicted this companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
