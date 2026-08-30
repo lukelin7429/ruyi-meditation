@@ -46619,3 +46619,149 @@ page_range(
         "its own full worked example.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.35-44 — Esanāvaggo (bare cross-reference)
+# Vagga 4, confirmed by direct reading to carry no worked example of
+# its own -- matching SN 48.105-114's own bare wording
+# ("Esanāvaggo vitthāretabbo"), unlike this project's own
+# immediately preceding encounter with this vagga at SN 49.35-44,
+# which kept the three searches defined in full. Confirmed by direct
+# comparison, extending the pattern already noted at SN 50.23-34:
+# the same vagga can be compressed differently across saṃyuttas.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 35, 44, "Esanā", "Searches",
+    vagga="Esanāvagga",
+    meta_title="SN 50.35–44 — Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.35–44 — ten discourses on searches, cross-referenced "
+        "in full to this project's own already-completed Esanāvagga, "
+        "here applied to the five powers. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single cross-reference instruction, plus a "
+                 "closing uddāna; no worked example of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; a second consecutive vagga in this "
+                         "saṃyutta compressed bare, unlike its own "
+                         "immediately preceding SN 49 counterpart"),
+    ],
+    why=(
+        "This file carries no worked example of its own, matching SN "
+        "48.105-114's own bare wording &mdash; but this genuinely "
+        "differs from this project's own immediately preceding "
+        "encounter with the identical vagga at SN 49.35-44, which "
+        "kept the three searches defined in full. This is now the "
+        "second consecutive vagga in this saṃyutta following the "
+        "same pattern already noted at SN 50.23-34."
+    ),
+    guide=[
+        ("A bare cross-reference, matching SN 48's own wording", [
+            "Confirmed by direct reading, this file gives only the "
+            "instruction &ldquo;tell in full as in the chapter on "
+            "searches at SN 45.161&ndash;170&rdquo; and the closing "
+            "uddāna, identical to SN 48.105-114's own bare structure "
+            "&mdash; genuinely different from this project's own SN "
+            "49.35-44, which kept the three searches (sensual "
+            "pleasure, continued existence, spiritual path) defined "
+            "in full.",
+        ]),
+        ("A second consecutive vagga following this pattern", [
+            "This project's own observation: with both Vagga 3 (SN "
+            "50.23-34) and Vagga 4 (this discourse) now confirmed as "
+            "bare cross-references matching SN 48's own wording "
+            "rather than SN 49's own fuller one, a pattern emerges "
+            "for SN 50 &mdash; noted here, but each further vagga "
+            "still confirmed directly rather than assumed to "
+            "continue.",
+        ]),
+        ("Ten topics, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.161-170: "
+            "the ten topics are searches, discriminations, "
+            "defilements, states of existence, threefold suffering, "
+            "barrenness, stains, troubles, feelings, and "
+            "craving/thirst, here applied to the developed five "
+            "powers.",
+        ]),
+    ],
+    terms=[
+        ("Esanāvaggo vitthāretabbo", "&ldquo;the Searches chapter is "
+             "to be elaborated in full&rdquo; &mdash; identical in "
+             "wording to SN 48.105-114's own, unlike SN 49.35-44's "
+             "own fuller treatment"),
+        ("esanā", "&ldquo;search, quest&rdquo; &mdash; this vagga's "
+             "own opening topic, met with differing compression "
+             "across saṃyuttas"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso", "the closing "
+             "uddāna's own opening line, identical to SN 45.161-170, "
+             "SN 48.105-114, and SN 49.35-44's own"),
+        ("khilaṁ malañca nīgho ca; vedanā taṇhā tasinā", "the "
+             "uddāna's remaining five topics, completing the count "
+             "of ten"),
+        ("Esanāvaggo catuttho", "&ldquo;the Searches chapter, the "
+             "fourth&rdquo; &mdash; confirming this vagga's own "
+             "position as the fourth in this saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.35-44:1.1"),
+        ("p", "Uddāna", "sn50.35-44:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this file's own content compare to this project's own immediately preceding encounter with Esanāvagga at SN 49.35-44?",
+         "opts": ["It is a bare cross-reference with no worked example, genuinely differing from SN 49.35-44's own kept three-searches definition", "It is identical to SN 49.35-44 in every respect", "It contains an even fuller worked example than SN 49.35-44", "It applies to a different set of qualities than SN 49.35-44"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — matching SN 48.105-114's own bare wording instead."},
+        {"q": "What pattern does this project note across SN 50's own Vagga 3 and Vagga 4?",
+         "opts": ["Both are bare cross-references matching SN 48's own wording, a pattern noted but not assumed to continue", "Both are fuller treatments matching SN 49's own wording", "There is no pattern — the two vaggas are unrelated in structure", "Both vaggas belong to entirely different saṃyuttas"],
+         "correct": 0,
+         "expl": "Noted as an emerging pattern, with each further vagga still confirmed directly."},
+        {"q": "What does the closing uddāna confirm about this vagga's own topics?",
+         "opts": ["Ten topics: searches, discriminations, defilements, states of existence, threefold suffering, barrenness, stains, troubles, feelings, and craving/thirst", "Only five topics, matching the five powers", "A single topic repeated ten times", "No topics — a purely abstract count"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.161-170."},
+    ],
+    marginalia=[
+        ("Bare again, matching SN 48", [
+            "SN 49's own version kept the three searches —",
+            "this one gives only the pointer"
+        ]),
+        ("A second vagga, the same pattern", [
+            "Vagga 3 was bare, now Vagga 4 too —",
+            "noted, not yet assumed to continue"
+        ]),
+        ("Ten topics, held elsewhere in full", [
+            "searches, defilements, feelings, thirst —",
+            "the content lives at SN 45.161"
+        ]),
+        ("Fourth vagga, its own colophon", [
+            "Esanāvaggo catuttho, stated plainly —",
+            "this saṃyutta's own fourth chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.35-44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.23-34.html\">SN 50.23&ndash;34 &middot; "
+        "Hard Work</a> &mdash; the previous page, closing Vagga 3.",
+        "<a href=\"sn-49.35-44.html\">SN 49.35&ndash;44 &middot; "
+        "Ten Discourses on Searches, Etc.</a> &mdash; this project's "
+        "own immediately preceding encounter with the identical "
+        "vagga, there keeping the three searches defined in full.",
+    ],
+)
