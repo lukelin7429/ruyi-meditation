@@ -41818,3 +41818,160 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.57 — Sahampatibrahmasutta
+# A remarkable, narratively significant discourse: set right after
+# the Buddha's own awakening ("paṭhamābhisambuddho"), before he had
+# taught anyone. The divinity Sahampati appears and confirms the
+# five-faculties teaching with his own personal testimony — a past
+# life as a mendicant under the previous Buddha Kassapa, reborn in
+# the Brahmā realm through developing these same five faculties.
+# --------------------------------------------------------------------------- #
+page(
+    48, 57, "Sahampatibrahma", "With the Divinity Sahampati",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.57 — With the Divinity Sahampati | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sahampatibrahmasutta — set just after the Buddha's own "
+        "awakening, the divinity Sahampati confirms the five "
+        "faculties' teaching with his own past-life testimony. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Uruvelā, the goatherd's banyan tree on the "
+                     "bank of the Nerañjarā River, just after the "
+                     "Buddha's own awakening, before he had taught "
+                     "anyone"),
+        ("Speakers", "The Buddha, reflecting alone in private "
+                     "retreat; the divinity Sahampati, appearing to "
+                     "confirm the reflection and share his own "
+                     "testimony"),
+        ("Form", "A narrative scene of exceptional significance, "
+                 "with a divine being's own first-person testimony"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; one of this saṃyutta's most "
+                         "narratively significant discourses, set at "
+                         "the very origin of the Buddha's own "
+                         "teaching career"),
+    ],
+    why=(
+        "This discourse is set at an extraordinary moment: just "
+        "after the Buddha's own awakening, before he had taught "
+        "anyone, reflecting alone that the five faculties, developed "
+        "and cultivated, have the deathless as their objective, "
+        "destination, and culmination. The divinity Sahampati "
+        "appears and confirms this with his own remarkable "
+        "testimony: a past life as a mendicant under the previous "
+        "Buddha Kassapa, reborn in the Brahmā realm through "
+        "developing these very same five faculties."
+    ),
+    guide=[
+        ("Set at the very origin of the Buddha's own teaching career", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening &mdash; &ldquo;paṭhamābhisambuddho&rdquo; "
+            "(&ldquo;when he was first awakened&rdquo;) &mdash; "
+            "places it at the goatherd's banyan tree in Uruvelā, "
+            "immediately after the Buddha's own awakening, before he "
+            "had taught a single mendicant &mdash; among the "
+            "earliest possible settings for any discourse in this "
+            "entire saṃyutta.",
+        ]),
+        ("The deathless formula, spoken first in solitary reflection", [
+            "Confirmed by direct reading, the Buddha's own private "
+            "reflection uses the identical &ldquo;amatogadhāni "
+            "amataparāyaṇāni amatapariyosānāni&rdquo; formula this "
+            "project's own SN 48.42 and SN 48.44 already met "
+            "&mdash; here arising spontaneously in the Buddha's own "
+            "mind, alone, before any disciple had heard it spoken "
+            "aloud.",
+        ]),
+        ("Sahampati's own testimony: Sahaka, a mendicant under Buddha Kassapa", [
+            "Confirmed by direct reading, the divinity Sahampati "
+            "reveals his own past life: a mendicant named Sahaka "
+            "under the fully awakened Buddha Kassapa (a Buddha of a "
+            "previous era), who developed and cultivated these same "
+            "five faculties, lost desire for sensual pleasures, and "
+            "upon death was reborn in a good place, the realm of "
+            "divinity &mdash; where he came to be known as the "
+            "divinity Sahampati. This is a first-person account of "
+            "the five faculties' own fruit, spanning two Buddhas' "
+            "own eras.",
+        ]),
+    ],
+    terms=[
+        ("paṭhamābhisambuddho", "&ldquo;when he was first "
+             "awakened&rdquo; &mdash; marking this discourse's own "
+             "setting at the very start of the Buddha's own teaching "
+             "career"),
+        ("amatogadhāni amataparāyaṇāni amatapariyosānāni", "&ldquo;"
+             "grounded in the deathless, the deathless as "
+             "destination and culmination&rdquo; &mdash; the same "
+             "formula met at SN 48.42 and 48.44, here arising first "
+             "in solitary reflection"),
+        ("brahmā sahampati", "&ldquo;the divinity Sahampati&rdquo; "
+             "&mdash; the being who appears to confirm the Buddha's "
+             "own reflection and share his own testimony"),
+        ("sahako bhikkhu", "&ldquo;the mendicant Sahaka&rdquo; "
+             "&mdash; Sahampati's own former identity, a disciple of "
+             "the previous Buddha Kassapa"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "seventh discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own solitary reflection, "
+              "just after his awakening", "sn48.57:1.1-1.10"),
+        ("p", "&sect;2 &mdash; the divinity Sahampati's own "
+              "appearance and confirmation", "sn48.57:2.1-2.7"),
+        ("p", "&sect;3 &mdash; Sahampati's own testimony: a past "
+              "life as the mendicant Sahaka", "sn48.57:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse's own setting exceptional?",
+         "opts": ["It is placed just after the Buddha's own awakening, before he had taught anyone", "It is the only discourse set at Sāvatthī", "It is the only discourse featuring Ānanda", "It takes place at the very end of the Buddha's own life"],
+         "correct": 0,
+         "expl": "Among the earliest possible settings for any discourse in this saṃyutta."},
+        {"q": "What testimony does the divinity Sahampati share?",
+         "opts": ["A past life as a mendicant named Sahaka under the previous Buddha Kassapa, reborn in the Brahmā realm through developing the five faculties", "That he has never practiced the five faculties himself", "That the five faculties are useless for divine beings", "A denial that any previous Buddha existed"],
+         "correct": 0,
+         "expl": "A first-person account spanning two Buddhas' own eras."},
+        {"q": "What formula does the Buddha's own solitary reflection use?",
+         "opts": ["The same \"deathless\" formula already met at SN 48.42 and 48.44", "An entirely new formula not found elsewhere in this saṃyutta", "The classic four noble truths, stated in full", "A denial that the five faculties lead anywhere"],
+         "correct": 0,
+         "expl": "Arising spontaneously in the Buddha's own mind before any disciple had heard it."},
+    ],
+    marginalia=[
+        ("The very beginning", [
+            "just awakened, not yet having taught —",
+            "alone beneath the goatherd's banyan tree"
+        ]),
+        ("A thought, confirmed from beyond", [
+            "Sahampati appears, palms raised —",
+            "\"that's so true, Blessed One\""
+        ]),
+        ("Sahaka, long ago", [
+            "a mendicant under an earlier Buddha —",
+            "reborn a divinity through these same five faculties"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "brief marker, immense setting —",
+            "more of Sūkarakhatavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.56.html\">SN 48.56 &middot; Grounded</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
