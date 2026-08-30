@@ -33374,3 +33374,175 @@ page_range(
         "(SN 47.85&ndash;104) are still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 9. Esanāvagga — Searches (Vagga 9 of Book VII, Satipaṭṭhānasaṃyutta).
+# Confirmed by direct bilara-data reading: this merged file gives only
+# the bare three-search topic list, then explicitly instructs "(Tell
+# in full as in SN 45.161–170)" — pointing to this project's own
+# already-published Esanāvagga in the SN 45 module (see sn45.161
+# above), whose own controlling discourse this project has already
+# confirmed carries a genuinely complex 4x4 matrix (four verbs times
+# four closing formulas), only partially written out even there.
+# --------------------------------------------------------------------------- #
+# SN 47.85-94 — Esanādisutta (merged peyyāla range)
+# --------------------------------------------------------------------------- #
+page_range(
+    47, 85, 94, "Esanādi",
+    "Searches, Etc.",
+    vagga="Esanāvagga",
+    meta_title="SN 47.85–94 — Searches, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 47.85–94 — the three searches named in full and an "
+        "explicit cross-reference instructing expansion \"as in SN "
+        "45.161–170,\" this project's own already-published "
+        "Esanāvagga, whose own controlling discourse carries a "
+        "genuinely complex matrix of four verbs and four closing "
+        "formulas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The three searches named in full, followed by an "
+                 "explicit instruction to expand as an already-"
+                 "published parallel set elsewhere in this project's "
+                 "own translation of SN 45"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the same compression pattern as SN "
+                         "47.63-72 and SN 47.73-84, pointing to this "
+                         "project's own most structurally complex "
+                         "peyyāla vagga in Book V"),
+    ],
+    why=(
+        "This merged file names the three searches &mdash; for "
+        "sensual pleasures, for continued existence, and for a "
+        "spiritual path &mdash; in full, before its own instruction, "
+        "&ldquo;(tell in full as in SN 45.161&ndash;170),&rdquo; "
+        "points directly to this project's own already-published "
+        "Esanāvagga in the Book V (Mahāvagga) module, whose own "
+        "controlling discourse (SN 45.161) this project has already "
+        "confirmed introduces a genuinely complex axis of variation "
+        "beyond the fourfold closing formula &mdash; four different "
+        "governing verbs (direct knowledge, complete understanding, "
+        "finishing, giving up), each combinable with each of the "
+        "four closing formulas."
+    ),
+    guide=[
+        ("Three searches named directly, unlike the two preceding merged ranges", [
+            "Confirmed by direct reading, this merged file names its "
+            "own three-search topic &mdash; kāmesanā, bhavesanā, "
+            "brahmacariyesanā (the search for sensual pleasures, "
+            "for continued existence, and for a spiritual path) "
+            "&mdash; in FULL, rather than truncating it as SN "
+            "47.73-84 truncated its own earth clause, before the "
+            "same &ldquo;vitthāretabbaṁ&rdquo; instruction and "
+            "cross-reference.",
+        ]),
+        ("Pointing to this project's own most structurally complex peyyāla vagga", [
+            "This project's own already-published SN 45.161 confirms "
+            "the vagga this range points to is NOT a simple "
+            "formula-substitution pattern like the two Gaṅgāpeyyāla "
+            "vaggas &mdash; its own controlling discourse spells out "
+            "a matrix of four governing verbs (directly know, "
+            "completely understand, finish, give up) crossed with "
+            "the four closing formulas already met throughout this "
+            "book, a matrix only ever partially written out even in "
+            "its own controlling discourse.",
+        ]),
+        ("Ten topics named by the closing uddāna, matching this project's own established set", [
+            "Confirmed by direct reading, this merged file's own "
+            "closing verse names ten topics &mdash; searches, "
+            "discriminations, defilements, states of existence, "
+            "three kinds of suffering, barrenness, stains, troubles, "
+            "feelings, and craving and thirst &mdash; matching this "
+            "project's own already-confirmed topic list for SN "
+            "45.161-170 (esanā, vidhā, āsava, bhava, dukkhatā, "
+            "khila, mala, nīgha, vedanā, taṇhā/tasinā), where the "
+            "final pair (craving and thirst) was confirmed to bundle "
+            "into a single discourse rather than two separate ones.",
+        ]),
+    ],
+    terms=[
+        ("kāmesanā, bhavesanā, brahmacariyesanā", "&ldquo;the search "
+             "for sensual pleasures, for continued existence, and "
+             "for a spiritual path&rdquo; &mdash; this discourse's "
+             "own opening topic, named in full unlike the truncated "
+             "opening of SN 47.73-84"),
+        ("vitthāretabbaṁ", "&ldquo;should be expanded in full&rdquo; "
+             "&mdash; the same instruction met at the two preceding "
+             "merged ranges"),
+        ("(Tell in full as in SN 45.161&ndash;170)", "the "
+             "discourse's own explicit pointer to this project's own "
+             "already-published Esanāvagga, whose own matrix "
+             "structure this project has already confirmed"),
+        ("Esanāvaggo navamo", "&ldquo;the ninth vagga, "
+             "Esanāvagga&rdquo; &mdash; the Pāli root's own closing "
+             "colophon, left untranslated in the English source"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso, khilaṁ "
+             "malañca nīgho ca, vedanā taṇhā tasināya", "&ldquo;"
+             "searches, discriminations, defilements, states of "
+             "existence, three kinds of suffering, barrenness, "
+             "stains, and troubles, feelings, craving, and "
+             "thirst&rdquo; &mdash; the closing uddāna, genuinely "
+             "translated, matching this project's own already-"
+             "confirmed topic list for SN 45.161-170"),
+    ],
+    text_intro=("The genuinely translated content of this merged "
+        "file: the three searches named in full, and the closing "
+        "summary verse naming all ten topics. The Pāli root's own "
+        "colophon (&ldquo;Esanāvaggo navamo&rdquo;) is left "
+        "untranslated in the source and is described, not quoted, "
+        "above. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the three searches and cross-reference", "sn47.85-94:1.1-1.4"),
+        ("p", "&sect;2 &mdash; the closing summary verse", "sn47.85-94:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this merged file's own opening differ from SN 47.73-84's own opening?",
+         "opts": ["It names its own three-search topic in full, rather than truncating it as SN 47.73-84 truncated its own earth clause", "It gives no topic at all, unlike SN 47.73-84", "It is identical in every respect to SN 47.73-84's own opening", "It uses a completely different cross-reference format"],
+         "correct": 0,
+         "expl": "The three searches — for sensual pleasures, continued existence, and a spiritual path — named directly."},
+        {"q": "What structural complexity does this project's own already-published SN 45.161 confirm for the vagga this range points to?",
+         "opts": ["A matrix of four governing verbs crossed with four closing formulas, only partially written out even in its own controlling discourse", "A simple formula with no variation at all", "Only one verb and one closing formula throughout", "A structure identical to the Gaṅgāpeyyāla vaggas"],
+         "correct": 0,
+         "expl": "Confirmed by this project's own already-published work — the most structurally complex peyyāla vagga in Book V."},
+        {"q": "What does this merged file's own closing uddāna confirm about SN 45.161-170's own final discourse?",
+         "opts": ["That its final pair (craving and thirst) bundles into a single discourse rather than two separate ones, as this project already confirmed", "That there are only nine discourses in that vagga, not ten", "That the final discourse is unrelated to the other nine", "Nothing — the uddāna gives no information about the count"],
+         "correct": 0,
+         "expl": "Matching this project's own already-confirmed topic list, including that bundled final pair."},
+    ],
+    marginalia=[
+        ("Three searches, named in full this time", [
+            "sensual pleasures, continued existence, a spiritual path —",
+            "unlike SN 47.73-84's own truncated opening"
+        ]),
+        ("Pointing to the most complex peyyāla vagga yet", [
+            "four verbs, four formulas, a partial matrix —",
+            "already confirmed at this project's own SN 45.161"
+        ]),
+        ("Ten topics, matching the already-confirmed set", [
+            "searches through craving and thirst —",
+            "the same list this project already verified"
+        ]),
+        ("A new vagga, a new controlling theme", [
+            "Esanāvagga, replacing hard work's own earth-image —",
+            "SN 47.95 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.85-94/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; this project's own full translation of the "
+        "controlling discourse this range points to.",
+        "<a href=\"sn-47.73-84.html\">SN 47.73&ndash;84 &middot; "
+        "Hard Work, Etc.</a> &mdash; the previous merged range.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own final peyyāla range "
+        "(SN 47.95&ndash;104) is still in preparation.",
+    ],
+)
