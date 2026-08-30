@@ -37383,3 +37383,146 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.27 — Arahantasutta
+# The arahant counterpart to SN 48.26's stream-enterer, mirroring the
+# stream-enterer/arahant pairing pattern this project's own Vagga 1
+# (SN 48.2-5) already used — here applied to the six sense faculties.
+# --------------------------------------------------------------------------- #
+page(
+    48, 27, "Arahanta", "A Perfected One",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.27 — A Perfected One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Arahantasutta — a mendicant freed by not grasping, "
+        "after truly understanding the six sense faculties' own "
+        "origin, disappearance, gratification, drawback, and escape, "
+        "is called a perfected one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single defining statement, the arahant "
+                 "counterpart to the immediately preceding "
+                 "stream-enterer discourse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; completes a stream-enterer/arahant "
+                         "pair with SN 48.26, mirroring the same "
+                         "pairing pattern this project's own Vagga 1 "
+                         "(SN 48.2-5) already used"),
+    ],
+    why=(
+        "This discourse completes a stream-enterer/arahant pair with "
+        "the immediately preceding SN 48.26: the same six sense "
+        "faculties, the same fivefold analytical lens, but now "
+        "defining full arahantship &mdash; a mendicant freed &ldquo;"
+        "by not grasping&rdquo; (anupādāvimutto) after truly "
+        "understanding these faculties, closing with the canon's own "
+        "classic full arahant formula."
+    ),
+    guide=[
+        ("Completing a pair with SN 48.26", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure exactly mirrors SN 48.26 &mdash; the same six "
+            "sense faculties, the same fivefold lens (origin, "
+            "disappearance, gratification, drawback, escape) &mdash; "
+            "but names the higher attainment, arahantship, where "
+            "SN 48.26 named stream-entry. This project's own earlier "
+            "Vagga 1 (SN 48.2-5) already used this same "
+            "stream-enterer/arahant pairing pattern, here recurring "
+            "with the six sense faculties instead of the five "
+            "spiritual ones.",
+        ]),
+        ("Freed by not grasping: the qualifying difference", [
+            "Confirmed by direct reading, the phrase distinguishing "
+            "this discourse from SN 48.26 is "
+            "&ldquo;anupādāvimutto&rdquo; (&ldquo;freed by not "
+            "grasping&rdquo;) &mdash; where SN 48.26's own disciple "
+            "merely UNDERSTANDS the six faculties and is called a "
+            "stream-enterer, this discourse's own mendicant is freed "
+            "through that understanding and is called a perfected "
+            "one.",
+        ]),
+        ("The classic full arahant formula", [
+            "Confirmed by direct reading, this discourse closes with "
+            "the canon's own classic full arahant formula &mdash; "
+            "&ldquo;khīṇāsavo vusitavā katakaraṇīyo ohitabhāro "
+            "anuppattasadattho parikkhīṇabhavasaṁyojano "
+            "sammadaññāvimutto&rdquo; (&ldquo;defilements ended, "
+            "completed the spiritual journey, done what had to be "
+            "done, laid down the burden, achieved their heart's "
+            "goal, ended the fetter of continued existence, rightly "
+            "freed through enlightenment&rdquo;) &mdash; a formula "
+            "this project has met before elsewhere in this "
+            "saṃyutta's own earlier discourses.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; this discourse continues the "
+             "six sense faculties named at SN 48.25-26"),
+        ("Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, "
+             "kāyindriyaṁ, manindriyaṁ", "the six sense faculties, "
+             "spelled out in full here rather than abbreviated"),
+        ("anupādāvimutto", "&ldquo;freed by not grasping&rdquo; "
+             "&mdash; the phrase distinguishing this discourse's own "
+             "arahant from SN 48.26's own stream-enterer"),
+        ("arahaṁ khīṇāsavo", "&ldquo;a perfected one, with "
+             "defilements ended&rdquo; &mdash; opening the classic "
+             "full arahant formula closing this discourse"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "seventh discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.27:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to the immediately preceding SN 48.26?",
+         "opts": ["It completes a stream-enterer/arahant pair, using the same six faculties and lens for the higher attainment", "It contradicts SN 48.26 by denying stream-entry is possible", "It belongs to an entirely different vagga", "It replaces the six sense faculties with the five spiritual ones"],
+         "correct": 0,
+         "expl": "Mirroring the same pairing pattern this project's own Vagga 1 (SN 48.2-5) already used."},
+        {"q": "What phrase distinguishes this discourse's own mendicant from SN 48.26's own disciple?",
+         "opts": ["\"Freed by not grasping\" (anupādāvimutto) — freedom through understanding, not understanding alone", "\"Not liable to be reborn in the underworld\"", "\"Weaker than that\"", "\"Understanding that enlightenment is imminent\""],
+         "correct": 0,
+         "expl": "Where SN 48.26's disciple merely understands, this discourse's mendicant is freed through that understanding."},
+        {"q": "What classic formula closes this discourse?",
+         "opts": ["The full arahant formula: defilements ended, the spiritual journey completed, rightly freed through enlightenment", "The stream-enterer formula: not liable to be reborn in the underworld", "The five right efforts", "The four noble truths, stated in full"],
+         "correct": 0,
+         "expl": "A formula this project has met before elsewhere in this saṃyutta's own earlier discourses."},
+    ],
+    marginalia=[
+        ("A pair completed", [
+            "SN 48.26 named the stream-enterer —",
+            "this discourse names the perfected one"
+        ]),
+        ("Not merely understanding, but freed", [
+            "anupādāvimutto — freed by not grasping —",
+            "the phrase marking full liberation"
+        ]),
+        ("The classic formula, spoken once more", [
+            "burden laid down, the journey complete —",
+            "rightly freed through enlightenment"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "brief as its own pair before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.26.html\">SN 48.26 &middot; A "
+        "Stream-Enterer</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
