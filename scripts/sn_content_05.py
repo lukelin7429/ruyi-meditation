@@ -35823,3 +35823,139 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.16 — Dutiyavitthārasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 16, "Dutiyavitthāra", "In Detail (2nd)",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.16 — In Detail (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyavitthārasutta — repeating SN 48.15's own "
+        "nine-level scale, then adding the identical disparity-of-"
+        "faculties closing already met at SN 48.13, mirroring the "
+        "earlier \"in brief\" set. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 48.15's own nine-level detailed scale repeated, "
+                 "closing with the same generalization already met "
+                 "at SN 48.13"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; confirms the &ldquo;in detail&rdquo; "
+                         "set mirrors the earlier &ldquo;in "
+                         "brief&rdquo; set's own structure, closing "
+                         "by closing"),
+    ],
+    why=(
+        "This discourse confirms, by direct reading, that the "
+        "&ldquo;in detail&rdquo; set (beginning at SN 48.15) mirrors "
+        "the earlier &ldquo;in brief&rdquo; set's own internal "
+        "structure: just as SN 48.13 added the disparity-of-faculties "
+        "closing to SN 48.12's own bare scale, this discourse adds "
+        "the IDENTICAL closing to SN 48.15's own nine-level detailed "
+        "scale, word for word."
+    ),
+    guide=[
+        ("The nine-level scale, repeated exactly", [
+            "Confirmed by direct reading, this discourse's own scale "
+            "&mdash; arahant, the five kinds of non-returner, "
+            "once-returner, stream-enterer, follower of teachings, "
+            "follower by faith &mdash; is identical to SN 48.15's "
+            "own nine-level scale, with no further changes to its "
+            "own content.",
+        ]),
+        ("The identical closing already met at SN 48.13", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing line &mdash; &ldquo;indriyavemattatā "
+            "phalavemattatā hoti, phalavemattatā puggalavemattatā"
+            "&rdquo; (&ldquo;from a disparity of faculties there's a "
+            "disparity of fruits, and from a disparity of fruits "
+            "there's a disparity of individuals&rdquo;) &mdash; is "
+            "WORD FOR WORD the same closing already met at SN 48.13, "
+            "confirming the &ldquo;in detail&rdquo; set mirrors the "
+            "&ldquo;in brief&rdquo; set's own internal sequence.",
+        ]),
+        ("A parallel structure across two sets, confirmed step by step", [
+            "This project's own direct comparison, confirmed rather "
+            "than assumed in advance, shows the &ldquo;in "
+            "detail&rdquo; discourses (SN 48.15-16 so far) following "
+            "the exact same closing-by-closing pattern as the "
+            "&ldquo;in brief&rdquo; discourses (SN 48.12-14) &mdash; "
+            "this project will confirm, when SN 48.17 is reached, "
+            "whether the parallel extends to a third matching "
+            "closing as well.",
+        ]),
+    ],
+    terms=[
+        ("vitthāra", "&ldquo;in detail&rdquo; &mdash; this "
+             "discourse's own title term, shared with SN 48.15"),
+        ("indriyavemattatā phalavemattatā puggalavemattatā", "the "
+             "identical three-step causal chain (disparity of "
+             "faculties, fruits, and individuals) already met at "
+             "SN 48.13, here applied to the nine-level scale instead "
+             "of the six-level one"),
+        ("antarāparinibbāyī... uddhaṁsoto akaniṭṭhagāmī", "the five "
+             "kinds of non-returner, repeated word for word from SN "
+             "48.15"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; this "
+             "discourse's own closing numeral, confirming its "
+             "position in the vagga's own sequence"),
+        ("mudutarehi", "&ldquo;weaker than that&rdquo; &mdash; the "
+             "repeated term marking each step down the nine-level "
+             "scale"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.16:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own scale compare to SN 48.15's own?",
+         "opts": ["Identical — the same nine-level scale, with no further changes", "Reduced back to the earlier six-level scale", "Expanded further beyond nine levels", "Entirely different, sharing no content with SN 48.15"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, repeating SN 48.15's own content exactly."},
+        {"q": "What closing does this discourse add, and where was it met before?",
+         "opts": ["The disparity-of-faculties chain, word for word the same as SN 48.13's own closing", "A brand new closing not found anywhere else in this vagga", "SN 48.14's own \"not barren\" assurance", "No closing at all, matching SN 48.12"],
+         "correct": 0,
+         "expl": "Confirming the \"in detail\" set mirrors the \"in brief\" set's own internal sequence."},
+        {"q": "What does this project plan to confirm when SN 48.17 is reached?",
+         "opts": ["Whether the parallel between the two sets extends to a third matching closing, mirroring SN 48.14's own assurance", "Nothing further; the parallel is assumed complete already", "Whether SN 48.17 belongs to a different vagga entirely", "Whether the five faculties are named differently in SN 48.17"],
+         "correct": 0,
+         "expl": "Confirmed step by step, not assumed in advance."},
+    ],
+    marginalia=[
+        ("The nine-level scale, unchanged", [
+            "identical to SN 48.15's own content —",
+            "no further changes made here"
+        ]),
+        ("The same closing as SN 48.13", [
+            "word for word, the disparity chain —",
+            "the two sets mirroring each other"
+        ]),
+        ("A parallel confirmed, not assumed", [
+            "step by step, closing by closing —",
+            "SN 48.17 still to confirm the pattern"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.15.html\">SN 48.15 &middot; In Detail "
+        "(1st)</a> &mdash; the previous discourse, sharing this "
+        "discourse's own nine-level scale.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
