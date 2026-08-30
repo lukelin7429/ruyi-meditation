@@ -42124,3 +42124,140 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.59 — Paṭhamauppādasutta
+# A striking exclusivity claim: the five faculties cannot arise to be
+# developed and cultivated except when a fully awakened Buddha has
+# appeared in the world. Marked "(1st)," signaling a paired
+# continuation — likely closing this vagga at its own tenth
+# discourse, matching the established ten-discourse pattern of every
+# earlier vagga in this saṃyutta.
+# --------------------------------------------------------------------------- #
+page(
+    48, 59, "Paṭhamauppāda", "Arising (1st)",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.59 — Arising (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamauppādasutta — the five faculties cannot arise to "
+        "be developed and cultivated except when a fully awakened "
+        "Buddha has appeared in the world. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, striking exclusivity claim"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a genuinely new claim about the "
+                         "five faculties' own unique dependence on a "
+                         "Buddha's own appearance in the world"),
+    ],
+    why=(
+        "This discourse makes a striking exclusivity claim not yet "
+        "met in this saṃyutta: the five faculties &ldquo;don't arise "
+        "to be developed and cultivated&rdquo; except when a "
+        "Realized One, a perfected one, a fully awakened Buddha has "
+        "appeared &mdash; naming the Buddha's own appearance as the "
+        "sole condition through which these faculties can even "
+        "become available to develop, not merely the best teacher "
+        "of them among others."
+    ),
+    guide=[
+        ("A claim of unique dependence, not merely superior teaching", [
+            "Confirmed by direct reading, this discourse's own claim "
+            "goes further than praising the Buddha's own teaching as "
+            "best: it states that the five faculties themselves "
+            "&ldquo;anuppannāni uppajjanti&rdquo; (&ldquo;arise, "
+            "having not arisen before&rdquo;) only through a Buddha's "
+            "own appearance &mdash; without such an appearance, this "
+            "discourse's own text implies, the faculties would "
+            "remain permanently unarisen in the world.",
+        ]),
+        ("Returning to Sāvatthī, and a bare structural form", [
+            "Confirmed by direct reading, this discourse returns to "
+            "Sāvatthī as its own setting, following the more varied "
+            "locations of the vagga's own preceding discourses "
+            "(Uruvelā, Rājagaha), while keeping the bare structural "
+            "form &mdash; a single doctrinal statement with no "
+            "further narrative elaboration.",
+        ]),
+        ("A title marked \"(1st)\", likely closing this vagga", [
+            "This project's own honest observation: this discourse's "
+            "own title, &ldquo;Arising (1st),&rdquo; signals a "
+            "paired &ldquo;(2nd)&rdquo; discourse to follow, which "
+            "would bring this vagga to ten discourses &mdash; "
+            "matching the established pattern of every earlier vagga "
+            "in this saṃyutta. This project will confirm this only "
+            "when the next discourse's own text and colophon are "
+            "read directly.",
+        ]),
+    ],
+    terms=[
+        ("anuppannāni uppajjanti", "&ldquo;arise, having not arisen "
+             "before&rdquo; &mdash; the five faculties' own "
+             "dependence on a specific, singular condition"),
+        ("tathāgatassa pātubhāvā", "&ldquo;the appearance of a "
+             "Realized One&rdquo; &mdash; the sole condition named "
+             "for the five faculties' own arising"),
+        ("arahato sammāsambuddhassa", "&ldquo;a perfected one, a "
+             "fully awakened Buddha&rdquo; &mdash; the full title "
+             "given to this condition"),
+        ("nāññatra", "&ldquo;except, apart from&rdquo; &mdash; the "
+             "exclusivity marker at the heart of this discourse's "
+             "own claim"),
+        ("Navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's ninth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.59:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the five faculties' own arising?",
+         "opts": ["They cannot arise to be developed and cultivated except when a fully awakened Buddha has appeared in the world", "They arise naturally in every sentient being regardless of any teacher", "They arise only for arahants who have already attained liberation", "They have always existed and require no specific condition to arise"],
+         "correct": 0,
+         "expl": "A claim of unique dependence, not merely that the Buddha teaches them best among other options."},
+        {"q": "How does this discourse's own claim differ from simply praising the Buddha's teaching as superior?",
+         "opts": ["It states the faculties would remain permanently unarisen without a Buddha's own appearance, not merely taught less well", "It makes no distinction; the two claims are identical", "It denies the Buddha ever taught the five faculties at all", "It claims the faculties arise equally well under any teacher"],
+         "correct": 0,
+         "expl": "A stronger claim of exclusive dependence, not comparative superiority."},
+        {"q": "What does this discourse's own title, \"Arising (1st)\", signal?",
+         "opts": ["A paired second discourse likely to follow, which this project will confirm rather than assume", "That this is the vagga's own final discourse", "That the vagga's own name will change in the next discourse", "Nothing; the title carries no such signal"],
+         "correct": 0,
+         "expl": "Consistent with this project's own established practice of confirming rather than assuming."},
+    ],
+    marginalia=[
+        ("Not superior, but singular", [
+            "no Buddha, no faculties arisen at all —",
+            "a claim stronger than mere comparison"
+        ]),
+        ("Back to Sāvatthī", [
+            "after Uruvelā and Rājagaha —",
+            "a familiar setting, a bare form"
+        ]),
+        ("Marked \"first\", a second expected", [
+            "paṭhama — likely closing this vagga —",
+            "confirmed only when read directly"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "brief as this vagga's own recent discourses —",
+            "one more, perhaps, to close it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.58.html\">SN 48.58 &middot; The Boar's "
+        "Cave</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
