@@ -29215,3 +29215,151 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.25 — Aññatarabrāhmaṇasutta
+# Confirmed by direct reading: this discourse asks the Buddha
+# directly the identical question already met at SN 47.22 (there
+# addressed by Bhadda to Ānanda) -- but here without the courteous
+# "praise the question" exchange, and closing with the brahmin's own
+# conversion to lifelong lay discipleship, a genuinely distinct
+# outcome not present in SN 47.22's own version.
+# --------------------------------------------------------------------------- #
+page(
+    47, 25, "Aññatarabrāhmaṇa", "A Certain Brahmin",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.25 — A Certain Brahmin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññatarabrāhmaṇasutta — an unnamed brahmin asks the "
+        "Buddha directly the same question already met at SN 47.22, "
+        "and on hearing the identical answer, converts to lifelong "
+        "lay discipleship. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Jeta's Grove, Anāthapiṇḍika's monastery, near "
+                     "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed brahmin"),
+        ("Form", "A question addressed directly to the Buddha, "
+                 "closing with the brahmin's own conversion"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "shares its own core question with SN 47.22, "
+                       "but closes with a genuinely new outcome"),
+    ],
+    why=(
+        "An unnamed brahmin asks the Buddha directly &mdash; not "
+        "Ānanda, as at SN 47.22 &mdash; the identical question about "
+        "what causes the true teaching to last, or fail to last, "
+        "long after the Realized One's own final quenching. The "
+        "Buddha's own answer is worded identically to Ānanda's own "
+        "answer at SN 47.22; but this discourse closes with something "
+        "SN 47.22 does not have: the brahmin, satisfied by the "
+        "answer, formally takes refuge as a lay follower for life."
+    ),
+    guide=[
+        ("The same question, this time addressed to the Buddha directly", [
+            "Confirmed by direct comparison, this brahmin's own "
+            "question is worded identically to Bhadda's own question "
+            "at SN 47.22 &mdash; but here it is put directly to the "
+            "Buddha rather than to Ānanda, and the discourse's own "
+            "opening omits the courteous &ldquo;good, good... your "
+            "approach and eloquence are excellent&rdquo; exchange "
+            "found in SN 47.21 and SN 47.22.",
+        ]),
+        ("An identical answer, differently delivered", [
+            "The Buddha's own answer is confirmed by direct "
+            "comparison to be worded identically to Ānanda's own "
+            "answer at SN 47.22 &mdash; the same cause (developing or "
+            "not developing the four kinds of mindfulness meditation) "
+            "for the same two outcomes, here delivered by the Buddha "
+            "himself rather than relayed through a senior disciple.",
+        ]),
+        ("A conversion this discourse's own predecessor does not have", [
+            "Confirmed by direct reading, this discourse closes with "
+            "an outcome absent from SN 47.22: the brahmin, moved by "
+            "the Buddha's own answer, asks to be remembered "
+            "&ldquo;as a lay follower who has gone for refuge for "
+            "life&rdquo; &mdash; a genuinely new element this "
+            "discourse's own encounter with a brahmin (rather than a "
+            "fellow mendicant) makes possible.",
+        ]),
+    ],
+    terms=[
+        ("aññataro brāhmaṇo", "&ldquo;a certain brahmin&rdquo; "
+             "&mdash; the unnamed interlocutor whose question and "
+             "conversion frame this discourse"),
+        ("ko nu kho hetu, ko paccayo", "&ldquo;what is the cause, "
+             "what is the reason&rdquo; &mdash; the question, worded "
+             "identically to SN 47.22's own version"),
+        ("catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā",
+             "&ldquo;because of not developing and cultivating the "
+             "four kinds of mindfulness meditation&rdquo; &mdash; the "
+             "Buddha's own answer, worded identically to Ānanda's own "
+             "answer at SN 47.22"),
+        ("abhikkantaṁ, bho gotama", "&ldquo;excellent, worthy "
+             "Gotama!&rdquo; &mdash; the brahmin's own expression of "
+             "approval before his conversion"),
+        ("upāsakaṁ maṁ... dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ",
+             "&ldquo;may you remember me as a lay follower who has "
+             "gone for refuge for life, from this day forth&rdquo; "
+             "&mdash; the brahmin's own formal conversion, absent from "
+             "SN 47.22's own version of this exchange"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the brahmin's own question",
+             "sn47.25:1.1-1.6"),
+        ("p", "&sect;2 &mdash; the Buddha's own answer",
+             "sn47.25:2.1-2.2"),
+        ("p", "&sect;3 &mdash; the fourfold formula, and the answer "
+              "restated", "sn47.25:3.1-3.7"),
+        ("p", "&sect;4 &mdash; the brahmin's own conversion",
+             "sn47.25:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own opening differ from SN 47.21 and 47.22?",
+         "opts": ["It omits the courteous \"good, good... your approach and eloquence are excellent\" exchange, addressing the question directly to the Buddha instead of Ānanda", "It repeats the exact same courteous exchange word for word", "It begins with a completely different question", "It has no opening at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a brahmin questions the Buddha directly, without the exchange between two mendicants."},
+        {"q": "How does the Buddha's own answer in this discourse compare to Ānanda's own answer at SN 47.22?",
+         "opts": ["Worded identically — the same cause for the same two outcomes", "A completely different answer", "The Buddha refuses to answer", "The answer contradicts SN 47.22's own version"],
+         "correct": 0,
+         "expl": "The identical teaching, here delivered by the Buddha himself rather than relayed through a senior disciple."},
+        {"q": "What outcome does this discourse have that SN 47.22 does not?",
+         "opts": ["The brahmin's own conversion to lifelong lay discipleship", "A detailed philosophical debate", "The brahmin's rejection of the teaching", "A second, unrelated question"],
+         "correct": 0,
+         "expl": "A genuinely new element made possible by this discourse's own encounter with a brahmin rather than a fellow mendicant."},
+    ],
+    marginalia=[
+        ("The same question, a different audience", [
+            "no courteous exchange this time —",
+            "a brahmin questions the Buddha directly"
+        ]),
+        ("An identical answer, delivered differently", [
+            "the same cause, the same two outcomes —",
+            "now spoken by the Buddha himself"
+        ]),
+        ("A conversion SN 47.22 does not have", [
+            "\"a lay follower... for life\" —",
+            "an outcome only this encounter makes possible"
+        ]),
+        ("A shared teaching, a genuinely new ending", [
+            "the same mindfulness formula, once more —",
+            "this time closing with lifelong refuge"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.24.html\">SN 47.24 &middot; Plain "
+        "Version</a> &mdash; the previous discourse.",
+        "<a href=\"sn-47.22.html\">SN 47.22 &middot; Long "
+        "Lasting</a> &mdash; this project's own earlier treatment of "
+        "the identical question and answer, given there between "
+        "Ānanda and Bhadda.",
+    ],
+)
