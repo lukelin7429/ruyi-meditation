@@ -32321,3 +32321,143 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.47 — Duccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 47, "Duccarita", "Bad Conduct",
+    vagga="Amatavagga",
+    meta_title="SN 47.47 — Bad Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Duccaritasutta — a near-twin of the preceding discourse, "
+        "naming the starting point of skillful qualities as giving "
+        "up bad conduct of body, speech, and mind, before developing "
+        "the four kinds of mindfulness meditation on that ethical "
+        "foundation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "An unnamed mendicant requesting brief "
+                     "guidance, and the Buddha, teaching him"),
+        ("Form", "The same narrative shape as SN 47.46 &mdash; "
+                 "request, teaching, and the mendicant's own "
+                 "attainment &mdash; with a different ethical "
+                 "starting point named"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; worth reading alongside SN 47.46 to "
+                       "see what varies and what stays fixed"),
+    ],
+    why=(
+        "This discourse repeats SN 47.46's own narrative shape "
+        "&mdash; a mendicant requests brief guidance, the Buddha "
+        "names an ethical &ldquo;starting point of skillful "
+        "qualities,&rdquo; and the mendicant goes on to attain "
+        "arahantship &mdash; but NAMES A DIFFERENT starting point: "
+        "not restraint in the monastic code specifically, but giving "
+        "up bad conduct of body, speech, and mind and developing "
+        "good conduct in their place."
+    ),
+    guide=[
+        ("The same narrative shape as SN 47.46, a different starting point", [
+            "Confirmed by direct reading, this discourse follows the "
+            "IDENTICAL sequence as SN 47.46 &mdash; a mendicant's own "
+            "request, the Buddha naming an ethical foundation, "
+            "mindfulness meditation grounded on it, and the "
+            "mendicant's own attainment &mdash; but this discourse "
+            "names giving up bad conduct and developing good conduct "
+            "of body, speech, and mind, rather than SN 47.46's own "
+            "specific naming of restraint in the monastic code.",
+        ]),
+        ("Body, speech, and mind -- three channels, not one rule set", [
+            "The discourse's own threefold division &mdash; "
+            "&ldquo;kāyaduccaritaṁ... vacīduccaritaṁ... "
+            "manoduccaritaṁ&rdquo; (bad conduct of body, speech, and "
+            "mind) &mdash; is confirmed by direct reading to describe "
+            "ethical conduct across all three channels of action, a "
+            "broader ethical framing than a single set of monastic "
+            "rules.",
+        ]),
+        ("The same closing formula, elided in the source itself", [
+            "Confirmed by direct reading, the Pāli root itself marks "
+            "its own final section with &ldquo;&hellip;pe&hellip;&rdquo; "
+            "(an elision indicator), confirming the source text "
+            "treats the remainder as identical to SN 47.46's own "
+            "closing &mdash; growth in skillful qualities, and the "
+            "mendicant's own attainment of arahantship.",
+        ]),
+    ],
+    terms=[
+        ("kāyaduccarita, vacīduccarita, manoduccarita", "&ldquo;bad "
+             "conduct of body, speech, and mind&rdquo; &mdash; this "
+             "discourse's own title term and named starting point, "
+             "given up in favor of good conduct"),
+        ("kāyasucarita, vacīsucarita, manosucarita", "&ldquo;good "
+             "conduct of body, speech, and mind&rdquo; &mdash; the "
+             "positive counterpart developed in place of bad "
+             "conduct"),
+        ("ādi kusalānaṁ dhammānaṁ", "&ldquo;the starting point of "
+             "skillful qualities&rdquo; &mdash; the same phrase used "
+             "in SN 47.46, here answered with a different specific "
+             "content"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; the identical phrase "
+             "from SN 47.46, describing how mindfulness meditation "
+             "should be developed"),
+        ("&hellip;pe&hellip;", "the elision marker in the Pāli root "
+             "itself, confirming the discourse's own closing section "
+             "is treated as identical to SN 47.46's own"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the request and the ethical starting point", "sn47.47:1.1-1.8"),
+        ("p", "&sect;2 &mdash; mindfulness meditation and the outcome", "sn47.47:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own narrative shape compare to SN 47.46?",
+         "opts": ["Identical in shape, but naming a different ethical starting point", "Entirely unrelated in structure and content", "The reverse — the mendicant fails to attain anything", "A much longer discourse with additional sections not found in SN 47.46"],
+         "correct": 0,
+         "expl": "A mendicant's own request, an ethical foundation, mindfulness meditation grounded on it, and the mendicant's own attainment — the same shape, different specific content."},
+        {"q": "What ethical starting point does THIS discourse name, distinct from SN 47.46's own \"restraint in the monastic code\"?",
+         "opts": ["Giving up bad conduct and developing good conduct of body, speech, and mind", "Fasting for a specified period", "Studying a specific set of texts", "Taking a vow of silence"],
+         "correct": 0,
+         "expl": "A broader ethical framing across all three channels of action, rather than a single set of monastic rules."},
+        {"q": "What does the elision marker \"…pe…\" in the Pāli root of this discourse's own closing section confirm?",
+         "opts": ["That the source text treats the remainder as identical to SN 47.46's own closing", "That the discourse is incomplete and missing content", "That a different ending was intended but never recorded", "That this discourse has no closing section at all"],
+         "correct": 0,
+         "expl": "Growth in skillful qualities, and the mendicant's own attainment of arahantship, exactly as in SN 47.46."},
+    ],
+    marginalia=[
+        ("Same shape, different starting point", [
+            "request, ethical foundation, attainment —",
+            "but a different ethics named this time"
+        ]),
+        ("Body, speech, mind — three channels", [
+            "bad conduct given up, good conduct developed —",
+            "broader than a single set of rules"
+        ]),
+        ("The elision marks the shared ending", [
+            "\"…pe…\" in the Pāli root itself —",
+            "the same closing as SN 47.46's own"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "three more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.46.html\">SN 47.46 &middot; Restraint in "
+        "the Monastic Code</a> &mdash; the previous discourse, "
+        "sharing this discourse's own narrative shape.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
