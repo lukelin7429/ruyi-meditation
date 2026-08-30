@@ -31616,3 +31616,144 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.42 — Samudayasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 42, "Samudaya", "Origin",
+    vagga="Amatavagga",
+    meta_title="SN 47.42 — Origin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samudayasutta — a discourse naming a distinct causal "
+        "condition for each of the four mindfulness objects: the "
+        "body from fuel, feelings from contact, the mind from name "
+        "and form, and principles from the application of mind. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A formal \"I will teach you\" announcement, "
+                 "followed by four short paired statements naming "
+                 "each object's own origin and ending"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; ties each of the four mindfulness "
+                         "objects to a DIFFERENT causal condition, "
+                         "not a single shared one"),
+    ],
+    why=(
+        "Unlike the general observation formula repeated across many "
+        "discourses in this saṃyutta, this discourse names a "
+        "DIFFERENT, SPECIFIC causal condition for each of the four "
+        "mindfulness objects individually &mdash; the body "
+        "originates from fuel, feelings from contact, the mind from "
+        "name and form, and principles from the application of mind "
+        "&mdash; giving each object its own distinct dependent "
+        "origin rather than treating all four as arising from one "
+        "shared cause."
+    ),
+    guide=[
+        ("Four objects, four distinct causes", [
+            "Confirmed by direct reading, this discourse does NOT "
+            "assign a single shared cause to all four mindfulness "
+            "objects &mdash; it pairs each object with its OWN "
+            "specific condition: the body with fuel (āhāra), "
+            "feelings with contact (phassa), the mind with name and "
+            "form (nāmarūpa), and principles with the application of "
+            "mind (manasikāra).",
+        ]),
+        ("Terms drawn from dependent origination itself", [
+            "This project's own comparison confirms that three of "
+            "these four pairings &mdash; fuel and the body, contact "
+            "and feelings, name-and-form and the mind (here, "
+            "consciousness) &mdash; use the SAME technical vocabulary "
+            "found in the twelve links of dependent origination "
+            "(paṭicca-samuppāda), applying that familiar causal "
+            "framework specifically to the four mindfulness objects.",
+        ]),
+        ("Principles, tied to the application of mind", [
+            "Confirmed by direct reading, the fourth pairing "
+            "&mdash; &ldquo;principles originate from the "
+            "application of mind&rdquo; (manasikārasamudayā "
+            "dhammānaṁ samudayo) &mdash; stands somewhat apart from "
+            "the other three, its own term (manasikāra) NOT "
+            "appearing among the twelve standard links of dependent "
+            "origination, giving this fourth object its own "
+            "distinctive causal account.",
+        ]),
+    ],
+    terms=[
+        ("samudaya", "&ldquo;origin, arising&rdquo; &mdash; this "
+             "discourse's own title term, paired with "
+             "&ldquo;atthaṅgama&rdquo; (ending) for each of the four "
+             "objects"),
+        ("āhārasamudayā kāyassa samudayo", "&ldquo;the body "
+             "originates from fuel&rdquo; &mdash; the first pairing, "
+             "using vocabulary shared with dependent origination"),
+        ("phassasamudayā vedanānaṁ samudayo", "&ldquo;feelings "
+             "originate from contact&rdquo; &mdash; the second "
+             "pairing, likewise drawn from dependent origination's "
+             "own vocabulary"),
+        ("nāmarūpasamudayā cittassa samudayo", "&ldquo;the mind "
+             "originates from name and form&rdquo; &mdash; the "
+             "third pairing, again shared with dependent "
+             "origination"),
+        ("manasikārasamudayā dhammānaṁ samudayo", "&ldquo;principles "
+             "originate from the application of mind&rdquo; &mdash; "
+             "the fourth pairing, standing apart in that "
+             "&ldquo;manasikāra&rdquo; is not among the twelve "
+             "standard links of dependent origination"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.42:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "Does this discourse assign a single shared cause to all four mindfulness objects, or a distinct cause to each?",
+         "opts": ["A distinct, specific cause to each of the four objects individually", "One single shared cause for all four objects together", "No causal explanation is given for any of the four objects", "Only the body is given a causal explanation"],
+         "correct": 0,
+         "expl": "The body from fuel, feelings from contact, the mind from name and form, principles from the application of mind."},
+        {"q": "What vocabulary do three of the four pairings share with another well-known teaching?",
+         "opts": ["The same technical terms used in the twelve links of dependent origination", "Terms found only in the Abhidhamma commentaries", "Vocabulary unique to this discourse alone", "Terms borrowed from a non-Buddhist philosophical school"],
+         "correct": 0,
+         "expl": "Fuel and the body, contact and feelings, name-and-form and the mind — all drawn from dependent origination's own framework."},
+        {"q": "How does the fourth pairing, principles and \"the application of mind\" (manasikāra), differ from the other three?",
+         "opts": ["Manasikāra is not among the twelve standard links of dependent origination, unlike the other three terms", "It is identical in every respect to the other three pairings", "It names no cause at all, unlike the other three", "It applies to two objects rather than one"],
+         "correct": 0,
+         "expl": "Giving this fourth object its own distinctive causal account, standing somewhat apart from the other three."},
+    ],
+    marginalia=[
+        ("Four objects, four distinct causes", [
+            "fuel, contact, name-and-form, application of mind —",
+            "not one shared cause for all four"
+        ]),
+        ("Vocabulary from dependent origination", [
+            "āhāra, phassa, nāmarūpa — familiar terms —",
+            "applied here to the four mindfulness objects"
+        ]),
+        ("Manasikāra — standing somewhat apart", [
+            "not among the twelve standard links —",
+            "principles given their own distinctive account"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "eight more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.41.html\">SN 47.41 &middot; Freedom From "
+        "Death</a> &mdash; the previous discourse, opening this "
+        "vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
