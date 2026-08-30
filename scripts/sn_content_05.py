@@ -36237,3 +36237,139 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.19 — Sampannasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 19, "Sampanna", "Endowed",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.19 — Endowed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sampannasutta — a mendicant's own question defining "
+        "\"accomplished in the faculties\" as developing all five "
+        "faculties in a way that leads to peace and to awakening. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "An unnamed mendicant asking a question, and "
+                     "the Buddha, answering directly"),
+        ("Form", "A brief narrative frame, a single question, and a "
+                 "single defining answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; introduces a new qualifying phrase "
+                         "not met in the earlier discourses of this "
+                         "vagga: developing the faculties toward "
+                         "peace and awakening specifically"),
+    ],
+    why=(
+        "This discourse answers a mendicant's own direct question "
+        "&mdash; what does &ldquo;accomplished in the faculties"
+        "&rdquo; (indriyasampanna) actually mean? &mdash; with a "
+        "definition this vagga has not used before: developing each "
+        "of the five faculties in a way that &ldquo;leads to peace, "
+        "leads to awakening&rdquo; (upasamagāmiṁ sambodhagāmiṁ), "
+        "naming the faculties' own proper DIRECTION rather than "
+        "their degree of completion."
+    ),
+    guide=[
+        ("A question posed directly, breaking from the bare declarative pattern", [
+            "Confirmed by direct reading, this discourse departs "
+            "from the bare declarative form used throughout most of "
+            "this vagga &mdash; it opens with a mendicant's own "
+            "narrative approach and direct question, matching the "
+            "form this project met earlier at SN 48.18's own "
+            "discourse, though the two ask about different things.",
+        ]),
+        ("A new qualifying phrase: leading to peace, leading to awakening", [
+            "Confirmed by direct reading, this discourse's own "
+            "answer defines &ldquo;accomplished in the "
+            "faculties&rdquo; through a phrase not used in the "
+            "earlier discourses of this vagga: each faculty must be "
+            "developed &ldquo;upasamagāmiṁ sambodhagāmiṁ&rdquo; "
+            "(&ldquo;leading to peace, leading to awakening&rdquo;) "
+            "&mdash; naming the faculties' own proper orientation, "
+            "not their degree of completion as the earlier scales "
+            "did.",
+        ]),
+        ("Direction, not degree -- a different axis of measurement", [
+            "This project's own direct comparison confirms this "
+            "discourse measures the faculties along a genuinely "
+            "DIFFERENT axis than SN 48.12-18: those earlier "
+            "discourses distinguished levels by HOW MUCH of the "
+            "faculties one has; this discourse instead asks whether "
+            "the faculties, however much one has, are being "
+            "developed in the RIGHT DIRECTION.",
+        ]),
+    ],
+    terms=[
+        ("indriyasampanno", "&ldquo;accomplished in the "
+             "faculties&rdquo; &mdash; the term the mendicant's own "
+             "question asks the Buddha to define"),
+        ("upasamagāmī", "&ldquo;leading to peace&rdquo; &mdash; the "
+             "first half of this discourse's own new qualifying "
+             "phrase, describing the faculties' own proper "
+             "direction"),
+        ("sambodhagāmī", "&ldquo;leading to awakening&rdquo; "
+             "&mdash; the second half, paired with &ldquo;leading "
+             "to peace&rdquo;"),
+        ("bhāveti", "&ldquo;develops&rdquo; &mdash; the verb "
+             "applied to each of the five faculties in this "
+             "discourse's own answer"),
+        ("ettāvatā", "&ldquo;to this extent, in this "
+             "way&rdquo; &mdash; the discourse's own closing word, "
+             "marking the completed definition"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the mendicant's own question", "sn48.19:1.1-2.2"),
+        ("p", "&sect;2 &mdash; the Buddha's own answer", "sn48.19:2.3-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own answer define \"accomplished in the faculties\" as?",
+         "opts": ["Developing all five faculties in a way that leads to peace and to awakening", "Having completed and fulfilled all five faculties entirely", "Possessing only the faculty of wisdom, regardless of the other four", "A title reserved only for the Buddha himself"],
+         "correct": 0,
+         "expl": "Naming the faculties' own proper direction, a phrase not used in the earlier discourses of this vagga."},
+        {"q": "How does this discourse's own measurement differ from SN 48.12-18's own scales?",
+         "opts": ["It measures direction (whether developed toward peace and awakening), not degree of completion", "It is identical to the earlier scales in every respect", "It denies that the faculties can be measured at all", "It measures only the faculty of energy, ignoring the other four"],
+         "correct": 0,
+         "expl": "A genuinely different axis — direction rather than degree."},
+        {"q": "How does this discourse's own opening differ from the bare declarative discourses of this vagga?",
+         "opts": ["It opens with a mendicant's own narrative approach and direct question", "It opens with a river simile", "It opens with the Buddha's own unprompted teaching, no question asked", "It is identical to every other discourse's own opening"],
+         "correct": 0,
+         "expl": "Matching the narrative form this project met earlier, though the two discourses ask about different things."},
+    ],
+    marginalia=[
+        ("A question, not a bare declaration", [
+            "a mendicant approaches, asks directly —",
+            "breaking from this vagga's own usual pattern"
+        ]),
+        ("Leading to peace, leading to awakening", [
+            "a new qualifying phrase, not met before —",
+            "naming the faculties' own proper direction"
+        ]),
+        ("Direction, not degree", [
+            "not how much, but which way —",
+            "a genuinely different axis of measurement"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.18.html\">SN 48.18 &middot; Practicing</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
