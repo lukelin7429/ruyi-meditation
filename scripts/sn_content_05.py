@@ -29943,3 +29943,158 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.30 — Mānadinnasutta
+# Confirmed by direct reading: this discourse closes the
+# Sīlaṭṭhitivagga (Vagga 3, SN 47.21-30) with its own colophon
+# ("Sīlaṭṭhitivaggo tatiyo," "the Ethics-and-Duration chapter, the
+# third") and closing uddāna, naming all ten discourses of this
+# vagga in order. This discourse's own version of the sick-layman
+# encounter, closely paralleling SN 47.29, introduces one genuine
+# textual nuance: mindfulness is explicitly framed here as the
+# response TO being touched by pain, not merely a co-occurring
+# practice.
+# --------------------------------------------------------------------------- #
+page(
+    47, 30, "Mānadinna", "With Mānadinna",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.30 — With Mānadinna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mānadinnasutta — closing the Sīlaṭṭhitivagga, a second "
+        "gravely ill layman explicitly practices mindfulness in "
+        "direct response to being touched by pain, and is likewise "
+        "confirmed to have attained the fruit of non-return. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The householder Mānadinna's own home, near "
+                     "Rājagaha &mdash; the same setting as SN 47.29"),
+        ("Speakers", "Venerable Ānanda and the householder Mānadinna"),
+        ("Form", "A close parallel to SN 47.29, closing this "
+                 "saṃyutta's own third vagga with its own colophon "
+                 "and uddāna"),
+        ("Length", "1-2 minutes to read, plus a described (not "
+                   "translated) uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a second lay declaration of "
+                         "non-return, closing this vagga with a "
+                         "genuine textual nuance"),
+    ],
+    why=(
+        "A second gravely ill householder, Mānadinna, receives the "
+        "identical visit from Ānanda already met at SN 47.29 &mdash; "
+        "but this discourse's own account adds a genuine nuance: "
+        "Mānadinna explicitly says that WHEN TOUCHED by such painful "
+        "feelings, he meditates on the four kinds of mindfulness "
+        "meditation, framing the practice as a direct response to "
+        "pain rather than a general, co-occurring habit. Like "
+        "Sirivaḍḍha, he is confirmed to have given up every one of "
+        "the five lower fetters and declared the fruit of non-return."
+    ),
+    guide=[
+        ("A close parallel to SN 47.29, confirmed by its own opening", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening &mdash; &ldquo;the same setting&rdquo; &mdash; "
+            "and its own condensed narrative (the source itself "
+            "elides the messenger's errand with &ldquo;&hellip;pe"
+            "&hellip;&rdquo;) mark it as a close structural parallel "
+            "to SN 47.29, presenting a second, independent case of "
+            "the identical outcome.",
+        ]),
+        ("A genuine nuance: mindfulness as a direct response to pain", [
+            "Confirmed by direct reading, Mānadinna's own account "
+            "differs from Sirivaḍḍha's own in one respect worth "
+            "noting honestly: he specifies that &ldquo;when I "
+            "experience such painful feelings, I meditate observing "
+            "an aspect of the body&rdquo; &mdash; explicitly framing "
+            "the practice as something taken up IN RESPONSE to being "
+            "touched by pain, rather than simply stating the practice "
+            "and the pain as parallel facts as SN 47.29's own account "
+            "does.",
+        ]),
+        ("This vagga's own closing colophon and uddāna", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Sīlaṭṭhitivaggo "
+            "tatiyo&rdquo; (&ldquo;the Ethics-and-Duration chapter, "
+            "the third&rdquo;), confirmed by direct reading to match "
+            "this project's own count of ten discourses (SN 47.21-30) "
+            "without discrepancy. The closing uddāna names all ten in "
+            "order: ethics, duration, decline, the plain version, a "
+            "brahmin, partly, completely, the world, Sirivaḍḍha, and "
+            "Mānadinna.",
+        ]),
+    ],
+    terms=[
+        ("evarūpāya dukkhāya vedanāya phuṭṭho samāno", "&ldquo;when "
+             "touched by such painful feelings&rdquo; &mdash; the "
+             "genuine nuance framing mindfulness as a direct response "
+             "to pain, distinct from SN 47.29's own account"),
+        ("pañcorambhāgiyāni saṁyojanāni", "&ldquo;the five lower "
+             "fetters&rdquo; &mdash; the identical set Mānadinna, "
+             "like Sirivaḍḍha, claims to have entirely given up"),
+        ("anāgāmiphalaṁ tayā byākataṁ", "&ldquo;you have declared "
+             "the fruit of non-return&rdquo; &mdash; Ānanda's own "
+             "identical confirmation, worded exactly as at SN 47.29"),
+        ("sīlaṭṭhitivaggo tatiyo", "&ldquo;the Ethics-and-Duration "
+             "chapter, the third&rdquo; &mdash; this vagga's own "
+             "closing colophon, confirming its own position within "
+             "this saṃyutta's own count"),
+        ("sīlaṁ ṭhiti parihānaṁ, suddhaṁ brāhmaṇapadesaṁ; samattaṁ "
+             "loko sirivaḍḍho, mānadinnena te dasa", "the closing "
+             "uddāna's own full list of this vagga's own ten "
+             "discourses, in order"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; a second sick layman, a shared "
+              "outcome", "sn47.30:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What genuine nuance does Mānadinna's own account add, compared to Sirivaḍḍha's own account at SN 47.29?",
+         "opts": ["He explicitly frames mindfulness as a direct response to being touched by pain, not merely a co-occurring fact", "He claims to feel no pain whatsoever", "He rejects the practice of mindfulness meditation entirely", "He asks for a completely different teaching"],
+         "correct": 0,
+         "expl": "A genuine textual distinction, reported honestly rather than treated as an identical repetition."},
+        {"q": "What outcome does Mānadinna share with Sirivaḍḍha at SN 47.29?",
+         "opts": ["Both are confirmed by Ānanda to have declared the fruit of non-return, after giving up all five lower fetters", "Mānadinna is declared to have attained a lower stage than Sirivaḍḍha", "Mānadinna rejects the confirmation Ānanda offers", "The two discourses have no outcome in common"],
+         "correct": 0,
+         "expl": "A second, independent case of the identical high attainment among lay followers."},
+        {"q": "What does this discourse's own closing colophon confirm?",
+         "opts": ["This is the tenth and final discourse of the Sīlaṭṭhitivagga, the third vagga of this saṃyutta", "This is the final discourse of the entire Satipaṭṭhānasaṃyutta", "This discourse belongs to a different saṃyutta entirely", "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, matching this project's own count of ten discourses without discrepancy."},
+    ],
+    marginalia=[
+        ("A second case, closely paralleled", [
+            "the same setting, a different householder —",
+            "an independent confirmation of the same outcome"
+        ]),
+        ("Mindfulness taken up when pain arrives", [
+            "\"when touched by such painful feelings\" —",
+            "a genuine nuance beyond SN 47.29's own account"
+        ]),
+        ("Every fetter given up, once more", [
+            "the identical total claim as Sirivaḍḍha's own —",
+            "confirmed with the identical words of praise"
+        ]),
+        ("This vagga's own ten discourses, named in order", [
+            "ethics, duration, decline, the plain version —",
+            "a brahmin, partly, completely, the world, and two laymen"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.29.html\">SN 47.29 &middot; With "
+        "Sirivaḍḍha</a> &mdash; the previous discourse, this one's "
+        "own close parallel.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
