@@ -41238,3 +41238,155 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.53 — Sekhasutta
+# A substantive doctrinal discourse distinguishing a "trainee" (sekha)
+# from an "adept" (asekha, an arahant): both understand the five
+# faculties, but only the adept has direct bodily meditative
+# experience of their culmination, not wisdom-seeing alone. The adept
+# has a further criterion: knowing the six sense faculties will cease
+# totally, with no others ever to arise again.
+# --------------------------------------------------------------------------- #
+page(
+    48, 53, "Sekha", "A Trainee",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.53 — A Trainee | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sekhasutta — distinguishing a trainee from an adept by "
+        "whether direct bodily meditative experience, not wisdom "
+        "alone, accompanies understanding of the five faculties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, Ghosita's Monastery"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A question posed and deferred, then answered with "
+                 "a detailed, multi-part doctrinal explanation"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a substantive discourse "
+                         "distinguishing trainee from adept, with a "
+                         "precise criterion: direct bodily experience "
+                         "versus wisdom-seeing alone"),
+    ],
+    why=(
+        "This discourse distinguishes a &ldquo;trainee&rdquo; "
+        "(sekha, still on the path) from an &ldquo;adept&rdquo; "
+        "(asekha, an arahant beyond training) with a precise "
+        "criterion: both understand the five faculties, but only "
+        "the adept has DIRECT BODILY meditative experience of their "
+        "own destination and culmination &mdash; the trainee sees "
+        "the same truth only with penetrating wisdom, without yet "
+        "having touched it directly."
+    ),
+    guide=[
+        ("Four criteria marking the trainee", [
+            "Confirmed by direct reading, this discourse gives a "
+            "trainee three criteria before reaching the five "
+            "faculties: understanding the four noble truths; "
+            "reflecting and confirming that no other ascetic or "
+            "brahmin teaches as truly, really, and accurately as the "
+            "Buddha; and understanding the five faculties without "
+            "yet having direct meditative experience of their own "
+            "destination, apex, fruit, and culmination &mdash; seen "
+            "only with penetrating wisdom.",
+        ]),
+        ("The precise line between trainee and adept", [
+            "Confirmed by direct reading, this discourse's own "
+            "criterion for the adept repeats the trainee's own "
+            "wording almost exactly, but with one decisive addition: "
+            "&ldquo;kāyena ca phusitvā viharati&rdquo; (&ldquo;they "
+            "have direct meditative experience of it&rdquo;), where "
+            "the trainee's own passage explicitly states &ldquo;na "
+            "heva kho kāyena phusitvā viharati&rdquo; (&ldquo;they "
+            "do NOT have direct meditative experience of it&rdquo;) "
+            "&mdash; the same wisdom-seeing, but only the adept has "
+            "touched it directly.",
+        ]),
+        ("The adept's own further criterion: the six faculties' final ending", [
+            "Confirmed by direct reading, this discourse gives the "
+            "adept a further, distinct criterion beyond the "
+            "trainee's own three: understanding that the six sense "
+            "faculties (eye, ear, nose, tongue, body, mind) &ldquo;"
+            "will totally and utterly cease without remainder, and "
+            "no other six faculties will arise anywhere anyhow"
+            "&rdquo; &mdash; a direct understanding of one's own "
+            "final parinibbāna, where rebirth's six senses will "
+            "never recur.",
+        ]),
+    ],
+    terms=[
+        ("sekho / asekho", "&ldquo;trainee&rdquo; / &ldquo;adept"
+             "&rdquo; &mdash; one still on the path versus one "
+             "beyond training, an arahant"),
+        ("kāyena phusitvā viharati", "&ldquo;having direct "
+             "meditative experience&rdquo; &mdash; the decisive "
+             "criterion present for the adept and explicitly absent "
+             "for the trainee"),
+        ("paññāya ca ativijjha passati", "&ldquo;sees with "
+             "penetrating wisdom&rdquo; &mdash; shared by both "
+             "trainee and adept, but insufficient alone for the "
+             "trainee to be an adept"),
+        ("sabbena sabbaṁ sabbathā sabbaṁ aparisesaṁ nirujjhissanti", "&ldquo;will totally and utterly cease without "
+             "remainder&rdquo; &mdash; the adept's own understanding "
+             "of the six sense faculties' final ending"),
+        ("Tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's third "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-2 &mdash; the Buddha's own question", "sn48.53:1.1-2.2"),
+        ("p", "&sect;3-5 &mdash; the trainee's own three criteria", "sn48.53:3.1-5.5"),
+        ("p", "&sect;6 &mdash; the adept's own criterion, echoing "
+              "the trainee's with one addition", "sn48.53:6.1-6.6"),
+        ("p", "&sect;7 &mdash; the adept's own further criterion: "
+              "the six faculties' final ending", "sn48.53:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What decisive criterion distinguishes the adept from the trainee, according to this discourse?",
+         "opts": ["Direct bodily meditative experience of the five faculties' own culmination, not wisdom-seeing alone", "The adept alone understands the four noble truths", "The trainee has never heard the Buddha's own teaching", "The adept has more faculties than the trainee"],
+         "correct": 0,
+         "expl": "The same wisdom-seeing is shared by both; only the adept has directly touched it."},
+        {"q": "What further criterion does this discourse give specifically for the adept?",
+         "opts": ["Understanding that the six sense faculties will totally cease, with no others ever to arise again", "Understanding a sixth spiritual faculty not named elsewhere", "A denial that the five faculties exist at all", "A requirement to teach other mendicants directly"],
+         "correct": 0,
+         "expl": "A direct understanding of one's own final parinibbāna."},
+        {"q": "What does a trainee reflect on and confirm, according to this discourse's own second criterion?",
+         "opts": ["That no other ascetic or brahmin teaches as truly, really, and accurately as the Buddha", "That they have already become an adept", "That the five faculties do not need to be developed", "That other teachers surpass the Buddha's own teaching"],
+         "correct": 0,
+         "expl": "A settled confidence in the uniqueness of the Buddha's own teaching."},
+    ],
+    marginalia=[
+        ("Seen, but not yet touched", [
+            "the trainee sees with wisdom alone —",
+            "the same truth, not yet felt in the body"
+        ]),
+        ("One phrase, reversed", [
+            "\"not\" touched with the body, then \"touched\" —",
+            "the whole distinction turns on this"
+        ]),
+        ("Six senses, ending for good", [
+            "no others to arise anywhere, anyhow —",
+            "the adept's own knowledge of final parinibbāna"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "brief as its own close, dense in content —",
+            "more of Sūkarakhatavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.52.html\">SN 48.52 &middot; In the Land of "
+        "the Mallas</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
