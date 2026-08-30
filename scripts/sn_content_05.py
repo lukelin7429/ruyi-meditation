@@ -24679,3 +24679,183 @@ page(
         "eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 14. Punagaṅgāpeyyālavagga — Another Chapter of Abbreviated Texts on
+# the Ganges (SN 46.131-142)
+# Confirmed by direct bilara-data reading: this vagga's own merged
+# file carries NO independent body text at all -- not even the single
+# worked example given by every one of the four preceding peyyāla
+# vaggas (SN 46.89-98, 99-110, 111-120, 121-129). Its own English
+# translation shows every content key (1.1, 1.2, 2.1-2.4) blank; the
+# Pāli root gives only the elision marker "…pe…", the colophon
+# ("vaggo cuddasamo," "the vagga, the fourteenth"), and the closing
+# uddāna -- which is IDENTICAL in wording to Vagga 9's own closing
+# uddāna ("six sloping east, six sloping to the ocean, these two
+# sixes make twelve"), confirming this is genuinely a SECOND
+# Ganges-river vagga, reusing the identical five-river structure
+# already used at SN 46.77-88, but this time cross-referencing
+# SN 45.103-114 explicitly labeled "removal of greed version" --
+# this project's own already-completed FIRST of the three
+# formula-cycles making up SN 45's own Dutiyagaṅgāpeyyālavagga
+# (SN 45.103-138, three repetitions of the twelve-river pattern under
+# three different closing formulas). This confirms the two-vagga
+# structure predicted since Vagga 9 (this project's own note there:
+# "unlike SN 45's own SECOND Gaṅgā vagga... which cycled through
+# three distinct closing formulas") is now realized as SEPARATE SN 46
+# vaggas, one per formula -- meaning at least two more such vaggas
+# should be expected among the remaining SN 46.143-152/153-164/
+# 165-174/175-184 ranges, to be confirmed individually rather than
+# assumed.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.131-142 — Punagaṅgānadīādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 131, 142, "Punagaṅgānadīādi", "More on the Ganges River, Etc.",
+    vagga="Punagaṅgāpeyyālavagga",
+    meta_title="SN 46.131–142 — More on the Ganges River, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for SN 46.131–142 — a "
+        "second twelve-discourse Ganges-river vagga, carrying no "
+        "body text of its own, cross-referencing this project's own "
+        "already-completed 'removal of greed' formula-cycle from the "
+        "Maggasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by inference from the vagga's own "
+                     "cross-reference)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly "
+                     "(by inference)"),
+        ("Form", "Twelve discourses compressed into a single "
+                 "bilara-data file carrying NO body text of its own "
+                 "&mdash; only an elision marker, a colophon, and a "
+                 "closing uddāna"),
+        ("Length", "A few seconds to read; no independently "
+                   "translatable content beyond the cross-reference "
+                   "itself"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the barest possible peyyāla stub, entirely "
+                       "dependent on cross-referenced content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this vagga's own merged file "
+        "supplies no independent worked example at all &mdash; unlike "
+        "every preceding peyyāla vagga in this stretch, which at "
+        "least opened with one spelled-out simile. It exists purely "
+        "to instruct: &ldquo;tell in full as in SN 45.103&ndash;114, "
+        "removal of greed version&rdquo; &mdash; reusing the "
+        "identical five-river structure already treated at SN "
+        "46.77&ndash;88, but this time under the &ldquo;removal of "
+        "greed, hate, and delusion&rdquo; closing formula rather than "
+        "the earlier self-referential &ldquo;extinguishment&rdquo; "
+        "formula."
+    ),
+    guide=[
+        ("No body text at all -- confirmed, not assumed", [
+            "Every content key in this file's own English translation "
+            "is blank; the Pāli root gives only the elision marker "
+            "&ldquo;&hellip;pe&hellip;&rdquo; before its own colophon "
+            "and uddāna. This is a genuine step beyond the four "
+            "preceding peyyāla vaggas (SN 46.89-98, 99-110, 111-120, "
+            "121-129), each of which at least opened with one "
+            "spelled-out example before eliding the rest.",
+        ]),
+        ("The second Ganges vagga, realized as predicted", [
+            "This project's own note on Vagga 9 (SN 46.77-88) "
+            "predicted that SN 45's own three-formula "
+            "Dutiyagaṅgāpeyyālavagga (SN 45.103-138) might resurface "
+            "in SN 46 as separate vaggas, one per formula, rather "
+            "than folded into a single page. Confirmed here: this "
+            "vagga's own explicit &ldquo;removal of greed "
+            "version&rdquo; label targets only SN 45.103-114, the "
+            "FIRST of SN 45's own three twelve-discourse formula "
+            "cycles &mdash; leaving the remaining two cycles "
+            "(freedom-from-death and extinguishment) to be confirmed "
+            "individually among the vaggas still ahead.",
+        ]),
+        ("An identical closing uddāna to Vagga 9's own", [
+            "The closing verse &mdash; &ldquo;six sloping east, six "
+            "sloping to the ocean, these two sixes make "
+            "twelve&rdquo; &mdash; is confirmed by direct comparison "
+            "to be worded identically to Vagga 9's own closing "
+            "uddāna, since both vaggas share the identical "
+            "underlying five-river, twelve-discourse structure and "
+            "differ only in which closing formula each applies.",
+        ]),
+    ],
+    terms=[
+        ("…pe…", "the bilara-data elision marker, here standing in "
+             "for the ENTIRE body of this vagga &mdash; no other "
+             "content key carries any text at all in this file"),
+        ("rāgavasena vitthāretabbaṁ", "&ldquo;to be elaborated in "
+             "full by way of greed&rdquo; &mdash; the Pāli root's own "
+             "instruction, matching the English source's own "
+             "&ldquo;removal of greed version&rdquo; label"),
+        ("gaṅgāpeyyālaṁ", "&ldquo;the Ganges-river abbreviated "
+             "text&rdquo; &mdash; confirming this vagga reuses the "
+             "identical five-river structure already treated at "
+             "SN 46.77-88, this project's own earlier Ganges vagga"),
+        ("vaggo cuddasamo", "&ldquo;the vagga, the fourteenth&rdquo; "
+             "&mdash; confirming this vagga's own position within "
+             "this saṃyutta's own count"),
+        ("cha pācīnato ninnā, cha ninnā ca samuddato", "&ldquo;six "
+             "sloping east, six sloping to the ocean&rdquo; &mdash; "
+             "the closing uddāna's own explicit count, worded "
+             "identically to Vagga 9's own closing uddāna"),
+    ],
+    text_intro=("This vagga's own file carries no independently "
+        "translatable body text; the fragment below is the source's "
+        "own complete cross-reference instruction, honestly presented "
+        "as such rather than padded with invented content. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.131-142:3.1"),
+    ],
+    quiz=[
+        {"q": "How does this vagga's own body text compare to the four preceding peyyāla vaggas in this stretch?",
+         "opts": ["It carries no body text at all — every content key is blank, unlike the preceding four, which each gave at least one worked example", "It gives the same single worked example as the preceding four vaggas", "It gives ten separate worked examples, one per discourse", "It gives no cross-reference instruction of any kind"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of this vagga's own bilara-data file — a genuine step beyond the preceding four vaggas' own pattern."},
+        {"q": "Which specific portion of SN 45's own three-formula Dutiyagaṅgāpeyyālavagga does this vagga cross-reference?",
+         "opts": ["SN 45.103–114, explicitly labeled the \"removal of greed version\" — the first of SN 45's own three twelve-discourse formula cycles", "All 36 discourses of SN 45.103–138 at once", "SN 45.91–102, the earlier self-referential extinguishment formula", "None — this vagga has no cross-reference at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, realizing this project's own earlier prediction (made at Vagga 9) that SN 45's three formula-cycles might resurface in SN 46 as separate vaggas."},
+        {"q": "How does this vagga's own closing uddāna compare to Vagga 9's own (SN 46.77-88)?",
+         "opts": ["Worded identically — both share the identical five-river, twelve-discourse structure, differing only in which closing formula each applies", "Completely different, naming entirely different rivers", "This vagga has no closing uddāna at all", "Vagga 9 has no closing uddāna, but this vagga does"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of both vaggas' own closing verses."},
+    ],
+    marginalia=[
+        ("No body text survives here at all", [
+            "only an elision marker and a cross-reference —",
+            "a genuine step past the four vaggas before it"
+        ]),
+        ("The second Ganges vagga, as predicted", [
+            "\"removal of greed version,\" SN 45.103–114 —",
+            "one of SN 45's own three formula cycles, now separate"
+        ]),
+        ("The same twelve rivers, a different formula", [
+            "identical uddāna wording to Vagga 9's own —",
+            "structure repeated, closing formula changed"
+        ]),
+        ("Two more formula cycles still unconfirmed", [
+            "freedom-from-death, extinguishment versions ahead —",
+            "each vagga checked on its own, never assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.131-142/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.130.html\">SN 46.130 &middot; Higher "
+        "Fetters</a> &mdash; the previous page, closing the "
+        "preceding vagga.",
+        "<a href=\"sn-45.103.html\">SN 45.103 &middot; Slanting "
+        "East</a> &mdash; this project's own earlier treatment of "
+        "the identical river structure under the &ldquo;removal of "
+        "greed&rdquo; formula, applied there to the eightfold path.",
+    ],
+)
