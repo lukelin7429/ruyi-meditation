@@ -46327,3 +46327,147 @@ page_range(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.13-22 — Appamādavaggo (bare cross-reference, own vagga)
+# Vagga 2, confirmed by direct reading to carry no worked example of
+# its own -- the fifth time this project has met this identical
+# ten-simile Appamādavagga structure, after SN 45.139-148, SN
+# 46.89-98, SN 48.83-92, and SN 49.13-22, now applied to the five
+# powers.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 13, 22, "Appamāda", "Diligence",
+    vagga="Appamādavagga",
+    meta_title="SN 50.13–22 — Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.13–22 — ten discourses on diligence, cross-referenced "
+        "in full to this project's own already-completed "
+        "Appamādavagga, here applied to the five powers. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single cross-reference instruction, plus a "
+                 "closing uddāna; no worked example of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; the fifth time this project has "
+                         "met this exact ten-simile vagga"),
+    ],
+    why=(
+        "This is the fifth time this project has met the identical "
+        "ten-simile Appamādavagga structure &mdash; after SN "
+        "45.139-148 (eightfold path), SN 46.89-98 (awakening "
+        "factors), SN 48.83-92 (five faculties), and SN 49.13-22 "
+        "(four right efforts) &mdash; now applied to the five "
+        "powers, confirmed by direct reading to carry no worked "
+        "example of its own, matching SN 48.83-92's own exact "
+        "wording."
+    ),
+    guide=[
+        ("A fifth meeting with a familiar formula", [
+            "Confirmed by direct reading, this file carries no "
+            "worked example &mdash; only the instruction &ldquo;tell "
+            "in full as in the chapter on diligence at SN "
+            "45.139&ndash;148&rdquo; and the closing uddāna, "
+            "identical in wording to SN 48.83-92's own cross-"
+            "reference, now reused for a fifth quality set across "
+            "this book's own repeated peyyāla formulas.",
+        ]),
+        ("No variant specified, matching SN 48.83-92's own wording", [
+            "This project's own observation: like SN 48.83-92, and "
+            "unlike SN 48's own later &ldquo;removal of greed "
+            "version&rdquo; instances, this cross-reference specifies "
+            "no variant, confirmed by direct comparison rather than "
+            "assumed uniform with either pattern.",
+        ]),
+        ("Ten similes, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.139-148: "
+            "the ten similes are the Realized One, a footprint, a "
+            "roof's peak, roots, heartwood, jasmine, a monarch, the "
+            "sun and moon, and cloth, here applied to the developed "
+            "five powers rather than the eightfold path, awakening "
+            "factors, five faculties, or four right efforts.",
+        ]),
+    ],
+    terms=[
+        ("Appamādavaggo vitthāretabbo", "&ldquo;the Diligence "
+             "chapter is to be elaborated in full&rdquo; &mdash; this "
+             "file's own sole substantive instruction, identical in "
+             "wording to SN 48.83-92's own"),
+        ("appamāda", "&ldquo;diligence, heedfulness&rdquo; &mdash; "
+             "this vagga's own governing quality, now met for the "
+             "fifth time in this project's own work"),
+        ("tathāgataṁ padaṁ kūṭaṁ", "&ldquo;the Realized One, "
+             "footprint, roof peak&rdquo; &mdash; the closing "
+             "uddāna's own opening line, naming the first three of "
+             "this vagga's own ten similes"),
+        ("mūlaṁ sārena vassikaṁ; rājā candimasūriyā, vatthena "
+         "dasamaṁ padaṁ", "&ldquo;roots, heartwood, jasmine, "
+             "monarch, sun and moon, and cloth is the tenth&rdquo; "
+             "&mdash; the uddāna's remaining seven similes"),
+        ("Appamādavaggo dutiyo", "&ldquo;the Diligence chapter, the "
+             "second&rdquo; &mdash; confirming this vagga's own "
+             "position as the second in this saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.13-22:1.1"),
+        ("p", "Uddāna", "sn50.13-22:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many times has this project now met this identical ten-simile Appamādavagga structure?",
+         "opts": ["Five times: SN 45.139-148, SN 46.89-98, SN 48.83-92, SN 49.13-22, and this discourse", "Only this once, with no prior instances", "Twice, with this being the second", "Ten times, once per simile"],
+         "correct": 0,
+         "expl": "A recurring closing formula this project has now confirmed across five separate saṃyuttas."},
+        {"q": "How does this cross-reference compare to SN 48.83-92's own wording?",
+         "opts": ["It is identical in wording, and like SN 48.83-92, specifies no variant qualifier", "It specifies a variant SN 48.83-92 never used", "It is worded completely differently from every prior instance", "It applies to a completely different set of qualities"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, not assumed from the pattern alone."},
+        {"q": "What does the closing uddāna confirm about this vagga's own similes?",
+         "opts": ["Ten similes: the Realized One, footprint, roof peak, roots, heartwood, jasmine, monarch, sun and moon, and cloth", "Only five similes, matching the five powers", "A single simile repeated ten times", "No similes — a purely abstract list"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.139-148."},
+    ],
+    marginalia=[
+        ("A fifth meeting, a familiar shape", [
+            "eightfold path, awakening factors, faculties, right efforts —",
+            "now the five powers, once more"
+        ]),
+        ("Wording unchanged from SN 48.83-92", [
+            "no variant named this time either —",
+            "confirmed, not assumed, by comparison"
+        ]),
+        ("Ten similes, held elsewhere in full", [
+            "footprint, roof-peak, roots, and more —",
+            "the content lives at SN 45.139"
+        ]),
+        ("Second vagga, its own colophon", [
+            "Appamādavaggo dutiyo, stated plainly —",
+            "this saṃyutta's own second chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.13-22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.1-12.html\">SN 50.1&ndash;12 &middot; "
+        "Sloping East, Etc.</a> &mdash; the previous page, closing "
+        "Vagga 1.",
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own earlier, fully expanded "
+        "treatment of the identical ten similes, applied there to "
+        "the eightfold path.",
+    ],
+)
