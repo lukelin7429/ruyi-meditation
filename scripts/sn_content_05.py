@@ -22542,3 +22542,1137 @@ page(
         "the next vagga, Cessation, is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 8. Nirodhavagga — Cessation (SN 46.67-76)
+# Confirmed by direct bilara-data reading: this vagga's own colophon
+# ("Nirodhavaggo aṭṭhamo," "the Cessation chapter, the eighth") is
+# unambiguous, matching this project's own count. This vagga mirrors
+# the preceding Ānāpānavagga's own structure closely: nine discourses
+# (SN 46.67-75) each compress to a single elided line, implicitly
+# carrying the identical sixfold benefit structure first established
+# at SN 46.57 in the PRECEDING vagga (very fruitful; one of two
+# fruits; great benefit; great sanctuary from the yoke; great
+# inspiration; dwelling in great ease) -- confirming this project's
+# own established peyyāla formula spans across vagga boundaries, not
+# only within a single vagga. The closing discourse (SN 46.76,
+# Cessation) restates the full elaboration one final time, in a more
+# compressed form than SN 46.57's own six separately-titled suttas,
+# folding the final four benefits into a single ellipsis-marked
+# sentence.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.67 — Asubhasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 67, "Asubha", "Ugliness",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.67 — Ugliness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asubhasutta — the perception of ugliness, opening a new "
+        "vagga that continues the identical sixfold benefit structure "
+        "first established at SN 46.57 in the preceding vagga. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, opening a new vagga with no "
+                 "fresh controlling discourse of its own"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opening a new vagga in an already "
+                       "established compressed idiom"),
+    ],
+    why=(
+        "The perception of ugliness &mdash; a meditation countering "
+        "attachment to physical beauty &mdash; opens this new vagga, "
+        "confirmed by direct reading to continue the identical "
+        "sixfold benefit structure already established at SN 46.57, "
+        "without this vagga's own separate controlling discourse "
+        "spelling it out again."
+    ),
+    guide=[
+        ("A peyyāla formula spanning across a vagga boundary", [
+            "Unlike the preceding Ānāpānavagga, which opened with its "
+            "own explicit six-part bundle (SN 46.57), this vagga "
+            "opens directly with a compressed single line &mdash; "
+            "confirming, by direct reading of the root Pāli, that the "
+            "sixfold benefit formula first established at SN 46.57 "
+            "continues to apply across this vagga boundary, not "
+            "merely within the vagga where it was first spelled out.",
+        ]),
+    ],
+    terms=[
+        ("asubhasaññā", "&ldquo;the perception of ugliness&rdquo; "
+             "&mdash; a meditation countering attachment to physical "
+             "beauty, this vagga's own opening topic"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("mahapphalā mahānisaṁsā", "the implied sixfold benefit "
+             "carried over from SN 46.57's own full elaboration in "
+             "the preceding vagga"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the Pāli "
+             "root's own closing numeral, confirming this discourse "
+             "opens the vagga's own ten topics"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.67:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about the sixfold benefit formula first established at SN 46.57?",
+         "opts": ["It continues to apply across this vagga boundary, not only within the vagga where it was first spelled out", "It applies only within the preceding vagga and stops here", "It has been replaced by an entirely new formula", "No formula of any kind applies to this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pāli, a peyyāla formula genuinely spanning multiple vaggas."},
+        {"q": "What does the perception of ugliness counter, as a meditation subject?",
+         "opts": ["Attachment to physical beauty", "Fear of death", "Craving for food", "Doubt about the teaching"],
+         "correct": 0,
+         "expl": "This vagga's own opening topic, distinct from but related to the charnel-ground contemplations of the preceding vagga."},
+        {"q": "Unlike the preceding vagga, what does this vagga's own opening discourse lack?",
+         "opts": ["A fresh controlling discourse spelling out the sixfold benefit structure in full", "Any mention of the seven awakening factors", "A closing colophon at the vagga's own end", "Any relationship to the preceding vagga at all"],
+         "correct": 0,
+         "expl": "This vagga relies entirely on the formula already established at SN 46.57 in the preceding vagga."},
+    ],
+    marginalia=[
+        ("A new vagga, no new template", [
+            "the sixfold benefit already established —",
+            "confirmed to carry across the vagga boundary"
+        ]),
+        ("Ugliness, countering attachment to beauty", [
+            "a meditation subject in its own right —",
+            "the same implicit structure applies"
+        ]),
+        ("This project's own established peyyāla span", [
+            "not confined to a single vagga —",
+            "confirmed fresh, not merely assumed"
+        ]),
+        ("Nine discourses remain in this vagga", [
+            "death, repulsiveness of food, dissatisfaction —",
+            "then impermanence, suffering, not-self, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.67/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.66.html\">SN 46.66 &middot; Breathing</a> "
+        "&mdash; the previous page, closing the preceding vagga.",
+        "<a href=\"sn-46.68.html\">SN 46.68 &middot; Death</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.68 — Maraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 68, "Maraṇa", "Death",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.68 — Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maraṇasutta — the perception of death, this vagga's own "
+        "second topic, continuing the compressed peyyāla structure. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.67"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own sequence"),
+    ],
+    why=(
+        "The perception of death (maraṇasaññā) &mdash; a classic "
+        "meditation on mortality, elaborated at far greater length "
+        "elsewhere in the canon (notably AN 6.19-20's own accounts) "
+        "&mdash; continues this vagga's own compressed sequence, "
+        "implicitly carrying the same sixfold benefit structure."
+    ),
+    guide=[
+        ("A well-known meditation, here in its own briefest form", [
+            "Mindfulness of death is treated at considerable length "
+            "elsewhere in the canon; this discourse, by contrast, "
+            "compresses the entire teaching to a single elided line, "
+            "confirming this vagga's own consistent brevity even for "
+            "a topic of major independent significance.",
+        ]),
+    ],
+    terms=[
+        ("maraṇasaññā", "&ldquo;the perception of death&rdquo; "
+             "&mdash; a meditation on mortality, elaborated at much "
+             "greater length elsewhere in the canon"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("mahapphalā mahānisaṁsā", "the implied sixfold benefit "
+             "carried over from SN 46.57's own full elaboration"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.68:1.1"),
+    ],
+    quiz=[
+        {"q": "What is notable about this discourse's own treatment of the perception of death, compared to elsewhere in the canon?",
+         "opts": ["It compresses an otherwise extensively-treated topic to a single elided line", "It is the only place in the canon where death is discussed", "It denies that death should be contemplated at all", "It treats death at greater length than any other discourse"],
+         "correct": 0,
+         "expl": "Confirming this vagga's own consistent brevity even for topics of major independent significance elsewhere."},
+        {"q": "What structure does this discourse implicitly carry, per the pattern established across this and the preceding vagga?",
+         "opts": ["The sixfold benefit structure first spelled out at SN 46.57", "An entirely unrelated, newly introduced structure", "No structure at all", "Only two of the six benefits"],
+         "correct": 0,
+         "expl": "Confirmed to span vagga boundaries, as established at SN 46.67."},
+        {"q": "What confirms this discourse's own position as the vagga's own second topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the second\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("Death, in its own briefest treatment here", [
+            "elaborated at length elsewhere in the canon —",
+            "compressed to a single line in this vagga"
+        ]),
+        ("The same implicit sixfold structure", [
+            "carried forward once more —",
+            "confirmed to span this vagga's own sequence"
+        ]),
+        ("A major topic, briefly held", [
+            "mortality itself, in one elided line —",
+            "the compression itself is the point here"
+        ]),
+        ("Eight discourses remain in this vagga", [
+            "repulsiveness of food, dissatisfaction —",
+            "then impermanence, suffering, not-self, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.68/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.67.html\">SN 46.67 &middot; Ugliness</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.69.html\">SN 46.69 &middot; Repulsiveness "
+        "of Food</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.69 — Āhāre paṭikūlasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 69, "Āhārepaṭikūla", "Repulsiveness of Food",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.69 — Repulsiveness of Food | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āhārepaṭikūlasaññāsutta — the perception of the "
+        "repulsiveness of food, this vagga's own third topic, "
+        "continuing the compressed peyyāla structure. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.68"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own sequence"),
+    ],
+    why=(
+        "The perception of the repulsiveness of food &mdash; a "
+        "meditation countering craving for taste and nourishment "
+        "&mdash; continues this vagga's own compressed sequence, "
+        "implicitly carrying the same sixfold benefit structure."
+    ),
+    guide=[
+        ("One of a traditional group of ten perceptions", [
+            "This meditation subject, along with several others "
+            "already met in this vagga and the preceding one, belongs "
+            "to a well-known traditional grouping of ten "
+            "perceptions (dasa saññā) taught elsewhere in the canon "
+            "(notably AN 10.60) &mdash; here treated in this vagga's "
+            "own consistently brief, compressed form rather than the "
+            "fuller elaboration found in that other discourse.",
+        ]),
+    ],
+    terms=[
+        ("āhāre paṭikūlasaññā", "&ldquo;the perception of the "
+             "repulsiveness of food&rdquo; &mdash; a meditation "
+             "countering craving for taste and nourishment"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("dasa saññā", "&ldquo;ten perceptions&rdquo; &mdash; a "
+             "traditional grouping found elsewhere in the canon "
+             "(notably AN 10.60), several of which appear across this "
+             "vagga and the preceding one"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.69:1.1"),
+    ],
+    quiz=[
+        {"q": "What traditional grouping does this meditation subject belong to, along with several others met in this and the preceding vagga?",
+         "opts": ["The ten perceptions (dasa saññā), a well-known grouping taught elsewhere in the canon", "The five aggregates", "The seven awakening factors themselves", "No traditional grouping — this is a unique, isolated topic"],
+         "correct": 0,
+         "expl": "Notably elaborated at greater length in AN 10.60, though treated here in this vagga's own consistently compressed form."},
+        {"q": "What does the perception of the repulsiveness of food counter?",
+         "opts": ["Craving for taste and nourishment", "Fear of starvation", "Attachment to physical beauty", "Doubt about the teaching"],
+         "correct": 0,
+         "expl": "A specific antidote to a specific form of craving, distinct from the other topics in this vagga's own sequence."},
+        {"q": "What confirms this discourse's own position as the vagga's own third topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the third\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("One of ten traditional perceptions", [
+            "found together elsewhere, at AN 10.60 —",
+            "here in this vagga's own compressed form"
+        ]),
+        ("Food's own repulsiveness, contemplated", [
+            "countering craving for taste —",
+            "the same implicit sixfold structure applies"
+        ]),
+        ("A consistent brevity across topics", [
+            "each meditation, one elided line —",
+            "the fuller elaboration found only elsewhere"
+        ]),
+        ("Seven discourses remain in this vagga", [
+            "dissatisfaction with the whole world next —",
+            "then impermanence, suffering, not-self, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.69/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.68.html\">SN 46.68 &middot; Death</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.70.html\">SN 46.70 &middot; "
+        "Dissatisfaction</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.70 — Sabbaloke anabhiratasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 70, "Sabbaloke Anabhirata", "Dissatisfaction",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.70 — Dissatisfaction | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sabbaloke Anabhiratasaññāsutta — the perception of "
+        "dissatisfaction with the whole world, this vagga's own "
+        "fourth topic. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.69"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own sequence"),
+    ],
+    why=(
+        "The perception of dissatisfaction with the whole world "
+        "&mdash; a meditation countering attachment to worldly "
+        "existence as a whole, rather than any single object &mdash; "
+        "continues this vagga's own compressed sequence, its own "
+        "widest-scoped topic yet."
+    ),
+    guide=[
+        ("The widest-scoped perception in this vagga's own sequence", [
+            "Where the preceding topics (ugliness, death, "
+            "repulsiveness of food) each address a specific object, "
+            "this discourse's own perception takes &ldquo;the whole "
+            "world&rdquo; (sabbaloka) itself as its own object "
+            "&mdash; the broadest scope among this vagga's own first "
+            "four topics, confirmed by direct reading of its own "
+            "title.",
+        ]),
+    ],
+    terms=[
+        ("sabbaloke anabhiratasaññā", "&ldquo;the perception of "
+             "dissatisfaction with the whole world&rdquo; &mdash; a "
+             "meditation with the broadest scope among this vagga's "
+             "own first four topics"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("sabbaloka", "&ldquo;the whole world&rdquo; &mdash; this "
+             "discourse's own object, broader than any single "
+             "physical or sensory feature named in the preceding "
+             "topics"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.70:1.1"),
+    ],
+    quiz=[
+        {"q": "What distinguishes this discourse's own topic from the preceding three in this vagga?",
+         "opts": ["It takes \"the whole world\" as its own object, the broadest scope among this vagga's own first four topics", "It is the only topic with no connection to the awakening factors", "It denies that dissatisfaction is a valid meditation subject", "It repeats the exact same content as SN 46.67"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of its own title — a shift from specific objects to the world as a whole."},
+        {"q": "What does this discourse's own perception counter?",
+         "opts": ["Attachment to worldly existence as a whole, not any single object", "Fear of a specific animal", "Craving for a specific food", "Doubt about a specific teaching"],
+         "correct": 0,
+         "expl": "The broadest-scoped antidote among this vagga's own topics so far."},
+        {"q": "What confirms this discourse's own position as the vagga's own fourth topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the fourth\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("The whole world, as one object", [
+            "broader than beauty, death, or food —",
+            "this vagga's own widest scope yet"
+        ]),
+        ("Dissatisfaction, deliberately cultivated", [
+            "not aversion to one thing —",
+            "but to worldly existence entire"
+        ]),
+        ("A shift in scope, confirmed by the title itself", [
+            "sabbaloka, \"the whole world\" —",
+            "named directly, not left implicit"
+        ]),
+        ("Six discourses remain in this vagga", [
+            "impermanence, suffering, not-self —",
+            "then giving up, dispassion, and cessation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.70/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.69.html\">SN 46.69 &middot; Repulsiveness "
+        "of Food</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.71.html\">SN 46.71 &middot; "
+        "Impermanence</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.71 — Aniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 71, "Anicca", "Impermanence",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.71 — Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aniccasutta — the perception of impermanence, opening a "
+        "three-discourse sequence tracing the three characteristics "
+        "of existence in this vagga's own compressed idiom. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.70"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, opening this vagga's own "
+                 "sequence on the three characteristics of existence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opening the canon's own most "
+                       "fundamental doctrinal sequence"),
+    ],
+    why=(
+        "The perception of impermanence &mdash; among the most "
+        "fundamental teachings in the entire canon &mdash; opens a "
+        "three-discourse sequence (impermanence, then suffering IN "
+        "impermanence, then not-self IN suffering) tracing the "
+        "canon's own three characteristics of existence (anicca, "
+        "dukkha, anattā), here treated in this vagga's own "
+        "characteristically compressed single-line form."
+    ),
+    guide=[
+        ("The three characteristics, in a deliberately linked chain", [
+            "Confirmed by the following two discourses' own titles "
+            "(&ldquo;Suffering in Impermanence,&rdquo; &ldquo;"
+            "Not-Self in Suffering&rdquo;), this sequence does not "
+            "simply list the three characteristics of existence "
+            "side by side but links them causally: impermanence gives "
+            "rise to suffering, and suffering (properly seen) gives "
+            "rise to not-self &mdash; each perception building "
+            "directly on the one before it.",
+        ]),
+    ],
+    terms=[
+        ("aniccasaññā", "&ldquo;the perception of impermanence"
+             "&rdquo; &mdash; one of the most fundamental "
+             "contemplations in the entire canon, opening this "
+             "vagga's own three-discourse chain"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("anicca dukkha anattā", "&ldquo;impermanence, suffering, "
+             "not-self&rdquo; &mdash; the canon's own three "
+             "characteristics of existence, traced across this "
+             "discourse and its own two immediate successors"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.71:1.1"),
+    ],
+    quiz=[
+        {"q": "What three-discourse sequence does this discourse open?",
+         "opts": ["Impermanence, then suffering in impermanence, then not-self in suffering — the canon's own three characteristics of existence", "A sequence about three different animals", "A sequence naming three different Buddhas", "A sequence with no relationship to the discourses following it"],
+         "correct": 0,
+         "expl": "Confirmed by the following discourses' own titles, forming a deliberately causal chain."},
+        {"q": "How are the three characteristics linked in this sequence, rather than simply listed side by side?",
+         "opts": ["Causally — impermanence gives rise to suffering, and suffering (properly seen) gives rise to not-self", "Randomly, with no logical connection", "In reverse chronological order", "They are entirely unrelated to one another"],
+         "correct": 0,
+         "expl": "Each perception in the sequence builds directly on the one before it."},
+        {"q": "How fundamental is the perception of impermanence within the broader canon?",
+         "opts": ["Among the most fundamental teachings in the entire canon", "A minor, rarely mentioned topic", "Unique to this single discourse", "Contradicted elsewhere in the canon"],
+         "correct": 0,
+         "expl": "One of the canon's own most central doctrinal themes, here given its own characteristically compressed treatment."},
+    ],
+    marginalia=[
+        ("Impermanence opens a linked chain", [
+            "not listed alone, but building forward —",
+            "toward suffering, then toward not-self"
+        ]),
+        ("The canon's own three characteristics", [
+            "anicca, dukkha, anattā —",
+            "traced across three discourses in a row"
+        ]),
+        ("A fundamental teaching, briefly held here", [
+            "elaborated at length elsewhere in the canon —",
+            "compressed to this vagga's own single line"
+        ]),
+        ("Five discourses remain in this vagga", [
+            "suffering in impermanence, not-self in suffering —",
+            "then giving up, dispassion, and cessation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.71/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.70.html\">SN 46.70 &middot; "
+        "Dissatisfaction</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.72.html\">SN 46.72 &middot; Suffering in "
+        "Impermanence</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.72 — Anicce dukkhasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 72, "Anicce Dukkha", "Suffering in Impermanence",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.72 — Suffering in Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anicce Dukkhasaññāsutta — the perception of suffering IN "
+        "impermanence, the second link in this vagga's own "
+        "three-characteristics chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.71"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the second link in this "
+                 "vagga's own three-discourse chain"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, the middle link in a deliberately "
+                       "causal sequence"),
+    ],
+    why=(
+        "This discourse's own title is precise, not generic: "
+        "&ldquo;suffering IN impermanence&rdquo; (anicce dukkhasaññā), "
+        "not merely &ldquo;suffering&rdquo; on its own &mdash; "
+        "confirming this perception specifically locates suffering "
+        "AS A CONSEQUENCE of impermanence, continuing directly from "
+        "SN 46.71's own opening topic."
+    ),
+    guide=[
+        ("A precise title, confirming the chain's own logic", [
+            "The discourse's own title specifically names suffering "
+            "&ldquo;in&rdquo; impermanence, not suffering as an "
+            "independent topic &mdash; confirming, by direct reading, "
+            "that this perception is meant to be developed as a "
+            "direct continuation of SN 46.71's own contemplation, "
+            "seeing how suffering necessarily follows from what is "
+            "impermanent.",
+        ]),
+    ],
+    terms=[
+        ("anicce dukkhasaññā", "&ldquo;the perception of suffering "
+             "in impermanence&rdquo; &mdash; a precise title locating "
+             "suffering specifically as a consequence of "
+             "impermanence, not suffering considered independently"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("dukkha", "&ldquo;suffering&rdquo; or "
+             "&ldquo;unsatisfactoriness&rdquo; &mdash; the second of "
+             "the canon's own three characteristics, here contemplated "
+             "specifically as arising from impermanence"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.72:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own precise title confirm about its own relationship to SN 46.71?",
+         "opts": ["It continues directly from SN 46.71, locating suffering specifically as a consequence of impermanence", "It contradicts SN 46.71's own claims entirely", "It has no relationship to SN 46.71 whatsoever", "It repeats SN 46.71 word for word"],
+         "correct": 0,
+         "expl": "Confirmed by the discourse's own title, \"suffering IN impermanence,\" not suffering as an independent topic."},
+        {"q": "What is dukkha, the second of the canon's own three characteristics, contemplated as here?",
+         "opts": ["Arising specifically from impermanence, not as an independent phenomenon", "A completely separate and unrelated topic from impermanence", "The opposite of impermanence", "A purely physical sensation with no mental component"],
+         "correct": 0,
+         "expl": "The chain's own deliberate logic, tracing how each characteristic gives rise to the next."},
+        {"q": "What confirms this discourse's own position as the vagga's own sixth topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the sixth\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("Not suffering alone, but suffering \"in\"", [
+            "a precise title, confirming the chain —",
+            "suffering as impermanence's own consequence"
+        ]),
+        ("The second link, holding firm", [
+            "impermanence led here directly —",
+            "not-self will follow from this in turn"
+        ]),
+        ("Dukkha, seen through its own cause", [
+            "not an isolated fact —",
+            "traced back to what does not last"
+        ]),
+        ("Four discourses remain in this vagga", [
+            "not-self in suffering closes the chain —",
+            "then giving up, dispassion, and cessation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.72/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.71.html\">SN 46.71 &middot; "
+        "Impermanence</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.73.html\">SN 46.73 &middot; Not-Self in "
+        "Suffering</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.73 — Dukkhe anattasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 73, "Dukkhe Anatta", "Not-Self in Suffering",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.73 — Not-Self in Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhe Anattasaññāsutta — the perception of not-self IN "
+        "suffering, closing this vagga's own three-characteristics "
+        "chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.72"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, completing this vagga's own "
+                 "three-discourse chain"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closing the canon's own most "
+                       "fundamental doctrinal sequence"),
+    ],
+    why=(
+        "This discourse completes the chain begun at SN 46.71: "
+        "&ldquo;not-self IN suffering&rdquo; (dukkhe anattasaññā), "
+        "confirming the full logical sequence &mdash; what is "
+        "impermanent is unsatisfactory, and what is unsatisfactory "
+        "cannot be genuinely identified as a self &mdash; the "
+        "canon's own three characteristics of existence, linked "
+        "causally rather than merely catalogued."
+    ),
+    guide=[
+        ("The chain, confirmed complete", [
+            "With this discourse, the three-part sequence begun at "
+            "SN 46.71 is confirmed complete: impermanence (SN 46.71) "
+            "leads to suffering (SN 46.72), and suffering leads to "
+            "not-self (this discourse) &mdash; the canon's own "
+            "classic three-characteristics teaching, here compressed "
+            "into three consecutive single-line discourses rather "
+            "than a single extended exposition.",
+        ]),
+    ],
+    terms=[
+        ("dukkhe anattasaññā", "&ldquo;the perception of not-self in "
+             "suffering&rdquo; &mdash; completing the chain, locating "
+             "not-self as a consequence specifically of suffering, "
+             "not as an independent contemplation"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("anattā", "&ldquo;not-self&rdquo; &mdash; the third of the "
+             "canon's own three characteristics, here confirmed as "
+             "the chain's own final link"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.73:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse complete, begun at SN 46.71?",
+         "opts": ["The three-characteristics chain: impermanence leads to suffering, and suffering leads to not-self", "A completely unrelated topic with no connection to SN 46.71-72", "A list of the seven awakening factors", "A sequence about the five aggregates alone"],
+         "correct": 0,
+         "expl": "The canon's own classic three-characteristics teaching, compressed across three consecutive discourses."},
+        {"q": "How does this discourse's own title confirm its own place in the chain?",
+         "opts": ["\"Not-self IN suffering\" — locating not-self as a consequence of suffering, not an independent topic", "It makes no reference to suffering at all", "It contradicts SN 46.72's own claims", "It repeats SN 46.71 word for word"],
+         "correct": 0,
+         "expl": "Consistent with SN 46.72's own precise \"suffering IN impermanence\" title."},
+        {"q": "What overall structure does this three-discourse sequence exemplify?",
+         "opts": ["A causal chain rather than a simple side-by-side list of three doctrinal terms", "Three completely unrelated topics grouped by coincidence", "A contradiction between three competing philosophical positions", "A single repeated discourse with no development"],
+         "correct": 0,
+         "expl": "Each perception building directly and logically on the one before it."},
+    ],
+    marginalia=[
+        ("Not-self, as suffering's own consequence", [
+            "not an isolated claim —",
+            "traced back through suffering to impermanence"
+        ]),
+        ("The chain, now complete", [
+            "impermanence, suffering, not-self —",
+            "three discourses, one causal sequence"
+        ]),
+        ("The canon's own classic teaching, compressed", [
+            "elaborated at length elsewhere —",
+            "here, three single lines in a row"
+        ]),
+        ("Three discourses remain in this vagga", [
+            "giving up, dispassion —",
+            "then cessation closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.73/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.72.html\">SN 46.72 &middot; Suffering in "
+        "Impermanence</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.74.html\">SN 46.74 &middot; Giving Up</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.74 — Pahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 74, "Pahāna", "Giving Up",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.74 — Giving Up | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pahānasutta — the perception of giving up, this vagga's "
+        "own eighth topic, following the three-characteristics chain "
+        "with a more directly active theme. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.73"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, shifting from analysis to active "
+                       "renunciation"),
+    ],
+    why=(
+        "The perception of giving up (pahānasaññā) shifts this "
+        "vagga's own register from the analytical three-characteristics "
+        "chain just completed to a more directly active theme "
+        "&mdash; not merely seeing impermanence, suffering, and "
+        "not-self, but actively cultivating the intention to "
+        "relinquish."
+    ),
+    guide=[
+        ("A shift from seeing to relinquishing", [
+            "Where SN 46.71-73 built toward an analytical "
+            "understanding (impermanence &rarr; suffering &rarr; "
+            "not-self), this discourse's own topic is more directly "
+            "volitional &mdash; the deliberate cultivation of "
+            "letting go, confirmed by direct reading to be a natural "
+            "next step after that analytical chain rather than a "
+            "further link within it.",
+        ]),
+    ],
+    terms=[
+        ("pahānasaññā", "&ldquo;the perception of giving up&rdquo; "
+             "&mdash; a more directly volitional theme than the "
+             "preceding three-characteristics chain, cultivating "
+             "the intention to relinquish"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("pahāna", "&ldquo;giving up&rdquo; or "
+             "&ldquo;relinquishment&rdquo; &mdash; a term describing "
+             "the active abandonment of defilements, distinct from "
+             "merely perceiving their own impermanent nature"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.74:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own topic differ in register from the preceding three-characteristics chain?",
+         "opts": ["It shifts from analytical seeing to a more directly volitional theme of active relinquishment", "It contradicts everything established in SN 46.71-73", "It is identical in every respect to SN 46.73", "It denies that giving up is ever possible"],
+         "correct": 0,
+         "expl": "A natural next step after the analytical chain, rather than a further analytical link within it."},
+        {"q": "What does \"pahāna\" (giving up) describe?",
+         "opts": ["The active abandonment of defilements, distinct from merely perceiving their impermanent nature", "A purely passive, unintentional process", "A physical object being discarded", "A monastic robe being replaced"],
+         "correct": 0,
+         "expl": "A volitional theme distinguishing this discourse from the preceding purely analytical sequence."},
+        {"q": "What confirms this discourse's own position as the vagga's own eighth topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the eighth\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("From seeing to relinquishing", [
+            "the analytical chain now behind —",
+            "a more directly active theme begins"
+        ]),
+        ("Giving up, deliberately cultivated", [
+            "not passive loss, but active letting go —",
+            "the same implicit sixfold structure applies"
+        ]),
+        ("A natural next step, not a further link", [
+            "confirmed by direct reading —",
+            "distinct in register from what came before"
+        ]),
+        ("Two discourses remain in this vagga", [
+            "dispassion next —",
+            "then cessation closes the vagga in full"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.74/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.73.html\">SN 46.73 &middot; Not-Self in "
+        "Suffering</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.75.html\">SN 46.75 &middot; "
+        "Dispassion</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.75 — Virāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 75, "Virāga", "Dispassion",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.75 — Dispassion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Virāgasutta — the perception of dispassion, this "
+        "vagga's own penultimate topic, immediately preceding "
+        "cessation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.74"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, this vagga's own penultimate "
+                 "topic"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, immediately preceding this vagga's "
+                       "own closing topic"),
+    ],
+    why=(
+        "The perception of dispassion (virāgasaññā) follows directly "
+        "from giving up, immediately preceding this vagga's own "
+        "final topic, cessation &mdash; the two closing discourses "
+        "together naming the progressive fading and ending of "
+        "craving already familiar from the base formula (&ldquo;"
+        "relies on seclusion, fading away, and cessation&rdquo;) "
+        "used throughout this entire saṃyutta."
+    ),
+    guide=[
+        ("A pairing that echoes the base formula's own final terms", [
+            "&ldquo;Virāga&rdquo; (fading away/dispassion) and "
+            "&ldquo;nirodha&rdquo; (cessation) are the very same two "
+            "terms that close the base formula already met throughout "
+            "this saṃyutta (&ldquo;relies on seclusion, fading away, "
+            "and cessation&rdquo;) &mdash; confirming these final two "
+            "topics of this vagga deliberately echo the formula's "
+            "own progression, now presented as independent "
+            "meditation subjects in their own right.",
+        ]),
+    ],
+    terms=[
+        ("virāgasaññā", "&ldquo;the perception of dispassion&rdquo; "
+             "&mdash; the fading away of craving, this vagga's own "
+             "penultimate topic"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("virāga", "&ldquo;dispassion&rdquo; or &ldquo;fading away"
+             "&rdquo; &mdash; the same term already met in the base "
+             "formula's own closing sequence throughout this "
+             "saṃyutta"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.75:1.1"),
+    ],
+    quiz=[
+        {"q": "What connection does this discourse's own topic share with the base formula used throughout this saṃyutta?",
+         "opts": ["\"Virāga\" (dispassion/fading away) is one of the very terms closing the base formula (\"seclusion, fading away, cessation\")", "There is no connection at all between this topic and the base formula", "This discourse contradicts the base formula's own claims", "The base formula never mentions dispassion anywhere"],
+         "correct": 0,
+         "expl": "Confirming this vagga's own final two topics deliberately echo the base formula's own progression."},
+        {"q": "What discourse does this one immediately precede, completing the pairing?",
+         "opts": ["SN 46.76, Cessation — the other term closing the base formula", "A return to SN 46.67, Ugliness", "SN 46.57, the Skeleton discourse from the preceding vagga", "No discourse follows — this closes the vagga"],
+         "correct": 0,
+         "expl": "Together, dispassion and cessation echo the base formula's own final terms, now as independent topics."},
+        {"q": "What confirms this discourse's own position as the vagga's own ninth topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the ninth\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("Dispassion, echoing the base formula's own words", [
+            "\"fading away,\" already familiar —",
+            "now standing as its own meditation topic"
+        ]),
+        ("The penultimate topic, deliberately placed", [
+            "cessation follows immediately after —",
+            "the same pairing as the formula's own close"
+        ]),
+        ("A formula's own terms, made independent subjects", [
+            "seclusion, fading away, cessation —",
+            "the last two now given their own discourses"
+        ]),
+        ("One discourse remains in this vagga", [
+            "cessation itself, closing the sequence —",
+            "with its own fuller elaboration and colophon"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.75/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.74.html\">SN 46.74 &middot; Giving Up</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.76.html\">SN 46.76 &middot; "
+        "Cessation</a> &mdash; the next discourse, closing this "
+        "vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.76 — Nirodhasutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    46, 76, "Nirodha", "Cessation",
+    vagga="Nirodhavagga",
+    meta_title="SN 46.76 — Cessation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nirodhasutta — the perception of cessation, restating "
+        "the full sixfold benefit structure one final time and "
+        "closing the Nirodhavagga with its own colophon and uddāna. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.75"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A fuller elaboration, restating all six benefits "
+                 "in a more compressed form than SN 46.57's own "
+                 "opening bundle"),
+        ("Length", "1-2 minutes to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own ten topics with a "
+                       "fuller elaboration"),
+    ],
+    why=(
+        "The perception of cessation (nirodhasaññā) &mdash; the "
+        "final term in the base formula already familiar throughout "
+        "this saṃyutta (&ldquo;seclusion, fading away, and "
+        "cessation&rdquo;) &mdash; closes this vagga by restating the "
+        "full sixfold benefit structure one final time, though in a "
+        "more compressed form than SN 46.57's own six separately "
+        "named suttas."
+    ),
+    guide=[
+        ("A bookend, not a repeat of SN 46.57's own exact form", [
+            "Where SN 46.57 wrote out six separately titled ancient "
+            "suttas in full, this discourse restates the same six "
+            "benefits in three more compressed sections: the base "
+            "benefit (very fruitful) written out fully; the twofold "
+            "fruit (enlightenment or non-return) written out fully; "
+            "and the remaining four benefits (great benefit, great "
+            "sanctuary from the yoke, great inspiration, dwelling in "
+            "great ease) folded together into one final ellipsis-marked "
+            "sentence &mdash; confirming this vagga's own closing "
+            "discourse bookends the peyyāla cycle without exactly "
+            "repeating its own opening form.",
+        ]),
+        ("A colophon and uddāna, closing both vagga and cycle", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Nirodhavaggo "
+            "aṭṭhamo&rdquo; (&ldquo;the Cessation chapter, the "
+            "eighth&rdquo;), matching this project's own count "
+            "without discrepancy. The closing uddāna names all ten "
+            "topics in order: ugliness, death, repulsiveness of food; "
+            "dissatisfaction with the whole world; impermanence, "
+            "suffering, not-self, giving up; dispassion and "
+            "cessation, these ten &mdash; closing both this vagga and "
+            "the two-vagga peyyāla cycle spanning SN 46.57-76.",
+        ]),
+    ],
+    terms=[
+        ("nirodhasaññā", "&ldquo;the perception of cessation&rdquo; "
+             "&mdash; the final term in the base formula already "
+             "familiar throughout this saṃyutta, here treated as its "
+             "own independent meditation subject"),
+        ("mahapphalā mahānisaṁsā", "&ldquo;very fruitful and "
+             "beneficial&rdquo; &mdash; the first benefit, written "
+             "out fully"),
+        ("diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā",
+             "&ldquo;enlightenment in this very life, or if there's "
+             "residue left behind, non-return&rdquo; &mdash; the "
+             "second benefit, written out fully"),
+        ("mahato atthāya... yogakkhemāya... saṁvegāya... "
+             "phāsuvihārāya", "&ldquo;great benefit... great "
+             "sanctuary from the yoke... great inspiration... great "
+             "ease&rdquo; &mdash; the remaining four benefits, folded "
+             "together into one final ellipsis-marked sentence rather "
+             "than four separate sections"),
+        ("nirodhavaggo aṭṭhamo", "&ldquo;the Cessation chapter, the "
+             "eighth&rdquo; &mdash; unambiguous confirmation of this "
+             "vagga's own position, matching this project's own "
+             "count without discrepancy"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, closing the Nirodhavagga. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; very fruitful and beneficial",
+             "sn46.76:1.1-1.5"),
+        ("p", "&sect;2 &mdash; one of two fruits",
+             "sn46.76:2.1-2.8"),
+        ("p", "&sect;3 &mdash; the remaining four benefits, "
+              "combined", "sn46.76:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own restatement of the sixfold benefit structure differ from SN 46.57's own opening bundle?",
+         "opts": ["It compresses the final four benefits into one combined ellipsis-marked sentence, rather than six separately titled suttas", "It repeats SN 46.57's own six separate suttas exactly", "It omits several of the six benefits entirely", "It introduces three entirely new benefits not named at SN 46.57"],
+         "correct": 0,
+         "expl": "Confirming this vagga's own closing discourse bookends the peyyāla cycle without exactly repeating its own opening form."},
+        {"q": "What does this vagga's own closing colophon confirm?",
+         "opts": ["An unambiguous position as the eighth vagga of this saṃyutta, closing a peyyāla cycle spanning both this and the preceding vagga", "A disputed count between the seventh and eighth vagga", "That this vagga belongs to a different saṃyutta entirely", "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed without discrepancy, consistent with several vaggas already confirmed throughout SN 46."},
+        {"q": "What term does \"nirodha\" (cessation) share with the base formula already familiar throughout this saṃyutta?",
+         "opts": ["It is the final term in \"relies on seclusion, fading away, and cessation\"", "It has no relationship to the base formula at all", "It contradicts the base formula's own meaning", "It only appears in this single discourse across the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Confirming this vagga's own final two topics (dispassion, cessation) deliberately echo the base formula's own progression."},
+    ],
+    marginalia=[
+        ("A bookend, not an exact repeat", [
+            "six benefits restated once more —",
+            "compressed differently than SN 46.57's own opening"
+        ]),
+        ("Cessation, the base formula's own final word", [
+            "seclusion, fading away, cessation —",
+            "now its own independent meditation subject"
+        ]),
+        ("A colophon without discrepancy, confirmed again", [
+            "\"the Cessation chapter, the eighth\" —",
+            "matching this project's own count exactly"
+        ]),
+        ("Ten topics, two vaggas, one peyyāla cycle complete", [
+            "charnel ground and immeasurables, then perceptions of "
+            "impermanence and its own consequences —",
+            "spanning SN 46.57 through this discourse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.76/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.75.html\">SN 46.75 &middot; "
+        "Dispassion</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Abbreviated Texts on the Ganges, is still "
+        "in preparation.",
+    ],
+)
