@@ -20500,3 +20500,902 @@ page(
         "the next vagga, Discussion, is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 6. Sākacchavagga — Discussion (SN 46.51-56)
+# Confirmed by direct bilara-data reading: this vagga's own colophon
+# ("Sākacchavaggo chaṭṭho," "the Discussion chapter, the sixth") is
+# unambiguous, matching this project's own count. Unlike the compact,
+# formulaic vaggas making up most of this saṃyutta's own first half,
+# this vagga holds only six discourses -- but each is substantially
+# longer and richer than typical, several featuring the recurring
+# frame of mendicants visiting wanderers of other religions who raise
+# a challenge later resolved by the Buddha, and several among the
+# most celebrated teachings in the entire saṃyutta (the fire simile
+# at SN 46.53, the five-bowls-of-water simile at SN 46.55).
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.51 — Āhārasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 51, "Āhāra", "Nourishing",
+    vagga="Sākacchavagga",
+    meta_title="SN 46.51 — Nourishing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āhārasutta — the complete pairing of what fuels AND what "
+        "starves each of the five hindrances and seven awakening "
+        "factors, extending SN 46.2's own earlier teaching to its own "
+        "full symmetry. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two complete symmetric halves — what fuels each of "
+                 "twelve mental states, then what starves each of "
+                 "the same twelve"),
+        ("Length", "4-5 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "this saṃyutta's own most exhaustive treatment "
+                       "of a single teaching"),
+    ],
+    why=(
+        "Where SN 46.2 named only what FUELS each of the five "
+        "hindrances and seven awakening factors, this discourse "
+        "completes the picture with equal care: it also names what "
+        "STARVES each of the same twelve mental states &mdash; making "
+        "this the fullest, most symmetric treatment in the entire "
+        "saṃyutta of how specific patterns of attention feed or "
+        "starve affliction and awakening alike."
+    ),
+    guide=[
+        ("A completed symmetry, confirmed by direct comparison", [
+            "SN 46.2's own two halves (fueling the hindrances, "
+            "fueling the awakening factors) reappear here unchanged "
+            "as this discourse's own first half; a genuinely new "
+            "second half then names the specific STARVING condition "
+            "for each of the same twelve states &mdash; the feature "
+            "of ugliness starves sensual desire; the heart's release "
+            "by love starves ill will; and so on &mdash; confirmed by "
+            "direct reading to be this saṃyutta's own most complete "
+            "single treatment of the theme first introduced at SN "
+            "46.2.",
+        ]),
+        ("A structural asymmetry the source itself preserves", [
+            "For the seven awakening factors' own starving half, the "
+            "source names the identical grounds already given for "
+            "fueling them, but reverses the condition to &ldquo;not "
+            "frequently applying the mind&rdquo; &mdash; confirming "
+            "that what starves an awakening factor is simply the "
+            "ABSENCE of the same rational attention that would "
+            "otherwise fuel it, a structurally different relationship "
+            "than the hindrances' own dedicated starving conditions "
+            "(ugliness, love, and so on).",
+        ]),
+    ],
+    terms=[
+        ("āhāra", "&ldquo;food&rdquo; or &ldquo;fuel&rdquo; &mdash; "
+             "the governing image already met at SN 46.2, here "
+             "extended to its own full symmetric treatment"),
+        ("subhanimitta... asubhanimitta", "&ldquo;the feature of "
+             "beauty... the feature of ugliness&rdquo; &mdash; the "
+             "matched fuel and starving conditions named for sensual "
+             "desire, the clearest example of this discourse's own "
+             "symmetric structure"),
+        ("mettā cetovimutti", "&ldquo;the heart's release by love"
+             "&rdquo; &mdash; named as what specifically starves ill "
+             "will, distinct from the hindrance's own fueling "
+             "condition (the feature of aversion)"),
+        ("ayoniso manasikāra... yoniso manasikāra", "irrational and "
+             "rational application of mind, the shared mechanism "
+             "governing all twelve fueling relationships"),
+        ("na bahulaṁ manasikāro", "&ldquo;not frequently applying the "
+             "mind&rdquo; &mdash; the starving condition given for "
+             "each of the seven awakening factors, simply the absence "
+             "of their own fueling condition rather than a dedicated "
+             "counter-condition"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "extended discourse. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-5 &mdash; what fuels each of the five "
+              "hindrances", "sn46.51:1.1-5.4"),
+        ("p", "&sect;6-12 &mdash; what fuels each of the seven "
+              "awakening factors", "sn46.51:6.1-12.4"),
+        ("p", "&sect;13-17 &mdash; what starves each of the five "
+              "hindrances", "sn46.51:13.1-17.4"),
+        ("p", "&sect;18-24 &mdash; what starves each of the seven "
+              "awakening factors", "sn46.51:18.1-24.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse extend SN 46.2's own earlier teaching?",
+         "opts": ["It adds a complete second half naming what starves each of the same twelve mental states, not just what fuels them", "It removes the hindrances entirely and discusses only the awakening factors", "It contradicts SN 46.2's own claims about what fuels the hindrances", "It applies only to lay followers, not monastics"],
+         "correct": 0,
+         "expl": "The fullest, most symmetric treatment of this theme in the entire saṃyutta."},
+        {"q": "What specifically starves ill will, according to this discourse?",
+         "opts": ["The heart's release by love (mettā cetovimutti)", "The feature of beauty", "Physical exercise", "Formal debate with rival teachers"],
+         "correct": 0,
+         "expl": "A dedicated counter-condition, distinct from merely withholding attention."},
+        {"q": "What structural difference does this discourse show between how the hindrances and the awakening factors are starved?",
+         "opts": ["The hindrances have dedicated starving conditions (ugliness, love, etc.), while the awakening factors are starved simply by withholding the same attention that fuels them", "Both are starved by identical conditions with no difference", "Neither can actually be starved according to this discourse", "The awakening factors have more elaborate starving conditions than the hindrances"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a structural asymmetry the source itself preserves."},
+    ],
+    marginalia=[
+        ("SN 46.2's own teaching, made whole", [
+            "fueling was only half the picture —",
+            "starving completes it here"
+        ]),
+        ("Ugliness starves desire; love starves ill will", [
+            "each hindrance meets its own dedicated antidote —",
+            "named specifically, not left vague"
+        ]),
+        ("The awakening factors starve by simple neglect", [
+            "not a dedicated counter-condition —",
+            "just withholding the attention that would feed them"
+        ]),
+        ("This saṃyutta's own most exhaustive single teaching", [
+            "five discourses remain in this vagga —",
+            "a challenge from rival wanderers, a fire simile, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.50.html\">SN 46.50 &middot; Exterior</a> "
+        "&mdash; the previous page, closing the preceding vagga.",
+        "<a href=\"sn-46.52.html\">SN 46.52 &middot; Is There a "
+        "Way?</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.52 — Pariyāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 52, "Pariyāya", "Is There a Way?",
+    vagga="Sākacchavagga",
+    meta_title="SN 46.52 — Is There a Way? | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pariyāyasutta — wanderers of other religions claim to "
+        "teach the identical hindrance/awakening-factor doctrine, "
+        "and the Buddha shows how the five become ten and the seven "
+        "become fourteen. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, opening at the wanderers' own "
+                    "monastery"),
+        ("Speakers", "Wanderers of other religions, then the "
+                     "Buddha, addressing the mendicants who report "
+                     "back to him"),
+        ("Form", "A narrative frame (mendicants challenged by "
+                 "rivals), followed by an analytical doubling of two "
+                 "core lists"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a sophisticated analytical distinction "
+                       "answering a genuine rival challenge"),
+    ],
+    why=(
+        "Wanderers of other religions point out that they teach the "
+        "identical formula &mdash; give up the five hindrances, "
+        "develop the seven awakening factors &mdash; and ask what "
+        "distinguishes the Buddha's own teaching from theirs. His own "
+        "answer is a precise analytical move: showing that the five "
+        "hindrances can be doubled to ten, and the seven awakening "
+        "factors to fourteen, by distinguishing an internal and an "
+        "external instance of each."
+    ),
+    guide=[
+        ("A genuine rival challenge, not a straw man", [
+            "This discourse's own opening frame is notable for its "
+            "own intellectual honesty: the mendicants who hear the "
+            "wanderers' own challenge neither approve nor reject it "
+            "on the spot, instead returning to the Buddha himself for "
+            "the answer &mdash; treating the rival claim as worth "
+            "taking seriously rather than dismissing outright.",
+        ]),
+        ("Doubling by internal/external, not by adding new items", [
+            "The Buddha's own analytical move does not add any new "
+            "hindrance or awakening factor to the list; instead, "
+            "each of the twelve items is shown to apply separately to "
+            "internal and external instances (sensual desire for "
+            "what is internal versus external; mindfulness of "
+            "internal versus external things), and, for several "
+            "items, to a physical/mental or with/without "
+            "placing-the-mind distinction instead &mdash; a "
+            "genuinely more precise analysis than a superficially "
+            "identical formula.",
+        ]),
+    ],
+    terms=[
+        ("titthiyā paribbājakā", "&ldquo;wanderers of other "
+             "religions&rdquo; &mdash; non-Buddhist ascetic "
+             "practitioners, here raising a genuine intellectual "
+             "challenge"),
+        ("pañca nīvaraṇā dasa honti", "&ldquo;the five hindrances "
+             "become ten&rdquo; &mdash; the discourse's own central "
+             "analytical claim, achieved by distinguishing internal "
+             "and external instances of each hindrance"),
+        ("satta bojjhaṅgā cuddasa honti", "&ldquo;the seven "
+             "awakening factors become fourteen&rdquo; &mdash; the "
+             "parallel claim for the awakening factors, using a mix "
+             "of internal/external, physical/mental, and "
+             "with/without-placing-the-mind distinctions depending on "
+             "the specific factor"),
+        ("ajjhattaṁ... bahiddhā", "&ldquo;internal... external"
+             "&rdquo; &mdash; the primary distinction doubling most "
+             "of the twelve items, though not the only one used"),
+        ("savitakkasavicāraṁ... avitakkaavicāraṁ", "&ldquo;while "
+             "placing the mind and keeping it connected... without "
+             "placing the mind and keeping it connected&rdquo; "
+             "&mdash; the specific distinction used for rapture and "
+             "immersion instead of internal/external"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-4 &mdash; the wanderers' own challenge",
+             "sn46.52:1.1-4.4"),
+        ("p", "&sect;8 &mdash; the Buddha's own response",
+             "sn46.52:8.1-8.6"),
+        ("p", "&sect;9 &mdash; the five hindrances become ten",
+             "sn46.52:9.1-9.12"),
+        ("p", "&sect;10-16 &mdash; the seven awakening factors "
+              "become fourteen", "sn46.52:10.1-16.3"),
+    ],
+    quiz=[
+        {"q": "What is notable about how the mendicants respond to the wanderers' own challenge?",
+         "opts": ["They neither approve nor reject it on the spot, taking it seriously enough to consult the Buddha directly", "They immediately declare the wanderers wrong without further thought", "They agree completely with the wanderers and abandon the Buddha's own teaching", "They refuse to engage with the question at all"],
+         "correct": 0,
+         "expl": "A notable intellectual honesty, treating the rival claim as worth genuine consideration."},
+        {"q": "How does the Buddha's own answer double the five hindrances to ten, without adding new items?",
+         "opts": ["By distinguishing an internal and an external instance of each hindrance", "By adding five entirely new hindrances not previously named", "By repeating the same five hindrances twice with no distinction", "By subtracting some hindrances and adding others"],
+         "correct": 0,
+         "expl": "A more precise analysis of the existing five, not an expanded list."},
+        {"q": "What distinction is used for rapture and immersion instead of internal/external?",
+         "opts": ["With and without placing the mind and keeping it connected (savitakka/avitakka)", "Male and female practitioners", "Morning and evening practice", "Monastic and lay practice"],
+         "correct": 0,
+         "expl": "A specific technical distinction related to jhāna factors, applied where internal/external doesn't fit as naturally."},
+    ],
+    marginalia=[
+        ("A rival's own claim, taken seriously", [
+            "\"what's the difference?\" genuinely asked —",
+            "not dismissed, but carried back to the Buddha"
+        ]),
+        ("Five become ten, seven become fourteen", [
+            "not new items, but sharper analysis —",
+            "internal and external, each named separately"
+        ]),
+        ("A precision rivals lack", [
+            "the wanderers, questioned this way, would be stumped —",
+            "out of their own element, the discourse claims"
+        ]),
+        ("Four discourses remain in this vagga", [
+            "a fire simile, love spread in all directions —",
+            "Saṅgārava's own hymns, and Prince Abhaya's own question"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.51.html\">SN 46.51 &middot; Nourishing</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.53.html\">SN 46.53 &middot; Fire</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.53 — Aggisutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 53, "Aggi", "Fire",
+    vagga="Sākacchavagga",
+    meta_title="SN 46.53 — Fire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aggisutta — the fire simile, one of the canon's own most "
+        "practically important teachings on which awakening factors "
+        "to develop when the mind is sluggish versus restless. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, sharing SN 46.52's own opening "
+                    "narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A challenge-and-answer format, illustrated by two "
+                 "extended fire similes"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "one of the canon's own most practically "
+                       "cited meditation teachings"),
+    ],
+    why=(
+        "This discourse answers a question most meditators eventually "
+        "face: which awakening factors should be developed when the "
+        "mind is sluggish, and which when it is restless? The answer "
+        "&mdash; investigation, energy, and rapture stimulate a "
+        "sluggish mind; tranquility, immersion, and equanimity settle "
+        "a restless one, while mindfulness is always useful &mdash; "
+        "is one of the most frequently cited practical teachings in "
+        "the entire canon on meditative troubleshooting."
+    ),
+    guide=[
+        ("A shared opening, a distinct challenge", [
+            "This discourse's own opening explicitly refers back to "
+            "&ldquo;the same as the previous discourse&rdquo; "
+            "(SN 46.52), reusing the wanderers'-monastery frame; but "
+            "the specific challenge posed here is distinct: not "
+            "whether the five hindrances and seven awakening factors "
+            "can be doubled, but which awakening factors suit which "
+            "mental state.",
+        ]),
+        ("Two matched fire similes, precisely calibrated", [
+            "The discourse pairs two contrasting fire images with two "
+            "contrasting mental states: making a SMALL fire FLARE UP "
+            "(requiring dry fuel, blowing, no dirt) illustrates "
+            "stimulating a sluggish mind; extinguishing a GREAT MASS "
+            "of fire (requiring wet fuel, water, dirt) illustrates "
+            "settling a restless one &mdash; confirmed by close "
+            "reading that each simile's own physical logic maps "
+            "precisely onto its own corresponding awakening factors.",
+        ]),
+        ("A closing exception: mindfulness always useful", [
+            "After carefully distinguishing which awakening factors "
+            "suit which state, the discourse's own final line "
+            "singles out mindfulness as exempt from this "
+            "conditionality altogether &mdash; &ldquo;mindfulness is "
+            "always useful, I say&rdquo; &mdash; confirming "
+            "mindfulness's own distinct, foundational status among "
+            "the seven.",
+        ]),
+    ],
+    terms=[
+        ("līnaṁ cittaṁ", "&ldquo;a sluggish mind&rdquo; &mdash; the "
+             "condition calling for the stimulating awakening "
+             "factors of investigation, energy, and rapture"),
+        ("uddhataṁ cittaṁ", "&ldquo;a restless mind&rdquo; &mdash; "
+             "the condition calling for the settling awakening "
+             "factors of tranquility, immersion, and equanimity"),
+        ("dhammavicaya... vīriya... pīti", "investigation of "
+             "principles, energy, and rapture &mdash; the three "
+             "&ldquo;wrong time to develop&rdquo; for a sluggish "
+             "mind... actually the RIGHT time, per the discourse's "
+             "own careful reading; the WRONG time for a restless one"),
+        ("passaddhi... samādhi... upekkhā", "tranquility, immersion, "
+             "and equanimity &mdash; the three factors reversed in "
+             "their own applicability compared to the stimulating set"),
+        ("sati sabbatthikā vadāmi", "&ldquo;mindfulness is always "
+             "useful, I say&rdquo; &mdash; the discourse's own "
+             "closing exception, exempting mindfulness from the "
+             "conditional logic applied to the other six factors"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, including both fire similes in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the setting", "sn46.53:1.1-1.2"),
+        ("p", "&sect;2-3 &mdash; the wanderers' own challenge",
+             "sn46.53:2.1-3.1"),
+        ("p", "&sect;4 &mdash; a sluggish mind, the wrong factors",
+             "sn46.53:4.1-4.3"),
+        ("p", "&sect;5 &mdash; the fire that won't flare up",
+             "sn46.53:5.1-5.4"),
+        ("p", "&sect;6-7 &mdash; a sluggish mind, the right factors",
+             "sn46.53:6.1-7.3"),
+        ("p", "&sect;8 &mdash; the fire that does flare up",
+             "sn46.53:8.1-8.4"),
+        ("p", "&sect;9-10 &mdash; a restless mind, the wrong "
+              "factors", "sn46.53:9.1-10.3"),
+        ("p", "&sect;11 &mdash; the mass of fire that won't go out",
+             "sn46.53:11.1-11.4"),
+        ("p", "&sect;12-13 &mdash; a restless mind, the right "
+              "factors", "sn46.53:12.1-13.3"),
+        ("p", "&sect;14-15 &mdash; the mass of fire that does go "
+              "out, and mindfulness always useful", "sn46.53:14.1-15.4"),
+    ],
+    quiz=[
+        {"q": "Which three awakening factors does this discourse recommend for a sluggish mind?",
+         "opts": ["Investigation of principles, energy, and rapture", "Tranquility, immersion, and equanimity", "Only mindfulness, and none of the others", "All seven equally, with no distinction"],
+         "correct": 0,
+         "expl": "The stimulating factors, matched to the fire-flaring-up simile requiring dry fuel and no dirt."},
+        {"q": "What two contrasting fire images does this discourse use?",
+         "opts": ["Making a small fire flare up, and extinguishing a great mass of fire", "Lighting a candle, and blowing out a lamp", "A forest fire, and a controlled burn", "A campfire, and a bonfire"],
+         "correct": 0,
+         "expl": "Precisely calibrated to the two mental states — sluggish (needs stimulation) and restless (needs settling)."},
+        {"q": "What exception does the discourse name at its own close?",
+         "opts": ["Mindfulness is always useful, regardless of whether the mind is sluggish or restless", "None of the seven awakening factors are ever useful", "Only investigation of principles is exempt from the rule", "Equanimity should never be developed under any circumstances"],
+         "correct": 0,
+         "expl": "Confirming mindfulness's own distinct, foundational status among the seven awakening factors."},
+    ],
+    marginalia=[
+        ("A sluggish mind needs stirring up", [
+            "investigation, energy, rapture —",
+            "like dry grass thrown on a small flame"
+        ]),
+        ("A restless mind needs settling down", [
+            "tranquility, immersion, equanimity —",
+            "like wet grass and water on a great blaze"
+        ]),
+        ("Two fires, precisely matched", [
+            "flaring up, and going out —",
+            "each simile's own logic mapped exactly"
+        ]),
+        ("Mindfulness alone, exempt from the rule", [
+            "\"always useful,\" the discourse closes —",
+            "three discourses remain in this vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.52.html\">SN 46.52 &middot; Is There a "
+        "Way?</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.54.html\">SN 46.54 &middot; Full of "
+        "Love</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.54 — Mettāsahagatasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 54, "Mettāsahagata", "Full of Love",
+    vagga="Sākacchavagga",
+    meta_title="SN 46.54 — Full of Love | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mettāsahagatasutta — the four heart's releases (love, "
+        "compassion, rejoicing, equanimity) each paired with the "
+        "seven awakening factors and given a distinct meditative "
+        "culmination. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Koliyans, the town of "
+                    "Haliddavasana"),
+        ("Speakers", "Wanderers of other religions, then the "
+                     "Buddha, addressing the mendicants who report "
+                     "back to him"),
+        ("Form", "The same challenge-narrative frame as SN 46.52, "
+                 "applied to the four heart's releases"),
+        ("Length", "4-5 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "maps four meditative themes onto specific "
+                       "attainments"),
+    ],
+    why=(
+        "Wanderers of other religions claim to teach the identical "
+        "four heart's releases (love, compassion, rejoicing, "
+        "equanimity, radiated boundlessly in all directions) &mdash; "
+        "and the Buddha's own answer names, for each one, a precise "
+        "&ldquo;destination, apex, fruit, and culmination&rdquo; when "
+        "developed together with the seven awakening factors, mapping "
+        "each heart's release onto a specific, distinct meditative "
+        "attainment."
+    ),
+    guide=[
+        ("Four releases, four distinct culminations", [
+            "Confirmed by close reading, this discourse does not "
+            "treat the four heart's releases as interchangeable: "
+            "love's own apex is described as &ldquo;the beautiful"
+            "&rdquo; (a meditation on the repulsive and unrepulsive "
+            "interchangeably); compassion's own apex is the "
+            "dimension of infinite space; rejoicing's own apex is the "
+            "dimension of infinite consciousness; and equanimity's "
+            "own apex is the dimension of nothingness &mdash; a "
+            "structured ascent through the first three formless "
+            "attainments, one for each of the final three heart's "
+            "releases.",
+        ]),
+        ("An attainment reserved for the not-yet-fully-free", [
+            "Each apex is explicitly qualified: &ldquo;for a wise "
+            "mendicant here who has not penetrated to a higher "
+            "freedom&rdquo; &mdash; confirming these are described as "
+            "the furthest reach of these particular practices for one "
+            "still short of full liberation, not the final goal of "
+            "the path as a whole.",
+        ]),
+    ],
+    terms=[
+        ("mettāsahagata... karuṇāsahagata... muditāsahagata... "
+             "upekkhāsahagata cetovimutti", "the heart's release "
+             "&ldquo;accompanied by&rdquo; love, compassion, "
+             "rejoicing, and equanimity respectively &mdash; the four "
+             "themes this discourse pairs individually with the seven "
+             "awakening factors"),
+        ("subhaṁ vimokkhaṁ", "&ldquo;the beautiful&rdquo; &mdash; "
+             "named as love's own apex, involving flexible perception "
+             "of the repulsive and unrepulsive at will"),
+        ("ākāsānañcāyatanaṁ... viññāṇañcāyatanaṁ... ākiñcaññāyatanaṁ",
+             "the dimensions of infinite space, infinite "
+             "consciousness, and nothingness &mdash; named "
+             "respectively as the apex of compassion, rejoicing, and "
+             "equanimity, the first three of the four formless "
+             "meditative attainments"),
+        ("gati parāyanaṁ pariyosānaṁ", "&ldquo;destination, apex... "
+             "culmination&rdquo; &mdash; the fourfold question the "
+             "wanderers cannot answer, structuring this discourse's "
+             "own reply for each heart's release in turn"),
+        ("aññaṁ uttari vimuttiṁ appaṭivijjhato", "&ldquo;who has not "
+             "penetrated to a higher freedom&rdquo; &mdash; the "
+             "qualification attached to every apex named, confirming "
+             "these are not the path's own final goal"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, all four heart's releases in full. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-2 &mdash; the setting", "sn46.54:1.1-2.2"),
+        ("p", "&sect;3 &mdash; the wanderers' own claim to teach the "
+              "four heart's releases", "sn46.54:3.1-3.5"),
+        ("p", "&sect;4 &mdash; the wanderers' own question",
+             "sn46.54:4.1"),
+        ("p", "&sect;4 (concluded)", "sn46.54:4.7"),
+        ("p", "&sect;5 &mdash; the mendicants return to the Buddha",
+             "sn46.54:5.1-5.4"),
+        ("p", "&sect;11 &mdash; the Buddha's own response",
+             "sn46.54:11.1-11.9"),
+        ("p", "&sect;12 &mdash; love's own apex: the beautiful",
+             "sn46.54:12.1-12.9"),
+        ("p", "&sect;13 &mdash; compassion's own apex: infinite "
+              "space", "sn46.54:13.1-13.7"),
+        ("p", "&sect;14 &mdash; rejoicing's own apex: infinite "
+              "consciousness", "sn46.54:14.1-14.7"),
+        ("p", "&sect;15 &mdash; equanimity's own apex: nothingness",
+             "sn46.54:15.1-15.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim distinguishes the Buddha's own teaching on the four heart's releases from the wanderers' own identical-sounding version?",
+         "opts": ["A precise account of each release's own distinct destination, apex, fruit, and culmination", "The Buddha teaches only love, omitting the other three entirely", "There is no actual difference between the two teachings", "The wanderers deny that love should be developed at all"],
+         "correct": 0,
+         "expl": "A level of analytical precision the wanderers cannot match, per the discourse's own claim."},
+        {"q": "What apex does this discourse name for compassion, rejoicing, and equanimity respectively?",
+         "opts": ["The dimensions of infinite space, infinite consciousness, and nothingness — the first three formless attainments", "All three share the identical apex with no distinction", "Physical health, wealth, and social harmony", "Rebirth in the sensual heavens"],
+         "correct": 0,
+         "expl": "A structured ascent through the formless meditative attainments, one for each of the final three heart's releases."},
+        {"q": "How is each named apex qualified, according to the discourse's own repeated phrase?",
+         "opts": ["As the furthest reach for one who has not yet penetrated to a higher freedom", "As the absolute final goal of the entire path", "As applicable only to lay followers, not monastics", "As a temporary state lasting only a few moments"],
+         "correct": 0,
+         "expl": "Confirming these are described as a particular practice's own limit, not the path's own ultimate destination."},
+    ],
+    marginalia=[
+        ("Four heart's releases, four distinct peaks", [
+            "not interchangeable, this discourse insists —",
+            "love, compassion, rejoicing, equanimity, each its own"
+        ]),
+        ("An ascent through the formless attainments", [
+            "infinite space, then infinite consciousness —",
+            "then nothingness, mapped onto three heart's releases"
+        ]),
+        ("A limit, not the final goal", [
+            "\"who has not penetrated to a higher freedom\" —",
+            "each apex named as this far, and no further, for now"
+        ]),
+        ("Two discourses remain in this vagga", [
+            "Saṅgārava's own five bowls of water —",
+            "Prince Abhaya's own question on Vulture's Peak"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.53.html\">SN 46.53 &middot; Fire</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.55.html\">SN 46.55 &middot; With "
+        "Saṅgārava</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.55 — Saṅgāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 55, "Saṅgārava", "With Saṅgārava",
+    vagga="Sākacchavagga",
+    meta_title="SN 46.55 — With Saṅgārava | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṅgāravasutta — the five-bowls-of-water simile, one of "
+        "the canon's own most beloved teachings, answering a "
+        "brahmin's own question about why hymns sometimes won't come "
+        "to mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Saṅgārava the brahmin, questioning the Buddha "
+                     "directly"),
+        ("Form", "A practical question, answered with five matched "
+                 "similes for the five hindrances and their own "
+                 "absence, closing with the seven awakening factors "
+                 "and a conversion"),
+        ("Length", "4-5 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the canon's own most celebrated and "
+                       "frequently cited similes"),
+    ],
+    why=(
+        "A brahmin named Saṅgārava asks a genuinely ordinary "
+        "question &mdash; why do memorized hymns sometimes refuse to "
+        "come to mind, while unrehearsed ones sometimes spring up "
+        "easily? &mdash; and receives one of the canon's own most "
+        "beloved answers: five vivid images of a bowl of water, each "
+        "corrupted in a way matching one of the five hindrances, "
+        "unable to reflect a clear image; and five matching images of "
+        "clear water, reflecting perfectly, when each hindrance is "
+        "absent."
+    ),
+    guide=[
+        ("Five hindrances, five precisely matched corruptions of water", [
+            "Confirmed by close reading, each hindrance receives its "
+            "own specifically apt image: sensual desire, water dyed "
+            "with color (distorting what is seen through desire's own "
+            "coloring); ill will, boiling water (turbulent with "
+            "aversion's own heat); dullness and drowsiness, water "
+            "overgrown with moss (obscured, stagnant); restlessness "
+            "and remorse, wind-stirred water (churning, unable to "
+            "settle); and doubt, muddy water in darkness (murky, "
+            "impossible to see through at all).",
+        ]),
+        ("A practical, secular question given a spiritual answer", [
+            "Saṅgārava's own question is not framed in explicitly "
+            "religious terms &mdash; he asks about memorizing hymns, "
+            "an ordinary brahmanical concern &mdash; yet the "
+            "discourse's own answer reframes the issue entirely in "
+            "terms of the five hindrances, confirming that even "
+            "everyday cognitive difficulties trace back, in this "
+            "teaching's own account, to the same five obstructions "
+            "relevant to meditative practice.",
+        ]),
+        ("A conversion completing the discourse", [
+            "As with SN 46.6's own Kuṇḍaliya, this discourse closes "
+            "with Saṅgārava's own declaration of taking refuge for "
+            "life &mdash; confirming that the practical, almost "
+            "mundane opening question leads, by the discourse's own "
+            "own end, to a genuine change of allegiance.",
+        ]),
+    ],
+    terms=[
+        ("chandena abhibhūtena pariyādinnacittena", "&ldquo;overcome "
+             "and mired in sensual desire&rdquo; &mdash; the "
+             "discourse's own recurring formula, applied in turn to "
+             "each of the five hindrances"),
+        ("rajanena āvilaṁ", "&ldquo;mixed with dye&rdquo; &mdash; "
+             "the specific corrupted-water image matched to sensual "
+             "desire, using red lac, turmeric, indigo, or rose madder"),
+        ("agginā santattaṁ ubbuḷḷakajātaṁ", "&ldquo;heated by fire, "
+             "boiling and bubbling&rdquo; &mdash; the image matched "
+             "to ill will, turbulent with aversion's own heat"),
+        ("sevālapaṇakapariyonaddhaṁ", "&ldquo;overgrown with moss and "
+             "aquatic plants&rdquo; &mdash; the image matched to "
+             "dullness and drowsiness, stagnant and obscured"),
+        ("āvilaṁ luḷitaṁ āvaṭṭaṁ", "&ldquo;cloudy, murky, and muddy, "
+             "hidden in the darkness&rdquo; &mdash; the image matched "
+             "to doubt, impossible to see through at all"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, all five matched similes in full, both mired and "
+        "clear. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the setting", "sn46.55:1.1-1.3"),
+        ("p", "&sect;2 &mdash; Saṅgārava's own question",
+             "sn46.55:2.1-2.2"),
+        ("p", "&sect;3-4 &mdash; sensual desire, dyed water",
+             "sn46.55:3.1-4.3"),
+        ("p", "&sect;5-6 &mdash; ill will, boiling water",
+             "sn46.55:5.1-6.3"),
+        ("p", "&sect;7-8 &mdash; dullness and drowsiness, "
+              "moss-covered water", "sn46.55:7.1-8.3"),
+        ("p", "&sect;9-10 &mdash; restlessness and remorse, "
+              "wind-stirred water", "sn46.55:9.1-10.3"),
+        ("p", "&sect;11-12 &mdash; doubt, muddy water in darkness",
+             "sn46.55:11.1-12.4"),
+        ("p", "&sect;13-22 &mdash; the reverse: five clear waters, "
+              "when each hindrance is absent", "sn46.55:13.1-22.4"),
+        ("p", "&sect;23-24 &mdash; the seven awakening factors, and "
+              "Saṅgārava's own conversion", "sn46.55:23.1-24.3"),
+    ],
+    quiz=[
+        {"q": "What ordinary question does Saṅgārava the brahmin ask, framed in non-religious terms?",
+         "opts": ["Why do memorized hymns sometimes refuse to come to mind, while unrehearsed ones sometimes spring up easily?", "Whether the gods actually exist", "How to perform a specific ritual sacrifice correctly", "Why the Buddha wears ocher robes"],
+         "correct": 0,
+         "expl": "A practical, everyday cognitive concern, reframed entirely in terms of the five hindrances."},
+        {"q": "What water image is matched to dullness and drowsiness?",
+         "opts": ["Water overgrown with moss and aquatic plants — stagnant and obscured", "Water dyed with color", "Boiling, bubbling water", "Water stirred by the wind"],
+         "correct": 0,
+         "expl": "Each of the five hindrances receives its own precisely apt corrupted-water image."},
+        {"q": "How does this discourse close?",
+         "opts": ["With Saṅgārava declaring himself a lay follower who has gone for refuge for life", "With Saṅgārava rejecting the Buddha's own teaching entirely", "With no resolution to the brahmin's own original question", "With a description of a completely unrelated topic"],
+         "correct": 0,
+         "expl": "A genuine conversion, echoing the pattern already met at SN 46.6 with Kuṇḍaliya."},
+    ],
+    marginalia=[
+        ("Why won't the hymn come to mind?", [
+            "an ordinary question, a brahmin's own concern —",
+            "answered through the five hindrances"
+        ]),
+        ("Five bowls, five hindrances, precisely matched", [
+            "dyed, boiling, mossy, wind-stirred, muddy —",
+            "each corruption fitting its own hindrance exactly"
+        ]),
+        ("Clear water, clear reflection, clear mind", [
+            "the reverse traced just as carefully —",
+            "each hindrance absent, each reflection true"
+        ]),
+        ("A conversion, as with Kuṇḍaliya before him", [
+            "one discourse remains in this vagga —",
+            "Prince Abhaya's own question, closing it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.54.html\">SN 46.54 &middot; Full of "
+        "Love</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.56.html\">SN 46.56 &middot; With Prince "
+        "Abhaya</a> &mdash; the next discourse, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.56 — Abhayasutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    46, 56, "Abhaya", "With Prince Abhaya",
+    vagga="Sākacchavagga",
+    meta_title="SN 46.56 — With Prince Abhaya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhayasutta — Prince Abhaya questions the Buddha about "
+        "Pūraṇa Kassapa's own fatalistic denial of cause and effect, "
+        "and finds his own climbing fatigue fade as he comprehends "
+        "the teaching. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, Vulture's Peak Mountain"),
+        ("Speakers", "Prince Abhaya, questioning the Buddha directly"),
+        ("Form", "A philosophical challenge from a named rival "
+                 "teacher, refuted through the hindrances and "
+                 "awakening factors, closing with a personal note"),
+        ("Length", "3-4 minutes to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "engages a specific rival philosophical "
+                       "position by name"),
+    ],
+    why=(
+        "Prince Abhaya reports a genuinely radical claim from Pūraṇa "
+        "Kassapa, a named rival teacher: that knowing and not-knowing "
+        "have no cause or reason whatsoever, a fatalistic denial of "
+        "causation itself. The Buddha's own reply is direct: the five "
+        "hindrances are the cause of not-knowing, and the seven "
+        "awakening factors are the cause of knowing &mdash; concrete, "
+        "specific causes exactly where Pūraṇa Kassapa denied any "
+        "could exist."
+    ),
+    guide=[
+        ("A named rival's own specific doctrine, engaged directly", [
+            "Unlike the more generic &ldquo;wanderers of other "
+            "religions&rdquo; challenging the mendicants elsewhere in "
+            "this vagga, this discourse names Pūraṇa Kassapa "
+            "specifically &mdash; a historical teacher known "
+            "elsewhere in the canon for an extreme form of moral and "
+            "causal skepticism &mdash; and refutes his own doctrine "
+            "directly rather than through an anonymous intermediary.",
+        ]),
+        ("A double confirmation, mirroring the healing suttas' own pattern", [
+            "Abhaya's own enthusiastic double declaration &mdash; "
+            "&ldquo;indeed, Blessed One, these are hindrances!... "
+            "indeed, these are awakening factors!&rdquo; &mdash; "
+            "echoes the identical confirmation pattern already met at "
+            "SN 46.14-16's own healing narratives, though here "
+            "marking philosophical conviction rather than physical "
+            "recovery.",
+        ]),
+        ("A personal, physical closing note", [
+            "The discourse's own final line is unusually personal: "
+            "Abhaya reports that the fatigue of climbing Vulture's "
+            "Peak has &ldquo;faded away&rdquo; as he comprehended the "
+            "teaching &mdash; a small but vivid human detail closing "
+            "this vagga's own final discourse, and, by extension, "
+            "this half of the saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("pūraṇo kassapo", "&ldquo;Pūraṇa Kassapa&rdquo; &mdash; a "
+             "historical rival teacher named specifically in this "
+             "discourse, known elsewhere in the canon for an extreme "
+             "denial of moral causation"),
+        ("natthi hetu natthi paccayo", "&ldquo;there is no cause or "
+             "reason&rdquo; &mdash; Pūraṇa Kassapa's own fatalistic "
+             "claim about knowing and not-knowing, directly refuted "
+             "by the Buddha's own reply"),
+        ("kāmarāgapariyuṭṭhitena cetasā", "&ldquo;the heart is "
+             "overcome and mired in sensual desire&rdquo; &mdash; the "
+             "first of the five hindrances named as a concrete cause "
+             "of not-knowing"),
+        ("taggha bhagavā... taggha sugata", "&ldquo;indeed, Blessed "
+             "One... indeed, Holy One&rdquo; &mdash; Abhaya's own "
+             "double confirmation, echoing the identical pattern "
+             "already met at the healing suttas of SN 46.14-16"),
+        ("kāyakilamatho cittakilamatho... paṭippassaddho", "&ldquo;"
+             "fatigue in body and mind... has now faded away&rdquo; "
+             "&mdash; Abhaya's own personal, physical closing report, "
+             "linking his own bodily experience to his own "
+             "comprehension of the teaching"),
+    ],
+    text_intro=("Every genuinely translated fragment of this "
+        "discourse, closing the Sākacchavagga. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Prince Abhaya's own question about "
+              "Pūraṇa Kassapa", "sn46.56:1.1-1.13"),
+        ("p", "&sect;2-3 &mdash; the hindrances as cause of "
+              "not-knowing", "sn46.56:2.1-3.6"),
+        ("p", "&sect;4 &mdash; naming the hindrances, and Abhaya's "
+              "own confirmation", "sn46.56:4.1-4.5"),
+        ("p", "&sect;5-6 &mdash; the awakening factors as cause of "
+              "knowing", "sn46.56:5.1-6.5"),
+        ("p", "&sect;7 &mdash; naming the awakening factors, "
+              "Abhaya's own confirmation, and his own closing "
+              "report", "sn46.56:7.1-7.6"),
+    ],
+    quiz=[
+        {"q": "What specific claim does Prince Abhaya attribute to Pūraṇa Kassapa?",
+         "opts": ["That there is no cause or reason whatsoever for knowing and not-knowing", "That only the Buddha's own teaching can lead to knowledge", "That knowledge comes exclusively through ritual sacrifice", "That not-knowing is impossible to overcome by any means"],
+         "correct": 0,
+         "expl": "An extreme fatalistic denial of causation, directly refuted by the Buddha's own reply."},
+        {"q": "What does the Buddha name as the specific cause of not-knowing?",
+         "opts": ["The five hindrances", "A curse from a rival deity", "Physical illness alone", "Nothing — the Buddha agrees with Pūraṇa Kassapa"],
+         "correct": 0,
+         "expl": "Concrete, specific causes, directly countering Pūraṇa Kassapa's own denial that any exist."},
+        {"q": "What personal detail closes this discourse?",
+         "opts": ["Abhaya reports that his own fatigue from climbing Vulture's Peak has faded away as he comprehended the teaching", "The Buddha falls asleep before the discourse ends", "A sudden storm interrupts the conversation", "Abhaya leaves without any resolution"],
+         "correct": 0,
+         "expl": "A vivid human detail, linking philosophical understanding to physical experience, closing this vagga's own final discourse."},
+    ],
+    marginalia=[
+        ("A named rival, a fatalistic claim", [
+            "\"no cause or reason at all,\" Pūraṇa Kassapa says —",
+            "directly refuted, not politely sidestepped"
+        ]),
+        ("Hindrances cause not-knowing; factors cause knowing", [
+            "concrete causes named, precisely where denied —",
+            "confirmed with the same double declaration as the healings"
+        ]),
+        ("A prince's own fatigue, fading with understanding", [
+            "climbing Vulture's Peak, body and mind both tired —",
+            "both eased as the teaching sinks in"
+        ]),
+        ("Six discourses, one vagga, complete", [
+            "fueling and starving, a rival's own doubled lists —",
+            "fire, love's own four peaks, five bowls of water, and this"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.55.html\">SN 46.55 &middot; With "
+        "Saṅgārava</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Breathing, is still in preparation.",
+    ],
+)
