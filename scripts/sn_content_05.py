@@ -41390,3 +41390,153 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.54 — Padasutta
+# A companion image to SN 48.51's own lion simile: the elephant's
+# footprint, which encompasses every other animal's footprint,
+# applied to wisdom as "the best of the steps leading to awakening"
+# (padāni bodhāya saṁvattanti). Notably, this discourse has no
+# narrative opening at all — no setting, no "So I have heard" frame —
+# a genuinely different structural pattern from every other discourse
+# translated in this saṃyutta so far, reported honestly rather than
+# assumed to mean any particular thing.
+# --------------------------------------------------------------------------- #
+page(
+    48, 54, "Pada", "Footprints",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.54 — Footprints | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Padasutta — the elephant's footprint, which encompasses "
+        "every other animal's footprint, likened to the faculty of "
+        "wisdom as the best of the steps leading to awakening. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse has no "
+                     "narrative opening at all, a structural "
+                     "departure from every other discourse "
+                     "translated in this saṃyutta"),
+        ("Speakers", "The Buddha (addressing the mendicants is "
+                     "implied but not stated in this discourse's "
+                     "own bare opening)"),
+        ("Form", "A single simile, applied to the five faculties as "
+                 "steps leading to awakening"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a companion simile to SN 48.51's "
+                         "own lion image, and a genuinely bare "
+                         "opening with no setting given at all"),
+    ],
+    why=(
+        "This discourse gives a companion image to this project's "
+        "own SN 48.51: just as every walking creature's footprint "
+        "fits inside an elephant's footprint, making it the biggest, "
+        "the faculty of wisdom is said to be the best of the "
+        "&ldquo;steps that lead to awakening&rdquo; (padāni bodhāya "
+        "saṁvattanti) &mdash; and notably, this discourse's own text "
+        "has no narrative opening at all, unlike every other "
+        "discourse translated in this saṃyutta so far."
+    ),
+    guide=[
+        ("A companion image to SN 48.51's own lion simile", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure exactly mirrors SN 48.51: the same five "
+            "faculties, the same claim that wisdom is &ldquo;the "
+            "best&rdquo; (agga) among them, but illustrated with a "
+            "different animal image &mdash; the elephant's "
+            "footprint, which encompasses every other creature's "
+            "footprint by sheer size, rather than the lion's own "
+            "strength, speed, and courage.",
+        ]),
+        ("\"Steps leading to awakening\", not \"qualities on the side of awakening\"", [
+            "Confirmed by direct reading, this discourse frames the "
+            "five faculties as &ldquo;padāni bodhāya saṁvattanti"
+            "&rdquo; (&ldquo;steps/footprints that lead to "
+            "awakening&rdquo;) &mdash; a term distinct from SN "
+            "48.51's own &ldquo;bodhipakkhiyā dhammā&rdquo; "
+            "(&ldquo;qualities on the side of awakening&rdquo;), "
+            "though both discourses reach the identical conclusion: "
+            "wisdom is the foremost among the five.",
+        ]),
+        ("A genuinely bare opening, with no setting given", [
+            "This project's own honest observation: unlike every "
+            "other discourse translated in this saṃyutta, this "
+            "discourse's own source gives no narrative frame at all "
+            "&mdash; no &ldquo;so I have heard,&rdquo; no location, "
+            "no explicit marker of continuity with SN 48.51 or "
+            "SN 48.53 &mdash; simply the simile itself. This project "
+            "reports this structural bareness plainly, without "
+            "assuming what it implies about this discourse's own "
+            "relationship to its neighbors.",
+        ]),
+    ],
+    terms=[
+        ("hatthipadaṁ", "&ldquo;the elephant's footprint&rdquo; "
+             "&mdash; the simile's own central image, said to be "
+             "biggest because every other creature's footprint fits "
+             "inside it"),
+        ("padāni bodhāya saṁvattanti", "&ldquo;steps that lead to "
+             "awakening&rdquo; &mdash; this discourse's own term for "
+             "the five faculties, distinct from SN 48.51's own "
+             "&ldquo;bodhipakkhiyā dhammā&rdquo;"),
+        ("aggamakkhāyati", "&ldquo;is said to be the best&rdquo; "
+             "&mdash; the same phrase already met at SN 48.51, now "
+             "applied through the elephant image"),
+        ("mahantattena", "&ldquo;by sheer size&rdquo; &mdash; the "
+             "specific quality that makes the elephant's footprint "
+             "the greatest among all footprints"),
+        ("Catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fourth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.54:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own elephant-footprint simile illustrate?",
+         "opts": ["The faculty of wisdom is the best of the steps leading to awakening, just as the elephant's footprint is biggest because every other footprint fits within it", "That elephants possess spiritual faculties just as humans do", "That mendicants should meditate near elephants specifically", "That wisdom is inferior to the other four faculties"],
+         "correct": 0,
+         "expl": "A companion image to SN 48.51's own lion simile, reaching the identical conclusion."},
+        {"q": "What genuinely distinguishes this discourse's own structure from every other discourse translated in this saṃyutta?",
+         "opts": ["It has no narrative opening at all — no setting, no \"so I have heard\" frame, just the simile itself", "It is the only discourse written entirely in verse", "It is the only discourse to name six spiritual faculties", "It is the shortest discourse in the entire canon"],
+         "correct": 0,
+         "expl": "A genuinely bare structure, reported honestly rather than assumed to mean any particular thing."},
+        {"q": "What term does this discourse use for the five faculties, distinct from SN 48.51's own term?",
+         "opts": ["\"Padāni bodhāya saṁvattanti\" (steps that lead to awakening), rather than \"bodhipakkhiyā dhammā\"", "\"Indriyāni\" alone, with no further qualification", "\"Balāni\" (powers), replacing the word \"faculties\" entirely", "\"Jhānāni\" (absorptions), a term unrelated to the five faculties"],
+         "correct": 0,
+         "expl": "A different framing term, reaching the same conclusion about wisdom's own foremost place."},
+    ],
+    marginalia=[
+        ("A companion to the lion", [
+            "not strength and speed this time, but size —",
+            "the elephant's footprint holding all others"
+        ]),
+        ("Steps, not qualities", [
+            "padāni bodhāya — a different word —",
+            "the same five faculties, named anew"
+        ]),
+        ("No setting given at all", [
+            "no village, no monastery named —",
+            "a bareness this saṃyutta has not shown before"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "brief and unadorned, even by this vagga's own standard —",
+            "more of Sūkarakhatavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.53.html\">SN 48.53 &middot; A Trainee</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
