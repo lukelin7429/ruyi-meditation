@@ -27253,3 +27253,171 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.12 — Nālandasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 12, "Nālanda", "At Nāḷandā",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.12 — At Nāḷandā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nālandasutta — Sāriputta's famous 'lion's roar' of "
+        "confidence in the Buddha, the Buddha's Socratic challenge to "
+        "justify it, and Sāriputta's celebrated citadel-gatekeeper "
+        "inference identifying the four kinds of mindfulness "
+        "meditation and seven awakening factors as the single gate "
+        "every Buddha passes through. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Pāvārika's mango grove, near Nāḷandā"),
+        ("Speakers", "Venerable Sāriputta and the Buddha"),
+        ("Form", "A declaration, a Socratic challenge, and a "
+                 "celebrated simile offered in reply"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; one of the tradition's most "
+                         "celebrated arguments for confidence without "
+                         "direct omniscient knowledge"),
+    ],
+    why=(
+        "Sāriputta declares outright that no ascetic or brahmin, "
+        "past, present, or future, could ever surpass the Buddha in "
+        "awakening &mdash; a &ldquo;lion's roar&rdquo; the Buddha "
+        "immediately challenges: has Sāriputta actually read the "
+        "minds of every Buddha, past, present, and future, to know "
+        "this directly? Sāriputta admits he has not, then offers one "
+        "of the tradition's most celebrated arguments: an inference "
+        "from the teaching itself, illustrated by a citadel with a "
+        "single gate."
+    ),
+    guide=[
+        ("A bold declaration, immediately tested", [
+            "Confirmed by direct reading, the Buddha does not simply "
+            "accept Sāriputta's own praise; he names it precisely "
+            "&mdash; &ldquo;a grand and bold statement... a "
+            "definitive, categorical lion's roar&rdquo; &mdash; before "
+            "asking, three times in a row (of past Buddhas, future "
+            "Buddhas, and the Buddha himself), whether Sāriputta has "
+            "actually encompassed their minds to verify the claim "
+            "directly.",
+        ]),
+        ("Sāriputta concedes the direct claim, then reframes it", [
+            "Sāriputta answers &ldquo;no, sir&rdquo; three times "
+            "without hesitation or embarrassment, confirmed by direct "
+            "reading to concede immediately that he has no direct, "
+            "mind-reading knowledge of any Buddha's own qualities "
+            "&mdash; before offering an entirely different basis for "
+            "his confidence: inference, not direct perception.",
+        ]),
+        ("The citadel and its single gate", [
+            "Sāriputta's own simile &mdash; a frontier citadel with "
+            "a single gate, watched by an astute gatekeeper who finds "
+            "no gap in the walls large enough even for a cat &mdash; "
+            "is confirmed by direct reading to support a precise "
+            "logical structure: the gatekeeper cannot see every "
+            "creature that ever enters or leaves, but can still "
+            "infer with confidence that ALL of them must pass through "
+            "the single gate, since no other opening exists.",
+        ]),
+        ("The inference itself: five hindrances given up, four establishments, seven factors", [
+            "Sāriputta's own inference, confirmed by direct reading, "
+            "is precisely structured: every Buddha, past, present, or "
+            "future, must give up the five hindrances, have a mind "
+            "&ldquo;firmly established in the four kinds of "
+            "mindfulness meditation,&rdquo; and &ldquo;correctly "
+            "develop the seven awakening factors&rdquo; before "
+            "awakening to supreme perfect awakening &mdash; not "
+            "because Sāriputta has verified this of any particular "
+            "Buddha, but because the teaching itself describes this "
+            "as the only gate through which awakening is reached.",
+        ]),
+        ("The Buddha's own approval, and a charge to teach it widely", [
+            "The Buddha's own closing response &mdash; &ldquo;good, "
+            "good, Sāriputta!&rdquo; &mdash; is confirmed by direct "
+            "reading to be followed immediately by an instruction to "
+            "teach this exact exposition widely, specifically because "
+            "it can resolve doubt in those who might otherwise "
+            "distrust the Realized One.",
+        ]),
+    ],
+    terms=[
+        ("āsabhī vācā... sīhanādo nadito", "&ldquo;a grand and bold "
+             "statement... a definitive, categorical lion's "
+             "roar&rdquo; &mdash; the Buddha's own precise naming of "
+             "Sāriputta's initial declaration"),
+        ("cetasā ceto paricca... jāneyyāsi", "&ldquo;have you "
+             "encompassed their minds to know...&rdquo; &mdash; the "
+             "Buddha's own threefold challenge, testing whether "
+             "Sāriputta's claim rests on direct knowledge"),
+        ("anvayena... dhammanvayo vidito", "&ldquo;by inference from "
+             "the teaching&rdquo; &mdash; Sāriputta's own stated basis "
+             "for confidence, once direct knowledge is ruled out"),
+        ("rañño paccantimaṁ nagaraṁ... ekadvāraṁ", "&ldquo;a king's "
+             "frontier citadel... with a single gate&rdquo; &mdash; "
+             "the simile supporting Sāriputta's own inference"),
+        ("pañca nīvaraṇe pahāya... catūsu satipaṭṭhānesu "
+             "suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṁ "
+             "bhāvetvā", "&ldquo;giving up the five hindrances... "
+             "mind firmly established in the four kinds of "
+             "mindfulness meditation... correctly developing the "
+             "seven awakening factors&rdquo; &mdash; the single gate "
+             "Sāriputta infers every Buddha must pass through"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Sāriputta's own lion's roar",
+             "sn47.12:1.1-1.7"),
+        ("p", "&sect;2 &mdash; a threefold challenge",
+             "sn47.12:2.1-5.2"),
+        ("p", "&sect;3 &mdash; the citadel and its single gate",
+             "sn47.12:6.1-6.9"),
+        ("p", "&sect;4 &mdash; approval, and a charge to teach it "
+              "widely", "sn47.12:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond to Sāriputta's initial declaration of confidence?",
+         "opts": ["He names it precisely as a bold \"lion's roar,\" then asks three times whether Sāriputta has directly verified this by reading the minds of past, future, and present Buddhas", "He immediately praises it without any further questions", "He rebukes Sāriputta for arrogance", "He changes the subject entirely"],
+         "correct": 0,
+         "expl": "A Socratic challenge testing whether the claim rests on direct knowledge."},
+        {"q": "What does Sāriputta's citadel-and-gatekeeper simile illustrate?",
+         "opts": ["That one can infer with confidence that all creatures pass through a single gate, even without directly observing every one of them", "That citadels are safer than open villages", "That gatekeepers should never let anyone through", "That the Buddha lived in a fortified city"],
+         "correct": 0,
+         "expl": "The logical structure supporting confidence built on inference rather than direct perception."},
+        {"q": "What does Sāriputta infer every Buddha, past, present, or future, must do before awakening?",
+         "opts": ["Give up the five hindrances, establish the mind in the four kinds of mindfulness meditation, and correctly develop the seven awakening factors", "Travel to Nāḷandā specifically", "Meet another living Buddha in person", "Renounce all forms of teaching to others"],
+         "correct": 0,
+         "expl": "The single \"gate\" Sāriputta identifies through inference from the teaching itself."},
+    ],
+    marginalia=[
+        ("A lion's roar, immediately tested", [
+            "\"have you encompassed their minds?\" — three times —",
+            "Sāriputta concedes without hesitation: \"no, sir\""
+        ]),
+        ("A citadel with only one gate", [
+            "no gap wide enough even for a cat —",
+            "all who pass through, pass through here"
+        ]),
+        ("Confidence built on inference, not omniscience", [
+            "five hindrances given up, four establishments, seven factors —",
+            "the gate every Buddha must pass through"
+        ]),
+        ("\"Good, good, Sāriputta!\"", [
+            "a charge to teach this exposition widely —",
+            "doubt resolved, not by authority, but by reasoning"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.11.html\">SN 47.11 &middot; A Great Man</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
