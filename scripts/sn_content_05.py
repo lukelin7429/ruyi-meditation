@@ -29501,3 +29501,150 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.27 — Samattasutta
+# Confirmed by direct reading: this discourse's own opening
+# ("taṁyeva nidānaṁ," "the same setting") directly continues
+# SN 47.26's own scene, with Sāriputta now asking Anuruddha the
+# paired question -- how is "an adept" (asekha, i.e. an arahant, one
+# beyond training) defined? -- receiving the exact complementary
+# answer: complete, not partial, development of the same four kinds
+# of mindfulness meditation.
+# --------------------------------------------------------------------------- #
+page(
+    47, 27, "Samatta", "Completely",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.27 — Completely | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samattasutta — continuing directly from SN 47.26, "
+        "Sāriputta asks Anuruddha how \"an adept\" (one beyond "
+        "training) is defined, receiving the exact complementary "
+        "answer: complete, not partial, development of the four "
+        "kinds of mindfulness meditation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "The Thorny Wood, near Sāketa &mdash; the "
+                     "identical scene as SN 47.26, confirmed by this "
+                     "discourse's own opening \"the same setting\""),
+        ("Speakers", "Venerables Sāriputta and Anuruddha"),
+        ("Form", "A direct continuation of SN 47.26's own "
+                 "conversation, pairing \"trainee\" with \"adept\""),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the deliberate completion of SN 47.26's own "
+                       "paired question"),
+    ],
+    why=(
+        "Continuing directly from SN 47.26 &mdash; confirmed by this "
+        "discourse's own explicit opening, &ldquo;the same "
+        "setting&rdquo; &mdash; Sāriputta now asks Anuruddha the "
+        "paired question: how is &ldquo;an adept&rdquo; (asekha, one "
+        "who has finished training, i.e. an arahant) defined? "
+        "Anuruddha's own answer completes the pair established at "
+        "SN 47.26: an adept has developed the four kinds of "
+        "mindfulness meditation COMPLETELY (samattaṁ), not partly."
+    ),
+    guide=[
+        ("A deliberately paired question, confirmed by explicit continuity", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening line &mdash; &ldquo;the same setting&rdquo; "
+            "&mdash; explicitly marks it as a continuation of "
+            "SN 47.26's own scene, not a separate encounter. Sāriputta "
+            "asks the deliberately complementary question: having "
+            "asked about &ldquo;a trainee,&rdquo; he now asks about "
+            "&ldquo;an adept,&rdquo; completing a pair.",
+        ]),
+        ("Complete development, the single word distinguishing this from SN 47.26", [
+            "Anuruddha's own answer is confirmed by direct comparison "
+            "to be worded identically to SN 47.26's own answer except "
+            "for one word: &ldquo;samattaṁ&rdquo; (&ldquo;"
+            "completely&rdquo;) replaces SN 47.26's own "
+            "&ldquo;padesaṁ&rdquo; (&ldquo;partly&rdquo;) &mdash; "
+            "confirming these two discourses together define the "
+            "trainee and the adept as two points on a single "
+            "continuum of the identical practice.",
+        ]),
+        ("\"Asekha\" -- one beyond training, not merely advanced", [
+            "The term &ldquo;asekha&rdquo; (&ldquo;an adept&rdquo;) "
+            "is confirmed by direct reading to denote not merely an "
+            "advanced trainee but someone who has finished training "
+            "altogether &mdash; the term traditionally applied to an "
+            "arahant, for whom development of the path is complete "
+            "rather than ongoing.",
+        ]),
+    ],
+    terms=[
+        ("taṁyeva nidānaṁ", "&ldquo;the same setting&rdquo; &mdash; "
+             "confirming this discourse continues SN 47.26's own "
+             "scene directly, not a separate encounter"),
+        ("asekho", "&ldquo;an adept&rdquo; &mdash; one who has "
+             "finished training altogether, traditionally denoting an "
+             "arahant"),
+        ("catunnaṁ satipaṭṭhānānaṁ samattaṁ bhāvitattā", "&ldquo;"
+             "having completely developed the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; Anuruddha's own "
+             "answer, differing from SN 47.26's own answer by a "
+             "single word"),
+        ("samatta", "&ldquo;complete, entire&rdquo; &mdash; the term "
+             "distinguishing an adept's own development from a "
+             "trainee's own partial development"),
+        ("sekha... asekha", "&ldquo;trainee... adept&rdquo; &mdash; "
+             "the paired terms this discourse, together with "
+             "SN 47.26, defines as two points on the same continuum"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Sāriputta's own question",
+             "sn47.27:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the fourfold formula",
+             "sn47.27:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse confirm it directly continues SN 47.26's own scene?",
+         "opts": ["Its own opening line states \"the same setting\"", "It repeats the entire narrative introduction from scratch", "It names a completely different location", "It does not mention SN 47.26 at all"],
+         "correct": 0,
+         "expl": "Marking this as a continuation, not a separate encounter."},
+        {"q": "What single word distinguishes Anuruddha's own answer here from his answer at SN 47.26?",
+         "opts": ["\"Completely\" (samattaṁ), replacing \"partly\" (padesaṁ)", "\"Never,\" replacing \"always\"", "\"Body,\" replacing \"mind\"", "There is no difference at all"],
+         "correct": 0,
+         "expl": "Confirming the two discourses together define the trainee and the adept as two points on a single continuum."},
+        {"q": "What does the term \"asekha\" (\"an adept\") traditionally denote?",
+         "opts": ["Someone who has finished training altogether, traditionally an arahant", "A beginning student just starting to practice", "A teacher of other mendicants", "A lay follower who has not yet ordained"],
+         "correct": 0,
+         "expl": "Not merely an advanced trainee, but one for whom development of the path is complete."},
+    ],
+    marginalia=[
+        ("\"The same setting\" — a deliberate continuation", [
+            "Sāriputta and Anuruddha, still talking —",
+            "the trainee question now paired with its own completion"
+        ]),
+        ("One word changes everything", [
+            "\"completely,\" not \"partly\" —",
+            "the same practice, a different degree"
+        ]),
+        ("Beyond training altogether", [
+            "\"asekha\" — traditionally an arahant —",
+            "development finished, not merely advanced"
+        ]),
+        ("Two discourses, one continuum", [
+            "SN 47.26's trainee, this discourse's adept —",
+            "partial and complete development of the same practice"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.26.html\">SN 47.26 &middot; Partly</a> "
+        "&mdash; the previous discourse, this one's own deliberate "
+        "pair.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
