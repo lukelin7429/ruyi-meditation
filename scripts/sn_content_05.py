@@ -19330,3 +19330,1173 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 5. Cakkavattivagga — A Wheel-Turning Monarch (SN 46.41-50)
+# Confirmed by direct bilara-data reading: this vagga's own colophon
+# ("Cakkavattivaggo pañcamo," "the Wheel-Turning Monarch chapter, the
+# fifth") is unambiguous, matching this project's own count. SN
+# 46.48's own Pāli root confirmed word-for-word identical in structure
+# to SN 46.12 (only the Pāli synonym for "sun" differs, sūriya vs
+# ādicca) -- a genuine, deliberate repeat rather than new content.
+# The vagga's own closing pair (49-50) restates, using the canonical
+# superlative "I do not see a single thing" formula, the same
+# internal/external forerunner pairing (rational application of mind;
+# good friendship) already met at SN 46.12-13 and 46.31-32.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.41 — Vidhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 41, "Vidhā", "Discriminations",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.41 — Discriminations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vidhāsutta — every ascetic and brahmin across past, "
+        "future, and present who has given up the three "
+        "discriminations has done so through the seven awakening "
+        "factors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A threefold temporal claim (past, future, present), "
+                 "opening a new vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but universal in its own temporal "
+                       "scope"),
+    ],
+    why=(
+        "The three discriminations &mdash; thinking oneself "
+        "&ldquo;better,&rdquo; &ldquo;equal,&rdquo; or &ldquo;worse"
+        "&rdquo; than others, already met as an object in SN 45.162 "
+        "&mdash; return here, but the claim is now universal across "
+        "time: EVERY ascetic and brahmin, past, future, or present, "
+        "who has given up these discriminations has done so, is "
+        "doing so, or will do so through the seven awakening factors, "
+        "with no exception admitted."
+    ),
+    guide=[
+        ("A universal claim, not a general recommendation", [
+            "Confirmed by direct reading, the threefold temporal "
+            "structure (past, future, present) forecloses any "
+            "possible exception: the discourse does not merely "
+            "recommend the awakening factors as one useful method "
+            "among several, but asserts that they are, were, and "
+            "will be the sole means by which anyone at all has ever "
+            "given up the three discriminations.",
+        ]),
+        ("A familiar object, returning from the preceding saṃyutta", [
+            "The three discriminations (thinking oneself better, "
+            "equal, or worse) were already named as an object at SN "
+            "45.162, there paired with the eightfold path's own "
+            "compressed four-verb formula; here the identical object "
+            "returns, now paired instead with the seven awakening "
+            "factors as this new saṃyutta's own core teaching.",
+        ]),
+    ],
+    terms=[
+        ("tisso vidhā", "&ldquo;the three discriminations&rdquo; "
+             "&mdash; thinking oneself better, equal, or worse than "
+             "others, the identical object already met at SN 45.162"),
+        ("atītānāgatapaccuppannā", "&ldquo;past, future, present"
+             "&rdquo; &mdash; the threefold temporal structure "
+             "confirming this discourse's own universal, exceptionless "
+             "claim"),
+        ("samaṇā vā brāhmaṇā vā", "&ldquo;ascetics and brahmins"
+             "&rdquo; &mdash; a standard canonical phrase for "
+             "religious seekers generally, not confined to the "
+             "Buddha's own followers"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as this discourse's own object"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, applied here to each awakening factor "
+             "in turn"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.41:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What temporal structure does this discourse use to make its own claim exceptionless?",
+         "opts": ["Past, future, and present — every ascetic and brahmin across all three", "Only the present moment", "Only future generations", "A single historical incident"],
+         "correct": 0,
+         "expl": "Forecloses any possible exception by covering all of time."},
+        {"q": "Where did the \"three discriminations\" already appear as an object earlier in this project's own coverage?",
+         "opts": ["SN 45.162, there paired with the eightfold path's own compressed formula", "SN 46.1, in the dragon simile", "SN 46.6, in Kuṇḍaliya's own conversion", "This is their only appearance across both saṃyuttas"],
+         "correct": 0,
+         "expl": "The identical object, now paired with this new saṃyutta's own core teaching instead."},
+        {"q": "What does this discourse claim is the sole means of giving up the three discriminations, admitting no exception?",
+         "opts": ["Developing and cultivating the seven awakening factors", "Physical austerities alone", "Formal debate with rival teachers", "Wealth and social status"],
+         "correct": 0,
+         "expl": "A universal, exceptionless claim rather than a mere recommendation."},
+    ],
+    marginalia=[
+        ("Better, equal, worse — a familiar triad", [
+            "met once before, at SN 45.162 —",
+            "now paired with a new saṃyutta's own core teaching"
+        ]),
+        ("Past, future, present — no exception", [
+            "every ascetic and brahmin, across all time —",
+            "one means only, admitted"
+        ]),
+        ("A new vagga opens with universal scope", [
+            "not a recommendation, but an exceptionless claim —",
+            "confirmed by its own threefold temporal structure"
+        ]),
+        ("Nine discourses remain in this vagga", [
+            "a wheel-turning monarch's own seven treasures —",
+            "crushing Māra's army, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.40.html\">SN 46.40 &middot; "
+        "Hindrances</a> &mdash; the previous page, closing the "
+        "preceding vagga.",
+        "<a href=\"sn-46.42.html\">SN 46.42 &middot; A "
+        "Wheel-Turning Monarch</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.42 — Cakkavattisutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 42, "Cakkavatti", "A Wheel-Turning Monarch",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.42 — A Wheel-Turning Monarch | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cakkavattisutta — the seven treasures that appear with a "
+        "Wheel-Turning Monarch, likened to the seven treasures of the "
+        "awakening factors appearing with a Buddha. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One extended simile drawing on a well-known "
+                 "cosmological figure, giving this vagga its own name"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "draws on a well-known mythological figure "
+                       "from elsewhere in the canon"),
+    ],
+    why=(
+        "A Wheel-Turning Monarch (cakkavatti) &mdash; a legendary "
+        "universal ruler whose appearance in the world brings seven "
+        "treasures (the wheel, the elephant, the horse, the jewel, "
+        "the woman, the householder, and the commander) &mdash; is "
+        "likened here to a Buddha's own appearance, which brings a "
+        "different set of seven treasures: the awakening factors "
+        "themselves."
+    ),
+    guide=[
+        ("A well-known figure from elsewhere in the canon", [
+            "The Wheel-Turning Monarch and the seven physical "
+            "treasures accompanying such a ruler are a recurring "
+            "cosmological motif found in other discourses (notably "
+            "in the Cakkavattisīhanāda Sutta and the Mahāsudassana "
+            "Sutta); this discourse assumes the reader's own "
+            "familiarity with the motif rather than explaining it, "
+            "applying it directly as a structural parallel to the "
+            "seven awakening factors.",
+        ]),
+        ("Two sevens, one structural parallel", [
+            "The comparison is purely structural &mdash; sevenfold "
+            "list appearing alongside a rare and significant figure "
+            "&mdash; rather than a claim that the two lists share any "
+            "content in common; a Wheel-Turning Monarch's own "
+            "treasures are worldly and material, while a Buddha's own "
+            "&ldquo;treasures&rdquo; are the awakening factors "
+            "themselves, confirmed by direct reading to be a "
+            "deliberate elevation of the awakening factors to the "
+            "same rarity and significance as the cakkavatti's own "
+            "legendary treasures.",
+        ]),
+    ],
+    terms=[
+        ("rājā cakkavattī", "&ldquo;a Wheel-Turning Monarch&rdquo; "
+             "&mdash; a legendary universal ruler, a recurring "
+             "cosmological figure found elsewhere in the canon"),
+        ("cakkaṁ hatthiratanaṁ assaratanaṁ maṇiratanaṁ itthiratanaṁ "
+             "gahapatiratanaṁ pariṇāyakaratanaṁ", "the wheel, the "
+             "elephant, the horse, the jewel, the woman, the "
+             "householder, and the commander &mdash; the seven "
+             "physical treasures accompanying such a ruler"),
+        ("tathāgato arahaṁ sammāsambuddho", "&ldquo;a Realized One, a "
+             "perfected one, a fully awakened Buddha&rdquo; &mdash; "
+             "the structural parallel to the Wheel-Turning Monarch's "
+             "own appearance"),
+        ("bojjhaṅgaratanāni", "&ldquo;the treasures of the awakening "
+             "factors&rdquo; &mdash; this discourse's own elevated "
+             "description of the seven awakening factors, matching "
+             "the cakkavatti's own seven physical treasures in rarity "
+             "and significance"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as this discourse's own second set of "
+             "seven treasures"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; a Wheel-Turning Monarch's own seven "
+              "treasures", "sn46.42:1.1-1.4"),
+        ("p", "&sect;2 &mdash; the seven treasures of the awakening "
+              "factors", "sn46.42:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What seven treasures does this discourse name as appearing with a Wheel-Turning Monarch?",
+         "opts": ["The wheel, elephant, horse, jewel, woman, householder, and commander", "Gold, silver, bronze, iron, tin, lead, and copper", "Ethics, immersion, wisdom, freedom, and three more", "The seven awakening factors themselves"],
+         "correct": 0,
+         "expl": "A well-known cosmological motif for a legendary universal ruler found elsewhere in the canon."},
+        {"q": "What kind of comparison does this discourse make between the two sets of seven?",
+         "opts": ["A purely structural parallel — rarity and significance, not shared content", "A claim that the two sets of seven are identical in content", "A claim that the awakening factors are less valuable than the monarch's own treasures", "No comparison is made at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an elevation of the awakening factors to the same rarity as the cakkavatti's own legendary treasures."},
+        {"q": "What gives this vagga its own name?",
+         "opts": ["This discourse's own Wheel-Turning Monarch simile", "SN 46.43's own reference to Māra", "SN 46.48's own sun simile", "SN 46.50's own closing colophon"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own colophon, \"Cakkavattivaggo,\" naming this discourse's own central image."},
+    ],
+    marginalia=[
+        ("A legendary ruler, seven physical treasures", [
+            "the wheel, elephant, horse, jewel —",
+            "the woman, householder, and commander"
+        ]),
+        ("A Buddha's own appearance, seven different treasures", [
+            "not material wealth this time —",
+            "the awakening factors themselves"
+        ]),
+        ("A structural parallel, not a shared content", [
+            "rarity and significance, matched —",
+            "not claiming the two lists share anything else"
+        ]),
+        ("This vagga's own namesake discourse", [
+            "eight discourses remain —",
+            "Māra's army, definitions of wise and poor, the sun"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.41.html\">SN 46.41 &middot; "
+        "Discriminations</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.43.html\">SN 46.43 &middot; About "
+        "Māra</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.43 — Mārasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 43, "Māra", "About Māra",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.43 — About Māra | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mārasutta — the seven awakening factors named as the "
+        "path for crushing Māra's own army. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A formal announcement using martial imagery"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but drawing on vivid martial and "
+                       "mythological imagery"),
+    ],
+    why=(
+        "Māra &mdash; the canon's own personification of death, "
+        "delusion, and everything that obstructs liberation &mdash; "
+        "is described here as commanding an &ldquo;army&rdquo; "
+        "(senā) that can be &ldquo;crushed&rdquo; (dhaṁsana), with "
+        "the seven awakening factors named as the specific path that "
+        "accomplishes this."
+    ),
+    guide=[
+        ("Martial imagery for an inner struggle", [
+            "&ldquo;Crushing Māra's army&rdquo; is a recurring "
+            "canonical image (echoing, among other places, the "
+            "Padhāna Sutta's own dramatic confrontation between the "
+            "Buddha and Māra before his own awakening) &mdash; used "
+            "here not to describe literal warfare but the inner "
+            "struggle against the forces of delusion and death that "
+            "Māra personifies throughout the canon.",
+        ]),
+    ],
+    terms=[
+        ("mārasenappamaddanaṁ", "&ldquo;crushing Māra's army&rdquo; "
+             "&mdash; a recurring canonical image for overcoming the "
+             "forces of delusion and death Māra personifies"),
+        ("māra", "&ldquo;Māra&rdquo; &mdash; the canon's own "
+             "personification of death and the forces that obstruct "
+             "liberation, appearing throughout the Pāli canon as both "
+             "a mythological figure and a symbol"),
+        ("desessāmi... taṁ suṇātha", "&ldquo;I will teach you... "
+             "listen&rdquo; &mdash; the same formal opening already "
+             "met at SN 46.22 and SN 46.25"),
+        ("sati... upekkhā", "the seven awakening factors, named as "
+             "this discourse's own path for crushing Māra's army"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.43:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does \"crushing Māra's army\" refer to in this discourse?",
+         "opts": ["The inner struggle against the forces of delusion and death Māra personifies, not literal warfare", "An actual historical military campaign", "A ceremony performed at a monk's own ordination", "A physical location where Māra is said to dwell"],
+         "correct": 0,
+         "expl": "A recurring canonical image, echoing other confrontations between the Buddha and Māra found elsewhere in the canon."},
+        {"q": "What does this discourse name as the specific path for this purpose?",
+         "opts": ["The seven awakening factors", "The five precepts", "A specific meditation posture", "A protective chant recited before battle"],
+         "correct": 0,
+         "expl": "This saṃyutta's own core teaching, applied to a specific martial metaphor."},
+        {"q": "What other discourse of this saṃyutta shares the identical formal \"I will teach you... listen\" opening?",
+         "opts": ["SN 46.22 and SN 46.25", "SN 46.1, the dragon simile", "SN 46.30, Udāyī's own testimony", "No other discourse shares this opening"],
+         "correct": 0,
+         "expl": "A standard formulaic opening recurring at several points across this saṃyutta."},
+    ],
+    marginalia=[
+        ("Māra's own army, crushed", [
+            "not literal warfare —",
+            "the inner struggle against delusion and death"
+        ]),
+        ("A recurring image from elsewhere in the canon", [
+            "echoing the Buddha's own confrontation before awakening —",
+            "here applied to the seven awakening factors directly"
+        ]),
+        ("A formal teaching, briefly announced", [
+            "\"I will teach you... listen\" —",
+            "the path named immediately after"
+        ]),
+        ("Seven discourses remain in this vagga", [
+            "witless and wise, poor and prosperous —",
+            "the sun, and two closing superlatives"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.42.html\">SN 46.42 &middot; A "
+        "Wheel-Turning Monarch</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.44.html\">SN 46.44 &middot; Witless</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.44 — Duppaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 44, "Duppañña", "Witless",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.44 — Witless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Duppaññasutta — a mendicant asks how \"a witless idiot\" "
+        "is defined, and is told: by not having developed the seven "
+        "awakening factors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha "
+                     "directly"),
+        ("Form", "A direct question and answer, the first of a "
+                 "matched pair"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opening a matched definitional pair"),
+    ],
+    why=(
+        "An ordinary, even blunt colloquial term &mdash; &ldquo;a "
+        "witless idiot&rdquo; (duppañña) &mdash; receives a precise "
+        "technical definition: not having developed and cultivated "
+        "the seven awakening factors, redefining an everyday insult "
+        "in terms of this saṃyutta's own core teaching."
+    ),
+    guide=[
+        ("Ordinary vocabulary, technically redefined", [
+            "Following the pattern already met at SN 46.5 and 46.21 "
+            "(&ldquo;how are the awakening factors defined?&rdquo;), "
+            "this discourse instead takes a common colloquial term "
+            "and redefines it technically &mdash; confirming, by "
+            "direct comparison with its own companion discourse (SN "
+            "46.45), that this vagga applies the same definitional "
+            "device to ordinary social vocabulary, not just to the "
+            "saṃyutta's own specialized terms.",
+        ]),
+    ],
+    terms=[
+        ("duppañña", "&ldquo;a witless idiot&rdquo; &mdash; an "
+             "ordinary colloquial term for someone lacking wisdom, "
+             "here given a precise technical definition"),
+        ("satta bojjhaṅge abhāvitattā abahulīkatattā", "&ldquo;"
+             "because they haven't developed and cultivated the seven "
+             "awakening factors&rdquo; &mdash; the discourse's own "
+             "complete definition of the term"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as the discourse's own reference point"),
+        ("duppaññoti vuccati", "&ldquo;they're called a witless "
+             "idiot&rdquo; &mdash; the discourse's own formal "
+             "labeling convention, repeated to close the discourse"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.44:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define \"a witless idiot\" (duppañña)?",
+         "opts": ["As someone who hasn't developed and cultivated the seven awakening factors", "As someone who has committed a serious crime", "As someone who has never received a formal education", "As someone who is physically ill"],
+         "correct": 0,
+         "expl": "A technical redefinition of an ordinary colloquial term."},
+        {"q": "What earlier discourses in this saṃyutta share the same \"how is X defined\" question-and-answer format?",
+         "opts": ["SN 46.5 and SN 46.21, both defining \"awakening factors\" themselves", "SN 46.1, the dragon simile", "SN 46.6, Kuṇḍaliya's own conversion", "No earlier discourse shares this format"],
+         "correct": 0,
+         "expl": "This discourse extends the same definitional device to ordinary social vocabulary."},
+        {"q": "What formal labeling phrase closes this discourse?",
+         "opts": ["\"They're called a witless idiot\" (duppaññoti vuccati)", "\"This is the noble eightfold path\"", "\"These are the four noble truths\"", "No closing phrase appears"],
+         "correct": 0,
+         "expl": "A repeated formal convention confirming the definition given at the discourse's own opening."},
+    ],
+    marginalia=[
+        ("An ordinary insult, technically redefined", [
+            "\"witless idiot\" — a blunt colloquial term —",
+            "now given a precise technical meaning"
+        ]),
+        ("Lacking the seven, not lacking schooling", [
+            "wisdom here means developing these factors —",
+            "not formal education or social status"
+        ]),
+        ("The first of a matched pair", [
+            "\"wise\" waits immediately after —",
+            "the identical structure, in reverse"
+        ]),
+        ("Six discourses remain in this vagga", [
+            "poor and prosperous, the sun —",
+            "and two closing superlatives"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.43.html\">SN 46.43 &middot; About "
+        "Māra</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.45.html\">SN 46.45 &middot; Wise</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.45 — Paññavantusutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 45, "Paññavantu", "Wise",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.45 — Wise | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paññavantusutta — the direct antithesis of SN 46.44's "
+        "own definition, defining \"wise and clever\" as having "
+        "developed the seven awakening factors. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.44"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha "
+                     "directly"),
+        ("Form", "The identical question-and-answer structure as SN "
+                 "46.44, in direct antithesis"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closing a matched definitional pair"),
+    ],
+    why=(
+        "&ldquo;Wise and clever&rdquo; (paṇḍita and vyatta) receives "
+        "the exact positive counterpart to SN 46.44's own definition "
+        "&mdash; having developed and cultivated the seven awakening "
+        "factors &mdash; confirming the pair's own deliberate "
+        "antithetical structure."
+    ),
+    guide=[
+        ("A precise antithesis, word for word", [
+            "Confirmed by direct comparison, this discourse uses the "
+            "identical structure and vocabulary as SN 46.44, only "
+            "reversing the negation (&ldquo;haven't developed&rdquo; "
+            "becomes &ldquo;have developed&rdquo;) &mdash; a deliberate "
+            "matched pair defining ordinary social vocabulary "
+            "(witless/wise) in terms of this saṃyutta's own core "
+            "teaching.",
+        ]),
+    ],
+    terms=[
+        ("paṇḍito vyattoti", "&ldquo;wise and clever&rdquo; &mdash; "
+             "an ordinary colloquial term of praise, here given the "
+             "identical technical treatment as SN 46.44's own term of "
+             "criticism"),
+        ("satta bojjhaṅge bhāvitattā bahulīkatattā", "&ldquo;because "
+             "they've developed and cultivated the seven awakening "
+             "factors&rdquo; &mdash; the exact positive counterpart to "
+             "SN 46.44's own negative definition"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as the discourse's own reference point"),
+        ("paṇḍito vyattoti vuccati", "&ldquo;they're called wise and "
+             "clever&rdquo; &mdash; the discourse's own formal "
+             "labeling convention, mirroring SN 46.44's own"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.45:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own definition compare to SN 46.44's own?",
+         "opts": ["The exact positive counterpart — identical structure, with the negation reversed", "A completely unrelated definition", "A contradiction of SN 46.44's own claim", "An expansion adding several new criteria"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a deliberate matched pair."},
+        {"q": "What does this discourse define \"wise and clever\" as?",
+         "opts": ["Having developed and cultivated the seven awakening factors", "Having memorized many scriptures", "Winning debates against rival teachers", "Being born into a privileged family"],
+         "correct": 0,
+         "expl": "The direct positive antithesis of SN 46.44's own definition of \"witless.\""},
+        {"q": "What two ordinary Pāli terms for \"wise\" appear together in this discourse's own title term?",
+         "opts": ["Paṇḍita and vyatta — \"wise\" and \"clever\"", "Ariya and anariya — \"noble\" and \"ignoble\"", "Sugata and duggata — \"well-gone\" and \"ill-gone\"", "Only one term appears, with no pairing"],
+         "correct": 0,
+         "expl": "Two near-synonymous terms of praise, both redefined together in terms of the seven awakening factors."},
+    ],
+    marginalia=[
+        ("The exact antithesis, word for word", [
+            "\"wise\" answers \"witless\" precisely —",
+            "the same structure, the negation reversed"
+        ]),
+        ("Developed, not lacking", [
+            "the seven factors, genuinely cultivated —",
+            "this is what wisdom means here"
+        ]),
+        ("A matched pair, now complete", [
+            "witless and wise, side by side —",
+            "one teaching, defined both ways"
+        ]),
+        ("Five discourses remain in this vagga", [
+            "poor and prosperous, the sun —",
+            "and two closing superlatives"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.44.html\">SN 46.44 &middot; Witless</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.46.html\">SN 46.46 &middot; Poor</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.46 — Daliddasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 46, "Dalidda", "Poor",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.46 — Poor | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Daliddasutta — \"poor\" redefined not as material lack "
+        "but as failing to develop the seven awakening factors, "
+        "opening a second matched definitional pair. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.45"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha "
+                     "directly"),
+        ("Form", "The same question-and-answer structure already met "
+                 "at SN 46.44-45, opening a second matched pair"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opening this vagga's own second "
+                       "matched pair"),
+    ],
+    why=(
+        "&ldquo;Poor&rdquo; (dalidda) &mdash; ordinarily an economic "
+        "term for material lack &mdash; is redefined entirely in "
+        "spiritual terms: not having developed and cultivated the "
+        "seven awakening factors, applying the witless/wise "
+        "definitional device from SN 46.44-45 to an economic rather "
+        "than intellectual register."
+    ),
+    guide=[
+        ("A second matched pair, a different register", [
+            "Where SN 46.44-45 redefined intellectual vocabulary "
+            "(witless/wise), this pair redefines economic vocabulary "
+            "(poor/prosperous) &mdash; confirmed by direct comparison "
+            "to use the identical structural device across two "
+            "distinct ordinary-language registers, both reframed in "
+            "terms of the seven awakening factors rather than their "
+            "own conventional meanings.",
+        ]),
+    ],
+    terms=[
+        ("dalidda", "&ldquo;poor&rdquo; &mdash; ordinarily an "
+             "economic term for material lack, here redefined "
+             "entirely in spiritual terms"),
+        ("satta bojjhaṅge abhāvitattā abahulīkatattā", "&ldquo;"
+             "because they haven't developed and cultivated the seven "
+             "awakening factors&rdquo; &mdash; the identical negative "
+             "formula already met at SN 46.44"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as the discourse's own reference point"),
+        ("dalidoti vuccati", "&ldquo;they're called poor&rdquo; "
+             "&mdash; the discourse's own formal labeling convention"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.46:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse redefine \"poor\" (dalidda)?",
+         "opts": ["Not having developed and cultivated the seven awakening factors, rather than material lack", "Someone who owns no physical property whatsoever", "Someone born into a low social caste", "A term with no redefinition — used in its ordinary economic sense"],
+         "correct": 0,
+         "expl": "Applying the witless/wise definitional device to an economic rather than intellectual register."},
+        {"q": "What earlier matched pair does this discourse's own structure most closely resemble?",
+         "opts": ["SN 46.44-45 (Witless/Wise), using the identical structural device", "SN 46.14-16, the three healing narratives", "SN 46.9-10, the closing pair of the first vagga", "No earlier pair resembles this one"],
+         "correct": 0,
+         "expl": "The same definitional device applied to a different ordinary-language register."},
+        {"q": "What is the discourse's own formal closing label for this term?",
+         "opts": ["\"They're called poor\" (dalidoti vuccati)", "\"This is the noble eightfold path\"", "\"These are the five aggregates\"", "No closing label appears"],
+         "correct": 0,
+         "expl": "A repeated formal convention mirroring the structure of SN 46.44's own closing label."},
+    ],
+    marginalia=[
+        ("\"Poor,\" redefined entirely", [
+            "not material lack this time —",
+            "failing to develop the seven factors"
+        ]),
+        ("A second matched pair begins", [
+            "witless/wise redefined intellect —",
+            "poor/prosperous redefines economics"
+        ]),
+        ("The same device, a different register", [
+            "ordinary vocabulary, technically reframed —",
+            "confirmed by structural comparison"
+        ]),
+        ("\"Prosperous\" answers immediately after", [
+            "the identical structure, in reverse —",
+            "closing this vagga's own second pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.45.html\">SN 46.45 &middot; Wise</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.47.html\">SN 46.47 &middot; "
+        "Prosperous</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.47 — Adaliddasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 47, "Adalidda", "Prosperous",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.47 — Prosperous | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Adaliddasutta — the positive antithesis of SN 46.46's "
+        "own definition, defining \"prosperous\" as having developed "
+        "the seven awakening factors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.46"),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha "
+                     "directly"),
+        ("Form", "The identical question-and-answer structure as SN "
+                 "46.46, in direct antithesis"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closing this vagga's own second "
+                       "matched pair"),
+    ],
+    why=(
+        "&ldquo;Prosperous&rdquo; (adalidda, literally &ldquo;"
+        "not-poor&rdquo;) receives the exact positive counterpart to "
+        "SN 46.46's own definition &mdash; having developed and "
+        "cultivated the seven awakening factors &mdash; closing this "
+        "vagga's own second matched definitional pair with the "
+        "identical antithetical structure already confirmed at SN "
+        "46.44-45."
+    ),
+    guide=[
+        ("Two matched pairs, one recurring device", [
+            "With this discourse, this vagga's own two definitional "
+            "pairs (witless/wise, poor/prosperous) are both complete "
+            "&mdash; confirmed by direct comparison to share the "
+            "identical structural device: an ordinary term redefined "
+            "purely in terms of the seven awakening factors, stated "
+            "and then immediately reversed in its own paired "
+            "companion discourse.",
+        ]),
+    ],
+    terms=[
+        ("adalidda", "&ldquo;prosperous,&rdquo; literally &ldquo;"
+             "not-poor&rdquo; &mdash; formed by direct negation of SN "
+             "46.46's own term, confirming this discourse's own "
+             "status as its deliberate antithesis"),
+        ("satta bojjhaṅge bhāvitattā bahulīkatattā", "&ldquo;because "
+             "they've developed and cultivated the seven awakening "
+             "factors&rdquo; &mdash; the exact positive counterpart to "
+             "SN 46.46's own negative definition"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession as the discourse's own reference point"),
+        ("adaliddoti vuccati", "&ldquo;they're called prosperous"
+             "&rdquo; &mdash; the discourse's own formal labeling "
+             "convention, mirroring SN 46.46's own"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.47:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What confirms this discourse's own status as SN 46.46's own direct antithesis, even in its own vocabulary?",
+         "opts": ["The Pāli term \"adalidda\" is formed by direct negation of \"dalidda,\" literally meaning \"not-poor\"", "The two discourses share no vocabulary in common", "This discourse uses an entirely unrelated term for wealth", "The discourse names no specific term at all"],
+         "correct": 0,
+         "expl": "A literal grammatical negation, confirming the deliberate paired structure."},
+        {"q": "What two matched definitional pairs does this vagga complete with this discourse?",
+         "opts": ["Witless/Wise and Poor/Prosperous", "The Sun and Interior/Exterior", "Discriminations and A Wheel-Turning Monarch", "About Māra and this discourse alone"],
+         "correct": 0,
+         "expl": "Both pairs share the identical device: ordinary vocabulary redefined by the seven awakening factors, then reversed."},
+        {"q": "What comes immediately after this discourse in this vagga's own sequence?",
+         "opts": ["SN 46.48, repeating the sun/dawn simile already met at SN 46.12", "A new vagga begins immediately", "A return to the witless/wise pair", "The vagga's own closing colophon"],
+         "correct": 0,
+         "expl": "Confirmed by the Pāli root's own near-identical text to SN 46.12, with only a synonym for \"sun\" changed."},
+    ],
+    marginalia=[
+        ("\"Not-poor\" — a literal negation", [
+            "adalidda, formed directly from dalidda —",
+            "confirming the deliberate antithesis"
+        ]),
+        ("Two matched pairs, now both complete", [
+            "witless and wise, poor and prosperous —",
+            "one device, two ordinary-language registers"
+        ]),
+        ("Wealth redefined, once more", [
+            "not material prosperity —",
+            "the seven awakening factors, genuinely developed"
+        ]),
+        ("Three discourses remain in this vagga", [
+            "the sun's own repeated simile —",
+            "then two closing superlatives"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.46.html\">SN 46.46 &middot; Poor</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.48.html\">SN 46.48 &middot; The Sun</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.48 — Ādiccasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 48, "Ādicca", "The Sun",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.48 — The Sun | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ādiccasutta — a near-verbatim repeat of SN 46.12's own "
+        "dawn-and-sunrise simile, confirmed word for word except for "
+        "the Pāli synonym used for \"sun.\" From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical simile already met at SN 46.12, with "
+                 "one word substituted"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, a confirmed deliberate repeat"),
+    ],
+    why=(
+        "This discourse is confirmed, by direct Pāli comparison, to "
+        "be word-for-word identical to SN 46.12 &mdash; good "
+        "friendship as the forerunner and harbinger of the seven "
+        "awakening factors, exactly as dawn heralds the sunrise "
+        "&mdash; except that its own title and opening line use "
+        "&ldquo;ādicca&rdquo; rather than &ldquo;sūriya,&rdquo; two "
+        "Pāli synonyms both meaning &ldquo;sun.&rdquo;"
+    ),
+    guide=[
+        ("Confirmed identical, not merely similar", [
+            "Direct comparison of the two discourses' own root Pāli "
+            "text (checked segment by segment) confirms this is not a "
+            "loose thematic echo but the identical discourse, "
+            "reappearing with only a single synonym substituted "
+            "&mdash; a genuine confirmed repeat, of the kind this "
+            "project has now documented several times across both "
+            "saṃyuttas of Book V (the dragon and roof-peak similes at "
+            "SN 46.1 and 46.7, for instance).",
+        ]),
+    ],
+    terms=[
+        ("ādiccassa udayato", "&ldquo;of the sun's own rising&rdquo; "
+             "&mdash; this discourse's own opening phrase, using "
+             "&ldquo;ādicca&rdquo; where SN 46.12 used &ldquo;sūriya"
+             "&rdquo;, both standard Pāli terms for the sun"),
+        ("aruṇuggaṁ", "&ldquo;the dawn&rdquo; &mdash; the identical "
+             "term already met at SN 46.12, unchanged here"),
+        ("kalyāṇamittatā", "&ldquo;good friendship&rdquo; &mdash; "
+             "named as the forerunner of the seven awakening factors, "
+             "identically to SN 46.12's own claim"),
+        ("kalyāṇamitto bhikkhu pāṭikaṅkho", "&ldquo;a mendicant with "
+             "good friends can expect&rdquo; &mdash; the identical "
+             "claim of reliable expectation already met at SN 46.12"),
+        ("sati... upekkhā", "the seven awakening factors, named in "
+             "brief succession, identically to SN 46.12's own"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.48:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What confirms this discourse is a genuine repeat of SN 46.12, not merely a similar teaching?",
+         "opts": ["Direct segment-by-segment comparison of the root Pāli text, identical except for one synonym", "A note in the English translation stating so explicitly", "The two discourses share only a general theme, with different specific wording", "This project's own assumption, without checking the source"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, following this project's own established practice of checking rather than assuming."},
+        {"q": "What single word differs between this discourse and SN 46.12?",
+         "opts": ["The Pāli term for \"sun\" — ādicca here, sūriya at SN 46.12", "The term for \"good friendship\"", "The list of seven awakening factors itself", "The base closing formula"],
+         "correct": 0,
+         "expl": "Two standard Pāli synonyms for the same natural phenomenon."},
+        {"q": "What other confirmed repeat has this project already documented across Book V's own two saṃyuttas?",
+         "opts": ["The dragon simile (SN 45.151/46.1) and roof-peak simile (SN 45.141/46.7)", "No other repeats have been found anywhere in Book V", "Every single discourse in SN 46 repeats one from SN 45", "Only this discourse and its own SN 46.12 companion repeat"],
+         "correct": 0,
+         "expl": "A recurring pattern of shared templates confirmed across multiple points in this project's own coverage."},
+    ],
+    marginalia=[
+        ("The same dawn, a different word for sun", [
+            "ādicca here, sūriya at SN 46.12 —",
+            "confirmed identical otherwise, word for word"
+        ]),
+        ("A deliberate repeat, not an accident", [
+            "the fourth such confirmed repeat in Book V —",
+            "dragons, roof peaks, and now this sun simile twice"
+        ]),
+        ("Good friendship, still the forerunner", [
+            "the identical claim, reappearing —",
+            "heralding the seven awakening factors just as before"
+        ]),
+        ("Two discourses remain in this vagga", [
+            "interior and exterior forerunners —",
+            "closing with the canon's own superlative formula"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.47.html\">SN 46.47 &middot; "
+        "Prosperous</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.49.html\">SN 46.49 &middot; Interior</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.49 — Ajjhattikaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 49, "Ajjhattikaṅga", "Interior",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.49 — Interior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajjhattikaṅgasutta — among interior factors, nothing "
+        "gives rise to the seven awakening factors like rational "
+        "application of mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A superlative claim restricted explicitly to "
+                 "\"interior\" factors, opening this vagga's own "
+                 "closing pair"),
+        ("Length", "&lt;1 minute to read (with the source's own "
+                   "elided base formula understood)"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but with an explicit scoping condition"),
+    ],
+    why=(
+        "This discourse uses the canonical superlative formula "
+        "(&ldquo;I do not see a single thing&rdquo;) already met at "
+        "SN 46.29, but restricts its own scope explicitly to "
+        "&ldquo;interior&rdquo; (ajjhattika) factors &mdash; among "
+        "which, it claims, nothing rivals rational application of "
+        "mind for giving rise to the seven awakening factors."
+    ),
+    guide=[
+        ("A scoped superlative, not an unrestricted one", [
+            "Unlike SN 46.29's own unrestricted claim, this discourse "
+            "explicitly limits its own comparison to &ldquo;interior"
+            "&rdquo; factors &mdash; confirmed by direct reading to "
+            "set up a deliberate contrast with its own companion "
+            "discourse (SN 46.50), which makes the identical "
+            "superlative claim but restricted instead to "
+            "&ldquo;exterior&rdquo; factors.",
+        ]),
+        ("The source's own elision, honestly noted", [
+            "The consulted English translation renders this "
+            "discourse's own base formula only as an ellipsis "
+            "(&ldquo;…&rdquo;) after the opening superlative claim; "
+            "the root Pāli confirms the elided content is the "
+            "standard base formula already established throughout "
+            "this saṃyutta, and this reading guide does not invent an "
+            "English rendering for what the consulted source itself "
+            "leaves unwritten.",
+        ]),
+    ],
+    terms=[
+        ("ajjhattikaṁ aṅganti karitvā", "&ldquo;taking into account "
+             "interior factors&rdquo; &mdash; this discourse's own "
+             "explicit scoping condition, distinguishing it from SN "
+             "46.29's own unrestricted claim"),
+        ("nāññaṁ ekaṅgampi samanupassāmi", "&ldquo;I do not see a "
+             "single one [that compares]&rdquo; &mdash; the same "
+             "canonical superlative formula already met at SN 46.29, "
+             "here scoped to interior factors specifically"),
+        ("yonisomanasikāro", "&ldquo;rational application of mind"
+             "&rdquo; &mdash; the interior factor named as unmatched "
+             "for giving rise to the seven awakening factors"),
+        ("sati... upekkhā", "the seven awakening factors, understood "
+             "as this discourse's own object, per the base formula "
+             "elided in the consulted English source but confirmed in "
+             "the root Pāli"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.49:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own superlative claim differ from SN 46.29's own?",
+         "opts": ["It explicitly restricts its own scope to \"interior\" factors, rather than making an unrestricted claim", "It denies that rational application of mind has any value at all", "It makes an identical, entirely unrestricted claim", "It applies only to exterior factors"],
+         "correct": 0,
+         "expl": "Setting up a deliberate contrast with SN 46.50's own parallel claim restricted to exterior factors."},
+        {"q": "How does this reading guide handle the source's own elided base formula?",
+         "opts": ["It notes the elision honestly, confirming the elided content from the root Pāli without inventing an English rendering", "It invents a plausible-sounding completion for the missing English text", "It ignores the issue and treats the discourse as fully complete", "It claims the elided content is permanently lost"],
+         "correct": 0,
+         "expl": "Following this project's own established honest-hedging practice for elided peyyāla content."},
+        {"q": "What interior factor does this discourse claim is unmatched for giving rise to the seven awakening factors?",
+         "opts": ["Rational application of mind (yoniso manasikāra)", "Good friendship", "Physical strength", "Formal debate skill"],
+         "correct": 0,
+         "expl": "The same interior factor already established as central throughout this saṃyutta, here elevated to superlative status."},
+    ],
+    marginalia=[
+        ("A superlative, explicitly scoped", [
+            "\"interior factors,\" named directly —",
+            "not an unrestricted claim this time"
+        ]),
+        ("Rational attention, unmatched among interior factors", [
+            "confirmed by the canon's own superlative formula —",
+            "the same device already met at SN 46.29"
+        ]),
+        ("An elision honestly noted", [
+            "the English source trails into ellipsis —",
+            "the root Pāli confirms, nothing invented here"
+        ]),
+        ("One discourse remains in this vagga", [
+            "exterior factors, and good friendship —",
+            "closing this vagga and completing the pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.48.html\">SN 46.48 &middot; The Sun</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.50.html\">SN 46.50 &middot; Exterior</a> "
+        "&mdash; the next discourse, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.50 — Bāhiraṅgasutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    46, 50, "Bāhiraṅga", "Exterior",
+    vagga="Cakkavattivagga",
+    meta_title="SN 46.50 — Exterior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāhiraṅgasutta — among exterior factors, nothing gives "
+        "rise to the seven awakening factors like good friendship, "
+        "closing the Cakkavattivagga with its own colophon and "
+        "uddāna. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified — an abbreviated narrative frame"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical superlative structure as SN 46.49, "
+                 "scoped to exterior factors, closing this vagga's "
+                 "own ten discourses"),
+        ("Length", "&lt;1 minute to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own ten discourses and its "
+                       "own interior/exterior pair"),
+    ],
+    why=(
+        "This discourse completes SN 46.49's own deliberate pairing: "
+        "among &ldquo;exterior&rdquo; (bāhira) factors, nothing rivals "
+        "good friendship for giving rise to the seven awakening "
+        "factors &mdash; closing the Cakkavattivagga with a "
+        "confirmed, unambiguous colophon."
+    ),
+    guide=[
+        ("A completed pair: interior and exterior forerunners", [
+            "Together, SN 46.49 (rational application of mind, "
+            "interior) and this discourse (good friendship, exterior) "
+            "confirm a comprehensive claim: across both kinds of "
+            "condition a mendicant could rely on &mdash; one entirely "
+            "internal, one entirely dependent on others &mdash; each "
+            "has its own unmatched champion for giving rise to the "
+            "seven awakening factors, echoing the same two conditions "
+            "already paired at SN 46.12-13 and SN 46.31-32.",
+        ]),
+        ("A colophon and uddāna, confirmed without discrepancy", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Cakkavattivaggo "
+            "pañcamo&rdquo; (&ldquo;the Wheel-Turning Monarch "
+            "chapter, the fifth&rdquo;), matching this project's own "
+            "count without discrepancy. The closing uddāna names all "
+            "ten discourses of this vagga in order: Discriminations, "
+            "the Wheel-Turning Monarch, About Māra; Witless and Wise; "
+            "Poor and Prosperous; and the Sun with the two "
+            "interior/exterior factor discourses.",
+        ]),
+    ],
+    terms=[
+        ("bāhiraṁ aṅganti karitvā", "&ldquo;taking into account "
+             "exterior factors&rdquo; &mdash; this discourse's own "
+             "explicit scoping condition, completing SN 46.49's own "
+             "interior/exterior pair"),
+        ("kalyāṇamittatā", "&ldquo;good friendship&rdquo; &mdash; "
+             "the exterior factor named as unmatched for giving rise "
+             "to the seven awakening factors, echoing the identical "
+             "claim already met at SN 46.12"),
+        ("nāññaṁ ekaṅgampi samanupassāmi", "&ldquo;I do not see a "
+             "single one [that compares]&rdquo; &mdash; the same "
+             "canonical superlative formula already met at SN 46.29 "
+             "and 46.49"),
+        ("cakkavattivaggo pañcamo", "&ldquo;the Wheel-Turning "
+             "Monarch chapter, the fifth&rdquo; &mdash; unambiguous "
+             "confirmation of this vagga's own position, matching "
+             "this project's own count without discrepancy"),
+        ("tassuddānaṁ", "&ldquo;its summary verse&rdquo; &mdash; "
+             "introducing the closing uddāna naming all ten "
+             "discourses of this vagga by topic"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, closing the Cakkavattivagga. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.50:1.1"),
+    ],
+    quiz=[
+        {"q": "What comprehensive claim do SN 46.49 and this discourse make together?",
+         "opts": ["Each of the two kinds of condition — entirely internal and entirely dependent on others — has its own unmatched champion for the awakening factors", "Only interior factors matter at all; exterior factors are irrelevant", "Only exterior factors matter at all; interior factors are irrelevant", "The two discourses make contradictory claims about the same factor"],
+         "correct": 0,
+         "expl": "Echoing the same two conditions already paired at SN 46.12-13 and SN 46.31-32."},
+        {"q": "What does this vagga's own closing colophon confirm?",
+         "opts": ["An unambiguous position as the fifth vagga of this saṃyutta, matching this project's own count", "A disputed count between the fourth and fifth vagga", "That this vagga actually belongs to a different saṃyutta entirely", "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed without discrepancy, as with the preceding Nīvaraṇavagga's own colophon."},
+        {"q": "What exterior factor does this discourse name as unmatched for giving rise to the seven awakening factors?",
+         "opts": ["Good friendship (kalyāṇamittatā)", "Rational application of mind", "Physical wealth", "Formal ordination"],
+         "correct": 0,
+         "expl": "The same claim already met at SN 46.12, now framed within the explicit interior/exterior superlative pairing."},
+    ],
+    marginalia=[
+        ("Good friendship, unmatched among exterior factors", [
+            "the same claim as SN 46.12's own —",
+            "now framed as a completed pair"
+        ]),
+        ("Interior and exterior, both accounted for", [
+            "rational attention within, good friends without —",
+            "a comprehensive claim, confirmed together"
+        ]),
+        ("A colophon without discrepancy, confirmed again", [
+            "\"the Wheel-Turning Monarch chapter, the fifth\" —",
+            "matching this project's own count exactly"
+        ]),
+        ("Ten discourses, one vagga, complete", [
+            "a monarch's own treasures, Māra's army crushed —",
+            "witless and wise, poor and prosperous, and the sun twice"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.49.html\">SN 46.49 &middot; Interior</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Discussion, is still in preparation.",
+    ],
+)
