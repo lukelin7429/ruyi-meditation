@@ -26944,3 +26944,170 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.10 — Bhikkhunupassayasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 10, "Bhikkhunupassaya", "The Nuns' Quarters",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.10 — The Nuns' Quarters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhunupassayasutta — Ānanda reports the nuns' own "
+        "progress to the Buddha, who teaches two distinct modes of "
+        "developing the four kinds of mindfulness meditation: "
+        "directed development, using an inspiring object against "
+        "sluggishness, and undirected development, a mind already "
+        "unconstricted and free. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The nuns' quarters, then the Buddha's own "
+                     "dwelling, near Sāvatthī"),
+        ("Speakers", "Venerable Ānanda, several nuns, and the Buddha"),
+        ("Form", "A narrative frame (Ānanda visits, reports, is "
+                 "taught) around a substantial doctrinal teaching in "
+                 "two parts"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; a genuinely technical account of two "
+                       "distinct meditative processes"),
+    ],
+    why=(
+        "Several nuns report to Ānanda that mindfulness meditation "
+        "has brought them &ldquo;a higher distinction than they had "
+        "before&rdquo;; Ānanda confirms this to the Buddha, who then "
+        "teaches two distinct ways the practice develops: "
+        "&ldquo;directed development,&rdquo; where a mind troubled "
+        "by sluggishness or distraction is deliberately roused "
+        "toward joy and then allowed to relax, and &ldquo;undirected "
+        "development,&rdquo; where the mind is already "
+        "&ldquo;unconstricted, freed, and undirected&rdquo; without "
+        "needing to be roused at all."
+    ),
+    guide=[
+        ("A report relayed through two conversations", [
+            "Confirmed by direct reading, the discourse's own "
+            "structure carries a single observation through two "
+            "separate conversations: nuns tell Ānanda that "
+            "mindfulness meditation brings &ldquo;a higher "
+            "distinction than they had before,&rdquo; Ānanda confirms "
+            "this is generally true for &ldquo;any monk or nun,&rdquo; "
+            "and only then does he relay the exchange to the Buddha, "
+            "who confirms it a third time before teaching the "
+            "mechanism behind it.",
+        ]),
+        ("Directed development: rousing a sluggish or scattered mind", [
+            "When observing the body (or feelings, mind, or "
+            "principles) produces &ldquo;sweltering in the body, "
+            "mental sluggishness, or&rdquo; an externally scattered "
+            "mind, the mendicant is instructed to deliberately "
+            "&ldquo;direct their mind towards an inspiring subject as "
+            "a basis for meditation&rdquo; &mdash; triggering, in "
+            "sequence, joy, rapture, bodily tranquility, bliss, and "
+            "immersion in samādhi &mdash; after which the meditator "
+            "consciously RELAXES that same directed effort, no longer "
+            "placing or sustaining thought.",
+        ]),
+        ("Undirected development: a mind already free", [
+            "By contrast, &ldquo;undirected development&rdquo; is "
+            "confirmed by direct reading to require no rousing at "
+            "all: the mendicant simply understands, directly, that "
+            "&ldquo;my mind is not directed externally&rdquo; and that "
+            "it is &ldquo;before and behind... unconstricted, freed, "
+            "and undirected&rdquo; &mdash; a mode of practice this "
+            "discourse presents as genuinely distinct from, not a "
+            "further stage of, the directed process just described.",
+        ]),
+        ("A closing instruction, given \"out of sympathy\"", [
+            "The Buddha's own closing words &mdash; naming both modes "
+            "&ldquo;out of sympathy... what a teacher should do who "
+            "wants what's best for their disciples&rdquo; &mdash; are "
+            "confirmed by direct reading to end with a direct, "
+            "personal charge to Ānanda: practice absorption at the "
+            "foot of a tree or in an empty hut, without negligence, "
+            "so as not to regret it later.",
+        ]),
+    ],
+    terms=[
+        ("uḷāraṁ pubbenāparaṁ visesaṁ", "&ldquo;a higher distinction "
+             "than they had before&rdquo; &mdash; the nuns' own "
+             "reported progress, confirmed by the Buddha to apply to "
+             "&ldquo;any monk or nun&rdquo;"),
+        ("kāyasmiṁ pariḷāho, cetaso vā līnattaṁ, bahiddhā vā cittaṁ "
+             "vikkhipati", "&ldquo;sweltering in the body, or mental "
+             "sluggishness, or the mind is externally "
+             "scattered&rdquo; &mdash; the three obstacles that "
+             "prompt directed development"),
+        ("pasādanīye nimitte cittaṁ paṇidahitabbaṁ", "&ldquo;direct "
+             "their mind towards an inspiring subject as a basis for "
+             "meditation&rdquo; &mdash; the deliberate act at the "
+             "start of directed development"),
+        ("na ca vitakketi na ca vicāreti", "&ldquo;neither place the "
+             "mind nor keep it connected&rdquo; &mdash; the conscious "
+             "relaxation of directed effort once its goal is "
+             "accomplished"),
+        ("asaṅkhittaṁ vimuttaṁ appaṇihitaṁ", "&ldquo;unconstricted, "
+             "freed, and undirected&rdquo; &mdash; the mind's own "
+             "condition in undirected development, requiring no "
+             "rousing at all"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the nuns' own report to Ānanda",
+             "sn47.10:1.1-3.2"),
+        ("p", "&sect;2 &mdash; the Buddha confirms it",
+             "sn47.10:5.1-5.3"),
+        ("p", "&sect;3 &mdash; directed development",
+             "sn47.10:6.1-7.16"),
+        ("p", "&sect;4 &mdash; undirected development",
+             "sn47.10:8.1-8.14"),
+        ("p", "&sect;5 &mdash; a closing instruction to Ānanda",
+             "sn47.10:9.1-9.3"),
+        ("p", "&sect;6 &mdash; closing", "sn47.10:10.1-10.2"),
+    ],
+    quiz=[
+        {"q": "What prompts a mendicant to begin \"directed development\" in this discourse?",
+         "opts": ["Sweltering in the body, mental sluggishness, or an externally scattered mind arising during mindfulness practice", "A direct request from a teacher", "The completion of a fixed number of meditation sessions", "A specific time of day"],
+         "correct": 0,
+         "expl": "The three obstacles that call for deliberately directing the mind toward an inspiring subject."},
+        {"q": "What happens after the meditator accomplishes the goal of directed development (joy, rapture, tranquility, bliss, immersion)?",
+         "opts": ["They consciously relax, no longer placing or sustaining thought", "They immediately begin a completely different meditation subject", "They report their progress to a senior mendicant", "They stop meditating for the day"],
+         "correct": 0,
+         "expl": "The deliberate release of directed effort once its purpose has been served."},
+        {"q": "How does \"undirected development\" differ from \"directed development\"?",
+         "opts": ["It requires no rousing at all — the mind is already understood to be unconstricted, freed, and undirected", "It is simply a longer version of directed development", "It can only be practiced by nuns, not monks", "It requires more inspiring objects than directed development"],
+         "correct": 0,
+         "expl": "Presented as a genuinely distinct mode of practice, not a further stage of the directed process."},
+    ],
+    marginalia=[
+        ("A report passed through two conversations", [
+            "nuns to Ānanda, Ānanda to the Buddha —",
+            "confirmed true at every step"
+        ]),
+        ("Rousing a sluggish mind toward joy", [
+            "an inspiring object, then rapture, then bliss —",
+            "immersion reached, then deliberately released"
+        ]),
+        ("A mind already free, needing no rousing", [
+            "\"unconstricted, freed, and undirected\" —",
+            "a genuinely different mode, not a further stage"
+        ]),
+        ("\"Out of sympathy\" -- a personal charge to Ānanda", [
+            "roots of trees, empty huts, no negligence —",
+            "\"don't regret it later,\" the Buddha's own words"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.9.html\">SN 47.9 &middot; Sick</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
