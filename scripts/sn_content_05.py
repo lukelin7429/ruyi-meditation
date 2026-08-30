@@ -47219,3 +47219,160 @@ page_range(
         "the one this cross-reference selects.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.77-88 — Punabalakaraṇīyavaggo (bare cross-reference, own vagga)
+# Vagga 7, confirmed by direct reading of the root Pāli's own "0.2"
+# field ("7. Punabalakaraṇīyavagga") to be its OWN standalone vagga
+# -- a genuine structural difference from SN 48's own equivalent
+# pattern, where Punaappamādavagga and Punabalakaraṇīyavagga were
+# both sub-sections nested within a single Vagga 13. Here, SN
+# 50.67-76 (Punaappamādavagga) remains nested within Vagga 6, but
+# this file opens its own separately-numbered Vagga 7. A genuine
+# Pāli/English discrepancy in the cross-reference note is again
+# reported honestly: the Pāli root names two vaggas
+# ("Appamādavagga-balakaraṇīyavaggā vitthāretabbā"), while the
+# English source specifies only SN 45.149-160.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 77, 88, "Punabalakaraṇīya", "Another Chapter on Hard Work",
+    vagga="Punabalakaraṇīyavagga",
+    meta_title="SN 50.77–88 — Another Chapter on Hard Work | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.77–88 — twelve discourses on hard work, cross-"
+        "referenced in full to this project's own already-completed "
+        "Balakaraṇīyavagga, here its own standalone vagga rather than "
+        "a nested sub-section. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single cross-reference instruction; its own "
+                 "standalone vagga, not a nested sub-section"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a genuine structural difference "
+                         "from SN 48's own equivalent pattern, "
+                         "confirmed by direct reading"),
+    ],
+    why=(
+        "Confirmed by direct reading of the root Pāli's own "
+        "&ldquo;0.2&rdquo; field, this file opens its own "
+        "standalone Vagga 7 (Punabalakaraṇīyavagga) &mdash; "
+        "genuinely different from SN 48's own equivalent structure, "
+        "where the parallel Punabalakaraṇīyavagga content was "
+        "nested as a sub-section within a single larger vagga. A "
+        "genuine Pāli/English discrepancy in the cross-reference "
+        "note is again reported honestly rather than harmonized."
+    ),
+    guide=[
+        ("A genuinely different vagga structure from SN 48", [
+            "This project's own explicit observation: at SN 48, "
+            "Punaappamādavagga and Punabalakaraṇīyavagga were both "
+            "sub-sections nested within a single Vagga 13 "
+            "(Punagaṅgāpeyyālavagga), confirmed by both files "
+            "sharing the same &ldquo;0.2&rdquo; field. Here at SN "
+            "50, Punaappamādavagga (SN 50.67-76) remains nested "
+            "within Vagga 6, but this file's own &ldquo;0.2&rdquo; "
+            "field reads &ldquo;7. Punabalakaraṇīyavagga&rdquo; "
+            "&mdash; its own separately-numbered vagga, not a "
+            "further sub-section.",
+        ]),
+        ("A genuine Pāli/English discrepancy, reported honestly", [
+            "Matching the pattern already confirmed at SN 48.159-168 "
+            "and SN 49.35-44, this file's own root Pāli cross-"
+            "reference names two vaggas together (&ldquo;"
+            "Appamādavagga-balakaraṇīyavaggā vitthāretabbā,&rdquo; "
+            "&ldquo;the Diligence and Hard Work chapters are to be "
+            "elaborated&rdquo;), while the English source specifies "
+            "only &ldquo;SN 45.149&ndash;160, removal of greed "
+            "version&rdquo; &mdash; matching this vagga's own actual "
+            "content (hard work) alone. Both readings are quoted "
+            "rather than one being silently picked.",
+        ]),
+        ("Twelve discourses, matching the established similes", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.149-160: "
+            "the twelve similes are hard work, seeds, a dragon, a "
+            "tree, a pot, a spike, the atmosphere, two on clouds, a "
+            "ship, a guest house, and a river, here applied to the "
+            "developed five powers.",
+        ]),
+    ],
+    terms=[
+        ("Punabalakaraṇīyavaggo", "&ldquo;Another Hard Work "
+             "Chapter&rdquo; &mdash; this file's own standalone "
+             "vagga, unlike SN 48's own nested version of the same "
+             "content"),
+        ("Appamādavagga-balakaraṇīyavaggā vitthāretabbā", "&ldquo;the "
+             "Diligence and Hard Work chapters are to be "
+             "elaborated&rdquo; &mdash; the root Pāli's own compound "
+             "cross-reference, naming two vaggas together"),
+        ("tell in full as in SN 45.149-160, removal of greed version",
+             "the English source's own more specific instruction, "
+             "matching this vagga's own actual content alone"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; confirmed "
+             "present at SN 45.149 as this vagga's own selected "
+             "variant"),
+        ("balakaraṇīya", "&ldquo;requiring strength/hard work&rdquo; "
+             "&mdash; this vagga's own governing theme, now given "
+             "its own standalone position as Vagga 7"),
+    ],
+    text_intro=("The complete content of this file: its own bare "
+        "cross-reference note, given in both the Pāli root's own "
+        "broader form and the English source's own more specific "
+        "form. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.77-88:1.1"),
+    ],
+    quiz=[
+        {"q": "What genuine structural difference does this file confirm compared to SN 48's own equivalent pattern?",
+         "opts": ["Here Punabalakaraṇīyavagga is its own standalone vagga (7), unlike SN 48 where the equivalent content was nested within a single larger vagga", "The two structures are identical in every respect", "SN 50 has no Punabalakaraṇīyavagga content at all", "This vagga is nested within Vagga 6, exactly like SN 48's own version"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of each file's own root Pāli \"0.2\" field."},
+        {"q": "What discrepancy does this project report honestly between the Pāli root and the English source?",
+         "opts": ["The Pāli names two vaggas together in its cross-reference, while the English source specifies only the hard-work content", "There is no discrepancy at all", "The English source names two vaggas while the Pāli names one", "The Pāli gives no cross-reference at all"],
+         "correct": 0,
+         "expl": "Both readings quoted rather than silently harmonized, matching the pattern already seen at SN 48.159-168 and SN 49.35-44."},
+        {"q": "How many discourses does this vagga represent, and what similes does the established canonical background confirm?",
+         "opts": ["Twelve: hard work, seeds, a dragon, a tree, a pot, a spike, the atmosphere, two on clouds, a ship, a guest house, and a river", "Ten similes, matching the diligence vagga instead", "Five similes, matching the five powers", "A single simile repeated twelve times"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.149-160."},
+    ],
+    marginalia=[
+        ("A structure that differs from SN 48", [
+            "there, nested within one larger vagga —",
+            "here, its own separately-numbered Vagga 7"
+        ]),
+        ("Two names in one instruction, again", [
+            "Pāli mentions Diligence and Hard Work together —",
+            "English names only the hard-work content"
+        ]),
+        ("Twelve similes, held elsewhere in full", [
+            "hard work, seeds, a dragon, a river —",
+            "the content lives at SN 45.149"
+        ]),
+        ("Seventh vagga, its own position", [
+            "not a sub-section this time —",
+            "Punabalakaraṇīyavagga stands alone"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.77-88/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.67-76.html\">SN 50.67&ndash;76 &middot; "
+        "Another Chapter on Diligence</a> &mdash; the previous "
+        "page, closing Vagga 6.",
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard "
+        "Work</a> &mdash; this project's own earlier, fully "
+        "expanded treatment of the identical twelve similes.",
+    ],
+)
