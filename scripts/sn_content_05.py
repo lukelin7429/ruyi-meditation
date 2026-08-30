@@ -29791,3 +29791,155 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.29 — Sirivaḍḍhasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 29, "Sirivaḍḍha", "With Sirivaḍḍha",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.29 — With Sirivaḍḍha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sirivaḍḍhasutta — a gravely ill layman, visited by "
+        "Ānanda, reveals he already practices the four kinds of "
+        "mindfulness meditation and has given up all five lower "
+        "fetters, and is declared to have attained the fruit of "
+        "non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The householder Sirivaḍḍha's own home, near "
+                     "Rājagaha"),
+        ("Speakers", "Venerable Ānanda and the householder "
+                     "Sirivaḍḍha"),
+        ("Form", "A sickbed visit, a teaching offered, and an "
+                 "unexpected declaration"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a rare canonical example of a lay "
+                         "follower's own declared attainment of "
+                         "non-return"),
+    ],
+    why=(
+        "Gravely ill and in growing, not fading, pain, the "
+        "householder Sirivaḍḍha sends for Ānanda. Expecting to teach "
+        "him the practice, Ānanda instead learns something "
+        "remarkable: Sirivaḍḍha ALREADY practices the four kinds of "
+        "mindfulness meditation and has given up every one of the "
+        "five lower fetters. Ānanda's own response is immediate and "
+        "unambiguous: Sirivaḍḍha has declared the fruit of "
+        "non-return &mdash; the third of the four stages of "
+        "awakening, ordinarily associated with monastic attainment "
+        "rather than lay life."
+    ),
+    guide=[
+        ("A worsening illness, honestly reported", [
+            "Confirmed by direct reading, when Ānanda's own courteous "
+            "opening inquiry hopes the pain is &ldquo;fading, not "
+            "growing,&rdquo; Sirivaḍḍha does not offer a polite "
+            "deflection but answers honestly: &ldquo;the pain is "
+            "terrible and growing, not fading.&rdquo;",
+        ]),
+        ("A teaching offered, then found already present", [
+            "Ānanda's own instruction &mdash; to train in the four "
+            "kinds of mindfulness meditation &mdash; is confirmed by "
+            "direct reading to be met not with acceptance of new "
+            "instruction but with Sirivaḍḍha's own declaration that "
+            "these exact four practices &ldquo;are found in me, and I "
+            "exhibit them,&rdquo; reversing the expected direction of "
+            "the exchange.",
+        ]),
+        ("Every one of the five lower fetters, given up", [
+            "Sirivaḍḍha's own second claim is confirmed by direct "
+            "reading to be total, not partial: &ldquo;of the five "
+            "lower fetters taught by the Buddha, I don't see any that "
+            "I haven't given up&rdquo; &mdash; the precise criterion "
+            "for the fruit of non-return (anāgāmi), the third of the "
+            "four traditional stages of awakening.",
+        ]),
+        ("Ānanda's own immediate, unqualified confirmation", [
+            "Ānanda's own response &mdash; &ldquo;you're fortunate, "
+            "householder, so very fortunate!&rdquo; &mdash; is "
+            "confirmed by direct reading to declare the attainment "
+            "outright, without the kind of testing or Socratic "
+            "questioning found in some of this project's own other "
+            "discourses (compare SN 47.12's own threefold challenge "
+            "to Sāriputta).",
+        ]),
+    ],
+    terms=[
+        ("gahapati sirivaḍḍho ābādhiko dukkhito bāḷhagilāno",
+             "&ldquo;the householder Sirivaḍḍha is sick, suffering, "
+             "gravely ill&rdquo; &mdash; the discourse's own opening "
+             "description of the illness prompting Ānanda's own visit"),
+        ("cattāro satipaṭṭhānā... saṁvijjanti, te dhammā mayi",
+             "&ldquo;these four kinds of mindfulness meditation... "
+             "are found in me&rdquo; &mdash; Sirivaḍḍha's own "
+             "declaration that he already practices what Ānanda has "
+             "just taught"),
+        ("pañcorambhāgiyāni saṁyojanāni", "&ldquo;the five lower "
+             "fetters&rdquo; &mdash; the specific set Sirivaḍḍha "
+             "claims to have entirely given up"),
+        ("nāhaṁ tesaṁ kiñci attani appahīnaṁ samanupassāmi", "&ldquo;"
+             "I don't see any that I haven't given up&rdquo; &mdash; "
+             "Sirivaḍḍha's own total, not partial, claim"),
+        ("anāgāmiphalaṁ tayā byākataṁ", "&ldquo;you have declared "
+             "the fruit of non-return&rdquo; &mdash; Ānanda's own "
+             "immediate confirmation of the third of the four "
+             "traditional stages of awakening"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; a sickbed summons", "sn47.29:1.1-1.13"),
+        ("p", "&sect;2 &mdash; a worsening illness, honestly "
+              "reported", "sn47.29:2.1-2.3"),
+        ("p", "&sect;3 &mdash; Ānanda's own teaching",
+             "sn47.29:3.1-3.6"),
+        ("p", "&sect;4 &mdash; a declaration, and its confirmation",
+             "sn47.29:4.1-4.8"),
+    ],
+    quiz=[
+        {"q": "How does Sirivaḍḍha answer Ānanda's courteous hope that his pain is fading?",
+         "opts": ["Honestly — the pain is terrible and growing, not fading", "He deflects the question politely without answering directly", "He claims to feel no pain at all", "He refuses to discuss his own illness"],
+         "correct": 0,
+         "expl": "A direct, unvarnished report rather than a polite deflection."},
+        {"q": "How does Sirivaḍḍha respond when Ānanda teaches him the four kinds of mindfulness meditation?",
+         "opts": ["He reveals he already practices these exact four practices, reversing the expected direction of the exchange", "He asks Ānanda to explain the teaching again", "He rejects the teaching as unsuitable for a layperson", "He asks for a completely different teaching instead"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the teacher's own instruction turns out to describe the student's own existing practice."},
+        {"q": "What does Ānanda declare after hearing Sirivaḍḍha's own claims about mindfulness and the five lower fetters?",
+         "opts": ["That Sirivaḍḍha has declared the fruit of non-return, the third of the four traditional stages of awakening", "That Sirivaḍḍha should ordain as a monk immediately", "That Sirivaḍḍha's claims cannot be verified", "That Sirivaḍḍha needs further instruction before any attainment can be confirmed"],
+         "correct": 0,
+         "expl": "An immediate, unqualified confirmation — a rare canonical example of a lay follower's declared high attainment."},
+    ],
+    marginalia=[
+        ("Honesty over politeness", [
+            "\"the pain is terrible and growing\" —",
+            "no deflection, even to a visiting elder"
+        ]),
+        ("A teaching already fulfilled", [
+            "the exact practice Ānanda comes to teach —",
+            "\"found in me, and I exhibit them\""
+        ]),
+        ("Every fetter, not merely some", [
+            "\"I don't see any that I haven't given up\" —",
+            "a total claim, not a partial one"
+        ]),
+        ("A rare lay attainment, confirmed outright", [
+            "\"you're fortunate, so very fortunate!\" —",
+            "the fruit of non-return, declared without testing"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.28.html\">SN 47.28 &middot; The World</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
