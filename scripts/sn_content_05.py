@@ -48369,3 +48369,137 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.6 — Samattasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 6, "Samatta", "Completely",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.6 — Completely | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samattasutta — every ascetic and brahmin who has "
+        "completely manifested psychic power has done so through "
+        "the same four bases. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching SN 51.5's own "
+                     "identical structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A threefold temporal claim, identical to SN "
+                 "51.5's own, but for complete rather than partial "
+                 "manifestation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; confirms a deliberate pair with SN "
+                         "51.5, partial and complete manifestation "
+                         "traced to the identical four bases"),
+    ],
+    why=(
+        "This discourse mirrors SN 51.5's own structure exactly, "
+        "substituting &ldquo;samattaṁ iddhiṁ&rdquo; (&ldquo;complete "
+        "psychic power&rdquo;) for &ldquo;iddhipadesaṁ&rdquo; "
+        "(&ldquo;a portion of psychic power&rdquo;) &mdash; "
+        "confirming a deliberate pair rather than a coincidental "
+        "repetition, both partial and complete manifestation traced "
+        "to the same four bases."
+    ),
+    guide=[
+        ("A confirmed pair with SN 51.5", [
+            "Confirmed by direct comparison, this discourse's own "
+            "text is word-for-word identical to SN 51.5's own except "
+            "for a single substitution &mdash; &ldquo;samattaṁ "
+            "iddhiṁ&rdquo; (complete) in place of "
+            "&ldquo;iddhipadesaṁ&rdquo; (partial) &mdash; confirming "
+            "these two discourses form a deliberate pair covering "
+            "both ends of the same spectrum.",
+        ]),
+        ("Samatta: whole, entire, complete", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;samatta&rdquo; (&ldquo;complete, whole, "
+            "entire&rdquo;) stands in direct contrast to SN 51.5's "
+            "own &ldquo;padesa&rdquo; (&ldquo;portion, part&rdquo;), "
+            "marking the upper end of the same range of "
+            "manifestation this pair of discourses covers together.",
+        ]),
+        ("The same universal claim, now for the fullest attainment", [
+            "This discourse's own claim spans the identical three "
+            "time periods and the identical &ldquo;ascetics and "
+            "brahmins&rdquo; of any tradition already met at SN "
+            "51.5, now specifying that even the most complete "
+            "manifestation of psychic power, by anyone, anywhere, "
+            "traces to these same four bases.",
+        ]),
+    ],
+    terms=[
+        ("samattaṁ iddhiṁ abhinipphādesuṁ", "&ldquo;have completely "
+             "manifested psychic power&rdquo; &mdash; the sole "
+             "substitution distinguishing this discourse from SN "
+             "51.5's own identical structure"),
+        ("samatta", "&ldquo;complete, whole, entire&rdquo; &mdash; "
+             "standing in direct contrast to SN 51.5's own "
+             "&ldquo;padesa&rdquo; (portion, part)"),
+        ("atītamaddhānaṁ...anāgatamaddhānaṁ...etarahi", "&ldquo;in "
+             "the past... in the future... at present&rdquo; "
+             "&mdash; the identical threefold temporal span already "
+             "met at SN 51.5"),
+        ("samaṇā vā brāhmaṇā vā", "&ldquo;ascetics and "
+             "brahmins&rdquo; &mdash; the identical universal scope "
+             "already met at SN 51.5"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "sixth discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.6:1.1-1.3"),
+        ("p", "&sect;2", "sn51.6:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 51.5?",
+         "opts": ["It mirrors SN 51.5's own text exactly, substituting \"complete\" for \"partial\" manifestation of psychic power", "It contradicts SN 51.5's own claim entirely", "It applies to a completely unrelated topic", "It is identical in every word, with no substitution at all"],
+         "correct": 0,
+         "expl": "A deliberate pair, confirmed by direct comparison, covering both ends of the same spectrum."},
+        {"q": "What does \"samatta\" mean, as general canonical background?",
+         "opts": ["Complete, whole, entire — in direct contrast to SN 51.5's own \"padesa\" (portion)", "A synonym for \"partial\" or \"incomplete\"", "A term unrelated to any measure of completeness", "A word meaning \"never\" or \"nothing\""],
+         "correct": 0,
+         "expl": "The upper end of the same range of manifestation this pair of discourses covers together."},
+        {"q": "What claim does this discourse make about complete psychic power manifestation?",
+         "opts": ["That it traces to the same four bases, for anyone of any tradition, across past, present, and future", "That only the Buddha's own disciples can achieve it", "That it is impossible for anyone to achieve", "That it requires a completely different set of qualities from partial manifestation"],
+         "correct": 0,
+         "expl": "The identical universal claim already met at SN 51.5, now for the fullest attainment."},
+    ],
+    marginalia=[
+        ("One word changed, a pair confirmed", [
+            "padesa becomes samatta —",
+            "portion becomes whole"
+        ]),
+        ("The same range, both ends covered", [
+            "SN 51.5 named the partial —",
+            "this discourse names the complete"
+        ]),
+        ("Universal, at the fullest measure too", [
+            "any tradition, any era —",
+            "even complete mastery traces here"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "a confirmed companion, not a repeat —",
+            "the vagga's own sequence continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.5.html\">SN 51.5 &middot; Partly</a> "
+        "&mdash; the previous discourse, and this discourse's own "
+        "confirmed pair.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
