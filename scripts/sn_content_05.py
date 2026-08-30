@@ -34845,3 +34845,142 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.9 — Paṭhamavibhaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 9, "Paṭhamavibhaṅga", "Analysis (1st)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.9 — Analysis (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamavibhaṅgasutta — the first discourse in this "
+        "saṃyutta to actually define each of the five faculties in "
+        "turn, including the classic ninefold recollection-of-the-"
+        "Buddha formula for faith. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Five paired questions and answers, each giving a "
+                 "full definition of one faculty"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the first discourse in this "
+                         "saṃyutta to actually define each faculty, "
+                         "rather than merely naming, mapping, or "
+                         "applying a lens to it"),
+    ],
+    why=(
+        "Every discourse so far in this saṃyutta has NAMED the five "
+        "faculties, applied an analytical lens to them, or mapped "
+        "them onto other groupings &mdash; but this is the FIRST "
+        "discourse to actually DEFINE each one individually, "
+        "including, for the faculty of faith, the canon's own "
+        "classic ninefold formula recollecting the Buddha's own "
+        "qualities."
+    ),
+    guide=[
+        ("Faith, defined through the ninefold recollection formula", [
+            "Confirmed by direct reading, the faculty of faith is "
+            "defined here through the canon's own well-known "
+            "ninefold formula &mdash; &ldquo;perfected, a fully "
+            "awakened Buddha, accomplished in knowledge and conduct, "
+            "holy, knower of the world, supreme guide for those fit "
+            "for training, teacher of gods and humans, awakened, "
+            "blessed&rdquo; &mdash; the same recollection formula "
+            "this project has met defining faith elsewhere in the "
+            "canon.",
+        ]),
+        ("Energy, mindfulness, and immersion, each given its own working definition", [
+            "Confirmed by direct reading, energy is defined as being "
+            "roused up for giving up unskillful qualities and "
+            "embracing skillful ones, strong and staunchly "
+            "vigorous; mindfulness as utmost mindfulness and "
+            "alertness, able to recall what was said and done long "
+            "ago; and immersion as gaining unification of mind by "
+            "relying on letting go (vossaggārammaṇa).",
+        ]),
+        ("Wisdom, defined by its own object -- arising and passing away", [
+            "Confirmed by direct reading, the faculty of wisdom is "
+            "defined here as &ldquo;the wisdom of arising and "
+            "passing away&rdquo; (udayatthagāminī paññā) &mdash; "
+            "noble, penetrative, and leading to the complete ending "
+            "of suffering &mdash; naming impermanence itself as "
+            "wisdom's own proper object in this discourse.",
+        ]),
+    ],
+    terms=[
+        ("itipi so bhagavā arahaṁ sammāsambuddho...", "the classic "
+             "ninefold recollection-of-the-Buddha formula, given "
+             "here in full as the content of faith itself"),
+        ("āraddhavīriyo... thāmavā daḷhaparakkamo", "&ldquo;energy "
+             "roused up... strong, staunchly vigorous&rdquo; "
+             "&mdash; the definition of the faculty of energy"),
+        ("paramena satinepakkena", "&ldquo;with utmost mindfulness "
+             "and alertness&rdquo; &mdash; part of the definition of "
+             "the faculty of mindfulness, paired with the ability to "
+             "recall what was said and done long ago"),
+        ("vossaggārammaṇaṁ karitvā", "&ldquo;relying on letting "
+             "go&rdquo; &mdash; the condition given for gaining "
+             "immersion, this discourse's own definition of the "
+             "faculty of immersion"),
+        ("udayatthagāminī paññā", "&ldquo;the wisdom of arising and "
+             "passing away&rdquo; &mdash; this discourse's own "
+             "definition of the faculty of wisdom, naming "
+             "impermanence as its proper object"),
+    ],
+    text_intro=("The complete discourse, in its own five parts. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; faith", "sn48.9:1.1-1.7"),
+        ("p", "&sect;2 &mdash; energy", "sn48.9:2.1-2.3"),
+        ("p", "&sect;3 &mdash; mindfulness", "sn48.9:3.1-3.3"),
+        ("p", "&sect;4 &mdash; immersion", "sn48.9:4.1-4.3"),
+        ("p", "&sect;5 &mdash; wisdom", "sn48.9:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from every earlier discourse in this saṃyutta?",
+         "opts": ["It is the first to actually define each faculty individually, rather than naming, analyzing, or mapping them", "It is the first to name the five faculties at all", "It denies that the five faculties exist", "It applies the exact same lens already met at SN 48.2"],
+         "correct": 0,
+         "expl": "Every earlier discourse named, analyzed, or mapped the faculties — this one defines each in turn."},
+        {"q": "How is the faculty of faith defined in this discourse?",
+         "opts": ["Through the canon's own classic ninefold formula recollecting the Buddha's own qualities", "As simply believing whatever one is told", "As faith in a specific named teacher other than the Buddha", "This discourse gives no definition of faith"],
+         "correct": 0,
+         "expl": "The same recollection formula this project has met defining faith elsewhere in the canon."},
+        {"q": "What is named as wisdom's own proper object in this discourse?",
+         "opts": ["Arising and passing away — impermanence itself", "The names of all five faculties", "Historical events from the Buddha's own life", "The geography of the regions the Buddha traveled"],
+         "correct": 0,
+         "expl": "The wisdom of arising and passing away, noble, penetrative, and leading to the complete ending of suffering."},
+    ],
+    marginalia=[
+        ("The first true definition, not just a name", [
+            "every earlier discourse named or mapped —",
+            "this one actually defines each faculty"
+        ]),
+        ("Faith — the classic ninefold formula", [
+            "perfected, fully awakened, knower of the world —",
+            "recollection of the Buddha himself"
+        ]),
+        ("Wisdom's own object — arising and passing away", [
+            "impermanence itself, named directly —",
+            "noble, penetrative, ending suffering"
+        ]),
+        ("\"(1st)\" once more — a companion likely ahead", [
+            "Paṭhamavibhaṅga signals a second version —",
+            "content to be confirmed, not assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.8.html\">SN 48.8 &middot; Should Be "
+        "Seen</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
