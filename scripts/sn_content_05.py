@@ -11872,3 +11872,1204 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 13. Esanāvagga — Searches (SN 45.161-170)
+# Confirmed by direct bilara-data reading: this vagga's own controlling
+# discourse, SN 45.161 (Searches), introduces a genuinely new dimension of
+# variation beyond the fourfold closing-formula already met throughout Book
+# V — the VERB describing the path's own relationship to its object also
+# varies, across four terms (direct knowledge, complete understanding,
+# finishing, giving up), each of which could in principle combine with each
+# of the four closing formulas, a 4x4 matrix only ever partially written
+# out even in the controlling discourse itself. Every subsequent discourse
+# (162-169) compresses all sixteen combinations into a single sentence
+# naming all four verbs together, paired with only the base formula, before
+# an explicit "tell in full" instruction (present in the source for 162,
+# and structurally implied by the vagga's own established pattern for
+# 163-169, whose sources omit even that explicit note). SN 45.170 is
+# unusual: its single bilara-data file actually bundles TWO traditionally
+# numbered discourses (Taṇhāsutta, "Craving," the tenth, and Tasināsutta,
+# "Thirst," the eleventh) — confirmed by the Pāli root's own closing
+# numerals — making this an eleven-discourse vagga across ten pages.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.161 — Esanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 161, "Esanā", "Searches",
+    vagga="Esanāvagga",
+    meta_title="SN 45.161 — Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Esanāsutta &mdash; opening a new vagga on the three "
+        "searches, and introducing a second axis of variation beyond "
+        "the closing formula: the verb describing the path's own "
+        "task. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Seven numbered parts: four combining the base topic "
+                 "with each of the four closing formulas, three more "
+                 "varying the governing verb itself"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the most structurally complex discourse in "
+                       "this vagga"),
+    ],
+    why=(
+        "A new vagga begins, with the three searches (for sensual "
+        "pleasures, for continued existence, and for a spiritual "
+        "path) as its own opening topic &mdash; but this discourse's "
+        "own real significance is structural: it is the only "
+        "discourse in this vagga to demonstrate that the path can be "
+        "described as developed not only toward four different "
+        "culminations, but also via four different verbs (direct "
+        "knowledge, complete understanding, finishing, giving up), "
+        "confirmed by direct reading rather than assumed from the "
+        "vagga's own name."
+    ),
+    guide=[
+        ("A matrix, only partially written out", [
+            "Parts 1 through 4 restate the three searches with each "
+            "of the four closing formulas already met throughout "
+            "Book V (base; removal of greed, hate, delusion; freedom "
+            "from death; self-referential extinguishment) &mdash; all "
+            "paired with the verb &ldquo;directly know.&rdquo; Parts "
+            "5, 6, and 7 then introduce three further verbs "
+            "(&ldquo;completely understand,&rdquo; &ldquo;finish,"
+            "&rdquo; &ldquo;give up&rdquo;), each given only its own "
+            "opening line before an explicit source instruction to "
+            "&ldquo;tell in full&rdquo; with that verb substituted "
+            "&mdash; implying, by the same logic as Parts 1-4, that "
+            "each of these three verbs could also combine with all "
+            "four closing formulas, a full matrix of sixteen "
+            "combinations that the source itself never writes out in "
+            "its entirety.",
+        ]),
+        ("Described, not invented", [
+            "This reading guide quotes every genuinely written "
+            "segment (Parts 1-4 in full, and the opening lines plus "
+            "elaboration instructions of Parts 5-7) without inventing "
+            "the twelve further combinations the source itself leaves "
+            "to the reader's own inference.",
+        ]),
+    ],
+    terms=[
+        ("tisso esanā", "&ldquo;the three searches&rdquo;: for "
+             "sensual pleasures (kāmesanā), for continued existence "
+             "(bhavesanā), and for a spiritual path (brahmacariyesanā)"),
+        ("abhiññāya", "&ldquo;directly know&rdquo; &mdash; the first "
+             "of four verbs this discourse pairs with the eightfold "
+             "path's own development, used throughout Parts 1-4"),
+        ("pariññāya... parikkhayāya... pahānāya", "&ldquo;completely "
+             "understand... finish... give up&rdquo; &mdash; the "
+             "three further verbs introduced in Parts 5, 6, and 7 "
+             "respectively, each only partially elaborated in the "
+             "source"),
+        ("vitthāretabbaṁ", "&ldquo;to be told in full&rdquo; &mdash; "
+             "the source's own recurring elaboration instruction, "
+             "confirming the implied but unwritten combinations"),
+        ("ariyo aṭṭhaṅgiko maggo", "the noble eightfold path, its own "
+             "base-formula definition restated identically in each "
+             "of this discourse's own seven parts"),
+    ],
+    text_intro=("Every genuinely written segment across this "
+        "discourse's own seven parts, including its own elaboration "
+        "instructions. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "Part 1 &mdash; directly know, the base formula",
+             "sn45.161:1.1-1.9"),
+        ("p", "Part 2 &mdash; directly know, removal of greed, hate, "
+              "delusion", "sn45.161:2.1-2.8"),
+        ("p", "Part 3 &mdash; directly know, freedom from death",
+             "sn45.161:3.1-3.8"),
+        ("p", "Part 4 &mdash; directly know, self-referential "
+              "extinguishment", "sn45.161:4.1-4.8"),
+        ("p", "Part 5 &mdash; completely understand (opening line "
+              "and elaboration instruction)", "sn45.161:5.1-5.6"),
+        ("p", "Part 6 &mdash; finish (opening line and elaboration "
+              "instruction)", "sn45.161:6.1-6.6"),
+        ("p", "Part 7 &mdash; give up (opening line and elaboration "
+              "instruction)", "sn45.161:7.1-7.9"),
+    ],
+    quiz=[
+        {"q": "What new dimension of variation does this discourse introduce, beyond the fourfold closing formula already met in Book V?",
+         "opts": ["Four different governing verbs (direct knowledge, complete understanding, finishing, giving up)", "A fifth closing formula", "A completely new topic unrelated to the eightfold path", "No new dimension — it repeats the previous vagga exactly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of Parts 5-7, each substituting a different verb."},
+        {"q": "How many total combinations does the implied matrix of four verbs times four formulas contain?",
+         "opts": ["Sixteen, though the source never writes them all out", "Four, exactly as written in Parts 1-4", "Seven, matching the discourse's own seven parts", "None — the matrix is only this project's own invention"],
+         "correct": 0,
+         "expl": "The source itself, via its own elaboration instructions, implies the fuller matrix without spelling it out."},
+        {"q": "How does this reading guide handle the twelve combinations the source itself never writes out?",
+         "opts": ["Describes the implied structure honestly without inventing the missing text", "Invents plausible-sounding English for all twelve", "Ignores the issue and treats the discourse as complete", "Claims the twelve combinations don't actually exist"],
+         "correct": 0,
+         "expl": "Following this project's own established honest-hedging practice for elided peyyāla content."},
+    ],
+    marginalia=[
+        ("A new vagga, a new kind of variation", [
+            "not just four formulas now —",
+            "four verbs as well, confirmed by reading",
+        ]),
+        ("A matrix, sixteen combinations wide", [
+            "only four written out in full —",
+            "the rest left to instruction and inference",
+        ]),
+        ("Described honestly, not invented", [
+            "this project quotes what the source gives —",
+            "and names what it withholds",
+        ]),
+        ("This vagga's own most complex discourse", [
+            "nine more, mostly far simpler, follow —",
+            "compressing this matrix into one line each",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.161/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.160.html\">SN 45.160 &middot; A River</a> "
+        "&mdash; the previous page, closing the preceding vagga.",
+        "<a href=\"sn-45.162.html\">SN 45.162 &middot; "
+        "Discriminations</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.162 — Vidhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 162, "Vidhā", "Discriminations",
+    vagga="Esanāvagga",
+    meta_title="SN 45.162 — Discriminations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vidhāsutta &mdash; the three discriminations of better, "
+        "equal, and worse, with this vagga's own compressed "
+        "four-verb, base-formula presentation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.161"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One combined sentence naming all four verbs "
+                 "together, paired with the base closing formula, "
+                 "plus an explicit elaboration instruction"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, establishing this vagga's own "
+                       "compressed presentation"),
+    ],
+    why=(
+        "The conceit &ldquo;I'm better,&rdquo; &ldquo;I'm equal,"
+        "&rdquo; or &ldquo;I'm worse&rdquo; &mdash; the three "
+        "discriminations &mdash; illustrates this vagga's own second "
+        "presentation style: rather than SN 45.161's own seven "
+        "separate parts, all four verbs are named together in a "
+        "single sentence, paired only with the base formula, before "
+        "an explicit instruction to elaborate as in the Searches "
+        "discourse."
+    ),
+    guide=[
+        ("The compressed style, confirmed as this vagga's own default", [
+            "Where SN 45.161 wrote out four separate verb-parts each "
+            "with four formula-variants, this discourse folds all "
+            "four verbs into one sentence (&ldquo;for the direct "
+            "knowledge, complete understanding, finishing, and giving "
+            "up&rdquo;) and pairs it only with the base formula "
+            "&mdash; confirmed by an explicit &ldquo;tell in full as "
+            "in the section on searches&rdquo; instruction to be this "
+            "vagga's own standard presentation for every discourse "
+            "from here through SN 45.169.",
+        ]),
+    ],
+    terms=[
+        ("tisso vidhā", "&ldquo;the three kinds of discrimination"
+             "&rdquo; &mdash; thinking oneself better, equal, or "
+             "worse than others"),
+        ("seyyo... sadiso... hīno", "&ldquo;better... equal... "
+             "worse&rdquo; &mdash; the three comparative conceits "
+             "named in this discourse's own opening"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "&ldquo;for the "
+             "direct knowledge, complete understanding, finishing, "
+             "and giving up&rdquo; &mdash; all four verbs from "
+             "SN 45.161 now folded into a single combined phrase"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four paired with "
+             "the combined verb-phrase here"),
+        ("purimasuttasadisaṁ vitthāretabbaṁ", "&ldquo;to be told in "
+             "full, similar to the previous discourse&rdquo; "
+             "&mdash; the explicit instruction confirming this "
+             "vagga's own compressed default presentation"),
+    ],
+    text_intro=("Every genuinely written segment, including the "
+        "source's own elaboration instruction. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.162:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own presentation differ from SN 45.161's own seven-part structure?",
+         "opts": ["All four verbs are combined into one sentence, paired only with the base formula", "It repeats all seven of SN 45.161's own parts in full", "It introduces an entirely new, fifth verb", "It has no closing formula at all"],
+         "correct": 0,
+         "expl": "Confirmed by an explicit \"tell in full as in the section on searches\" instruction."},
+        {"q": "What three discriminations does this discourse name?",
+         "opts": ["Thinking oneself better, equal, or worse than others", "Better, worse, and indifferent food", "Three kinds of physical strength", "Three unrelated ethical precepts"],
+         "correct": 0,
+         "expl": "A common conceit-based classification found elsewhere in the canon."},
+        {"q": "What does this discourse's own presentation style establish for the rest of this vagga?",
+         "opts": ["A compressed default — all four verbs combined with the base formula — for discourses through SN 45.169", "That every subsequent discourse must repeat SN 45.161's own seven parts", "Nothing — each subsequent discourse uses a unique format", "That the fourfold formula structure is abandoned entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the discourses that follow."},
+    ],
+    marginalia=[
+        ("Better, equal, worse — one conceit, three faces", [
+            "the discrimination itself is threefold —",
+            "the path's own task, now compressed",
+        ]),
+        ("Four verbs, folded into one sentence", [
+            "no longer seven separate parts —",
+            "this vagga's own new default confirmed",
+        ]),
+        ("An instruction, pointing back", [
+            "\"as in the section on searches\" —",
+            "the fuller matrix still implied throughout",
+        ]),
+        ("Eight discourses remain in this vagga", [
+            "seven brief, one closing pair —",
+            "each compressed the same way"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.162/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.163.html\">SN 45.163 &middot; "
+        "Defilements</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.163 — Āsavasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 163, "Āsava", "Defilements",
+    vagga="Esanāvagga",
+    meta_title="SN 45.163 — Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavasutta &mdash; the three defiling tendencies of "
+        "sensuality, desire to be reborn, and ignorance, in this "
+        "vagga's own most compressed presentation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.162"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, naming all three defilements and the "
+                 "combined four-verb phrase, with the base formula "
+                 "left to elision"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the vagga's own most compressed discourse so "
+                       "far"),
+    ],
+    why=(
+        "The three āsava (defiling tendencies) &mdash; sensuality, "
+        "the desire to be reborn, and ignorance &mdash; are named "
+        "here in this vagga's own most compressed form yet: the "
+        "English translation resolves the source's own elision "
+        "directly into &ldquo;the noble eightfold path,&rdquo; "
+        "without even restating the combined four-verb phrase's own "
+        "explicit elaboration instruction found at SN 45.162."
+    ),
+    guide=[
+        ("An even more compressed rendering", [
+            "The Pāli root itself still carries an elision marker "
+            "(&ldquo;…pe…&rdquo;) between the four-verb phrase and "
+            "the path's own base-formula definition, but the English "
+            "translation resolves this directly into readable prose "
+            "&mdash; the base formula and the implied wider matrix "
+            "(per SN 45.161's own precedent) still apply, even though "
+            "no elaboration instruction is spelled out in the "
+            "consulted English source for this discourse.",
+        ]),
+    ],
+    terms=[
+        ("āsavā", "&ldquo;defiling tendencies&rdquo; or "
+             "&ldquo;defilements&rdquo; &mdash; a canonical term for "
+             "deep-seated corruptions of the mind"),
+        ("kāmāsavo bhavāsavo avijjāsavo", "&ldquo;the defilements of "
+             "sensuality, desire to be reborn, and ignorance&rdquo; "
+             "&mdash; the three named here, a well-known threefold "
+             "classification found throughout the canon"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "(direct knowledge, complete understanding, finishing, "
+             "giving up) established at SN 45.161-162, still "
+             "implicitly governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; "
+             "stated here without restating the base formula's own "
+             "full definition"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the Pāli root's "
+             "own closing numeral, confirming this discourse's own "
+             "position in the vagga"),
+    ],
+    text_intro=("The complete discourse as the English source itself "
+        "renders it. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.163:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three defilements (āsava) does this discourse name?",
+         "opts": ["Sensuality, desire to be reborn, and ignorance", "Greed, hate, and delusion", "Sensual pleasures, existence, and nonexistence", "Better, equal, and worse"],
+         "correct": 0,
+         "expl": "A well-known threefold classification of deep-seated mental corruptions found throughout the canon."},
+        {"q": "How does this discourse's own English rendering compare to SN 45.162's own explicit elaboration instruction?",
+         "opts": ["It resolves the elision directly into prose without restating the instruction, though the same implied matrix still applies", "It spells out the full sixteen-combination matrix in detail", "It uses a completely different verb structure", "It omits the eightfold path entirely"],
+         "correct": 0,
+         "expl": "The Pāli root still carries its own elision marker, even where the English smooths it into direct prose."},
+        {"q": "What does the Pāli root's own closing numeral, \"tatiyaṁ,\" confirm?",
+         "opts": ["That this is the third discourse of the vagga", "That this is the third vagga of the saṃyutta", "That there are only three discourses in the entire vagga", "Nothing — it is an untranslatable fragment"],
+         "correct": 0,
+         "expl": "A simple ordinal marker confirming this discourse's own position, consistent with the closing numerals seen throughout Book V."},
+    ],
+    marginalia=[
+        ("Three defilements, one compressed line", [
+            "sensuality, rebirth, ignorance —",
+            "the matrix still implied beneath",
+        ]),
+        ("Even briefer than the discourse before it", [
+            "no explicit instruction spelled out —",
+            "smoothed into prose, the elision absorbed",
+        ]),
+        ("This vagga's own established rhythm", [
+            "a topic, a compressed formula, done —",
+            "six more discourses in the same key",
+        ]),
+        ("A deep-seated term for corruption", [
+            "āsava, \"defiling tendency\" —",
+            "a word this project will meet again in this vagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.163/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.162.html\">SN 45.162 &middot; "
+        "Discriminations</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.164.html\">SN 45.164 &middot; States of "
+        "Existence</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.164 — Bhavasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 164, "Bhava", "States of Existence",
+    vagga="Esanāvagga",
+    meta_title="SN 45.164 — States of Existence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhavasutta &mdash; the three states of existence in the "
+        "sensual, form, and formless realms, continuing this vagga's "
+        "own compressed presentation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.163"),
+        ("Speakers", "The Buddha, without the usual \"Mendicants\" "
+                     "address opening this particular discourse"),
+        ("Form", "One sentence, matching SN 45.163's own compressed "
+                 "presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "The three states of existence &mdash; the sensual realm, the "
+        "realm of luminous form, and the formless realm &mdash; "
+        "reflect a standard threefold cosmological classification "
+        "(kāma-, rūpa-, and arūpa-bhava) used throughout the canon, "
+        "here treated with the same compressed four-verb, base-formula "
+        "presentation as the discourse before it."
+    ),
+    guide=[
+        ("A doctrinal classification, not a new device", [
+            "Unlike SN 45.161's own genuinely new structural device "
+            "(the verb-matrix) or SN 45.155's own naming of the "
+            "thirty-seven qualities of awakening, this discourse "
+            "simply supplies a standard classification (the three "
+            "realms of existence) as its own object &mdash; the "
+            "vagga's own compressed presentation format itself "
+            "carries no further surprises here.",
+        ]),
+    ],
+    terms=[
+        ("tayo bhavā", "&ldquo;three states of existence&rdquo; "
+             "&mdash; a standard threefold cosmological "
+             "classification found throughout the canon"),
+        ("kāmabhavo rūpabhavo arūpabhavo", "existence in the sensual "
+             "realm, the realm of luminous form, and the formless "
+             "realm &mdash; the three states named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, still implicitly "
+             "governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.164:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three states of existence does this discourse name?",
+         "opts": ["The sensual realm, the realm of luminous form, and the formless realm", "Sensual pleasures, continued existence, and nonexistence", "Better, equal, and worse", "Pleasant, painful, and neutral"],
+         "correct": 0,
+         "expl": "A standard threefold cosmological classification (kāma-, rūpa-, arūpa-bhava) found throughout the canon."},
+        {"q": "What role does this discourse play in this vagga's own sequence?",
+         "opts": ["Supplying a standard doctrinal classification as the object of the same compressed formula, without introducing new structural devices", "Introducing an entirely new verb-matrix", "Closing the vagga with a colophon", "Repeating SN 45.161's own seven-part structure"],
+         "correct": 0,
+         "expl": "Consistent with the established compressed pattern since SN 45.162."},
+        {"q": "What Pāli terms name the three realms, though not spelled out individually as separate sentences in this discourse's own English rendering?",
+         "opts": ["Kāmabhava, rūpabhava, and arūpabhava", "Kāmesanā, bhavesanā, and brahmacariyesanā", "Rāga, dosa, and moha", "Sukhā, dukkhā, and adukkhamasukhā"],
+         "correct": 0,
+         "expl": "The standard threefold division of existence by realm, familiar from Abhidhamma cosmology."},
+    ],
+    marginalia=[
+        ("Three realms, one compressed formula", [
+            "sensual, form, formless —",
+            "a familiar cosmology, briefly named",
+        ]),
+        ("No new surprises here", [
+            "the format holds steady —",
+            "a classification, not a new device",
+        ]),
+        ("Six discourses remain before this vagga closes", [
+            "suffering, barrenness, stains, troubles —",
+            "feelings, then craving and thirst"
+        ]),
+        ("A cosmology named, not explained", [
+            "kāma, rūpa, arūpa —",
+            "three realms, taken as already familiar",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.164/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.163.html\">SN 45.163 &middot; "
+        "Defilements</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.165.html\">SN 45.165 &middot; Forms of "
+        "Suffering</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.165 — Dukkhatāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 165, "Dukkhatā", "Forms of Suffering",
+    vagga="Esanāvagga",
+    meta_title="SN 45.165 — Forms of Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhatāsutta &mdash; the three forms of suffering "
+        "inherent in painful feeling, conditions, and perishing, "
+        "continuing this vagga's own compressed presentation. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.164"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "The three forms of suffering &mdash; inherent in painful "
+        "feeling, inherent in conditions, and inherent in perishing "
+        "&mdash; reflect a standard threefold analysis of dukkhatā "
+        "(the state of being unsatisfactory) found in the "
+        "Abhidhamma and elsewhere, here treated with this vagga's own "
+        "compressed presentation."
+    ),
+    guide=[
+        ("A well-known doctrinal threefold, briefly named", [
+            "This is one of the more technically precise threefold "
+            "classifications in this vagga's own sequence, "
+            "distinguishing suffering as felt directly "
+            "(dukkha-dukkhatā), suffering built into conditioned "
+            "existence itself (saṅkhāra-dukkhatā), and suffering that "
+            "arises from change and loss (vipariṇāma-dukkhatā) "
+            "&mdash; though this discourse itself does not use these "
+            "three Pāli compound terms, naming them only descriptively.",
+        ]),
+    ],
+    terms=[
+        ("tisso dukkhatā", "&ldquo;three forms of suffering&rdquo; "
+             "&mdash; a standard threefold analysis of "
+             "unsatisfactoriness found in the Abhidhamma and "
+             "elsewhere"),
+        ("dukkhadukkhatā... saṅkhāradukkhatā... vipariṇāmadukkhatā",
+             "the suffering inherent in painful feeling, in "
+             "conditions, and in perishing &mdash; named "
+             "descriptively rather than by their own technical "
+             "compound terms in this discourse"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, still implicitly "
+             "governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.165:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three forms of suffering does this discourse name?",
+         "opts": ["Suffering inherent in painful feeling, in conditions, and in perishing", "Sensuality, desire to be reborn, and ignorance", "The sensual, form, and formless realms", "Craving, thirst, and discrimination"],
+         "correct": 0,
+         "expl": "A standard threefold analysis of unsatisfactoriness (dukkhatā) found in the Abhidhamma and elsewhere."},
+        {"q": "Does this discourse use the technical Pāli compound terms (dukkha-dukkhatā, etc.) for these three forms?",
+         "opts": ["No — it names them descriptively rather than by their own technical compounds", "Yes, all three technical terms appear explicitly", "It uses only one of the three technical terms", "The discourse names no forms of suffering at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the discourse's own plain descriptive phrasing."},
+        {"q": "In what later body of doctrinal literature does this same threefold analysis of suffering become a standard, named classification?",
+         "opts": ["The Abhidhamma", "The Vinaya monastic code", "The Jātaka birth stories", "The Milindapañha"],
+         "correct": 0,
+         "expl": "This discourse anticipates a classification later formalized with technical compound terms."},
+    ],
+    marginalia=[
+        ("Suffering, three ways of being unsatisfactory", [
+            "feeling, conditions, and perishing —",
+            "named plainly, not by technical compound",
+        ]),
+        ("A precise doctrinal thread, briefly held", [
+            "the Abhidhamma's own later system echoed here —",
+            "though not yet in its own technical vocabulary",
+        ]),
+        ("Five discourses remain", [
+            "barrenness, stains, troubles, feelings —",
+            "then craving and thirst close the vagga"
+        ]),
+        ("Three faces of one unsatisfactoriness", [
+            "not three separate sufferings —",
+            "one dukkhatā, seen from three angles",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.165/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.164.html\">SN 45.164 &middot; States of "
+        "Existence</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.166.html\">SN 45.166 &middot; Kinds of "
+        "Barrenness</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.166 — Khilasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 166, "Khila", "Kinds of Barrenness",
+    vagga="Esanāvagga",
+    meta_title="SN 45.166 — Kinds of Barrenness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khilasutta &mdash; greed, hate, and delusion named as "
+        "the three kinds of barrenness, continuing this vagga's own "
+        "compressed presentation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.165"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "Greed, hate, and delusion &mdash; the very three qualities "
+        "already met as Set 1's own closing formula throughout the "
+        "Gaṅgāpeyyāla vaggas &mdash; are here named directly as "
+        "objects in their own right, under the new heading of "
+        "&ldquo;barrenness&rdquo; (khila), rather than as a formula "
+        "describing where the path culminates."
+    ),
+    guide=[
+        ("A familiar triad, in an unfamiliar role", [
+            "This is the first discourse in Book V to treat "
+            "&ldquo;greed, hate, and delusion&rdquo; as the OBJECT "
+            "the path should be developed to know, understand, "
+            "finish, and give up &mdash; rather than as part of the "
+            "path's own closing formula describing what it culminates "
+            "in removing. The same three terms, a genuinely different "
+            "grammatical and doctrinal role, confirmed by direct "
+            "reading.",
+        ]),
+    ],
+    terms=[
+        ("tayo khilā", "&ldquo;three kinds of barrenness&rdquo; "
+             "&mdash; a term for mental qualities that render the "
+             "mind unreceptive or unyielding, like barren soil"),
+        ("rāgo doso moho", "&ldquo;greed, hate, and delusion&rdquo; "
+             "&mdash; the same three terms met throughout Book V's "
+             "own Set 1 closing formula, now treated as this "
+             "discourse's own direct object"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, still implicitly "
+             "governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.166:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse name as \"barrenness\" (khila)?",
+         "opts": ["Greed, hate, and delusion", "Sensuality, desire to be reborn, and ignorance", "Better, equal, and worse", "Craving, thirst, and discrimination"],
+         "correct": 0,
+         "expl": "The same three terms already met throughout Book V's own Set 1 closing formula."},
+        {"q": "What is genuinely different about how this discourse uses \"greed, hate, and delusion,\" compared to their earlier appearances in Book V?",
+         "opts": ["They are named as the direct object the path should know and give up, not as part of a closing formula", "They are given an entirely new meaning unrelated to earlier vaggas", "They appear here for the very first time in this saṃyutta", "There is no difference at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely different grammatical and doctrinal role for familiar terms."},
+        {"q": "What does the term \"khila\" (barrenness) suggest about greed, hate, and delusion in this discourse?",
+         "opts": ["That they render the mind unreceptive or unyielding, like barren soil", "That they are physically painful sensations", "That they are forms of praiseworthy discipline", "That they have no relationship to the mind at all"],
+         "correct": 0,
+         "expl": "An agricultural metaphor for a mind that cannot receive or respond to wholesome influence."},
+    ],
+    marginalia=[
+        ("Greed, hate, delusion — familiar terms, new role", [
+            "once a formula's own closing words —",
+            "now named as the object itself",
+        ]),
+        ("Barren soil, a barren mind", [
+            "unreceptive, unyielding —",
+            "these three named as what makes it so",
+        ]),
+        ("Four discourses remain", [
+            "stains, troubles, feelings —",
+            "then craving and thirst close the vagga"
+        ]),
+        ("The first of a three-discourse renaming", [
+            "khila here, mala and nīgha still to come —",
+            "the same triad under three different lights",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.166/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.165.html\">SN 45.165 &middot; Forms of "
+        "Suffering</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.167.html\">SN 45.167 &middot; Stains</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.167 — Malasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 167, "Mala", "Stains",
+    vagga="Esanāvagga",
+    meta_title="SN 45.167 — Stains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Malasutta &mdash; greed, hate, and delusion named again, "
+        "here as the three stains, continuing this vagga's own "
+        "compressed presentation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.166"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, in this vagga's own established rhythm"),
+    ],
+    why=(
+        "Greed, hate, and delusion return once more, this time named "
+        "as the three &ldquo;stains&rdquo; (mala) &mdash; the second "
+        "consecutive discourse in this vagga to apply a new "
+        "descriptive heading to the identical triad, confirming this "
+        "vagga's own pattern of re-presenting the same three "
+        "qualities under successive names."
+    ),
+    guide=[
+        ("The same triad, a second new heading", [
+            "SN 45.166 called these three qualities &ldquo;"
+            "barrenness&rdquo; (khila); this discourse calls them "
+            "&ldquo;stains&rdquo; (mala). The next discourse "
+            "(SN 45.168) will call them &ldquo;troubles&rdquo; "
+            "(nīgha) &mdash; three discourses in a row applying a "
+            "different descriptive lens to the identical three "
+            "qualities, confirmed by direct reading rather than "
+            "assumed from the discourse titles alone.",
+        ]),
+    ],
+    terms=[
+        ("tīṇi malāni", "&ldquo;three stains&rdquo; &mdash; a term "
+             "for defiling qualities that mar or soil the mind, like "
+             "a stain on cloth"),
+        ("rāgo doso moho", "&ldquo;greed, hate, and delusion&rdquo; "
+             "&mdash; the same three terms named as &ldquo;"
+             "barrenness&rdquo; in the discourse just before this one"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, still implicitly "
+             "governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.167:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse name as \"stains\" (mala)?",
+         "opts": ["Greed, hate, and delusion", "Sensuality, desire to be reborn, and ignorance", "The sensual, form, and formless realms", "Pleasant, painful, and neutral feeling"],
+         "correct": 0,
+         "expl": "The same triad named \"barrenness\" in the discourse immediately before this one."},
+        {"q": "What pattern does this discourse confirm across SN 45.166-168?",
+         "opts": ["Three discourses in a row applying a different descriptive heading to the identical triad of greed, hate, and delusion", "Each discourse names a completely different set of three qualities", "The triad only appears once in this entire vagga", "No pattern — the discourses are unrelated"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, not merely inferred from similar-sounding titles."},
+        {"q": "What image does the term \"mala\" (stain) evoke, distinct from \"khila\" (barrenness)?",
+         "opts": ["A mark or soiling on cloth, rather than unreceptive soil", "A wound requiring medical treatment", "A physical illness", "A legal violation"],
+         "correct": 0,
+         "expl": "Each heading in this three-discourse sequence supplies its own distinct metaphor for the same underlying triad."},
+    ],
+    marginalia=[
+        ("The same triad, a second new name", [
+            "barrenness, now stains —",
+            "greed, hate, delusion beneath both",
+        ]),
+        ("A stain on cloth, not barren soil", [
+            "each heading its own metaphor —",
+            "the substance underneath unchanged",
+        ]),
+        ("A third naming still to come", [
+            "\"troubles\" waits just ahead —",
+            "then feelings, craving, and thirst"
+        ]),
+        ("Mid-sequence, the second of three lenses", [
+            "not barren soil this time —",
+            "a mark that will not wash away on its own",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.167/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.166.html\">SN 45.166 &middot; Kinds of "
+        "Barrenness</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.168.html\">SN 45.168 &middot; Troubles</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.168 — Nīghasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 168, "Nīgha", "Troubles",
+    vagga="Esanāvagga",
+    meta_title="SN 45.168 — Troubles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nīghasutta &mdash; greed, hate, and delusion named a "
+        "third time, here as the three troubles, closing this "
+        "three-discourse naming sequence. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.167"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closing a three-discourse naming "
+                       "sequence"),
+    ],
+    why=(
+        "Greed, hate, and delusion appear a third consecutive time, "
+        "now named &ldquo;troubles&rdquo; (nīgha) &mdash; closing the "
+        "three-discourse sequence (barrenness, stains, troubles) that "
+        "applies three distinct metaphors to the identical underlying "
+        "triad before this vagga moves to a different topic entirely "
+        "at SN 45.169."
+    ),
+    guide=[
+        ("A sequence, now confirmed complete", [
+            "With this discourse, the three-part naming sequence "
+            "begun at SN 45.166 (barrenness, stains, troubles) is "
+            "confirmed complete &mdash; each of the three discourses "
+            "applies its own metaphor (barren soil, a stain on cloth, "
+            "a source of trouble or affliction) to the same "
+            "underlying triad, before the vagga's own attention shifts "
+            "to feelings at SN 45.169.",
+        ]),
+    ],
+    terms=[
+        ("tayo nīghā", "&ldquo;three troubles&rdquo; &mdash; a term "
+             "for sources of affliction or disturbance"),
+        ("rāgo doso moho", "&ldquo;greed, hate, and delusion&rdquo; "
+             "&mdash; the same three terms named as "
+             "&ldquo;barrenness&rdquo; and &ldquo;stains&rdquo; in "
+             "the two discourses before this one"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, still implicitly "
+             "governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.168:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three-discourse sequence does this discourse complete?",
+         "opts": ["Barrenness, stains, and troubles — three distinct metaphors for greed, hate, and delusion", "A sequence of three completely unrelated topics", "The vagga's own opening three discourses", "A sequence about the three states of existence"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading across SN 45.166-168."},
+        {"q": "What does the term \"nīgha\" (trouble) suggest?",
+         "opts": ["A source of affliction or disturbance", "A stain on cloth", "Barren, unreceptive soil", "A physical illness with a medical cause"],
+         "correct": 0,
+         "expl": "The third of three distinct metaphors applied to the same underlying triad in this vagga."},
+        {"q": "What topic does the vagga move to immediately after this discourse?",
+         "opts": ["Feelings (pleasant, painful, and neutral), at SN 45.169", "A return to the three searches", "The vagga's own final colophon", "An entirely new vagga begins"],
+         "correct": 0,
+         "expl": "SN 45.169 shifts to a different threefold classification: feelings."},
+    ],
+    marginalia=[
+        ("A third naming, and the sequence closes", [
+            "barrenness, stains, now troubles —",
+            "one triad, three distinct metaphors",
+        ]),
+        ("Trouble as affliction, not soil or stain", [
+            "each heading opens a different door —",
+            "onto the very same room"
+        ]),
+        ("Three lenses, confirmed complete", [
+            "khila, mala, nīgha —",
+            "one triad seen three distinct ways",
+        ]),
+        ("Two discourses remain before the close", [
+            "feelings, then craving and thirst together —",
+            "closing this vagga's own eleven discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.168/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.167.html\">SN 45.167 &middot; Stains</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.169.html\">SN 45.169 &middot; Feelings</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.169 — Vedanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 169, "Vedanā", "Feelings",
+    vagga="Esanāvagga",
+    meta_title="SN 45.169 — Feelings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāsutta &mdash; pleasant, painful, and neutral "
+        "feeling, this vagga's own penultimate discourse before its "
+        "closing pair. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.168"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One sentence, matching this vagga's own established "
+                 "compressed presentation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, this vagga's own penultimate discourse"),
+    ],
+    why=(
+        "The three feelings &mdash; pleasant, painful, and neutral "
+        "&mdash; are among the most basic and frequently discussed "
+        "categories in the entire canon, here treated with this "
+        "vagga's own compressed formula before the vagga's own final "
+        "discourse closes with craving and thirst."
+    ),
+    guide=[
+        ("A foundational category, briefly held", [
+            "Unlike the more specialized classifications named "
+            "earlier in this vagga (defilements, states of existence, "
+            "forms of suffering), the three feelings are a "
+            "foundational category discussed at length elsewhere in "
+            "the canon &mdash; here given only this vagga's own "
+            "single compressed line, without further elaboration.",
+        ]),
+    ],
+    terms=[
+        ("tisso vedanā", "&ldquo;three feelings&rdquo; &mdash; one "
+             "of the most foundational categories in the entire "
+             "canon, discussed at far greater length elsewhere"),
+        ("sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā",
+             "pleasant feeling, painful feeling, and neutral "
+             "(neither-painful-nor-pleasant) feeling &mdash; the "
+             "three named here"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, still implicitly "
+             "governing this discourse"),
+        ("ariyo aṭṭhaṅgiko maggo bhāvetabbo", "&ldquo;the noble "
+             "eightfold path should be developed&rdquo; &mdash; this "
+             "discourse's own base-formula conclusion"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the Pāli root's "
+             "own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.169:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What three feelings does this discourse name?",
+         "opts": ["Pleasant, painful, and neutral (neither-painful-nor-pleasant) feeling", "Greed, hate, and delusion", "Sensuality, desire to be reborn, and ignorance", "Craving, thirst, and discrimination"],
+         "correct": 0,
+         "expl": "One of the most foundational threefold categories in the entire canon."},
+        {"q": "How does this discourse's own treatment of feelings compare to its treatment elsewhere in the canon?",
+         "opts": ["It is given only this vagga's own single compressed line, without the far greater elaboration found elsewhere", "It receives more elaboration here than anywhere else in the canon", "Feelings are not discussed anywhere else in the canon", "This discourse introduces a completely new definition of feeling"],
+         "correct": 0,
+         "expl": "A foundational topic treated briefly here, consistent with this vagga's own compressed format."},
+        {"q": "What discourse closes this vagga, immediately following this one?",
+         "opts": ["SN 45.170, covering both Craving and Thirst", "A new vagga begins immediately", "This discourse is itself the vagga's own final one", "SN 45.171, on Floods"],
+         "correct": 0,
+         "expl": "SN 45.170's own single bilara-data file bundles two traditionally numbered discourses, closing this vagga's own eleven."},
+    ],
+    marginalia=[
+        ("Pleasant, painful, neither", [
+            "a foundational triad, briefly held —",
+            "elaborated far more elsewhere in the canon",
+        ]),
+        ("This vagga's own penultimate discourse", [
+            "one more page remains —",
+            "craving and thirst together close it",
+        ]),
+        ("A compressed line for a vast topic", [
+            "feeling threads through the whole canon —",
+            "here, just this vagga's own established formula"
+        ]),
+        ("A different kind of triad than the ones just before it", [
+            "not greed, hate, delusion in disguise —",
+            "a genuinely separate threefold division"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.169/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.168.html\">SN 45.168 &middot; Troubles</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.170.html\">SN 45.170 &middot; Craving</a> "
+        "&mdash; the next page, closing this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.170 — Taṇhāsutta & Tasināsutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    45, 170, "Taṇhā", "Craving",
+    vagga="Esanāvagga",
+    meta_title="SN 45.170 — Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 45.170 — a single bilara-data file bundling two "
+        "traditionally numbered discourses, Craving and Thirst, "
+        "closing the Esanāvagga with the fourfold formula written "
+        "out in full one final time. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.169"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two traditionally numbered discourses (the tenth "
+                 "and eleventh) sharing one bilara-data file, "
+                 "confirmed by the Pāli root's own closing numerals"),
+        ("Length", "2-3 minutes to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own eleven discourses"),
+    ],
+    why=(
+        "Craving (taṇhā) and thirst (tasinā) &mdash; near-synonymous "
+        "terms for the same underlying force, for sensual pleasures, "
+        "for existence, and for non-existence &mdash; close this "
+        "vagga together in a single source file, confirmed by the "
+        "Pāli root's own closing numerals to be two distinct, "
+        "traditionally numbered discourses (the tenth and eleventh) "
+        "rather than one. The second, Thirst, is the only discourse "
+        "since SN 45.161 itself to write out all four closing "
+        "formulas explicitly."
+    ),
+    guide=[
+        ("One file, two discourses, confirmed by the Pāli's own numerals", [
+            "The Pāli root closes the Craving section with "
+            "&ldquo;Dasamaṁ&rdquo; (&ldquo;the tenth&rdquo;) and the "
+            "Thirst section with &ldquo;Ekādasamaṁ&rdquo; "
+            "(&ldquo;the eleventh&rdquo;) &mdash; confirming, along "
+            "with the closing uddāna's own explicit &ldquo;dve taṇhā "
+            "tasināya cāti&rdquo; (&ldquo;the two, craving and "
+            "thirst&rdquo;), that this single bilara-data file bundles "
+            "what tradition counts as two separate discourses, making "
+            "this an eleven-discourse vagga across ten pages.",
+        ]),
+        ("The fourfold formula, written out in full one final time", [
+            "Where every discourse since SN 45.162 has compressed the "
+            "formula into a single base-formula line, the Thirst "
+            "section reprises SN 45.161's own fuller presentation, "
+            "writing out all four closing formulas (base; removal of "
+            "greed, hate, delusion; freedom from death; "
+            "self-referential extinguishment) explicitly &mdash; "
+            "confirming, at this vagga's own close, that the wider "
+            "matrix implied throughout remains fully intact.",
+        ]),
+        ("A colophon and uddāna, describing an ambiguous internal count", [
+            "&ldquo;Esanāvaggo sattamo&rdquo; (&ldquo;the Searches "
+            "chapter, the seventh&rdquo;) is an internal numbering "
+            "note whose exact scope this project does not confidently "
+            "interpret, as with similar notes closing earlier vaggas "
+            "in Book V. The closing uddāna itself is a plain list of "
+            "this vagga's own eleven discourse-topics (Searches, "
+            "Discriminations, Defilements, States of Existence, "
+            "Forms of Suffering, Barrenness, Stains, Troubles, "
+            "Feelings, Craving, and Thirst), described here rather "
+            "than rendered as invented verse.",
+        ]),
+    ],
+    terms=[
+        ("tisso taṇhā... tisso tasinā", "&ldquo;three cravings... "
+             "three thirsts&rdquo; &mdash; near-synonymous terms, "
+             "both naming craving for sensual pleasures, for "
+             "existence, and for nonexistence (or, in the second "
+             "section's own phrasing, to continue and to end "
+             "existence)"),
+        ("kāmataṇhā bhavataṇhā vibhavataṇhā", "craving for sensual "
+             "pleasures, for existence, and for nonexistence &mdash; "
+             "a foundational threefold classification central to the "
+             "second noble truth"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "the four verbs "
+             "established at SN 45.161-162, governing both sections "
+             "of this closing discourse"),
+        ("dasamaṁ... ekādasamaṁ", "&ldquo;the tenth... the "
+             "eleventh&rdquo; &mdash; the Pāli root's own closing "
+             "numerals, confirming two distinct discourses share this "
+             "single file"),
+        ("esanāvaggo sattamo", "&ldquo;the Searches chapter, the "
+             "seventh&rdquo; &mdash; an internal numbering note whose "
+             "exact scope this project does not confidently interpret"),
+    ],
+    text_intro=("Every genuinely translated fragment across both "
+        "sections of this closing discourse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "Craving &mdash; the tenth discourse, the base formula "
+              "in full", "sn45.170:1.1-1.8"),
+        ("p", "Thirst &mdash; the eleventh discourse, opening",
+             "sn45.170:2.1-2.3"),
+        ("p", "Thirst &mdash; all four closing formulas, in turn",
+             "sn45.170:2.4-2.8"),
+    ],
+    quiz=[
+        {"q": "What confirms that this single bilara-data file bundles two separate, traditionally numbered discourses?",
+         "opts": ["The Pāli root's own closing numerals (\"the tenth\" and \"the eleventh\") and the uddāna's own explicit \"the two, craving and thirst\"", "Nothing confirms it — this is only a guess", "The English translation explicitly numbers them as separate suttas", "The site's own URL scheme requires two separate pages"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the Pāli root's own closing formulas."},
+        {"q": "What makes the \"Thirst\" section unusual compared to every discourse since SN 45.162?",
+         "opts": ["It writes out all four closing formulas explicitly, reprising SN 45.161's own fuller presentation", "It has no closing formula at all", "It introduces a fifth, entirely new closing formula", "It is written in a completely different language"],
+         "correct": 0,
+         "expl": "Confirming, at this vagga's own close, that the full formula matrix remains intact even after many discourses of compression."},
+        {"q": "How does this reading guide handle the internal numbering note \"Esanāvaggo sattamo\"?",
+         "opts": ["Describes it honestly as a numbering note whose exact scope is not confidently interpreted", "Confidently explains its precise numbering scheme as established fact", "Omits any mention of it", "Invents a plausible-sounding but unverified explanation"],
+         "correct": 0,
+         "expl": "Following this project's own established honest-hedging practice, consistent with similar notes closing earlier vaggas."},
+    ],
+    marginalia=[
+        ("One file, two discourses", [
+            "\"the tenth,\" then \"the eleventh\" —",
+            "confirmed by the Pāli's own closing numerals",
+        ]),
+        ("The fourfold formula, one last time in full", [
+            "not compressed, as the discourses between —",
+            "the whole matrix, still intact",
+        ]),
+        ("A colophon honestly left ambiguous", [
+            "\"the Searches chapter, the seventh\" —",
+            "a numbering this project does not claim to solve",
+        ]),
+        ("Eleven discourses, one vagga, complete", [
+            "ethics gave way to searches and their objects —",
+            "\"Floods,\" the next vagga, waits beyond it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.170/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.169.html\">SN 45.169 &middot; Feelings</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Oghavagga (\"Floods\"), is still in "
+        "preparation.",
+    ],
+)
