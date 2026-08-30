@@ -24029,3 +24029,180 @@ page_range(
         "eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 11. Balakaraṇīyavagga — Hard Work (SN 46.99-110)
+# Confirmed by direct bilara-data reading: like the two preceding
+# vaggas, this entire twelve-discourse vagga is stored as a SINGLE
+# merged file. It gives only the opening base-formula example (all
+# hard work depends on and is grounded on the earth) before an
+# explicit source instruction -- English: "(Tell in full as in
+# SN 45.149-160)"; Pāli root: "(Balakaraṇīyavaggo bojjhaṅgasaṁyuttassa
+# bojjhaṅgavasena vitthāretabbo)" ("the Hard-Work chapter is to be
+# elaborated in full for the Awakening-Factors Saṃyutta by way of the
+# awakening factors"). This directly cross-references this project's
+# own already-completed Balakaraṇīyavagga from the Maggasaṃyutta
+# (SN 45.149-160), confirmed by the closing uddāna's own twelve items
+# (strength/hard work, seed, elephant, tree, pot, needle-maker, sky,
+# two clouds, boat, and visiting river) to match that vagga's own
+# twelve similes exactly. Its own Pāli name, "Balakaraṇīyavagga," is
+# identical to SN 45's own name for this vagga -- unlike the previous
+# vagga, which dropped "peyyāla" from its own SN 46 name -- confirmed
+# by direct reading, not assumed from the previous vagga's pattern.
+# In this saṃyutta it is numbered "ekādasamo" (the eleventh vagga),
+# differing from its own position as SN 45's twelfth vagga -- a
+# difference in position within each saṃyutta's own count, not a
+# discrepancy in the underlying content.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.99-110 — Balādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 99, 110, "Balādi", "Hard Work, Etc.",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 46.99–110 — Hard Work, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 46.99–110 — twelve discourses on hard work, illustrated "
+        "by the earth, a seed, an elephant, and other similes, "
+        "confirmed to mirror this project's own already-completed "
+        "Balakaraṇīyavagga from the Maggasaṃyutta, here applied to "
+        "the seven awakening factors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Twelve discourses compressed into a single "
+                 "bilara-data file, giving one explicit example "
+                 "before an explicit cross-reference instruction"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own written form, but "
+                       "structurally confirmed to represent twelve "
+                       "discourses"),
+    ],
+    why=(
+        "All hard work, said to depend on and be grounded on the "
+        "earth, illustrates the seven awakening factors as the "
+        "ground on which every skillful undertaking depends &mdash; "
+        "the identical simile already met at SN 45.149 in this "
+        "book's own Maggasaṃyutta, here explicitly cross-referenced "
+        "by the source itself rather than rewritten, confirmed by "
+        "the closing uddāna to span twelve similes across twelve "
+        "discourses."
+    ),
+    guide=[
+        ("A direct cross-reference, not independent content", [
+            "Confirmed by direct reading, the source itself instructs "
+            "readers to &ldquo;tell in full as in SN 45.149&ndash;"
+            "160&rdquo; &mdash; this project's own already-completed "
+            "Balakaraṇīyavagga from the Maggasaṃyutta &mdash; rather "
+            "than rewriting the full simile-by-simile content again. "
+            "The twelve similes (hard work grounded on the earth, a "
+            "seed, an elephant, a tree, a pot, a needle-maker, the "
+            "sky, two clouds, a boat, and a visiting river) are "
+            "confirmed by the closing uddāna's own explicit list to "
+            "structure this entire twelve-discourse vagga identically "
+            "to its own earlier counterpart.",
+        ]),
+        ("The same name as its own SN 45 counterpart", [
+            "Confirmed by direct reading, this vagga's own Pāli name "
+            "is &ldquo;Balakaraṇīyavagga&rdquo; (&ldquo;the Hard-Work "
+            "chapter&rdquo;) &mdash; identical to SN 45's own name "
+            "for this vagga, unlike the previous vagga "
+            "(Appamādavagga), which dropped &ldquo;peyyāla&rdquo; "
+            "from its own SN 46 name. Each vagga's own naming is "
+            "confirmed individually rather than assumed from the "
+            "previous vagga's own pattern.",
+        ]),
+        ("A different position, the same content", [
+            "This vagga's own colophon numbers it "
+            "&ldquo;ekādasamo&rdquo; (&ldquo;the eleventh&rdquo;) "
+            "within the Bojjhaṅgasaṃyutta, differing from its own "
+            "position as the TWELFTH vagga within SN 45's own "
+            "Maggasaṃyutta &mdash; a difference in each saṃyutta's "
+            "own internal count, not a discrepancy in the underlying "
+            "twelve-simile content, which is confirmed identical.",
+        ]),
+    ],
+    terms=[
+        ("ye keci balakaraṇīyā kammantā karīyanti, sabbe te pathaviṁ nissāya",
+             "&ldquo;all the hard work that gets done depends on the "
+             "earth&rdquo; &mdash; the identical opening image already "
+             "met at SN 45.149, this book's own recurring hard-work "
+             "simile"),
+        ("pathaviṁ nissāya pathaviyaṁ patiṭṭhāya", "&ldquo;depends on "
+             "the earth and is grounded on the earth&rdquo; &mdash; "
+             "the shared description this project's own SN 45.149 "
+             "confirmed applies to the development of the seven "
+             "awakening factors"),
+        ("vitthāretabbaṁ", "&ldquo;to be elaborated in full&rdquo; "
+             "&mdash; the source's own explicit cross-reference "
+             "instruction, pointing to SN 45.149-160 rather than "
+             "repeating that content"),
+        ("balakaraṇīyavaggo ekādasamo", "&ldquo;the Hard-Work "
+             "chapter, the eleventh&rdquo; &mdash; confirming this "
+             "vagga's own position within this saṃyutta's own count, "
+             "distinct from (but not in conflict with) its own "
+             "twelfth position within SN 45"),
+        ("balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā",
+             "&ldquo;strength, and seed, and elephant, tree, with "
+             "pot, needle&rdquo; &mdash; the closing uddāna's own "
+             "opening line, listing the first six of this vagga's "
+             "own twelve similes"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.99-110:1.1"),
+        ("p", "&sect;2", "sn46.99-110:3.1"),
+    ],
+    quiz=[
+        {"q": "What does the source itself instruct, rather than rewriting the full simile-by-simile content?",
+         "opts": ["To tell the discourse in full as in SN 45.149–160, this project's own already-completed vagga", "To skip this vagga entirely", "To invent a completely new simile unrelated to hard work", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed Balakaraṇīyavagga from the Maggasaṃyutta."},
+        {"q": "How does this vagga's own Pāli name compare to SN 45's own version of the same vagga?",
+         "opts": ["It is identical — \"Balakaraṇīyavagga\" in both — unlike the previous vagga, which dropped \"peyyāla\" in SN 46", "It is completely unrelated in both saṃyuttas", "SN 46 adds \"peyyāla\" while SN 45 lacks it", "Neither saṃyutta names this vagga at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — each vagga's own naming must be checked individually rather than assumed."},
+        {"q": "Why does this vagga's own colophon number it \"the eleventh\" while SN 45 numbers the identical content as its own twelfth vagga?",
+         "opts": ["Each saṃyutta counts its own vaggas independently, so the same shared content can occupy a different position in each", "Because the content genuinely differs between the two saṃyuttas", "Because one of the two counts is a scribal error", "Because SN 46 has one fewer vagga overall than SN 45"],
+         "correct": 0,
+         "expl": "A difference in each saṃyutta's own internal numbering, not a discrepancy in the underlying twelve-simile content."},
+    ],
+    marginalia=[
+        ("A direct cross-reference, not rewritten content", [
+            "\"tell in full as in SN 45.149–160\" —",
+            "this project's own earlier work, confirmed reused"
+        ]),
+        ("The same name, this time", [
+            "\"Balakaraṇīyavagga\" in both saṃyuttas —",
+            "unlike Appamādavagga's own dropped \"peyyāla\""
+        ]),
+        ("Eleventh here, twelfth in SN 45", [
+            "the same twelve similes, two different counts —",
+            "each saṃyutta numbers its own vaggas independently"
+        ]),
+        ("A new peyyāla cycle continues", [
+            "Searches and Floods still ahead —",
+            "each run through twice, mirroring SN 45's own structure"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.99-110/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.89-98.html\">SN 46.89&ndash;98 &middot; "
+        "The Realized One, Etc.</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard Work</a> "
+        "&mdash; this project's own earlier treatment of the "
+        "identical hard-work similes, applied there to the eightfold "
+        "path.",
+    ],
+)
