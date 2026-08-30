@@ -37678,3 +37678,149 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.29 — Paṭhamasamaṇabrāhmaṇasutta
+# A new discourse form in this vagga: a criterion for who counts as a
+# "true" ascetic or brahmin, applied to the six sense faculties with
+# the same fivefold lens now met five times in this vagga. The
+# discourse's own title explicitly marks it "(1st)," signaling a
+# paired continuation this project has not yet read.
+# --------------------------------------------------------------------------- #
+page(
+    48, 29, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins (1st)",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.29 — Ascetics and Brahmins (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamaṇabrāhmaṇasutta — the Buddha's own criterion "
+        "for a true ascetic or brahmin: truly understanding the six "
+        "sense faculties' own origin, disappearance, gratification, "
+        "drawback, and escape. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly, "
+                     "in the first person about his own standard for "
+                     "true ascetics and brahmins"),
+        ("Form", "A contrastive statement, denying and then "
+                 "affirming the title \"true ascetic or brahmin\" by "
+                 "a single criterion"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; introduces a discourse form not yet "
+                         "met in this vagga, explicitly marked "
+                         "&ldquo;(1st)&rdquo; in its own title, "
+                         "signaling a paired continuation this "
+                         "project has not yet read"),
+    ],
+    why=(
+        "This discourse introduces a new form to this vagga: rather "
+        "than defining a disciple's own attainment, the Buddha sets "
+        "his own criterion for who deserves to be called a "
+        "&ldquo;true ascetic or brahmin&rdquo; at all &mdash; those "
+        "who truly understand the six sense faculties' own origin, "
+        "disappearance, gratification, drawback, and escape, and "
+        "those who do not."
+    ),
+    guide=[
+        ("A new discourse form: judging true ascetics and brahmins", [
+            "Confirmed by direct reading, this discourse's own form "
+            "differs from every earlier discourse in this vagga: "
+            "rather than describing a disciple's own attainment "
+            "(stream-enterer, arahant) or the Buddha's own "
+            "awakening, it sets a criterion for an entirely "
+            "different category &mdash; who counts as a genuine "
+            "ascetic or brahmin (samaṇa, brāhmaṇa) at all, contrasted "
+            "sharply against those who fail to meet it.",
+        ]),
+        ("The fivefold lens, now met five times in this vagga", [
+            "This project's own running tally: the fivefold "
+            "analytical lens (origin, disappearance, gratification, "
+            "drawback, escape) has now appeared in this vagga at SN "
+            "48.21, 48.26, 48.27, 48.28, and here at SN 48.29 "
+            "&mdash; a genuinely recurring structural device across "
+            "this vagga's own discourses, applied each time to "
+            "define a different category of person.",
+        ]),
+        ("A title marked \"(1st)\", signaling an unread continuation", [
+            "This project's own honest observation: this "
+            "discourse's own English title, &ldquo;Ascetics and "
+            "Brahmins (1st),&rdquo; and its Pāli title, "
+            "&ldquo;Paṭhamasamaṇabrāhmaṇasutta&rdquo; "
+            "(&ldquo;paṭhama,&rdquo; first), both explicitly signal a "
+            "paired second discourse to follow. This project declines "
+            "to guess at its own content in advance, per this "
+            "project's own established practice, and will read it "
+            "fresh when reached.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; this discourse continues the "
+             "six sense faculties named at SN 48.25-28"),
+        ("samaṇā vā brāhmaṇā", "&ldquo;ascetics or brahmins&rdquo; "
+             "&mdash; the category this discourse's own criterion "
+             "judges"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "same fivefold lens, now met five times across this "
+             "vagga"),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā", "&ldquo;the goal of "
+             "life as an ascetic or brahmin&rdquo; &mdash; what "
+             "genuine understanding of the six faculties allows one "
+             "to realize"),
+        ("Navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's ninth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.29:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own form differ from the earlier discourses in this vagga?",
+         "opts": ["It sets a criterion for who counts as a true ascetic or brahmin at all, rather than describing a disciple's own attainment", "It denies that ascetics and brahmins exist", "It repeats SN 48.26's own stream-enterer definition verbatim", "It abandons the six sense faculties for the five spiritual ones"],
+         "correct": 0,
+         "expl": "A genuinely new discourse form within this vagga's own survey."},
+        {"q": "How many times has the fivefold lens (origin, disappearance, gratification, drawback, escape) now appeared in this vagga, according to this project's own tally?",
+         "opts": ["Five times: SN 48.21, 48.26, 48.27, 48.28, and this discourse", "Only once, in this discourse alone", "Exactly ten times, once per discourse so far", "It has never appeared before this discourse"],
+         "correct": 0,
+         "expl": "A genuinely recurring structural device across this vagga's own discourses."},
+        {"q": "What does this discourse's own title signal about what comes next?",
+         "opts": ["A paired second discourse, marked \"(1st)\" here, which this project declines to guess the content of in advance", "That this is the vagga's own final discourse", "That the next discourse abandons the six sense faculties entirely", "Nothing — the title carries no such signal"],
+         "correct": 0,
+         "expl": "Consistent with this project's own established practice of reading each discourse fresh rather than assuming ahead."},
+    ],
+    marginalia=[
+        ("A new kind of judgment", [
+            "not a disciple's own attainment now —",
+            "but who deserves the name at all"
+        ]),
+        ("The lens, a fifth time", [
+            "origin, drawback, escape — again —",
+            "this vagga's own recurring measure"
+        ]),
+        ("Marked \"first\"", [
+            "paṭhama — a second still to come —",
+            "its own content not yet guessed at"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "brief as the others before it —",
+            "this vagga's own survey nears its close"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.28.html\">SN 48.28 &middot; Awakened</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
