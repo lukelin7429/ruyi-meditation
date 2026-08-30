@@ -31906,3 +31906,141 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.44 — Satisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 44, "Sati", "Mindful",
+    vagga="Amatavagga",
+    meta_title="SN 47.44 — Mindful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this Satisutta — a shorter variant of SN 47.35's own "
+        "discourse of the same name, defining only \"mindful\" "
+        "(sato) through the four kinds of mindfulness meditation, "
+        "without that earlier discourse's own separate definition of "
+        "\"aware\" (sampajāno). From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single definition of \"mindful,\" posed as a "
+                 "question and answered, framed as the Buddha's own "
+                 "personal instruction"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and worth comparing honestly to SN "
+                       "47.35's own longer discourse of the same "
+                       "name"),
+    ],
+    why=(
+        "This discourse shares its own title, Satisutta, with SN "
+        "47.35 earlier in this saṃyutta, and opens with the "
+        "identical &ldquo;this is my instruction to you&rdquo; "
+        "framing &mdash; but this project's own honest comparison "
+        "confirms a genuine difference: this discourse defines ONLY "
+        "&ldquo;mindful&rdquo; (sato), omitting SN 47.35's own "
+        "separate definition of &ldquo;aware&rdquo; (sampajāno) as "
+        "knowing feelings, thoughts, and perceptions arising and "
+        "passing away."
+    ),
+    guide=[
+        ("A shorter variant of SN 47.35, not a repetition", [
+            "Confirmed by direct reading, this discourse and SN "
+            "47.35 share the SAME title (Satisutta), the SAME "
+            "opening and closing frame (&ldquo;this is my "
+            "instruction to you&rdquo;), and the SAME definition of "
+            "&ldquo;mindful&rdquo; through the four kinds of "
+            "mindfulness meditation &mdash; but this discourse is "
+            "genuinely SHORTER, containing only that one definition.",
+        ]),
+        ("What is honestly absent here, compared to SN 47.35", [
+            "This project's own honest comparison confirms that SN "
+            "47.44 does NOT contain SN 47.35's own second half "
+            "&mdash; the separate definition of &ldquo;aware&rdquo; "
+            "(sampajāno) as knowing feelings, thoughts, and "
+            "perceptions as they arise, remain, and pass away "
+            "&mdash; a genuine textual difference between two "
+            "discourses that otherwise share a name and an opening "
+            "formula.",
+        ]),
+        ("A single-term teaching, complete in itself", [
+            "Confirmed by direct reading, this discourse's own "
+            "definition of &ldquo;mindful&rdquo; is presented as "
+            "COMPLETE on its own terms &mdash; it does not read as "
+            "an abridgement awaiting a second half, but as a "
+            "self-contained instruction focused entirely on what "
+            "&ldquo;mindful&rdquo; means.",
+        ]),
+    ],
+    terms=[
+        ("sato", "&ldquo;mindful&rdquo; &mdash; this discourse's own "
+             "sole title term, defined through the four kinds of "
+             "mindfulness meditation"),
+        ("bhikkhu sato hoti", "&ldquo;how a mendicant is "
+             "mindful&rdquo; &mdash; the discourse's own guiding "
+             "question, answered by the fourfold observation"),
+        ("anusāsanī", "&ldquo;instruction, counsel&rdquo; &mdash; "
+             "the term framing this discourse as the Buddha's own "
+             "personal teaching, shared with SN 47.35's own opening"),
+        ("sampajāno", "&ldquo;aware, clearly comprehending&rdquo; "
+             "&mdash; the term defined separately in SN 47.35, but "
+             "NOT present in this shorter discourse"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; observing body, "
+             "feelings, mind, and principles, the sole content of "
+             "this discourse's own definition"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.44:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does this discourse share with SN 47.35, and what does it genuinely lack?",
+         "opts": ["Shares the same title and opening formula, but lacks SN 47.35's own separate definition of \"aware\" (sampajāno)", "Shares nothing at all with SN 47.35", "Contains everything SN 47.35 contains, plus additional material", "Is identical to SN 47.35 in every respect"],
+         "correct": 0,
+         "expl": "A genuine textual difference this project's own honest comparison confirms — this discourse is shorter."},
+        {"q": "How does this discourse define \"mindful\" (sato)?",
+         "opts": ["Through the four kinds of mindfulness meditation — body, feelings, mind, and principles", "Through knowing feelings arising and passing away", "Through a list of monastic precepts", "It gives no definition at all"],
+         "correct": 0,
+         "expl": "The same fourfold observation used throughout this saṃyutta's own discourses."},
+        {"q": "How does this discourse's own single definition read, on its own terms?",
+         "opts": ["As a complete, self-contained instruction, not an abridgement awaiting a second half", "As clearly incomplete and cut off mid-sentence", "As a question left permanently unanswered", "As a direct quotation from a different discourse"],
+         "correct": 0,
+         "expl": "Focused entirely on what \"mindful\" means, without needing a further definition to feel complete."},
+    ],
+    marginalia=[
+        ("Same name, same opening — but shorter", [
+            "Satisutta, \"this is my instruction to you\" —",
+            "yet only half of SN 47.35's own content"
+        ]),
+        ("What's honestly missing here", [
+            "no separate definition of \"aware\" (sampajāno) —",
+            "a genuine difference, not an oversight to smooth over"
+        ]),
+        ("Complete in itself, not truncated", [
+            "one definition, standing on its own —",
+            "not an abridgement awaiting a second half"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "six more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.35.html\">SN 47.35 &middot; Mindful</a> "
+        "&mdash; the earlier discourse of the same name, containing "
+        "a second definition of \"aware\" not found here.",
+        "<a href=\"sn-47.43.html\">SN 47.43 &middot; The Path</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
