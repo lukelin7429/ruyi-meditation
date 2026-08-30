@@ -43962,3 +43962,162 @@ page_range(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.83-92 — Appamādavaggo (merged peyyāla range, cross-reference only)
+# Vagga 9, confirmed by direct bilara-data reading to carry NO
+# worked example of its own -- unlike SN 46.89-98's own version of
+# this identical vagga (which at least quotes the opening
+# "Realized One" simile before its cross-reference instruction), SN
+# 48's own copy gives only the bare source instruction, "(Tell in
+# full as in the chapter on diligence at SN 45.139-148.)", plus its
+# own closing uddāna listing all ten similes by name. This project's
+# own already-completed Appamādapeyyālavagga (SN 45.139-148) and its
+# own already-completed second cross-reference instance (SN
+# 46.89-98) are both directly confirmed as the same ten-simile
+# content, here applied to the five faculties.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 83, 92, "Appamāda", "The Chapter on Diligence",
+    vagga="Appamādavagga",
+    meta_title="SN 48.83–92 — The Chapter on Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.83–92 — ten discourses on diligence, cross-referenced "
+        "in full to this project's own already-completed "
+        "Appamādapeyyālavagga, here applied to the five faculties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a pure cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single explicit cross-reference instruction, "
+                 "with no independent example, plus a closing uddāna"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; the most compressed instance yet "
+                         "of a vagga this project has now met three "
+                         "separate times"),
+    ],
+    why=(
+        "This merged file carries no independent content of its own "
+        "at all &mdash; confirmed by direct reading, it consists "
+        "solely of the source's own explicit instruction, "
+        "&ldquo;tell in full as in the chapter on diligence at SN "
+        "45.139&ndash;148,&rdquo; plus its own closing uddāna. This "
+        "is the third time this project has met this identical "
+        "ten-simile vagga, after SN 45.139-148 (the eightfold path) "
+        "and SN 46.89-98 (the awakening factors), and the most "
+        "compressed of the three."
+    ),
+    guide=[
+        ("A pure cross-reference, with no worked example at all", [
+            "Confirmed by direct reading, this file gives neither the "
+            "full simile-by-simile content (as SN 45.139-148 did) "
+            "nor even a single worked example (as SN 46.89-98 still "
+            "did, quoting its own opening &ldquo;Realized One&rdquo; "
+            "simile before its cross-reference) &mdash; SN 48's own "
+            "copy of this vagga is compressed one step further "
+            "still, carrying only the bare instruction itself.",
+        ]),
+        ("Ten similes, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.139-148: "
+            "the ten similes are the Realized One, a footprint, a "
+            "roof's peak, roots, heartwood, jasmine, a monarch, the "
+            "sun and moon, and cloth &mdash; each illustrating how "
+            "diligence grounds every skillful quality, here applied "
+            "to the developed five faculties rather than the "
+            "eightfold path or the awakening factors.",
+        ]),
+        ("A third instance, confirming a genuinely reused formula", [
+            "This project's own observation: having now met this "
+            "identical ten-simile Appamādavagga structure three "
+            "separate times across three different saṃyuttas "
+            "&mdash; each time cross-referencing rather than "
+            "rewriting the underlying content, and each time slightly "
+            "more compressed than the last &mdash; confirms this as a "
+            "genuinely standard closing formula across this book's "
+            "own peyyāla vaggas, not a coincidence specific to any "
+            "one of them.",
+        ]),
+    ],
+    terms=[
+        ("Appamādavaggo vitthāretabbo", "&ldquo;the Diligence "
+             "chapter is to be elaborated in full&rdquo; &mdash; this "
+             "file's own sole substantive instruction, pointing "
+             "entirely to SN 45.139-148 rather than repeating that "
+             "content"),
+        ("appamāda", "&ldquo;diligence, heedfulness&rdquo; &mdash; "
+             "this vagga's own governing quality, in which every "
+             "skillful teaching is said to be rooted"),
+        ("tathāgataṁ padaṁ kūṭaṁ", "&ldquo;the Realized One, "
+             "footprint, roof peak&rdquo; &mdash; the closing "
+             "uddāna's own opening line, naming the first three of "
+             "this vagga's own ten similes"),
+        ("mūlaṁ sārena vassikaṁ; rājā candimasūriyā, vatthena "
+         "dasamaṁ padaṁ", "&ldquo;roots, heartwood, jasmine, "
+             "monarch, sun and moon, and cloth is the tenth&rdquo; "
+             "&mdash; the uddāna's remaining seven similes, "
+             "completing the count of ten"),
+        ("Appamādavaggo navamo", "&ldquo;the Diligence chapter, the "
+             "ninth&rdquo; &mdash; confirming this vagga's own "
+             "position as the ninth in this saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.83-92:1.1"),
+        ("p", "Uddāna", "sn48.83-92:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this file's own content compare to SN 46.89-98's own earlier version of the identical vagga?",
+         "opts": ["It is even more compressed, carrying no worked example at all, only the bare cross-reference instruction", "It is longer, spelling out all ten similes individually", "It contains a completely different set of similes", "It applies to a sixth faculty not found in the other two versions"],
+         "correct": 0,
+         "expl": "SN 46 at least quoted its own opening \"Realized One\" simile; SN 48's own copy does not."},
+        {"q": "What does the closing uddāna confirm about this vagga's own similes?",
+         "opts": ["Ten similes: the Realized One, footprint, roof peak, roots, heartwood, jasmine, monarch, sun and moon, and cloth", "Only a single simile, repeated ten times", "Five similes, matching the five faculties", "No similes at all — the vagga is a purely abstract list"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.139-148."},
+        {"q": "What does this project note about meeting this identical vagga a third time?",
+         "opts": ["It confirms this is a genuinely standard closing formula reused across this book's own peyyāla vaggas, each time more compressed", "It proves the formula was invented specifically for the five faculties", "It shows the three saṃyuttas involved have no relationship to one another", "It means no further peyyāla vaggas remain in this book"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison across SN 45.139-148, SN 46.89-98, and this discourse."},
+    ],
+    marginalia=[
+        ("Not even one example, this time", [
+            "SN 46 kept the Realized One —",
+            "SN 48 points elsewhere entirely"
+        ]),
+        ("Ten similes, named only in the uddāna", [
+            "footprint, roof-peak, roots, and more —",
+            "the full content lives at SN 45.139"
+        ]),
+        ("A third meeting, a genuine pattern", [
+            "eightfold path, awakening factors, now five faculties —",
+            "one formula, reused three times over"
+        ]),
+        ("A vagga carried by cross-reference alone", [
+            "the shortest of its own three instances —",
+            "yet still confirmed to span ten discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.83-92/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.71-82.html\">SN 48.71&ndash;82 &middot; "
+        "Slanting East, Etc.</a> &mdash; the previous page, closing "
+        "the preceding vagga.",
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own earlier treatment of "
+        "the identical diligence similes, applied there to the "
+        "eightfold path.",
+    ],
+)
