@@ -43657,3 +43657,154 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.70 — Catuttharukkhasutta
+# Closes Vagga 7 (Bodhipakkhiyavagga) at exactly ten discourses,
+# confirmed by its own closing colophon ("Bodhipakkhiyavaggo
+# sattamo") and uddāna verse, which sums 2+2+2+4 = 10, matching every
+# one of the six vaggas completed earlier this session. The fourth
+# and final tree simile, moving from the human, heavenly, and asura
+# realms to that of the supaṇṇas (garuḍas), whose finest tree is the
+# kūṭasimbalī — famed in the tradition as the garuḍas' own nesting
+# tree.
+# --------------------------------------------------------------------------- #
+page(
+    48, 70, "Catuttharukkha", "A Tree (4th)",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.70 — A Tree (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catuttharukkhasutta — the Red Silk-Cotton Tree of the "
+        "supaṇṇas, closing Vagga 7 (Bodhipakkhiyavagga) at exactly "
+        "ten discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A simile: the kūṭasimbalī tree of the supaṇṇas, "
+                 "followed by the vagga's own closing colophon and "
+                 "uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Vagga 7 at exactly ten "
+                         "discourses, confirmed by its own colophon "
+                         "and uddāna, matching every vagga completed "
+                         "earlier this session"),
+    ],
+    why=(
+        "This discourse closes Vagga 7 (Bodhipakkhiyavagga) with its "
+        "own fourth tree simile and, crucially, its own closing "
+        "colophon and uddāna verse &mdash; confirming, in the text's "
+        "own words rather than by assumption, that this vagga "
+        "contains exactly ten discourses, the same length as every "
+        "one of the six vaggas this project completed earlier this "
+        "session."
+    ),
+    guide=[
+        ("The fourth tree, and the series now complete", [
+            "Confirmed by direct reading, this discourse extends the "
+            "tree-simile series &mdash; human (SN 48.67), Tāvatiṃsa "
+            "(SN 48.68), asura (SN 48.69) &mdash; into a fourth "
+            "realm, the supaṇṇas, whose finest tree is the "
+            "kūṭasimbalī, closing the series at four rather than "
+            "continuing indefinitely.",
+        ]),
+        ("Kūṭasimbalī: the garuḍas' own nesting tree", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: the "
+            "&ldquo;supaṇṇa&rdquo; (also rendered "
+            "&ldquo;garuḍa&rdquo; or here, "
+            "&ldquo;phoenix&rdquo;) are a class of great mythic "
+            "birds, and the kūṭasimbalī (Red Silk-Cotton, or "
+            "Bombax, Tree) is held in the tradition as their own "
+            "great nesting tree &mdash; the finest of their realm, "
+            "as jambu, Pāricchattaka, and Cittapāṭali were finest of "
+            "theirs.",
+        ]),
+        ("The uddāna confirms: exactly ten, a seventh vagga complete", [
+            "This discourse's own closing colophon "
+            "(&ldquo;Bodhipakkhiyavaggo sattamo,&rdquo; &ldquo;the "
+            "seventh Bodhipakkhiyavagga, concluded&rdquo;) and its "
+            "own uddāna verse settle, rather than merely suggest, "
+            "this vagga's own length: &ldquo;saṁyojanā anusayā, "
+            "pariññā āsavakkhayā; dve phalā caturo rukkhā&rdquo; "
+            "sums to fetters (1) + tendencies (1) + complete "
+            "understanding (1) + ending of defilements (1) + two "
+            "fruits (2, bundled as &ldquo;dve phalā&rdquo;) + four "
+            "trees (4, bundled as &ldquo;caturo rukkhā&rdquo;) = ten "
+            "&mdash; confirming, for the seventh consecutive vagga "
+            "this session, the same closing length as every vagga "
+            "before it.",
+        ]),
+    ],
+    terms=[
+        ("supaṇṇānaṁ rukkhā", "&ldquo;the trees belonging to the "
+             "supaṇṇas (garuḍas)&rdquo; &mdash; this discourse's own "
+             "setting for its simile"),
+        ("kūṭasimbalī", "&ldquo;the Red Silk-Cotton Tree&rdquo; "
+             "&mdash; held in the tradition as the garuḍas' own "
+             "great nesting tree"),
+        ("Bodhipakkhiyavaggo sattamo", "&ldquo;the seventh "
+             "Bodhipakkhiyavagga, concluded&rdquo; &mdash; this "
+             "discourse's own closing colophon"),
+        ("Saṁyojanā anusayā, pariññā āsavakkhayā; dve phalā caturo "
+         "rukkhā", "the vagga's own uddāna (summary verse), naming "
+             "its own ten discourses in order: fetters, tendencies, "
+             "complete understanding, ending of defilements, two "
+             "fruits, four trees"),
+        ("Dasamaṁ", "&ldquo;the tenth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's tenth "
+             "and final discourse"),
+    ],
+    text_intro=("The complete discourse, including its own closing "
+        "colophon and uddāna. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.70:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own uddāna verse confirm about Vagga 7?",
+         "opts": ["It contains exactly ten discourses, matching every vagga completed earlier this session", "It contains exactly nine discourses, one fewer than every prior vagga", "It has no fixed length and continues indefinitely", "It is the shortest vagga in the entire Saṃyutta Nikāya"],
+         "correct": 0,
+         "expl": "Saṁyojanā anusayā, pariññā āsavakkhayā; dve phalā caturo rukkhā sums to 1+1+1+1+2+4 = 10."},
+        {"q": "What is the kūṭasimbalī, as general canonical background?",
+         "opts": ["The garuḍas' own great nesting tree, finest tree of their realm", "A tree found exclusively in the human realm", "A synonym for the five faculties themselves", "A tree associated only with the asura realm"],
+         "correct": 0,
+         "expl": "Held in the tradition as the finest tree of the supaṇṇa (garuḍa) realm."},
+        {"q": "How many realms does the tree-simile series (SN 48.67-70) span in total?",
+         "opts": ["Four: human, Tāvatiṃsa, asura, and supaṇṇa", "Only two: human and heavenly", "Six, matching the traditional six sense bases", "An unlimited, open-ended number of realms"],
+         "correct": 0,
+         "expl": "Jambudīpa, Tāvatiṃsa, the asuras, and finally the supaṇṇas — closed at four, not continued indefinitely."},
+    ],
+    marginalia=[
+        ("The fourth tree, the series closed", [
+            "human, heavenly, titan, and now bird-realm &mdash;",
+            "four similes, one point held constant"
+        ]),
+        ("The garuḍas' own great tree", [
+            "kūṭasimbalī, red and towering &mdash;",
+            "wisdom named foremost even here"
+        ]),
+        ("A seventh vagga, confirmed at ten", [
+            "the uddāna itself does the counting &mdash;",
+            "not this project's habit, but the text's own pattern"
+        ]),
+        ("Tenth discourse, Dasamaṁ", [
+            "Bodhipakkhiyavaggo sattamo, concluded &mdash;",
+            "one more vagga closed, more still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.70/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.69.html\">SN 48.69 &middot; A Tree (3rd)</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following vagga is still in "
+        "preparation.",
+    ],
+)
