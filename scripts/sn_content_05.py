@@ -46765,3 +46765,156 @@ page_range(
         "vagga, there keeping the three searches defined in full.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.45-54 — Oghādisutta
+# Vagga 5 (Oghavagga), confirmed by direct reading to differ
+# genuinely from every prior instance of this discourse this project
+# has met (SN 48.115-124, SN 48.169-178, SN 49.45-54): this file
+# carries NO closing colophon and NO uddāna at all -- it simply ends
+# after its own worked example and cross-reference instruction, with
+# no vagga-position marker or discourse list. Confirmed by directly
+# listing bilara-data's own directory: five further merged files
+# (SN 50.55-66 through SN 50.99-108) follow this one, meaning this
+# vagga does NOT close the saṃyutta, unlike SN 48's and SN 49's own
+# final "Oghavagga" instances -- SN 50 is a genuinely larger
+# saṃyutta, confirmed rather than assumed from its own opening scale.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 45, 54, "Oghādi", "Floods, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 50.45–54 — Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.45–54 — the five higher fetters given in full, "
+        "developed by the five powers, closing a vagga but not the "
+        "saṃyutta itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "One discourse given in full; no closing colophon "
+                 "or uddāna at all"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; genuinely lacks the colophon and "
+                         "uddāna every prior instance of this "
+                         "discourse carried, confirmed by direct "
+                         "reading rather than assumed present"),
+    ],
+    why=(
+        "This discourse gives the five higher fetters in full, "
+        "developed by the five powers &mdash; but unlike every prior "
+        "instance of this exact discourse this project has met (SN "
+        "48.115-124, SN 48.169-178, SN 49.45-54), this file carries "
+        "no closing colophon and no uddāna at all. Confirmed by "
+        "directly listing bilara-data's own directory: five further "
+        "merged files follow this one, meaning Vagga 5 does not "
+        "close SN 50 itself, unlike its own namesakes in SN 48 and "
+        "SN 49."
+    ),
+    guide=[
+        ("A vagga closing, not a saṃyutta closing", [
+            "Confirmed by direct reading, this file's own final "
+            "segment is simply &ldquo;(Evaṁ vitthāretabbā),&rdquo; "
+            "(&ldquo;thus it should be elaborated&rdquo;) &mdash; no "
+            "&ldquo;Oghavaggo pañcamo&rdquo;-style colophon, and no "
+            "uddāna verse, appear anywhere in this file. Confirmed "
+            "by directly listing bilara-data's own directory, five "
+            "further merged files (SN 50.55-66 through SN 50.99-108) "
+            "follow, meaning this vagga does not close the "
+            "saṃyutta, unlike its own SN 48 and SN 49 counterparts.",
+        ]),
+        ("The five higher fetters, once more", [
+            "Mirroring the higher-fetters discourse already met "
+            "three times before, this discourse gives the five "
+            "higher fetters (desire for the form and formless "
+            "realms, conceit, restlessness, ignorance) in full, now "
+            "developed by the five powers rather than the eightfold "
+            "path, five faculties, or four right efforts.",
+        ]),
+        ("A genuinely larger saṃyutta, confirmed rather than assumed", [
+            "This project's own explicit observation: SN 50's own "
+            "ten merged files (versus SN 49's own five) already "
+            "suggested a roughly doubled scale when this saṃyutta "
+            "was first opened; this file's own missing colophon, "
+            "confirming further content still lies ahead, settles "
+            "that suggestion into direct confirmation rather than "
+            "leaving it an inference.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; identical to this discourse's "
+             "own three prior instances at SN 48.115-124, SN "
+             "48.169-178, and SN 49.45-54"),
+        ("pañca balāni bhāvetabbāni", "&ldquo;the five powers should "
+             "be developed&rdquo; &mdash; this saṃyutta's own "
+             "governing subject, closing this vagga"),
+        ("(Evaṁ vitthāretabbā)", "&ldquo;thus it should be "
+             "elaborated&rdquo; &mdash; this file's own final "
+             "segment, with no colophon or uddāna following it, "
+             "genuinely unlike this discourse's own three prior "
+             "instances"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ "
+         "vossaggapariṇāmiṁ", "&ldquo;relying on seclusion, fading "
+             "away, and cessation, ripening as letting go&rdquo; "
+             "&mdash; the closing formula for each power's own "
+             "development"),
+        ("Oghavaggo", "&ldquo;the Floods chapter&rdquo; &mdash; this "
+             "vagga's own name, confirmed at its own opening "
+             "&ldquo;0.2&rdquo; field as the fifth vagga, though no "
+             "closing colophon confirms this within the file itself"),
+    ],
+    text_intro=("The complete content of this file, which ends "
+        "without a closing colophon or uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.45-54:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What genuinely differs about this file compared to this discourse's own three prior instances?",
+         "opts": ["It carries no closing colophon or uddāna at all, unlike SN 48.115-124, SN 48.169-178, and SN 49.45-54", "It is identical in every respect to the three prior instances", "It gives an entirely different set of higher fetters", "It applies to the eightfold path rather than the five powers"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the file simply ends after its own cross-reference instruction."},
+        {"q": "What does directly listing bilara-data's own directory confirm about this vagga's own position?",
+         "opts": ["Five further merged files follow, so this vagga does NOT close SN 50, unlike its SN 48 and SN 49 counterparts", "This is definitely the final vagga of SN 50", "SN 50 has no further content beyond this file", "This vagga's own position cannot be determined at all"],
+         "correct": 0,
+         "expl": "Confirmed by directly listing the directory rather than assumed from the vagga's own recurring name."},
+        {"q": "What does this project note about SN 50's own overall scale?",
+         "opts": ["This file's own missing colophon confirms further content lies ahead, settling the earlier suggestion of a doubled scale into direct confirmation", "SN 50 is confirmed to be smaller than SN 49", "SN 50's own scale remains entirely unknown", "This file proves SN 50 has exactly 54 discourses"],
+         "correct": 0,
+         "expl": "The ten merged files already suggested a larger saṃyutta; this file's own structure confirms it directly."},
+    ],
+    marginalia=[
+        ("No colophon, no uddāna", [
+            "three prior instances both had one —",
+            "this file simply stops"
+        ]),
+        ("A vagga's own end, not the saṃyutta's own", [
+            "five more files still follow —",
+            "confirmed by the directory itself"
+        ]),
+        ("The five higher fetters, a fourth time", [
+            "form-realm, formless-realm, conceit, restlessness, ignorance —",
+            "now developed by the five powers"
+        ]),
+        ("A larger saṃyutta, no longer just suspected", [
+            "ten merged files, not five —",
+            "this file's own missing colophon confirms it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.45-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.35-44.html\">SN 50.35&ndash;44 &middot; "
+        "Searches</a> &mdash; the previous page, closing Vagga 4.",
+        "<a href=\"sn-49.45-54.html\">SN 49.45&ndash;54 &middot; "
+        "Floods, Etc.</a> &mdash; this project's own most recent "
+        "prior instance of this discourse, there closing the entire "
+        "Sammappadhānasaṁyutta with its own colophon and uddāna.",
+    ],
+)
