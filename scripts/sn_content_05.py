@@ -21399,3 +21399,1146 @@ page(
         "the next vagga, Breathing, is still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 7. Ānāpānavagga — Breathing (SN 46.57-66)
+# Confirmed by direct bilara-data reading: this vagga's own colophon
+# ("Ānāpānavaggo sattamo," "the Breathing chapter, the seventh") is
+# unambiguous, matching this project's own count. SN 46.57 (Skeleton)
+# is confirmed to bundle SIX separately-titled canonical suttas under
+# a single site-facing number (Aṭṭhikamahapphalasutta,
+# Aññataraphalasutta, Mahatthasutta, Yogakkhemasutta, Saṁvegasutta,
+# Phāsuvihārasutta), each restating the identical skeleton-perception
+# claim with a different one of six named benefits (very fruitful;
+# one of two fruits; great benefit; great sanctuary from the yoke;
+# great inspiration; dwelling in great ease) -- yet the Pāli root's
+# own closing numeral counts this entire six-part bundle as only "the
+# first" of the vagga's own ten topics. Every remaining discourse
+# (SN 46.58-66) is confirmed, by direct root-Pāli reading, to compress
+# to a single elided line each, implicitly carrying the identical
+# sixfold benefit structure established at SN 46.57 but applied to a
+# new meditation topic -- this project describes that implicit
+# repetition honestly rather than inventing the elided text.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.57 — Aṭṭhikasutta (bundling six named suttas)
+# --------------------------------------------------------------------------- #
+page(
+    46, 57, "Aṭṭhika", "A Skeleton",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.57 — A Skeleton | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṭṭhikasutta — six separately-titled suttas bundled "
+        "under one number, each restating the skeleton perception "
+        "with a different one of six named benefits, all developed "
+        "together with the seven awakening factors. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Six separately-titled suttas bundled under one "
+                 "number, each restating the identical claim with a "
+                 "different named benefit"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a new vagga with this saṃyutta's own "
+                       "most compressed bundling yet"),
+    ],
+    why=(
+        "The perception of a skeleton &mdash; a meditation on the "
+        "body's own bare bones, part of the traditional charnel-ground "
+        "contemplations &mdash; is developed together with the seven "
+        "awakening factors and shown, across six separately-named "
+        "ancient suttas bundled here under a single number, to yield "
+        "six distinct benefits in turn: it is very fruitful; it "
+        "yields one of two specific fruits; it leads to great "
+        "benefit; to great sanctuary from the yoke; to great "
+        "inspiration; and to dwelling in great ease."
+    ),
+    guide=[
+        ("Six named suttas, one site-facing number", [
+            "Confirmed by direct reading of the root Pāli, this "
+            "single discourse actually bundles six separately titled "
+            "ancient suttas &mdash; Aṭṭhikamahapphalasutta, "
+            "Aññataraphalasutta, Mahatthasutta, Yogakkhemasutta, "
+            "Saṁvegasutta, and Phāsuvihārasutta &mdash; each restating "
+            "the identical skeleton-perception-plus-awakening-factors "
+            "claim with only its own named benefit changed. Yet the "
+            "Pāli root's own closing numeral counts this entire "
+            "six-part bundle as only &ldquo;the first&rdquo; topic of "
+            "the vagga's own ten &mdash; confirming that this vagga's "
+            "own topic count (ten) is independent of how many times "
+            "the underlying sixfold benefit formula repeats within "
+            "each topic.",
+        ]),
+        ("A specific, named outcome for the not-yet-fully-free", [
+            "The second of the six sub-suttas names a precise "
+            "outcome: &ldquo;enlightenment in this very life, or if "
+            "there's residue left behind, non-return&rdquo; &mdash; "
+            "one of the more specific soteriological claims in this "
+            "saṃyutta, naming exactly two possible outcomes rather "
+            "than a vague spiritual benefit.",
+        ]),
+    ],
+    terms=[
+        ("aṭṭhikasaññā", "&ldquo;the perception of a skeleton&rdquo; "
+             "&mdash; a traditional charnel-ground meditation on the "
+             "body's own bare bones, this vagga's own opening topic"),
+        ("mahapphalā... mahānisaṁsā", "&ldquo;very fruitful and "
+             "beneficial&rdquo; &mdash; the first of six named "
+             "benefits, the claim shared by all ten topics of this "
+             "vagga"),
+        ("diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā",
+             "&ldquo;enlightenment in this very life, or if there's "
+             "residue left behind, non-return&rdquo; &mdash; the "
+             "specific twofold outcome named in the second of this "
+             "discourse's own six bundled suttas"),
+        ("mahato yogakkhemāya... mahato saṁvegāya... mahato "
+             "phāsuvihārāya", "&ldquo;great sanctuary from the "
+             "yoke... great inspiration... dwelling in great ease"
+             "&rdquo; &mdash; three further named benefits, each its "
+             "own separately titled ancient sutta"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the Pāli "
+             "root's own closing numeral, counting this entire "
+             "six-part bundle as only the vagga's own first of ten "
+             "topics"),
+    ],
+    text_intro=("Every genuinely translated fragment across this "
+        "discourse's own six bundled suttas. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "1. Very fruitful and beneficial",
+             "sn46.57:1.1-1.6"),
+        ("p", "2. One of two fruits", "sn46.57:2.1-2.2"),
+        ("p", "3. Great benefit", "sn46.57:3.1-3.2"),
+        ("p", "4. Great sanctuary from the yoke", "sn46.57:4.1-4.2"),
+        ("p", "5. Great inspiration", "sn46.57:5.1-5.2"),
+        ("p", "6. Dwelling in great ease", "sn46.57:6.1-6.2"),
+    ],
+    quiz=[
+        {"q": "How many separately-titled ancient suttas does this single discourse bundle under one number?",
+         "opts": ["Six, each restating the skeleton perception with a different named benefit", "Only one, with no internal bundling", "Ten, matching the vagga's own total topic count", "Sixty, one for each possible combination"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pāli, each sub-sutta carrying its own separate title."},
+        {"q": "What does the Pāli root's own closing numeral count this entire six-part bundle as?",
+         "opts": ["Only \"the first\" of the vagga's own ten topics, regardless of the internal sixfold repetition", "Six separate topics, one for each sub-sutta", "The entire vagga in a single count", "An uncountable, indeterminate number"],
+         "correct": 0,
+         "expl": "Confirming this vagga's own topic count (ten) is independent of how many times the sixfold formula repeats."},
+        {"q": "What specific twofold outcome does the second bundled sutta name?",
+         "opts": ["Enlightenment in this very life, or non-return if residue is left behind", "Rebirth in the highest heaven, or immediate extinguishment", "Wealth in this life, or fame after death", "No specific outcome is named"],
+         "correct": 0,
+         "expl": "One of this saṃyutta's own more precisely specified soteriological claims."},
+    ],
+    marginalia=[
+        ("A new vagga, a bundled opening", [
+            "six named suttas, one number —",
+            "confirmed by the root's own separate titles"
+        ]),
+        ("Six benefits, one shared claim", [
+            "very fruitful, two fruits, great benefit —",
+            "sanctuary, inspiration, and dwelling in ease"
+        ]),
+        ("A count that ignores its own internal repetition", [
+            "\"the first,\" the colophon says of all six —",
+            "topics counted, not their own formula's own echoes"
+        ]),
+        ("Nine discourses remain in this vagga", [
+            "each will compress this same sixfold structure —",
+            "worm-infested, livid, split open, bloated, and more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.56.html\">SN 46.56 &middot; With Prince "
+        "Abhaya</a> &mdash; the previous page, closing the preceding "
+        "vagga.",
+        "<a href=\"sn-46.58.html\">SN 46.58 &middot; "
+        "Worm-Infested</a> &mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.58 — Puḷavakasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 58, "Puḷavaka", "Worm-Infested",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.58 — Worm-Infested | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Puḷavakasutta — the perception of a worm-infested "
+        "corpse, this vagga's own second charnel-ground topic, "
+        "implicitly carrying the same sixfold benefit structure "
+        "established at SN 46.57. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.57"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, referring back to SN 46.57's "
+                 "own sixfold benefit structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, the first of this vagga's own "
+                       "compressed topics"),
+    ],
+    why=(
+        "The perception of a worm-infested corpse &mdash; another "
+        "traditional charnel-ground contemplation &mdash; is named "
+        "here as this vagga's own second topic, confirmed by direct "
+        "reading of the root Pāli to compress the entire sixfold "
+        "benefit structure established at SN 46.57 into a single "
+        "elided line."
+    ),
+    guide=[
+        ("A single traditionally-numbered discourse, confirmed", [
+            "Unlike SN 46.57's own six-part bundle, this discourse's "
+            "own root Pāli closes with a single title (Puḷavakasutta) "
+            "and a single closing numeral (&ldquo;dutiyaṁ,&rdquo; "
+            "&ldquo;the second&rdquo;) &mdash; confirming it "
+            "represents just one of this vagga's own ten topics, its "
+            "own sixfold benefit elaboration left entirely to "
+            "elision rather than written out again.",
+        ]),
+    ],
+    terms=[
+        ("puḷavakasaññā", "&ldquo;the perception of a worm-infested "
+             "corpse&rdquo; &mdash; this vagga's own second "
+             "charnel-ground meditation topic"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase describing sustained "
+             "meditative practice, here immediately followed by the "
+             "source's own elision"),
+        ("mahapphalā mahānisaṁsā", "the implied benefit carried over "
+             "from SN 46.57's own full elaboration, understood but "
+             "not repeated here"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic, per "
+             "SN 46.57's own established pattern"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the Pāli "
+             "root's own closing numeral, confirming this discourse's "
+             "own position as a single topic, not a further bundle"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it, including its own elision. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.58:1.1"),
+    ],
+    quiz=[
+        {"q": "What confirms this discourse represents only one topic, unlike SN 46.57's own six-part bundle?",
+         "opts": ["The root Pāli's own single title and closing numeral (\"the second\")", "The English translation explicitly states so", "This project's own assumption without checking the source", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pāli's own structure."},
+        {"q": "What sixfold structure does this discourse implicitly carry, per SN 46.57's own established pattern?",
+         "opts": ["Very fruitful; one of two fruits; great benefit; great sanctuary from the yoke; great inspiration; dwelling in great ease", "A completely different, unrelated structure", "No structure at all — the discourse stands alone", "Only two benefits, not six"],
+         "correct": 0,
+         "expl": "Left to elision here, but confirmed explicitly at SN 46.57's own opening bundle."},
+        {"q": "What does this discourse's own topic have in common with SN 46.57's own skeleton perception?",
+         "opts": ["Both are traditional charnel-ground contemplations on the body's own decomposition", "Nothing — the two topics are entirely unrelated", "Both are meditations on the breath", "Both are meditations on loving-kindness"],
+         "correct": 0,
+         "expl": "A closely related family of body-contemplation topics opening this vagga's own sequence."},
+    ],
+    marginalia=[
+        ("A second charnel-ground topic", [
+            "worm-infested, after the bare skeleton —",
+            "the same sixfold structure, left implicit"
+        ]),
+        ("One topic, not a further bundle", [
+            "confirmed by a single title and numeral —",
+            "\"the second,\" plainly counted"
+        ]),
+        ("Compression, not omission", [
+            "the benefits still apply —",
+            "simply not repeated in full here"
+        ]),
+        ("Eight discourses remain in this vagga", [
+            "livid, split open, bloated corpses —",
+            "then love, compassion, rejoicing, equanimity, and breath"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.57.html\">SN 46.57 &middot; A "
+        "Skeleton</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.59.html\">SN 46.59 &middot; Livid</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.59 — Vinīlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 59, "Vinīlaka", "Livid",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.59 — Livid | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vinīlakasutta — the perception of a livid, discolored "
+        "corpse, this vagga's own third charnel-ground topic. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.58"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own sequence"),
+    ],
+    why=(
+        "The perception of a livid, discolored corpse &mdash; the "
+        "third of this vagga's own charnel-ground contemplations "
+        "&mdash; continues the identical compressed pattern already "
+        "confirmed at SN 46.58, implicitly carrying the sixfold "
+        "benefit structure established at SN 46.57."
+    ),
+    guide=[
+        ("A third topic, the identical compressed pattern", [
+            "Confirmed by direct reading, this discourse's own root "
+            "Pāli follows the identical single-line elision pattern "
+            "already met at SN 46.58, closing with its own numeral "
+            "(&ldquo;the third&rdquo;) confirming its own position as "
+            "one distinct topic among this vagga's own ten.",
+        ]),
+    ],
+    terms=[
+        ("vinīlakasaññā", "&ldquo;the perception of a livid corpse"
+             "&rdquo; &mdash; a body discolored, typically blue-black, "
+             "in early decomposition, this vagga's own third topic"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase describing sustained "
+             "meditative practice, followed by the source's own "
+             "elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("mahapphalā mahānisaṁsā", "the implied benefit carried over "
+             "from SN 46.57's own full elaboration"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.59:1.1"),
+    ],
+    quiz=[
+        {"q": "What does the perception of a \"livid\" corpse refer to?",
+         "opts": ["A body discolored, typically blue-black, in early decomposition", "A body that has just died with no visible change", "A skeleton with no remaining flesh", "A body that has been cremated"],
+         "correct": 0,
+         "expl": "One of the traditional stages of charnel-ground observation used as a meditation subject."},
+        {"q": "What confirms this discourse's own position as a single distinct topic?",
+         "opts": ["The Pāli root's own closing numeral, \"the third\"", "An explicit English translation stating so", "The discourse's own great length", "A comparison with an unrelated saṃyutta"],
+         "correct": 0,
+         "expl": "Consistent with the pattern already confirmed at SN 46.58."},
+        {"q": "What is developed together with the perception of a livid corpse, per this vagga's own established pattern?",
+         "opts": ["The seven awakening factors", "The five aggregates", "The four noble truths", "Nothing further — the perception stands alone"],
+         "correct": 0,
+         "expl": "Every topic in this saṃyutta is paired with the seven awakening factors, this vagga's own core teaching."},
+    ],
+    marginalia=[
+        ("A third charnel-ground topic", [
+            "livid, discolored, decomposing —",
+            "the same sixfold structure, still implicit"
+        ]),
+        ("A confirmed position, not a guess", [
+            "\"the third,\" the root's own numeral says —",
+            "one topic among this vagga's own ten"
+        ]),
+        ("The same compressed rhythm continues", [
+            "one line, one elision, one topic —",
+            "confirmed fresh at each discourse"
+        ]),
+        ("Seven discourses remain in this vagga", [
+            "split open, bloated corpses next —",
+            "then the four immeasurables, and breath"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.58.html\">SN 46.58 &middot; "
+        "Worm-Infested</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.60.html\">SN 46.60 &middot; Split "
+        "Open</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.60 — Vicchiddakasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 60, "Vicchiddaka", "Split Open",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.60 — Split Open | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vicchiddakasutta — the perception of a split-open "
+        "corpse, this vagga's own fourth charnel-ground topic. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.59"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own sequence"),
+    ],
+    why=(
+        "The perception of a split-open corpse &mdash; the fourth of "
+        "this vagga's own charnel-ground contemplations &mdash; "
+        "continues the identical compressed pattern, implicitly "
+        "carrying the sixfold benefit structure established at "
+        "SN 46.57."
+    ),
+    guide=[
+        ("A fourth topic, the identical compressed pattern", [
+            "Confirmed by direct reading, this discourse follows the "
+            "same single-line elision pattern already met twice "
+            "before, closing with its own numeral (&ldquo;the fourth"
+            "&rdquo;) confirming its own position as one distinct "
+            "topic among this vagga's own ten.",
+        ]),
+    ],
+    terms=[
+        ("vicchiddakasaññā", "&ldquo;the perception of a split-open "
+             "corpse&rdquo; &mdash; a body torn or cut apart, this "
+             "vagga's own fourth charnel-ground topic"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("mahapphalā mahānisaṁsā", "the implied benefit carried over "
+             "from SN 46.57's own full elaboration"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.60:1.1"),
+    ],
+    quiz=[
+        {"q": "What does the perception of a \"split-open\" corpse refer to?",
+         "opts": ["A body that has been torn or cut apart", "A body that shows no visible damage", "A skeleton with no remaining flesh", "A body still alive but injured"],
+         "correct": 0,
+         "expl": "Another of the traditional charnel-ground observation stages used as a meditation subject."},
+        {"q": "How many discourses in this vagga have now followed the identical single-line elision pattern?",
+         "opts": ["Three, at SN 46.58, 46.59, and this discourse", "None — this is the first such discourse", "All ten discourses in the vagga", "Only this single discourse"],
+         "correct": 0,
+         "expl": "Confirming a consistent, repeated compression pattern across this vagga's own middle topics."},
+        {"q": "What comes immediately after this discourse in the vagga's own sequence?",
+         "opts": ["SN 46.61 (Bloated), closing this vagga's own group of five charnel-ground topics", "A return to SN 46.57's own six-part bundle", "The vagga's own closing colophon", "A shift to an entirely new saṃyutta"],
+         "correct": 0,
+         "expl": "The fifth and final body-contemplation topic before this vagga's own attention shifts to the four immeasurables."},
+    ],
+    marginalia=[
+        ("A fourth charnel-ground topic", [
+            "split open, torn apart —",
+            "the same sixfold structure, still implicit"
+        ]),
+        ("The pattern holds a third time", [
+            "worm-infested, livid, now split open —",
+            "each its own single elided line"
+        ]),
+        ("Confirmed position, not assumed", [
+            "\"the fourth,\" the root's own numeral says —",
+            "checked fresh, not carried over blindly"
+        ]),
+        ("Six discourses remain in this vagga", [
+            "bloated corpse next —",
+            "then the four immeasurables, and breath"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.59.html\">SN 46.59 &middot; Livid</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.61.html\">SN 46.61 &middot; Bloated</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.61 — Uddhumātakasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 61, "Uddhumātaka", "Bloated",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.61 — Bloated | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uddhumātakasutta — the perception of a bloated corpse, "
+        "closing this vagga's own five charnel-ground topics before "
+        "the four immeasurables and breathing follow. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.60"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closing this vagga's own charnel-ground "
+                       "sequence"),
+    ],
+    why=(
+        "The perception of a bloated corpse &mdash; the fifth and "
+        "final charnel-ground topic in this vagga's own sequence "
+        "&mdash; closes the group of five body-contemplation topics "
+        "(skeleton, worm-infested, livid, split open, bloated) before "
+        "this vagga's own attention shifts to the four immeasurable "
+        "states and mindfulness of breathing."
+    ),
+    guide=[
+        ("The fifth and final charnel-ground topic", [
+            "Confirmed by the uddāna's own explicit numbering "
+            "(&ldquo;vicchiddakaṁ uddhumātena pañcamaṁ,&rdquo; "
+            "&ldquo;split open, and bloated, the fifth&rdquo;), this "
+            "discourse closes a coherent group of five body "
+            "contemplations before the vagga's own remaining five "
+            "topics turn to entirely different subjects: love, "
+            "compassion, rejoicing, equanimity, and the breath.",
+        ]),
+    ],
+    terms=[
+        ("uddhumātakasaññā", "&ldquo;the perception of a bloated "
+             "corpse&rdquo; &mdash; a body swollen in decomposition, "
+             "closing this vagga's own five charnel-ground topics"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with this meditation topic"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral, confirmed explicitly by "
+             "the vagga's own uddāna as closing the charnel-ground "
+             "group"),
+        ("mahapphalā mahānisaṁsā", "the implied benefit carried over "
+             "from SN 46.57's own full elaboration"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.61:1.1"),
+    ],
+    quiz=[
+        {"q": "What group of five topics does this discourse close?",
+         "opts": ["The charnel-ground body contemplations (skeleton, worm-infested, livid, split open, bloated)", "The five hindrances", "The five aggregates", "The five faculties"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own uddāna, explicitly numbering this as \"the fifth\" of this specific group."},
+        {"q": "What five topics does this vagga's own attention turn to after this discourse?",
+         "opts": ["Love, compassion, rejoicing, equanimity, and mindfulness of breathing", "Five more charnel-ground contemplations", "The five lower fetters and five higher fetters", "A return to the five hindrances"],
+         "correct": 0,
+         "expl": "A shift from body contemplation to the four immeasurable states and breath meditation."},
+        {"q": "What does \"bloated\" refer to in the context of this meditation topic?",
+         "opts": ["A corpse swollen in the process of decomposition", "A living person who has overeaten", "A monastic robe that has absorbed water", "A river that has flooded its banks"],
+         "correct": 0,
+         "expl": "The fifth stage of charnel-ground observation in this vagga's own sequence."},
+    ],
+    marginalia=[
+        ("The fifth and final charnel-ground topic", [
+            "bloated, closing this specific group —",
+            "confirmed explicitly by the vagga's own uddāna"
+        ]),
+        ("Five body contemplations, complete", [
+            "skeleton, worm-infested, livid, split open, bloated —",
+            "each carrying the same sixfold benefit implicitly"
+        ]),
+        ("A shift in subject follows", [
+            "love, compassion, rejoicing, equanimity next —",
+            "then mindfulness of breathing closes the vagga"
+        ]),
+        ("Five discourses remain in this vagga", [
+            "the four immeasurables, then breath —",
+            "each still compressed to a single elided line"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.60.html\">SN 46.60 &middot; Split "
+        "Open</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.62.html\">SN 46.62 &middot; Love</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.62 — Mettāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 62, "Mettā", "Love",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.62 — Love | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mettāsutta — love, the first of this vagga's own four "
+        "immeasurable states, implicitly paired with the same "
+        "sixfold benefit structure established at SN 46.57. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.61"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, marking a shift from body "
+                 "contemplation to the four immeasurable states"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, opening this vagga's own second group "
+                       "of topics"),
+    ],
+    why=(
+        "Love (mettā) &mdash; already met in its own fully "
+        "elaborated form at SN 46.54 &mdash; returns here as this "
+        "vagga's own sixth topic overall, marking a clear shift from "
+        "the five charnel-ground body contemplations just completed "
+        "to the four immeasurable states, all still carrying the same "
+        "sixfold benefit structure established at SN 46.57."
+    ),
+    guide=[
+        ("A topic shift, confirmed by the vagga's own uddāna", [
+            "The vagga's own closing uddāna groups &ldquo;mettā "
+            "karuṇā muditā, upekkhā&rdquo; (love, compassion, "
+            "rejoicing, equanimity) together as a distinct set, "
+            "confirming this discourse opens a genuinely new "
+            "sequence within the vagga rather than continuing the "
+            "charnel-ground group.",
+        ]),
+        ("A second appearance, in this vagga's own compressed idiom", [
+            "Where SN 46.54 elaborated love's own apex in full detail "
+            "(the beautiful, reached through flexible perception of "
+            "the repulsive and unrepulsive), this discourse compresses "
+            "the entire teaching to a single elided line &mdash; the "
+            "same topic, treated in this vagga's own established "
+            "shorthand rather than repeated in full.",
+        ]),
+    ],
+    terms=[
+        ("mettā", "&ldquo;love&rdquo; or &ldquo;loving-kindness"
+             "&rdquo; &mdash; the first of the four immeasurable "
+             "states, already met in fuller elaboration at SN 46.54"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with love, per this vagga's own "
+             "established pattern"),
+        ("mahapphalā mahānisaṁsā", "the implied sixfold benefit "
+             "carried over from SN 46.57's own full elaboration"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.62:1.1"),
+    ],
+    quiz=[
+        {"q": "What shift does this discourse mark within the vagga's own sequence?",
+         "opts": ["From the five charnel-ground body contemplations to the four immeasurable states", "From breathing meditation back to the charnel ground", "From the seven awakening factors to an entirely new topic", "No shift — this continues the charnel-ground group"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own uddāna, which groups love, compassion, rejoicing, and equanimity as a distinct set."},
+        {"q": "Where was love already treated in fuller elaboration earlier in this saṃyutta?",
+         "opts": ["SN 46.54, naming its own specific meditative apex (the beautiful)", "SN 46.1, the dragon simile", "SN 46.33, the gold corruptions simile", "Love has not appeared anywhere else in this saṃyutta"],
+         "correct": 0,
+         "expl": "This discourse compresses that same topic into this vagga's own established single-line shorthand."},
+        {"q": "What is developed together with love, per this vagga's own established pattern?",
+         "opts": ["The seven awakening factors", "The five hindrances", "The four noble truths", "Nothing further — love stands alone here"],
+         "correct": 0,
+         "expl": "Every topic in this vagga implicitly pairs with the seven awakening factors, this saṃyutta's own core teaching."},
+    ],
+    marginalia=[
+        ("A shift in topic, confirmed by the uddāna", [
+            "the charnel ground gives way to love —",
+            "the first of four immeasurable states"
+        ]),
+        ("Met once before, in fuller form", [
+            "SN 46.54 named love's own apex —",
+            "here compressed to a single line"
+        ]),
+        ("The same sixfold benefit, still implicit", [
+            "very fruitful, and the rest —",
+            "carried forward without repeating"
+        ]),
+        ("Four discourses remain in this vagga", [
+            "compassion, rejoicing, equanimity —",
+            "then breathing closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.61.html\">SN 46.61 &middot; Bloated</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.63.html\">SN 46.63 &middot; "
+        "Compassion</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.63 — Karuṇāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 63, "Karuṇā", "Compassion",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.63 — Compassion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Karuṇāsutta — compassion, the second of this vagga's "
+        "own four immeasurable states, continuing this vagga's own "
+        "compressed sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.62"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own second "
+                       "topic group"),
+    ],
+    why=(
+        "Compassion (karuṇā) &mdash; already elaborated at SN 46.54 "
+        "as culminating in the dimension of infinite space &mdash; "
+        "returns here as this vagga's own seventh topic overall, "
+        "continuing the compressed single-line treatment already "
+        "established for love at SN 46.62."
+    ),
+    guide=[
+        ("The second of four immeasurables, in this vagga's own shorthand", [
+            "Confirmed by direct reading, this discourse follows the "
+            "identical elision pattern already met at SN 46.62, "
+            "closing with its own numeral (&ldquo;the seventh&rdquo;) "
+            "&mdash; the same topic already elaborated in full detail "
+            "at SN 46.54, here compressed to this vagga's own "
+            "established shorthand.",
+        ]),
+    ],
+    terms=[
+        ("karuṇā", "&ldquo;compassion&rdquo; &mdash; the second of "
+             "the four immeasurable states, already met in fuller "
+             "elaboration at SN 46.54, there culminating in the "
+             "dimension of infinite space"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with compassion"),
+        ("mahapphalā mahānisaṁsā", "the implied sixfold benefit "
+             "carried over from SN 46.57's own full elaboration"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.63:1.1"),
+    ],
+    quiz=[
+        {"q": "Where was compassion already treated in fuller elaboration earlier in this saṃyutta?",
+         "opts": ["SN 46.54, naming the dimension of infinite space as its own apex", "SN 46.6, Kuṇḍaliya's own conversion narrative", "SN 46.17, the verse discourse", "Compassion has not appeared anywhere else in this saṃyutta"],
+         "correct": 0,
+         "expl": "This discourse compresses that same topic into this vagga's own established single-line shorthand."},
+        {"q": "What pattern does this discourse continue from SN 46.62's own treatment of love?",
+         "opts": ["The identical single-line elision, applied to a new immeasurable state", "An entirely new, unrelated presentation format", "A return to the full elaboration of SN 46.54", "A contradiction of SN 46.62's own claims"],
+         "correct": 0,
+         "expl": "Consistent with this vagga's own established compressed idiom for its own second group of topics."},
+        {"q": "What is compassion's own specific apex, per SN 46.54's own fuller account?",
+         "opts": ["The dimension of infinite space", "The dimension of nothingness", "The dimension of infinite consciousness", "No specific apex is named"],
+         "correct": 0,
+         "expl": "The second of three formless attainments mapped onto the final three immeasurable states."},
+    ],
+    marginalia=[
+        ("Compassion, in this vagga's own shorthand", [
+            "already elaborated at SN 46.54 —",
+            "here compressed to a single line"
+        ]),
+        ("The second of four immeasurables", [
+            "love came first, compassion follows —",
+            "the same compressed pattern held"
+        ]),
+        ("Infinite space, its own remembered apex", [
+            "named in full at SN 46.54 —",
+            "implied, not repeated, here"
+        ]),
+        ("Three discourses remain in this vagga", [
+            "rejoicing, equanimity —",
+            "then breathing closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.63/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.62.html\">SN 46.62 &middot; Love</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.64.html\">SN 46.64 &middot; "
+        "Rejoicing</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.64 — Muditāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 64, "Muditā", "Rejoicing",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.64 — Rejoicing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Muditāsutta — rejoicing, the third of this vagga's own "
+        "four immeasurable states, continuing this vagga's own "
+        "compressed sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.63"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, matching this vagga's own "
+                 "established compressed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, continuing this vagga's own second "
+                       "topic group"),
+    ],
+    why=(
+        "Rejoicing (muditā) &mdash; already elaborated at SN 46.54 "
+        "as culminating in the dimension of infinite consciousness "
+        "&mdash; returns here as this vagga's own eighth topic "
+        "overall, continuing this vagga's own established compressed "
+        "idiom."
+    ),
+    guide=[
+        ("The third of four immeasurables, in this vagga's own shorthand", [
+            "Confirmed by direct reading, this discourse follows the "
+            "identical elision pattern already met at SN 46.62-63, "
+            "closing with its own numeral (&ldquo;the eighth&rdquo;) "
+            "&mdash; the same topic already elaborated in full detail "
+            "at SN 46.54, here compressed to this vagga's own "
+            "established shorthand.",
+        ]),
+    ],
+    terms=[
+        ("muditā", "&ldquo;rejoicing&rdquo; or &ldquo;sympathetic "
+             "joy&rdquo; &mdash; the third of the four immeasurable "
+             "states, already met in fuller elaboration at SN 46.54, "
+             "there culminating in the dimension of infinite "
+             "consciousness"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with rejoicing"),
+        ("mahapphalā mahānisaṁsā", "the implied sixfold benefit "
+             "carried over from SN 46.57's own full elaboration"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.64:1.1"),
+    ],
+    quiz=[
+        {"q": "Where was rejoicing already treated in fuller elaboration earlier in this saṃyutta?",
+         "opts": ["SN 46.54, naming the dimension of infinite consciousness as its own apex", "SN 46.39, the strangler-fig simile", "SN 46.42, the Wheel-Turning Monarch simile", "Rejoicing has not appeared anywhere else in this saṃyutta"],
+         "correct": 0,
+         "expl": "This discourse compresses that same topic into this vagga's own established single-line shorthand."},
+        {"q": "What is rejoicing's own specific apex, per SN 46.54's own fuller account?",
+         "opts": ["The dimension of infinite consciousness", "The dimension of infinite space", "The dimension of nothingness", "No specific apex is named"],
+         "correct": 0,
+         "expl": "The third of three formless attainments mapped onto the final three immeasurable states."},
+        {"q": "What confirms this discourse's own position as the eighth topic of this vagga?",
+         "opts": ["The Pāli root's own closing numeral, \"the eighth\"", "An explicit statement in the English translation", "A comparison with an unrelated saṃyutta", "The discourse's own great length"],
+         "correct": 0,
+         "expl": "Consistent with the sequential numbering confirmed throughout this vagga's own ten topics."},
+    ],
+    marginalia=[
+        ("Rejoicing, in this vagga's own shorthand", [
+            "already elaborated at SN 46.54 —",
+            "here compressed to a single line"
+        ]),
+        ("The third of four immeasurables", [
+            "love, compassion, now rejoicing —",
+            "the same compressed pattern held"
+        ]),
+        ("Infinite consciousness, its own remembered apex", [
+            "named in full at SN 46.54 —",
+            "implied, not repeated, here"
+        ]),
+        ("Two discourses remain in this vagga", [
+            "equanimity next —",
+            "then breathing closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.64/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.63.html\">SN 46.63 &middot; "
+        "Compassion</a> &mdash; the previous discourse.",
+        "<a href=\"sn-46.65.html\">SN 46.65 &middot; "
+        "Equanimity</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 46.65 — Upekkhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, 65, "Upekkhā", "Equanimity",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.65 — Equanimity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upekkhāsutta — equanimity, closing this vagga's own "
+        "four immeasurable states before mindfulness of breathing "
+        "closes the vagga itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.64"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, closing this vagga's own "
+                 "four immeasurable states"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, closing this vagga's own second topic "
+                       "group"),
+    ],
+    why=(
+        "Equanimity (upekkhā) &mdash; already elaborated at SN 46.54 "
+        "as culminating in the dimension of nothingness &mdash; "
+        "closes this vagga's own group of four immeasurable states, "
+        "with only mindfulness of breathing remaining to close the "
+        "vagga itself."
+    ),
+    guide=[
+        ("The fourth and final immeasurable, closing this topic group", [
+            "Confirmed by direct reading, this discourse completes "
+            "the set of four immeasurable states (love, compassion, "
+            "rejoicing, equanimity) named together in the vagga's own "
+            "closing uddāna &mdash; the same topic already elaborated "
+            "at SN 46.54, here compressed to this vagga's own "
+            "established shorthand, closing with its own numeral "
+            "(&ldquo;the ninth&rdquo;).",
+        ]),
+    ],
+    terms=[
+        ("upekkhā", "&ldquo;equanimity&rdquo; &mdash; the fourth and "
+             "final of the four immeasurable states, already met in "
+             "fuller elaboration at SN 46.54, there culminating in "
+             "the dimension of nothingness"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with equanimity"),
+        ("mahapphalā mahānisaṁsā", "the implied sixfold benefit "
+             "carried over from SN 46.57's own full elaboration"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral for this discourse"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.65:1.1"),
+    ],
+    quiz=[
+        {"q": "What group of topics does this discourse close?",
+         "opts": ["The four immeasurable states (love, compassion, rejoicing, equanimity)", "The five charnel-ground body contemplations", "The seven awakening factors themselves", "The entire vagga, with no discourse following"],
+         "correct": 0,
+         "expl": "Confirmed by the vagga's own uddāna, naming all four immeasurables together as a set."},
+        {"q": "Where was equanimity already treated in fuller elaboration earlier in this saṃyutta?",
+         "opts": ["SN 46.54, naming the dimension of nothingness as its own apex", "SN 46.28, the \"penetrate and shatter\" image", "SN 46.55, the five bowls of water", "Equanimity has not appeared anywhere else in this saṃyutta"],
+         "correct": 0,
+         "expl": "This discourse compresses that same topic into this vagga's own established single-line shorthand."},
+        {"q": "What discourse remains to close this vagga after this one?",
+         "opts": ["SN 46.66, mindfulness of breathing", "A return to SN 46.57's own six-part bundle", "No discourse remains — this closes the vagga", "A shift to a new saṃyutta entirely"],
+         "correct": 0,
+         "expl": "The vagga's own tenth and final topic, closing with its own colophon and uddāna."},
+    ],
+    marginalia=[
+        ("Equanimity, closing the four immeasurables", [
+            "love, compassion, rejoicing, now equanimity —",
+            "already elaborated at SN 46.54"
+        ]),
+        ("Nothingness, its own remembered apex", [
+            "the third and final formless attainment —",
+            "implied, not repeated, here"
+        ]),
+        ("A set of four, now complete", [
+            "confirmed together in the vagga's own uddāna —",
+            "one topic remains to close the vagga"
+        ]),
+        ("Mindfulness of breathing closes the vagga", [
+            "the tenth and final topic —",
+            "with its own colophon and closing uddāna"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.65/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.64.html\">SN 46.64 &middot; Rejoicing</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-46.66.html\">SN 46.66 &middot; Breathing</a> "
+        "&mdash; the next discourse, closing this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 46.66 — Ānāpānasutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    46, 66, "Ānāpāna", "Breathing",
+    vagga="Ānāpānavagga",
+    meta_title="SN 46.66 — Breathing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānāpānasutta — mindfulness of breathing, this vagga's "
+        "own tenth and final topic, closing with its own colophon and "
+        "the vagga's own naming uddāna. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 46.65"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, closing this vagga's own ten "
+                 "topics"),
+        ("Length", "&lt;1 minute to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own ten topics, giving "
+                       "the vagga its own name"),
+    ],
+    why=(
+        "Mindfulness of breathing (ānāpānassati) &mdash; the "
+        "meditation subject giving this entire vagga its own name "
+        "&mdash; closes the sequence with the identical single-line "
+        "compression already applied to the eight preceding topics, "
+        "confirmed by the vagga's own colophon to be its own tenth "
+        "and final subject."
+    ),
+    guide=[
+        ("The vagga's own namesake, closing rather than opening", [
+            "Unlike vaggas named for their own opening discourse "
+            "(such as the Pabbatavagga, named for SN 46.1's own "
+            "mountain simile), this vagga takes its own name "
+            "(Ānāpānavagga) from its own CLOSING topic &mdash; "
+            "mindfulness of breathing, a meditation practice "
+            "significant enough elsewhere in the canon (notably the "
+            "much longer Ānāpānasati Sutta, MN 118) to lend its own "
+            "name to this entire ten-topic sequence despite occupying "
+            "only its own final, single-line position here.",
+        ]),
+        ("A colophon and uddāna, confirming this vagga's own count", [
+            "The Pāli root closes with &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;the tenth&rdquo;) and &ldquo;Ānāpānavaggo "
+            "sattamo&rdquo; (&ldquo;the Breathing chapter, the "
+            "seventh&rdquo;), matching this project's own count "
+            "without discrepancy. The closing uddāna names all ten "
+            "topics in order: skeleton, worm-infested, livid; split "
+            "open, bloated (the fifth); love, compassion, rejoicing; "
+            "equanimity and breathing, these ten.",
+        ]),
+    ],
+    terms=[
+        ("ānāpānassati", "&ldquo;mindfulness of breathing&rdquo; "
+             "&mdash; the meditation subject giving this entire vagga "
+             "its own name, closing rather than opening its own "
+             "sequence"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated"
+             "&rdquo; &mdash; the standard phrase, followed by the "
+             "source's own elision"),
+        ("satta bojjhaṅgā", "the seven awakening factors, implicitly "
+             "developed together with mindfulness of breathing"),
+        ("ānāpānavaggo sattamo", "&ldquo;the Breathing chapter, the "
+             "seventh&rdquo; &mdash; unambiguous confirmation of this "
+             "vagga's own position, matching this project's own "
+             "count without discrepancy"),
+        ("dasamaṁ", "&ldquo;the tenth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral, confirming this vagga's own "
+             "total of ten topics"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it, closing the Ānāpānavagga. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.66:1.1"),
+    ],
+    quiz=[
+        {"q": "What is unusual about how this vagga gets its own name, compared to a vagga like the Pabbatavagga?",
+         "opts": ["It is named for its own closing topic (breathing), not its own opening discourse", "It is named for a discourse that doesn't actually appear in the vagga", "It has no name at all", "It shares its own name with an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "The Pabbatavagga, by contrast, is named for SN 46.1's own opening mountain simile."},
+        {"q": "What longer, well-known discourse elsewhere in the canon treats mindfulness of breathing at much greater length?",
+         "opts": ["The Ānāpānasati Sutta (MN 118)", "The Dhammacakkappavattana Sutta", "The Mahāparinibbāna Sutta", "The Satipaṭṭhāna Sutta alone, with no other text on breathing"],
+         "correct": 0,
+         "expl": "A significant enough practice elsewhere in the canon to lend its own name to this entire ten-topic vagga."},
+        {"q": "What does this vagga's own closing colophon confirm?",
+         "opts": ["An unambiguous position as the seventh vagga of this saṃyutta, with ten total topics, matching this project's own count", "A disputed count between the sixth and seventh vagga", "That this vagga actually belongs to a different saṃyutta", "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed without discrepancy, consistent with several vaggas already confirmed throughout SN 46."},
+    ],
+    marginalia=[
+        ("Breathing, closing rather than opening", [
+            "the vagga's own name, from its own final topic —",
+            "unlike vaggas named for what comes first"
+        ]),
+        ("A practice significant enough elsewhere", [
+            "MN 118's own much longer treatment —",
+            "here, just this vagga's own single closing line"
+        ]),
+        ("A colophon without discrepancy, confirmed again", [
+            "\"the Breathing chapter, the seventh\" —",
+            "matching this project's own count exactly"
+        ]),
+        ("Ten topics, one vagga, complete", [
+            "five charnel-ground contemplations, four immeasurables —",
+            "and breathing, closing the whole sequence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.65.html\">SN 46.65 &middot; "
+        "Equanimity</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Cessation, is still in preparation.",
+    ],
+)
