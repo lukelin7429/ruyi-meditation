@@ -39752,3 +39752,153 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.43 — Sāketasutta
+# A new topic in this vagga: the five spiritual faculties and the
+# five spiritual powers are the same reality, differing only by
+# explanatory method (pariyāya) — the identical key term already met
+# at SN 48.38's own trilogy conclusion, now reused for a genuinely
+# different subject. Illustrated by the vivid simile of a river
+# reckoned as one stream or two, depending purely on how the water is
+# counted around a mid-river island.
+# --------------------------------------------------------------------------- #
+page(
+    48, 43, "Sāketa", "At Sāketa",
+    vagga="Jarāvagga",
+    meta_title="SN 48.43 — At Sāketa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sāketasutta — the five spiritual faculties and the five "
+        "spiritual powers are the same reality, illustrated by the "
+        "simile of a river reckoned as one stream or two around a "
+        "mid-river island. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāketa, the deer park at Añjana Wood"),
+        ("Speakers", "The Buddha, posing a question to the "
+                     "mendicants; the mendicants, deferring to the "
+                     "Buddha's own explanation"),
+        ("Form", "A question posed and deferred, then answered with "
+                 "a doctrinal identity and a simile"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a genuinely new topic in this "
+                         "vagga, reusing the key term "
+                         "&ldquo;pariyāya&rdquo; already met at SN "
+                         "48.38's own trilogy conclusion for a "
+                         "different subject entirely"),
+    ],
+    why=(
+        "This discourse introduces a genuinely new topic to this "
+        "vagga: the five spiritual faculties (faith, energy, "
+        "mindfulness, immersion, wisdom) and the five spiritual "
+        "powers are declared to be the SAME reality, differing only "
+        "by explanatory method (pariyāya) &mdash; the identical key "
+        "term this project's own SN 48.38 already used to frame the "
+        "five-to-three feeling-faculty relationship, now reused for "
+        "an entirely different pairing."
+    ),
+    guide=[
+        ("Faculties and powers: one reality, two names", [
+            "Confirmed by direct reading, this discourse states "
+            "outright that each spiritual faculty IS its "
+            "corresponding power, and each power IS its "
+            "corresponding faculty &mdash; not two separate things "
+            "that happen to resemble each other, but the same "
+            "underlying reality named two different ways depending "
+            "on the explanatory method used.",
+        ]),
+        ("A direct echo of \"pariyāya\" from SN 48.38", [
+            "Confirmed by direct comparison, this discourse's own "
+            "governing question &mdash; whether there is a "
+            "&ldquo;method&rdquo; (pariyāya) by which the five "
+            "faculties become the five powers and back again "
+            "&mdash; reuses the identical key term this project's "
+            "own SN 48.38 used to frame the five-feeling-faculties/"
+            "three-feelings relationship, now applied to a completely "
+            "different pairing: the same word doing the same "
+            "conceptual work across two unrelated topics.",
+        ]),
+        ("The island-in-a-river simile", [
+            "Confirmed by direct reading, this discourse's own "
+            "simile makes the abstract point vivid: a river flowing "
+            "around a mid-river island can be reckoned as ONE stream "
+            "(counting the water to its east and west) or as TWO "
+            "streams (counting the water to its north and south) "
+            "&mdash; the water itself never changes; only the method "
+            "of counting does. By the same method, faculty and power "
+            "are the identical water, counted two different ways.",
+        ]),
+    ],
+    terms=[
+        ("pariyāya", "&ldquo;method, way of explaining&rdquo; "
+             "&mdash; the same key term this project's own SN 48.38 "
+             "already used, here reused for a different pairing"),
+        ("saddhindriyaṁ &hellip; taṁ saddhābalaṁ", "&ldquo;the "
+             "faculty of faith &hellip; is the power of faith&rdquo; "
+             "&mdash; the pattern repeated for all five faculties "
+             "and their corresponding powers"),
+        ("nadī pācīnaninnā", "&ldquo;a river slanting &hellip; to "
+             "the east&rdquo; &mdash; the discourse's own simile, "
+             "with an island splitting it into apparent streams"),
+        ("eko soto / dve sotāni", "&ldquo;one stream&rdquo; / "
+             "&ldquo;two streams&rdquo; &mdash; the same river, "
+             "reckoned differently depending purely on which water "
+             "is counted"),
+        ("Tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's third "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-3 &mdash; the Buddha's own question and the "
+              "mendicants' own deferral", "sn48.43:1.1-3.1"),
+        ("p", "&sect;4-6 &mdash; the identity stated, the river "
+              "simile, and the closing arahant formula", "sn48.43:4.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse declare about the five faculties and the five powers?",
+         "opts": ["They are the same underlying reality, named two different ways depending on the explanatory method", "They are two entirely separate and unrelated sets of qualities", "The powers replace the faculties once a mendicant becomes an arahant", "Only the faculty of wisdom has a corresponding power"],
+         "correct": 0,
+         "expl": "An identity, not merely a resemblance — illustrated by the river simile."},
+        {"q": "What key term does this discourse share with this project's own SN 48.38?",
+         "opts": ["\"Pariyāya\" (method), used there for the five-feeling-faculties/three-feelings relationship and here for faculties and powers", "\"Anupādāvimutto\" (freed by not grasping)", "\"Mudutarehi\" (weaker than that)", "\"Sotāpanno\" (stream-enterer)"],
+         "correct": 0,
+         "expl": "The same word doing the same conceptual work across two unrelated topics."},
+        {"q": "What does the island-in-a-river simile illustrate?",
+         "opts": ["The same water can be reckoned as one stream or two, depending purely on the method of counting, not on any actual change in the water", "That rivers with islands are inherently unstable", "That the five powers are stronger than the five faculties", "That mendicants should meditate near rivers specifically"],
+         "correct": 0,
+         "expl": "The water itself never changes; only the explanatory method does — exactly as with faculty and power."},
+    ],
+    marginalia=[
+        ("The mendicants defer to the Buddha", [
+            "our teachings are rooted in you —",
+            "a classic formula of trust before the answer"
+        ]),
+        ("One reality, counted two ways", [
+            "faculty and power, the very same thing —",
+            "not two, only two names for one"
+        ]),
+        ("An island splits the water", [
+            "east and west make one stream —",
+            "north and south make two"
+        ]),
+        ("A word reused, a topic new", [
+            "pariyāya, met before at SN 48.38 —",
+            "now explaining a different pair entirely"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.42.html\">SN 48.42 &middot; The Brahmin "
+        "Uṇṇābha</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
