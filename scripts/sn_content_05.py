@@ -44600,3 +44600,153 @@ page_range(
         "to the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.125-136 — Punapācīnādisutta (merged peyyāla range)
+# Vagga 13, "Punagaṅgāpeyyālavagga" ("Another Chapter of Abbreviated
+# Texts on the Ganges") -- confirmed by direct reading to reuse the
+# same river simile as Vagga 8 (SN 48.71-82), but with a genuinely
+# different closing formula: rather than "relying on seclusion,
+# fading away, and cessation, ripening as letting go," this version
+# closes with "culminating in the removal of greed, hate, and
+# delusion" -- confirmed word for word, not assumed identical merely
+# because the vagga name and river image repeat.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 125, 136, "Punapācīnādi", "Another on Sloping East, Etc.",
+    vagga="Punagaṅgāpeyyālavagga",
+    meta_title="SN 48.125–136 — Another on Sloping East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.125–136 — the Ganges river simile again, but closing "
+        "with the removal of greed, hate, and delusion rather than "
+        "this book's own earlier seclusion formula. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching the river formula "
+                     "already met at SN 48.71-82"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A river simile, twelve discourses merged into a "
+                 "single bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the same river image as Vagga 8, "
+                         "confirmed to close with a genuinely "
+                         "different formula"),
+    ],
+    why=(
+        "This vagga's own name, &ldquo;Punagaṅgāpeyyālavagga&rdquo; "
+        "(&ldquo;Another Chapter of Abbreviated Texts on the "
+        "Ganges&rdquo;), announces its own reuse of Vagga 8's river "
+        "simile &mdash; but direct reading confirms a genuine "
+        "difference: where SN 48.71-82 closed with &ldquo;relying on "
+        "seclusion, fading away, and cessation, ripening as letting "
+        "go,&rdquo; this vagga closes with &ldquo;culminating in the "
+        "removal of greed, hate, and delusion&rdquo; instead."
+    ),
+    guide=[
+        ("The same river, a different closing formula", [
+            "Confirmed by direct comparison with this project's own "
+            "SN 48.71-82, the opening image is identical word for "
+            "word &mdash; the Ganges river slanting, sloping, and "
+            "inclining to the east &mdash; but the closing formula "
+            "describing how the five faculties are developed differs "
+            "genuinely: &ldquo;rāgavinayapariyosānaṁ "
+            "dosavinayapariyosānaṁ mohavinayapariyosānaṁ&rdquo; "
+            "(&ldquo;culminating in the removal of greed, hate, and "
+            "delusion&rdquo;), not the earlier vagga's own "
+            "&ldquo;vivekanissitaṁ...vossaggapariṇāmiṁ.&rdquo;",
+        ]),
+        ("Twelve discourses again, confirmed by the identical uddāna", [
+            "This vagga's own closing uddāna &mdash; &ldquo;cha "
+            "pācīnato ninnā, cha ninnā ca samuddato; dvete cha "
+            "dvādasa honti&rdquo; &mdash; is character-for-character "
+            "identical to SN 48.71-82's own, confirming the same "
+            "twelvefold structure (six on slanting east, six on "
+            "slanting to the ocean) even while the substantive "
+            "content of the faculties' own development differs.",
+        ]),
+        ("Vagga 13, confirmed by this file's own colophon", [
+            "This discourse's own closing colophon, &ldquo;"
+            "Gaṅgāpeyyālavaggo terasamo&rdquo; (&ldquo;the Ganges "
+            "Abbreviated-Texts chapter, the thirteenth&rdquo;), "
+            "confirms this vagga's own position without ambiguity, "
+            "matching this project's own running count.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; identical to this vagga's own "
+             "earlier counterpart at SN 48.71-82"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; this "
+             "vagga's own genuinely different closing formula"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;"
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the shared three-verb structure, unchanged "
+             "from Vagga 8"),
+        ("Gaṅgāpeyyālavaggo terasamo", "&ldquo;the Ganges "
+             "Abbreviated-Texts chapter, the thirteenth&rdquo; "
+             "&mdash; this file's own closing colophon, confirming "
+             "this vagga's own position"),
+        ("cha pācīnato ninnā, cha ninnā ca samuddato", "&ldquo;six on "
+             "slanting to the east, and six on slanting to the "
+             "ocean&rdquo; &mdash; this vagga's own uddāna, "
+             "character-for-character identical to Vagga 8's own"),
+    ],
+    text_intro=("The complete genuinely translated content of this "
+        "merged file, including its own closing uddāna. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.125-136:1.1-1.5"),
+        ("p", "Uddāna", "sn48.125-136:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this vagga's own closing formula differ from Vagga 8's own (SN 48.71-82)?",
+         "opts": ["It closes with the removal of greed, hate, and delusion, rather than \"relying on seclusion...ripening as letting go\"", "It is character-for-character identical in every respect", "It removes the river simile entirely", "It applies to the eightfold path rather than the five faculties"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuine difference, not assumed identical from the shared vagga name."},
+        {"q": "What does this vagga's own uddāna confirm, compared to Vagga 8's own uddāna?",
+         "opts": ["It is character-for-character identical, confirming the same twelvefold structure", "It describes an entirely different number of discourses", "It contains no uddāna at all", "It lists twelve entirely different rivers by name"],
+         "correct": 0,
+         "expl": "Six on slanting east, six on slanting to the ocean — the same twelve, worded identically."},
+        {"q": "What does this file's own closing colophon confirm?",
+         "opts": ["This vagga's own position as the thirteenth in this saṃyutta", "That this is the very last vagga in the entire book", "That this vagga has no fixed position", "That this vagga is identical in name to Vagga 8"],
+         "correct": 0,
+         "expl": "\"Gaṅgāpeyyālavaggo terasamo\" — the thirteenth, confirmed without ambiguity."},
+    ],
+    marginalia=[
+        ("The same river, a different ending", [
+            "east-sloping Ganges, familiar again —",
+            "but greed, hate, and delusion now named"
+        ]),
+        ("An identical uddāna, a different content", [
+            "six and six, twelve total, word for word —",
+            "yet the faculties themselves culminate differently"
+        ]),
+        ("Not assumed, confirmed", [
+            "the shared vagga name could have misled —",
+            "direct reading caught the real difference"
+        ]),
+        ("Thirteenth vagga, its own colophon", [
+            "terasamo, stated plainly —",
+            "this project's own count still holds"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.125-136/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.115-124.html\">SN 48.115&ndash;124 &middot; "
+        "Floods, Etc.</a> &mdash; the previous page, closing the "
+        "preceding vagga.",
+        "<a href=\"sn-48.71-82.html\">SN 48.71&ndash;82 &middot; "
+        "Slanting East, Etc.</a> &mdash; this project's own earlier "
+        "encounter with the river simile, there closing with a "
+        "different formula.",
+    ],
+)
