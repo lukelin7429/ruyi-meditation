@@ -42687,3 +42687,137 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.63 — Pariññāsutta
+# Confirms, for the third consecutive discourse, the series pattern
+# this project's own SN 48.62 noted cautiously rather than assumed:
+# an identical bare structure naming a distinct outcome for the five
+# faculties — here, "addhānapariññā," complete understanding of the
+# whole course of time/existence.
+# --------------------------------------------------------------------------- #
+page(
+    48, 63, "Pariññā", "Complete Understanding",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.63 — Complete Understanding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pariññāsutta — the five faculties, developed and "
+        "cultivated, lead to the complete understanding of the whole "
+        "course of time. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this vagga's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the third consecutive discourse in "
+                         "this vagga's own series of distinct "
+                         "outcomes for the developed five faculties"),
+    ],
+    why=(
+        "This discourse confirms, for the third consecutive time, "
+        "the series pattern this project's own SN 48.62 noted "
+        "cautiously without assuming: the identical bare structure "
+        "as SN 48.61-62, now naming a distinct outcome &mdash; "
+        "&ldquo;addhānapariññā,&rdquo; the complete understanding of "
+        "the whole course of time or existence."
+    ),
+    guide=[
+        ("A confirmed series, third discourse in the pattern", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure is identical to SN 48.61 (fetters) and SN "
+            "48.62 (underlying tendencies): the same five faculties, "
+            "the same &ldquo;bhāvitāni bahulīkatāni&rdquo; "
+            "qualifier, now naming a third distinct outcome &mdash; "
+            "confirming, rather than merely suggesting, that this "
+            "vagga proceeds through a genuine series.",
+        ]),
+        ("Addhānapariññā: complete understanding of the whole course", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;addhāna&rdquo; can mean a journey, an extent of "
+            "time, or the whole span of saṃsāric existence across "
+            "past, present, and future; &ldquo;pariññā&rdquo; is the "
+            "classic term for complete, direct understanding "
+            "&mdash; together naming a comprehensive grasp of one's "
+            "own place across the entire course of existence.",
+        ]),
+        ("Each discourse naming a distinct spiritual fruit", [
+            "This project's own running observation: across SN "
+            "48.61-63, the developed five faculties have now been "
+            "credited with giving up the fetters, uprooting the "
+            "underlying tendencies, and complete understanding of "
+            "the course of time &mdash; three distinct, "
+            "non-redundant fruits, suggesting this vagga surveys the "
+            "range of benefits traditionally attributed to the "
+            "bodhipakkhiyā dhammā.",
+        ]),
+    ],
+    terms=[
+        ("addhānapariññāya saṁvattanti", "&ldquo;lead to the "
+             "complete understanding of the course of time&rdquo; "
+             "&mdash; this discourse's own specific outcome"),
+        ("addhāna", "&ldquo;course, journey, extent of time&rdquo; "
+             "&mdash; here understood as the whole span of "
+             "existence"),
+        ("pariññā", "&ldquo;complete understanding&rdquo; &mdash; "
+             "the classic term for direct, comprehensive knowledge"),
+        ("bhāvitāni bahulīkatāni", "&ldquo;developed and "
+             "cultivated&rdquo; &mdash; the recurring qualifier "
+             "shared with SN 48.61-62"),
+        ("Tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's third "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.63:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about this vagga's own structure?",
+         "opts": ["A genuine series: identical bare form, each discourse naming a distinct outcome for the five faculties", "That the vagga has abandoned the five faculties as its own topic", "That every discourse in this vagga is identical in every respect, including outcome", "That this vagga contains no further discourses beyond this one"],
+         "correct": 0,
+         "expl": "Confirmed for the third consecutive time, not merely assumed."},
+        {"q": "What does \"addhānapariññā\" name, as general canonical background?",
+         "opts": ["Complete understanding of the whole course of time or existence, across past, present, and future", "A denial that time exists at all", "Understanding limited only to the present moment", "A synonym for the ending of defilements"],
+         "correct": 0,
+         "expl": "A comprehensive grasp of one's own place across the entire course of existence."},
+        {"q": "What three distinct outcomes have SN 48.61-63 now credited to the developed five faculties?",
+         "opts": ["Giving up the fetters, uprooting the underlying tendencies, and complete understanding of the course of time", "Only wisdom's own foremost status, repeated three times", "Rebirth in three distinct heavenly realms", "The same single outcome, stated in three different languages"],
+         "correct": 0,
+         "expl": "Three distinct, non-redundant fruits, suggesting a broader survey across this vagga."},
+    ],
+    marginalia=[
+        ("A series, now confirmed", [
+            "third discourse, same shape as the rest —",
+            "not assumed, but proven by repetition"
+        ]),
+        ("The whole course, understood", [
+            "past, present, and future together —",
+            "one comprehensive grasp of existence"
+        ]),
+        ("Three fruits, not one repeated", [
+            "fetters given up, tendencies uprooted —",
+            "now the whole course understood"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "brief as its own pair before it —",
+            "more of this vagga's own series to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.63/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.62.html\">SN 48.62 &middot; Tendencies</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
