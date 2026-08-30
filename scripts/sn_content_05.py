@@ -30380,3 +30380,139 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.33 — Viraddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 33, "Viraddha", "Missed Out",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.33 — Missed Out | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viraddhasutta — a compact statement pairing "
+        "\"missed out\" against \"undertaken\" to declare the four "
+        "kinds of mindfulness meditation identical with the noble "
+        "path to the complete ending of suffering. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single short statement built on a contrasting pair "
+                 "of terms, viraddha and āraddha, framing the same "
+                 "claim negatively and then positively"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, turning on a single pair of contrasting "
+                       "Pāli terms"),
+    ],
+    why=(
+        "This discourse identifies the four kinds of mindfulness "
+        "meditation OUTRIGHT with &ldquo;the noble path to the "
+        "complete ending of suffering&rdquo; &mdash; not merely "
+        "leading to it or supporting it, but equated with it directly "
+        "&mdash; using a contrasting pair of terms, &ldquo;missed "
+        "out&rdquo; (viraddha) and &ldquo;undertaken&rdquo; (āraddha), "
+        "to state the same claim first negatively, then positively."
+    ),
+    guide=[
+        ("A direct equation, not a causal claim", [
+            "Confirmed by direct reading, this discourse does not say "
+            "the four kinds of mindfulness meditation LEAD TO or "
+            "SUPPORT the noble path &mdash; it states outright that "
+            "missing out on them IS missing out on the path itself, "
+            "and undertaking them IS undertaking the path itself, a "
+            "stronger and more direct claim than a causal or "
+            "supportive relationship would be.",
+        ]),
+        ("Viraddha and āraddha -- a contrasting pair", [
+            "The two Pāli terms framing this discourse's own claim "
+            "&mdash; &ldquo;viraddha&rdquo; (missed out, gone "
+            "wrong) and &ldquo;āraddha&rdquo; (undertaken, taken up) "
+            "&mdash; are confirmed by direct reading to share a "
+            "common root, differing only in their prefix, giving the "
+            "Pāli original a wordplay quality that the English "
+            "translation's own separate words cannot fully preserve.",
+        ]),
+        ("Negative first, then positive -- a complete statement", [
+            "Confirmed by direct reading, the discourse states its "
+            "own claim TWICE, once in the negative (missing out on "
+            "the four kinds of mindfulness meditation means missing "
+            "out on the path) and once in the positive (undertaking "
+            "them means undertaking the path), before repeating both "
+            "halves once more at the close &mdash; a complete, "
+            "symmetrical statement covering both directions of the "
+            "same claim.",
+        ]),
+    ],
+    terms=[
+        ("viraddha", "&ldquo;missed out, gone wrong, failed&rdquo; "
+             "&mdash; this discourse's own title term, describing "
+             "one who has not taken up the four kinds of mindfulness "
+             "meditation"),
+        ("āraddha", "&ldquo;undertaken, taken up, begun&rdquo; "
+             "&mdash; the contrasting term, sharing a common root "
+             "with viraddha but differing in its prefix"),
+        ("ariyo maggo sammā dukkhakkhayagāmī", "&ldquo;the noble "
+             "path to the complete ending of suffering&rdquo; "
+             "&mdash; what the four kinds of mindfulness meditation "
+             "are directly equated with in this discourse"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the practice this "
+             "discourse identifies outright with the noble path "
+             "itself"),
+        ("dukkhakkhaya", "&ldquo;the ending of suffering&rdquo; "
+             "&mdash; the destination named by the path this "
+             "discourse equates with the four kinds of mindfulness "
+             "meditation"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.33:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What relationship does this discourse claim between the four kinds of mindfulness meditation and the noble path?",
+         "opts": ["A direct equation — missing out on one IS missing out on the other, not merely a causal link", "The four kinds of mindfulness meditation merely support the path from a distance", "The path leads to the four kinds of mindfulness meditation, not the reverse", "No relationship is claimed between the two"],
+         "correct": 0,
+         "expl": "A stronger and more direct claim than a causal or supportive relationship would be."},
+        {"q": "What is the relationship between the two Pāli terms \"viraddha\" and \"āraddha\"?",
+         "opts": ["They share a common root, differing only in their prefix, giving the original a wordplay quality", "They are entirely unrelated words from different roots", "They are two different names for the same person", "One is a later scribal error for the other"],
+         "correct": 0,
+         "expl": "An effect the English translation's own separate words cannot fully preserve."},
+        {"q": "How does the discourse structure its own claim?",
+         "opts": ["Negative first (missing out), then positive (undertaking), each stated and then repeated at the close", "Only in the positive, never mentioning the negative case", "As a question posed to a specific named mendicant", "As a comparison between three different named paths"],
+         "correct": 0,
+         "expl": "A complete, symmetrical statement covering both directions of the same claim."},
+    ],
+    marginalia=[
+        ("Not causal — a direct equation", [
+            "missing out on the four IS missing out on the path —",
+            "stronger than merely leading toward it"
+        ]),
+        ("Viraddha, āraddha — one root, two prefixes", [
+            "\"gone wrong\" against \"taken up\" —",
+            "a wordplay the English cannot fully carry"
+        ]),
+        ("Negative, then positive, then both again", [
+            "missing out, undertaking, each stated twice —",
+            "a complete and symmetrical claim"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "seventeen more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.32.html\">SN 47.32 &middot; Fading "
+        "Away</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
