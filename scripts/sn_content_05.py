@@ -38831,3 +38831,147 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.37 — Dutiyavibhaṅgasutta
+# Repeats SN 48.36's own five faculty definitions verbatim, then adds
+# a consolidating step (&sect;7): mapping the five feeling faculties
+# onto the classic threefold vedanā scheme (pleasant, painful,
+# neutral feeling) met elsewhere in the canon.
+# --------------------------------------------------------------------------- #
+page(
+    48, 37, "Dutiyavibhaṅga", "Analysis (2nd)",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.37 — Analysis (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyavibhaṅgasutta — the same five faculty definitions "
+        "as SN 48.36, consolidated into the classic threefold "
+        "pleasant/painful/neutral feeling scheme. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical five definitions of SN 48.36, "
+                 "followed by a consolidating summary"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms the expected pairing with "
+                         "SN 48.36, and adds a genuinely new step: "
+                         "mapping five faculties onto the canon's "
+                         "classic threefold feeling scheme"),
+    ],
+    why=(
+        "This discourse confirms the pairing this project's own SN "
+        "48.36 signaled with its own &ldquo;(1st)&rdquo; title: the "
+        "identical five faculty definitions repeat verbatim, but "
+        "this discourse adds a genuinely new consolidating step "
+        "&mdash; grouping the five feeling faculties into the "
+        "canon's classic THREEFOLD feeling scheme (pleasant, "
+        "painful, neutral), a coarser lens than the fivefold one used "
+        "throughout this vagga so far."
+    ),
+    guide=[
+        ("The identical definitions, confirmed word for word", [
+            "Confirmed by direct reading, this discourse's own "
+            "&sect;1-6 repeat SN 48.36's own five faculty "
+            "definitions exactly, word for word &mdash; the "
+            "expected pairing this project's own reading guide "
+            "anticipated without assuming it in advance.",
+        ]),
+        ("A new consolidating step: the threefold feeling scheme", [
+            "Confirmed by direct reading, this discourse's own "
+            "&sect;7 &mdash; absent from SN 48.36 &mdash; groups the "
+            "five feeling faculties into three: sukhindriya and "
+            "somanassindriya together are &ldquo;pleasant "
+            "feeling&rdquo; (sukhā vedanā); dukkhindriya and "
+            "domanassindriya together are &ldquo;painful "
+            "feeling&rdquo; (dukkhā vedanā); and upekkhindriya alone "
+            "is &ldquo;neutral feeling&rdquo; (adukkhamasukhā "
+            "vedanā) &mdash; the canon's own classic threefold "
+            "feeling scheme, here shown as a coarser reading of the "
+            "same fivefold faculties.",
+        ]),
+        ("Two lenses on the same five faculties, held together", [
+            "This project's own observation: this discourse's own "
+            "structure demonstrates that the fivefold feeling-"
+            "faculty scheme and the more familiar threefold "
+            "pleasant/painful/neutral feeling scheme are not "
+            "competing accounts but the same territory read at two "
+            "different resolutions &mdash; the fivefold scheme "
+            "distinguishing bodily from mental feeling within each "
+            "of pleasant and painful, the threefold scheme "
+            "collapsing that distinction.",
+        ]),
+    ],
+    terms=[
+        ("Dutiyavibhaṅgasutta", "&ldquo;the second analysis "
+             "discourse&rdquo; &mdash; confirming the pairing this "
+             "project's own SN 48.36 signaled with its own "
+             "&ldquo;(1st)&rdquo; title"),
+        ("sukhā vedanā", "&ldquo;pleasant feeling&rdquo; &mdash; the "
+             "consolidated category holding both sukhindriya and "
+             "somanassindriya"),
+        ("dukkhā vedanā", "&ldquo;painful feeling&rdquo; &mdash; the "
+             "consolidated category holding both dukkhindriya and "
+             "domanassindriya"),
+        ("adukkhamasukhā vedanā", "&ldquo;neither-painful-nor-"
+             "pleasant feeling&rdquo; &mdash; neutral feeling, "
+             "corresponding to upekkhindriya alone"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "seventh discourse, still without a vagga-closing "
+             "formula"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1-6 &mdash; the five faculty definitions, "
+              "identical to SN 48.36", "sn48.37:1.1-6.3"),
+        ("p", "&sect;7 &mdash; the threefold consolidation", "sn48.37:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own &sect;1-6 confirm about SN 48.36?",
+         "opts": ["The identical five faculty definitions repeat word for word, confirming the expected pairing", "The definitions are entirely different from SN 48.36's own", "SN 48.36 was mistaken about the five faculties", "This discourse belongs to a different vagga than SN 48.36"],
+         "correct": 0,
+         "expl": "The expected pairing signaled by SN 48.36's own \"(1st)\" title."},
+        {"q": "What genuinely new step does this discourse add in its own &sect;7?",
+         "opts": ["Grouping the five feeling faculties into the classic threefold pleasant/painful/neutral feeling scheme", "A sixth faculty not named in SN 48.36", "A denial that any of the five faculties are real", "A comparison to the six sense faculties instead"],
+         "correct": 0,
+         "expl": "The same territory read at a coarser resolution than the fivefold scheme."},
+        {"q": "Which faculties together form \"pleasant feeling\" (sukhā vedanā) in this discourse's own summary?",
+         "opts": ["Sukhindriya (bodily pleasure) and somanassindriya (mental happiness)", "Sukhindriya and upekkhindriya", "All five faculties together", "Only upekkhindriya, the equanimity faculty"],
+         "correct": 0,
+         "expl": "The bodily and mental forms of pleasant feeling, consolidated into one category."},
+    ],
+    marginalia=[
+        ("The same definitions, word for word", [
+            "SN 48.36 repeated exactly —",
+            "the expected pairing, now confirmed"
+        ]),
+        ("Five faculties, three feelings", [
+            "pleasant, painful, and neutral —",
+            "a coarser lens on the same ground"
+        ]),
+        ("Two resolutions of one territory", [
+            "body and mind distinguished, then merged —",
+            "neither reading contradicts the other"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "brief as its own pair before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.36.html\">SN 48.36 &middot; Analysis "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
