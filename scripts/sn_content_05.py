@@ -43808,3 +43808,157 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.71-82 — Pācīnādisutta (merged peyyāla range)
+# Opens Vagga 8 (Gaṅgāpeyyālavagga), confirmed by direct reading to
+# reuse the identical formula this project already met at SN
+# 45.91-102 (also named Gaṅgāpeyyālavagga there): the five great
+# rivers of the Ganges basin, each said to slant, slope, and incline
+# to the east/ocean, twelve discourses in total (six + six per the
+# uddāna) -- now illustrating the five faculties rather than the
+# eightfold path. Unlike SN 45's own version (split across five
+# separate bilara-data files), SN 48's copy is compressed into a
+# single merged file, confirmed by directly listing bilara-data's own
+# directory rather than assumed uniform with SN 45's own split.
+# --------------------------------------------------------------------------- #
+page_range(
+    48, 71, 82, "Pācīnādi", "Slanting East, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 48.71–82 — Slanting East, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 48.71–82 — the Ganges river simile, twelve discourses "
+        "merged into a single bilara-data file, illustrating the "
+        "five faculties' own inclination toward extinguishment. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching the identical formula "
+                     "already met at SN 45.91"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A river simile, twelve discourses merged into a "
+                 "single bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; opens Vagga 8, reusing a formula "
+                         "this project has already met once before, "
+                         "at SN 45.91-102"),
+    ],
+    why=(
+        "This single merged file opens Vagga 8 "
+        "(Gaṅgāpeyyālavagga) with a formula this project has "
+        "directly confirmed as identical to one already met earlier "
+        "in this saṃyutta's own book: SN 45.91-102, also named "
+        "Gaṅgāpeyyālavagga, used the same five great rivers and the "
+        "same twelvefold structure for the eightfold path &mdash; "
+        "here the identical formula illustrates the five faculties "
+        "instead."
+    ),
+    guide=[
+        ("A formula already met, now confirmed reused", [
+            "Confirmed by direct comparison with this project's own "
+            "earlier work on SN 45.91-102, this vagga's own name and "
+            "structure are not new: the same &ldquo;slants, slopes, "
+            "and inclines&rdquo; (ninnā, poṇā, pabbhārā) three-verb "
+            "image, applied there to the eightfold path, is here "
+            "applied to the five faculties, with twelve discourses "
+            "total per the uddāna &mdash; six on slanting east, six "
+            "on slanting to the ocean.",
+        ]),
+        ("Five great rivers, more compressed here than at SN 45", [
+            "As general canonical background, confirmed at SN "
+            "45.92-95: the formula's own east-slanting half names "
+            "five great rivers of the Ganges basin in turn &mdash; "
+            "the Gaṅgā (Ganges), Yamunā, Aciravatī, Sarabhū, and Mahī "
+            "&mdash; but SN 48's own copy of this formula, confirmed "
+            "by directly listing bilara-data's own directory, is "
+            "compressed into a single merged file quoting only the "
+            "Gaṅgā's own opening instance, rather than SN 45's own "
+            "five-file split naming each river individually.",
+        ]),
+        ("Twelve discourses, confirmed by this file's own uddāna", [
+            "This merged file's own closing uddāna &mdash; "
+            "&ldquo;cha pācīnato ninnā, cha ninnā ca samuddato; "
+            "dvete cha dvādasa honti&rdquo; (&ldquo;six on slanting "
+            "to the east, and six on slanting to the ocean; these "
+            "two sixes make twelve&rdquo;) &mdash; states, in the "
+            "text's own words, exactly how many discourses this "
+            "single page represents: SN 48.71 through SN 48.82.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; this merged file's own sole quoted "
+             "instance, representing the whole formula"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;slants, "
+             "slopes, and inclines to extinguishment&rdquo; &mdash; "
+             "the identical three-verb structure, now applied to the "
+             "developed five faculties"),
+        ("vivekanissitaṁ...vossaggapariṇāmiṁ", "&ldquo;relying on "
+             "seclusion...ripening as letting go&rdquo; &mdash; the "
+             "closing formula shared throughout this vagga's own "
+             "twelve discourses"),
+        ("cha pācīnato ninnā, cha ninnā ca samuddato", "&ldquo;six on "
+             "slanting to the east, and six on slanting to the "
+             "ocean&rdquo; &mdash; this merged file's own uddāna, "
+             "confirming the vagga's own twelvefold count"),
+        ("gaṅgāpeyyālavaggo", "this vagga's own name, identical to "
+             "the vagga name already met at SN 45.91-102, reused "
+             "here for the five faculties"),
+    ],
+    text_intro=("The complete genuinely translated content of this "
+        "merged file, including its own closing uddāna. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.71-82:1.1-1.9"),
+        ("p", "Uddāna", "sn48.71-82:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What did this project confirm by direct comparison with SN 45.91-102?",
+         "opts": ["That SN 48's own Gaṅgāpeyyālavagga reuses the identical formula, now for the five faculties instead of the eightfold path", "That SN 45 and SN 48 share no formulas whatsoever", "That this formula appears for the very first time in the entire canon at SN 48.71", "That the eightfold path and the five faculties are the same thing"],
+         "correct": 0,
+         "expl": "Same three-verb image, same twelvefold structure, confirmed by direct comparison."},
+        {"q": "How does SN 48's own copy of this formula differ from SN 45's own version?",
+         "opts": ["It is compressed into a single merged bilara-data file, rather than split across five separate files naming each river individually", "It uses entirely different rivers", "It contains twice as many discourses", "It omits the five faculties from the formula entirely"],
+         "correct": 0,
+         "expl": "Confirmed by directly listing bilara-data's own directory structure for each saṃyutta."},
+        {"q": "What does this merged file's own uddāna confirm?",
+         "opts": ["That this single page represents exactly twelve discourses, SN 48.71 through SN 48.82", "That this page represents only a single discourse", "That the vagga has no fixed number of discourses", "That this formula will never be repeated elsewhere in the canon"],
+         "correct": 0,
+         "expl": "\"Cha pācīnato ninnā, cha ninnā ca samuddato; dvete cha dvādasa honti\" — twelve, in the text's own words."},
+    ],
+    marginalia=[
+        ("A formula recognized, not new", [
+            "the same river, met once before at SN 45.91 &mdash;",
+            "now flowing for the five faculties"
+        ]),
+        ("Compressed further than its own precedent", [
+            "one file where SN 45 used five &mdash;",
+            "the Gaṅgā alone stands for all"
+        ]),
+        ("Twelve, named by the text itself", [
+            "six east, six to the ocean &mdash;",
+            "the uddāna does its own counting"
+        ]),
+        ("A vagga's own name, reused", [
+            "Gaṅgāpeyyālavagga again &mdash;",
+            "the same title, a different faculty set"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.71-82/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.70.html\">SN 48.70 &middot; A Tree (4th)</a> "
+        "&mdash; the previous discourse, closing Vagga 7.",
+        "<a href=\"sn-45.91.html\">SN 45.91 &middot; Slanting "
+        "East</a> &mdash; this project's own earlier encounter with "
+        "the identical formula, there for the eightfold path.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
