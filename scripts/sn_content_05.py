@@ -34558,3 +34558,149 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.7 — Dutiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 7, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.7 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta — confirming this project's "
+        "own caution at SN 48.6 was warranted, using an entirely "
+        "different fourfold framework (faculty, origin, cessation, "
+        "path) applied individually to each of the five faculties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two contrasting cases, each applying a fourfold "
+                 "noble-truths-style framework separately to each of "
+                 "the five faculties"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms this project's own caution "
+                         "at SN 48.6 that the companion discourse's "
+                         "content should never be assumed"),
+    ],
+    why=(
+        "This discourse confirms exactly why this project's own SN "
+        "48.6 refused to guess its companion's content: rather than "
+        "the gratification/drawback/escape lens met throughout the "
+        "earlier discourses, THIS discourse uses a genuinely "
+        "DIFFERENT fourfold framework &mdash; echoing the four noble "
+        "truths' own structure (the thing itself, its origin, its "
+        "cessation, and the practice leading to that cessation) "
+        "&mdash; applied SEPARATELY to each of the five faculties in "
+        "turn, not once to all five together."
+    ),
+    guide=[
+        ("A genuinely different framework, exactly as this project's own caution anticipated", [
+            "Confirmed by direct reading, this discourse does NOT "
+            "repeat SN 48.6's own gratification/drawback/escape "
+            "lens at all &mdash; it uses instead a fourfold pattern "
+            "&mdash; the faculty itself, its origin (samudaya), its "
+            "cessation (nirodha), and the practice leading to its "
+            "cessation (nirodhagāminī paṭipadā) &mdash; a structure "
+            "recognizably echoing the four noble truths' own shape, "
+            "here applied to each faculty.",
+        ]),
+        ("Applied to each faculty separately, not to all five together", [
+            "Confirmed by direct reading, this fourfold framework is "
+            "applied INDIVIDUALLY to faith, then energy, then "
+            "mindfulness, then immersion, then wisdom, each getting "
+            "its own separate application of the same four-part "
+            "analysis &mdash; a structurally different move from "
+            "every discourse in this vagga so far, which applied a "
+            "single lens to all five faculties collectively.",
+        ]),
+        ("The same denial of the title, a different route there", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing verdict &mdash; denying or affirming the title "
+            "&ldquo;true ascetic or brahmin&rdquo; &mdash; is WORD "
+            "FOR WORD identical to SN 48.6's own closing verdict, "
+            "confirming both discourses share the same conclusion "
+            "even though they reach it by two structurally distinct "
+            "analytical routes.",
+        ]),
+    ],
+    terms=[
+        ("saddhindriyaṁ... samudayaṁ... nirodhaṁ... "
+             "nirodhagāminiṁ paṭipadaṁ", "&ldquo;the faculty of "
+             "faith, its origin, its cessation, and the practice "
+             "leading to its cessation&rdquo; &mdash; the fourfold "
+             "pattern applied to the first faculty, then repeated "
+             "for each of the remaining four"),
+        ("nirodha", "&ldquo;cessation&rdquo; &mdash; a term this "
+             "discourse applies to each faculty individually, "
+             "distinct from the &ldquo;disappearance&rdquo; "
+             "(atthaṅgama) term met in the earlier fivefold-lens "
+             "discourses"),
+        ("nirodhagāminī paṭipadā", "&ldquo;the practice leading to "
+             "cessation&rdquo; &mdash; the fourth element of this "
+             "discourse's own framework, echoing the fourth noble "
+             "truth's own structure"),
+        ("pajānanti / nappajānanti", "&ldquo;understand / don't "
+             "understand&rdquo; &mdash; the governing verb pair "
+             "distinguishing this discourse's own two contrasting "
+             "cases"),
+        ("na me te... samaṇasammatā... brāhmaṇasammatā", "the "
+             "identical denial-of-title formula already met at SN "
+             "48.6, confirming the same verdict reached by a "
+             "different analytical route"),
+    ],
+    text_intro=("The complete discourse, in its own two contrasting "
+        "cases. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; those who fail to understand", "sn48.7:1.1-1.6"),
+        ("p", "&sect;2 &mdash; those who truly understand", "sn48.7:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own framework compare to SN 48.6's own gratification/drawback/escape lens?",
+         "opts": ["A genuinely different fourfold framework — faculty, origin, cessation, and the practice leading to cessation", "The identical lens, repeated word for word", "A simplified version with only two elements instead of three", "No framework at all; the discourse gives only a bare list"],
+         "correct": 0,
+         "expl": "Confirming this project's own caution at SN 48.6 was correct — the companion's content was never safe to assume."},
+        {"q": "How is this fourfold framework applied across the five faculties?",
+         "opts": ["Individually to each of the five faculties in turn, not once to all five collectively", "Only to the faculty of wisdom, ignoring the other four", "Once, collectively, to all five faculties together", "Only to faith and energy, omitting the remaining three"],
+         "correct": 0,
+         "expl": "A structurally different move from every discourse in this vagga so far."},
+        {"q": "How does this discourse's own closing verdict compare to SN 48.6's own?",
+         "opts": ["Word for word identical, despite the two discourses reaching it through different analytical routes", "Completely different; this discourse reaches the opposite conclusion", "This discourse gives no verdict at all", "The verdict applies only to brahmins, not ascetics, unlike SN 48.6"],
+         "correct": 0,
+         "expl": "The same conclusion, reached by two structurally distinct paths."},
+    ],
+    marginalia=[
+        ("A genuinely different framework this time", [
+            "faculty, origin, cessation, the path to cessation —",
+            "echoing the four noble truths' own shape"
+        ]),
+        ("Applied to each faculty, not all five at once", [
+            "faith, then energy, then mindfulness —",
+            "each getting its own separate fourfold pass"
+        ]),
+        ("The same verdict, a different road there", [
+            "identical denial-of-title formula —",
+            "two routes, one shared conclusion"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.6.html\">SN 48.6 &middot; Ascetics and "
+        "Brahmins (1st)</a> &mdash; the previous discourse, sharing "
+        "this discourse's own closing verdict but not its analytical "
+        "framework.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
