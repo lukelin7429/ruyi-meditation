@@ -31475,3 +31475,144 @@ page(
         "47.41-50) are still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 5. Amatavagga — Freedom From Death (Vagga 5 of Book VII,
+# Satipaṭṭhānasaṃyutta)
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 47.41 — Amatasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 41, "Amata", "Freedom From Death",
+    vagga="Amatavagga",
+    meta_title="SN 47.41 — Freedom From Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Amatasutta — an urgent exhortation, opening the fifth "
+        "vagga, warning the mendicants not to let freedom from death "
+        "slip away from them for lack of a mind firmly established "
+        "in the four kinds of mindfulness meditation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "An urgent exhortation and warning, framed "
+                 "negatively (\"don't let it be lost\") rather than "
+                 "as a causal chain leading to an outcome"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; opens the fifth vagga, "
+                         "Amatavagga, naming it directly"),
+    ],
+    why=(
+        "This discourse opens the fifth vagga, Amatavagga (&ldquo;"
+        "Freedom From Death&rdquo;), with an URGENT WARNING rather "
+        "than a calm description of cause and result: &ldquo;don't "
+        "let freedom from death be lost on you,&rdquo; framing the "
+        "deathless not as a distant goal to work toward but as "
+        "something already within reach that carelessness could "
+        "let slip away."
+    ),
+    guide=[
+        ("A warning, not a causal chain", [
+            "Confirmed by direct reading, this discourse does NOT "
+            "trace a chain from practice to outcome, as several "
+            "discourses in the previous vagga did &mdash; it opens "
+            "and closes with the SAME urgent imperative, &ldquo;mā "
+            "vo amataṁ panassa&rdquo; (&ldquo;don't let freedom from "
+            "death be lost on you&rdquo;), framing the matter as one "
+            "of vigilance against LOSS rather than steady progress "
+            "toward a goal.",
+        ]),
+        ("A mind firmly established -- suppatiṭṭhitacitta", [
+            "The discourse's own opening phrase &mdash; &ldquo;"
+            "catūsu... satipaṭṭhānesu suppatiṭṭhitacittā "
+            "viharatha&rdquo; (&ldquo;dwell with your mind firmly "
+            "established in the four kinds of mindfulness "
+            "meditation&rdquo;) &mdash; is confirmed by direct "
+            "reading to ask for a settled, STABLE state of mind, not "
+            "merely an occasional or passing application of "
+            "mindfulness.",
+        ]),
+        ("This vagga's own name, drawn directly from its first discourse", [
+            "Confirmed by direct reading, this discourse's own title "
+            "term, &ldquo;amata&rdquo; (freedom from death), gives "
+            "this fifth vagga its own name, Amatavagga &mdash; the "
+            "same pattern by which several of the preceding vaggas "
+            "in this saṃyutta took their names from their own first "
+            "discourse.",
+        ]),
+    ],
+    terms=[
+        ("amata", "&ldquo;the deathless, freedom from death&rdquo; "
+             "&mdash; this discourse's own title term, and the name "
+             "of the vagga it opens"),
+        ("mā vo amataṁ panassa", "&ldquo;don't let freedom from "
+             "death be lost on you&rdquo; &mdash; the discourse's "
+             "own urgent warning, opening and closing it identically"),
+        ("suppatiṭṭhitacitta", "&ldquo;with a mind firmly "
+             "established&rdquo; &mdash; describing a settled, "
+             "stable state of mind rather than occasional or passing "
+             "mindfulness"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the practice in "
+             "which the mind should be firmly established, according "
+             "to this discourse"),
+        ("Amatavagga", "&ldquo;the chapter on freedom from "
+             "death&rdquo; &mdash; the fifth vagga of this "
+             "saṃyutta, named after this opening discourse's own "
+             "title term"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.41:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse frame the matter of freedom from death, compared to a causal chain leading to it?",
+         "opts": ["As an urgent warning against letting it be lost, not a calm description of steady progress toward it", "As a goal reached only after many lifetimes", "As something already fully achieved by all mendicants", "As irrelevant to the practice of mindfulness meditation"],
+         "correct": 0,
+         "expl": "The deathless framed as something within reach that carelessness could let slip away."},
+        {"q": "What does \"suppatiṭṭhitacitta\" (a mind firmly established) ask for?",
+         "opts": ["A settled, stable state of mind, not merely occasional or passing mindfulness", "A single brief moment of concentration", "A mind that wanders freely without direction", "Complete cessation of all mental activity"],
+         "correct": 0,
+         "expl": "A stable, sustained condition rather than an intermittent one."},
+        {"q": "How does this discourse relate to the vagga it opens?",
+         "opts": ["Its own title term, \"amata,\" gives the vagga its own name, Amatavagga", "It has no connection to the vagga's own name", "It closes the vagga rather than opening it", "It belongs to a different vagga entirely"],
+         "correct": 0,
+         "expl": "The same pattern by which several preceding vaggas took their names from their own first discourse."},
+    ],
+    marginalia=[
+        ("A warning, not a calm causal chain", [
+            "\"don't let it be lost on you\" —",
+            "vigilance against loss, not steady progress"
+        ]),
+        ("A mind firmly established", [
+            "suppatiṭṭhitacitta — settled, stable —",
+            "not an occasional or passing mindfulness"
+        ]),
+        ("This vagga's own name, from its first discourse", [
+            "Amatavagga, named for \"amata\" itself —",
+            "the same pattern as several vaggas before it"
+        ]),
+        ("Fifth vagga opens, first discourse", [
+            "Amatavagga, Paṭhamaṁ —",
+            "nine more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.40.html\">SN 47.40 &middot; Analysis</a> "
+        "&mdash; the previous discourse, closing the preceding "
+        "vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
