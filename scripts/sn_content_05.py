@@ -30783,3 +30783,134 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.36 — Aññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 36, "Aññā", "Enlightenment",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.36 — Enlightenment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññāsutta — the well-known \"two results\" formula, "
+        "promising either enlightenment in this very life or, with "
+        "residue remaining, non-return, for one who develops and "
+        "cultivates the four kinds of mindfulness meditation. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A statement of the four kinds of mindfulness "
+                 "meditation followed by the canon's own well-known "
+                 "\"two results\" formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the identical two-results formula "
+                         "closing the Satipaṭṭhāna Sutta itself "
+                         "(MN 10 / DN 22)"),
+    ],
+    why=(
+        "This discourse states the same &ldquo;two results&rdquo; "
+        "formula that closes the Satipaṭṭhāna Sutta itself (MN 10 / "
+        "DN 22): developing and cultivating the four kinds of "
+        "mindfulness meditation can be expected to produce one of "
+        "two outcomes &mdash; enlightenment in this very life, or, "
+        "if some residue of clinging remains, non-return, the third "
+        "of the four stages of awakening."
+    ),
+    guide=[
+        ("A formula shared with the Satipaṭṭhāna Sutta itself", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing formula &mdash; &ldquo;diṭṭheva dhamme aññā, "
+            "sati vā upādisese anāgāmitā&rdquo; &mdash; is IDENTICAL "
+            "to the formula closing the Satipaṭṭhāna Sutta (MN 10 / "
+            "DN 22) itself, confirming this saṃyutta's own "
+            "discourses draw directly on that longer discourse's own "
+            "closing promise.",
+        ]),
+        ("Two results, not one guaranteed outcome", [
+            "The discourse's own phrase &ldquo;dvinnaṁ phalānaṁ "
+            "aññataraṁ phalaṁ&rdquo; (&ldquo;one of two "
+            "results&rdquo;) is confirmed by direct reading to leave "
+            "the OUTCOME open between two possibilities rather than "
+            "promising a single guaranteed result, acknowledging "
+            "that practitioners may differ in how completely their "
+            "clinging is uprooted.",
+        ]),
+        ("\"If there's residue left behind\" -- a conditional second outcome", [
+            "Confirmed by direct reading, the second outcome, "
+            "non-return, is explicitly conditioned on &ldquo;residue "
+            "remaining&rdquo; (upādisese) &mdash; some clinging not "
+            "yet fully uprooted &mdash; distinguishing it from full "
+            "enlightenment, where by implication no such residue "
+            "remains.",
+        ]),
+    ],
+    terms=[
+        ("diṭṭheva dhamme aññā", "&ldquo;enlightenment in this very "
+             "life&rdquo; &mdash; the first of the two possible "
+             "results, full and immediate awakening"),
+        ("upādisese anāgāmitā", "&ldquo;non-return, with residue "
+             "left behind&rdquo; &mdash; the second possible result, "
+             "conditioned on some clinging not yet fully uprooted"),
+        ("dvinnaṁ phalānaṁ aññataraṁ phalaṁ", "&ldquo;one of two "
+             "results&rdquo; &mdash; the discourse's own phrase "
+             "framing the outcome as open between two possibilities"),
+        ("bhāvitattā bahulīkatattā", "&ldquo;because of developing "
+             "and cultivating&rdquo; &mdash; the condition on which "
+             "both possible results depend"),
+        ("anāgāmī", "&ldquo;non-returner&rdquo; &mdash; the third of "
+             "the four stages of awakening, named by the second "
+             "possible result in this discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.36:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "Where else does this discourse's own closing \"two results\" formula appear in the canon?",
+         "opts": ["Closing the Satipaṭṭhāna Sutta itself (MN 10 / DN 22)", "Nowhere else — it is unique to this discourse", "Only in the Abhidhamma commentaries", "Closing the Buddha's first sermon, SN 56.11"],
+         "correct": 0,
+         "expl": "Confirming this saṃyutta's own discourses draw directly on that longer discourse's own closing promise."},
+        {"q": "What are the two possible results this discourse names?",
+         "opts": ["Enlightenment in this very life, or non-return if some residue remains", "Rebirth as a deva, or rebirth as a human", "Becoming a stream-enterer, or becoming a once-returner", "Ordination as a monk, or ordination as a nun"],
+         "correct": 0,
+         "expl": "The outcome is left open between two possibilities rather than a single guaranteed result."},
+        {"q": "What condition distinguishes the second result, non-return, from full enlightenment?",
+         "opts": ["Some residue of clinging not yet fully uprooted", "A shorter period of practice", "Practicing in a different physical location", "Receiving instruction from a different teacher"],
+         "correct": 0,
+         "expl": "Full enlightenment, by implication, leaves no such residue remaining."},
+    ],
+    marginalia=[
+        ("The same formula as the Satipaṭṭhāna Sutta", [
+            "MN 10 and DN 22's own closing promise —",
+            "repeated here in this shorter discourse"
+        ]),
+        ("Two results, not a single guarantee", [
+            "enlightenment, or non-return with residue —",
+            "the outcome left open between the two"
+        ]),
+        ("\"If residue remains\" — a conditional clause", [
+            "some clinging not yet fully uprooted —",
+            "distinguishing the second outcome from the first"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "fourteen more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.35.html\">SN 47.35 &middot; Mindful</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
