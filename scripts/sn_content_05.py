@@ -45548,3 +45548,154 @@ page_range(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 49.13-22 — Appamādavaggo (bare cross-reference, own vagga)
+# Vagga 2, confirmed by direct reading to carry no worked example of
+# its own, matching the compression this project has already met at
+# SN 48.83-92 and SN 46.89-98 -- the identical ten-simile
+# Appamādavagga formula, now reused for the four right efforts. This
+# is the fourth time this project has met this exact vagga (after SN
+# 45.139-148, SN 46.89-98, and SN 48.83-92), and unlike SN 48's own
+# later "removal of greed version" instances, this cross-reference
+# carries no variant qualifier at all -- confirmed by direct reading,
+# not assumed uniform with SN 48's own later pattern.
+# --------------------------------------------------------------------------- #
+page_range(
+    49, 13, 22, "Appamāda", "Diligence",
+    vagga="Appamādavagga",
+    meta_title="SN 49.13–22 — Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 49.13–22 — ten discourses on diligence, cross-referenced "
+        "in full to this project's own already-completed "
+        "Appamādavagga, here applied to the four right efforts. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare cross-reference "
+                     "instruction, carrying no worked example of its "
+                     "own"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single cross-reference instruction, plus a "
+                 "closing uddāna; no worked example of its own"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the fourth time this project has "
+                         "met this exact ten-simile vagga, now "
+                         "without SN 48's own later variant "
+                         "qualifier"),
+    ],
+    why=(
+        "This is the fourth time this project has met the identical "
+        "ten-simile Appamādavagga structure &mdash; after SN "
+        "45.139-148 (eightfold path), SN 46.89-98 (awakening "
+        "factors), and SN 48.83-92 (five faculties) &mdash; now "
+        "applied to the four right efforts. Confirmed by direct "
+        "reading: unlike SN 48's own later instances, which "
+        "specified &ldquo;removal of greed version,&rdquo; this "
+        "cross-reference carries no variant qualifier at all."
+    ),
+    guide=[
+        ("A fourth meeting with a familiar formula", [
+            "Confirmed by direct reading, this file carries no "
+            "worked example &mdash; only the instruction &ldquo;tell "
+            "in full as in SN 45.139&ndash;148&rdquo; and the closing "
+            "uddāna, matching the compression already confirmed at "
+            "SN 48.83-92, and now reused for a fourth quality set "
+            "across this book's own repeated peyyāla formulas.",
+        ]),
+        ("No variant specified, unlike SN 48's own later instances", [
+            "This project's own explicit observation: SN 48.137-146 "
+            "and SN 48.147-158 both specified &ldquo;removal of "
+            "greed version&rdquo; for this identical cross-reference, "
+            "but this file's own English source gives no such "
+            "qualifier &mdash; a genuine difference reported "
+            "honestly, not assumed to default to either variant "
+            "without direct confirmation.",
+        ]),
+        ("Ten similes, confirmed by this file's own uddāna alone", [
+            "As general canonical background, already confirmed at "
+            "this project's own earlier treatment of SN 45.139-148: "
+            "the ten similes are the Realized One, a footprint, a "
+            "roof's peak, roots, heartwood, jasmine, a monarch, the "
+            "sun and moon, and cloth, here applied to the developed "
+            "four right efforts rather than the eightfold path, "
+            "awakening factors, or five faculties.",
+        ]),
+    ],
+    terms=[
+        ("Appamādavaggo sammappadhānavasena vitthāretabbo", "&ldquo;"
+             "the Diligence chapter is to be elaborated by way of "
+             "the right efforts&rdquo; &mdash; this file's own sole "
+             "substantive instruction"),
+        ("appamāda", "&ldquo;diligence, heedfulness&rdquo; &mdash; "
+             "this vagga's own governing quality, already met three "
+             "times before in this project's own work"),
+        ("tathāgataṁ padaṁ kūṭaṁ", "&ldquo;the Realized One, "
+             "footprint, roof peak&rdquo; &mdash; the closing "
+             "uddāna's own opening line, naming the first three of "
+             "this vagga's own ten similes"),
+        ("mūlaṁ sārena vassikaṁ; rājā candimasūriyā, vatthena "
+         "dasamaṁ padaṁ", "&ldquo;roots, heartwood, jasmine, "
+             "monarch, sun and moon, and cloth is the tenth&rdquo; "
+             "&mdash; the uddāna's remaining seven similes"),
+        ("Appamādavaggo dutiyo", "&ldquo;the Diligence chapter, the "
+             "second&rdquo; &mdash; confirming this vagga's own "
+             "position as the second in this saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the bare cross-reference "
+        "instruction, and the closing uddāna. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn49.13-22:1.1"),
+        ("p", "Uddāna", "sn49.13-22:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many times has this project now met this identical ten-simile Appamādavagga structure?",
+         "opts": ["Four times: SN 45.139-148, SN 46.89-98, SN 48.83-92, and this discourse", "Only this once, with no prior instances", "Twice, with this being the second", "Ten times, once per simile"],
+         "correct": 0,
+         "expl": "A recurring closing formula this project has now confirmed across four separate saṃyuttas."},
+        {"q": "What genuine difference does this project note compared to SN 48's own later instances of this cross-reference?",
+         "opts": ["This file specifies no variant qualifier, unlike SN 48.137-146 and SN 48.147-158's own \"removal of greed version\"", "This file specifies a variant SN 48 never used", "There is no difference at all between any of the instances", "This file applies to a completely different set of qualities"],
+         "correct": 0,
+         "expl": "Reported honestly rather than assumed to default to either known variant."},
+        {"q": "What does the closing uddāna confirm about this vagga's own similes?",
+         "opts": ["Ten similes: the Realized One, footprint, roof peak, roots, heartwood, jasmine, monarch, sun and moon, and cloth", "Only four similes, matching the four right efforts", "A single simile repeated ten times", "No similes — a purely abstract list"],
+         "correct": 0,
+         "expl": "Already confirmed at this project's own earlier work on SN 45.139-148."},
+    ],
+    marginalia=[
+        ("A fourth meeting, a familiar shape", [
+            "eightfold path, awakening factors, five faculties —",
+            "now the four right efforts, once more"
+        ]),
+        ("No variant named this time", [
+            "SN 48's own later pages specified \"removal of greed\" —",
+            "this file leaves the question open"
+        ]),
+        ("Ten similes, held elsewhere in full", [
+            "footprint, roof-peak, roots, and more —",
+            "the content lives at SN 45.139"
+        ]),
+        ("Second vagga, its own colophon", [
+            "Appamādavaggo dutiyo, stated plainly —",
+            "this saṃyutta's own second chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn49.13-22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-49.1-12.html\">SN 49.1&ndash;12 &middot; "
+        "Sloping East, Etc.</a> &mdash; the previous page, closing "
+        "Vagga 1.",
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own earlier, fully expanded "
+        "treatment of the identical ten similes, applied there to "
+        "the eightfold path.",
+    ],
+)
