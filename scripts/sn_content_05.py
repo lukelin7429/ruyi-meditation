@@ -32593,3 +32593,140 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.49 — Vedanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 49, "Vedanā", "Feelings",
+    vagga="Amatavagga",
+    meta_title="SN 47.49 — Feelings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vedanāsutta — a discourse naming the three feelings as "
+        "the object of complete understanding, and the four kinds of "
+        "mindfulness meditation as the means developed FOR THAT "
+        "purpose. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A statement of the three feelings, followed by a "
+                 "purpose clause naming mindfulness meditation as "
+                 "the means to their complete understanding"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; brief, but worth comparing carefully "
+                       "against SN 47.38's own different direction "
+                       "of the same relationship"),
+    ],
+    why=(
+        "This discourse names the three feelings &mdash; pleasant, "
+        "painful, and neutral &mdash; as what is to be COMPLETELY "
+        "UNDERSTOOD, and states that the four kinds of mindfulness "
+        "meditation SHOULD BE DEVELOPED for the purpose of that "
+        "understanding &mdash; a genuinely different logical "
+        "direction from SN 47.38 earlier in this saṃyutta, where "
+        "the mindfulness objects THEMSELVES were what came to be "
+        "completely understood through the practice."
+    ),
+    guide=[
+        ("Three feelings, one object of understanding", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening names exactly three feelings &mdash; pleasant "
+            "(sukhā), painful (dukkhā), and neutral "
+            "(adukkhamasukhā) &mdash; the same threefold division of "
+            "feeling used throughout the canon's own broader "
+            "treatment of vedanā.",
+        ]),
+        ("A different direction than SN 47.38's own claim", [
+            "This project's own honest comparison confirms a genuine "
+            "difference in logical direction: SN 47.38 stated that "
+            "the four mindfulness OBJECTS (including feelings) come "
+            "to be completely understood THROUGH the practice, "
+            "leading to freedom from death; THIS discourse instead "
+            "names the three feelings as the goal, and mindfulness "
+            "meditation as the MEANS developed for reaching that "
+            "goal &mdash; a purpose clause rather than an outcome "
+            "clause.",
+        ]),
+        ("\"Should be developed\" -- bhāvetabbā, a prescription", [
+            "Confirmed by direct reading, the discourse's own verb "
+            "&ldquo;bhāvetabbā&rdquo; (&ldquo;should be "
+            "developed&rdquo;) frames the four kinds of mindfulness "
+            "meditation as a PRESCRIBED practice undertaken "
+            "specifically to reach complete understanding of the "
+            "three feelings, rather than as an activity whose "
+            "outcome is merely described.",
+        ]),
+    ],
+    terms=[
+        ("sukhā, dukkhā, adukkhamasukhā vedanā", "&ldquo;pleasant, "
+             "painful, and neutral feeling&rdquo; &mdash; this "
+             "discourse's own threefold division, the same "
+             "classification used throughout the canon's own "
+             "treatment of feeling"),
+        ("pariññā", "&ldquo;complete understanding&rdquo; &mdash; "
+             "the goal named for the three feelings, reached through "
+             "developing mindfulness meditation"),
+        ("bhāvetabbā", "&ldquo;should be developed&rdquo; &mdash; "
+             "the discourse's own prescriptive verb, framing "
+             "mindfulness meditation as a means undertaken for a "
+             "stated purpose"),
+        ("vedanā", "&ldquo;feeling&rdquo; &mdash; this discourse's "
+             "own title term and the object named for complete "
+             "understanding"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; here presented as "
+             "the METHOD developed specifically to understand the "
+             "three feelings completely"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.49:1.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What three feelings does this discourse name?",
+         "opts": ["Pleasant, painful, and neutral feeling", "Physical, mental, and spiritual feeling", "Past, present, and future feeling", "Strong, weak, and moderate feeling"],
+         "correct": 0,
+         "expl": "The same threefold classification used throughout the canon's own broader treatment of vedanā."},
+        {"q": "How does this discourse's own logical direction differ from SN 47.38's own claim?",
+         "opts": ["Here the feelings are the GOAL of understanding and mindfulness meditation is the MEANS, reversing SN 47.38's own direction", "The two discourses make an identical claim in every respect", "This discourse denies that feelings can be understood at all", "SN 47.38 concerns feelings while this discourse concerns only the body"],
+         "correct": 0,
+         "expl": "A purpose clause (developed IN ORDER TO understand feelings) rather than an outcome clause."},
+        {"q": "What does the verb \"bhāvetabbā\" (should be developed) frame mindfulness meditation as?",
+         "opts": ["A prescribed practice undertaken specifically to reach complete understanding of the three feelings", "An optional activity with no particular purpose", "A practice reserved only for advanced practitioners", "A one-time event rather than an ongoing practice"],
+         "correct": 0,
+         "expl": "Rather than an activity whose outcome is merely described after the fact."},
+    ],
+    marginalia=[
+        ("Three feelings — pleasant, painful, neutral", [
+            "the same threefold division used canon-wide —",
+            "named here as the object of understanding"
+        ]),
+        ("Reversed from SN 47.38's own direction", [
+            "feelings as the goal, practice as the means —",
+            "a purpose clause, not an outcome clause"
+        ]),
+        ("\"Should be developed\" — a prescription", [
+            "bhāvetabbā — undertaken for a stated purpose —",
+            "not merely described after the fact"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "one more individual discourse still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.48.html\">SN 47.48 &middot; Friends</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
