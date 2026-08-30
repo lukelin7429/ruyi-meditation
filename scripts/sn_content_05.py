@@ -41975,3 +41975,152 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.58 — Sūkarakhatasutta
+# Finally resolves the vagga name left honestly unexplained at SN
+# 48.51: this discourse's own setting is literally "the Boar's Cave"
+# (sūkarakhatāyaṁ) at Vulture's Peak Mountain, giving this vagga its
+# own name. Sāriputta explains why even an arahant continues showing
+# utmost deference to the Buddha: developing the five faculties
+# toward peace and awakening, echoing SN 48.19's own phrase.
+# --------------------------------------------------------------------------- #
+page(
+    48, 58, "Sūkarakhata", "The Boar's Cave",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.58 — The Boar's Cave | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sūkarakhatasutta — set at the Boar's Cave, giving this "
+        "vagga its own name; Sāriputta explains why even an arahant "
+        "continues showing utmost deference to the Buddha. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on Vulture's Peak Mountain, in the "
+                     "Boar's Cave &mdash; giving this vagga its own "
+                     "name directly"),
+        ("Speakers", "The Buddha, questioning Venerable Sāriputta; "
+                     "Sāriputta, answering at length, each answer "
+                     "confirmed by the Buddha"),
+        ("Form", "A three-part question-and-answer dialogue"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; finally explains this vagga's own "
+                         "name, left honestly unexplained since SN "
+                         "48.51, and addresses why even a fully "
+                         "liberated arahant maintains deep reverence"),
+    ],
+    why=(
+        "This discourse finally resolves what this project's own SN "
+        "48.51 honestly declined to guess at: its own setting, "
+        "&ldquo;sūkarakhatāyaṁ&rdquo; (&ldquo;in the boar's "
+        "cave&rdquo;) at Vulture's Peak Mountain, gives this vagga "
+        "its own name directly. Sāriputta also answers a genuine "
+        "philosophical question: why does an arahant, with nothing "
+        "further to attain, continue showing utmost deference to the "
+        "Buddha and his teaching?"
+    ),
+    guide=[
+        ("The vagga's own name, finally explained", [
+            "Confirmed by direct reading, this discourse's own "
+            "setting &mdash; &ldquo;on the Vulture's Peak Mountain, "
+            "in the Boar's Cave&rdquo; &mdash; is the literal source "
+            "of this vagga's own name, &ldquo;Sūkarakhatavagga."
+            "&rdquo; This project's own SN 48.51 explicitly declined "
+            "to guess at this vagga's own name in advance; this "
+            "discourse confirms it directly, by its own setting "
+            "rather than by any doctrinal content.",
+        ]),
+        ("Why an arahant still shows deference: the supreme sanctuary", [
+            "Confirmed by direct reading, Sāriputta's own first "
+            "answer explains that an arahant continues showing "
+            "utmost deference to the Buddha &ldquo;considering the "
+            "supreme sanctuary from the yoke&rdquo; (anuttaraṁ "
+            "yogakkhemaṁ) &mdash; and this sanctuary IS the "
+            "development of the five faculties, which lead &ldquo;to "
+            "peace and to awakening&rdquo; (upasamagāmiṁ "
+            "sambodhagāmiṁ), the identical phrase this project's own "
+            "SN 48.19 already met.",
+        ]),
+        ("Utmost deference, defined as fivefold reverence", [
+            "Confirmed by direct reading, Sāriputta's own second "
+            "answer defines &ldquo;utmost deference&rdquo; itself as "
+            "maintaining respect and reverence toward five things: "
+            "the Teacher, the teaching, the Saṅgha, the training, "
+            "and immersion &mdash; a specific, fivefold structure of "
+            "ongoing reverence that an arahant maintains even after "
+            "full liberation.",
+        ]),
+    ],
+    terms=[
+        ("sūkarakhatāyaṁ", "&ldquo;in the boar's cave&rdquo; "
+             "&mdash; this discourse's own setting, the literal "
+             "source of this vagga's own name"),
+        ("anuttaraṁ yogakkhemaṁ", "&ldquo;the supreme sanctuary "
+             "from the yoke&rdquo; &mdash; what an arahant considers "
+             "in continuing to show deference to the Buddha"),
+        ("upasamagāmiṁ sambodhagāmiṁ", "&ldquo;leading to peace, "
+             "leading to awakening&rdquo; &mdash; the identical "
+             "phrase this project's own SN 48.19 already met, here "
+             "describing the developed five faculties"),
+        ("paramanipaccakāro", "&ldquo;utmost deference&rdquo; "
+             "&mdash; defined here as fivefold reverence toward the "
+             "Teacher, the teaching, the Saṅgha, the training, and "
+             "immersion"),
+        ("Aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's eighth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own opening question", "sn48.58:1.1-1.6"),
+        ("p", "&sect;2 &mdash; the supreme sanctuary from the yoke", "sn48.58:2.1-2.9"),
+        ("p", "&sect;3 &mdash; utmost deference, defined as "
+              "fivefold reverence", "sn48.58:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own setting finally explain?",
+         "opts": ["This vagga's own name, Sūkarakhatavagga (\"the boar's cave\"), left honestly unexplained since SN 48.51", "The origin of the five spiritual faculties", "Why the Buddha chose to teach at Rājagaha specifically", "A dispute between Sāriputta and another disciple"],
+         "correct": 0,
+         "expl": "This discourse's own setting is the literal source of the vagga's own name."},
+        {"q": "Why does an arahant, according to Sāriputta's own answer, continue showing deference to the Buddha?",
+         "opts": ["Considering the supreme sanctuary from the yoke — the development of the five faculties leading to peace and awakening", "Out of fear of losing their own attainment", "Because arahants are required to by monastic rule alone", "There is no reason; the discourse denies arahants show any deference"],
+         "correct": 0,
+         "expl": "The same faculties that led to liberation remain worthy of ongoing reverence."},
+        {"q": "What five things does \"utmost deference\" involve reverence toward, according to this discourse?",
+         "opts": ["The Teacher, the teaching, the Saṅgha, the training, and immersion", "The five spiritual faculties themselves, named directly", "The five aggregates", "The four noble truths and the eightfold path"],
+         "correct": 0,
+         "expl": "A specific, fivefold structure of ongoing reverence maintained even after full liberation."},
+    ],
+    marginalia=[
+        ("The name, explained at last", [
+            "the boar's cave, not merely a mystery —",
+            "this discourse's own setting, plainly named"
+        ]),
+        ("Why an arahant still bows", [
+            "the supreme sanctuary, considered rightly —",
+            "the same five faculties, still honored"
+        ]),
+        ("Five objects of reverence", [
+            "Teacher, teaching, Saṅgha, training, immersion —",
+            "deference that outlasts attainment itself"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "brief as its own vagga's earlier discourses —",
+            "two more still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.57.html\">SN 48.57 &middot; With the "
+        "Divinity Sahampati</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
