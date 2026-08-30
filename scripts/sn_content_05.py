@@ -37099,3 +37099,144 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.25 — Suddhakasutta
+# Finally resolves the discrepancy flagged at SN 48.21: this is the
+# first discourse in this vagga whose own text uses the word "six"
+# (cha/chayimāni) directly with "indriya" — naming the six sense
+# faculties, the classic āyatana list.
+# --------------------------------------------------------------------------- #
+page(
+    48, 25, "Suddhaka", "Plain Version",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.25 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhakasutta — the six sense faculties of eye, ear, "
+        "nose, tongue, body, and mind, the discourse whose own text "
+        "finally matches this vagga's own name directly. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare list of six faculties, named without "
+                 "further elaboration"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the first discourse in this vagga "
+                         "whose own text directly matches the vagga's "
+                         "own name, &ldquo;Chaḷindriyavagga,&rdquo; "
+                         "resolving the discrepancy this project's "
+                         "own SN 48.21 honestly flagged"),
+    ],
+    why=(
+        "This discourse finally resolves, directly and by its own "
+        "text, the discrepancy this project's own SN 48.21 declined "
+        "to guess at: it opens &ldquo;Chayimāni, bhikkhave, "
+        "indriyāni&rdquo; &mdash; &ldquo;mendicants, there are these "
+        "SIX faculties&rdquo; &mdash; the first discourse in this "
+        "vagga to use the word &ldquo;six&rdquo; together with "
+        "&ldquo;indriya,&rdquo; naming the six sense faculties: eye, "
+        "ear, nose, tongue, body, and mind."
+    ),
+    guide=[
+        ("The vagga's own name, finally matched directly", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening line &mdash; &ldquo;Chayimāni, bhikkhave, "
+            "indriyāni&rdquo; (&ldquo;these SIX faculties&rdquo;) "
+            "&mdash; is the first in this vagga whose own text "
+            "literally uses the number six with the word "
+            "&ldquo;indriya,&rdquo; directly matching "
+            "&ldquo;Chaḷindriyavagga&rdquo; itself. This project's "
+            "own SN 48.21 declined to guess at the resolution; this "
+            "discourse supplies it.",
+        ]),
+        ("The six sense faculties, the classic āyatana list", [
+            "Confirmed by direct reading, the six faculties named "
+            "here &mdash; cakkhundriya (eye), sotindriya (ear), "
+            "ghānindriya (nose), jivhindriya (tongue), kāyindriya "
+            "(body), manindriya (mind) &mdash; are the classic "
+            "sixfold sense-base list met throughout the canon under "
+            "the term āyatana, here specifically framed as "
+            "&ldquo;indriya,&rdquo; faculties.",
+        ]),
+        ("A running catalogue: five kinds of indriya so far", [
+            "This project's own tally across this vagga so far: the "
+            "five spiritual faculties (SN 48.21), the physiological "
+            "trio of femininity/masculinity/life (SN 48.22), the "
+            "supramundane trio (SN 48.23), the extended graduated "
+            "scale of the five spiritual faculties (SN 48.24), and "
+            "now the six sense faculties (SN 48.25) &mdash; a survey "
+            "still possibly unfinished, as this vagga's own further "
+            "discourses have not yet been read.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; finally matched directly by "
+             "this discourse's own opening line"),
+        ("Chayimāni", "&ldquo;these six&rdquo; &mdash; the exact "
+             "number this vagga's own name refers to, appearing here "
+             "for the first time paired with &ldquo;indriya&rdquo;"),
+        ("cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, "
+             "kāyindriyaṁ, manindriyaṁ", "&ldquo;the faculties of "
+             "eye, ear, nose, tongue, body, and mind&rdquo; &mdash; "
+             "the classic sixfold sense-base list"),
+        ("Suddhaka", "&ldquo;plain, unmixed&rdquo; &mdash; this "
+             "discourse's own title, marking its bare, unelaborated "
+             "form"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fifth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.25:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse distinct from SN 48.21-24 within this vagga?",
+         "opts": ["It is the first whose own text directly uses \"six\" (chayimāni) together with \"indriya,\" matching the vagga's own name", "It is the only discourse in this vagga with a narrative frame", "It denies that any of the earlier discourses' faculties are genuine indriyas", "It is written in a different vagga entirely"],
+         "correct": 0,
+         "expl": "Directly resolving the discrepancy this project's own SN 48.21 honestly flagged."},
+        {"q": "What six faculties does this discourse name?",
+         "opts": ["Eye, ear, nose, tongue, body, and mind", "Faith, energy, mindfulness, immersion, wisdom, and faith again", "Femininity, masculinity, life, and three supramundane faculties", "Arahant, non-returner, once-returner, stream-enterer, and two followers"],
+         "correct": 0,
+         "expl": "The classic sixfold sense-base (āyatana) list, here framed as \"indriya.\""},
+        {"q": "How many distinct kinds of \"indriya\" has this project's own tally found in this vagga through SN 48.25?",
+         "opts": ["Five so far — spiritual, physiological, supramundane, the extended scale, and now sense faculties", "Exactly one, repeated with variations", "Twenty-two, all named explicitly in this vagga alone", "Two — spiritual and physical only"],
+         "correct": 0,
+         "expl": "A running catalogue, possibly still incomplete as more of the vagga remains unread."},
+    ],
+    marginalia=[
+        ("Six, at last, matched exactly", [
+            "chayimāni indriyāni — these six —",
+            "the vagga's own name, finally direct"
+        ]),
+        ("Eye, ear, nose, tongue, body, mind", [
+            "the classic sixfold sense-base list —",
+            "here named simply as faculties"
+        ]),
+        ("A running tally, still unfinished", [
+            "five kinds of indriya counted so far —",
+            "more of this vagga still unread"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "brief as the others before it —",
+            "the survey continues onward"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.24.html\">SN 48.24 &middot; A "
+        "One-Seeder</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
