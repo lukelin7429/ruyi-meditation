@@ -41540,3 +41540,142 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.55 — Sārasutta
+# A third simile for wisdom's foremost status among the awakening
+# factors: red sandalwood, best of fragrant heartwoods. Directly
+# returns to SN 48.51's own exact phrasing ("bodhipakkhiyā dhammā"),
+# unlike SN 48.54's own "padāni" framing — confirming a recurring
+# motif across this vagga rather than a strictly linear progression.
+# --------------------------------------------------------------------------- #
+page(
+    48, 55, "Sāra", "Heartwood",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.55 — Heartwood | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sārasutta — red sandalwood, the best of fragrant "
+        "heartwoods, likened to the faculty of wisdom, the best of "
+        "the qualities on the side of awakening. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching SN 48.54's own "
+                     "bare structure, no narrative opening"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single simile, applied to the five faculties as "
+                 "qualities on the side of awakening"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a third simile in this vagga's own "
+                         "recurring motif, returning to SN 48.51's "
+                         "exact phrasing rather than SN 48.54's own"),
+    ],
+    why=(
+        "This discourse gives a third simile for wisdom's foremost "
+        "status: just as red sandalwood is said to be the best of "
+        "all fragrant heartwoods, the faculty of wisdom is said to "
+        "be the best of the &ldquo;qualities on the side of "
+        "awakening&rdquo; &mdash; directly returning to SN 48.51's "
+        "own exact phrasing (bodhipakkhiyā dhammā) rather than "
+        "continuing SN 48.54's own distinct framing (padāni)."
+    ),
+    guide=[
+        ("A third simile, confirming a recurring motif", [
+            "Confirmed by direct reading, this discourse is the "
+            "third in this vagga to apply a vivid image to wisdom's "
+            "own foremost place among the five faculties: the lion "
+            "(SN 48.51), the elephant's footprint (SN 48.54), and "
+            "now red sandalwood, best of fragrant heartwoods "
+            "&mdash; confirming this vagga's own recurring "
+            "structural motif rather than a single isolated "
+            "comparison.",
+        ]),
+        ("Returning to SN 48.51's own exact phrasing", [
+            "Confirmed by direct comparison, this discourse's own "
+            "framing term, &ldquo;bodhipakkhiyā dhammā&rdquo; "
+            "(&ldquo;qualities on the side of awakening&rdquo;), "
+            "matches SN 48.51's own phrasing exactly, word for word "
+            "&mdash; rather than continuing SN 48.54's own distinct "
+            "term, &ldquo;padāni bodhāya saṁvattanti&rdquo; "
+            "&mdash; showing this vagga's own simile-discourses do "
+            "not progress in a single fixed direction but return to "
+            "earlier phrasing as needed.",
+        ]),
+        ("Sandalwood among heartwoods: a specific, valued image", [
+            "As general background, not asserted beyond what this "
+            "discourse's own bare text states: red sandalwood "
+            "(lohitacandana) was a prized fragrant wood in ancient "
+            "India, valued above other aromatic heartwoods &mdash; "
+            "this discourse's own choice of image draws on that "
+            "recognized value to make wisdom's own foremost status "
+            "vivid and immediate.",
+        ]),
+    ],
+    terms=[
+        ("sāragandhā", "&ldquo;fragrant heartwoods&rdquo; &mdash; "
+             "the category this discourse's own simile draws from"),
+        ("lohitacandanaṁ", "&ldquo;red sandalwood&rdquo; &mdash; "
+             "the specific heartwood named as best, likened to "
+             "wisdom"),
+        ("bodhipakkhiyā dhammā", "&ldquo;the qualities on the side "
+             "of awakening&rdquo; &mdash; the same term used at SN "
+             "48.51, returned to here rather than SN 48.54's own "
+             "&ldquo;padāni&rdquo;"),
+        ("aggamakkhāyati", "&ldquo;is said to be the best&rdquo; "
+             "&mdash; the same phrase applied across all three "
+             "similes in this vagga so far"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's fifth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.55:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's own simile for wisdom's foremost status?",
+         "opts": ["Red sandalwood, said to be the best of all fragrant heartwoods", "The lion, king of beasts", "The elephant's footprint, which encompasses all others", "A river with two apparent streams"],
+         "correct": 0,
+         "expl": "A third simile in this vagga's own recurring motif for wisdom's foremost place."},
+        {"q": "Which earlier discourse's own exact phrasing does this discourse return to?",
+         "opts": ["SN 48.51's own \"bodhipakkhiyā dhammā\", rather than SN 48.54's own \"padāni\"", "SN 48.53's own trainee/adept distinction", "SN 48.41's own old-age narrative", "SN 48.45's own single-faculty claim"],
+         "correct": 0,
+         "expl": "Showing this vagga's own similes do not progress in one fixed direction."},
+        {"q": "How many similes for wisdom's own foremost status has this vagga given so far, according to this discourse?",
+         "opts": ["Three: the lion, the elephant's footprint, and now sandalwood", "Only one, repeated three times identically", "Five, one for each of the five faculties", "None; this discourse denies wisdom has any special status"],
+         "correct": 0,
+         "expl": "A recurring structural motif confirmed across SN 48.51, 48.54, and this discourse."},
+    ],
+    marginalia=[
+        ("A third image, the same claim", [
+            "lion, elephant, and now sandalwood —",
+            "wisdom named best each time"
+        ]),
+        ("Back to the earlier phrase", [
+            "bodhipakkhiyā dhammā, as at SN 48.51 —",
+            "not padāni, as at SN 48.54"
+        ]),
+        ("The finest of fragrant woods", [
+            "red sandalwood, prized above the rest —",
+            "a vivid image for wisdom's own place"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "brief and bare, matching SN 48.54's own form —",
+            "more of Sūkarakhatavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.54.html\">SN 48.54 &middot; Footprints</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
