@@ -41679,3 +41679,142 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.56 — Patiṭṭhitasutta
+# A genuinely new "one thing" claim, distinct from every earlier
+# single-factor teaching in this saṃyutta: diligence (appamāda), not
+# wisdom, is named as the single ground on which all five faculties
+# together become fully developed. Continues the bare structural
+# pattern (no narrative frame) already met at SN 48.54-55.
+# --------------------------------------------------------------------------- #
+page(
+    48, 56, "Patiṭṭhita", "Grounded",
+    vagga="Sūkarakhatavagga",
+    meta_title="SN 48.56 — Grounded | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Patiṭṭhitasutta — a mendicant grounded in diligence, "
+        "guarding the mind against defilements, develops all five "
+        "faculties together. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing the bare "
+                     "structure of SN 48.54-55, no narrative "
+                     "opening"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single doctrinal statement defining one "
+                 "ground for all five faculties"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; a genuinely new claim, naming "
+                         "diligence rather than wisdom as the single "
+                         "ground for all five faculties together"),
+    ],
+    why=(
+        "This discourse makes a genuinely new claim, distinct from "
+        "every earlier single-factor teaching in this saṃyutta: a "
+        "mendicant grounded in ONE thing &mdash; diligence "
+        "(appamāda) &mdash; develops all five faculties together, "
+        "fully and well. Diligence itself is defined specifically as "
+        "guarding the mind against defilements and things "
+        "accompanied by defilements."
+    ),
+    guide=[
+        ("A new ground, distinct from every earlier claim about wisdom", [
+            "Confirmed by direct reading, this discourse's own "
+            "claim genuinely differs from the wisdom-centered "
+            "teachings met earlier in this saṃyutta (SN 48.45, "
+            "48.51-52, 48.54-55): rather than wisdom being &ldquo;"
+            "the best&rdquo; among the five faculties or the "
+            "stabilizing factor for the other four, this discourse "
+            "names DILIGENCE as the single ground on which ALL FIVE "
+            "faculties develop TOGETHER, without singling out any "
+            "one faculty as foremost.",
+        ]),
+        ("Diligence defined precisely: guarding the mind", [
+            "Confirmed by direct reading, this discourse defines "
+            "diligence specifically as &ldquo;cittaṁ rakkhati "
+            "āsavesu ca sāsavesu ca dhammesu&rdquo; (&ldquo;looking "
+            "after the mind when it comes to defilements and things "
+            "accompanied by defilements&rdquo;) &mdash; a precise, "
+            "active practice of ongoing vigilance, not a vague "
+            "general attitude.",
+        ]),
+        ("A recurring bare structure across this vagga", [
+            "This project's own observation: like SN 48.54-55 "
+            "immediately before it, this discourse's own text has no "
+            "narrative frame at all &mdash; no setting, no "
+            "characters, simply the doctrinal statement itself, "
+            "continuing a structural pattern this vagga has used "
+            "repeatedly since SN 48.54.",
+        ]),
+    ],
+    terms=[
+        ("ekadhamme patiṭṭhitassa", "&ldquo;grounded in one "
+             "thing&rdquo; &mdash; this discourse's own title and "
+             "central claim"),
+        ("appamādo", "&ldquo;diligence&rdquo; &mdash; the single "
+             "thing named, distinct from wisdom or any other "
+             "individual faculty"),
+        ("cittaṁ rakkhati āsavesu ca sāsavesu ca dhammesu", "&ldquo;"
+             "looking after the mind when it comes to defilements "
+             "and things accompanied by defilements&rdquo; &mdash; "
+             "this discourse's own precise definition of diligence"),
+        ("bhāvanāpāripūriṁ gacchati", "&ldquo;is fully "
+             "developed&rdquo; &mdash; the result for each of the "
+             "five faculties, applied identically to all five in "
+             "turn"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's sixth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.56:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What single thing does this discourse name as the ground for all five faculties' own full development?",
+         "opts": ["Diligence (appamāda), distinct from wisdom or any other individual faculty", "Wisdom, as in SN 48.45's own claim", "Faith alone, with the other four following", "Immersion, identified with noble freedom"],
+         "correct": 0,
+         "expl": "A genuinely new claim, not repeating the wisdom-centered teachings met earlier in this saṃyutta."},
+        {"q": "How does this discourse define diligence?",
+         "opts": ["Looking after the mind when it comes to defilements and things accompanied by defilements", "Sitting in meditation for long, unbroken periods", "Memorizing the entire canon by heart", "Avoiding all contact with other mendicants"],
+         "correct": 0,
+         "expl": "A precise, active practice of ongoing vigilance against corrupting influences."},
+        {"q": "What structural pattern does this discourse continue from SN 48.54-55?",
+         "opts": ["A bare text with no narrative frame at all — no setting, no characters", "A narrative scene involving Ānanda", "An explicit \"same setting\" marker linking it to earlier discourses", "A dialogue format with a named questioner"],
+         "correct": 0,
+         "expl": "Simply the doctrinal statement itself, matching this vagga's own recurring bare structure."},
+    ],
+    marginalia=[
+        ("Not wisdom this time, but diligence", [
+            "one thing grounds all five together —",
+            "a genuinely different claim"
+        ]),
+        ("Guarding the mind, precisely defined", [
+            "against defilements, and what comes with them —",
+            "an active vigilance, not a vague ideal"
+        ]),
+        ("All five, developed as one", [
+            "faith, energy, mindfulness, immersion, wisdom —",
+            "none singled out, all fully grown together"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "bare as the two discourses before it —",
+            "more of Sūkarakhatavagga still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.55.html\">SN 48.55 &middot; Heartwood</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
