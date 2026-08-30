@@ -37240,3 +37240,146 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.26 — Sotāpannasutta
+# Pairs directly with SN 48.25: the same six sense faculties, now
+# given a defining criterion for stream-entry, reusing the fivefold
+# analytical lens (origin, disappearance, gratification, drawback,
+# escape) this project's own SN 48.21 already met applied to the five
+# spiritual faculties in the Buddha's own testimony.
+# --------------------------------------------------------------------------- #
+page(
+    48, 26, "Sotāpanna", "A Stream-Enterer",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.26 — A Stream-Enterer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sotāpannasutta — a noble disciple who truly understands "
+        "the six sense faculties' own origin, disappearance, "
+        "gratification, drawback, and escape is called a "
+        "stream-enterer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single defining statement, pairing directly with "
+                 "the immediately preceding discourse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; pairs directly with SN 48.25, and "
+                         "reuses the fivefold analytical lens this "
+                         "project's own SN 48.21 already met, now "
+                         "applied to the six sense faculties instead "
+                         "of the five spiritual ones"),
+    ],
+    why=(
+        "This discourse pairs directly with the immediately preceding "
+        "SN 48.25: the same six sense faculties (eye, ear, nose, "
+        "tongue, body, mind), now given a defining criterion &mdash; "
+        "a noble disciple who truly understands these six faculties' "
+        "own origin, disappearance, gratification, drawback, and "
+        "escape is called a stream-enterer, not liable to be reborn "
+        "in the underworld, assured, destined for awakening."
+    ),
+    guide=[
+        ("A direct pairing with the immediately preceding discourse", [
+            "Confirmed by direct reading, this discourse opens with "
+            "the identical six sense faculties named in SN 48.25 "
+            "(here abbreviated by the source's own peyyāla marker, "
+            "&ldquo;cakkhundriyaṁ &hellip;pe&hellip; "
+            "manindriyaṁ&rdquo;), now supplying the defining "
+            "criterion SN 48.25's own bare list left unstated.",
+        ]),
+        ("The same fivefold lens met before, now applied differently", [
+            "Confirmed by direct reading, the analytical lens used "
+            "here &mdash; origin, disappearance, gratification, "
+            "drawback, and escape (samudaya, atthaṅgama, assāda, "
+            "ādīnava, nissaraṇa) &mdash; is the identical formula "
+            "this project's own SN 48.21 already met, there applied "
+            "to the FIVE SPIRITUAL faculties in the Buddha's own "
+            "pre-awakening testimony. Here the same lens is turned "
+            "on the SIX SENSE faculties instead, defining a "
+            "disciple's own attainment rather than the Buddha's own "
+            "awakening.",
+        ]),
+        ("The classic stream-enterer formula, met before in this project", [
+            "Confirmed by direct reading, the closing formula "
+            "&mdash; &ldquo;sotāpanno avinipātadhammo niyato "
+            "sambodhiparāyaṇo&rdquo; (&ldquo;a stream-enterer, not "
+            "liable to be reborn in the underworld, assured, "
+            "destined for awakening&rdquo;) &mdash; is the same "
+            "classic formula this project has translated before "
+            "elsewhere in this saṃyutta's own earlier discourses.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; this discourse continues the "
+             "six sense faculties named at SN 48.25"),
+        ("Cakkhundriyaṁ …pe… manindriyaṁ", "&ldquo;the faculty of "
+             "the eye &hellip; the faculty of the mind&rdquo; "
+             "&mdash; the same six sense faculties, here abbreviated "
+             "by the source's own peyyāla marker"),
+        ("samudayañca atthaṅgamañca assādañca ādīnavañca "
+             "nissaraṇañca", "&ldquo;origin, disappearance, "
+             "gratification, drawback, and escape&rdquo; &mdash; the "
+             "same fivefold lens met at SN 48.21, now applied to the "
+             "six sense faculties"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo", "the "
+             "classic stream-enterer formula: &ldquo;not liable to "
+             "be reborn in the underworld, assured, destined for "
+             "awakening&rdquo;"),
+        ("Chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's sixth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.26:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to the immediately preceding SN 48.25?",
+         "opts": ["It pairs directly, naming the same six sense faculties and supplying a defining criterion", "It contradicts SN 48.25 by naming five faculties instead of six", "It has no relationship to SN 48.25 at all", "It belongs to a different vagga entirely"],
+         "correct": 0,
+         "expl": "A direct pairing, confirmed by the identical six faculties in both discourses' own text."},
+        {"q": "What analytical lens does this discourse reuse from SN 48.21?",
+         "opts": ["Origin, disappearance, gratification, drawback, and escape", "The graduated \"weaker than that\" scale", "The three supramundane faculties", "The narrative form of a mendicant's own question"],
+         "correct": 0,
+         "expl": "The same fivefold formula, here applied to the six sense faculties instead of the five spiritual ones."},
+        {"q": "What does a noble disciple who truly understands the six faculties this way become known as?",
+         "opts": ["A stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening", "An arahant, with all defilements ended", "A once-returner, with one more rebirth remaining", "A follower by faith alone, without direct understanding"],
+         "correct": 0,
+         "expl": "The classic stream-enterer formula, met before elsewhere in this project's own work on this saṃyutta."},
+    ],
+    marginalia=[
+        ("The same six, given a criterion", [
+            "SN 48.25's own bare list, now defined —",
+            "what makes them lead to stream-entry"
+        ]),
+        ("A familiar lens, turned differently", [
+            "origin, drawback, escape — met before —",
+            "now applied to the six senses, not five"
+        ]),
+        ("Not liable to the underworld", [
+            "assured, destined for awakening —",
+            "the classic formula, spoken again"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "brief as its own pair before it —",
+            "this vagga's own survey continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.25.html\">SN 48.25 &middot; Plain "
+        "Version</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
