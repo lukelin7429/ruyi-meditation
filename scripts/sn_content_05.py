@@ -35959,3 +35959,135 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.17 — Tatiyavitthārasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 17, "Tatiyavitthāra", "In Detail (3rd)",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.17 — In Detail (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyavitthārasutta — confirming the full mirror "
+        "between the \"in brief\" and \"in detail\" triptychs, closing "
+        "with the identical \"not barren\" assurance already met at "
+        "SN 48.14. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 48.15's own nine-level scale, closing with the "
+                 "same assurance already met at SN 48.14"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; completes the full mirror between "
+                         "the two triptychs, confirmed step by step "
+                         "rather than assumed in advance"),
+    ],
+    why=(
+        "This discourse confirms, by direct reading, exactly what "
+        "this project anticipated but declined to assume at SN "
+        "48.16: the &ldquo;in detail&rdquo; triptych (SN 48.15-17) "
+        "mirrors the &ldquo;in brief&rdquo; triptych (SN 48.12-14) "
+        "COMPLETELY &mdash; this discourse closes with the identical "
+        "&ldquo;not barren&rdquo; assurance already met at SN 48.14, "
+        "completing the parallel between the two three-discourse sets."
+    ),
+    guide=[
+        ("The predicted parallel, now fully confirmed", [
+            "This project's own SN 48.16 declined to assume the "
+            "parallel would extend to a third matching closing "
+            "&mdash; confirmed here by direct reading, this "
+            "discourse's own closing is WORD FOR WORD the same "
+            "&ldquo;not barren&rdquo; assurance already met at SN "
+            "48.14, completing the mirror between the two triptychs "
+            "in full.",
+        ]),
+        ("Two triptychs, six discourses, one shared internal structure", [
+            "Confirmed by direct reading across all six discourses "
+            "(SN 48.12-17), both triptychs follow the IDENTICAL "
+            "internal sequence: first with no closing generalization, "
+            "second with the disparity-of-faculties chain, third "
+            "with the not-barren assurance &mdash; differing only in "
+            "whether the scale itself is the six-level "
+            "&ldquo;brief&rdquo; version or the nine-level "
+            "&ldquo;detailed&rdquo; version.",
+        ]),
+        ("Proportional success, even at the finest resolution", [
+            "Confirmed by direct reading, this discourse's own "
+            "proportionality statement &mdash; full practice "
+            "succeeding fully, partial practice succeeding partially "
+            "&mdash; and its own assurance that the five faculties "
+            "are never barren, apply equally whether one's own "
+            "attainment is measured on the six-level or nine-level "
+            "scale.",
+        ]),
+    ],
+    terms=[
+        ("paripūraṁ paripūrakārī ārādheti, padesaṁ padesakārī "
+             "ārādheti", "the identical proportionality statement "
+             "already met at SN 48.14, here applied to the "
+             "nine-level scale"),
+        ("avañjhāni... pañcindriyāni", "&ldquo;these five faculties "
+             "are not barren&rdquo; &mdash; the identical closing "
+             "assurance already met at SN 48.14, word for word"),
+        ("vitthāra", "&ldquo;in detail&rdquo; &mdash; the third and "
+             "final discourse of this triptych, sharing its own "
+             "title with SN 48.15 and SN 48.16"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; this "
+             "discourse's own closing numeral, confirming its "
+             "position in the vagga's own sequence"),
+        ("antarāparinibbāyī... saddhānusārī hoti", "the complete "
+             "nine-level scale, repeated for the third time, "
+             "identical to SN 48.15 and SN 48.16"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.17:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own closing confirm about the \"in detail\" triptych?",
+         "opts": ["It mirrors the \"in brief\" triptych completely, closing with the identical \"not barren\" assurance from SN 48.14", "It uses an entirely new closing not found anywhere else", "It has no closing generalization at all", "It repeats SN 48.13's own disparity-of-faculties chain instead"],
+         "correct": 0,
+         "expl": "Completing the parallel this project anticipated but did not assume in advance."},
+        {"q": "What shared internal structure do both triptychs (SN 48.12-14 and SN 48.15-17) follow?",
+         "opts": ["No closing, then the disparity chain, then the not-barren assurance — in that exact order in both sets", "A random order that differs between the two triptychs", "Only the first discourse of each set shares any structure", "The two triptychs share no structure at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading across all six discourses, differing only in scale resolution."},
+        {"q": "Does the proportionality and \"not barren\" assurance apply differently to the six-level versus nine-level scale?",
+         "opts": ["No — both apply equally regardless of which scale measures the attainment", "Yes — the assurance applies only to the nine-level scale", "Yes — the assurance applies only to the six-level scale", "The assurance is contradicted by the nine-level scale's own existence"],
+         "correct": 0,
+         "expl": "The same principle holds at either resolution."},
+    ],
+    marginalia=[
+        ("The parallel, fully confirmed", [
+            "not assumed at SN 48.16, confirmed here —",
+            "the identical \"not barren\" closing"
+        ]),
+        ("Two triptychs, one shared sequence", [
+            "no closing, then disparity, then assurance —",
+            "brief and detailed, mirroring each other exactly"
+        ]),
+        ("Proportional success, either resolution", [
+            "six levels or nine, the principle holds —",
+            "never barren, whatever the scale"
+        ]),
+        ("Seventh discourse, Sattamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.16.html\">SN 48.16 &middot; In Detail "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
