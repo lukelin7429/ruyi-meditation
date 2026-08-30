@@ -32177,3 +32177,147 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.46 — Pātimokkhasaṁvarasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 46, "Pātimokkhasaṁvara", "Restraint in the Monastic Code",
+    vagga="Amatavagga",
+    meta_title="SN 47.46 — Restraint in the Monastic Code | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pātimokkhasaṁvarasutta — a full narrative discourse in "
+        "which the Buddha teaches a mendicant to ground the four "
+        "kinds of mindfulness meditation on ethical restraint first, "
+        "and the mendicant goes on to attain full awakening. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "An unnamed mendicant requesting brief "
+                     "guidance, and the Buddha, teaching him"),
+        ("Form", "A full narrative: request, teaching, the "
+                 "mendicant's own departure and solitary practice, "
+                 "and his attainment of full awakening"),
+        ("Length", "2-3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; one of the few discourses in this "
+                         "saṃyutta that narrates a mendicant's own "
+                         "attainment of arahantship following the "
+                         "Buddha's brief instruction"),
+    ],
+    why=(
+        "This discourse answers a mendicant's own request for brief "
+        "guidance with a specific SEQUENCE: purify the "
+        "&ldquo;starting point of skillful qualities&rdquo; first "
+        "&mdash; restraint in the monastic code, good conduct, seeing "
+        "danger in the slightest fault &mdash; and only THEN develop "
+        "the four kinds of mindfulness meditation, &ldquo;depending "
+        "on and grounded on ethics.&rdquo; The mendicant follows this "
+        "and, in the discourse's own closing narration, soon attains "
+        "full awakening."
+    ),
+    guide=[
+        ("Ethics as the explicit starting point, not an afterthought", [
+            "Confirmed by direct reading, the Buddha's own answer "
+            "does NOT begin with the four kinds of mindfulness "
+            "meditation directly &mdash; it begins by naming "
+            "&ldquo;ādi kusalānaṁ dhammānaṁ&rdquo; (&ldquo;the "
+            "starting point of skillful qualities&rdquo;) as "
+            "restraint in the monastic code (pātimokkha), good "
+            "conduct, and seeing danger in the slightest fault, "
+            "placing ethical restraint explicitly BEFORE mindfulness "
+            "meditation in the sequence taught.",
+        ]),
+        ("\"Depending on and grounded on ethics\" -- a stated foundation", [
+            "The discourse's own phrase &ldquo;sīlaṁ nissāya sīle "
+            "patiṭṭhāya&rdquo; (&ldquo;depending on and grounded on "
+            "ethics&rdquo;) is confirmed by direct reading to "
+            "describe the four kinds of mindfulness meditation as "
+            "RESTING ON a prior ethical foundation, promising growth "
+            "rather than decline in skillful qualities when practiced "
+            "this way.",
+        ]),
+        ("A complete narrative of attainment, not left open-ended", [
+            "Confirmed by direct reading, this discourse does not end "
+            "with the Buddha's own teaching &mdash; it goes on to "
+            "narrate the mendicant's own departure, solitary "
+            "practice, and swift attainment of full awakening, closed "
+            "with the standard formula (&ldquo;rebirth is ended... "
+            "there is nothing further for this place&rdquo;) and the "
+            "explicit statement that he became one of the arahants.",
+        ]),
+    ],
+    terms=[
+        ("pātimokkhasaṁvara", "&ldquo;restraint in the monastic "
+             "code&rdquo; &mdash; this discourse's own title term, "
+             "named as the starting point of skillful qualities"),
+        ("ādi kusalānaṁ dhammānaṁ", "&ldquo;the starting point of "
+             "skillful qualities&rdquo; &mdash; the Buddha's own "
+             "answer to the mendicant's request, placing ethics "
+             "before mindfulness meditation"),
+        ("aṇumattesu vajjesu bhayadassāvī", "&ldquo;seeing danger in "
+             "the slightest fault&rdquo; &mdash; part of the "
+             "ethical foundation described as preceding mindfulness "
+             "meditation"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; the phrase describing "
+             "how the four kinds of mindfulness meditation should be "
+             "developed"),
+        ("khīṇā jāti, vusitaṁ brahmacariyaṁ", "&ldquo;rebirth is "
+             "ended, the spiritual journey has been completed&rdquo; "
+             "&mdash; the standard closing formula marking the "
+             "mendicant's own attainment of arahantship"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the mendicant's own request", "sn47.46:1.1-2.1"),
+        ("p", "&sect;2 &mdash; the Buddha's own answer", "sn47.46:2.2-3.6"),
+        ("p", "&sect;3 &mdash; his departure and attainment", "sn47.46:3.7-4.3"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha name as \"the starting point of skillful qualities,\" before mindfulness meditation itself?",
+         "opts": ["Restraint in the monastic code, good conduct, and seeing danger in the slightest fault", "The four noble truths, recited from memory", "A period of extended fasting", "Studying under a series of different teachers"],
+         "correct": 0,
+         "expl": "Placing ethical restraint explicitly before mindfulness meditation in the sequence taught."},
+        {"q": "What does the phrase \"depending on and grounded on ethics\" describe?",
+         "opts": ["How the four kinds of mindfulness meditation should be developed, resting on a prior ethical foundation", "A separate practice unrelated to mindfulness meditation", "A rule found only in the Vinaya, not connected to meditation", "A warning against practicing meditation at all"],
+         "correct": 0,
+         "expl": "Promising growth rather than decline in skillful qualities when practiced this way."},
+        {"q": "How does this discourse end?",
+         "opts": ["With the mendicant's own swift attainment of full awakening, becoming one of the arahants", "With the mendicant leaving disappointed, without attaining anything", "With the Buddha declining to answer the mendicant's request", "With the discourse breaking off before any outcome is described"],
+         "correct": 0,
+         "expl": "Closed with the standard formula and the explicit statement that he became one of the arahants."},
+    ],
+    marginalia=[
+        ("Ethics named first, explicitly", [
+            "the starting point of skillful qualities —",
+            "restraint, conduct, seeing danger in small faults"
+        ]),
+        ("\"Depending on and grounded on ethics\"", [
+            "mindfulness meditation resting on that foundation —",
+            "growth, not decline, promised as the result"
+        ]),
+        ("A complete story of attainment", [
+            "the mendicant departs, practices alone, awakens —",
+            "closed with the standard formula, an arahant"
+        ]),
+        ("Sixth discourse, Chaṭṭhaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "four more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.45.html\">SN 47.45 &middot; A Heap of the "
+        "Skillful</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
