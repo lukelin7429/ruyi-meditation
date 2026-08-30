@@ -40628,3 +40628,153 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.49 — Piṇḍolabhāradvājasutta
+# A new setting (Kosambī, Ghosita's Monastery), confirming the
+# Eastern Monastery series ended cleanly at SN 48.48. About the
+# arahant Piṇḍolabhāradvāja, naming a third distinct faculty
+# combination (mindfulness, immersion, wisdom) and culminating in an
+# insight that directly echoes this vagga's own name, Jarāvagga
+# ("Old Age"): the ending of rebirth, old age, and death.
+# --------------------------------------------------------------------------- #
+page(
+    48, 49, "Piṇḍolabhāradvāja", "About Bhāradvāja the Alms-Gatherer",
+    vagga="Jarāvagga",
+    meta_title="SN 48.49 — About Bhāradvāja the Alms-Gatherer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Piṇḍolabhāradvājasutta — the Buddha explains why the "
+        "arahant Piṇḍolabhāradvāja declared enlightenment, culminating "
+        "in the ending of rebirth, old age, and death. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, Ghosita's Monastery &mdash; a new "
+                     "location, confirming the Eastern Monastery "
+                     "series has ended"),
+        ("Speakers", "Several mendicants, asking the Buddha about "
+                     "Piṇḍolabhāradvāja's own declaration; the "
+                     "Buddha, explaining"),
+        ("Form", "A narrative frame around a named disciple's own "
+                 "attainment, followed by the Buddha's own doctrinal "
+                 "explanation"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; names a third distinct faculty "
+                         "combination, and its own culminating "
+                         "insight directly echoes this vagga's own "
+                         "name, Jarāvagga (&ldquo;Old Age&rdquo;)"),
+    ],
+    why=(
+        "This discourse moves to a new setting, confirming the "
+        "Eastern Monastery series (SN 48.45-48) has ended cleanly, "
+        "and explains why the arahant Piṇḍolabhāradvāja declared his "
+        "own enlightenment: through developing three faculties "
+        "&mdash; mindfulness, immersion, wisdom &mdash; which "
+        "culminate in ENDING, specifically the ending of rebirth, "
+        "old age, and death, directly echoing this vagga's own name, "
+        "Jarāvagga."
+    ),
+    guide=[
+        ("A new setting, confirming the earlier series has ended", [
+            "Confirmed by direct reading, this discourse opens at "
+            "Kosambī's own Ghosita Monastery &mdash; a location "
+            "unrelated to the Eastern Monastery of SN 48.45-48 "
+            "&mdash; confirming by its own text that the four-part "
+            "escalating series at that occasion has genuinely "
+            "concluded, rather than continuing further.",
+        ]),
+        ("A third distinct combination of faculties", [
+            "Confirmed by direct reading, this discourse names "
+            "mindfulness, immersion, and wisdom as the three "
+            "faculties behind Piṇḍolabhāradvāja's own declaration "
+            "&mdash; a combination distinct from every pairing "
+            "already met in this vagga: not SN 48.45's own wisdom "
+            "alone, not SN 48.46's own wisdom-and-immersion pair, "
+            "but mindfulness joined with immersion and wisdom, "
+            "omitting both faith and energy.",
+        ]),
+        ("A culmination echoing the vagga's own name", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing exchange &mdash; what do these three faculties "
+            "culminate in? &ldquo;Ending&rdquo; (khaya). Ending of "
+            "what? &ldquo;Of rebirth, old age, and death&rdquo; "
+            "(jātijarāmaraṇa) &mdash; directly names the same "
+            "concern this vagga's own title, Jarāvagga (&ldquo;Old "
+            "Age&rdquo;), announces, tying this discourse's own "
+            "doctrinal content to the vagga's own thematic thread.",
+        ]),
+    ],
+    terms=[
+        ("Piṇḍolabhāradvāja", "&ldquo;Bhāradvāja the Alms-"
+             "Gatherer&rdquo; &mdash; the named arahant disciple "
+             "whose own declaration this discourse explains"),
+        ("satindriyassa, samādhindriyassa, paññindriyassa", "the "
+             "three faculties named here: mindfulness, immersion, "
+             "wisdom &mdash; a combination distinct from every "
+             "earlier pairing in this vagga"),
+        ("khayantāni", "&ldquo;they culminate in ending&rdquo; "
+             "&mdash; the Buddha's own answer to what these three "
+             "faculties lead to"),
+        ("jātijarāmaraṇassa", "&ldquo;of rebirth, old age, and "
+             "death&rdquo; &mdash; the specific ending named, "
+             "directly echoing this vagga's own name, Jarāvagga"),
+        ("Navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's ninth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the setting and Piṇḍolabhāradvāja's "
+              "own declaration", "sn48.49:1.1-1.5"),
+        ("p", "&sect;2 &mdash; the mendicants' own question", "sn48.49:2.1-2.4"),
+        ("p", "&sect;3 &mdash; the Buddha's own explanation, "
+              "culminating in the ending of rebirth, old age, and "
+              "death", "sn48.49:3.1-3.12"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own new setting confirm?",
+         "opts": ["That the Eastern Monastery series (SN 48.45-48) has genuinely ended, not merely paused", "That this discourse is somehow still part of the same occasion as SN 48.45-48", "That the Buddha has left the Sāvatthī region permanently", "Nothing about the earlier series"],
+         "correct": 0,
+         "expl": "A different location, Kosambī's own Ghosita Monastery, confirming a clean conclusion to the prior series."},
+        {"q": "Which three faculties does the Buddha name for Piṇḍolabhāradvāja's own declaration?",
+         "opts": ["Mindfulness, immersion, and wisdom", "Faith, energy, and wisdom", "Faith, mindfulness, and immersion", "All five faculties together"],
+         "correct": 0,
+         "expl": "A third distinct combination, different from every earlier pairing in this vagga."},
+        {"q": "What do these three faculties culminate in, according to this discourse?",
+         "opts": ["Ending — specifically the ending of rebirth, old age, and death, echoing this vagga's own name", "A return to ordinary lay life", "Further study of the scriptures alone", "Nothing; the discourse denies any culmination exists"],
+         "correct": 0,
+         "expl": "Directly tying this discourse's own content to Jarāvagga's own thematic thread."},
+    ],
+    marginalia=[
+        ("A new place, a clean ending", [
+            "Kosambī now, not the Eastern Monastery —",
+            "the four-part series genuinely closed"
+        ]),
+        ("A third combination, not the earlier ones", [
+            "mindfulness, immersion, wisdom together —",
+            "neither one, two, four, nor five"
+        ]),
+        ("Ending, and ending of what", [
+            "rebirth, old age, and death —",
+            "the same concern this vagga is named for"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "brief as the vagga's own earlier discourses —",
+            "one more still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.48.html\">SN 48.48 &middot; At the Eastern "
+        "Monastery (4th)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
