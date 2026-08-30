@@ -40343,3 +40343,144 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.47 — Tatiyapubbārāmasutta
+# The third installment of the same teaching occasion (confirmed
+# again by "Taṁyeva nidānaṁ"), continuing an escalating pattern: SN
+# 48.45 named one faculty (wisdom), SN 48.46 named two (wisdom and
+# immersion), and this discourse names four — energy, mindfulness,
+# immersion, and wisdom — notably the only discourse in this series
+# to omit faith.
+# --------------------------------------------------------------------------- #
+page(
+    48, 47, "Tatiyapubbārāma", "At the Eastern Monastery (3rd)",
+    vagga="Jarāvagga",
+    meta_title="SN 48.47 — At the Eastern Monastery (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyapubbārāmasutta — the same occasion as SN 48.45-46, "
+        "now naming four faculties as sufficient for full "
+        "enlightenment, notably omitting faith. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The same occasion as SN 48.45-46, again "
+                     "confirmed by this discourse's own opening"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical question-and-deferral structure as "
+                 "SN 48.45-46, with a further expanded answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; continues an escalating pattern "
+                         "(one faculty, then two, now four) within a "
+                         "single teaching occasion, and is the only "
+                         "discourse in this series to omit faith"),
+    ],
+    why=(
+        "This discourse continues the same teaching occasion as SN "
+        "48.45-46, again confirmed by its own opening &ldquo;"
+        "Taṁyeva nidānaṁ&rdquo; &mdash; and continues an escalating "
+        "pattern of faculty counts (one, then two, now four), "
+        "naming energy, mindfulness, immersion, and wisdom as "
+        "sufficient for full enlightenment. Notably, this is the "
+        "only discourse in the series to omit the fifth faculty, "
+        "faith, entirely."
+    ),
+    guide=[
+        ("The third installment, continuing the escalation", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening &ldquo;Taṁyeva nidānaṁ&rdquo; confirms it "
+            "continues the same teaching occasion as SN 48.45 (one "
+            "faculty) and SN 48.46 (two faculties), now answering "
+            "the identical question with FOUR faculties &mdash; a "
+            "genuinely escalating sequence within a single, "
+            "continuous teaching.",
+        ]),
+        ("Faith, the one faculty omitted", [
+            "Confirmed by direct reading, this discourse names "
+            "energy (vīriya), mindfulness (sati), immersion "
+            "(samādhi), and wisdom (paññā) &mdash; but not faith "
+            "(saddhā), the only one of the five spiritual faculties "
+            "left out. This project reports this omission plainly, "
+            "without guessing at a doctrinal reason not stated in "
+            "the discourse's own text.",
+        ]),
+        ("An open question about what comes next", [
+            "This project's own honest observation: with the "
+            "sequence now at one, two, and four faculties within the "
+            "same teaching occasion, a natural next step might be "
+            "five (all the faculties, faith included) &mdash; but "
+            "this project declines to assume this in advance, and "
+            "will read the next discourse fresh from its own source.",
+        ]),
+    ],
+    terms=[
+        ("Taṁyeva nidānaṁ", "&ldquo;the same setting&rdquo; &mdash; "
+             "confirming this discourse continues the identical "
+             "teaching occasion as SN 48.45-46"),
+        ("catunnaṁ indriyānaṁ", "&ldquo;of four faculties&rdquo; "
+             "&mdash; the third answer in this occasion's own "
+             "escalating sequence"),
+        ("vīriyindriyassa, satindriyassa, samādhindriyassa, "
+             "paññindriyassa", "&ldquo;energy, mindfulness, "
+             "immersion, and wisdom&rdquo; &mdash; the four named "
+             "here, omitting faith"),
+        ("saddhindriya", "&ldquo;the faculty of faith&rdquo; "
+             "&mdash; the one faculty absent from this discourse's "
+             "own list, its omission reported honestly"),
+        ("Sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "seventh discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the Buddha's own question", "sn48.47:1.1-1.3"),
+        ("p", "&sect;2 &mdash; the answer: four faculties, "
+              "omitting faith", "sn48.47:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse continue the pattern of SN 48.45-46?",
+         "opts": ["It confirms the same teaching occasion and further escalates the faculty count to four", "It abandons the earlier faculty counts entirely and starts a new topic", "It denies that SN 48.45 and SN 48.46 belong to the same occasion", "It reduces the faculty count back down to one"],
+         "correct": 0,
+         "expl": "One, then two, now four — a genuinely escalating sequence within a single occasion."},
+        {"q": "Which of the five spiritual faculties does this discourse notably omit?",
+         "opts": ["Faith (saddhā) — the only one of the five left out of this discourse's own list of four", "Wisdom (paññā), central to SN 48.45's own claim", "Energy (vīriya)", "Mindfulness (sati)"],
+         "correct": 0,
+         "expl": "Reported plainly, without guessing at an unstated doctrinal reason."},
+        {"q": "What does this project's own reading guide say about what might come next?",
+         "opts": ["It declines to assume the sequence continues to five faculties, and will read the next discourse fresh", "It asserts with certainty that the next discourse names five faculties", "It states that this discourse is the series' own final installment", "It claims no further discourse in this vagga relates to this occasion"],
+         "correct": 0,
+         "expl": "An honest observation, not a guessed conclusion — consistent with this project's own established practice."},
+    ],
+    marginalia=[
+        ("One, two, now four", [
+            "the same occasion, still escalating —",
+            "a sequence not yet complete"
+        ]),
+        ("Faith, left out this time", [
+            "energy, mindfulness, immersion, wisdom —",
+            "the only faculty of five missing here"
+        ]),
+        ("Not guessed at, only reported", [
+            "no stated reason for the omission —",
+            "this project records it plainly"
+        ]),
+        ("A question left open", [
+            "does five come next? not assumed —",
+            "the next discourse read fresh, as always"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.46.html\">SN 48.46 &middot; At the Eastern "
+        "Monastery (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
