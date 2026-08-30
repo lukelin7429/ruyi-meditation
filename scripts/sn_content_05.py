@@ -45849,3 +45849,151 @@ page_range(
         "there to the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 49.35-44 — Esanādisuttadasaka (partial content + cross-reference)
+# Vagga 4, confirmed by direct reading to match Vagga 3's own fuller
+# pattern rather than Vagga 2's own bare structure: the three
+# searches (kāmesanā, bhavesanā, brahmacariyesanā) defined in full,
+# before the cross-reference instruction. The Pāli root's own
+# instruction is generic ("Vitthāretabbaṁ," "to be elaborated") --
+# only the English source specifies "as in SN 45.161-170" -- a
+# genuine difference between the two texts noted honestly.
+# --------------------------------------------------------------------------- #
+page_range(
+    49, 35, 44, "Esanādi", "Ten Discourses on Searches, Etc.",
+    vagga="Esanāvagga",
+    meta_title="SN 49.35–44 — Ten Discourses on Searches, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 49.35–44 — the three searches defined in full, "
+        "illustrating the four right efforts. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "The three searches defined in full, then a "
+                 "cross-reference instruction for the remaining "
+                 "discourses"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a genuine Pāli/English discrepancy "
+                         "in the cross-reference note, reported "
+                         "honestly"),
+    ],
+    why=(
+        "This discourse defines its own three searches in full "
+        "&mdash; for sensual pleasure, continued existence, and a "
+        "spiritual path &mdash; before cross-referencing the "
+        "remaining nine discourses, matching Vagga 3's own fuller "
+        "treatment rather than Vagga 2's own bare structure. A "
+        "genuine textual variant is reported honestly: the Pāli "
+        "root's own instruction is generic (&ldquo;to be "
+        "elaborated&rdquo;), while only the English source specifies "
+        "&ldquo;as in SN 45.161&ndash;170.&rdquo;"
+    ),
+    guide=[
+        ("The three searches, defined in full", [
+            "Confirmed by direct reading, this discourse names its "
+            "own three searches directly: &ldquo;kāmesanā&rdquo; "
+            "(search for sensual pleasures), &ldquo;bhavesanā&rdquo; "
+            "(search for continued existence), and "
+            "&ldquo;brahmacariyesanā&rdquo; (search for a spiritual "
+            "path) &mdash; already familiar to this project from its "
+            "own earlier work on SN 45.161 and SN 48.105-114.",
+        ]),
+        ("A genuine Pāli/English discrepancy, reported honestly", [
+            "This project's own standing practice, applied here "
+            "rather than silently resolved: the root Pāli's own "
+            "cross-reference reads simply &ldquo;Vitthāretabbaṁ&rdquo; "
+            "(&ldquo;to be elaborated&rdquo;), with no source named, "
+            "while the English translation specifies &ldquo;tell in "
+            "full as in SN 45.161&ndash;170&rdquo; &mdash; a genuine "
+            "textual difference in specificity, not silently "
+            "harmonized to one reading.",
+        ]),
+        ("Ten discourses, this vagga's own fourth position", [
+            "This file's own closing colophon, &ldquo;Esanāvaggo "
+            "catuttho&rdquo; (&ldquo;the Searches chapter, the "
+            "fourth&rdquo;), confirms this vagga's own position "
+            "without ambiguity, and its own uddāna is identical to "
+            "the formula already met at SN 45.161-170 and SN "
+            "48.105-114: searches, discriminations, defilements, "
+            "states of existence, threefold suffering, barrenness, "
+            "stains, troubles, feelings, and craving/thirst.",
+        ]),
+    ],
+    terms=[
+        ("tisso esanā", "&ldquo;the three searches&rdquo; &mdash; "
+             "search for sensual pleasures, continued existence, "
+             "and a spiritual path"),
+        ("kāmesanā, bhavesanā, brahmacariyesanā", "the three "
+             "searches named individually, already familiar from "
+             "this project's own SN 45.161 and SN 48.105-114"),
+        ("Vitthāretabbaṁ", "&ldquo;to be elaborated&rdquo; &mdash; "
+             "the root Pāli's own generic cross-reference, naming no "
+             "specific source, unlike the English translation's own "
+             "more specific instruction"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso", "the closing "
+             "uddāna's own opening line, identical to SN 45.161-170 "
+             "and SN 48.105-114's own"),
+        ("Esanāvaggo catuttho", "&ldquo;the Searches chapter, the "
+             "fourth&rdquo; &mdash; this file's own closing "
+             "colophon, confirming this vagga's own position"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn49.35-44:1.1-1.9"),
+        ("p", "Cross-reference", "sn49.35-44:1.10"),
+        ("p", "Uddāna", "sn49.35-44:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What are the three searches, defined at this discourse's own opening?",
+         "opts": ["Search for sensual pleasures, continued existence, and a spiritual path", "The four right efforts themselves", "The five faculties", "Search for wealth, fame, and pleasure"],
+         "correct": 0,
+         "expl": "Kāmesanā, bhavesanā, brahmacariyesanā — already met at SN 45.161 and SN 48.105-114."},
+        {"q": "What discrepancy does this project report honestly between the Pāli root and the English source?",
+         "opts": ["The Pāli's own cross-reference is generic (\"to be elaborated\"), while only the English source names SN 45.161-170 specifically", "The Pāli names a different saṃyutta than the English", "There is no discrepancy at all", "The English source gives no cross-reference while the Pāli does"],
+         "correct": 0,
+         "expl": "A genuine difference in specificity, reported rather than silently resolved."},
+        {"q": "What does this file's own closing colophon confirm?",
+         "opts": ["This vagga's own position as the fourth in this saṃyutta", "That this is the very last vagga in the saṃyutta", "That this vagga has no fixed position", "That this vagga is identical in name to Vagga 1"],
+         "correct": 0,
+         "expl": "\"Esanāvaggo catuttho\" — the fourth, confirmed without ambiguity."},
+    ],
+    marginalia=[
+        ("Three searches, named directly", [
+            "sensual pleasure, existence, the spiritual life —",
+            "already met at SN 45.161"
+        ]),
+        ("One instruction, two levels of detail", [
+            "Pāli says only \"to be elaborated\" —",
+            "English names the exact source"
+        ]),
+        ("A familiar uddāna, once more", [
+            "searches, defilements, feelings, thirst —",
+            "identical to two earlier meetings"
+        ]),
+        ("Fourth vagga, its own colophon", [
+            "Esanāvaggo catuttho, stated plainly —",
+            "this saṃyutta's own fourth chapter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn49.35-44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-49.23-34.html\">SN 49.23&ndash;34 &middot; "
+        "Hard Work, Etc.</a> &mdash; the previous page, closing "
+        "Vagga 3.",
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; this project's own earlier, fully expanded "
+        "treatment of the identical ten topics, applied there to the "
+        "eightfold path.",
+    ],
+)
