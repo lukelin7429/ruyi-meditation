@@ -28076,3 +28076,131 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.17 — Ariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 17, "Ariya", "Noble",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.17 — Noble | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ariyasutta — a single short statement naming the four "
+        "kinds of mindfulness meditation, when developed and "
+        "cultivated, as \"noble and emancipating,\" bringing the "
+        "practitioner to the complete ending of suffering. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single short statement, bracketing the fourfold "
+                 "formula between an identical opening and closing "
+                 "line"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, a compact statement of "
+                       "purpose"),
+    ],
+    why=(
+        "This short discourse states, plainly and without narrative "
+        "frame, what the four kinds of mindfulness meditation "
+        "accomplish when &ldquo;developed and cultivated&rdquo;: they "
+        "are &ldquo;noble and emancipating,&rdquo; and they "
+        "bring &ldquo;one who practices them to the complete ending "
+        "of suffering&rdquo; &mdash; naming the practice's own final "
+        "outcome directly, without an intervening story or dialogue."
+    ),
+    guide=[
+        ("A claim stated twice, bracketing the formula itself", [
+            "Confirmed by direct reading, the discourse's own "
+            "opening and closing lines are worded identically, "
+            "framing the fourfold formula between two statements of "
+            "the same claim &mdash; a compact structure emphasizing "
+            "the outcome rather than elaborating on the method "
+            "itself.",
+        ]),
+        ("Three qualities named for the developed practice", [
+            "The discourse names three distinct qualities for the "
+            "practice once &ldquo;developed and cultivated&rdquo;: "
+            "&ldquo;noble&rdquo; (ariyā), &ldquo;emancipating&rdquo; "
+            "(niyyānikā), and leading &ldquo;one who practices them "
+            "to the complete ending of suffering&rdquo; (sammā "
+            "dukkhakkhayāya) &mdash; confirmed by direct reading to "
+            "be presented as a single connected claim rather than "
+            "three separate benefits.",
+        ]),
+        ("No narrative frame -- a direct doctrinal statement", [
+            "Unlike many of this saṃyutta's own discourses, this one "
+            "carries no setting, no interlocutor, and no narrative "
+            "development &mdash; confirmed by direct reading to be a "
+            "bare doctrinal statement, presenting the fourfold "
+            "practice's own final claim without dramatization.",
+        ]),
+    ],
+    terms=[
+        ("bhāvitā bahulīkatā", "&ldquo;developed and "
+             "cultivated&rdquo; &mdash; the condition under which the "
+             "practice is said to yield its own stated outcomes"),
+        ("ariyā", "&ldquo;noble&rdquo; &mdash; the first of three "
+             "qualities named for the developed practice"),
+        ("niyyānikā", "&ldquo;emancipating&rdquo; &mdash; literally "
+             "&ldquo;leading out,&rdquo; the second named quality"),
+        ("takkarassa sammā dukkhakkhayāya", "&ldquo;bring one who "
+             "practices them to the complete ending of "
+             "suffering&rdquo; &mdash; the final, culminating claim"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the fourfold "
+             "formula bracketed between this discourse's own "
+             "identical opening and closing lines"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.17:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse name for the four kinds of mindfulness meditation, once developed and cultivated?",
+         "opts": ["Noble, emancipating, and leading to the complete ending of suffering", "Difficult, exhausting, and rare", "Ancient, mysterious, and secret", "Optional, supplementary, and preliminary"],
+         "correct": 0,
+         "expl": "Presented as a single connected claim rather than three separate benefits."},
+        {"q": "How does this discourse's own structure differ from many others in this saṃyutta?",
+         "opts": ["It has no narrative frame — no setting, interlocutor, or story, just a bare doctrinal statement", "It is the longest discourse in the entire saṃyutta", "It is addressed only to a single named individual", "It contains an extended parable"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading to present the practice's own final claim without dramatization."},
+        {"q": "What structural device brackets the fourfold formula in this discourse?",
+         "opts": ["Identical opening and closing statements of the same claim", "A question-and-answer exchange", "Two contrasting similes", "A list of ten different benefits"],
+         "correct": 0,
+         "expl": "A compact structure emphasizing the outcome rather than elaborating on the method."},
+    ],
+    marginalia=[
+        ("A claim stated, then stated again", [
+            "identical opening and closing lines —",
+            "the fourfold formula bracketed between them"
+        ]),
+        ("Three qualities, one connected claim", [
+            "noble, emancipating, ending suffering —",
+            "not three separate benefits but one outcome"
+        ]),
+        ("No story, no setting, no interlocutor", [
+            "a bare doctrinal statement stands alone —",
+            "the practice's own final claim, undramatized"
+        ]),
+        ("A compact statement among longer narratives", [
+            "brief where SN 47.9 and 47.13 were long —",
+            "this saṃyutta's own range of forms"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.16.html\">SN 47.16 &middot; With Uttiya</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
