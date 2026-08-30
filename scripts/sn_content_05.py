@@ -24859,3 +24859,187 @@ page_range(
         "greed&rdquo; formula, applied there to the eightfold path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 15. Punaappamādavagga — Another Chapter on Diligence (SN 46.143-152)
+# Confirmed by direct bilara-data reading: like Vagga 14, this
+# merged file carries NO body text of its own -- only the elision
+# marker "…pe…", the colophon ("Pannarasamo," "the fifteenth"), and a
+# closing uddāna IDENTICAL in wording to Vagga 10's own (the same ten
+# similes: Realized One, footprint, roof-peak, root, heartwood, rainy
+# season, king, moon, sun, cloth). The cross-reference instruction
+# explicitly targets "SN 45.139-148, removal of greed version" --
+# confirming, together with Vagga 14's own discovery, that SN 46's
+# peyyāla vaggas 9-13 (the base/self-referential-extinguishment
+# formula) and vaggas 14+ (the removal-of-greed formula) are TWO
+# FULL CYCLES through the same five underlying vaggas (Ganges,
+# Diligence, Hard Work, Searches, Floods), not three as in SN 45's
+# own Dutiyagaṅgāpeyyālavagga. Unlike the Ganges vagga's own SN 45
+# structure (where each formula gets its own separate discourse
+# range, e.g. 45.91 vs. 45.103), SN 45.139's own page in this project
+# already contains ALL formulas (base, greed/hate/delusion, freedom
+# from death, extinguishment) written out together within one single
+# discourse's own four internal sections -- so no separate SN 45 page
+# needs to be located for this "removal of greed version"; it is
+# simply SN 45.139's own already-completed second section (2.1-2.6).
+# Working hypothesis for what remains (to be confirmed individually,
+# not assumed): if the pattern holds, SN 46.153-164 (12 discourses)
+# would be a second Hard-Work pass, SN 46.165-174 (10) a second
+# Searches pass, and SN 46.175-184 (10, possibly split 175-183 + 184
+# as Vagga 13 split 121-129 + 130) a second Floods pass -- which
+# would make Vagga 18 (ending at SN 46.184) the FINAL vagga of the
+# entire Bojjhaṅgasaṃyutta, since 77 + 54 (cycle 1) + 54 (cycle 2) =
+# 185, i.e. discourse 184 is the last of a 108-discourse two-cycle
+# span. This is a hypothesis to verify per-vagga, not a conclusion.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.143-152 — Punatathāgatādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 143, 152, "Punatathāgatādi", "Another Series on a Realized One, Etc.",
+    vagga="Punaappamādavagga",
+    meta_title="SN 46.143–152 — Another Series on a Realized One, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for SN 46.143–152 — a "
+        "second ten-discourse Diligence vagga, carrying no body text "
+        "of its own, cross-referencing this project's own "
+        "already-completed 'removal of greed' section of SN 45.139. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by inference from the vagga's own "
+                     "cross-reference)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly "
+                     "(by inference)"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file carrying NO body text of its own "
+                 "&mdash; only an elision marker, a colophon, and a "
+                 "closing uddāna"),
+        ("Length", "A few seconds to read; no independently "
+                   "translatable content beyond the cross-reference "
+                   "itself"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the barest possible peyyāla stub, entirely "
+                       "dependent on cross-referenced content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this vagga carries no "
+        "independent worked example, exactly like Vagga 14 &mdash; "
+        "it exists purely to instruct: &ldquo;tell in full as in "
+        "SN 45.139&ndash;148, removal of greed version.&rdquo; "
+        "Together with Vagga 14, this confirms SN 46's own peyyāla "
+        "structure is TWO full cycles through the same five vaggas "
+        "(Ganges, Diligence, Hard Work, Searches, Floods), not three "
+        "as in SN 45's own Dutiyagaṅgāpeyyālavagga."
+    ),
+    guide=[
+        ("No body text at all -- the same pattern as Vagga 14", [
+            "Every content key in this file's own English translation "
+            "is blank; the Pāli root gives only &ldquo;"
+            "&hellip;pe&hellip;&rdquo; before its own colophon and "
+            "uddāna, confirmed identical in wording to Vagga 10's own "
+            "closing uddāna (the same ten similes: the Realized One, "
+            "footprint, roof-peak, root, heartwood, rainy season, "
+            "king, moon, sun, and cloth).",
+        ]),
+        ("A second full cycle, not a third", [
+            "Together, Vaggas 14 and 15 confirm that SN 46's own "
+            "peyyāla vaggas fall into exactly TWO cycles through the "
+            "same five underlying vaggas: vaggas 9-13 under the "
+            "base/self-referential-extinguishment formula, and "
+            "vaggas 14 onward under the removal-of-greed formula "
+            "&mdash; differing from SN 45's own Dutiyagaṅgāpeyyāla-"
+            "vagga, which cycled through THREE formulas for the "
+            "Ganges simile alone. This is confirmed here as a working "
+            "pattern, to be checked individually against each "
+            "remaining vagga rather than assumed.",
+        ]),
+        ("No separate SN 45 discourse needed for this formula", [
+            "Unlike the Ganges simile (where SN 45's own removal-of-"
+            "greed formula occupies an entirely separate discourse, "
+            "SN 45.103, distinct from SN 45.91's own self-referential "
+            "version), SN 45.139's own already-completed page in this "
+            "project already writes out ALL formulas together within "
+            "one discourse's own four internal sections &mdash; so "
+            "this vagga's own &ldquo;removal of greed version&rdquo; "
+            "cross-reference simply points to that discourse's own "
+            "already-completed second section.",
+        ]),
+    ],
+    terms=[
+        ("…pe…", "the bilara-data elision marker, here standing in "
+             "for the ENTIRE body of this vagga &mdash; no other "
+             "content key carries any text at all in this file"),
+        ("rāgavasena vitthāretabbo", "&ldquo;to be elaborated in "
+             "full by way of greed&rdquo; &mdash; the Pāli root's own "
+             "instruction, matching the English source's own "
+             "&ldquo;removal of greed version&rdquo; label"),
+        ("appamādavaggo", "&ldquo;the Diligence chapter&rdquo; "
+             "&mdash; confirming this vagga reuses the identical ten "
+             "similes already treated at SN 46.89-98, this project's "
+             "own earlier Diligence vagga"),
+        ("pannarasamo", "&ldquo;the fifteenth&rdquo; &mdash; "
+             "confirming this vagga's own position within this "
+             "saṃyutta's own count"),
+        ("tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sārena vassikaṁ",
+             "&ldquo;the Realized One, footprint, roof-peak, root, "
+             "with heartwood, rainy season&rdquo; &mdash; the closing "
+             "uddāna's own opening line, worded identically to "
+             "Vagga 10's own closing uddāna"),
+    ],
+    text_intro=("This vagga's own file carries no independently "
+        "translatable body text; the fragment below is the source's "
+        "own complete cross-reference instruction, honestly presented "
+        "as such rather than padded with invented content. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.143-152:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this vagga's own cross-reference instruct?",
+         "opts": ["To tell the discourse in full as in SN 45.139–148, specifically the \"removal of greed\" version", "To skip this vagga entirely", "To invent ten entirely new similes for diligence", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference, carrying no body text of its own, exactly like Vagga 14."},
+        {"q": "What do Vaggas 14 and 15 together confirm about SN 46's own peyyāla structure?",
+         "opts": ["It cycles through the same five vaggas exactly TWICE, under two different formulas — not three times as in SN 45's own Dutiyagaṅgāpeyyālavagga", "It cycles through the same five vaggas exactly three times, matching SN 45 exactly", "There is only one cycle, with no repetition at all", "Each vagga uses a completely different set of similes"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of Vagga 9's base-formula cross-reference and Vaggas 14-15's own removal-of-greed cross-references."},
+        {"q": "Why doesn't this vagga's cross-reference point to a separate SN 45 discourse number, the way the Ganges vagga's removal-of-greed version pointed to SN 45.103 instead of SN 45.91?",
+         "opts": ["Because SN 45.139's own already-completed page already writes out all formulas together within one discourse's own internal sections", "Because SN 45 never covered diligence under the removal-of-greed formula at all", "Because this vagga is entirely unrelated to SN 45.139", "Because the removal-of-greed formula does not apply to diligence"],
+         "correct": 0,
+         "expl": "Confirmed by checking this project's own already-completed SN 45.139 page, which contains four internal formula sections rather than four separate discourses."},
+    ],
+    marginalia=[
+        ("No body text survives here either", [
+            "only an elision marker and a cross-reference —",
+            "the same pattern already confirmed at Vagga 14"
+        ]),
+        ("Two cycles, not three", [
+            "base formula, then removal of greed —",
+            "SN 45's own third cycle has no SN 46 counterpart here"
+        ]),
+        ("The same ten similes, once more", [
+            "Realized One, footprint, roof-peak again —",
+            "identical uddāna wording to Vagga 10's own"
+        ]),
+        ("More of the second cycle still ahead", [
+            "Hard Work, Searches, Floods to be reconfirmed —",
+            "each vagga checked on its own, never assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.143-152/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.131-142.html\">SN 46.131&ndash;142 &middot; "
+        "More on the Ganges River, Etc.</a> &mdash; the previous "
+        "page, closing the preceding vagga.",
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own earlier treatment, "
+        "including the &ldquo;removal of greed&rdquo; section this "
+        "vagga cross-references, applied there to the eightfold "
+        "path.",
+    ],
+)
