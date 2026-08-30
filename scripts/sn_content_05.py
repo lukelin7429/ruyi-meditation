@@ -47524,3 +47524,161 @@ page_range(
         "treatment of the identical ten topics.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 50.99-108 — Punaoghādisutta
+# The final discourse of SN 50, confirmed by this file's own closing
+# line, "Balasaṁyuttaṁ chaṭṭhaṁ" ("the Powers-Saṁyutta is the
+# sixth") -- consistent between the Pāli and English this time,
+# unlike the file's own internal vagga-numbering, which again
+# disagrees with itself: the opening "0.2" header reads "9.
+# Punaoghavagga," while the closing colophon reads "Oghavaggo
+# dasamo" ("the Floods chapter, the TENTH") -- the same off-by-one
+# pattern already confirmed at SN 50.89-98 (header 8, colophon 9),
+# reported honestly rather than resolved. Total: 108 discourses,
+# closing the Balasaṁyutta as "the sixth" section, following SN 48
+# ("the fourth") and SN 49 ("the fifth") in a consistent numbering
+# sequence.
+# --------------------------------------------------------------------------- #
+page_range(
+    50, 99, 108, "Punaoghādi", "Another Series on Floods, Etc.",
+    vagga="Punaoghavagga",
+    meta_title="SN 50.99–108 — Another Series on Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 50.99–108 — the closing discourse of the entire "
+        "Balasaṁyutta, the five higher fetters given in full. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "One discourse given in full, closing both this "
+                 "vagga and the entire saṃyutta"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes the entire Balasaṁyutta (SN "
+                         "50) at 108 discourses, confirmed by this "
+                         "file's own closing colophon"),
+    ],
+    why=(
+        "This discourse closes the entire Balasaṁyutta, confirmed "
+        "by this file's own closing line: &ldquo;Balasaṁyuttaṁ "
+        "chaṭṭhaṁ&rdquo; (&ldquo;the Powers-Saṁyutta is the "
+        "sixth&rdquo;) &mdash; consistent between Pāli and English "
+        "this time. Yet this file's own internal vagga numbering "
+        "again disagrees with itself, matching the pattern already "
+        "confirmed at SN 50.89-98: the header names this the ninth "
+        "vagga, the colophon the tenth."
+    ),
+    guide=[
+        ("The saṃyutta's own final discourse, confirmed by its own words", [
+            "Confirmed by direct reading, this file's own closing "
+            "line states plainly that the Balasaṁyutta itself is "
+            "&ldquo;the sixth&rdquo; section &mdash; a book-level "
+            "closing marker, ending this saṃyutta's own 108-"
+            "discourse span (SN 50.1 through SN 50.108). This "
+            "matches a consistent numbering sequence this project "
+            "has now confirmed across three saṃyuttas: SN 48 named "
+            "itself &ldquo;the fourth,&rdquo; SN 49 &ldquo;the "
+            "fifth,&rdquo; and now SN 50 &ldquo;the sixth.&rdquo;",
+        ]),
+        ("The same internal discrepancy, confirmed a second time", [
+            "This project's own explicit observation: exactly as at "
+            "SN 50.89-98 (where the header read &ldquo;8&rdquo; "
+            "against a closing colophon of &ldquo;9&rdquo;), this "
+            "file's own opening &ldquo;0.2&rdquo; header reads "
+            "&ldquo;9. Punaoghavagga,&rdquo; while its own closing "
+            "colophon reads &ldquo;Oghavaggo dasamo&rdquo; "
+            "(&ldquo;the Floods chapter, the TENTH&rdquo;) &mdash; "
+            "the identical off-by-one pattern, reported here again "
+            "without resolution rather than assumed to be a one-off.",
+        ]),
+        ("The five higher fetters, closing a third saṃyutta", [
+            "Mirroring the higher-fetters discourse already met "
+            "three times before (SN 48.115-124, SN 48.169-178, SN "
+            "49.45-54), this discourse gives the five higher fetters "
+            "in full, now developed by the five powers with the "
+            "removal-of-greed formula already established throughout "
+            "this saṃyutta's own second half.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; identical to this discourse's "
+             "own three prior instances met earlier this session"),
+        ("pañca balāni bhāvetabbāni", "&ldquo;the five powers should "
+             "be developed&rdquo; &mdash; this saṃyutta's own "
+             "governing subject, closing its own final discourse"),
+        ("Oghavaggo dasamo", "&ldquo;the Floods chapter, the "
+             "tenth&rdquo; &mdash; this file's own closing colophon, "
+             "genuinely disagreeing with its own opening "
+             "&ldquo;9. Punaoghavagga&rdquo; header"),
+        ("Balasaṁyuttaṁ chaṭṭhaṁ", "&ldquo;the Powers-Saṁyutta is "
+             "the sixth&rdquo; &mdash; this file's own final closing "
+             "line, ending the entire saṃyutta at 108 discourses, "
+             "consistent between Pāli and English"),
+        ("rāgavinayapariyosānaṁ dosavinayapariyosānaṁ "
+         "mohavinayapariyosānaṁ", "&ldquo;culminating in the removal "
+             "of greed, hate, and delusion&rdquo; &mdash; this "
+             "discourse's own closing formula"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the full closing discourse on the "
+        "higher fetters, the closing uddāna, and the saṃyutta's own "
+        "final closing line. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn50.99-108:1.1-1.8"),
+        ("p", "Uddāna", "sn50.99-108:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What does this file's own final closing line confirm?",
+         "opts": ["That the entire Balasaṁyutta (SN 50) ends here, at 108 discourses, marked as \"the sixth\" section", "That only this single vagga ends here, with the saṃyutta continuing", "That a new saṃyutta begins immediately after this discourse", "That this discourse is unrelated to any larger structural unit"],
+         "correct": 0,
+         "expl": "\"Balasaṁyuttaṁ chaṭṭhaṁ\" — consistent between Pāli and English, following SN 48 (fourth) and SN 49 (fifth) in sequence."},
+        {"q": "What internal discrepancy does this file repeat from SN 50.89-98?",
+         "opts": ["The opening header names this the ninth vagga, while the closing colophon calls it the tenth — the same off-by-one pattern as before", "There is no discrepancy at all, unlike SN 50.89-98", "The discrepancy is in the opposite direction from SN 50.89-98", "This file gives three different vagga numbers"],
+         "correct": 0,
+         "expl": "Confirmed a second time, reported honestly rather than assumed to be a one-off."},
+        {"q": "How does this discourse's own content compare to its three prior instances this session?",
+         "opts": ["It mirrors them closely, giving the five higher fetters in full, now developed by the five powers with the removal-of-greed formula", "It gives an entirely different set of fetters", "It applies to the eightfold path rather than the five powers", "It contains no worked example at all"],
+         "correct": 0,
+         "expl": "The same core discourse, closing a third saṃyutta this session (after SN 48 and SN 49)."},
+    ],
+    marginalia=[
+        ("The saṃyutta's own final word", [
+            "Balasaṁyuttaṁ chaṭṭhaṁ, stated plainly —",
+            "108 discourses, now complete"
+        ]),
+        ("Ninth, or tenth? Again", [
+            "the same disagreement as SN 50.89-98 —",
+            "confirmed twice, not a one-off"
+        ]),
+        ("The fourth, fifth, and now sixth", [
+            "SN 48, SN 49, SN 50 —",
+            "a numbering sequence, held consistent"
+        ]),
+        ("A book-length journey, closed here", [
+            "from SN 50.1 to this final page —",
+            "the Powers-Saṁyutta, done"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn50.99-108/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-50.89-98.html\">SN 50.89&ndash;98 &middot; "
+        "Another Series on Searches, Etc.</a> &mdash; the previous "
+        "page.",
+        "<a href=\"sn-49.45-54.html\">SN 49.45&ndash;54 &middot; "
+        "Floods, Etc.</a> &mdash; this project's own most recent "
+        "prior saṃyutta closing with the identical higher-fetters "
+        "discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Balasaṁyutta is now complete; the next saṃyutta in "
+        "this book is still in preparation.",
+    ],
+)
