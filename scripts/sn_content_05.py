@@ -42551,3 +42551,139 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.62 — Anusayasutta
+# A companion discourse to SN 48.61, sharing its own identical bare
+# structure but naming a related, deeper outcome: uprooting the
+# underlying tendencies (anusaya) — the classic latent roots
+# (sensual desire, hostility, views, doubt, conceit, desire for
+# existence, ignorance) that the fetters named at SN 48.61 visibly
+# manifest.
+# --------------------------------------------------------------------------- #
+page(
+    48, 62, "Anusaya", "Tendencies",
+    vagga="Bodhipakkhiyavagga",
+    meta_title="SN 48.62 — Tendencies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anusayasutta — the five faculties, developed and "
+        "cultivated, lead to uprooting the underlying tendencies. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching SN 48.61's own bare "
+                     "structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; a companion discourse to SN 48.61, "
+                         "naming a related but deeper outcome for "
+                         "the five faculties"),
+    ],
+    why=(
+        "This discourse directly mirrors SN 48.61's own structure, "
+        "but names a different, related outcome for the developed "
+        "five faculties: uprooting the &ldquo;underlying "
+        "tendencies&rdquo; (anusaya) &mdash; the classic latent "
+        "roots of defilement that lie beneath, and give rise to, the "
+        "fetters SN 48.61 already named."
+    ),
+    guide=[
+        ("A companion to SN 48.61, same structure", [
+            "Confirmed by direct comparison, this discourse's own "
+            "text is structurally identical to SN 48.61 &mdash; the "
+            "same five faculties, the same &ldquo;bhāvitāni "
+            "bahulīkatāni&rdquo; (&ldquo;developed and "
+            "cultivated&rdquo;) qualifier &mdash; differing only in "
+            "the specific outcome named.",
+        ]),
+        ("Underlying tendencies: deeper than the fetters", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: the "
+            "&ldquo;anusaya&rdquo; are traditionally enumerated as "
+            "seven latent tendencies &mdash; sensual desire, "
+            "hostility, views, doubt, conceit, desire for continued "
+            "existence, and ignorance &mdash; understood as the "
+            "deeper roots from which the visible fetters (saṁyojana) "
+            "named at SN 48.61 arise.",
+        ]),
+        ("The start of a likely series across this vagga", [
+            "This project's own honest observation: this discourse's "
+            "own bare structure, closely paired with SN 48.61's own "
+            "identical form but naming a distinct outcome, suggests "
+            "this vagga may continue through a series of related "
+            "outcomes for the five faculties &mdash; a pattern this "
+            "project will confirm discourse by discourse rather than "
+            "assume in advance.",
+        ]),
+    ],
+    terms=[
+        ("anusayasamugghātāya saṁvattanti", "&ldquo;lead to "
+             "uprooting the underlying tendencies&rdquo; &mdash; "
+             "this discourse's own specific outcome for the "
+             "developed five faculties"),
+        ("anusaya", "&ldquo;underlying tendency&rdquo; &mdash; the "
+             "classic latent roots of defilement, traditionally "
+             "enumerated as seven"),
+        ("samugghāta", "&ldquo;uprooting, complete "
+             "destruction&rdquo; &mdash; a stronger term than mere "
+             "&ldquo;giving up&rdquo; (pahāna), suggesting removal "
+             "at the root"),
+        ("bhāvitāni bahulīkatāni", "&ldquo;developed and "
+             "cultivated&rdquo; &mdash; the recurring qualifier "
+             "shared with SN 48.61 and throughout this saṃyutta"),
+        ("Dutiyaṁ", "&ldquo;the second&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's second "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.62:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure relate to SN 48.61?",
+         "opts": ["Structurally identical, differing only in the specific outcome named for the five faculties", "Entirely unrelated in form and content", "A direct contradiction of SN 48.61's own claim", "A narrative expansion with new characters"],
+         "correct": 0,
+         "expl": "The same faculties, the same qualifier, a different named outcome."},
+        {"q": "What are the \"underlying tendencies\" (anusaya), as general canonical background?",
+         "opts": ["Seven latent roots of defilement — sensual desire, hostility, views, doubt, conceit, desire for existence, and ignorance", "A synonym for the five spiritual faculties themselves", "The classic four noble truths", "A term unique to this single discourse, unattested elsewhere"],
+         "correct": 0,
+         "expl": "Traditionally understood as the deeper roots from which the fetters arise."},
+        {"q": "What does the word \"samugghāta\" suggest, compared to \"pahāna\" (giving up)?",
+         "opts": ["A stronger sense of removal at the root, not merely giving something up", "That the tendencies cannot actually be removed", "A weaker, more tentative form of release", "That this term applies only to physical objects, not mental states"],
+         "correct": 0,
+         "expl": "Uprooting, complete destruction — a more thorough removal than simply setting something aside."},
+    ],
+    marginalia=[
+        ("A companion, same shape", [
+            "the same five faculties, the same qualifier —",
+            "only the outcome named differently"
+        ]),
+        ("Roots beneath the fetters", [
+            "seven tendencies, latent and deep —",
+            "what the visible fetters grow from"
+        ]),
+        ("Uprooted, not merely set aside", [
+            "samugghāta — a stronger word —",
+            "removal at the root itself"
+        ]),
+        ("Second discourse, Dutiyaṁ", [
+            "brief as SN 48.61 before it —",
+            "a series perhaps beginning, confirmed as it goes"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.61.html\">SN 48.61 &middot; Fetters</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
