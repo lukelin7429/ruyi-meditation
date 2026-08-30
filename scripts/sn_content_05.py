@@ -33044,3 +33044,169 @@ page_range(
         "(SN 47.63&ndash;104) are still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 7. Appamādavagga — Diligence (Vagga 7 of Book VII, Satipaṭṭhānasaṃyutta).
+# Confirmed by direct bilara-data reading: this merged file gives only
+# the bare opening clause of the "Realized One, best of all beings"
+# simile, then explicitly instructs "(Tell in full as in SN 45.139–148)"
+# — pointing to this project's own already-published Appamādapeyyālavagga
+# in the SN 45 module (see sn45.139 above) as the genuine expansion
+# model, rather than writing out any of the ten similes itself.
+# --------------------------------------------------------------------------- #
+# SN 47.63-72 — Tathāgatādisutta (merged peyyāla range)
+# --------------------------------------------------------------------------- #
+page_range(
+    47, 63, 72, "Tathāgatādi",
+    "The Realized One, Etc.",
+    vagga="Appamādavagga",
+    meta_title="SN 47.63–72 — The Realized One, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 47.63–72 — a bare opening clause and an explicit "
+        "cross-reference instructing expansion \"as in SN 45.139–148,\" "
+        "this project's own already-published Appamādapeyyālavagga, "
+        "rather than writing out any of the ten similes itself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single bare opening clause, followed by an "
+                 "explicit instruction to expand it as an already-"
+                 "published parallel set elsewhere in this project's "
+                 "own translation of SN 45"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&#9734;&#9734; "
+                         "&mdash; the deepest compression met so far "
+                         "in this saṃyutta, pointing outward to "
+                         "another saṃyutta's own already-translated "
+                         "vagga rather than repeating any content "
+                         "here"),
+    ],
+    why=(
+        "This merged file gives only the OPENING CLAUSE of a single "
+        "simile &mdash; the Realized One said to be &ldquo;the best "
+        "of all sentient beings&rdquo; &mdash; before its own "
+        "instruction, &ldquo;(tell in full as in SN 45.139&ndash;148),"
+        "&rdquo; points directly to this project's own already-"
+        "published Appamādapeyyālavagga in the Book V (Mahāvagga) "
+        "module, confirming these ten discourses (the Realized One, "
+        "footprint, roof peak, root, heartwood, jasmine, monarch, "
+        "moon, sun, and cloth) share the IDENTICAL fourfold formula "
+        "already translated in full at SN 45.139."
+    ),
+    guide=[
+        ("An explicit cross-reference, not a self-contained formula", [
+            "Confirmed by direct reading, this discourse does NOT "
+            "give even one worked example in full within its own "
+            "file &mdash; unlike SN 47.51-62's own single Ganges "
+            "example &mdash; it instead names another discourse "
+            "elsewhere by number, &ldquo;SN 45.139&ndash;148,&rdquo; "
+            "as the exact model to expand from.",
+        ]),
+        ("The identical fourfold structure this project already translated", [
+            "This project's own SN 45.139 (&ldquo;The Realized "
+            "One&rdquo;), already published in this same module, "
+            "gives the SAME simile &mdash; the Buddha as best of all "
+            "sentient beings &mdash; stated four times, closing each "
+            "time with one of four different formulas: the base "
+            "&ldquo;seclusion, fading away, cessation, letting "
+            "go&rdquo; formula; the removal of greed, hate, and "
+            "delusion; freedom from death; and self-referential "
+            "extinguishment (the &ldquo;sloping toward "
+            "extinguishment&rdquo; formula met at SN 47.51-62).",
+        ]),
+        ("Ten similes named by the closing uddāna, not spelled out here", [
+            "Confirmed by direct reading, this merged file's own "
+            "closing verse names all ten similes covered by SN "
+            "47.63-72 &mdash; the Realized One, footprint, roof "
+            "peak, root, heartwood, jasmine, monarch, moon, sun, and "
+            "cloth as the tenth &mdash; matching, item for item, "
+            "the ten discourses (SN 45.139-148) already found in "
+            "this project's own Book V module, without repeating any "
+            "of their content here.",
+        ]),
+    ],
+    terms=[
+        ("tathāgato arahaṁ sammāsambuddho", "&ldquo;the Realized One, "
+             "the perfected one, the fully awakened Buddha&rdquo; "
+             "&mdash; the subject of the one clause genuinely given "
+             "in this merged file"),
+        ("vitthāretabbaṁ", "&ldquo;should be expanded in full&rdquo; "
+             "&mdash; the same instruction met at SN 47.51-62, here "
+             "paired with an explicit cross-reference rather than "
+             "left to be inferred"),
+        ("(Tell in full as in SN 45.139&ndash;148)", "the discourse's "
+             "own explicit pointer to this project's own already-"
+             "published Appamādapeyyālavagga as the genuine "
+             "expansion model"),
+        ("Appamādavaggo sattamo", "&ldquo;the seventh vagga, "
+             "Appamādavagga&rdquo; &mdash; the Pāli root's own "
+             "closing colophon, left untranslated in the English "
+             "source"),
+        ("tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sāro ca vassikaṁ, rājā "
+             "candimasūriyā, vatthena dasamaṁ", "&ldquo;the Realized "
+             "One, footprint, roof peak, roots, heartwood, jasmine, "
+             "monarch, sun and moon, and cloth is the "
+             "tenth&rdquo; &mdash; the closing uddāna, genuinely "
+             "translated, naming all ten similes by item"),
+    ],
+    text_intro=("The genuinely translated content of this merged "
+        "file: the one opening clause, and the closing summary verse "
+        "naming all ten similes. The Pāli root's own colophon "
+        "(&ldquo;Appamādavaggo sattamo&rdquo;) is left untranslated "
+        "in the source and is described, not quoted, above. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the opening clause and cross-reference", "sn47.63-72:1.1-1.2"),
+        ("p", "&sect;2 &mdash; the closing summary verse", "sn47.63-72:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this merged file's own instruction, \"tell in full as in SN 45.139–148,\" point to?",
+         "opts": ["This project's own already-published Appamādapeyyālavagga in the SN 45 module", "A discourse not yet translated anywhere", "A completely unrelated saṃyutta with no shared content", "An instruction to skip this section entirely"],
+         "correct": 0,
+         "expl": "Confirming these ten discourses share the identical fourfold formula already translated in full at SN 45.139."},
+        {"q": "How many times is the \"best of all beings\" simile stated in the already-published SN 45.139, and with what variation?",
+         "opts": ["Four times, each closing with a different one of four formulas", "Once, with no variation", "Ten times, once per simile in this range", "Twice, contrasting two opposing formulas"],
+         "correct": 0,
+         "expl": "The base formula, then greed/hate/delusion, then freedom from death, then self-referential extinguishment."},
+        {"q": "What does this merged file's own closing uddāna list?",
+         "opts": ["All ten similes by name — the Realized One, footprint, roof peak, root, heartwood, jasmine, monarch, moon, sun, and cloth", "Only the first and last of the ten similes", "A list unrelated to the ten similes covered by this range", "Nothing — the closing verse is entirely untranslated"],
+         "correct": 0,
+         "expl": "Matching, item for item, the ten discourses already found in this project's own Book V module."},
+    ],
+    marginalia=[
+        ("Not even one full example given here", [
+            "just the opening clause, then a pointer —",
+            "\"tell in full as in SN 45.139–148\""
+        ]),
+        ("Already translated, elsewhere in this project", [
+            "SN 45.139's own four formulas —",
+            "the identical structure, not repeated twice"
+        ]),
+        ("Ten similes, named but not retold", [
+            "Realized One, footprint, roof peak, root —",
+            "heartwood, jasmine, monarch, moon, sun, cloth"
+        ]),
+        ("A new vagga, diligence its own theme", [
+            "Appamādavagga, replacing the river imagery —",
+            "SN 47.73 onward still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.63-72/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.139.html\">SN 45.139 &middot; The Realized "
+        "One</a> &mdash; this project's own full translation of the "
+        "identical formula this range points to.",
+        "<a href=\"sn-47.51-62.html\">SN 47.51&ndash;62 &middot; "
+        "Twelve Discourses on the Ganges River, Etc.</a> &mdash; the "
+        "previous merged range.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own remaining peyyāla ranges "
+        "(SN 47.73&ndash;104) are still in preparation.",
+    ],
+)
