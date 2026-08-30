@@ -48640,3 +48640,137 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.8 — Buddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 8, "Buddha", "Awakened",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.8 — Awakened | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Buddhasutta — the Realized One is called the fully "
+        "awakened Buddha because of developing the four bases of "
+        "psychic power. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "The four bases defined, then a direct claim about "
+                 "the Buddha's own title"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the culminating claim of this "
+                         "vagga's own developing series, attributing "
+                         "the Buddha's own title directly to these "
+                         "four qualities"),
+    ],
+    why=(
+        "This discourse states the highest possible claim in this "
+        "vagga's own developing series: it is precisely because of "
+        "developing and cultivating the four bases of psychic power "
+        "that the Realized One is called &ldquo;the perfected one, "
+        "the fully awakened Buddha&rdquo; &mdash; the Buddha's own "
+        "title directly attributed to these four qualities."
+    ),
+    guide=[
+        ("The culmination of a developing series", [
+            "This project's own running observation, now complete: "
+            "SN 51.5 (partial psychic power, any tradition), SN "
+            "51.6 (complete psychic power, any tradition), SN 51.7 "
+            "(arahantship, the Buddha's own mendicants), and now SN "
+            "51.8 (the Buddha's own title itself) trace an "
+            "escalating series of claims, each discourse naming a "
+            "higher attainment than the one before it, all "
+            "attributed to the identical four bases.",
+        ]),
+        ("Tathāgato 'arahaṁ sammāsambuddho'ti vuccati", [
+            "As general canonical background, confirmed by this "
+            "discourse's own bare text: &ldquo;arahaṁ "
+            "sammāsambuddho&rdquo; (&ldquo;the perfected one, the "
+            "fully awakened Buddha&rdquo;) is the Buddha's own "
+            "standard formal epithet, met throughout the canon "
+            "&mdash; here this discourse states directly that this "
+            "very title is earned specifically through developing "
+            "these four bases, not through some separate or "
+            "additional quality.",
+        ]),
+        ("No worked example, a bare doctrinal claim", [
+            "Confirmed by direct reading, unlike SN 51.5-7's own "
+            "threefold temporal or triple-scope structure, this "
+            "discourse states its own claim once, plainly, with no "
+            "repetition across past, present, and future &mdash; a "
+            "single, direct statement rather than an elaborated "
+            "universal formula.",
+        ]),
+    ],
+    terms=[
+        ("tathāgato", "&ldquo;the Realized One&rdquo; &mdash; a "
+             "standard epithet for the Buddha, used here as the "
+             "subject of this discourse's own claim"),
+        ("arahaṁ sammāsambuddho", "&ldquo;the perfected one, the "
+             "fully awakened Buddha&rdquo; &mdash; the Buddha's own "
+             "standard formal epithet, attributed directly to the "
+             "four bases"),
+        ("catunnaṁ iddhipādānaṁ bhāvitattā bahulīkatattā", "&ldquo;"
+             "because he has developed and cultivated these four "
+             "bases of psychic power&rdquo; &mdash; the stated "
+             "cause of the Buddha's own title"),
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; restated identically to this "
+             "vagga's own prior discourses"),
+        ("Aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's "
+             "eighth discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.8:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the Buddha's own title?",
+         "opts": ["It is precisely because of developing the four bases of psychic power that the Realized One is called \"the perfected one, the fully awakened Buddha\"", "The title has no connection to the four bases at all", "The title was given to him by other ascetics, unrelated to his own development", "The four bases are only relevant to arahants who are not fully awakened Buddhas"],
+         "correct": 0,
+         "expl": "The highest claim in this vagga's own developing series, attributing the Buddha's own title directly to these four qualities."},
+        {"q": "What series does this discourse complete, according to this project's own observation?",
+         "opts": ["An escalating series moving from partial psychic power, to complete psychic power, to arahantship, to the Buddha's own title itself", "A series that has no connection between its own four discourses", "A series claiming only ordinary ascetics attain these results, never the Buddha", "A series that contradicts SN 51.5-7 entirely"],
+         "correct": 0,
+         "expl": "SN 51.5 through SN 51.8, each naming a higher attainment than the one before it."},
+        {"q": "How does this discourse's own structure differ from SN 51.5-7?",
+         "opts": ["It states its own claim once, plainly, with no threefold temporal repetition across past, present, and future", "It repeats the threefold temporal structure exactly like SN 51.5-7", "It contains no mention of the four bases at all", "It is significantly longer than SN 51.5-7"],
+         "correct": 0,
+         "expl": "A single, direct statement rather than an elaborated universal formula."},
+    ],
+    marginalia=[
+        ("The series reaches its own peak", [
+            "partial power, complete power, arahantship —",
+            "now the Buddha's own title itself"
+        ]),
+        ("A name earned, not merely given", [
+            "arahaṁ sammāsambuddho, stated directly —",
+            "attributed to these four qualities alone"
+        ]),
+        ("No threefold repetition this time", [
+            "one plain claim, stated once —",
+            "the highest point needs no elaboration"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "a series completed, not merely continued —",
+            "the vagga's own sequence still has more ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.7.html\">SN 51.7 &middot; A Mendicant</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
