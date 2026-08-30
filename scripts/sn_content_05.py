@@ -47968,3 +47968,135 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.3 — Ariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 3, "Ariya", "A Noble One",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.3 — A Noble One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ariyasutta — the four bases of psychic power are noble "
+        "and emancipating, leading to the complete ending of "
+        "suffering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare "
+                     "opening statement"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "A single, bare doctrinal statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&#9734;&#9734;&#9734; "
+                         "&mdash; names the four bases of psychic "
+                         "power &ldquo;noble&rdquo; directly, a term "
+                         "this project has met describing the "
+                         "eightfold path itself"),
+    ],
+    why=(
+        "This discourse applies the word &ldquo;ariya&rdquo; "
+        "(&ldquo;noble&rdquo;) directly to the four bases of "
+        "psychic power &mdash; the same term this project has most "
+        "often met describing the eightfold path itself (the "
+        "&ldquo;ariyo aṭṭhaṅgiko maggo&rdquo;) &mdash; continuing "
+        "SN 51.2's own direct equation between these four qualities "
+        "and the path to liberation."
+    ),
+    guide=[
+        ("Noble and emancipating, in the path's own vocabulary", [
+            "Confirmed by direct reading, this discourse's own "
+            "phrase &mdash; &ldquo;ariyā niyyānikā&rdquo; "
+            "(&ldquo;noble and emancipating/leading out&rdquo;) "
+            "&mdash; borrows vocabulary this project has most often "
+            "met applied to the eightfold path, now applied instead "
+            "to the four bases of psychic power directly.",
+        ]),
+        ("Takkarassa: for one who practices them", [
+            "As general canonical background, not asserted beyond "
+            "what this discourse's own bare text states: "
+            "&ldquo;takkarassa&rdquo; (&ldquo;for one who does "
+            "that,&rdquo; i.e. one who practices these four bases) "
+            "specifies that the noble, emancipating result belongs "
+            "to the practitioner themselves, not as an abstract "
+            "property of the teaching alone.",
+        ]),
+        ("A third discourse, continuing SN 51.1-2's own emphasis", [
+            "This project's own observation: across all three "
+            "opening discourses of this saṃyutta, the four bases of "
+            "psychic power have now been called the way to "
+            "&ldquo;the far shore&rdquo; (SN 51.1), identical to "
+            "&ldquo;the noble path&rdquo; (SN 51.2), and now "
+            "&ldquo;noble&rdquo; in their own right (SN 51.3) "
+            "&mdash; a sustained emphasis on their own highest "
+            "soteriological standing, confirmed discourse by "
+            "discourse rather than assumed from the first alone.",
+        ]),
+    ],
+    terms=[
+        ("ariyā niyyānikā", "&ldquo;noble and emancipating&rdquo; "
+             "&mdash; vocabulary this project has most often met "
+             "describing the eightfold path itself"),
+        ("niyyanti takkarassa sammā dukkhakkhayāya", "&ldquo;bring "
+             "one who practices them to the complete ending of "
+             "suffering&rdquo; &mdash; the practitioner's own direct "
+             "benefit, not an abstract property alone"),
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; restated identically to SN "
+             "51.1-2's own definition"),
+        ("bhāvitā bahulīkatā", "&ldquo;developed and "
+             "cultivated&rdquo; &mdash; the recurring qualifier "
+             "shared across this saṃyutta's own opening discourses"),
+        ("Tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's third "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.3:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse apply directly to the four bases of psychic power?",
+         "opts": ["\"Ariya\" (noble), vocabulary most often met describing the eightfold path itself", "A term unique to this discourse, unattested elsewhere", "A term normally reserved for the five faculties", "A negative term denying their own value"],
+         "correct": 0,
+         "expl": "Continuing SN 51.2's own equation between these four qualities and the path to liberation."},
+        {"q": "What does \"takkarassa\" specify, as general canonical background?",
+         "opts": ["That the noble, emancipating result belongs to the practitioner themselves, not as an abstract property alone", "That only monks, never nuns, benefit from this practice", "That the result is purely theoretical and never actually attained", "That this applies exclusively to a single named individual"],
+         "correct": 0,
+         "expl": "\"For one who does that\" — grounding the result in actual practice."},
+        {"q": "What does this project note about the pattern across SN 51.1-3?",
+         "opts": ["A sustained emphasis on the four bases' own highest soteriological standing, confirmed discourse by discourse", "That each discourse contradicts the one before it", "That only SN 51.1 makes any claim about liberation", "That this pattern is unique to SN 51.3 alone"],
+         "correct": 0,
+         "expl": "Far shore, then noble path, then noble in their own right — building without assuming ahead."},
+    ],
+    marginalia=[
+        ("A word borrowed from the path itself", [
+            "ariya, most often the eightfold path's own word —",
+            "here applied to the four bases directly"
+        ]),
+        ("For the one who actually practices", [
+            "takkarassa, not an abstract promise —",
+            "the practitioner's own direct benefit"
+        ]),
+        ("Far shore, noble path, now noble itself", [
+            "three discourses, one sustained claim —",
+            "confirmed each time, not assumed"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "brief as the two before it —",
+            "the vagga's own opening sequence continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.2.html\">SN 51.2 &middot; Missed Out</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
