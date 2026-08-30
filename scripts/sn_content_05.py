@@ -25043,3 +25043,154 @@ page_range(
         "path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 16. Punabalakaraṇīyavagga — Another Chapter on Hard Work (SN 46.153-164)
+# Confirmed by direct bilara-data reading: exactly matching the
+# working hypothesis recorded at Vagga 15, this is the second pass of
+# the Hard-Work vagga, carrying no body text of its own -- only
+# "…pe…", the colophon ("Soḷasamo," "the sixteenth"), and a closing
+# uddāna IDENTICAL in wording to Vagga 11's own (the same twelve
+# similes: strength, seed, elephant, tree, pot, needle-maker, sky,
+# two clouds, boat, visiting river). The cross-reference targets
+# "SN 45.149-160, removal of greed version" -- this project's own
+# already-completed Balakaraṇīyavagga from the Maggasaṃyutta, whose
+# own SN 45.149 page already contains all formula sections together
+# (confirmed at Vagga 15 to be this saṃyutta's own pattern, unlike
+# the Ganges vagga's separate-discourse-per-formula structure).
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.153-164 — Punabalādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 153, 164, "Punabalādi", "Hard Work, Etc.",
+    vagga="Punabalakaraṇīyavagga",
+    meta_title="SN 46.153–164 — Hard Work, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for SN 46.153–164 — a "
+        "second twelve-discourse Hard-Work vagga, carrying no body "
+        "text of its own, cross-referencing this project's own "
+        "already-completed 'removal of greed' section of SN 45.149. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by inference from the vagga's own "
+                     "cross-reference)"),
+        ("Speakers", "The Buddha, addressing the mendicants directly "
+                     "(by inference)"),
+        ("Form", "Twelve discourses compressed into a single "
+                 "bilara-data file carrying NO body text of its own "
+                 "&mdash; only an elision marker, a colophon, and a "
+                 "closing uddāna"),
+        ("Length", "A few seconds to read; no independently "
+                   "translatable content beyond the cross-reference "
+                   "itself"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the barest possible peyyāla stub, entirely "
+                       "dependent on cross-referenced content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this vagga exactly matches the "
+        "working pattern established by Vaggas 14 and 15: no "
+        "independent worked example, only an instruction to "
+        "&ldquo;tell in full as in SN 45.149&ndash;160, removal of "
+        "greed version&rdquo; &mdash; the second pass through this "
+        "saṃyutta's own five-vagga peyyāla cycle, this time applied "
+        "to the twelve hard-work similes already met at SN 46.99-110."
+    ),
+    guide=[
+        ("No body text at all -- the established pattern holds", [
+            "Every content key in this file's own English translation "
+            "is blank; the Pāli root gives only &ldquo;"
+            "&hellip;pe&hellip;&rdquo; before its own colophon and "
+            "uddāna, confirmed identical in wording to Vagga 11's own "
+            "closing uddāna (the same twelve similes: strength, seed, "
+            "elephant, tree, pot, needle-maker, sky, two clouds, "
+            "boat, and visiting river).",
+        ]),
+        ("The second full cycle continues as predicted", [
+            "This confirms the working hypothesis recorded at "
+            "Vagga 15: SN 46's own peyyāla vaggas cycle through the "
+            "same five underlying vaggas exactly twice. Having now "
+            "confirmed Ganges (Vagga 14) and Diligence (Vagga 15) "
+            "under the removal-of-greed formula, this vagga confirms "
+            "Hard Work as the third of the five &mdash; leaving "
+            "Searches and Floods still to be checked individually.",
+        ]),
+    ],
+    terms=[
+        ("…pe…", "the bilara-data elision marker, here standing in "
+             "for the ENTIRE body of this vagga &mdash; no other "
+             "content key carries any text at all in this file"),
+        ("rāgavasena vitthāretabbo", "&ldquo;to be elaborated in "
+             "full by way of greed&rdquo; &mdash; the Pāli root's own "
+             "instruction, matching the English source's own "
+             "&ldquo;removal of greed version&rdquo; label"),
+        ("balakaraṇīyavaggo", "&ldquo;the Hard-Work chapter&rdquo; "
+             "&mdash; confirming this vagga reuses the identical "
+             "twelve similes already treated at SN 46.99-110, this "
+             "project's own earlier Hard-Work vagga"),
+        ("soḷasamo", "&ldquo;the sixteenth&rdquo; &mdash; confirming "
+             "this vagga's own position within this saṃyutta's own "
+             "count"),
+        ("balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā",
+             "&ldquo;strength, and seed, and elephant, tree, with "
+             "pot, needle&rdquo; &mdash; the closing uddāna's own "
+             "opening line, worded identically to Vagga 11's own "
+             "closing uddāna"),
+    ],
+    text_intro=("This vagga's own file carries no independently "
+        "translatable body text; the fragment below is the source's "
+        "own complete cross-reference instruction, honestly presented "
+        "as such rather than padded with invented content. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.153-164:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this vagga's own cross-reference instruct?",
+         "opts": ["To tell the discourse in full as in SN 45.149–160, specifically the \"removal of greed\" version", "To skip this vagga entirely", "To invent twelve entirely new similes for hard work", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference, carrying no body text of its own, exactly like Vaggas 14 and 15."},
+        {"q": "What does this vagga confirm about the working hypothesis recorded at Vagga 15?",
+         "opts": ["That the second peyyāla cycle continues in order — Ganges, then Diligence, now Hard Work — with Searches and Floods still to be checked", "That the second cycle has been abandoned after only two vaggas", "That Hard Work does not appear in the second cycle at all", "That this vagga belongs to an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, matching the predicted pattern without needing to assume it."},
+        {"q": "How does this vagga's own closing uddāna compare to Vagga 11's own (SN 46.99-110)?",
+         "opts": ["Worded identically — both list the same twelve similes: strength, seed, elephant, tree, pot, needle-maker, sky, clouds, boat, and river", "Completely different, naming entirely different similes", "This vagga has no closing uddāna at all", "It lists only six similes instead of twelve"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of both vaggas' own closing verses."},
+    ],
+    marginalia=[
+        ("No body text survives here either", [
+            "only an elision marker and a cross-reference —",
+            "the same pattern confirmed at Vaggas 14 and 15"
+        ]),
+        ("The second cycle, third vagga in", [
+            "Ganges, Diligence, now Hard Work again —",
+            "removal of greed applied throughout"
+        ]),
+        ("The same twelve similes, once more", [
+            "strength, seed, elephant, tree, pot, needle —",
+            "identical uddāna wording to Vagga 11's own"
+        ]),
+        ("Two more vaggas remain in this cycle", [
+            "Searches and Floods still to be reconfirmed —",
+            "each vagga checked on its own, never assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.153-164/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.143-152.html\">SN 46.143&ndash;152 &middot; "
+        "Another Series on a Realized One, Etc.</a> &mdash; the "
+        "previous page, closing the preceding vagga.",
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard Work</a> "
+        "&mdash; this project's own earlier treatment, including the "
+        "&ldquo;removal of greed&rdquo; section this vagga "
+        "cross-references, applied there to the eightfold path.",
+    ],
+)
