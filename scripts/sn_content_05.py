@@ -30516,3 +30516,131 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.34 — Bhāvitasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 34, "Bhāvita", "Developed",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.34 — Developed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhāvitasutta — a compact statement using the classic "
+        "near-shore-to-far-shore crossing metaphor to describe what "
+        "developing and cultivating the four kinds of mindfulness "
+        "meditation leads to. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single short statement built on the crossing-over "
+                 "metaphor, framing the four kinds of mindfulness "
+                 "meditation as a means of passage"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, turning on a single well-known "
+                       "metaphor"),
+    ],
+    why=(
+        "This discourse describes what developing and cultivating "
+        "the four kinds of mindfulness meditation leads to using the "
+        "classic image of &ldquo;going from the near shore to the "
+        "far shore&rdquo; &mdash; the same crossing-over metaphor "
+        "used elsewhere in the canon for the passage from saṃsāra "
+        "to nibbāna, applied here specifically to this practice."
+    ),
+    guide=[
+        ("The near shore and the far shore -- a canonical image", [
+            "Confirmed by direct reading, this discourse's own "
+            "phrase &ldquo;apārā pāraṁ gamanāya&rdquo; (&ldquo;going "
+            "from the near shore to the far shore&rdquo;) uses a "
+            "crossing-over image found across the canon for the "
+            "passage from the cycle of rebirth to its ending, here "
+            "applied directly to the outcome of the four kinds of "
+            "mindfulness meditation.",
+        ]),
+        ("Developed AND cultivated -- both terms required", [
+            "The discourse's own pairing of two terms, "
+            "&ldquo;bhāvitā&rdquo; (developed) and "
+            "&ldquo;bahulīkatā&rdquo; (cultivated, made much of), is "
+            "confirmed by direct reading to appear together, "
+            "suggesting the crossing described is not the product of "
+            "occasional practice but of sustained, repeated "
+            "development.",
+        ]),
+        ("A single claim, stated once and confirmed once more", [
+            "Confirmed by direct reading, this discourse states its "
+            "own single claim &mdash; that developed and cultivated, "
+            "the four kinds of mindfulness meditation lead to this "
+            "crossing &mdash; then repeats the identical claim "
+            "verbatim at the close, giving the whole discourse a "
+            "simple, symmetrical shape without any additional "
+            "elaboration.",
+        ]),
+    ],
+    terms=[
+        ("bhāvitā bahulīkatā", "&ldquo;developed and cultivated&rdquo; "
+             "&mdash; a paired phrase suggesting sustained, repeated "
+             "practice rather than occasional effort"),
+        ("apārā pāraṁ gamanāya", "&ldquo;going from the near shore "
+             "to the far shore&rdquo; &mdash; the canonical crossing-"
+             "over image for the passage from saṃsāra to its ending"),
+        ("apāra", "&ldquo;the near shore&rdquo; &mdash; the shore of "
+             "ordinary, unawakened existence"),
+        ("pāra", "&ldquo;the far shore&rdquo; &mdash; the shore of "
+             "awakening, reached by crossing over"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the practice "
+             "this discourse identifies as the means of the crossing "
+             "it describes"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.34:1.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use to describe the outcome of developing the four kinds of mindfulness meditation?",
+         "opts": ["Going from the near shore to the far shore, the canonical crossing-over image", "Climbing a mountain to reach its summit", "Following a straight road to a distant city", "Opening a locked door with a key"],
+         "correct": 0,
+         "expl": "The same crossing-over metaphor used elsewhere in the canon for the passage from saṃsāra to nibbāna."},
+        {"q": "What does the paired phrase \"developed and cultivated\" (bhāvitā bahulīkatā) suggest about the practice described?",
+         "opts": ["Sustained, repeated development rather than occasional effort", "A single moment of insight is sufficient", "The practice need only be understood intellectually", "The practice applies only to advanced practitioners"],
+         "correct": 0,
+         "expl": "The pairing of both terms together suggests ongoing, repeated cultivation."},
+        {"q": "How is the discourse's own single claim structured?",
+         "opts": ["Stated once, then repeated verbatim at the close, without further elaboration", "Stated in three different variations", "Posed as an unanswered question", "Contradicted by a second statement at the end"],
+         "correct": 0,
+         "expl": "Giving the whole discourse a simple, symmetrical shape."},
+    ],
+    marginalia=[
+        ("Near shore, far shore — a canonical crossing", [
+            "the same image used for saṃsāra's own ending —",
+            "applied here to the fourfold practice"
+        ]),
+        ("Developed AND cultivated — both required", [
+            "bhāvitā, bahulīkatā, paired together —",
+            "sustained practice, not a single moment"
+        ]),
+        ("Stated once, repeated once more", [
+            "the identical claim opens and closes —",
+            "a simple, symmetrical discourse"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "sixteen more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.33.html\">SN 47.33 &middot; Missed Out</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
