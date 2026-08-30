@@ -30644,3 +30644,142 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.35 — Satisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 35, "Sati", "Mindful",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.35 — Mindful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Satisutta — a discourse defining two distinct terms in "
+        "turn: \"mindful\" (sato) via the four kinds of mindfulness "
+        "meditation, and \"aware\" (sampajāno) as knowing feelings, "
+        "thoughts, and perceptions as they arise, remain, and pass "
+        "away. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A twofold definition: first of \"mindful,\" then of "
+                 "\"aware,\" each posed as a question and answered in "
+                 "turn, framed as the Buddha's own personal "
+                 "instruction"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; one of the canon's own clearest "
+                         "definitions distinguishing sati from "
+                         "sampajañña"),
+    ],
+    why=(
+        "This discourse does something the surrounding discourses in "
+        "this vagga do not: it defines &ldquo;aware&rdquo; "
+        "(sampajāno) as a term IN ITS OWN RIGHT, separately from "
+        "&ldquo;mindful&rdquo; (sato) &mdash; describing it as "
+        "knowing feelings, thoughts, and perceptions as they arise, "
+        "as they remain, and as they pass away, giving one of the "
+        "canon's own clearest statements of what distinguishes these "
+        "two closely paired qualities."
+    ),
+    guide=[
+        ("Mindful, defined by the four kinds of mindfulness meditation", [
+            "Confirmed by direct reading, this discourse defines "
+            "&ldquo;mindful&rdquo; (sato) exactly as the surrounding "
+            "discourses in this vagga do &mdash; through the four "
+            "kinds of mindfulness meditation, observing the body, "
+            "feelings, the mind, and principles &mdash; giving this "
+            "half of the discourse a familiar shape.",
+        ]),
+        ("Aware, defined independently -- arising, remaining, passing away", [
+            "The discourse's own SECOND definition, of "
+            "&ldquo;aware&rdquo; (sampajāno), is confirmed by direct "
+            "reading to be a DIFFERENT kind of knowing than "
+            "mindfulness itself &mdash; not observing an aspect of "
+            "experience, but tracking the MOMENT-TO-MOMENT life "
+            "cycle of feelings, thoughts, and perceptions as each one "
+            "arises, remains, and passes away.",
+        ]),
+        ("\"This is my instruction to you\" -- framed as personal counsel", [
+            "Confirmed by direct reading, the phrase &ldquo;ayaṁ vo "
+            "amhākaṁ anusāsanī&rdquo; (&ldquo;this is my instruction "
+            "to you&rdquo;) opens and closes the discourse identically, "
+            "framing both definitions together as the Buddha's own "
+            "direct, personal counsel to the mendicants rather than "
+            "an abstract doctrinal statement.",
+        ]),
+    ],
+    terms=[
+        ("sato", "&ldquo;mindful&rdquo; &mdash; defined in this "
+             "discourse through the four kinds of mindfulness "
+             "meditation, observing body, feelings, mind, and "
+             "principles"),
+        ("sampajāno", "&ldquo;aware, clearly comprehending&rdquo; "
+             "&mdash; defined separately in this discourse as "
+             "knowing feelings, thoughts, and perceptions as they "
+             "arise, remain, and pass away"),
+        ("viditā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ "
+             "gacchanti", "&ldquo;known as they arise, known as they "
+             "remain, known as they go away&rdquo; &mdash; the "
+             "threefold moment-to-moment tracking that defines "
+             "awareness in this discourse"),
+        ("vitakka", "&ldquo;thought&rdquo; &mdash; one of the three "
+             "things (alongside feelings and perceptions) tracked "
+             "through their own arising, remaining, and passing "
+             "away"),
+        ("anusāsanī", "&ldquo;instruction, counsel&rdquo; &mdash; "
+             "the term framing this discourse's own twofold "
+             "definition as the Buddha's personal teaching"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the instruction", "sn47.35:1.1-1.3"),
+        ("p", "&sect;2 &mdash; how a mendicant is mindful", "sn47.35:2.1-2.6"),
+        ("p", "&sect;3 &mdash; how a mendicant is aware", "sn47.35:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define \"aware\" (sampajāno), distinct from \"mindful\"?",
+         "opts": ["Knowing feelings, thoughts, and perceptions as they arise, remain, and pass away", "Observing the body in the same way as mindfulness", "Reciting the four noble truths from memory", "Sitting in a specific meditation posture"],
+         "correct": 0,
+         "expl": "A different kind of knowing than mindfulness itself — tracking the moment-to-moment life cycle of experience."},
+        {"q": "How does this discourse define \"mindful\" (sato)?",
+         "opts": ["Through the four kinds of mindfulness meditation — body, feelings, mind, and principles", "Through awareness of feelings arising and passing away", "Through reciting a set of precepts", "Through a specific breathing technique alone"],
+         "correct": 0,
+         "expl": "The same familiar shape used throughout this vagga's own discourses."},
+        {"q": "What does the phrase \"this is my instruction to you\" frame the discourse as?",
+         "opts": ["The Buddha's own direct, personal counsel to the mendicants", "A quotation from an earlier teacher", "A question left unanswered for the mendicants to resolve", "A formal monastic rule with a specific penalty"],
+         "correct": 0,
+         "expl": "Rather than an abstract doctrinal statement."},
+    ],
+    marginalia=[
+        ("Two terms, two definitions", [
+            "sato through the four observations —",
+            "sampajāno through arising and passing away"
+        ]),
+        ("Aware — a different kind of knowing", [
+            "not observing an aspect, but tracking the moment —",
+            "feelings, thoughts, perceptions, each traced"
+        ]),
+        ("\"This is my instruction to you\"", [
+            "opening and closing identically —",
+            "personal counsel, not abstract doctrine"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "fifteen more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.34.html\">SN 47.34 &middot; Developed</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
