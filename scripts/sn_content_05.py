@@ -26758,3 +26758,189 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.9 — Gilānasutta
+# Confirmed by direct reading: this discourse recounts the same
+# episode -- the Buddha's near-fatal illness at Beluva during his
+# final rains retreat, and his "be your own island" teaching to
+# Ānanda -- also told at length in DN 16 (the Mahāparinibbānasutta).
+# This project's own check found no separate DN 16 page yet published
+# on this site to cross-reference; this discourse is treated here as
+# a complete, self-standing account in its own right.
+# --------------------------------------------------------------------------- #
+page(
+    47, 9, "Gilāna", "Sick",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.9 — Sick | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gilānasutta — the Buddha's own near-fatal illness during "
+        "his final rains retreat at Beluva, and his teaching to "
+        "Ānanda to be one's own island and refuge through the four "
+        "kinds of mindfulness meditation, with no other refuge. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The little village of Beluva, near Vesālī, "
+                     "during the Buddha's final rains retreat"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A narrative discourse recounting a specific, "
+                 "dated episode late in the Buddha's own life"),
+        ("Length", "3-4 minutes to read"),
+        ("Northern parallel", "Recounted at greater length in DN 16 "
+                              "(the Mahāparinibbānasutta); no "
+                              "separate DN 16 page yet published on "
+                              "this site to cross-reference"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; one of the most consequential "
+                         "episodes late in the Buddha's own life, "
+                         "directly identifying the mindfulness "
+                         "practice with self-reliance after his own "
+                         "passing"),
+    ],
+    why=(
+        "Struck by a severe, near-fatal illness at eighty years old, "
+        "the Buddha deliberately suppresses the illness rather than "
+        "pass away without first addressing the Saṅgha &mdash; then, "
+        "recovering, tells Ānanda plainly that he has withheld "
+        "nothing as a teacher and that his own body is now "
+        "&ldquo;kept going as if by a rope.&rdquo; From this comes "
+        "one of the tradition's most quoted instructions: to live as "
+        "one's own island and refuge, with the teaching as refuge, "
+        "with no other refuge &mdash; identified here directly with "
+        "the practice of the four kinds of mindfulness meditation."
+    ),
+    guide=[
+        ("A severe illness, deliberately endured and then suppressed", [
+            "Confirmed by direct reading, the Buddha's own illness is "
+            "described as &ldquo;dreadful pains, close to "
+            "death&rdquo; &mdash; endured &ldquo;unbothered, with "
+            "mindfulness and situational awareness&rdquo; before he "
+            "deliberately decides to &ldquo;forcefully suppress this "
+            "illness&rdquo; specifically because passing away without "
+            "addressing the Saṅgha would not be "
+            "&ldquo;appropriate.&rdquo;",
+        ]),
+        ("\"The Realized One doesn't have the closed fist of a tutor\"", [
+            "Answering Ānanda's own quiet hope that the Buddha would "
+            "leave final instructions for the Saṅgha, the Buddha "
+            "states plainly that he has taught &ldquo;without making "
+            "any distinction between secret and public "
+            "teachings&rdquo; and holds nothing back as a teacher "
+            "might withhold an esoteric doctrine from all but a "
+            "chosen successor &mdash; confirming there is no secret "
+            "teaching left undisclosed, and therefore nothing further "
+            "he needs to add before passing away.",
+        ]),
+        ("\"Kept going as if by a rope\"", [
+            "The Buddha's own description of his eighty-year-old body "
+            "&mdash; compared to &ldquo;a decrepit old cart kept "
+            "going by a rope&rdquo; &mdash; is confirmed by direct "
+            "reading to be paired immediately with the one practice "
+            "that brings his own body comfort: entering the signless "
+            "immersion of the heart, not focusing on any external "
+            "signs.",
+        ]),
+        ("\"Be your own island\" -- identified directly with the fourfold formula", [
+            "The famous instruction &mdash; &ldquo;live as your own "
+            "island, your own refuge, with no other refuge; let the "
+            "teaching be your island and your refuge, with no other "
+            "refuge&rdquo; &mdash; is confirmed by direct reading to "
+            "be defined, without remainder, as the four kinds of "
+            "mindfulness meditation (observing the body, feelings, "
+            "mind, and principles). The Buddha does not leave this "
+            "instruction abstract; he immediately names the specific "
+            "practice it means.",
+        ]),
+        ("A promise extending beyond the Buddha's own lifetime", [
+            "The discourse's own closing line explicitly extends this "
+            "instruction beyond the immediate audience: "
+            "&ldquo;whether now or after I have passed, any who shall "
+            "live as their own island... shall be among the best of "
+            "the best&rdquo; &mdash; confirming this teaching was "
+            "given, and understood by the tradition, as addressed to "
+            "practitioners long after the Buddha's own death, "
+            "including readers of this page today.",
+        ]),
+    ],
+    terms=[
+        ("bāḷhā vedanā vattanti māraṇantikā", "&ldquo;dreadful pains, "
+             "close to death&rdquo; &mdash; the discourse's own "
+             "description of the Buddha's own illness"),
+        ("natthi tathāgatassa dhammesu ācariyamuṭṭhi", "&ldquo;the "
+             "Realized One doesn't have the closed fist of a "
+             "tutor&rdquo; &mdash; confirming no esoteric teaching "
+             "was withheld from the wider Saṅgha"),
+        ("jajjarasakaṭaṁ veḷamissakena yāpeti", "&ldquo;a decrepit "
+             "old cart is kept going by a rope&rdquo; &mdash; the "
+             "Buddha's own simile for his eighty-year-old body"),
+        ("attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā "
+             "dhammasaraṇā anaññasaraṇā", "&ldquo;live as your own "
+             "island, your own refuge, with no other refuge; the "
+             "teaching as your island and refuge, with no other "
+             "refuge&rdquo; &mdash; the discourse's own famous "
+             "instruction, identified directly with the fourfold "
+             "mindfulness formula"),
+        ("tamatagge", "&ldquo;among the best of the best&rdquo; "
+             "&mdash; the discourse's own closing promise, extended "
+             "explicitly to practitioners after the Buddha's own "
+             "passing"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the rains retreat at Beluva",
+             "sn47.9:1.1-1.7"),
+        ("p", "&sect;2 &mdash; a near-fatal illness, deliberately "
+              "suppressed", "sn47.9:2.1-2.7"),
+        ("p", "&sect;3 &mdash; Ānanda's own relief", "sn47.9:3.1-3.8"),
+        ("p", "&sect;4 &mdash; \"no closed fist of a tutor\"",
+             "sn47.9:4.1-4.12"),
+        ("p", "&sect;5 &mdash; \"be your own island\"",
+             "sn47.9:5.1-5.2"),
+        ("p", "&sect;6 &mdash; identified with the fourfold formula",
+             "sn47.9:6.1-6.7"),
+    ],
+    quiz=[
+        {"q": "Why does the Buddha deliberately suppress his own near-fatal illness rather than let it take its course?",
+         "opts": ["Because it would not be appropriate to pass away without first addressing the mendicant Saṅgha", "Because he was afraid of death", "Because Ānanda begged him to live longer", "Because the illness was not actually serious"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the Buddha's own stated reasoning."},
+        {"q": "What does the Buddha mean by saying he has \"no closed fist of a tutor\"?",
+         "opts": ["He has taught without withholding any esoteric or secret doctrine from the wider Saṅgha", "He refuses to teach anyone outside his immediate circle", "He has kept some teachings secret for a chosen successor", "He never accepts new students"],
+         "correct": 0,
+         "expl": "Confirming there is no undisclosed teaching left to reveal before his passing."},
+        {"q": "What does the Buddha identify \"being your own island, your own refuge\" with, specifically?",
+         "opts": ["The four kinds of mindfulness meditation — observing the body, feelings, mind, and principles", "Building physical shelters for protection", "Relying entirely on other senior mendicants for guidance", "Memorizing the entire body of scripture"],
+         "correct": 0,
+         "expl": "The Buddha names the specific practice this famous instruction means, rather than leaving it abstract."},
+    ],
+    marginalia=[
+        ("Dreadful pains, endured unbothered", [
+            "mindfulness and situational awareness held —",
+            "then deliberately suppressed, not merely borne"
+        ]),
+        ("No closed fist, nothing held back", [
+            "every teaching already given in full —",
+            "nothing esoteric left for a chosen few"
+        ]),
+        ("\"Kept going as if by a rope\"", [
+            "an eighty-year-old body, likened to a cart —",
+            "comfort found only in signless immersion"
+        ]),
+        ("A promise reaching past his own passing", [
+            "\"whether now or after I have passed\" —",
+            "addressed to every reader of this page today"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.8.html\">SN 47.8 &middot; Cooks</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
