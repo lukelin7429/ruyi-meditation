@@ -10471,3 +10471,1404 @@ page_range(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 12. Balakaraṇīyavagga — Hard Work (SN 45.149-160)
+# Confirmed by direct bilara-data reading: unlike the preceding peyyāla
+# vaggas, this vagga's own twelve discourses are each stored as an
+# INDIVIDUAL bilara-data file (no merged ranges) — genuinely varied similes
+# for ethics as the ground of the path, not a repeating formula-substitution
+# pattern. SN 45.149 (Hard Work) is the vagga's own controlling discourse,
+# writing out all four closing-formula variants (base; removal of greed,
+# hate, delusion; freedom from death; self-referential extinguishment) in
+# elided form across five numbered parts (an editorial/structural note at
+# 149:2.1 is left untranslated in the source and is described, not
+# invented, below). The vagga's own final discourse (SN 45.160, A River)
+# carries an explicit source instruction — "what was elaborated for 'Hard
+# Work' should also be elaborated here" — confirming every discourse in
+# between implicitly carries the same fourfold structure, even though most
+# write out only the base formula before the source itself moves on.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 45.149 — Balasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 149, "Bala", "Hard Work",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.149 — Hard Work | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Balasutta &mdash; opening a new vagga on ethics as the "
+        "ground of the path, likened to the earth beneath all hard "
+        "labor. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile (hard work depends on the earth), "
+                 "restated with each of the four closing formulas in "
+                 "elided form"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the controlling discourse for this entire "
+                       "vagga"),
+    ],
+    why=(
+        "A new vagga begins, with ethics (sīla) as its own controlling "
+        "image &mdash; every kind of hard labor depends on the solid "
+        "earth beneath it, just as the eightfold path depends on and "
+        "is grounded in ethical conduct. This discourse establishes "
+        "the same fourfold formula structure already met in the "
+        "preceding vaggas, here restated across five numbered parts."
+    ),
+    guide=[
+        ("Five parts, four formulas, and one untranslated note", [
+            "Part 1 writes the base formula (seclusion, fading away, "
+            "cessation, letting go) out in full. Part 2 (2.1) is a "
+            "single bracketed editorial or structural note in the "
+            "Pāli root, left untranslated in the consulted English "
+            "source &mdash; this project describes it as such rather "
+            "than inventing a rendering. Parts 3, 4, and 5 then "
+            "restate the discourse with the &ldquo;removal of greed, "
+            "hate, delusion,&rdquo; &ldquo;freedom from death,&rdquo; "
+            "and self-referential extinguishment formulas "
+            "respectively, each heavily elided in the source to just "
+            "its own distinguishing clause.",
+        ]),
+        ("This vagga's own template discourse", [
+            "As with SN 45.139 opening the preceding vagga, this "
+            "discourse establishes the pattern that the remaining "
+            "eleven discourses of this vagga will each implicitly "
+            "carry &mdash; confirmed explicitly by an elaboration "
+            "instruction found at this vagga's own final discourse, "
+            "SN 45.160.",
+        ]),
+    ],
+    terms=[
+        ("balakaraṇīyā kammantā", "&ldquo;the hard work that gets "
+             "done&rdquo; &mdash; labor requiring physical strength, "
+             "this discourse's own opening image"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; this vagga's own "
+             "controlling phrase, replacing the river- and "
+             "diligence-based openings of the two preceding vaggas"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, written out in full in Part 1"),
+        ("rāgavinayapariyosānaṁ... amatogadhaṁ... nibbānaninnaṁ",
+             "the three further formulas (Parts 3, 4, 5), each "
+             "restated here in heavily elided form"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the Pāli root's "
+             "own closing numeral, confirming this discourse opens "
+             "the vagga's own twelve"),
+    ],
+    text_intro=("Every genuinely translated fragment across this "
+        "discourse's own five parts. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "Part 1 &mdash; the base formula, in full",
+             "sn45.149:1.1-1.6"),
+        ("p", "Part 3 &mdash; culminating in the removal of greed, "
+              "hate, and delusion", "sn45.149:3.4"),
+        ("p", "Part 4 &mdash; whose objective, destination, and "
+              "culmination is freedom from death", "sn45.149:4.4"),
+        ("p", "Part 5 &mdash; which slants, slopes, and inclines to "
+              "extinguishment", "sn45.149:5.4"),
+    ],
+    quiz=[
+        {"q": "What new controlling image opens this vagga, replacing the river and diligence similes of the two preceding vaggas?",
+         "opts": ["Ethics (sīla) as the ground beneath the path, likened to the earth beneath hard labor", "A mountain peak", "A guest house", "A completely unrelated topic"],
+         "correct": 0,
+         "expl": "This vagga's own name, Balakaraṇīyavagga (\"Hard Work\"), names its opening simile."},
+        {"q": "How does this project handle the untranslated editorial note at 149:2.1?",
+         "opts": ["Describes it honestly as an untranslated structural note, without inventing a rendering", "Provides a confident original English translation", "Ignores it entirely without comment", "Treats it as part of the Buddha's own spoken words"],
+         "correct": 0,
+         "expl": "Following this project's own established honest-hedging practice for untranslated source material."},
+        {"q": "What does the vagga's own final discourse (SN 45.160) confirm about this discourse's own role?",
+         "opts": ["That SN 45.149 is a template every subsequent discourse implicitly elaborates upon", "That SN 45.149 is unrelated to the rest of the vagga", "That SN 45.149 is itself the vagga's own final discourse", "That the fourfold formula structure was abandoned after this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by an explicit elaboration instruction at SN 45.160's own close."},
+    ],
+    marginalia=[
+        ("A new vagga, a new ground", [
+            "not rivers, not diligence now —",
+            "ethics beneath the path, like earth",
+        ]),
+        ("Five parts, four formulas", [
+            "one editorial note left untranslated —",
+            "described honestly, not invented",
+        ]),
+        ("A template for eleven more discourses", [
+            "each will carry this same structure —",
+            "confirmed by an instruction still ahead",
+        ]),
+        ("Hard labor needs solid ground", [
+            "so too does the eightfold path —",
+            "grounded on ethics, the vagga's own claim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.149/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.146-148.html\">SN 45.146&ndash;148 "
+        "&middot; The Moon, Etc.</a> &mdash; the previous page, "
+        "closing the preceding vagga.",
+        "<a href=\"sn-45.150.html\">SN 45.150 &middot; Seeds</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.150 — Bījasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 150, "Bīja", "Seeds",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.150 — Seeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bījasutta &mdash; plants and seeds growing from the "
+        "earth, illustrating good qualities growing from ethics. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.149"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, only the base closing formula written "
+                 "out in full"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, structurally abbreviated"),
+    ],
+    why=(
+        "Plants and seeds grow, increase, and mature depending on the "
+        "earth &mdash; just as good qualities grow depending on "
+        "ethics, confirmed by this vagga's own second simile, still "
+        "grounded in the same earth-imagery as SN 45.149's own."
+    ),
+    guide=[
+        ("The abbreviation pattern begins", [
+            "As with the preceding vagga's own second discourse "
+            "(Footprints), this is the first of eleven similes in "
+            "this vagga to write out only the base formula, per the "
+            "elaboration instruction confirmed at this vagga's own "
+            "close (SN 45.160) &mdash; the other three formulas are "
+            "implied, not invented here.",
+        ]),
+    ],
+    terms=[
+        ("bījagāmabhūtagāmā", "&ldquo;plants and seeds&rdquo; "
+             "&mdash; the discourse's own opening image, continuing "
+             "the earth-based simile of SN 45.149"),
+        ("vuddhiṁ virūḷhiṁ vepullaṁ āpajjanti", "&ldquo;achieve "
+             "growth, increase, and maturity&rdquo; &mdash; applied "
+             "both to plants and, by simile, to good qualities"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+        ("kusalesu dhammesu", "&ldquo;in good qualities&rdquo; "
+             "&mdash; what grows, increases, and matures when the "
+             "path is grounded in ethics"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; carried forward "
+             "unchanged from SN 45.149's own"),
+    ],
+    text_intro=("The complete discourse as the source itself gives "
+        "it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.150:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use to illustrate good qualities growing from ethics?",
+         "opts": ["Plants and seeds achieving growth, increase, and maturity depending on the earth", "A river sloping to the ocean", "A guest house receiving lodgers", "A wheel-turning monarch"],
+         "correct": 0,
+         "expl": "The second of this vagga's own twelve similes, continuing SN 45.149's own earth-based imagery."},
+        {"q": "How many of the four closing formulas does this discourse write out in full?",
+         "opts": ["Only the base formula; the rest are implied by the vagga's own established pattern", "All four, exactly as SN 45.149 did", "None — no formula appears", "Only the self-referential formula"],
+         "correct": 0,
+         "expl": "Matching the abbreviation pattern already seen in the preceding vagga."},
+        {"q": "What confirms that the other three formulas still implicitly apply here?",
+         "opts": ["The explicit elaboration instruction found at this vagga's own final discourse, SN 45.160", "Nothing confirms it — it is only a guess", "A footnote within this discourse itself", "The title of the discourse"],
+         "correct": 0,
+         "expl": "The instruction at SN 45.160 covers every discourse in between, including this one."},
+    ],
+    marginalia=[
+        ("Seeds need the same ground as labor", [
+            "the earth beneath both —",
+            "ethics beneath good qualities",
+        ]),
+        ("Only the base formula, written out", [
+            "the other three trail unstated —",
+            "implied, not invented here",
+        ]),
+        ("This vagga's own abbreviation confirmed", [
+            "SN 45.149 was the exception —",
+            "brevity is the rule from here on",
+        ]),
+        ("Ten more similes to come", [
+            "dragons, trees, pots, a spike —",
+            "each grounded in this same claim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.150/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.149.html\">SN 45.149 &middot; Hard "
+        "Work</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.151.html\">SN 45.151 &middot; Dragons</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.151 — Nāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 151, "Nāga", "Dragons",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.151 — Dragons | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nāgasutta &mdash; dragons growing strong in the "
+        "Himalayas before diving through pools, lakes, and rivers to "
+        "the ocean, illustrating good qualities made great and "
+        "abundant. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.150"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, only the base closing formula written "
+                 "out in full"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, structurally abbreviated"),
+    ],
+    why=(
+        "Dragons (nāga) grow strong in the Himalayas, then journey "
+        "through pools, lakes, streams, and rivers before acquiring a "
+        "great and abundant body in the ocean &mdash; illustrating how "
+        "good qualities grounded in ethics become great and abundant "
+        "in one who develops the path."
+    ),
+    guide=[
+        ("A journey simile, not a single image", [
+            "Unlike SN 45.150's own single-step growth image, this "
+            "discourse traces a staged journey (mountain, pool, "
+            "lake, stream, river, ocean) before drawing its own "
+            "comparison &mdash; the good qualities of a diligent "
+            "mendicant likewise become &ldquo;great and abundant,"
+            "&rdquo; not merely grown.",
+        ]),
+    ],
+    terms=[
+        ("nāgā", "&ldquo;dragons&rdquo; or &ldquo;great serpents"
+             "&rdquo; &mdash; mythic beings said to grow strong "
+             "supported by the Himalayas, the king of mountains"),
+        ("himavantaṁ pabbatarājānaṁ", "&ldquo;the Himalayas, the "
+             "king of mountains&rdquo; &mdash; the dragons' own "
+             "source of strength before their journey to the ocean"),
+        ("mahantaṁ vipulaṁ attabhāvaṁ abhinibbattenti", "&ldquo;they "
+             "acquire a great and abundant body&rdquo; &mdash; the "
+             "dragons' own culmination in the ocean, mirrored in the "
+             "mendicant's own great and abundant good qualities"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+        ("sīlaṁ nissāya sīle patiṭṭhāya", "&ldquo;depending on and "
+             "grounded on ethics&rdquo; &mdash; carried forward "
+             "unchanged across this vagga's own similes"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.151:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What staged journey does this discourse trace before drawing its own comparison?",
+         "opts": ["A dragon's growth in the Himalayas, then through pools, lakes, streams, and rivers to the ocean", "A river's journey from the mountains to the sea", "A ship's voyage across the ocean", "A guest house receiving travelers from four directions"],
+         "correct": 0,
+         "expl": "A multi-stage journey simile, distinct from the single-image similes of SN 45.149-150."},
+        {"q": "What does the dragon's own culmination in the ocean illustrate?",
+         "opts": ["A mendicant's good qualities becoming great and abundant, not merely grown", "The impermanence of physical strength", "The danger of the ocean", "Nothing related to the path"],
+         "correct": 0,
+         "expl": "Confirmed by the discourse's own explicit comparison."},
+        {"q": "How does this discourse's own abbreviation compare to SN 45.150's own?",
+         "opts": ["The same pattern — only the base formula is written out in full", "This discourse writes out all four formulas", "This discourse has no closing formula at all", "This discourse uses an entirely different formula"],
+         "correct": 0,
+         "expl": "Consistent with this vagga's own established abbreviation pattern."},
+    ],
+    marginalia=[
+        ("A dragon's journey to the ocean", [
+            "mountain, pool, lake, river —",
+            "each stage building toward abundance",
+        ]),
+        ("Not mere growth, but greatness", [
+            "\"great and abundant,\" the dragon's own claim —",
+            "mirrored in a mendicant's own qualities",
+        ]),
+        ("The same base formula, once more", [
+            "written out in full, as before —",
+            "the other three implied throughout",
+        ]),
+        ("Nine similes remain", [
+            "trees, pots, a rice-spike ahead —",
+            "each grounded in ethics still",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.151/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.150.html\">SN 45.150 &middot; Seeds</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.152.html\">SN 45.152 &middot; Trees</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.152 — Rukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 152, "Rukkha", "Trees",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.152 — Trees | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rukkhasutta &mdash; a tree slanting east falls east when "
+        "cut, illustrating a mendicant's own path-momentum toward "
+        "extinguishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.151"),
+        ("Speakers", "The Buddha, with the mendicants answering one "
+                     "question directly"),
+        ("Form", "A brief question-and-answer, then one simile with "
+                 "only the base closing formula written out"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, with a brief dialogue"),
+    ],
+    why=(
+        "A tree that leans east falls east when its root is cut "
+        "&mdash; and a mendicant who develops the path likewise falls, "
+        "inevitably, toward extinguishment. This is the only "
+        "discourse so far in this vagga to include a direct question "
+        "put to the mendicants themselves, who answer before the "
+        "Buddha draws the comparison."
+    ),
+    guide=[
+        ("A question-and-answer format, briefly returning", [
+            "Unlike the preceding three discourses' own single "
+            "declarative similes, this discourse briefly asks the "
+            "mendicants a direct question (&ldquo;where would it "
+            "fall?&rdquo;) and records their own answer before the "
+            "Buddha draws the comparison &mdash; a format last seen "
+            "at scale in the much earlier vaggas of this book.",
+        ]),
+    ],
+    terms=[
+        ("pācīnaninnaṁ pācīnapoṇaṁ pācīnapabbhāraṁ", "&ldquo;slants, "
+             "slopes, and inclines to the east&rdquo; &mdash; applied "
+             "here to a tree rather than a river, echoing the "
+             "Gaṅgāpeyyāla vaggas' own opening image"),
+        ("chinnamūlaṁ", "&ldquo;cut off at the root&rdquo; &mdash; "
+             "the moment the tree's own fall becomes inevitable"),
+        ("yena nati tena papateyya", "&ldquo;it would fall in the "
+             "direction that it slants&rdquo; &mdash; the "
+             "mendicants' own direct answer"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+        ("nibbānaninno... nibbānapoṇo... nibbānapabbhāro", "&ldquo;"
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the mendicant's own inevitable direction, "
+             "echoing the felled tree's own"),
+    ],
+    text_intro=("The complete discourse, including the brief "
+        "question-and-answer. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.152:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What distinguishes this discourse's own format from the three preceding it in this vagga?",
+         "opts": ["It includes a direct question to the mendicants, who answer before the comparison is drawn", "It has no simile at all", "It is the vagga's own longest discourse", "It uses a completely different closing formula"],
+         "correct": 0,
+         "expl": "A brief return to the question-and-answer format seen in earlier vaggas of this book."},
+        {"q": "What happens to a tree that slants east when its root is cut?",
+         "opts": ["It falls in the direction it slants — east", "It falls in a random direction", "It falls to the west instead", "It remains standing"],
+         "correct": 0,
+         "expl": "The mendicants' own direct answer, setting up the comparison to a mendicant's inevitable direction toward extinguishment."},
+        {"q": "What does this discourse compare to a felled, slanting tree?",
+         "opts": ["A mendicant whose developed path inevitably inclines toward extinguishment", "A river reaching the ocean", "A dragon growing strong", "A seed achieving maturity"],
+         "correct": 0,
+         "expl": "The path's own accumulated momentum, echoing the self-referential extinguishment formula met in earlier vaggas."},
+    ],
+    marginalia=[
+        ("A question, briefly returning", [
+            "\"where would it fall?\" they're asked —",
+            "a format last seen many vaggas back",
+        ]),
+        ("A tree falls where it already leans", [
+            "no root, no choice in direction —",
+            "the path's own momentum, just the same",
+        ]),
+        ("Only the base formula, once more", [
+            "the other three implied, not written —",
+            "this vagga's own pattern holds",
+        ]),
+        ("Eight similes remain", [
+            "pots, a spike, the sky, two storms —",
+            "then a ship, a guest house, a river",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.152/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.151.html\">SN 45.151 &middot; Dragons</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.153.html\">SN 45.153 &middot; Pots</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.153 — Kumbhasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 153, "Kumbha", "Pots",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.153 — Pots | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kumbhasutta &mdash; a tipped-over pot that never lets "
+        "its water flow back in, illustrating a mendicant expelling "
+        "unskillful qualities for good. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.152"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, only the base closing formula written "
+                 "out in full"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, structurally abbreviated"),
+    ],
+    why=(
+        "A pot of water, once tipped over, drains out for good and "
+        "does not flow back in &mdash; illustrating a mendicant who "
+        "expels bad, unskillful qualities and does not let them "
+        "return, a new register (elimination rather than growth) "
+        "among this vagga's own similes."
+    ),
+    guide=[
+        ("A shift from growth to elimination", [
+            "Where SN 45.150-151's own similes illustrated good "
+            "qualities growing and becoming abundant, this discourse "
+            "shifts register entirely &mdash; illustrating the "
+            "removal of bad qualities instead, a complementary rather "
+            "than repetitive image within this vagga's own sequence.",
+        ]),
+    ],
+    terms=[
+        ("udakapuṇṇo kumbho", "&ldquo;a pot full of water&rdquo; "
+             "&mdash; this discourse's own opening image"),
+        ("nikkujjiyamāno", "&ldquo;tipped over&rdquo; &mdash; the "
+             "moment of the pot's own irreversible emptying"),
+        ("udakaṁ nikkhamati, no pakkhandati", "&ldquo;the water "
+             "drains out and doesn't go back in&rdquo; &mdash; the "
+             "irreversibility at the heart of this discourse's own "
+             "comparison"),
+        ("pāpake akusale dhamme nikkhamayamāno", "&ldquo;expelling "
+             "bad, unskillful qualities&rdquo; &mdash; the "
+             "mendicant's own counterpart to the pot's own draining"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.153:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What new register does this discourse introduce among this vagga's own similes?",
+         "opts": ["Elimination of bad qualities, rather than the growth of good ones", "A journey through multiple stages", "A direct question to the mendicants", "An entirely new closing formula"],
+         "correct": 0,
+         "expl": "Complementing rather than repeating the growth-based similes of SN 45.150-151."},
+        {"q": "What happens to the water once a full pot is tipped over?",
+         "opts": ["It drains out for good and does not flow back in", "It splashes out but eventually refills", "It remains inside the pot", "It evaporates slowly"],
+         "correct": 0,
+         "expl": "The irreversibility of the draining is the heart of this discourse's own comparison."},
+        {"q": "What does the pot's own irreversible draining illustrate about a mendicant?",
+         "opts": ["Expelling bad, unskillful qualities for good, without their return", "Growing good qualities to great abundance", "Following an inevitable direction, like a felled tree", "Nothing related to ethical development"],
+         "correct": 0,
+         "expl": "A complementary image to this vagga's own growth-based similes."},
+    ],
+    marginalia=[
+        ("A pot, once tipped, stays empty", [
+            "the water does not return —",
+            "unskillful qualities expelled the same way",
+        ]),
+        ("Growth gives way to elimination", [
+            "a new register in this vagga's own sequence —",
+            "not repetition, but complement",
+        ]),
+        ("The base formula, still the rule", [
+            "the other three implied throughout —",
+            "confirmed by this vagga's own final instruction",
+        ]),
+        ("Seven similes remain", [
+            "a spike, the sky, two storms —",
+            "a ship, a guest house, a river"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.153/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.152.html\">SN 45.152 &middot; Trees</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.154.html\">SN 45.154 &middot; A Spike</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.154 — Sūkasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 154, "Sūka", "A Spike",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.154 — A Spike | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sūkasutta &mdash; a rightly-pointed rice spike that can "
+        "draw blood, illustrating how right view lets the path break "
+        "ignorance and realize extinguishment. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.153"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile with its own explicit cause-and-effect "
+                 "reasoning, repeated for both the spike and the "
+                 "mendicant"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but with an unusually explicit "
+                       "cause-and-effect structure"),
+    ],
+    why=(
+        "A spike of rice or barley, pointing the right way, can break "
+        "the skin and draw blood if trodden on &mdash; because it "
+        "points the right way. Likewise, a mendicant whose view is "
+        "pointing the right way can break ignorance, produce "
+        "knowledge, and realize extinguishment &mdash; because their "
+        "view points the right way. This is this vagga's own most "
+        "explicit statement of why right view matters causally, not "
+        "merely descriptively."
+    ),
+    guide=[
+        ("An explicit \"why\" repeated twice", [
+            "Unusually for this vagga, the discourse itself asks "
+            "&ldquo;why is that?&rdquo; twice &mdash; once for the "
+            "spike, once for the mendicant &mdash; and answers both "
+            "times with the same underlying reason: rightness of "
+            "direction. This makes explicit what earlier similes "
+            "(the tree at SN 45.152, for instance) left as pure "
+            "comparison.",
+        ]),
+    ],
+    terms=[
+        ("sūko sammā paṇihito", "&ldquo;a spike... pointing the right "
+             "way&rdquo; &mdash; the discourse's own opening image, "
+             "capable of breaking skin and drawing blood"),
+        ("sammāpaṇihitāya diṭṭhiyā sammāpaṇihitāya maggabhāvanāya",
+             "&ldquo;whose view and development of the path is "
+             "pointing the right way&rdquo; &mdash; the mendicant's "
+             "own counterpart to the rightly-pointed spike"),
+        ("avijjaṁ bhindeyya vijjaṁ uppādeyya nibbānaṁ sacchikareyya",
+             "&ldquo;may well break ignorance, produce knowledge, and "
+             "realize extinguishment&rdquo; &mdash; the causal "
+             "outcome this discourse's own reasoning leads to"),
+        ("taṁ kissa hetu", "&ldquo;why is that?&rdquo; &mdash; asked "
+             "twice in this discourse, an unusually explicit "
+             "cause-and-effect device for this vagga"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+    ],
+    text_intro=("The complete discourse, including its own repeated "
+        "\"why is that?\" reasoning. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.154:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse's own reasoning structure unusual for this vagga?",
+         "opts": ["It explicitly asks and answers \"why is that?\" twice, for both the spike and the mendicant", "It has no simile at all", "It uses a completely new closing formula", "It is the only discourse without any mention of right view"],
+         "correct": 0,
+         "expl": "Making causal reasoning explicit where earlier similes (like the felled tree) left it as pure comparison."},
+        {"q": "Why can a rightly-pointed spike break skin and draw blood, according to this discourse?",
+         "opts": ["Because it is pointing the right way", "Because it is unusually sharp", "Because of the force used to tread on it", "The discourse gives no reason"],
+         "correct": 0,
+         "expl": "The discourse's own explicit answer, mirrored exactly for the mendicant's own right view."},
+        {"q": "What three outcomes does a mendicant with rightly-pointed view and path-development achieve?",
+         "opts": ["Breaking ignorance, producing knowledge, and realizing extinguishment", "Growing wealthy, gaining fame, and living long", "Becoming physically strong, like the dragons of SN 45.151", "None — the discourse describes no outcome"],
+         "correct": 0,
+         "expl": "The causal payoff of \"pointing the right way,\" mirrored from the spike simile."},
+    ],
+    marginalia=[
+        ("A spike, rightly pointed, draws blood", [
+            "\"why is that?\" the discourse asks —",
+            "and answers plainly: direction matters",
+        ]),
+        ("Right view, the same causal claim", [
+            "breaking ignorance, not by chance —",
+            "because it points the right way",
+        ]),
+        ("An unusually explicit \"why\"", [
+            "twice asked, twice answered —",
+            "more explicit than the felled tree's own"
+        ]),
+        ("Six similes remain", [
+            "the sky, two storms, a ship —",
+            "a guest house, then a river closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.154/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.153.html\">SN 45.153 &middot; Pots</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.155.html\">SN 45.155 &middot; The Sky</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.155 — Ākāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 155, "Ākāsa", "The Sky",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.155 — The Sky | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ākāsasutta &mdash; the many winds of the sky, "
+        "illustrating how the eightfold path brings the rest of the "
+        "thirty-seven qualities of awakening to full development. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.154"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, naming several other qualities of "
+                 "awakening before the base closing formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "short, but the vagga's own most doctrinally "
+                       "dense discourse"),
+    ],
+    why=(
+        "Winds blow from every direction and in every quality "
+        "&mdash; dusty or dustless, cool or warm, weak or strong "
+        "&mdash; and in the same way, developing the eightfold path "
+        "brings to full development the whole of what tradition calls "
+        "the thirty-seven qualities of awakening, named here by their "
+        "own four remaining groups."
+    ),
+    guide=[
+        ("The only discourse in this vagga naming other path-groups", [
+            "Where every other discourse in this vagga measures the "
+            "eightfold path against a single external image, this "
+            "discourse alone names four further groups of qualities "
+            "&mdash; the four kinds of mindfulness meditation, the "
+            "four right efforts, the four bases of psychic power, the "
+            "five faculties, the five powers, and the seven awakening "
+            "factors &mdash; as themselves brought to fulfillment "
+            "when the eightfold path is developed.",
+        ]),
+    ],
+    terms=[
+        ("vātā vāyanti ākāse", "&ldquo;various winds blow in the "
+             "sky&rdquo; &mdash; from every direction, and of every "
+             "quality, this discourse's own opening image"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the first of four "
+             "further qualities named here as brought to fulfillment"),
+        ("cattāro sammappadhānā... cattāro iddhipādā", "the four "
+             "right efforts and the four bases of psychic power, "
+             "named alongside mindfulness"),
+        ("pañcindriyāni... pañca balāni... satta bojjhaṅgā", "the "
+             "five faculties, the five powers, and the seven "
+             "awakening factors &mdash; together with the four groups "
+             "above and the eightfold path, forming the traditional "
+             "thirty-seven qualities of awakening"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.155:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse structurally unique within this vagga?",
+         "opts": ["It names four further groups of qualities (mindfulness, effort, psychic power, faculties, powers, awakening factors) alongside the eightfold path", "It is the only discourse without a simile", "It has no closing formula", "It repeats an earlier discourse's own simile word for word"],
+         "correct": 0,
+         "expl": "Every other discourse in this vagga compares only the eightfold path to its own external image."},
+        {"q": "What image opens this discourse?",
+         "opts": ["Various winds blowing from every direction and of every quality in the sky", "A river sloping to the ocean", "A tree slanting east", "A guest house receiving travelers"],
+         "correct": 0,
+         "expl": "The sky's own many winds illustrate the many qualities brought to fulfillment together."},
+        {"q": "Together with the eightfold path, what traditional grouping do the qualities named in this discourse make up?",
+         "opts": ["The thirty-seven qualities of awakening (bodhipakkhiyā dhammā)", "The four noble truths", "The ten perfections", "The five aggregates"],
+         "correct": 0,
+         "expl": "A well-known doctrinal grouping this discourse gestures toward without naming it explicitly."},
+    ],
+    marginalia=[
+        ("Winds from every direction", [
+            "dusty, dustless, cool and warm —",
+            "many qualities, one full development",
+        ]),
+        ("Not the path alone, this time", [
+            "mindfulness, effort, powers, factors —",
+            "all named as brought to fulfillment",
+        ]),
+        ("This vagga's own most doctrinally dense discourse", [
+            "no other simile names so much —",
+            "still closing with the same base formula",
+        ]),
+        ("Five similes remain", [
+            "two storms, a ship, a guest house —",
+            "then a river closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.155/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.154.html\">SN 45.154 &middot; A Spike</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.156.html\">SN 45.156 &middot; Storms "
+        "(1st)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.156 — Paṭhamavātasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 156, "Paṭhamavāta", "Storms (1st)",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.156 — Storms (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Vātasutta &mdash; an out-of-season storm settling "
+        "summer's dust instantly, illustrating a mendicant stilling "
+        "unskillful qualities on the spot. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.155"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, only the base closing formula written "
+                 "out in full"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, the first of a paired discourse"),
+    ],
+    why=(
+        "In the last month of summer, when dust and dirt have been "
+        "stirred up, a large out-of-season storm settles it instantly "
+        "&mdash; illustrating how a mendicant who develops the path "
+        "disperses and stills unskillful qualities immediately, "
+        "&ldquo;on the spot.&rdquo;"
+    ),
+    guide=[
+        ("The first of a paired discourse, distinguished by timing", [
+            "This discourse and its own companion, SN 45.157, share "
+            "the same storm-imagery and the same outcome (dispersing "
+            "unskillful qualities) but differ in how the process "
+            "unfolds &mdash; here, instantly and all at once, &ldquo;"
+            "on the spot.&rdquo; The companion discourse instead "
+            "describes a storm settling dust gradually, "
+            "&ldquo;as it proceeds.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("gimhānaṁ pacchime māse", "&ldquo;in the last month of "
+             "summer&rdquo; &mdash; the season when dust and dirt "
+             "have accumulated most, setting this discourse's own "
+             "scene"),
+        ("akālamahāmegho", "&ldquo;a large storm out of season"
+             "&rdquo; &mdash; unexpected, unseasonal, all the more "
+             "striking for its own suddenness"),
+        ("ṭhānaso vūpasameti vūpasādeti", "&ldquo;disperses and "
+             "settles it on the spot&rdquo; &mdash; the storm's own "
+             "instantaneous effect, mirrored in the mendicant's own "
+             "immediate stilling of unskillful qualities"),
+        ("pāpake akusale dhamme", "&ldquo;bad, unskillful "
+             "qualities&rdquo; &mdash; what the developed path "
+             "disperses and stills, echoing SN 45.153's own pot "
+             "simile but through a different image"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.156:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What distinguishes this discourse from its own paired companion, SN 45.157?",
+         "opts": ["The stilling happens instantly, \"on the spot,\" rather than gradually", "This discourse uses a completely different simile", "This discourse has no closing formula", "This discourse is the vagga's own final one"],
+         "correct": 0,
+         "expl": "SN 45.157 instead describes a gradual stilling, \"as it proceeds.\""},
+        {"q": "What triggers the storm in this discourse's own simile?",
+         "opts": ["It is out of season, arriving unexpectedly in the last month of summer", "It follows the normal seasonal pattern", "It is caused by a mendicant's own meditation", "The discourse gives no cause"],
+         "correct": 0,
+         "expl": "The storm's own unseasonal suddenness underlines the instantaneous stilling it produces."},
+        {"q": "What does the storm settling dust illustrate about a mendicant who develops the path?",
+         "opts": ["They disperse and still bad, unskillful qualities instantly", "They gradually accumulate good qualities over years", "They become physically strong, like the dragons of SN 45.151", "Nothing related to ethical development"],
+         "correct": 0,
+         "expl": "A direct, immediate parallel between the storm's own effect and the mendicant's own inner stilling."},
+    ],
+    marginalia=[
+        ("A storm out of season", [
+            "unexpected, sudden, complete —",
+            "dust settled instantly, on the spot",
+        ]),
+        ("The first of a paired discourse", [
+            "instant here, gradual just ahead —",
+            "the same outcome, two different paces",
+        ]),
+        ("Unskillful qualities, stilled at once", [
+            "not worn away slowly —",
+            "dispersed all together, like the dust",
+        ]),
+        ("Four similes remain", [
+            "a companion storm, a ship —",
+            "a guest house, then a river"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.156/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.155.html\">SN 45.155 &middot; The Sky</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.157.html\">SN 45.157 &middot; Storms "
+        "(2nd)</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.157 — Dutiyavātasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 157, "Dutiyavāta", "Storms (2nd)",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.157 — Storms (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Vātasutta &mdash; a strong wind settling a storm "
+        "gradually as it proceeds, illustrating a mendicant's own "
+        "gradual stilling of unskillful qualities. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.156"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, only the base closing formula written "
+                 "out in full"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, the second of a paired discourse"),
+    ],
+    why=(
+        "When a large storm has blown up, a strong wind disperses and "
+        "settles it gradually, as it proceeds &mdash; the deliberate "
+        "counterpart to SN 45.156's own instantaneous settling, "
+        "illustrating a mendicant stilling unskillful qualities as "
+        "the process itself unfolds, not only in a single stroke."
+    ),
+    guide=[
+        ("Completing the pair: gradual, not instant", [
+            "Where SN 45.156's own storm settled dust &ldquo;on the "
+            "spot,&rdquo; this discourse's own strong wind settles a "
+            "storm &ldquo;as it proceeds&rdquo; &mdash; the two "
+            "discourses together present both an instantaneous and a "
+            "gradual mode of stilling unskillful qualities, not a "
+            "contradiction but two facets of the same process, "
+            "confirmed by direct comparison of their own Pāli.",
+        ]),
+    ],
+    terms=[
+        ("mahāvāte vuṭṭhite", "&ldquo;when a large storm has blown "
+             "up&rdquo; &mdash; this discourse's own opening "
+             "condition, distinct from SN 45.156's own dust-laden "
+             "summer scene"),
+        ("balavā vāto", "&ldquo;a strong wind&rdquo; &mdash; the "
+             "agent of settling here, as the storm-wind itself "
+             "rather than a separate seasonal storm"),
+        ("anupubbena vūpasameti vūpasādeti", "&ldquo;disperses and "
+             "settles it as it proceeds&rdquo; &mdash; the gradual "
+             "counterpart to SN 45.156's own instantaneous "
+             "&ldquo;on the spot&rdquo;"),
+        ("pāpake akusale dhamme", "&ldquo;bad, unskillful "
+             "qualities&rdquo; &mdash; the shared object of both "
+             "storm discourses' own comparison"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.157:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own settling process differ from SN 45.156's own?",
+         "opts": ["It happens gradually, \"as it proceeds,\" rather than instantly", "It happens even faster than SN 45.156's own", "It uses an entirely unrelated simile", "There is no difference at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison of the two discourses' own Pāli."},
+        {"q": "What settles the storm in this discourse's own simile?",
+         "opts": ["A strong wind, dispersing and settling it as it proceeds", "An out-of-season storm, settling dust on the spot", "Rain alone, with no wind involved", "Nothing — the storm settles on its own"],
+         "correct": 0,
+         "expl": "The storm-wind itself is the agent of gradual settling, distinct from SN 45.156's own seasonal storm."},
+        {"q": "How do this discourse and SN 45.156 relate to each other?",
+         "opts": ["Two complementary facets (instant and gradual) of the same stilling process, not a contradiction", "Unrelated discourses that happen to share a topic by coincidence", "Contradictory accounts of the same event", "Identical discourses with no meaningful difference"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — both modes of stilling unskillful qualities are presented as valid."},
+    ],
+    marginalia=[
+        ("A storm settles as it proceeds", [
+            "not all at once this time —",
+            "a strong wind, working gradually",
+        ]),
+        ("Completing the pair", [
+            "instant, then gradual —",
+            "two facets, not a contradiction",
+        ]),
+        ("The same base formula, a fifth time", [
+            "the other three still implied —",
+            "confirmed by this vagga's own closing instruction",
+        ]),
+        ("Three similes remain", [
+            "a ship, a guest house —",
+            "then a river closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.157/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.156.html\">SN 45.156 &middot; Storms "
+        "(1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.158.html\">SN 45.158 &middot; A Ship</a> "
+        "&mdash; the next discourse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 45.158 — Nāvāsutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 158, "Nāvā", "A Ship",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.158 — A Ship | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nāvāsutta &mdash; a rope-bound ship weathered by six "
+        "months in water and a dry season of wind, sun, and rain, "
+        "illustrating fetters readily collapsing and rotting away. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.157"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One extended simile, this vagga's own longest and "
+                 "most detailed image, with only the base closing "
+                 "formula written out in full"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "an unusually detailed, multi-stage simile"),
+    ],
+    why=(
+        "A sea-faring ship, its ropes deteriorating for six months in "
+        "the water and then weathered further by a dry season of "
+        "wind, sun, and rain, readily collapses and rots away "
+        "&mdash; illustrating how a mendicant who develops the path "
+        "sees their own fetters (saṁyojana) readily collapse and rot "
+        "away in the same manner."
+    ),
+    guide=[
+        ("This vagga's own most elaborate single image", [
+            "Where most of this vagga's own similes state their "
+            "image in one or two sentences, this discourse traces a "
+            "ship's own multi-stage deterioration &mdash; six months "
+            "in water, then hauled onto dry land, then weathered by "
+            "wind, sun, and finally rain &mdash; before drawing its "
+            "own comparison to a mendicant's fetters. Confirmed by "
+            "direct reading as the vagga's own longest and most "
+            "detailed image.",
+        ]),
+    ],
+    terms=[
+        ("samuddiyā nāvā", "&ldquo;a sea-faring ship&rdquo; &mdash; "
+             "this discourse's own opening image, bound together with "
+             "ropes rather than nails or fastenings"),
+        ("chabbassāni... vassaṁ... nadiṁ udake pariyādāya vattati",
+             "&ldquo;for six months they deteriorated in the "
+             "water&rdquo; &mdash; the first of the ship's own two "
+             "stages of weathering"),
+        ("vātātapena kilinnā", "&ldquo;the ropes were weathered by "
+             "wind and sun&rdquo; &mdash; the second stage, after the "
+             "ship is hauled onto dry land in the cold season"),
+        ("saṁyojanāni", "&ldquo;fetters&rdquo; &mdash; the specific "
+             "term used here for what &ldquo;readily collapses and "
+             "rots away,&rdquo; a term this vagga's own other similes "
+             "do not use, generally speaking of "
+             "&ldquo;unskillful qualities&rdquo; more broadly"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+             "the base formula, the only one of the four written out "
+             "in full here"),
+    ],
+    text_intro=("The complete discourse, including its own multi-stage "
+        "ship simile in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.158:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse's own simile unusual within this vagga?",
+         "opts": ["It traces a multi-stage deterioration (water, then wind, sun, and rain) rather than a single-sentence image", "It has no simile at all", "It is the shortest discourse in the vagga", "It repeats SN 45.153's own pot simile exactly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading as this vagga's own longest and most elaborate single image."},
+        {"q": "What specific term does this discourse use for what \"readily collapses and rots away,\" distinct from most of this vagga's own similes?",
+         "opts": ["Saṁyojanāni, \"fetters\" — more specific than the general \"unskillful qualities\" of other similes", "Kilesa, \"defilements\"", "Āsava, \"defiling tendencies\"", "No specific term is used at all"],
+         "correct": 0,
+         "expl": "A more technical term than the broader phrasing used elsewhere in this vagga."},
+        {"q": "What two stages of weathering does the ship undergo before its ropes rot away?",
+         "opts": ["Six months deteriorating in water, then wind, sun, and rain on dry land", "A single storm, all at once", "Only sun exposure, with no water involved", "The discourse describes no weathering process"],
+         "correct": 0,
+         "expl": "A genuinely multi-stage image, distinguishing this discourse from the vagga's own more compact similes."},
+    ],
+    marginalia=[
+        ("A ship, weathered in stages", [
+            "six months in water, then sun and rain —",
+            "the vagga's own most detailed image",
+        ]),
+        ("Fetters, named specifically", [
+            "not just \"unskillful qualities\" this time —",
+            "saṁyojanāni, a more technical term",
+        ]),
+        ("Ropes rot; fetters collapse the same way", [
+            "gradual weathering, not sudden force —",
+            "the path's own patient work"
+        ]),
+        ("Two similes remain", [
+            "a guest house welcomes travelers next —",
+            "then a river closes the vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.158/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.157.html\">SN 45.157 &middot; Storms "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-45.159.html\">SN 45.159 &middot; A Guest "
+        "House</a> &mdash; the next discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.159 — Āgantukasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, 159, "Āgantuka", "A Guest House",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.159 — A Guest House | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āgantukasutta &mdash; a guest house receiving travelers "
+        "from every direction and every class, illustrating the four "
+        "tasks of complete understanding, giving up, realizing, and "
+        "developing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 45.158"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One simile, followed by this vagga's own most "
+                 "doctrinally structured exposition &mdash; four "
+                 "explicit questions and answers"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "names the five aggregates, ignorance and "
+                       "craving, knowledge and freedom, and serenity "
+                       "and discernment"),
+    ],
+    why=(
+        "A guest house receives lodgers from every direction and "
+        "every class &mdash; aristocrats, brahmins, peasants, and "
+        "menials alike &mdash; illustrating a mendicant who "
+        "completely understands, gives up, realizes, and develops the "
+        "specific things that call for each task, all four spelled "
+        "out explicitly in turn."
+    ),
+    guide=[
+        ("The four tasks, named individually", [
+            "This discourse alone in this vagga explicitly enumerates "
+            "what falls under each of the four tasks: the five "
+            "grasping aggregates (to be completely understood), "
+            "ignorance and craving for continued existence (to be "
+            "given up), knowledge and freedom (to be realized), and "
+            "serenity and discernment (to be developed) &mdash; a "
+            "framework echoing this book's own broader teaching on "
+            "the path's fourfold task structure.",
+        ]),
+    ],
+    terms=[
+        ("āgantukāgāraṁ", "&ldquo;a guest house&rdquo; &mdash; this "
+             "discourse's own opening image, receiving travelers from "
+             "every direction and every social class"),
+        ("pañc'upādānakkhandhā", "&ldquo;the five grasping "
+             "aggregates&rdquo; (form, feeling, perception, choices, "
+             "consciousness) &mdash; named here as what should be "
+             "completely understood by direct knowledge"),
+        ("avijjā ca bhavataṇhā ca", "&ldquo;ignorance and craving for "
+             "continued existence&rdquo; &mdash; named as what should "
+             "be given up by direct knowledge"),
+        ("vijjā ca vimutti ca", "&ldquo;knowledge and freedom&rdquo; "
+             "&mdash; named as what should be realized by direct "
+             "knowledge"),
+        ("samatho ca vipassanā ca", "&ldquo;serenity and "
+             "discernment&rdquo; &mdash; named as what should be "
+             "developed by direct knowledge, closing this "
+             "discourse's own fourfold structure"),
+    ],
+    text_intro=("The complete discourse, including its own four "
+        "explicit questions and answers. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.159:1.1-1.3"),
+        ("p", "&sect;2 &mdash; the four tasks, named in turn",
+             "sn45.159:2.1-2.17"),
+    ],
+    quiz=[
+        {"q": "What four tasks does this discourse explicitly name specific objects for?",
+         "opts": ["Completely understanding, giving up, realizing, and developing", "Growing, weathering, expelling, and inclining", "Only \"developing,\" repeated four times", "The discourse names no specific tasks"],
+         "correct": 0,
+         "expl": "This vagga's own most doctrinally structured discourse, naming a specific object for each task."},
+        {"q": "What should be \"completely understood by direct knowledge,\" according to this discourse?",
+         "opts": ["The five grasping aggregates: form, feeling, perception, choices, and consciousness", "The four noble truths", "The eightfold path itself", "Ignorance and craving"],
+         "correct": 0,
+         "expl": "Ignorance and craving are instead named as what should be given up, a distinct task."},
+        {"q": "What image opens this discourse?",
+         "opts": ["A guest house receiving lodgers of every class from every direction", "A ship weathered by wind and rain", "A tree slanting toward the east", "A river sloping to the ocean"],
+         "correct": 0,
+         "expl": "The guest house's own indiscriminate hospitality mirrors the path's own comprehensive fourfold task."},
+    ],
+    marginalia=[
+        ("A guest house, open to all", [
+            "every class, every direction —",
+            "the path's own tasks just as comprehensive",
+        ]),
+        ("Four tasks, four objects, named plainly", [
+            "aggregates, ignorance, knowledge, serenity —",
+            "this vagga's own most structured discourse",
+        ]),
+        ("A framework from elsewhere in this book", [
+            "understanding, giving up, realizing, developing —",
+            "echoing this saṃyutta's own broader teaching"
+        ]),
+        ("One simile remains", [
+            "a river, unmovable in its own direction —",
+            "closing this vagga's own twelve discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.159/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.158.html\">SN 45.158 &middot; A Ship</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-45.160.html\">SN 45.160 &middot; A River</a> "
+        "&mdash; the next discourse, closing this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 45.160 — Nadīsutta (vagga close)
+# --------------------------------------------------------------------------- #
+page(
+    45, 160, "Nadī", "A River",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 45.160 — A River | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nadīsutta &mdash; the Ganges, unmovable from its own "
+        "eastward course, illustrating why a mendicant cannot be "
+        "lured back to lay life, closing the Balakaraṇīyavagga. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, with the mendicants answering two "
+                     "questions directly"),
+        ("Form", "An extended simile with its own embedded temptation "
+                 "speech, plus the source's own explicit elaboration "
+                 "instruction and colophon"),
+        ("Length", "2-3 minutes to read, plus a described (not "
+                   "translated) colophon and uddāna"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes this vagga's own twelve discourses"),
+    ],
+    why=(
+        "The Ganges river, sloping east, cannot be forced west by any "
+        "crowd with spades and baskets &mdash; illustrating why a "
+        "mendicant who has developed the path cannot be lured back to "
+        "lay life by any offer of wealth, however tempting, because "
+        "their own mind has long inclined to seclusion. This "
+        "discourse closes the vagga, carrying an explicit elaboration "
+        "instruction and a colophon this project describes honestly."
+    ),
+    guide=[
+        ("The vagga's own longest embedded temptation speech", [
+            "Uniquely in this vagga, the comparison includes a full "
+            "quoted temptation &mdash; rulers, ministers, friends, or "
+            "relatives urging the mendicant, &ldquo;why let these "
+            "ocher robes torment you? ...return to a lesser life, "
+            "enjoy wealth, and make merit!&rdquo; &mdash; before the "
+            "discourse confirms it is &ldquo;quite impossible&rdquo; "
+            "for a mendicant to yield.",
+        ]),
+        ("The vagga complete: an explicit instruction, confirmed", [
+            "The Pāli root closes with &ldquo;(Yadapi balakaraṇīyaṁ, "
+            "tadapi vitthāretabbaṁ)&rdquo; &mdash; &ldquo;what was "
+            "elaborated for &lsquo;Hard Work&rsquo; should also be "
+            "elaborated here&rdquo; &mdash; the same instruction "
+            "pattern met at the close of the preceding vagga, "
+            "confirming all twelve discourses of this vagga carry the "
+            "identical fourfold formula structure established at "
+            "SN 45.149.",
+        ]),
+        ("A colophon and uddāna, described honestly", [
+            "The closing numbering (&ldquo;Dvādasamaṁ,&rdquo; "
+            "&ldquo;the twelfth&rdquo;) confirms this vagga's own "
+            "twelve-discourse count. &ldquo;Balakaraṇīyavaggo "
+            "chaṭṭho&rdquo; (&ldquo;the Hard Work chapter, the "
+            "sixth&rdquo;) is an internal numbering note whose exact "
+            "scope this project does not confidently interpret, as "
+            "with the similar note closing the preceding vagga. The "
+            "uddāna itself is a plain list of this vagga's own twelve "
+            "discourse-topics (Hard Work, Seed, Dragon, Tree, Pot, "
+            "Spike; Sky, two Storms; Ship, Guest House, River), "
+            "described here rather than rendered as invented verse.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā",
+             "&ldquo;the Ganges river slants, slopes, and inclines to "
+             "the east&rdquo; &mdash; the same opening image met "
+             "throughout the two Gaṅgāpeyyāla vaggas, now serving a "
+             "new argument about immovability rather than direction "
+             "toward a goal"),
+        ("kuddālapiṭakaṁ ādāya", "&ldquo;with a spade and basket"
+             "&rdquo; &mdash; the futile tools of the crowd who would "
+             "try to reverse the river's own course"),
+        ("kāsāvā... muṇḍo... kapālamanusaṁcarasi", "&ldquo;these "
+             "ocher robes... shaving your head... carrying an alms "
+             "bowl&rdquo; &mdash; the temptation speech's own "
+             "dismissive description of a mendicant's own renunciant "
+             "life"),
+        ("dīgharattaṁ vivekaninnaṁ vivekapoṇaṁ vivekapabbhāraṁ",
+             "&ldquo;for a long time that mendicant's mind has "
+             "slanted, sloped, and inclined to seclusion&rdquo; "
+             "&mdash; the discourse's own explicit reason why return "
+             "to lay life is impossible"),
+        ("dvādasamaṁ", "&ldquo;the twelfth&rdquo; &mdash; the Pāli "
+             "root's own closing numeral, confirming this vagga's own "
+             "twelve-discourse count"),
+    ],
+    text_intro=("Every genuinely translated segment of the complete "
+        "discourse, closing the Balakaraṇīyavagga. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn45.160:1.1-1.20"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse's own temptation speech unusual within this vagga?",
+         "opts": ["It is the vagga's own longest embedded quoted speech, offered by rulers, ministers, friends, or relatives", "It is the shortest passage in the entire vagga", "It is spoken by the Buddha himself as a warning", "No such speech appears in this discourse"],
+         "correct": 0,
+         "expl": "A vivid, extended temptation scene not found elsewhere in this vagga's own more compact similes."},
+        {"q": "What does the closing instruction \"(Yadapi balakaraṇīyaṁ, tadapi vitthāretabbaṁ)\" confirm?",
+         "opts": ["That all twelve discourses of this vagga carry the identical fourfold formula structure established at SN 45.149", "That only this discourse carries the fourfold structure", "That the fourfold structure was abandoned after SN 45.150", "Nothing — the instruction is unrelated to formula structure"],
+         "correct": 0,
+         "expl": "The same instruction pattern confirmed at the close of the preceding vagga."},
+        {"q": "How does this reading guide handle the vagga's own internal numbering note, \"Balakaraṇīyavaggo chaṭṭho\"?",
+         "opts": ["Describes it honestly as a numbering note whose exact scope is not confidently interpreted", "Confidently explains its precise numbering scheme as established fact", "Omits any mention of it", "Invents a plausible-sounding but unverified explanation"],
+         "correct": 0,
+         "expl": "Following this project's own established honest-hedging practice, as with the similar note in the preceding vagga."},
+    ],
+    marginalia=[
+        ("A river, unmovable by any crowd", [
+            "spades and baskets cannot reverse it —",
+            "nor can wealth reverse a settled mind",
+        ]),
+        ("The longest temptation in this vagga", [
+            "\"return to a lesser life\" —",
+            "answered: quite impossible",
+        ]),
+        ("An instruction, confirming the whole vagga", [
+            "\"elaborate here as for Hard Work\" —",
+            "the fourfold structure, confirmed throughout",
+        ]),
+        ("Twelve discourses, one vagga, complete", [
+            "ethics as this vagga's own ground —",
+            "the next vagga, \"Searches,\" waits beyond it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn45.160/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-45.159.html\">SN 45.159 &middot; A Guest "
+        "House</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṁyutta Nikāya index</a> &mdash; "
+        "the next vagga, Esanāvagga (\"Searches\"), is still in "
+        "preparation.",
+    ],
+)
