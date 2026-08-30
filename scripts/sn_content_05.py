@@ -36815,3 +36815,143 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.23 — Aññindriyasutta
+# Confirms the pattern this project's own SN 48.22 offered only as
+# general background: a third distinct indriya category, the three
+# "supramundane" faculties tied to the path's own culmination.
+# --------------------------------------------------------------------------- #
+page(
+    48, 23, "Aññindriya", "The Faculty of Enlightenment",
+    vagga="Chaḷindriyavagga",
+    meta_title="SN 48.23 — The Faculty of Enlightenment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññindriyasutta — a bare list of three faculties tied "
+        "to the path's own culmination: understanding enlightenment "
+        "is imminent, enlightenment itself, and having attained it. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare list of three faculties, named without "
+                 "further elaboration, matching this vagga's own "
+                 "recurring pattern so far"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; confirms the general background "
+                         "this project's own SN 48.22 offered only "
+                         "cautiously: a third distinct indriya "
+                         "category, tied here to the path's own "
+                         "culmination rather than to physiology"),
+    ],
+    why=(
+        "This discourse names a third distinct category of "
+        "&ldquo;indriya&rdquo; &mdash; not the five spiritual "
+        "faculties, not the physiological trio of SN 48.22, but "
+        "three faculties tied to the path's own culmination: "
+        "understanding that enlightenment is imminent, enlightenment "
+        "itself, and having already attained it &mdash; directly "
+        "confirming what this project's own SN 48.22 had offered "
+        "only as cautious general background."
+    ),
+    guide=[
+        ("A third indriya category, now confirmed by this discourse itself", [
+            "Confirmed by direct reading, this discourse names the "
+            "same three &ldquo;supramundane&rdquo; faculties this "
+            "project's own SN 48.22 mentioned only as general "
+            "canonical background &mdash; here directly attested in "
+            "this discourse's own text, not merely inferred from "
+            "outside tradition.",
+        ]),
+        ("Three faculties, again bare-named", [
+            "Confirmed by direct reading, this discourse repeats the "
+            "pattern of SN 48.22: a bare list of three faculties "
+            "with no further definition, simile, or discussion "
+            "given in this discourse's own text &mdash; suggesting "
+            "this project's own reading of Chaḷindriyavagga as a "
+            "survey of DISTINCT indriya categories, each briefly "
+            "catalogued in turn, may hold for further discourses "
+            "still to be read.",
+        ]),
+        ("Faculties tied to the path's own culmination", [
+            "As general canonical background &mdash; not a claim "
+            "about elaboration given in this specific discourse's "
+            "own bare text &mdash; these three faculties are "
+            "traditionally read as marking three points relative to "
+            "full awakening: the faculty active at the path moment "
+            "itself (understanding that enlightenment is imminent), "
+            "the faculty of full enlightenment as it occurs, and the "
+            "faculty of one who already possesses it as arahant.",
+        ]),
+    ],
+    terms=[
+        ("Chaḷindriyavagga", "&ldquo;the vagga of the six "
+             "faculties&rdquo; &mdash; now confirmed, by this third "
+             "consecutive distinct category, to be a survey of "
+             "DIFFERENT indriya groupings"),
+        ("anaññātaññassāmītindriyaṁ", "&ldquo;the faculty of "
+             "understanding that enlightenment is imminent&rdquo; "
+             "&mdash; the first of the three, tied to the path "
+             "moment itself"),
+        ("aññindriyaṁ", "&ldquo;the faculty of enlightenment&rdquo; "
+             "&mdash; the second, giving this discourse its own "
+             "title"),
+        ("aññātāvindriyaṁ", "&ldquo;the faculty of one who is "
+             "enlightened&rdquo; &mdash; the third, tied to one who "
+             "has already attained"),
+        ("Tatiyaṁ", "&ldquo;the third&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's third "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.23:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three faculties does this discourse name?",
+         "opts": ["Understanding enlightenment is imminent, enlightenment itself, and having already attained it", "Femininity, masculinity, and life", "Faith, energy, and mindfulness", "Eye, ear, and mind"],
+         "correct": 0,
+         "expl": "Faculties tied to the path's own culmination, not the five spiritual or the physiological trio met earlier."},
+        {"q": "What does this discourse confirm about this project's own reading of the vagga's name?",
+         "opts": ["That Chaḷindriyavagga surveys distinct indriya categories, now confirmed by a third such category", "That the vagga name was a mistake in the source text", "That there are only two categories of indriya in total", "That this discourse belongs to a different vagga entirely"],
+         "correct": 0,
+         "expl": "What SN 48.22 offered only as background is now directly attested."},
+        {"q": "How much elaboration does this discourse give its three faculties?",
+         "opts": ["None — bare-named, matching SN 48.22's own pattern", "A full simile for each", "A comparison to the five spiritual faculties", "A narrative frame with a questioning mendicant"],
+         "correct": 0,
+         "expl": "Continuing the vagga's own recurring bare-catalogue pattern."},
+    ],
+    marginalia=[
+        ("A third category, confirmed", [
+            "not physiology, not the five spiritual —",
+            "faculties of the path's own culmination"
+        ]),
+        ("Imminent, arrived, already attained", [
+            "three points along a single arc —",
+            "named here without further comment"
+        ]),
+        ("The vagga's own pattern, repeating", [
+            "bare-listed, as the last one was —",
+            "a survey still unfolding, category by category"
+        ]),
+        ("Third discourse, Tatiyaṁ", [
+            "the closing marker, brief as the rest —",
+            "more still to come in this vagga"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.22.html\">SN 48.22 &middot; The Life "
+        "Faculty</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
