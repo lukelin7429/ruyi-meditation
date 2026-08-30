@@ -37987,3 +37987,142 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.31 — Suddhikasutta
+# Opens 4. Sukhindriyavagga ("The Pleasure Faculty") — the five
+# feeling faculties, directly confirming the general canonical
+# background this project's own SN 48.22 mentioned only cautiously:
+# a distinct indriya category alongside the spiritual, physiological,
+# supramundane, and sense faculties already met in Vagga 3.
+# --------------------------------------------------------------------------- #
+page(
+    48, 31, "Suddhika", "Plain Version",
+    vagga="Sukhindriyavagga",
+    meta_title="SN 48.31 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta, opening the Sukhindriyavagga — the five "
+        "feeling faculties: pleasure, pain, happiness, sadness, and "
+        "equanimity. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare list of five faculties, named without "
+                 "further elaboration"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; opens a new vagga with the five "
+                         "feeling faculties, directly confirming the "
+                         "general canonical background this "
+                         "project's own SN 48.22 mentioned only "
+                         "cautiously"),
+    ],
+    why=(
+        "This discourse opens Sukhindriyavagga (&ldquo;the vagga of "
+        "the pleasure faculty&rdquo;) with the five feeling "
+        "faculties &mdash; pleasure, pain, happiness, sadness, and "
+        "equanimity &mdash; directly confirming what this project's "
+        "own SN 48.22 mentioned only as general canonical background: "
+        "a distinct indriya category alongside the spiritual, "
+        "physiological, supramundane, and sense faculties already "
+        "met across this saṃyutta so far."
+    ),
+    guide=[
+        ("A new vagga, and a background note now confirmed", [
+            "Confirmed by direct reading, this discourse opens a "
+            "new vagga naming the five feeling faculties as its own "
+            "explicit subject &mdash; the same category this "
+            "project's own SN 48.22 mentioned only as general "
+            "canonical background (the &ldquo;feeling faculties&rdquo; "
+            "within the classic twenty-two indriya scheme), now "
+            "directly attested in this discourse's own text.",
+        ]),
+        ("Five faculties, split by body, mind, and neither", [
+            "Confirmed by direct reading, the five faculties named "
+            "here divide naturally: sukha (pleasure) and dukkha "
+            "(pain) as bodily feeling; somanassa (happiness) and "
+            "domanassa (sadness) as mental feeling; and upekkhā "
+            "(equanimity) as neither pleasant nor painful &mdash; "
+            "this project's own observation from the plain listing, "
+            "not a claim this discourse's own bare text elaborates "
+            "further.",
+        ]),
+        ("A recurring bare-opening pattern across this saṃyutta", [
+            "This project's own observation: this discourse's own "
+            "title, Suddhika (&ldquo;plain version&rdquo;), matches "
+            "the identical title already met opening SN 48.1 (the "
+            "start of Vagga 1) and SN 48.25 (the discourse that first "
+            "matched Chaḷindriyavagga's own name in Vagga 3) &mdash; "
+            "a recurring device this saṃyutta uses to open a new "
+            "faculty category with its own bare, unelaborated list.",
+        ]),
+    ],
+    terms=[
+        ("Sukhindriyavagga", "&ldquo;the vagga of the pleasure "
+             "faculty&rdquo; &mdash; this vagga's own new name, "
+             "naming the first of its own five faculties"),
+        ("sukhindriyaṁ, dukkhindriyaṁ", "&ldquo;the faculties of "
+             "pleasure and pain&rdquo; &mdash; the two bodily "
+             "feeling faculties"),
+        ("somanassindriyaṁ, domanassindriyaṁ", "&ldquo;the "
+             "faculties of happiness and sadness&rdquo; &mdash; the "
+             "two mental feeling faculties"),
+        ("upekkhindriyaṁ", "&ldquo;the faculty of equanimity&rdquo; "
+             "&mdash; neither pleasant nor painful, closing this "
+             "discourse's own list of five"),
+        ("Paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's first "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.31:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five faculties does this discourse name?",
+         "opts": ["Pleasure, pain, happiness, sadness, and equanimity", "Eye, ear, nose, tongue, and body", "Faith, energy, mindfulness, immersion, and wisdom", "Femininity, masculinity, life, and two others"],
+         "correct": 0,
+         "expl": "The five feeling faculties, opening this new vagga."},
+        {"q": "How does this discourse relate to this project's own SN 48.22?",
+         "opts": ["It confirms what SN 48.22 mentioned only as general background — the feeling faculties as a distinct indriya category", "It contradicts SN 48.22's own claim entirely", "It has no relationship to SN 48.22 at all", "It denies that feeling faculties exist as a category"],
+         "correct": 0,
+         "expl": "Direct textual confirmation of a category this project only cautiously mentioned before."},
+        {"q": "What title pattern does this discourse share with SN 48.1 and SN 48.25?",
+         "opts": ["\"Suddhika\"/\"Suddhaka\" (\"plain version\"), opening a new faculty category with a bare list", "A narrative frame with a questioning mendicant", "The vagga's own closing colophon and uddāna", "A comparison to the graduated \"weaker\" scale"],
+         "correct": 0,
+         "expl": "A recurring device this saṃyutta uses to open new faculty categories."},
+    ],
+    marginalia=[
+        ("A fourth category, now named outright", [
+            "no longer just background, mentioned in passing —",
+            "the feeling faculties, this vagga's own subject"
+        ]),
+        ("Body, mind, and neither", [
+            "pleasure and pain belong to the body —",
+            "happiness and sadness to the mind"
+        ]),
+        ("A familiar opening device", [
+            "Suddhika again, plain and bare —",
+            "the same pattern as 48.1 and 48.25"
+        ]),
+        ("First discourse, Paṭhamaṁ", [
+            "brief as the vagga's own earlier openings —",
+            "more of this new vagga still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.30.html\">SN 48.30 &middot; Ascetics and "
+        "Brahmins (2nd)</a> &mdash; the previous discourse, closing "
+        "Chaḷindriyavagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
