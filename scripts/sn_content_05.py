@@ -24206,3 +24206,176 @@ page_range(
         "path.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# 12. Esanāvagga — Searches (SN 46.111-120)
+# Confirmed by direct bilara-data reading: like the three preceding
+# vaggas, this entire ten-discourse vagga is stored as a SINGLE
+# merged file. It gives only the opening base-formula example (the
+# three searches: for sensual pleasures, for continued existence, and
+# for a spiritual path) before an explicit source instruction --
+# English: "(Tell in full as in SN 45.161-170)"; Pāli root:
+# "(Bojjhaṅgasaṁyuttassa esanāpeyyālaṁ vivekanissitato vitthāretabbaṁ)"
+# ("the Searches-abbreviation of the Awakening-Factors Saṃyutta is to
+# be elaborated in full, starting from 'relying on seclusion'") --
+# a more specific instruction than the two preceding vaggas' own
+# generic "by way of the awakening factors," confirmed by direct
+# reading and described honestly rather than smoothed into the same
+# wording. This directly cross-references this project's own
+# already-completed Esanāvagga from the Maggasaṃyutta (SN 45.161-170).
+# Its own Pāli name, "Esanāvagga," matches SN 45's own name exactly.
+# It is numbered "dvādasamo" (the twelfth vagga) within this
+# saṃyutta, differing from its own position as SN 45's thirteenth
+# vagga -- again a difference in each saṃyutta's own internal count,
+# not in the underlying content.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 46.111-120 — Esanādisutta, Etc.
+# --------------------------------------------------------------------------- #
+page_range(
+    46, 111, 120, "Esanādi", "Searches, Etc.",
+    vagga="Esanāvagga",
+    meta_title="SN 46.111–120 — Searches, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 46.111–120 — ten discourses on searches, defilements, "
+        "and forms of suffering, confirmed to mirror this project's "
+        "own already-completed Esanāvagga from the Maggasaṃyutta, "
+        "here applied to the seven awakening factors. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, giving one explicit example "
+                 "before an explicit cross-reference instruction"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in its own written form, but "
+                       "structurally confirmed to represent ten "
+                       "discourses"),
+    ],
+    why=(
+        "The three searches &mdash; for sensual pleasures, for "
+        "continued existence, and for a spiritual path &mdash; open "
+        "a vagga confirmed by its own closing uddāna to move through "
+        "ten distinct topics of unwholesome craving and affliction, "
+        "each said to be uprooted by developing the seven awakening "
+        "factors, the identical framework already met at SN 45.161 "
+        "in this book's own Maggasaṃyutta."
+    ),
+    guide=[
+        ("A direct cross-reference, not independent content", [
+            "Confirmed by direct reading, the source itself instructs "
+            "readers to &ldquo;tell in full as in SN 45.161&ndash;"
+            "170&rdquo; &mdash; this project's own already-completed "
+            "Esanāvagga from the Maggasaṃyutta &mdash; rather than "
+            "rewriting the full topic-by-topic content again. The "
+            "closing uddāna's own ten items (searches, kinds, "
+            "defilements, existence, three forms of suffering, "
+            "barrenness, stain, trouble, feeling, and craving/thirst) "
+            "confirm this vagga's own ten-discourse structure.",
+        ]),
+        ("A more specific elaboration instruction than the previous two vaggas", [
+            "Unlike Appamādavagga's and Balakaraṇīyavagga's own "
+            "generic instruction to elaborate &ldquo;by way of the "
+            "awakening factors,&rdquo; this vagga's own Pāli "
+            "instruction specifies elaborating &ldquo;starting from "
+            "&lsquo;relying on seclusion&rsquo;&rdquo; &mdash; a "
+            "genuine textual variation confirmed by direct reading "
+            "and reported honestly here rather than smoothed into "
+            "identical wording with its own two predecessors.",
+        ]),
+        ("The same name, a different position", [
+            "This vagga's own Pāli name, &ldquo;Esanāvagga,&rdquo; "
+            "matches SN 45's own name for this vagga exactly. Its "
+            "own colophon numbers it &ldquo;dvādasamo&rdquo; (&ldquo;"
+            "the twelfth&rdquo;) within the Bojjhaṅgasaṃyutta, "
+            "differing from its own position as SN 45's thirteenth "
+            "vagga &mdash; a difference in each saṃyutta's own "
+            "internal count, not in the underlying content.",
+        ]),
+    ],
+    terms=[
+        ("tisso esanā: kāmesanā, bhavesanā, brahmacariyesanā",
+             "&ldquo;three searches: for sensual pleasures, for "
+             "continued existence, and for a spiritual path&rdquo; "
+             "&mdash; the identical opening list already met at "
+             "SN 45.161, this book's own recurring threefold "
+             "search"),
+        ("vitthāretabbaṁ", "&ldquo;to be elaborated in full&rdquo; "
+             "&mdash; the source's own explicit cross-reference "
+             "instruction, pointing to SN 45.161-170 rather than "
+             "repeating that content"),
+        ("vivekanissitato vitthāretabbaṁ", "&ldquo;to be elaborated "
+             "in full, starting from &lsquo;relying on "
+             "seclusion&rsquo;&rdquo; &mdash; this vagga's own more "
+             "specific elaboration instruction, differing from the "
+             "generic wording used by the two preceding vaggas"),
+        ("esanāvaggo dvādasamo", "&ldquo;the Searches chapter, the "
+             "twelfth&rdquo; &mdash; confirming this vagga's own "
+             "position within this saṃyutta's own count, distinct "
+             "from (but not in conflict with) its own thirteenth "
+             "position within SN 45"),
+        ("esanā vidhā āsavo, bhavo ca dukkhatā tisso",
+             "&ldquo;search, kind, defilement, existence, and three "
+             "forms of suffering&rdquo; &mdash; the closing uddāna's "
+             "own opening line, listing the first five or so of this "
+             "vagga's own ten topics"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn46.111-120:1.1-1.3"),
+        ("p", "&sect;2", "sn46.111-120:3.1"),
+    ],
+    quiz=[
+        {"q": "What does the source itself instruct, rather than rewriting the full topic-by-topic content?",
+         "opts": ["To tell the discourse in full as in SN 45.161–170, this project's own already-completed vagga", "To skip this vagga entirely", "To invent a completely new topic unrelated to searches", "To translate the text into a different language"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed Esanāvagga from the Maggasaṃyutta."},
+        {"q": "How does this vagga's own elaboration instruction differ from the two preceding vaggas?",
+         "opts": ["It specifies elaborating \"starting from relying on seclusion,\" rather than the generic \"by way of the awakening factors\"", "It gives no elaboration instruction at all", "It is worded identically to both preceding vaggas", "It instructs the reader to skip this vagga entirely"],
+         "correct": 0,
+         "expl": "A genuine textual variation confirmed by direct reading, reported honestly rather than smoothed over."},
+        {"q": "What are the three searches that open this vagga?",
+         "opts": ["The search for sensual pleasures, for continued existence, and for a spiritual path", "The search for wealth, fame, and power", "The search for food, shelter, and companionship", "The search for wisdom, compassion, and equanimity"],
+         "correct": 0,
+         "expl": "The identical threefold search already met at SN 45.161 in this project's own Maggasaṃyutta."},
+    ],
+    marginalia=[
+        ("A direct cross-reference, not rewritten content", [
+            "\"tell in full as in SN 45.161–170\" —",
+            "this project's own earlier work, confirmed reused"
+        ]),
+        ("A different elaboration instruction, this time", [
+            "\"starting from relying on seclusion\" —",
+            "not the generic \"by way of the awakening factors\""
+        ]),
+        ("Twelfth here, thirteenth in SN 45", [
+            "the same ten topics, two different counts —",
+            "each saṃyutta numbers its own vaggas independently"
+        ]),
+        ("One more peyyāla cycle remains", [
+            "Floods still ahead, run through twice —",
+            "closing this saṃyutta's own long abbreviated stretch"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn46.111-120/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-46.99-110.html\">SN 46.99&ndash;110 &middot; "
+        "Hard Work, Etc.</a> &mdash; the previous page, closing the "
+        "preceding vagga.",
+        "<a href=\"sn-45.161.html\">SN 45.161 &middot; Searches</a> "
+        "&mdash; this project's own earlier treatment of the "
+        "identical threefold search, applied there to the eightfold "
+        "path.",
+    ],
+)
