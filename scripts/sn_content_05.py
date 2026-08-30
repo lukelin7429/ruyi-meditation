@@ -31051,3 +31051,144 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.38 — Pariññātasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 38, "Pariññāta", "Complete Understanding",
+    vagga="Ananussutavagga",
+    meta_title="SN 47.38 — Complete Understanding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pariññātasutta — a near-twin of the preceding discourse, "
+        "tracing complete understanding rather than the giving up of "
+        "desire, object by object, to the same realization of "
+        "freedom from death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical fourfold, object-by-object structure "
+                 "of the preceding discourse (SN 47.37), with "
+                 "\"completely understood\" replacing \"desire given "
+                 "up\""),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief once its structure is recognized as a "
+                       "close variant of SN 47.37"),
+    ],
+    why=(
+        "This discourse is confirmed by direct reading to be "
+        "structurally near-identical to the immediately preceding "
+        "discourse, SN 47.37 &mdash; the same fourfold, "
+        "object-by-object chain leading to freedom from death "
+        "&mdash; but with &ldquo;completely understood&rdquo; "
+        "(pariññāta) replacing &ldquo;desire given up&rdquo; "
+        "(chanda pahīyati) as the pivotal middle term, pairing "
+        "understanding and the abandonment of desire as two "
+        "distinct routes to the same realization."
+    ),
+    guide=[
+        ("A near-twin of SN 47.37, one term substituted", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure &mdash; observing an object, then a middle "
+            "term, then realizing freedom from death, repeated "
+            "separately for each of the four objects &mdash; is "
+            "IDENTICAL to SN 47.37's own structure, with only the "
+            "middle term changed from &ldquo;desire given up&rdquo; "
+            "to &ldquo;completely understood.&rdquo;",
+        ]),
+        ("Pariññā -- understanding, not merely knowing about", [
+            "The term &ldquo;pariññāta&rdquo; (&ldquo;completely "
+            "understood&rdquo;) is confirmed by direct reading to "
+            "carry a stronger sense than ordinary knowledge in this "
+            "context &mdash; a thorough, exhaustive understanding of "
+            "an object's own true nature, traditionally distinguished "
+            "in the commentarial literature from merely knowing facts "
+            "about it.",
+        ]),
+        ("Two routes, honestly distinct, to the same destination", [
+            "This project's own honest comparison of this discourse "
+            "with SN 47.37 confirms the texts present understanding "
+            "and the giving up of desire as TWO SEPARATE routes, each "
+            "sufficient on its own, to the identical outcome of "
+            "freedom from death &mdash; rather than treating them as "
+            "the same process under two different names.",
+        ]),
+    ],
+    terms=[
+        ("pariññāta", "&ldquo;completely understood&rdquo; &mdash; "
+             "this discourse's own pivotal term, replacing SN "
+             "47.37's own &ldquo;desire given up&rdquo;"),
+        ("pariññā", "&ldquo;complete understanding&rdquo; &mdash; a "
+             "thorough, exhaustive understanding of an object's own "
+             "true nature, traditionally distinguished from merely "
+             "knowing facts about it"),
+        ("kāyassa pariññātattā amataṁ sacchikataṁ hoti", "&ldquo;from "
+             "the body being completely understood, freedom from "
+             "death is realized&rdquo; &mdash; the pattern repeated "
+             "with the appropriate object substituted in each of the "
+             "four sections"),
+        ("amataṁ sacchikataṁ hoti", "&ldquo;freedom from death is "
+             "realized&rdquo; &mdash; the identical outcome shared "
+             "with SN 47.37, reached here through understanding "
+             "rather than through giving up desire"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the practice "
+             "through which each object comes to be completely "
+             "understood"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; the body", "sn47.38:1.1-1.5"),
+        ("p", "&sect;2 &mdash; feelings", "sn47.38:2.1-2.3"),
+        ("p", "&sect;3 &mdash; the mind", "sn47.38:3.1-3.3"),
+        ("p", "&sect;4 &mdash; principles", "sn47.38:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure relate to SN 47.37's own structure?",
+         "opts": ["Structurally near-identical, with \"completely understood\" replacing \"desire given up\"", "Entirely unrelated, sharing no structural features", "The reverse order, working backward from principles to the body", "A summary of SN 47.37 stated in a single sentence"],
+         "correct": 0,
+         "expl": "Pairing understanding and the abandonment of desire as two distinct routes to the same realization."},
+        {"q": "What does \"pariññā\" (complete understanding) mean in this context?",
+         "opts": ["A thorough, exhaustive understanding of an object's own true nature, not merely knowing facts about it", "Memorizing a list of doctrinal terms", "Understanding gained only from a teacher's direct verbal instruction", "A brief, superficial familiarity with a topic"],
+         "correct": 0,
+         "expl": "Traditionally distinguished in the commentarial literature from merely knowing facts about something."},
+        {"q": "How does this discourse's own outcome compare to SN 47.37's own outcome?",
+         "opts": ["The identical outcome, freedom from death, reached through a different route (understanding rather than giving up desire)", "A lesser outcome, falling short of what SN 47.37 describes", "An entirely different and unrelated outcome", "Freedom from death only for advanced practitioners, unlike SN 47.37"],
+         "correct": 0,
+         "expl": "Understanding and giving up desire presented as two separate, sufficient routes to the same destination."},
+    ],
+    marginalia=[
+        ("A near-twin of the discourse before it", [
+            "the identical fourfold, object-by-object chain —",
+            "\"understood\" replacing \"desire given up\""
+        ]),
+        ("Pariññā — thorough, not superficial", [
+            "understanding an object's own true nature —",
+            "not merely knowing facts about it"
+        ]),
+        ("Two routes, one destination", [
+            "understanding, or giving up desire —",
+            "each sufficient, both reaching the deathless"
+        ]),
+        ("Eighth discourse, Aṭṭhamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "twelve more individual discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.37.html\">SN 47.37 &middot; Desire</a> "
+        "&mdash; the previous discourse, sharing this discourse's "
+        "own structure.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
