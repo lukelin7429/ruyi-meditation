@@ -27929,3 +27929,150 @@ page(
         "discourse omits.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.16 — Uttiyasutta
+# Confirmed by direct reading: this discourse follows the identical
+# request-teaching-attainment shape as SN 47.15 (Bāhiyasutta), with
+# one genuine, honestly-reported textual variant: its own closing
+# line promises not "growth, not decline, in skillful qualities"
+# (SN 47.3's and SN 47.15's own wording) but "you'll cross beyond
+# Death's dominion" (gamissasi maccudheyyassa pāraṁ) -- a distinct
+# outcome-phrase, not a copying error.
+# --------------------------------------------------------------------------- #
+page(
+    47, 16, "Uttiya", "With Uttiya",
+    vagga="Nāḷandavagga",
+    meta_title="SN 47.16 — With Uttiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uttiyasutta — Venerable Uttiya receives the same "
+        "teaching already met at SN 47.15, but with a distinct "
+        "closing promise: crossing beyond Death's own dominion, "
+        "rather than the growth in skillful qualities promised "
+        "elsewhere. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Uttiya"),
+        ("Form", "A request, an immediate teaching, and a swift "
+                 "attainment"),
+        ("Length", "1-2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, closely paralleling "
+                       "SN 47.15"),
+    ],
+    why=(
+        "Uttiya's own request and the Buddha's own teaching &mdash; "
+        "ethics and correct view as the starting point, grounding the "
+        "four kinds of mindfulness meditation &mdash; are confirmed "
+        "by direct comparison to be worded identically to SN 47.15's "
+        "own version. But this discourse's own closing promise is "
+        "genuinely distinct: not growth in skillful qualities, but "
+        "crossing beyond &ldquo;Death's own dominion.&rdquo;"
+    ),
+    guide=[
+        ("An identical request and teaching, confirmed by direct comparison", [
+            "Uttiya's own request for a brief teaching and the "
+            "Buddha's own reply &mdash; ethics and correct view as "
+            "&ldquo;the starting point of skillful qualities,&rdquo; "
+            "with the four kinds of mindfulness meditation grounded "
+            "on that basis &mdash; are confirmed by direct comparison "
+            "to be worded identically to SN 47.15's own version, down "
+            "to the plain fourfold formula without any "
+            "internal/external dimension.",
+        ]),
+        ("A genuinely distinct closing promise", [
+            "Where SN 47.3 and SN 47.15 both close with "
+            "&ldquo;growth, not decline, in skillful qualities,&rdquo; "
+            "this discourse's own closing line is confirmed by direct "
+            "reading to promise something different: &ldquo;you'll "
+            "cross beyond Death's dominion&rdquo; (gamissasi "
+            "maccudheyyassa pāraṁ) &mdash; a distinct outcome-phrase, "
+            "reported here as a genuine variant rather than "
+            "harmonized with the other two discourses' own wording.",
+        ]),
+        ("The identical swift attainment narrative", [
+            "Uttiya's own path to arahantship &mdash; living "
+            "&ldquo;alone, withdrawn, diligent, keen, and "
+            "resolute,&rdquo; then swiftly realizing the goal &mdash; "
+            "is confirmed by direct comparison to close this "
+            "discourse in the identical wording already met at "
+            "SN 47.3 and SN 47.15.",
+        ]),
+    ],
+    terms=[
+        ("ādimeva visodhehi kusalesu dhammesu", "&ldquo;you should "
+             "purify the starting point of skillful qualities&rdquo; "
+             "&mdash; worded identically to SN 47.15's own teaching"),
+        ("sīlañca suvisuddhaṁ, diṭṭhi ca ujukā", "&ldquo;well "
+             "purified ethics and correct view&rdquo; &mdash; the "
+             "shared starting point"),
+        ("gamissasi maccudheyyassa pāraṁ", "&ldquo;you'll cross "
+             "beyond Death's dominion&rdquo; &mdash; this discourse's "
+             "own genuinely distinct closing promise, differing from "
+             "SN 47.3's and SN 47.15's own &ldquo;growth, not "
+             "decline&rdquo; wording"),
+        ("maccudheyya", "&ldquo;Death's dominion&rdquo; &mdash; the "
+             "realm the practice is said to cross beyond"),
+        ("aññataro ca pana āyasmā uttiyo arahataṁ ahosi", "&ldquo;"
+             "Venerable Uttiya became one of the perfected&rdquo; "
+             "&mdash; the discourse's own closing confirmation, worded "
+             "identically to SN 47.3's and SN 47.15's own equivalent "
+             "lines"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; Uttiya's own request and its answer",
+             "sn47.16:1.1-1.7"),
+        ("p", "&sect;2 &mdash; the fourfold formula, and crossing "
+              "beyond Death's dominion", "sn47.16:2.1-2.6"),
+        ("p", "&sect;3 &mdash; departure and attainment",
+             "sn47.16:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own teaching compare to SN 47.15's own version?",
+         "opts": ["Worded identically — ethics and correct view as the starting point, grounding the plain fourfold mindfulness formula", "It adds an entirely new fifth mindfulness object", "It removes ethics as a prerequisite", "It is a completely unrelated teaching"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the request and teaching match SN 47.15's own wording exactly."},
+        {"q": "What genuinely distinct promise closes this discourse's own teaching, unlike SN 47.3 and SN 47.15?",
+         "opts": ["\"You'll cross beyond Death's dominion,\" rather than \"growth, not decline, in skillful qualities\"", "A promise of material wealth", "A promise of physical immortality in this very body", "No closing promise at all"],
+         "correct": 0,
+         "expl": "A genuine textual variant, reported honestly rather than harmonized with the other discourses' own wording."},
+        {"q": "What happens to Uttiya after taking up this practice?",
+         "opts": ["He swiftly realizes the supreme end of the spiritual path and becomes one of the perfected", "He returns to lay life disappointed", "He asks the Buddha for a different teaching", "The discourse does not describe any outcome"],
+         "correct": 0,
+         "expl": "Worded identically to SN 47.3's and SN 47.15's own closing attainment narratives."},
+    ],
+    marginalia=[
+        ("The same request, the same teaching", [
+            "ethics and correct view as the starting point —",
+            "identical wording to SN 47.15's own version"
+        ]),
+        ("A different closing promise this time", [
+            "\"cross beyond Death's dominion\" —",
+            "not \"growth, not decline,\" but a genuine variant"
+        ]),
+        ("The same swift path to arahantship", [
+            "\"alone, withdrawn, diligent, keen, resolute\" —",
+            "a third mendicant, the identical outcome"
+        ]),
+        ("A pattern of small variations within a shared shape", [
+            "SN 47.3, 47.15, and now 47.16 —",
+            "each checked on its own, never assumed identical"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.15.html\">SN 47.15 &middot; With Bāhiya</a> "
+        "&mdash; the previous discourse, sharing this discourse's own "
+        "request and teaching almost word for word.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
