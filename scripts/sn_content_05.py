@@ -29091,3 +29091,127 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.24 — Suddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 24, "Suddha", "Plain Version",
+    vagga="Sīlaṭṭhitivagga",
+    meta_title="SN 47.24 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhasutta — the bare fourfold mindfulness formula "
+        "given without narrative frame, purpose-clause, or "
+        "elaboration, serving as this saṃyutta's own plainest "
+        "possible statement of the practice itself. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The bare fourfold formula, with no purpose-clause, "
+                 "narrative, or elaboration of any kind"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the plainest possible statement of the "
+                       "fourfold practice"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own Pāli name "
+        "&mdash; &ldquo;Suddhasutta,&rdquo; &ldquo;the plain "
+        "discourse&rdquo; &mdash; describes exactly what it gives: "
+        "the four kinds of mindfulness meditation, named and defined, "
+        "with no purpose-clause (unlike SN 47.1's own &ldquo;path to "
+        "convergence&rdquo; formula), no narrative frame, and no "
+        "further elaboration of any kind."
+    ),
+    guide=[
+        ("The bare formula, stripped of every addition met elsewhere", [
+            "Confirmed by direct comparison, this discourse gives "
+            "only what every other discourse in this saṃyutta "
+            "ASSUMES: the plain naming of the four objects "
+            "(body, feelings, mind, principles) and the shared method "
+            "applied to each, without any of the purpose-clauses, "
+            "similes, narrative settings, or elaborations found "
+            "throughout the rest of this saṃyutta's own individual "
+            "discourses.",
+        ]),
+        ("A name that describes its own content directly", [
+            "Unlike most discourses in this project's own broader "
+            "collection, whose names refer to a person, place, or "
+            "image within the text, this discourse's own name "
+            "&mdash; &ldquo;the plain version&rdquo; &mdash; is "
+            "confirmed by direct reading to describe the text's own "
+            "FORM rather than any of its content, marking it as a "
+            "kind of reference baseline within this vagga.",
+        ]),
+    ],
+    terms=[
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; named here "
+             "without any purpose-clause or elaboration"),
+        ("kāye kāyānupassī viharati... dhammesu dhammānupassī "
+             "viharati", "the plain fourfold formula, given in its "
+             "own bare, unelaborated form"),
+        ("ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ",
+             "&ldquo;keen, aware, and mindful, rid of covetousness "
+             "and displeasure for the world&rdquo; &mdash; the shared "
+             "method, without further specification"),
+        ("suddha", "&ldquo;plain, pure&rdquo; &mdash; this "
+             "discourse's own name, describing its own bare form "
+             "rather than any content within it"),
+        ("ime kho, bhikkhave, cattāro satipaṭṭhānā", "&ldquo;these "
+             "are the four kinds of mindfulness meditation&rdquo; "
+             "&mdash; the discourse's own closing line, restating the "
+             "formula without addition"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn47.24:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own Pāli name, \"Suddhasutta\" (\"the plain discourse\"), describe?",
+         "opts": ["The text's own bare, unelaborated form, not any specific content within it", "A person named Suddha who appears in the discourse", "A place called Suddha where the discourse was given", "A purification ritual"],
+         "correct": 0,
+         "expl": "Unlike most discourse names, which refer to a person, place, or image, this one names the text's own plainness."},
+        {"q": "What does this discourse omit that most other discourses in this saṃyutta include?",
+         "opts": ["Any purpose-clause, simile, narrative setting, or elaboration of the fourfold formula", "The four objects of mindfulness themselves", "The word \"mindfulness\" entirely", "Any mention of the Buddha"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — this discourse gives only what other discourses assume as their shared foundation."},
+        {"q": "How does this discourse function within its own vagga?",
+         "opts": ["As a kind of reference baseline, stating the fourfold practice in its plainest possible form", "As the most elaborate discourse in the entire saṃyutta", "As a direct contradiction of the fourfold formula", "As an introduction to an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "Its own bare form marks it as a plain statement against which other, more elaborated discourses can be compared."},
+    ],
+    marginalia=[
+        ("A name that describes its own form", [
+            "\"the plain discourse\" — not a person or place —",
+            "naming its own bareness directly"
+        ]),
+        ("Every addition, stripped away", [
+            "no purpose-clause, no simile, no narrative —",
+            "just the formula every other discourse assumes"
+        ]),
+        ("A reference baseline within this vagga", [
+            "the plainest possible statement of the practice —",
+            "against which elaborated versions can be compared"
+        ]),
+        ("Four objects, one shared method", [
+            "body, feelings, mind, and principles —",
+            "keen, aware, mindful, nothing more added"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.23.html\">SN 47.23 &middot; Decline</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
