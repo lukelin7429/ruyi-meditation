@@ -34283,3 +34283,134 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.5 — Dutiyaarahantasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 5, "Dutiyaarahanta", "A Perfected One (2nd)",
+    vagga="Suddhikavagga",
+    meta_title="SN 48.5 — A Perfected One (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaarahantasutta — confirming the predicted companion "
+        "to SN 48.4, expanding to the fivefold lens exactly as the "
+        "stream-enterer pair (SN 48.2-3) did. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The five faculties restated, then a single "
+                 "condition defining the arahant, expanded from SN "
+                 "48.4's own threefold lens to a fivefold one"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "confirms this vagga's own now-established "
+                       "pairing pattern for the fourth time"),
+    ],
+    why=(
+        "This discourse confirms, by direct reading, exactly what "
+        "SN 48.4's own &ldquo;(1st)&rdquo; title predicted &mdash; "
+        "and it mirrors the stream-enterer pair (SN 48.2-3) exactly: "
+        "the same expansion from a threefold lens (gratification, "
+        "drawback, escape) to a fivefold one (adding origin and "
+        "disappearance), here applied to arahantship rather than "
+        "stream-entry, closing with the identical full arahant "
+        "formula already met at SN 48.4."
+    ),
+    guide=[
+        ("The predicted companion, confirmed a second time", [
+            "Confirmed by direct reading, this discourse's own "
+            "title, &ldquo;Dutiyaarahantasutta&rdquo; (&ldquo;A "
+            "Perfected One, Second Version&rdquo;), is exactly the "
+            "companion SN 48.4's own title predicted &mdash; this "
+            "project's own pattern-recognition, first confirmed at "
+            "the stream-enterer pair (SN 48.2-3), now holds a second "
+            "time running.",
+        ]),
+        ("The identical expansion, mirroring the stream-enterer pair exactly", [
+            "This project's own direct comparison confirms the "
+            "EXACT same structural move already seen once: origin "
+            "(samudaya) and disappearance (atthaṅgama) are added "
+            "before the same gratification, drawback, and escape "
+            "already met at SN 48.4, producing a fivefold lens "
+            "applied this time to arahantship rather than "
+            "stream-entry.",
+        ]),
+        ("A vagga's own emerging structure, confirmed rather than assumed", [
+            "Confirmed by direct reading across five discourses now, "
+            "this vagga's own opening pattern is: a plain statement "
+            "(SN 48.1), then two pairs, each pair moving from a "
+            "threefold to a fivefold lens, applied first to "
+            "stream-entry (SN 48.2-3) and then to arahantship (SN "
+            "48.4-5) &mdash; this project will confirm, not assume, "
+            "whether this pairing structure continues further.",
+        ]),
+    ],
+    terms=[
+        ("samudaya", "&ldquo;origin, arising&rdquo; &mdash; the "
+             "first additional angle, identical in wording to SN "
+             "48.3's own use of the same term for stream-entry"),
+        ("atthaṅgama", "&ldquo;disappearance, ending&rdquo; &mdash; "
+             "the second additional angle, paired with origin"),
+        ("anupādāvimutto", "&ldquo;freed by not grasping&rdquo; "
+             "&mdash; the same condition already met at SN 48.4, "
+             "unaffected by the expanded fivefold lens"),
+        ("arahaṁ khīṇāsavo... sammadaññāvimutto", "the identical "
+             "seven-part arahant formula already met in full at SN "
+             "48.4"),
+        ("Pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own closing numeral, confirming its "
+             "position in the vagga's own sequence"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.5:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about SN 48.4's own \"(1st)\" title?",
+         "opts": ["It correctly predicted this exact companion discourse, confirming the pattern already seen once at SN 48.2-3", "The prediction was mistaken this time", "This discourse belongs to an entirely different vagga", "No relationship exists between the two discourses"],
+         "correct": 0,
+         "expl": "This project's own pattern-recognition holds a second time running."},
+        {"q": "How does this discourse's own expansion compare to the stream-enterer pair (SN 48.2-3)?",
+         "opts": ["The exact same structural move — origin and disappearance added to the existing threefold lens", "A completely different kind of expansion", "No expansion at all; the lens stays threefold", "A reduction rather than an expansion"],
+         "correct": 0,
+         "expl": "The identical move, here applied to arahantship instead of stream-entry."},
+        {"q": "What pattern has this project confirmed across the vagga's own first five discourses?",
+         "opts": ["A plain statement, then two pairs each moving from threefold to fivefold, applied to stream-entry then arahantship", "Five entirely unrelated, independent discourses", "A single formula repeated identically five times", "A pattern this project has not yet examined"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading across all five discourses so far, not assumed in advance."},
+    ],
+    marginalia=[
+        ("The pattern holds a second time", [
+            "\"(1st)\" predicted, \"(2nd)\" confirms it —",
+            "exactly as with the stream-enterer pair"
+        ]),
+        ("Origin, disappearance — the same expansion", [
+            "identical to SN 48.3's own move —",
+            "here applied to arahantship instead"
+        ]),
+        ("This vagga's own emerging shape", [
+            "plain statement, then two matched pairs —",
+            "confirmed, not assumed, discourse by discourse"
+        ]),
+        ("Fifth discourse, Pañcamaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.4.html\">SN 48.4 &middot; A Perfected One "
+        "(1st)</a> &mdash; the previous discourse, whose own title "
+        "predicted this companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
