@@ -35553,3 +35553,135 @@ page(
         "in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 48.14 — Tatiyasaṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, 14, "Tatiyasaṅkhitta", "In Brief (3rd)",
+    vagga="Mudutaravagga",
+    meta_title="SN 48.14 — In Brief (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyasaṅkhittasutta — the same six-level scale a third "
+        "time, now closing with an encouraging assurance: partial "
+        "practice succeeds partially, full practice succeeds fully, "
+        "but the five faculties are never wasted effort. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 48.12's own six-level scale repeated a third "
+                 "time, closing with a different generalization than "
+                 "either SN 48.12 or SN 48.13"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, completing a three-discourse set with "
+                       "SN 48.12 and 48.13"),
+    ],
+    why=(
+        "This discourse completes a three-part set with SN 48.12 and "
+        "SN 48.13: all three repeat the identical six-level scale of "
+        "attainment, but each closes with a DIFFERENT generalization "
+        "&mdash; SN 48.12 with none at all, SN 48.13 with the "
+        "disparity-of-faculties causal chain, and THIS discourse "
+        "with an encouraging assurance: partial practice succeeds "
+        "partially, full practice succeeds fully, but the five "
+        "faculties are never barren effort, whatever the degree."
+    ),
+    guide=[
+        ("The same scale, a third time, a third closing", [
+            "Confirmed by direct reading, this discourse repeats "
+            "the identical six-level scale already met at SN 48.12 "
+            "and SN 48.13 &mdash; but its own closing generalization "
+            "differs from both: neither absent (as at SN 48.12) nor "
+            "the disparity-chain (as at SN 48.13), but a new "
+            "statement about partial and full practice.",
+        ]),
+        ("Partial practice, partial success -- proportionality, not futility", [
+            "The discourse's own phrase &ldquo;paripūraṁ "
+            "paripūrakārī ārādheti, padesaṁ padesakārī ārādheti"
+            "&rdquo; (&ldquo;one who practices fully succeeds fully, "
+            "one who practices partially succeeds partially&rdquo;) "
+            "is confirmed by direct reading to state a PROPORTIONAL "
+            "relationship between effort and result, not an "
+            "all-or-nothing one.",
+        ]),
+        ("\"Not barren\" -- an explicit assurance against futility", [
+            "Confirmed by direct reading, the discourse's own final "
+            "line &mdash; &ldquo;avañjhāni... pañcindriyāni&rdquo; "
+            "(&ldquo;these five faculties are not barren&rdquo;) "
+            "&mdash; is stated as the Buddha's own direct assurance "
+            "(&ldquo;I say&rdquo;), explicitly ruling out the "
+            "possibility that partial effort at the five faculties "
+            "could be wasted or fruitless.",
+        ]),
+    ],
+    terms=[
+        ("paripūraṁ paripūrakārī", "&ldquo;one who practices "
+             "fully&rdquo; &mdash; the first half of this "
+             "discourse's own proportionality statement"),
+        ("padesaṁ padesakārī", "&ldquo;one who practices "
+             "partially&rdquo; &mdash; the second half, paired with "
+             "full practice"),
+        ("ārādheti", "&ldquo;succeeds, achieves&rdquo; &mdash; the "
+             "shared verb applied to both full and partial practice "
+             "alike"),
+        ("avañjha", "&ldquo;not barren, not futile&rdquo; &mdash; "
+             "this discourse's own closing assurance about the five "
+             "faculties, stated directly by the Buddha"),
+        ("vadāmi", "&ldquo;I say&rdquo; &mdash; marking the "
+             "discourse's own closing line as the Buddha's own "
+             "direct personal assurance"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn48.14:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own closing generalization compare to SN 48.12 and SN 48.13?",
+         "opts": ["A third, different generalization — neither absent (SN 48.12) nor the disparity chain (SN 48.13)", "Identical to SN 48.13's own disparity-of-faculties chain", "Identical to SN 48.12, with no closing generalization at all", "This discourse shares no content at all with SN 48.12 or SN 48.13"],
+         "correct": 0,
+         "expl": "Completing a three-part set, each with its own distinct closing statement."},
+        {"q": "What relationship does the phrase \"one who practices fully succeeds fully, one who practices partially succeeds partially\" state?",
+         "opts": ["A proportional relationship between effort and result, not all-or-nothing", "That only full practice ever produces any result at all", "That partial practice always fails completely", "That the amount of practice makes no difference to the result"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading to be proportional, not an all-or-nothing claim."},
+        {"q": "What does the discourse's own closing assurance, \"these five faculties are not barren,\" rule out?",
+         "opts": ["The possibility that partial effort at the five faculties could be wasted or fruitless", "The possibility of ever reaching full arahantship", "The existence of the five faculties themselves", "The validity of the six-level scale named earlier"],
+         "correct": 0,
+         "expl": "Stated as the Buddha's own direct assurance, explicitly ruling out futility."},
+    ],
+    marginalia=[
+        ("The same scale, a third closing", [
+            "48.12 bare, 48.13 the disparity chain —",
+            "this one, a proportionality statement"
+        ]),
+        ("Partial effort, partial success", [
+            "not all-or-nothing — proportional —",
+            "full practice yields full success"
+        ]),
+        ("\"Not barren\" — an explicit assurance", [
+            "the Buddha's own direct \"I say\" —",
+            "ruling out futility, whatever the degree"
+        ]),
+        ("Fourth discourse, Catutthaṁ", [
+            "closing marker confirms this vagga's own sequence —",
+            "many more discourses still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn48.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-48.13.html\">SN 48.13 &middot; In Brief "
+        "(2nd)</a> &mdash; the previous discourse, sharing this "
+        "discourse's own six-level scale.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Indriyasaṃyutta's own following discourses are still "
+        "in preparation.",
+    ],
+)
