@@ -26472,3 +26472,153 @@ page(
         "still in preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 47.7 — Makkaṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, 7, "Makkaṭa", "A Monkey",
+    vagga="Ambapālivagga",
+    meta_title="SN 47.7 — A Monkey | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Makkaṭasutta — a foolish monkey, trapped at five points "
+        "by a hunter's tar snare after wandering into human "
+        "territory, illustrates the danger of straying from a "
+        "mendicant's own proper ground, closing with the identical "
+        "application already met at SN 47.6. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not specified in the source"),
+        ("Speakers", "The Buddha, telling a fable to the mendicants"),
+        ("Form", "A complete animal fable, followed by the same "
+                 "doctrinal application as SN 47.6"),
+        ("Length", "2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid fable, structurally paired with the "
+                       "previous discourse"),
+    ],
+    why=(
+        "A foolish, reckless monkey, straying into the shared "
+        "territory where hunters set tar snares, grabs the tar with "
+        "one hand to free himself, then another hand, then each "
+        "foot, then his snout &mdash; becoming stuck at all five "
+        "points and falling prey to the hunter. The Buddha applies "
+        "this fable with the identical closing teaching already met "
+        "at SN 47.6: the five kinds of sensual stimulation are "
+        "&ldquo;the domain of others,&rdquo; while the four kinds of "
+        "mindfulness meditation are a mendicant's own territory."
+    ),
+    guide=[
+        ("Three kinds of terrain, only one shared", [
+            "The discourse's own opening confirms three distinct "
+            "kinds of Himalayan terrain: regions neither monkeys nor "
+            "humans can reach, regions monkeys alone can reach, and "
+            "level, pleasant places BOTH can reach &mdash; it is only "
+            "in this last, shared territory that hunters set their "
+            "snares, confirming the danger arises specifically where "
+            "the monkey's own domain overlaps with human territory.",
+        ]),
+        ("Struggling at five points, not just one", [
+            "Confirmed by direct reading, the monkey's own escalating "
+            "struggle &mdash; freeing one hand only by grabbing with "
+            "another, then a foot, then the other foot, then his own "
+            "snout &mdash; ends with him &ldquo;trapped at five "
+            "points,&rdquo; a specific and vivid image of "
+            "compounding entanglement rather than a single act of "
+            "carelessness.",
+        ]),
+        ("The identical closing application as SN 47.6", [
+            "This discourse's own closing sections (&sect;3-4) are "
+            "confirmed by direct comparison to be worded almost "
+            "identically to SN 47.6's own equivalent closing "
+            "sections &mdash; the same five kinds of sensual "
+            "stimulation named &ldquo;the domain of others,&rdquo; "
+            "and the same four kinds of mindfulness meditation named "
+            "a mendicant's own territory &mdash; confirming this "
+            "saṃyutta's own use of a shared closing template across "
+            "multiple animal-fable discourses.",
+        ]),
+    ],
+    terms=[
+        ("himavato pabbatarājassa", "&ldquo;the Himalayas, king of "
+             "mountains&rdquo; &mdash; the setting for this "
+             "discourse's own fable"),
+        ("bālajātiko lolajātiko", "&ldquo;foolish and reckless&rdquo; "
+             "&mdash; the discourse's own description of the one "
+             "monkey who approaches the tar, contrasted with the "
+             "&ldquo;not foolhardy and reckless&rdquo; monkeys who "
+             "avoid it"),
+        ("pañcoḍḍito", "&ldquo;trapped at five points&rdquo; "
+             "&mdash; the monkey's own final, fully entangled state, "
+             "after each attempt to free himself only adds another "
+             "point of capture"),
+        ("agocare carati paravisaye", "&ldquo;roams out of his own "
+             "territory into the domain of others&rdquo; &mdash; the "
+             "shared closing formula, worded identically to SN 47.6's "
+             "own equivalent line"),
+        ("pañca kāmaguṇā... cattāro satipaṭṭhānā", "&ldquo;the five "
+             "kinds of sensual stimulation... the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the identical "
+             "pairing of &ldquo;domain of others&rdquo; and "
+             "&ldquo;own territory&rdquo; already met at SN 47.6"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &mdash; three kinds of terrain",
+             "sn47.7:1.1-1.4"),
+        ("p", "&sect;2 &mdash; the monkey trapped at five points",
+             "sn47.7:2.1-2.14"),
+        ("p", "&sect;3 &mdash; \"the domain of others\": the five "
+              "kinds of sensual stimulation", "sn47.7:3.1-3.12"),
+        ("p", "&sect;4 &mdash; \"a mendicant's own territory\": the "
+              "four kinds of mindfulness meditation",
+             "sn47.7:4.1-4.11"),
+    ],
+    quiz=[
+        {"q": "In this discourse's own opening, where specifically do hunters set their tar snares?",
+         "opts": ["Only in the level, pleasant terrain that both monkeys and humans can reach — the shared territory", "In terrain only monkeys can reach", "In terrain neither monkeys nor humans can reach", "Throughout the entire Himalayan range equally"],
+         "correct": 0,
+         "expl": "Confirming the danger arises specifically where the monkey's own domain overlaps with human territory."},
+        {"q": "How does the monkey's struggle escalate in this discourse's own fable?",
+         "opts": ["Each attempt to free one trapped limb with another limb only adds another point of capture, ending trapped at five points", "He frees himself easily on the first attempt", "Other monkeys come to rescue him", "He escapes by chewing through the tar"],
+         "correct": 0,
+         "expl": "A vivid image of compounding entanglement rather than a single act of carelessness."},
+        {"q": "How does this discourse's own closing application compare to SN 47.6's own equivalent section?",
+         "opts": ["Worded almost identically — the same five kinds of sensual stimulation as \"the domain of others,\" the same four kinds of mindfulness meditation as one's own territory", "Completely different, with no shared vocabulary at all", "This discourse gives no closing application", "SN 47.6 has no equivalent closing section"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — this saṃyutta reuses a shared closing template across multiple animal-fable discourses."},
+    ],
+    marginalia=[
+        ("Shared ground, hidden danger", [
+            "snares set only where both species tread —",
+            "the overlap itself is the risk"
+        ]),
+        ("One trapped limb begets another", [
+            "hand, then hand, then foot, then foot, then snout —",
+            "five points caught, each attempt making it worse"
+        ]),
+        ("The same closing lesson as before", [
+            "sensual stimulation as \"the domain of others\" —",
+            "mindfulness as one's own proper ground, again"
+        ]),
+        ("A shared template across fables", [
+            "SN 47.6's hawk, now this discourse's monkey —",
+            "two animals, one closing teaching"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn47.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-47.6.html\">SN 47.6 &middot; A Hawk</a> "
+        "&mdash; the previous discourse, sharing this discourse's "
+        "own closing application almost word for word.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Satipaṭṭhānasaṃyutta's own following discourses are "
+        "still in preparation.",
+    ],
+)
