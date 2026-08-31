@@ -57528,3 +57528,400 @@ page(
         "opening page.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.3 — Suddhikasutta ("Plain Version")
+# Confirmed by direct reading: carries no independent content of its
+# own, only the identical sixteen-step formula already given in full
+# at SN 54.1, here compressed via "…pe…" between the opening frame
+# and the formula's own final step -- a bare restatement, confirmed
+# by its own title ("Suddhika," "plain" or "unadorned") to mark it
+# as the formula's own standalone recitation, without the added
+# framework (satipaṭṭhāna, bojjhaṅga) SN 54.1 and SN 54.2 each
+# supplied.
+# --------------------------------------------------------------------------- #
+page(
+    54, 3, "Suddhika", "Plain Version",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.3 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; the sixteen-step breathing "
+        "formula restated on its own, without an added doctrinal "
+        "framework. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 54.1)"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The sixteen-step formula compressed via "
+                 "&ldquo;…pe…&rdquo;, referring back to SN 54.1's "
+                 "own full statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, confirmed by direct "
+                         "comparison to restate SN 54.1's own "
+                         "formula without an added framework"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own title "
+        "(&ldquo;Suddhika,&rdquo; &ldquo;plain&rdquo; or &ldquo;"
+        "unadorned&rdquo;) marks it as the sixteen-step breathing "
+        "formula's own standalone statement &mdash; the identical "
+        "content already given in full at SN 54.1, here compressed "
+        "via &ldquo;…pe…&rdquo;, but without SN 54.1's own frame or "
+        "SN 54.2's own added mapping onto the seven awakening "
+        "factors."
+    ),
+    guide=[
+        ("A plain restatement, confirmed by direct comparison", [
+            "Confirmed by direct comparison to SN 54.1, this "
+            "discourse's own text is identical in substance: the "
+            "same opening frame (wilderness, tree-root, or empty "
+            "hut; sitting cross-legged; mindfulness established), "
+            "the same closing step (observing letting go), and, by "
+            "clear implication of the &ldquo;…pe…&rdquo; elision, "
+            "the same complete sixteen steps in between.",
+        ]),
+        ("Why a plain version follows a framework-mapped one", [
+            "This project's own observation: following SN 54.2's "
+            "own explicit mapping onto the seven awakening factors, "
+            "this discourse's own title suggests a deliberate return "
+            "to the bare formula itself &mdash; confirming the "
+            "practice's own basic recitation stands independently of "
+            "any doctrinal framework layered onto it.",
+        ]),
+    ],
+    terms=[
+        ("suddhika", "&ldquo;plain, unadorned&rdquo; &mdash; this "
+             "discourse's own title, marking it as the bare formula "
+             "without an added framework"),
+        ("araññagato vā rukkhamūlagato vā suññāgāragato vā",
+             "&ldquo;gone to a wilderness, or to the root of a "
+             "tree, or to an empty hut&rdquo; &mdash; the formula's "
+             "own opening setting, identical to SN 54.1's own"),
+        ("satova assasati, satova passasati", "&ldquo;mindful, they "
+             "breathe in; mindful, they breathe out&rdquo; &mdash; "
+             "the formula's own core instruction, here immediately "
+             "followed by the compressing ellipsis"),
+        ("…pe…", "the elision marking, standing in for the complete "
+             "sixteen steps already given in full at SN 54.1"),
+        ("paṭinissaggānupassī", "&ldquo;observing letting go&rdquo; "
+             "&mdash; the formula's own final step, the only one "
+             "quoted in full here besides the opening frame"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.3:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own title, \"Suddhika\" (\"plain\"), confirm about its own content?",
+         "opts": ["It restates the sixteen-step formula on its own, without an added doctrinal framework like SN 54.2's own bojjhaṅga mapping", "It introduces an entirely new sixteen-step formula, different from SN 54.1's own", "It denies the validity of the framework SN 54.2 added", "It applies only to advanced practitioners, unlike SN 54.1's own general formula"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading and comparison — the bare formula, standing on its own."},
+        {"q": "What does the \"…pe…\" elision in this discourse's own text stand in for?",
+         "opts": ["The complete sixteen steps already given in full at SN 54.1", "A section that has genuinely been lost from the source", "An instruction the translator chose to omit", "A separate, unrelated teaching not covered by this project"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: identical substance to SN 54.1, compressed here."},
+        {"q": "What does this project's own observation suggest about this discourse's own placement after SN 54.2?",
+         "opts": ["A deliberate return to the bare formula, confirming the practice stands independently of any added framework", "An accidental duplication with no doctrinal significance", "A correction of an error in SN 54.2's own teaching", "Proof that SN 54.1 and SN 54.2 were both mistaken"],
+         "correct": 0,
+         "expl": "This project's own reading of the sequence's own significance."},
+    ],
+    marginalia=[
+        ("Plain, by its own name", [
+            "no bojjhaṅga, no satipaṭṭhāna layered on —",
+            "just the sixteen steps themselves"
+        ]),
+        ("An ellipsis, not an omission", [
+            "\"…pe…\" stands for what SN 54.1 already gave —",
+            "nothing genuinely missing"
+        ]),
+        ("The formula, standing alone", [
+            "after two frameworks, a return to itself —",
+            "breath-mindfulness needs no addition"
+        ]),
+        ("Third of ten, the pattern begins", [
+            "one thing, one framework, one plain return —",
+            "a rhythm this vagga will likely repeat"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.2.html\">SN 54.2 &middot; Awakening "
+        "Factors</a> &mdash; the previous discourse.",
+        "<a href=\"sn-54.1.html\">SN 54.1 &middot; One Thing</a> "
+        "&mdash; this project's own full statement of the sixteen-"
+        "step formula this discourse restates.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.4 — Paṭhamaphalasutta ("Fruits, 1st")
+# Confirmed by direct reading: repeats SN 54.3's own plain, compressed
+# restatement of the formula, then adds a new closing claim absent
+# from SN 54.1-3 -- two expected fruits from developing mindfulness
+# of breathing: full enlightenment in this very life, or, if
+# something remains, non-return.
+# --------------------------------------------------------------------------- #
+page(
+    54, 4, "Paṭhamaphala", "Fruits (1st)",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.4 — Fruits (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaphalasutta &mdash; mindfulness of breathing "
+        "promising one of two fruits: enlightenment in this life, or "
+        "non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 54.1)"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The compressed formula, plus a new closing claim "
+                 "naming two possible fruits"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the first "
+                         "discourse in this vagga to promise a "
+                         "specific attainment from the practice, "
+                         "rather than only describing it"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats SN "
+        "54.3's own plain, compressed formula, then adds a claim "
+        "absent from every discourse so far in this vagga: "
+        "developing mindfulness of breathing in this way, &ldquo;"
+        "you can expect one of two results &mdash; enlightenment in "
+        "this very life, or, if there&rsquo;s residue left behind, "
+        "non-return.&rdquo;"
+    ),
+    guide=[
+        ("Two fruits, named directly", [
+            "Confirmed by direct reading, this discourse names "
+            "exactly two possible outcomes: &ldquo;aññā&rdquo; "
+            "(&ldquo;enlightenment,&rdquo; full arahantship) "
+            "attained in this very life, or, if some remainder of "
+            "defilement is left, &ldquo;anāgāmitā&rdquo; "
+            "(&ldquo;non-return&rdquo;) &mdash; the third of the "
+            "four classic stages of awakening.",
+        ]),
+        ("A new element in this vagga's own recurring formula", [
+            "This project's own observation: SN 54.1 gave the "
+            "formula with its own satipaṭṭhāna mapping, SN 54.2 "
+            "with its own bojjhaṅga mapping, and SN 54.3 restated "
+            "it plainly &mdash; this discourse is the first to "
+            "attach a specific soteriological promise directly to "
+            "the practice's own compressed restatement.",
+        ]),
+    ],
+    terms=[
+        ("dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ", "&ldquo;"
+             "you can expect one of two results&rdquo; &mdash; this "
+             "discourse's own new closing claim"),
+        ("diṭṭheva dhamme aññā", "&ldquo;enlightenment in this very "
+             "life&rdquo; &mdash; the first of the two fruits, full "
+             "arahantship attained while still alive"),
+        ("sati vā upādisese anāgāmitā", "&ldquo;or, if there's "
+             "residue left behind, non-return&rdquo; &mdash; the "
+             "second fruit, the stage just short of arahantship"),
+        ("anāgāmitā", "&ldquo;non-return&rdquo; &mdash; the third of "
+             "the four classic stages of awakening, one who will "
+             "not be reborn in the sensual realm"),
+        ("…pe…", "the elision marking, standing in for the complete "
+             "sixteen steps already given in full at SN 54.1, "
+             "identical to SN 54.3's own compression"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.4:1.1-1.6"),
+        ("p", "&sect;2", "sn54.4:1.7-1.8"),
+    ],
+    quiz=[
+        {"q": "What new element does this discourse add, absent from SN 54.1-3?",
+         "opts": ["A closing claim naming two possible fruits — enlightenment in this life, or non-return", "An entirely different sixteen-step formula", "A denial that mindfulness of breathing produces any result", "A mapping onto the five faculties, not yet seen in this saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the first discourse in this vagga to promise a specific attainment."},
+        {"q": "What is the second of the two fruits named, if enlightenment is not attained in this very life?",
+         "opts": ["Non-return (anāgāmitā) — the third of the four classic stages of awakening", "Stream-entry, the first stage of awakening", "Rebirth in the human realm once more", "No second fruit is named at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: \"if there's residue left behind, non-return.\""},
+        {"q": "How does this discourse's own structure relate to the three discourses preceding it in this vagga?",
+         "opts": ["It repeats the formula from SN 54.1 and SN 54.3, then adds a new closing claim not found in either", "It contradicts the formula given at SN 54.1", "It introduces the formula for the first time in this saṃyutta", "It has no relationship to the preceding discourses"],
+         "correct": 0,
+         "expl": "This project's own confirmed observation: same formula, new promised outcome."},
+    ],
+    marginalia=[
+        ("Two fruits, named plainly", [
+            "full awakening, or one step short —",
+            "the practice's own promised outcomes"
+        ]),
+        ("A new element, after three plain repeats", [
+            "the formula alone, three times over —",
+            "now a soteriological claim attached"
+        ]),
+        ("Non-return, the third stage", [
+            "not yet arahant, but close —",
+            "residue left, but the path secured"
+        ]),
+        ("Fourth of ten, a promise added", [
+            "the formula holds steady —",
+            "its own fruit now made explicit"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.3.html\">SN 54.3 &middot; Plain Version</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-54.1.html\">SN 54.1 &middot; One Thing</a> "
+        "&mdash; this project's own full statement of the sixteen-"
+        "step formula this discourse restates.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.5 — Dutiyaphalasutta ("Fruits, 2nd")
+# Confirmed by direct reading: repeats the same compressed formula
+# again, then expands SN 54.4's own two fruits into the classic
+# sevenfold enumeration -- the seven kinds of noble persons on the
+# threshold of or beyond stream-entry, ending in full arahantship or
+# one of the five distinct paths to non-return.
+# --------------------------------------------------------------------------- #
+page(
+    54, 5, "Dutiyaphala", "Fruits (2nd)",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.5 — Fruits (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaphalasutta &mdash; mindfulness of breathing "
+        "promising the classic seven fruits, expanding SN 54.4's own "
+        "two. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 54.1)"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The compressed formula, plus a sevenfold "
+                 "enumeration of expected fruits"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "expands SN 54.4's own two fruits into the "
+                         "classic sevenfold enumeration of noble "
+                         "attainments"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats the "
+        "same compressed breathing formula once more, then expands "
+        "SN 54.4's own two named fruits into &ldquo;seven fruits and "
+        "benefits&rdquo;: early or late-life arahantship, and five "
+        "distinct paths to non-return, differentiated by the manner "
+        "and timing of a non-returner's own final extinguishment."
+    ),
+    guide=[
+        ("Seven fruits, expanding the two already named", [
+            "Confirmed by direct reading, the seven are: "
+            "enlightenment attained early in this very life; "
+            "failing that, enlightenment at the time of death; "
+            "failing that, extinguishment (parinibbāna) by one of "
+            "five distinct routes for a non-returner &mdash; between "
+            "one life and the next, upon landing in the new life, "
+            "without extra effort, with extra effort, or by heading "
+            "upstream to the Akaniṭṭha realm.",
+        ]),
+        ("A structured hierarchy, not five separate practices", [
+            "This project's own reading of the sequence's own "
+            "internal logic: each fruit is introduced as a fallback "
+            "&mdash; &ldquo;if not, then&hellip;&rdquo; &mdash; "
+            "presenting a single ordered hierarchy of possible "
+            "outcomes rather than five unrelated results, all "
+            "flowing from ending the five lower fetters.",
+        ]),
+        ("Five paths to non-return, confirmed by name", [
+            "Confirmed by direct reading, the five distinct types of "
+            "non-returner named here (antarāparinibbāyī, "
+            "upahaccaparinibbāyī, asaṅkhāraparinibbāyī, "
+            "sasaṅkhāraparinibbāyī, uddhaṁsoto akaniṭṭhagāmī) match "
+            "a classic sevenfold-noble-person enumeration found "
+            "elsewhere in the canon, though no direct comparison to "
+            "another discourse has been made by this project.",
+        ]),
+    ],
+    terms=[
+        ("satta phalā sattānisaṁsā", "&ldquo;seven fruits and "
+             "benefits&rdquo; &mdash; this discourse's own governing "
+             "claim, expanding SN 54.4's own pair"),
+        ("pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā", "&ldquo;"
+             "with the ending of the five lower fetters&rdquo; "
+             "&mdash; the shared condition underlying all five "
+             "non-return outcomes"),
+        ("antarāparinibbāyī", "&ldquo;extinguished in between one "
+             "life and the next&rdquo; &mdash; the first and "
+             "quickest of the five non-return outcomes"),
+        ("asaṅkhāraparinibbāyī...sasaṅkhāraparinibbāyī", "&ldquo;"
+             "extinguished without extra effort...extinguished with "
+             "extra effort&rdquo; &mdash; two of the five outcomes, "
+             "distinguished by the ease of the final attainment"),
+        ("uddhaṁsoto...akaniṭṭhagāmī", "&ldquo;heading upstream... "
+             "going to the Akaniṭṭha realm&rdquo; &mdash; the fifth "
+             "and final outcome named, the longest of the five "
+             "non-return paths"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which preserves the source's own "
+        "elisions between each of the five non-return outcomes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.5:1.1-1.6"),
+        ("p", "&sect;2", "sn54.5:2.1-2.11"),
+        ("p", "&sect;3", "sn54.5:2.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own sevenfold claim relate to SN 54.4's own two fruits?",
+         "opts": ["It expands them into a fuller, ordered hierarchy: early or late arahantship, plus five distinct paths to non-return", "It contradicts SN 54.4, denying that non-return is a valid fruit", "It is entirely unrelated to SN 54.4's own claim", "It reduces SN 54.4's own two fruits down to just one"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: seven fruits, expanding rather than replacing the earlier two."},
+        {"q": "What underlying condition does this project confirm is shared by all five non-return outcomes named here?",
+         "opts": ["The ending of the five lower fetters (pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā)", "Attaining the fourth jhāna specifically", "Ordaining as a monastic for at least twenty years", "Reciting the sixteen-step formula a fixed number of times"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the shared condition underlying all five non-return paths."},
+        {"q": "How does this project characterize the internal structure of this discourse's own seven fruits?",
+         "opts": ["A single ordered hierarchy, each fruit introduced as a fallback (\"if not, then...\") rather than five unrelated results", "Seven entirely independent and unrelated practices", "A random, unordered list with no internal logic", "Seven fruits available only to a Buddha, not to ordinary mendicants"],
+         "correct": 0,
+         "expl": "This project's own reading of the passage's own internal \"if not\" structure."},
+    ],
+    marginalia=[
+        ("Two fruits, now seven", [
+            "SN 54.4's own pair, expanded —",
+            "a fuller hierarchy of outcomes"
+        ]),
+        ("If not this, then that", [
+            "each fruit a fallback from the one before —",
+            "one ordered path, not seven separate ones"
+        ]),
+        ("Five ways to non-return", [
+            "between lives, upon landing, with effort or without —",
+            "or heading upstream to the highest realm"
+        ]),
+        ("Fifth of ten, the promise deepens", [
+            "one thing, sixteen steps, seven fruits —",
+            "the practice's own scope keeps widening"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.4.html\">SN 54.4 &middot; Fruits (1st)</a> "
+        "&mdash; the previous discourse, naming only two fruits.",
+    ],
+)
