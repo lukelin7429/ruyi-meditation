@@ -50633,3 +50633,161 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.21 — Maggasutta ("The Path")
+# Confirmed by direct reading of the root Pāli colophon: Vagga 2
+# (Pāsādakampanavagga) closed cleanly at exactly ten discourses
+# (SN 51.11-20), matching Vagga 1's own count. This discourse opens
+# Vagga 3, Ayoguḷavagga ("The Iron Ball") — a name not yet explained
+# by this discourse's own content. The discourse itself repeats
+# SN 51.11's own pre-awakening bodhisatta framing, with the sixfold
+# list abbreviated by the translator's own bracketed cross-reference
+# rather than spelled out again.
+# --------------------------------------------------------------------------- #
+page(
+    51, 21, "Magga", "The Path",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.21 — The Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maggasutta, opening Vagga 3 (The Iron Ball) &mdash; the "
+        "Buddha's own pre-awakening reflection on the path and "
+        "practice for developing the four bases. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, recounting his own pre-awakening "
+                     "reflection as a bodhisatta"),
+        ("Form", "A first-person origin account, repeating SN "
+                 "51.11's own framing with a differently worded "
+                 "opening question"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens Vagga 3, confirmed by this "
+                         "discourse's own colophon to follow a "
+                         "Vagga 2 that closed cleanly at exactly ten "
+                         "discourses"),
+    ],
+    why=(
+        "Confirmed by direct reading of SN 51.20's own closing "
+        "colophon (&ldquo;Pāsādakampanavaggo dutiyo,&rdquo; "
+        "&ldquo;Vagga 2, the Shaking-the-Longhouse Vagga&rdquo;), "
+        "Vagga 2 closed at exactly ten discourses, matching Vagga "
+        "1's own count; this discourse opens Vagga 3, "
+        "&ldquo;Ayoguḷavagga&rdquo; (&ldquo;The Iron Ball&rdquo;) "
+        "&mdash; a name this project does not yet assume the meaning "
+        "of, since no iron ball has appeared in this discourse's own "
+        "text."
+    ),
+    guide=[
+        ("A second vagga, closed cleanly at ten", [
+            "This project's own confirmation: SN 51.20's own root "
+            "Pāli colophon reads &ldquo;Dasamaṁ&rdquo; (&ldquo;"
+            "tenth&rdquo;) followed by &ldquo;Pāsādakampanavaggo "
+            "dutiyo,&rdquo; and its own uddāna verse lists exactly "
+            "ten titles matching SN 51.11 through SN 51.20 &mdash; "
+            "the same clean count already confirmed for Vagga 1.",
+        ]),
+        ("The same reflection, a differently worded question", [
+            "Confirmed by direct reading, this discourse repeats SN "
+            "51.11's own pre-awakening bodhisatta framing almost "
+            "word for word, but opens with a differently phrased "
+            "question &mdash; &ldquo;what's the path and practice "
+            "for developing the bases of psychic power?&rdquo; "
+            "&mdash; where SN 51.11 asked after &ldquo;the cause... "
+            "the reason.&rdquo;",
+        ]),
+        ("The sixfold list, abbreviated by the translator's own note", [
+            "Confirmed by direct reading, rather than repeating the "
+            "sixfold list of results a second time, the English "
+            "source closes with a bracketed editorial instruction: "
+            "&ldquo;(The six direct knowledges should be told in "
+            "full.)&rdquo; &mdash; a translator's own cross-reference "
+            "back to SN 51.11's own full account, not new content in "
+            "this discourse's own text.",
+        ]),
+        ("A vagga name not yet explained", [
+            "This project's own honest caution: &ldquo;"
+            "Ayoguḷavagga&rdquo; (&ldquo;The Iron Ball&rdquo;) does "
+            "not correspond to anything in this discourse's own "
+            "content &mdash; consistent with this project's own "
+            "established practice, the vagga's own name is not "
+            "assumed to describe this opening discourse until a "
+            "later discourse in the vagga confirms it directly.",
+        ]),
+    ],
+    terms=[
+        ("bodhisattasseva sato", "&ldquo;while I was still a "
+             "bodhisatta&rdquo; &mdash; the same pre-awakening "
+             "framing already met at SN 51.11, repeated here"),
+        ("maggo ca paṭipadā ca", "&ldquo;the path and "
+             "practice&rdquo; &mdash; this discourse's own opening "
+             "question, worded differently from SN 51.11's own "
+             "&ldquo;cause... reason&rdquo;"),
+        ("Ayoguḷa", "&ldquo;the iron ball&rdquo; &mdash; Vagga 3's "
+             "own name, not yet explained by this opening discourse"),
+        ("chaḷabhiññā vitthāretabbā", "&ldquo;the six direct "
+             "knowledges should be told in full&rdquo; &mdash; the "
+             "translator's own bracketed instruction, standing in "
+             "for the sixfold list this discourse's own text does "
+             "not repeat"),
+        ("Dasamaṁ. Pāsādakampanavaggo dutiyo.", "&ldquo;Tenth. Vagga "
+             "2, the Shaking-the-Longhouse Vagga.&rdquo; &mdash; the "
+             "closing colophon of SN 51.20, confirming the previous "
+             "vagga's own clean count of ten"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.21:1.1-1.20"),
+        ("p", "&sect;2", "sn51.21:2.1-2.2"),
+        ("p", "&sect;3", "sn51.21:2.4"),
+    ],
+    quiz=[
+        {"q": "What does SN 51.20's own closing colophon confirm about Vagga 2?",
+         "opts": ["It closed cleanly at exactly ten discourses, matching Vagga 1's own count", "It closed after only five discourses, unlike Vagga 1's ten", "It never closed — Vagga 2 and Vagga 3 are the same vagga under two names", "It closed at eleven discourses, one more than Vagga 1"],
+         "correct": 0,
+         "expl": "\"Dasamaṁ\" (\"tenth\") followed by \"Pāsādakampanavaggo dutiyo\" — confirmed directly, matching Vagga 1's own count."},
+        {"q": "How does this discourse's own opening question differ from SN 51.11's?",
+         "opts": ["It asks after \"the path and practice,\" where SN 51.11 asked after \"the cause... the reason\"", "It asks a completely unrelated question about monastic discipline", "It is addressed to Ānanda rather than framed as the Buddha's own private reflection", "It asks about the eightfold path specifically, not the four bases"],
+         "correct": 0,
+         "expl": "\"What's the path and practice for developing the bases of psychic power?\" — differently worded from SN 51.11's own \"cause... reason.\""},
+        {"q": "How does this project treat the name of the new vagga, Ayoguḷavagga (\"The Iron Ball\")?",
+         "opts": ["Not yet assumed to describe this content, since no iron ball appears in this discourse's own text", "Assumed immediately to be a metaphor for the radiant mind described in SN 51.11", "Assumed to refer to Moggallāna's own psychic feats from SN 51.14", "Ignored entirely as an untranslatable technical term"],
+         "correct": 0,
+         "expl": "Consistent with this project's own established practice of not assuming a vagga's own name applies until directly confirmed."},
+    ],
+    marginalia=[
+        ("Ten again, cleanly closed", [
+            "Vagga 1 closed at ten, and now Vagga 2 as well —",
+            "confirmed by the colophon itself"
+        ]),
+        ("The same reflection, a new question", [
+            "not \"what's the cause\" this time —",
+            "\"what's the path and practice\""
+        ]),
+        ("A note in place of repetition", [
+            "\"the six direct knowledges should be told in full\" —",
+            "the translator points back rather than repeating"
+        ]),
+        ("An iron ball, not yet seen", [
+            "the new vagga's own name, still unexplained —",
+            "no iron ball anywhere in this discourse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; the earlier discourse this one closely echoes, "
+        "opening Vagga 2.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
