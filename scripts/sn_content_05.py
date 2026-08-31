@@ -76493,3 +76493,1242 @@ page(
         "discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 56.51 — Nakhasikhāsutta ("A Fingernail")
+# Confirmed by direct reading: opens Vagga 6 with a physically
+# demonstrated comparison -- a pinch of dirt on the Buddha's own
+# fingernail against the whole earth -- restating the identical
+# "at most seven more lives" claim already given in full at SN
+# 56.49-50.
+# --------------------------------------------------------------------------- #
+page(
+    56, 51, "Nakhasikhā", "A Fingernail",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.51 — A Fingernail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nakhasikhāsutta &mdash; a pinch of dirt on the Buddha's "
+        "own fingernail against the whole earth, opening this "
+        "saṃyutta's own most systematic vagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.50's own setting"),
+        ("Speaker", "The Buddha, physically demonstrating a "
+                     "comparison, then addressing the mendicants "
+                     "directly"),
+        ("Form", "A live physical demonstration, a comparative "
+                 "question, then the identical application already "
+                 "met at SN 56.49-50"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; opens "
+                         "Vagga 6, this saṃyutta's own most "
+                         "systematic vagga, ten variations on a "
+                         "single comparative formula"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens with the "
+        "Buddha physically picking up a pinch of dirt on his own "
+        "fingernail and asking whether that pinch or the entire "
+        "earth is greater &mdash; then applies the answer to the "
+        "identical claim already given in full at SN 56.49-50: for a "
+        "noble disciple accomplished in view, the suffering already "
+        "ended vastly outweighs what remains, at most seven more "
+        "lives."
+    ),
+    guide=[
+        ("A live demonstration, not merely a described image", [
+            "This project's own reading: unlike SN 56.49-50's own "
+            "verbally described pebbles and eroded mountain, this "
+            "discourse stages an immediate physical act &mdash; the "
+            "Buddha himself picks up dirt on his own fingernail in "
+            "front of the mendicants &mdash; opening this vagga with "
+            "its own most concrete, witnessed comparison.",
+        ]),
+        ("A vagga of ten variations on one formula", [
+            "This project's own direct reading ahead, confirmed by "
+            "this vagga's own closing uddāna at SN 56.60: all ten "
+            "discourses in this vagga restate the identical "
+            "&ldquo;at most seven more lives&rdquo; claim, varying "
+            "only the pair of images compared &mdash; fingernail-dirt "
+            "and earth here, with grass-tip water, river "
+            "confluences, whole earth, ocean, and mountain to follow.",
+        ]),
+    ],
+    terms=[
+        ("parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā", "&ldquo;picking "
+             "up a little bit of dirt on his fingernail&rdquo; "
+             "&mdash; this discourse's own opening physical act"),
+        ("mahāpathavī", "&ldquo;this great earth&rdquo; &mdash; the "
+             "vast counterpart to the fingernail's own tiny dirt"),
+        ("saṅkhampi na upeti, upanidhampi na upeti, kalabhāgampi na "
+         "upeti", "&ldquo;it doesn't count, there's no comparison, "
+             "it's not worth a fraction&rdquo; &mdash; the threefold "
+             "formula already met at SN 56.49-50, here restated"),
+        ("diṭṭhisampannassa puggalassa abhisametāvino", "&ldquo;a "
+             "noble disciple accomplished in view&rdquo; &mdash; the "
+             "individual this discourse's own comparison is applied "
+             "to"),
+        ("sattakkhattuparamatā", "&ldquo;at most seven more "
+             "[lives]&rdquo; &mdash; the identical fixed limit "
+             "already named at SN 56.49-50"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.51:1.1-1.8"),
+        ("p", "&sect;2", "sn56.51:2.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own comparison differ in kind from SN 56.49-50's own, per this project's own reading?",
+         "opts": ["It stages a live, physical demonstration — dirt actually picked up on the Buddha's own fingernail — rather than a verbally described image", "It uses an entirely abstract comparison with no physical referent at all", "It denies the claim already made at SN 56.49-50", "It is identical in every respect, including the specific image used"],
+         "correct": 0,
+         "expl": "This project's own reading of a concrete, witnessed act opening this vagga."},
+        {"q": "What does this project's own reading ahead confirm about this vagga's own overall structure?",
+         "opts": ["All ten discourses restate the identical \"at most seven more lives\" claim, varying only the pair of images compared", "Each discourse in this vagga makes an entirely unrelated claim", "Only this discourse and SN 56.60 share any claim in common", "The vagga's own structure cannot be determined without reading the uddāna first"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading ahead and by this vagga's own closing uddāna at SN 56.60."},
+        {"q": "What fixed limit does this discourse restate for a stream-enterer's own remaining rebirths?",
+         "opts": ["At most seven more lives (sattakkhattuparamatā), identical to SN 56.49-50's own claim", "An unlimited number, with no upper bound", "Exactly one more life", "Exactly three more lives"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical figure already established at SN 56.49-50."},
+    ],
+    marginalia=[
+        ("A demonstration, not merely a description", [
+            "dirt actually picked up, in front of the mendicants —",
+            "this vagga's own most concrete opening image"
+        ]),
+        ("The same claim, met before", [
+            "\"at most seven more lives\" —",
+            "identical to SN 56.49-50's own formula"
+        ]),
+        ("Ten variations begin here", [
+            "fingernail and earth, the first of many pairs —",
+            "confirmed by this vagga's own closing uddāna"
+        ]),
+        ("Opening Vagga 6", [
+            "\"Abhisamayavagga\" — comprehension —",
+            "this saṃyutta's own most systematic stretch yet"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.50.html\">SN 56.50 &middot; Sineru, King "
+        "of Mountains (2nd)</a> &mdash; the closing discourse of the "
+        "previous vagga.",
+        "<a href=\"sn-56.49.html\">SN 56.49 &middot; Sineru, King "
+        "of Mountains (1st)</a> &mdash; this project's own earlier "
+        "occurrence of the identical claim this discourse restates.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.52 — Pokkharaṇīsutta ("A Lotus Pond")
+# Confirmed by direct reading: the second of this vagga's own ten
+# variations -- a drop on a blade of grass against an enormous lotus
+# pond, the claim itself now fully elided back to SN 56.51.
+# --------------------------------------------------------------------------- #
+page(
+    56, 52, "Pokkharaṇī", "A Lotus Pond",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.52 — A Lotus Pond | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pokkharaṇīsutta &mdash; a drop of water on a blade of "
+        "grass against an enormous lotus pond, this vagga's own "
+        "second variation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.51's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question, its own answer, then the "
+                 "application fully elided back to SN 56.51"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of ten "
+                         "discourses in this vagga's own systematic "
+                         "series"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares a "
+        "single drop of water lifted on the tip of a blade of grass "
+        "to an immense lotus pond fifty leagues in each dimension, "
+        "full to the brim &mdash; the same &ldquo;at most seven more "
+        "lives&rdquo; application already given in full at SN 56.51 "
+        "is here compressed to a single elided line."
+    ),
+    guide=[
+        ("A specific, measured pond", [
+            "This project's own reading: the pond's own dimensions "
+            "are given precisely (fifty leagues long, wide, and "
+            "deep, &ldquo;full to the brim so a crow could drink "
+            "from it&rdquo;) &mdash; a vivid, specific measure rather "
+            "than a vague notion of largeness, matching this vagga's "
+            "own recurring taste for concrete comparison.",
+        ]),
+    ],
+    terms=[
+        ("pokkharaṇī paññāsayojanāni āyāmena, vitthārena, ubbedhena",
+             "&ldquo;a lotus pond that was fifty leagues long, "
+             "fifty leagues wide, and fifty leagues deep&rdquo; "
+             "&mdash; this discourse's own precisely measured image"),
+        ("samatittikā kākapeyyā", "&ldquo;full to the brim so a "
+             "crow could drink from it&rdquo; &mdash; a vivid detail "
+             "confirming the pond's own completeness"),
+        ("kusaggena udakaṁ uddhareyya", "&ldquo;pick up some water "
+             "on the tip of a blade of grass&rdquo; &mdash; the "
+             "tiny counterpart to the pond"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.52:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How precisely does this discourse describe the lotus pond's own size?",
+         "opts": ["Fifty leagues long, wide, and deep, full to the brim so a crow could drink from it", "Vaguely, as simply \"very large\" with no measurement given", "As identical in size to the ocean", "As smaller than the blade of grass used to draw water from it"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a precise, vivid measurement."},
+        {"q": "How does this discourse's own root text present its own application to a noble disciple?",
+         "opts": ["Compressed to a single elided line, referring back to SN 56.51's own full statement", "Given in full once more, identical to SN 56.51", "Omitted entirely, with no application given at all", "Replaced with an entirely new claim not found at SN 56.51"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali's own elision."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The second", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Dutiyaṁ\" (\"second\")."},
+    ],
+    marginalia=[
+        ("A pond, precisely measured", [
+            "fifty leagues in every dimension —",
+            "full to the brim, a crow could drink from it"
+        ]),
+        ("A single drop, on a blade of grass", [
+            "the tiny counterpart —",
+            "the same comparison as SN 56.51's own dirt"
+        ]),
+        ("Compressed to elision", [
+            "the full application already given —",
+            "this discourse simply points back to it"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "river confluences follow next, in a pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.51.html\">SN 56.51 &middot; A "
+        "Fingernail</a> &mdash; the previous discourse, giving the "
+        "full application this discourse elides.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.53 — Paṭhamasambhejjasutta ("Where the Waters Join Together (1st)")
+# Confirmed by direct reading: names five specific rivers by name --
+# the Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī -- opening this
+# vagga's own first addition/erosion pair.
+# --------------------------------------------------------------------------- #
+page(
+    56, 53, "Paṭhamasambhejja", "Where the Waters Join Together "
+    "(1st)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.53 — Where the Waters Join Together (1st) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; five named rivers converging, and "
+        "two or three drops drawn from that confluence. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.52's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question naming five specific "
+                 "rivers, its own answer, then the application "
+                 "elided back to SN 56.51"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the third of "
+                         "ten discourses, opening this vagga's own "
+                         "first addition/erosion pair with SN 56.54"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names five "
+        "specific rivers &mdash; the Ganges, Yamunā, Aciravatī, "
+        "Sarabhū, and Mahī &mdash; converging at a single "
+        "confluence, then compares two or three drops drawn from "
+        "that confluence to the confluence's own total water, "
+        "opening this vagga's own first pair of discourses built on "
+        "addition versus erosion (SN 56.53-54, echoing the pattern "
+        "already met at SN 56.49-50)."
+    ),
+    guide=[
+        ("Five rivers, named specifically", [
+            "This project's own reading: rather than a generic "
+            "&ldquo;great river,&rdquo; this discourse names five "
+            "actual, geographically real rivers by name &mdash; a "
+            "specificity this project notes gives the image concrete "
+            "grounding, similar to SN 56.51's own live physical "
+            "demonstration.",
+        ]),
+        ("An addition/erosion pair begins here", [
+            "This project's own direct comparison against its own "
+            "companion, SN 56.54: this discourse draws drops out of "
+            "an intact confluence (addition removed), while SN 56.54 "
+            "will instead imagine the confluence itself dried up "
+            "except for a few drops (erosion) &mdash; the identical "
+            "two-sided structure already met at SN 56.49-50's own "
+            "Mount Sineru pair.",
+        ]),
+    ],
+    terms=[
+        ("mahānadiyo saṁsandanti samenti", "&ldquo;the great rivers "
+             "join together and converge&rdquo; &mdash; this "
+             "discourse's own central image, giving the discourse "
+             "its own title"),
+        ("gaṅgā, yamunā, aciravatī, sarabhū, mahī", "&ldquo;the "
+             "Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī&rdquo; "
+             "&mdash; the five specific rivers named"),
+        ("dve vā tīṇi vā udakaphusitāni uddhareyya", "&ldquo;draw "
+             "two or three drops of water&rdquo; &mdash; the tiny "
+             "counterpart to the confluence's own total water"),
+        ("saṁbhejjaudakaṁ", "&ldquo;the water in the "
+             "confluence&rdquo; &mdash; the vast counterpart, "
+             "sharing its own root with this discourse's own title"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.53:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What five rivers does this discourse name specifically?",
+         "opts": ["The Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī", "The Nile, Tigris, Euphrates, Indus, and Jordan", "Five unnamed, generic rivers with no specific identity given", "A single river named five different times"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — five actual, geographically named rivers."},
+        {"q": "What pairing does this discourse begin, per this project's own direct comparison?",
+         "opts": ["An addition/erosion pair with SN 56.54, echoing the structure already met at SN 56.49-50", "No pairing; this discourse stands entirely alone", "A pairing with SN 56.51 specifically, not SN 56.54", "A pairing that spans three discourses rather than two"],
+         "correct": 0,
+         "expl": "This project's own direct comparison confirming a recurring addition/erosion structure."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The third", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Tatiyaṁ\" (\"third\")."},
+    ],
+    marginalia=[
+        ("Five rivers, named by name", [
+            "Ganges, Yamunā, Aciravatī, Sarabhū, Mahī —",
+            "concrete geography, not a vague image"
+        ]),
+        ("Two or three drops", [
+            "against the whole confluence —",
+            "the same tiny-against-vast comparison, once more"
+        ]),
+        ("A pair begins", [
+            "addition here, erosion in SN 56.54 —",
+            "echoing SN 56.49-50's own Mount Sineru pair"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "the same confluence, now dried up, follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.52.html\">SN 56.52 &middot; A Lotus "
+        "Pond</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.54 — Dutiyasambhejjasutta ("Where the Waters Join Together (2nd)")
+# Confirmed by direct reading: companion to SN 56.53, inverting the
+# image from drawing drops out of an intact confluence to imagining
+# the confluence itself dried up except for a few drops.
+# --------------------------------------------------------------------------- #
+page(
+    56, 54, "Dutiyasambhejja", "Where the Waters Join Together "
+    "(2nd)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.54 — Where the Waters Join Together (2nd) | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same five rivers, now dried up "
+        "except for two or three drops. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.53's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question inverting SN 56.53's own "
+                 "image, its own answer, then the same elided "
+                 "application"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fourth of ten "
+                         "discourses, completing the addition/erosion "
+                         "pair opened at SN 56.53"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.53, this "
+        "discourse inverts the image: rather than drawing two or "
+        "three drops out of an intact confluence of the same five "
+        "named rivers, it imagines that confluence's own water dried "
+        "up and evaporated entirely except for two or three drops "
+        "&mdash; the identical erosion move already met between SN "
+        "56.49 and SN 56.50."
+    ),
+    guide=[
+        ("Addition inverted to erosion", [
+            "This project's own direct comparison: SN 56.53 removed "
+            "a small amount from an intact whole; this discourse "
+            "instead removes almost the entire whole, leaving only a "
+            "small remainder &mdash; two different operations "
+            "arriving at the identical comparative conclusion, "
+            "matching the pattern already confirmed at SN 56.49-50.",
+        ]),
+    ],
+    terms=[
+        ("taṁ udakaṁ parikkhayaṁ pariyādānaṁ gaccheyya", "&ldquo;"
+             "that water dried up and evaporated&rdquo; &mdash; this "
+             "discourse's own inverted image"),
+        ("ṭhapetvā dve vā tīṇi vā udakaphusitāni", "&ldquo;except "
+             "for two or three drops&rdquo; &mdash; the remainder "
+             "left after the confluence's own evaporation"),
+        ("saṁbhejjaudakaṁ parikkhīṇaṁ pariyādinnaṁ", "&ldquo;the "
+             "water in the confluence that has dried up and "
+             "evaporated&rdquo; &mdash; the vast portion now "
+             "compared against the tiny remainder"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.54:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse invert SN 56.53's own image, per this project's own direct comparison?",
+         "opts": ["Rather than drawing a small amount out of an intact confluence, it imagines the confluence almost entirely evaporated, leaving only a small remainder", "It denies that any confluence exists at all", "It uses an identical, unmodified image with no inversion", "It replaces the rivers with an entirely different geographic feature"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — addition inverted to erosion, the identical structure met at SN 56.49-50."},
+        {"q": "What remains of the confluence after its own evaporation?",
+         "opts": ["Two or three drops", "Exactly half of the original water", "Nothing at all; complete evaporation with no remainder", "A remainder too large to specify precisely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a small, precisely named remainder."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fourth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Catutthaṁ\" (\"fourth\")."},
+    ],
+    marginalia=[
+        ("Addition becomes erosion", [
+            "SN 56.53 drew drops from a whole confluence —",
+            "this discourse evaporates the whole, leaving drops"
+        ]),
+        ("The same five rivers, nearly gone", [
+            "Ganges, Yamunā, and the rest —",
+            "dried up except for two or three drops"
+        ]),
+        ("A pair, completed", [
+            "the identical structure as SN 56.49-50's own mountain —",
+            "two operations, one conclusion"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "the whole earth follows next, in its own pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.53.html\">SN 56.53 &middot; Where the "
+        "Waters Join Together (1st)</a> &mdash; the previous "
+        "discourse, this discourse's own companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.55 — Paṭhamamahāpathavīsutta ("The Earth (1st)")
+# Confirmed by direct reading: this vagga's own second addition/
+# erosion pair opens here -- seven jujube-seed-sized clay balls
+# placed on the great earth.
+# --------------------------------------------------------------------------- #
+page(
+    56, 55, "Paṭhamamahāpathavī", "The Earth (1st)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.55 — The Earth (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; seven jujube-seed-sized clay balls "
+        "placed on the great earth, opening this vagga's own second "
+        "addition/erosion pair. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.54's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question, its own answer, then the "
+                 "application elided back to SN 56.51"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fifth of ten "
+                         "discourses, opening this vagga's own second "
+                         "addition/erosion pair with SN 56.56"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares seven "
+        "clay balls the size of jujube seeds placed on the great "
+        "earth to the earth itself &mdash; opening this vagga's own "
+        "second addition/erosion pair (SN 56.55-56), following the "
+        "same structure already established with the river "
+        "confluence at SN 56.53-54."
+    ),
+    guide=[
+        ("A number that will recur throughout this vagga", [
+            "This project's own reading: the number seven, already "
+            "meaningful in this saṃyutta as the fixed upper limit on "
+            "a stream-enterer's own remaining lives "
+            "(sattakkhattuparamatā), now also becomes the fixed "
+            "count of small objects placed or remaining in this "
+            "vagga's own comparative images &mdash; seven pebbles at "
+            "SN 56.49-50 and SN 56.59-60, seven clay balls here and "
+            "at SN 56.56, this project notes without overclaiming a "
+            "deliberate numerological link the discourses themselves "
+            "do not state explicitly.",
+        ]),
+    ],
+    terms=[
+        ("mahāpathaviyā satta kolaṭṭhimattiyo guḷikā upanikkhipeyya",
+             "&ldquo;place seven clay balls the size of jujube "
+             "seeds on the great earth&rdquo; &mdash; this "
+             "discourse's own central image"),
+        ("kolaṭṭhi", "&ldquo;jujube seed&rdquo; &mdash; the small "
+             "fruit-seed giving this discourse's own clay balls "
+             "their own size reference"),
+        ("guḷikā", "&ldquo;clay balls, pellets&rdquo; &mdash; the "
+             "small objects placed on the earth"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.55:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse compare to the great earth?",
+         "opts": ["Seven clay balls the size of jujube seeds", "A single grain of sand", "An entire mountain range", "A river's own total volume"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own specific comparative image."},
+        {"q": "What number does this project's own reading note recurs throughout this vagga's own comparative images?",
+         "opts": ["Seven, echoing the fixed limit on a stream-enterer's own remaining lives", "Three, echoing the three characteristics of existence", "Twelve, echoing the twelve links of dependent origination", "No consistent number recurs across this vagga"],
+         "correct": 0,
+         "expl": "This project's own noted pattern, offered without overclaiming an explicit numerological statement in the text."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fifth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Pañcamaṁ\" (\"fifth\")."},
+    ],
+    marginalia=[
+        ("Seven clay balls, on the whole earth", [
+            "jujube-seed-sized, barely visible —",
+            "opening this vagga's own second pair"
+        ]),
+        ("A number that keeps returning", [
+            "seven, again — the same limit as sattakkhattuparamatā —",
+            "noted, not overclaimed as deliberate"
+        ]),
+        ("The same structure, a new image", [
+            "addition here, erosion in SN 56.56 —",
+            "echoing SN 56.53-54's own river confluence"
+        ]),
+        ("Fifth of ten", [
+            "the vagga's own midpoint reached —",
+            "the earth eroded away follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.54.html\">SN 56.54 &middot; Where the "
+        "Waters Join Together (2nd)</a> &mdash; the previous "
+        "discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.56 — Dutiyamahāpathavīsutta ("The Earth (2nd)")
+# Confirmed by direct reading: companion to SN 56.55, inverting the
+# image -- the great earth itself worn away except for seven clay
+# balls.
+# --------------------------------------------------------------------------- #
+page(
+    56, 56, "Dutiyamahāpathavī", "The Earth (2nd)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.56 — The Earth (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the great earth itself worn away "
+        "except for seven jujube-seed-sized clay balls. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.55's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question inverting SN 56.55's own "
+                 "image, its own answer, then the same elided "
+                 "application"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the sixth of ten "
+                         "discourses, completing the addition/erosion "
+                         "pair opened at SN 56.55"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.55, this "
+        "discourse inverts the image: rather than seven clay balls "
+        "placed on an intact earth, the great earth itself is "
+        "imagined worn away and eroded entirely except for seven "
+        "clay balls the size of jujube seeds &mdash; the identical "
+        "erosion move already met between SN 56.53 and SN 56.54, and "
+        "between SN 56.49 and SN 56.50."
+    ),
+    guide=[
+        ("A third instance of the same addition/erosion move", [
+            "This project's own direct comparison: by this "
+            "discourse, the addition/erosion inversion has now "
+            "recurred three times in this vagga (SN 56.49-50's own "
+            "mountain, SN 56.53-54's own confluence, and this pair's "
+            "own earth) &mdash; confirming a deliberate structural "
+            "template this project traces across the vagga rather "
+            "than treating each pair as a fresh, unrelated "
+            "invention.",
+        ]),
+    ],
+    terms=[
+        ("mahāpathavī parikkhayaṁ pariyādānaṁ gaccheyya ṭhapetvā "
+         "satta kolaṭṭhimattiyo guḷikā", "&ldquo;the great earth was "
+             "worn away and eroded except for seven clay balls the "
+             "size of jujube seeds&rdquo; &mdash; this discourse's "
+             "own inverted image"),
+        ("mahāpathaviyā parikkhīṇaṁ pariyādinnaṁ", "&ldquo;the great "
+             "earth that has been worn away and eroded&rdquo; "
+             "&mdash; the vast portion now compared against the "
+             "tiny remainder"),
+        ("appamattikā", "&ldquo;tiny&rdquo; &mdash; this "
+             "discourse's own term for the remaining seven clay "
+             "balls, echoing the identical term used throughout this "
+             "vagga's own comparisons"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.56:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "How many times has the addition/erosion inversion now recurred in this vagga, per this project's own count as of this discourse?",
+         "opts": ["Three times: the mountain at SN 56.49-50, the confluence at SN 56.53-54, and the earth at SN 56.55-56", "Only once, uniquely in this pair", "Twice, not including SN 56.49-50 since that pair belongs to the previous vagga", "This discourse is the first instance of the pattern"],
+         "correct": 0,
+         "expl": "This project's own count confirming a deliberate, recurring structural template."},
+        {"q": "What remains after the great earth's own erosion in this discourse?",
+         "opts": ["Seven clay balls the size of jujube seeds", "Nothing at all; complete erosion with no remainder", "A single, larger boulder", "The discourse specifies no particular remainder"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical remainder named at SN 56.55, now eroded rather than added."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The sixth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Chaṭṭhaṁ\" (\"sixth\")."},
+    ],
+    marginalia=[
+        ("A third erosion", [
+            "mountain, confluence, now the earth itself —",
+            "a recurring template, not a fresh invention"
+        ]),
+        ("Seven clay balls, all that remains", [
+            "the great earth worn away entirely —",
+            "the same tiny remainder as SN 56.55's own addition"
+        ]),
+        ("A pair, completed once more", [
+            "addition then erosion, the vagga's own recurring shape",
+            "confirmed a third time"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "the ocean follows next, in its own pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.55.html\">SN 56.55 &middot; The Earth "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.57 — Paṭhamamahāsamuddasutta ("The Ocean (1st)")
+# Confirmed by direct reading: this vagga's own third addition/
+# erosion pair opens here -- two or three drops drawn from the ocean.
+# --------------------------------------------------------------------------- #
+page(
+    56, 57, "Paṭhamamahāsamudda", "The Ocean (1st)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.57 — The Ocean (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; two or three drops drawn from the "
+        "ocean, opening this vagga's own third addition/erosion "
+        "pair. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.56's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question, its own answer, then the "
+                 "application elided back to SN 56.51"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the seventh of ten "
+                         "discourses, opening this vagga's own third "
+                         "addition/erosion pair with SN 56.58"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares two or "
+        "three drops of water drawn from the ocean to the ocean's "
+        "own total water &mdash; opening this vagga's own third "
+        "addition/erosion pair (SN 56.57-58), reusing the identical "
+        "&ldquo;two or three drops&rdquo; image already met at SN "
+        "56.53's own river confluence, now applied to the ocean "
+        "itself."
+    ),
+    guide=[
+        ("The same small measure, a larger whole", [
+            "This project's own direct comparison: this discourse "
+            "reuses SN 56.53's own exact image (&ldquo;two or three "
+            "drops&rdquo;) rather than inventing a new small measure, "
+            "escalating only the scale of the whole being compared "
+            "&mdash; from a river confluence to the ocean itself.",
+        ]),
+    ],
+    terms=[
+        ("mahāsamuddato dve vā tīṇi vā udakaphusitāni uddharitāni",
+             "&ldquo;draw up two or three drops of water from the "
+             "ocean&rdquo; &mdash; this discourse's own reused small "
+             "measure, now applied to the ocean"),
+        ("mahāsamudde udakaṁ", "&ldquo;the water in the ocean&rdquo; "
+             "&mdash; the vast counterpart to the drawn drops"),
+        ("saṅkhampi na upenti, upanidhampi na upenti, kalabhāgampi "
+         "na upenti", "&ldquo;they don't count, there's no "
+             "comparison, they're not worth a fraction&rdquo; "
+             "&mdash; this vagga's own recurring threefold formula"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.57:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What small measure does this discourse reuse from SN 56.53, per this project's own direct comparison?",
+         "opts": ["\"Two or three drops\" of water, now drawn from the ocean rather than a river confluence", "An entirely new measure, unrelated to any earlier discourse", "Seven clay balls, reused from SN 56.55-56", "A single grain of sand"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical small measure, escalated to a larger whole."},
+        {"q": "What pair does this discourse open, per this project's own reading?",
+         "opts": ["This vagga's own third addition/erosion pair, with SN 56.58", "This vagga's own final pair, with SN 56.60", "A pairing with SN 56.51 specifically", "No pairing; this discourse stands alone"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own recurring structure."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The seventh", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Sattamaṁ\" (\"seventh\")."},
+    ],
+    marginalia=[
+        ("The same drops, a vaster whole", [
+            "\"two or three drops\" — reused from SN 56.53 —",
+            "now measured against the ocean itself"
+        ]),
+        ("Escalating scale, recurring measure", [
+            "confluence to ocean, drops unchanged —",
+            "this vagga's own consistent small unit"
+        ]),
+        ("A third pair begins", [
+            "addition here, erosion in SN 56.58 —",
+            "the template holding once more"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "the ocean dried up follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.56.html\">SN 56.56 &middot; The Earth "
+        "(2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.58 — Dutiyamahāsamuddasutta ("The Ocean (2nd)")
+# Confirmed by direct reading: companion to SN 56.57, inverting the
+# image -- the ocean itself dried up except for two or three drops.
+# --------------------------------------------------------------------------- #
+page(
+    56, 58, "Dutiyamahāsamudda", "The Ocean (2nd)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.58 — The Ocean (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the ocean itself dried up and "
+        "evaporated except for two or three drops. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.57's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question inverting SN 56.57's own "
+                 "image, its own answer, then the same elided "
+                 "application"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the eighth "
+                         "of ten discourses, completing the "
+                         "addition/erosion pair opened at SN 56.57, "
+                         "this vagga's own most extreme erosion "
+                         "image"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.57, this "
+        "discourse inverts the image: rather than drawing two or "
+        "three drops out of the intact ocean, the entire ocean is "
+        "imagined dried up and evaporated except for two or three "
+        "drops &mdash; this project's own most extreme instance yet "
+        "of this vagga's own recurring erosion move, applied to the "
+        "largest possible body of water."
+    ),
+    guide=[
+        ("The most extreme erosion in this vagga", [
+            "This project's own reading: of this vagga's own four "
+            "addition/erosion pairs (mountain, confluence, earth, "
+            "ocean), this discourse's own image &mdash; the entire "
+            "ocean evaporated to a few drops &mdash; is the most "
+            "extreme in scale, since an ocean's own water volume "
+            "vastly exceeds a mountain's own mass, a river's own "
+            "flow, or clay balls placed on open ground.",
+        ]),
+    ],
+    terms=[
+        ("mahāsamudde udakaṁ parikkhayaṁ pariyādānaṁ gaccheyya",
+             "&ldquo;the water in the ocean dried up and "
+             "evaporated&rdquo; &mdash; this discourse's own inverted "
+             "image, this vagga's own most extreme erosion"),
+        ("ṭhapetvā dve vā tīṇi vā udakaphusitāni", "&ldquo;except "
+             "for two or three drops&rdquo; &mdash; the remainder "
+             "after the ocean's own evaporation"),
+        ("mahāsamudde udakaṁ parikkhīṇaṁ pariyādinnaṁ", "&ldquo;the "
+             "water in the ocean that has dried up and "
+             "evaporated&rdquo; &mdash; the vast portion compared "
+             "against the tiny remainder"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.58:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "Why does this project's own reading identify this discourse's own image as the vagga's own most extreme erosion?",
+         "opts": ["An ocean's own water volume vastly exceeds a mountain's own mass, a river's own flow, or scattered clay balls, making its near-total evaporation the largest-scale erosion in this vagga", "It is the only erosion image in the entire vagga", "It concerns the smallest object in the vagga's own comparisons", "The discourse itself explicitly ranks it as the most extreme"],
+         "correct": 0,
+         "expl": "This project's own comparative reading across the vagga's own four addition/erosion pairs."},
+        {"q": "What remains after the ocean's own evaporation in this discourse?",
+         "opts": ["Two or three drops", "A single small pond", "Nothing at all", "A remainder equal to the confluence's own total volume"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical small remainder used throughout this vagga's own similes."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The eighth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Aṭṭhamaṁ\" (\"eighth\")."},
+    ],
+    marginalia=[
+        ("The largest erosion in this vagga", [
+            "an entire ocean, evaporated —",
+            "the most extreme scale among four such pairs"
+        ]),
+        ("Two or three drops, all that's left", [
+            "the same tiny remainder, once more —",
+            "this time from the vastest possible source"
+        ]),
+        ("A fourth pair, completed", [
+            "mountain, confluence, earth, now ocean —",
+            "the template held consistently throughout"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "a mountain closes it, echoing SN 56.49-50"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.57.html\">SN 56.57 &middot; The Ocean "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.59 — Paṭhamapabbatūpamasutta ("A Mountain (1st)")
+# Confirmed by direct reading: names the Himalayas specifically
+# (himavā pabbatarājā), not Mount Sineru as at SN 56.49-50 -- a
+# genuinely different mountain, confirmed by direct comparison of
+# the two Pali terms rather than assumed identical.
+# --------------------------------------------------------------------------- #
+page(
+    56, 59, "Paṭhamapabbatūpama", "A Mountain (1st)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.59 — A Mountain (1st) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; seven mustard-seed pebbles placed on "
+        "the Himalayas specifically, not Mount Sineru. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.58's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question, its own answer, then the "
+                 "application elided back to SN 56.51"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the ninth of "
+                         "ten discourses, confirmed by direct reading "
+                         "to name the Himalayas specifically, not "
+                         "Mount Sineru as at SN 56.49-50"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares seven "
+        "pebbles the size of mustard seeds placed on &ldquo;himavā "
+        "pabbatarājā&rdquo; (&ldquo;the Himalayas, the king of "
+        "mountains&rdquo;) to the mountain itself &mdash; a genuinely "
+        "different mountain from &ldquo;sinerupabbatarājā&rdquo; "
+        "(&ldquo;Sineru, the king of mountains&rdquo;) already met "
+        "at SN 56.49-50, confirmed by this project's own direct "
+        "comparison of the two Pali terms rather than assumed "
+        "identical."
+    ),
+    guide=[
+        ("A different mountain, confirmed directly", [
+            "This project's own direct comparison: SN 56.49-50 named "
+            "&ldquo;Sineru,&rdquo; the mythic cosmological mountain "
+            "at the center of traditional Buddhist cosmology; this "
+            "discourse and its own companion SN 56.60 instead name "
+            "&ldquo;the Himalayas,&rdquo; an actual, geographically "
+            "real mountain range &mdash; a genuine textual "
+            "distinction this project confirms by reading the root "
+            "Pali directly, rather than treating the two discourses "
+            "as identical repetitions.",
+        ]),
+        ("Mustard seeds, not mung beans", [
+            "This project's own reading: the pebble size also "
+            "shifts from &ldquo;muggamattiyo&rdquo; (&ldquo;mung-"
+            "bean-sized,&rdquo; at SN 56.49-50) to &ldquo;"
+            "sāsapamattiyo&rdquo; (&ldquo;mustard-seed-sized,&rdquo; "
+            "here) &mdash; a smaller unit, matching this vagga's own "
+            "escalating attention to minute measure across its own "
+            "ten discourses.",
+        ]),
+    ],
+    terms=[
+        ("himavato pabbatarājassa satta sāsapamattiyo pāsāṇasakkharā "
+         "upanikkhipeyya", "&ldquo;place seven pebbles the size of "
+             "mustard seeds on the Himalayas, the king of "
+             "mountains&rdquo; &mdash; this discourse's own central "
+             "image"),
+        ("himavā pabbatarājā", "&ldquo;the Himalayas, the king of "
+             "mountains&rdquo; &mdash; a genuinely different mountain "
+             "from &ldquo;sinerupabbatarājā&rdquo; already met at SN "
+             "56.49-50, confirmed by direct comparison"),
+        ("sāsapamattiyo", "&ldquo;the size of mustard seeds&rdquo; "
+             "&mdash; a smaller unit than SN 56.49-50's own "
+             "&ldquo;muggamattiyo&rdquo; (mung-bean-sized)"),
+        ("…", "the elision marking, standing in for the full "
+             "application already given at SN 56.51"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.51's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.59:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What mountain does this discourse name, confirmed by this project's own direct comparison against SN 56.49-50?",
+         "opts": ["The Himalayas (himavā pabbatarājā), a genuinely different mountain from Mount Sineru", "Mount Sineru, identical to SN 56.49-50", "An unnamed, generic mountain with no specific identity", "A mountain located in a different country from the Himalayas"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali — a distinct mountain, not assumed identical to SN 56.49-50."},
+        {"q": "What size unit does this discourse use for its own pebbles, differing from SN 56.49-50's own?",
+         "opts": ["Mustard-seed-sized (sāsapamattiyo), smaller than SN 56.49-50's own mung-bean-sized pebbles", "The identical mung-bean size used at SN 56.49-50", "Boulder-sized, much larger than SN 56.49-50's own pebbles", "No size is specified in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely smaller unit."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Navamaṁ\" (\"ninth\")."},
+    ],
+    marginalia=[
+        ("A different mountain, confirmed directly", [
+            "the Himalayas, not Mount Sineru —",
+            "a genuine distinction, not a repeated image"
+        ]),
+        ("Smaller pebbles still", [
+            "mustard seeds, not mung beans —",
+            "shrinking further as this vagga nears its own close"
+        ]),
+        ("A fifth pair begins", [
+            "addition here, erosion in SN 56.60 —",
+            "closing this vagga's own recurring template"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "closing it next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.58.html\">SN 56.58 &middot; The Ocean "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.49.html\">SN 56.49 &middot; Sineru, King "
+        "of Mountains (1st)</a> &mdash; this project's own earlier "
+        "mountain simile, confirmed distinct from this discourse's "
+        "own Himalayas.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.60 — Dutiyapabbatūpamasutta ("A Mountain (2nd)")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 6 ("Abhisamayavaggo chaṭṭho"), ten
+# discourses (SN 56.51-60), with its own closing uddāna confirmed to
+# match exactly. Inverts SN 56.59's own image -- the Himalayas
+# themselves worn away except for seven mustard-seed pebbles.
+# --------------------------------------------------------------------------- #
+page(
+    56, 60, "Dutiyapabbatūpama", "A Mountain (2nd)",
+    vagga="Abhisamayavagga",
+    meta_title="SN 56.60 — A Mountain (2nd) | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the closing discourse of Vagga 6, "
+        "the Himalayas themselves worn away to seven mustard-seed "
+        "pebbles. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.59's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question inverting SN 56.59's own "
+                 "image, its own answer, then this vagga's own "
+                 "closing colophon and uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of the "
+                         "root colophon as the close of Vagga 6, ten "
+                         "discourses, completing this vagga's own "
+                         "fifth and final addition/erosion pair"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 6 (&ldquo;Abhisamayavaggo "
+        "chaṭṭho&rdquo;) by inverting SN 56.59's own image: rather "
+        "than seven mustard-seed pebbles placed on the intact "
+        "Himalayas, the Himalayas themselves are imagined worn away "
+        "and eroded until only seven mustard-seed pebbles remain "
+        "&mdash; completing this vagga's own fifth and final "
+        "addition/erosion pair."
+    ),
+    guide=[
+        ("A vagga of five complete pairs, confirmed", [
+            "This project's own final accounting, confirmed by "
+            "direct reading across all ten discourses: this vagga "
+            "opens with two singleton comparisons (SN 56.51-52, "
+            "fingernail-dirt and grass-tip water), then gives four "
+            "full addition/erosion pairs (confluence, earth, ocean, "
+            "and this discourse's own Himalayas) &mdash; ten "
+            "discourses total, all restating the identical "
+            "&ldquo;at most seven more lives&rdquo; claim first "
+            "given in full at SN 56.51.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.51-60", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;A fingernail's tip, a lotus pond, "
+            "confluence and two more; the earth twice, the ocean "
+            "twice, and these two mountain similes&rdquo;) lists "
+            "exactly ten titles, matching this project's own SN "
+            "56.51 through SN 56.60 precisely.",
+        ]),
+    ],
+    terms=[
+        ("himavā pabbatarājā parikkhayaṁ pariyādānaṁ gaccheyya",
+             "&ldquo;the Himalayas, the king of mountains, was worn "
+             "away and eroded&rdquo; &mdash; this discourse's own "
+             "inverted image, completing this vagga's own final pair"),
+        ("ṭhapetvā satta sāsapamattiyo pāsāṇasakkharā", "&ldquo;"
+             "except for seven pebbles the size of mustard "
+             "seeds&rdquo; &mdash; the remainder after the "
+             "Himalayas' own erosion, matching SN 56.59's own added "
+             "pebbles"),
+        ("dasamaṁ. abhisamayavaggo chaṭṭho", "&ldquo;tenth. the "
+             "sixth vagga [ends]&rdquo; &mdash; the root colophon's "
+             "own vagga-closing marker"),
+        ("sattakkhattuparamatā", "&ldquo;at most seven more "
+             "[lives]&rdquo; &mdash; the claim every discourse in "
+             "this vagga has restated, here for the tenth and final "
+             "time"),
+        ("nakhasikhā pokkharaṇī, sambhejja apare duve; pathavī dve "
+         "samuddā dve, dvemā ca pabbatūpamāti", "the closing uddāna's "
+             "own ten titles, confirmed by direct reading to match "
+             "SN 56.51 through SN 56.60 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. The vagga-closing colophon and "
+        "uddāna verse are left untranslated in the consulted English "
+        "source, as at several earlier vagga closes throughout this "
+        "project's own work. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.60:1.1-1.8"),
+        ("p", "&sect;2", "sn56.60:2.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 6 (\"Abhisamayavaggo chaṭṭho\"), ten discourses (SN 56.51-60)", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 7, not Vagga 6"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "How does this project's own final accounting describe this vagga's own overall structure?",
+         "opts": ["Two singleton comparisons opening the vagga, followed by four full addition/erosion pairs, ten discourses total, all restating one claim", "Ten entirely unrelated discourses sharing no common structure", "Five singleton comparisons with no pairing at all", "A single discourse repeated ten times with no variation"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading across all ten discourses in this vagga."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 56.51-60?",
+         "opts": ["Its own ten listed titles match this project's own ten discourses exactly", "It lists only nine titles, contradicting this project's own count of ten", "It lists titles from an entirely different vagga", "The uddāna gives entirely different terms from this project's own ten discourses"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure."},
+    ],
+    marginalia=[
+        ("The Himalayas, worn away", [
+            "seven mustard-seed pebbles remain —",
+            "completing this vagga's own fifth pair"
+        ]),
+        ("Ten discourses, one claim, restated tenfold", [
+            "\"at most seven more lives\" —",
+            "each time a different image, the same conclusion"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Abhisamayavaggo chaṭṭho\" — the sixth vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("Vagga 6 complete, five more to come", [
+            "the peyyāla-heavy vaggas begin next —",
+            "this saṃyutta's own final, largest stretch ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.59.html\">SN 56.59 &middot; A Mountain "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own companion piece.",
+        "<a href=\"sn-56.51.html\">SN 56.51 &middot; A "
+        "Fingernail</a> &mdash; this vagga's own opening discourse.",
+    ],
+)
