@@ -54112,3 +54112,167 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.8 — Salaḷāgārasutta ("The Salaḷa Tree Hut")
+# Confirmed by direct reading: Anuruddha teaches unprompted again,
+# reusing the river-slanting-east simile this project has now met
+# across SN 45, SN 46, SN 48, SN 49, and SN 51 -- but here fully
+# narrativized rather than compressed into a peyyāla, with a crowd
+# of people attempting, futilely, to physically reverse the Ganges
+# with spades and baskets, compared to how impossible it is to
+# tempt a mendicant developing the four satipaṭṭhāna back to lay
+# life with offers of wealth.
+# --------------------------------------------------------------------------- #
+page(
+    52, 8, "Salaḷāgāra", "The Salaḷa Tree Hut",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.8 — The Salaḷa Tree Hut | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Salaḷāgārasutta &mdash; a crowd tries to physically "
+        "reverse the Ganges river with spades and baskets, compared "
+        "to the impossibility of tempting a committed mendicant back "
+        "to lay life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The salaḷa tree hut, near Sāvatthī"),
+        ("Speaker", "Venerable Anuruddha, addressing the mendicants "
+                    "directly"),
+        ("Form", "A fully narrativized simile, then its own direct "
+                 "application"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a vivid, fully dramatized version "
+                         "of the river-simile formula this project "
+                         "has already met compressed into a peyyāla "
+                         "across five earlier saṃyuttas"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse reuses the "
+        "river-slanting-east simile this project has now confirmed "
+        "across SN 45, SN 46, SN 48, SN 49, and SN 51 &mdash; but "
+        "here, unlike every one of those compressed peyyāla "
+        "versions, Anuruddha fully narrativizes it: a large crowd "
+        "arrives with spades and baskets, determined to physically "
+        "force the Ganges to flow west instead of east, and fails "
+        "&mdash; the same futility, he says, awaits anyone who tries "
+        "to tempt a committed mendicant back to lay life."
+    ),
+    guide=[
+        ("A familiar simile, dramatized rather than compressed", [
+            "This project's own cross-reference: every earlier "
+            "occurrence of this simile in this book (the Gaṅgāpeyyāla "
+            "vaggas of SN 45, SN 48, SN 49, and SN 51) presents it as "
+            "a bare formula &mdash; the river simply &ldquo;slants, "
+            "slopes, and inclines to the east&rdquo; &mdash; but "
+            "here, confirmed by direct reading, Anuruddha adds a "
+            "fully imagined scene: a crowd &ldquo;with a spade and "
+            "basket&rdquo; declaring &ldquo;we'll make this Ganges "
+            "river slant, slope, and incline to the west!&rdquo;",
+        ]),
+        ("A futile labor, named for what it is", [
+            "Confirmed by direct reading, the mendicants' own reply "
+            "supplies the point directly: the crowd &ldquo;will "
+            "eventually get weary and frustrated&rdquo; &mdash; not "
+            "because the river resists them dramatically, but simply "
+            "because its own established direction cannot be undone "
+            "by force applied from outside.",
+        ]),
+        ("The application: wealth offered to a mind already inclined elsewhere", [
+            "Confirmed by direct reading, Anuruddha's own application "
+            "names specific tempters &mdash; &ldquo;rulers or their "
+            "chief ministers, friends or colleagues, relatives or "
+            "family&rdquo; &mdash; offering wealth and an end to "
+            "&ldquo;these ocher robes&rdquo; and the discipline of "
+            "&ldquo;shaving your head and carrying an alms bowl.&rdquo; "
+            "His own answer: it is &ldquo;quite impossible,&rdquo; "
+            "because the mendicant's own mind has, like the river, "
+            "already &ldquo;slanted, sloped, and inclined to "
+            "seclusion&rdquo; over a long time.",
+        ]),
+        ("The same closing formula, now framed as a proof rather than a mere fact", [
+            "Confirmed by direct reading, this discourse closes with "
+            "the same plain satipaṭṭhāna formula already met "
+            "throughout this vagga &mdash; but here it functions not "
+            "merely as a definition, but as the explanation for why "
+            "the mendicant's own mind has become as immovable, in "
+            "its own direction, as a great river.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; the same formula this project has "
+             "confirmed across SN 45, SN 46, SN 48, SN 49, and SN 51, "
+             "here dramatized in full"),
+        ("kudālapiṭakaṁ ādāya", "&ldquo;with a spade and "
+             "basket&rdquo; &mdash; the crowd's own tools, named "
+             "specifically in this discourse's own unique narrative "
+             "elaboration"),
+        ("kilamathassa vighātassa bhāgī", "&ldquo;will eventually "
+             "get weary and frustrated&rdquo; &mdash; the "
+             "mendicants' own predicted outcome for the crowd's own "
+             "futile labor"),
+        ("kāsāyāni vatthāni", "&ldquo;these ocher robes&rdquo; "
+             "&mdash; part of the tempters' own offer, naming the "
+             "outward sign of monastic life they urge the mendicant "
+             "to abandon"),
+        ("cirarattaṁ vivekaninnaṁ...cittaṁ", "&ldquo;that "
+             "mendicant's mind has slanted, sloped, and inclined to "
+             "seclusion&rdquo; &mdash; the discourse's own direct "
+             "application of the river's own established direction "
+             "to the trained mind"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.8:1.1-1.11"),
+        ("p", "&sect;2", "sn52.8:2.1-2.4"),
+        ("p", "&sect;3", "sn52.8:3.1-3.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own version of the river simile differ from every earlier occurrence in this book?",
+         "opts": ["It is fully narrativized, with a crowd actually attempting to reverse the river with spades and baskets, rather than stated as a bare formula", "It uses an entirely different river, not the Ganges, unlike every earlier occurrence", "It denies the simile applies to the four bases or foundations of any kind", "It is the first occurrence of this simile anywhere in the Pāli canon"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a vivid dramatization, not the bare peyyāla formula met at SN 45, 46, 48, 49, and 51."},
+        {"q": "Who specifically does Anuruddha name as potential tempters trying to lure a mendicant back to lay life?",
+         "opts": ["Rulers or their chief ministers, friends or colleagues, relatives or family", "Only strangers with no personal connection to the mendicant", "Other mendicants who have already disrobed themselves", "Anuruddha names no specific tempters, speaking only in the abstract"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a specific list of people with real social and personal influence."},
+        {"q": "Why does Anuruddha say it is \"quite impossible\" for such a mendicant to return to lay life?",
+         "opts": ["Because that mendicant's mind has, over a long time, slanted, sloped, and inclined to seclusion, just as the river has to the east", "Because monastic vows are legally binding and cannot be broken", "Because the Buddha personally forbids any mendicant from ever disrobing", "Because wealth itself is considered inherently evil in this discourse"],
+         "correct": 0,
+         "expl": "The direct application of the river's own established, irreversible direction to the trained mind."},
+    ],
+    marginalia=[
+        ("Spades against a river", [
+            "a crowd determined, tools in hand —",
+            "and still, the east-flowing water wins"
+        ]),
+        ("Not resistance, just direction", [
+            "the river doesn't fight back —",
+            "it simply continues where it already flows"
+        ]),
+        ("Wealth offered to a mind already elsewhere", [
+            "robes called a torment, wealth called a relief —",
+            "and still, impossible to turn back"
+        ]),
+        ("A familiar formula, given new weight", [
+            "the same four foundations as always —",
+            "now explaining why the current can't be reversed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.7.html\">SN 52.7 &middot; The Ending of "
+        "Craving</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
