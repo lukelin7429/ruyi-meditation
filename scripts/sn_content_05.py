@@ -53095,3 +53095,173 @@ page_range(
         "in preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.1 — Paṭhamarahogatasutta ("In Private, 1st")
+# Confirmed by direct reading: opens SN 52 (Anuruddhasaṃyutta), a new
+# saṃyutta entirely about Venerable Anuruddha. Anuruddha reflects in
+# private on the four kinds of mindfulness meditation (satipaṭṭhāna);
+# Moggallāna instantly teleports to him by psychic power -- a direct
+# real-world demonstration of the very iddhi this project just
+# finished translating in full at SN 51 -- and asks him to define the
+# "undertaking" of the four satipaṭṭhāna, which Anuruddha does in
+# full technical detail, including the fivefold perception-wish
+# formula.
+# --------------------------------------------------------------------------- #
+page(
+    52, 1, "Paṭhamarahogata", "In Private (1st)",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.1 — In Private (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamarahogatasutta, opening the Anuruddhasaṃyutta "
+        "&mdash; Moggallāna teleports to Anuruddha by psychic power, "
+        "and Anuruddha defines the four kinds of mindfulness "
+        "meditation in full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Jeta's Grove, Anāthapiṇḍika's Monastery, near "
+                    "Sāvatthī"),
+        ("Speakers", "Venerable Anuruddha and Venerable "
+                     "Mahāmoggallāna"),
+        ("Form", "A private reflection, a psychic-power visit, and a "
+                 "detailed technical definition"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; opens a new saṃyutta devoted "
+                         "entirely to Anuruddha, and shows "
+                         "Moggallāna's own psychic power (just "
+                         "completed in full at SN 51) put to direct "
+                         "practical use"),
+    ],
+    why=(
+        "This project's own cross-reference: this discourse opens "
+        "SN 52 (Anuruddhasaṃyutta) with a striking real-world "
+        "demonstration of the very psychic power this project has "
+        "just finished translating in full at SN 51 &mdash; "
+        "Moggallāna, sensing Anuruddha's own private thought, "
+        "&ldquo;reappeared in front of Anuruddha&rdquo; as easily as "
+        "extending an arm, then asks him to define, in complete "
+        "technical detail, the &ldquo;undertaking&rdquo; of the four "
+        "kinds of mindfulness meditation."
+    ),
+    guide=[
+        ("A private reflection on what's been missed and what's been gained", [
+            "Confirmed by direct reading, Anuruddha's own opening "
+            "thought is framed as a stark either/or: &ldquo;whoever "
+            "has missed out on these four kinds of mindfulness "
+            "meditation has missed out on the noble path to the "
+            "complete ending of suffering&rdquo; &mdash; and the "
+            "reverse for whoever has undertaken them.",
+        ]),
+        ("Moggallāna's own psychic power, put to direct use", [
+            "This project's own cross-reference: Moggallāna's own "
+            "instant appearance &mdash; &ldquo;as easily as a strong "
+            "person would extend or contract their arm&rdquo; "
+            "&mdash; is a direct, practical instance of the same "
+            "psychic power this project has just spent this entire "
+            "prior saṃyutta (SN 51) translating in theory; here it "
+            "is shown solving an immediate, ordinary need: knowing "
+            "what a fellow mendicant is privately thinking and "
+            "responding to it in person.",
+        ]),
+        ("The four satipaṭṭhāna, defined with full technical precision", [
+            "Confirmed by direct reading, Anuruddha's own answer "
+            "gives the classic fourfold structure (body, feelings, "
+            "mind, principles) each observed &ldquo;internally... "
+            "externally... internally and externally,&rdquo; "
+            "&ldquo;observing the liability to originate, to "
+            "vanish, and to originate and vanish&rdquo; &mdash; the "
+            "same structure this project has already met in the "
+            "foundations of mindfulness elsewhere on this site.",
+        ]),
+        ("A fivefold perception-wish formula, given in full for the body", [
+            "Confirmed by direct reading, Anuruddha's own account of "
+            "body-contemplation adds a distinctive fivefold list of "
+            "deliberate perceptual choices: perceiving the repulsive "
+            "in the unrepulsive, the unrepulsive in the repulsive, "
+            "the repulsive in both, the unrepulsive in both, or "
+            "remaining equanimous while shunning both &mdash; a "
+            "mastery-of-perception formula this project has not yet "
+            "encountered in this exact form.",
+        ]),
+    ],
+    terms=[
+        ("rahogatassa...cittaṁ uppajjati", "&ldquo;as [Anuruddha] "
+             "was in private retreat this thought came to his "
+             "mind&rdquo; &mdash; the discourse's own opening frame, "
+             "giving this vagga its own name"),
+        ("iddhiyā", "&ldquo;by psychic power&rdquo; &mdash; the "
+             "means of Moggallāna's own instantaneous appearance, "
+             "confirmed by this project's own cross-reference to be "
+             "the same iddhi translated in full at SN 51"),
+        ("samudayadhammānupassī...vayadhammānupassī", "&ldquo;"
+             "observing the liability to originate... to "
+             "vanish&rdquo; &mdash; the discourse's own technical "
+             "phrase describing impermanence directly observed in "
+             "each of the four foundations"),
+        ("asubhaṁ...subhanti", "&ldquo;the repulsive... the "
+             "unrepulsive&rdquo; &mdash; the paired terms structuring "
+             "the fivefold perception-wish formula given for the "
+             "body"),
+        ("upekkhako vihareyyaṁ sato sampajāno", "&ldquo;staying "
+             "equanimous, mindful and aware&rdquo; &mdash; the fifth "
+             "and final option in the perception-wish formula, "
+             "shunning both the repulsive and the unrepulsive "
+             "alike"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.1:1.1-1.5"),
+        ("p", "&sect;2", "sn52.1:2.1-2.3"),
+        ("p", "&sect;3", "sn52.1:3.1-3.3"),
+        ("p", "&sect;4", "sn52.1:4.1-4.5"),
+        ("p", "&sect;5", "sn52.1:5.1-5.3"),
+        ("p", "&sect;6", "sn52.1:7.1-7.3"),
+        ("p", "&sect;7", "sn52.1:9.1-9.3"),
+        ("p", "&sect;8", "sn52.1:10.1-10.3"),
+    ],
+    quiz=[
+        {"q": "How does Moggallāna arrive in front of Anuruddha in this discourse?",
+         "opts": ["Instantly, by psychic power, \"as easily as a strong person would extend or contract their arm\"", "By walking a long distance over several days", "By being summoned through a formal written invitation", "By flying visibly through the sky in front of many witnesses"],
+         "correct": 0,
+         "expl": "\"Venerable Mahāmoggallāna knew what Venerable Anuruddha was thinking... he reappeared in front of Anuruddha\" instantly."},
+        {"q": "What does Anuruddha's own opening private thought declare?",
+         "opts": ["Whoever has missed out on the four kinds of mindfulness meditation has missed out on the noble path to the complete ending of suffering, and the reverse for whoever has undertaken them", "That psychic power is more valuable than mindfulness meditation", "That only monks who have met the Buddha personally can attain the path", "That the four kinds of mindfulness meditation are optional for advanced practitioners only"],
+         "correct": 0,
+         "expl": "A stark either/or framing, confirmed directly by the text."},
+        {"q": "What distinctive fivefold formula does Anuruddha give for body-contemplation specifically?",
+         "opts": ["Deliberately choosing to perceive the repulsive in the unrepulsive, the unrepulsive in the repulsive, both combinations, or remaining equanimous while shunning both", "A count of exactly how many breaths to take before beginning meditation", "Five specific postures the body must adopt in sequence", "Five different monasteries where this practice should be undertaken"],
+         "correct": 0,
+         "expl": "A mastery-of-perception formula, confirmed by direct reading to be distinctive to this discourse's own account."},
+    ],
+    marginalia=[
+        ("A private thought, answered in person", [
+            "no one summoned, yet Moggallāna already knew —",
+            "and appeared as easily as bending an arm"
+        ]),
+        ("Power, put to ordinary use", [
+            "not a demonstration for its own sake this time —",
+            "just one mendicant checking on another's mind"
+        ]),
+        ("Four foundations, defined with precision", [
+            "body, feelings, mind, principles —",
+            "each traced from arising to vanishing"
+        ]),
+        ("Choosing how to see", [
+            "the repulsive found in the unrepulsive, and back again —",
+            "perception itself made a deliberate practice"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
