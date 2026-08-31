@@ -52031,3 +52031,149 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.31 — Moggallānasutta ("About Moggallāna")
+# Confirmed by direct reading: shares its own title with SN 51.14
+# from Vagga 2, and gives the same content about Moggallāna's own
+# power, but strips away the narrative frame entirely — no
+# toe-shaking scene, no restless mendicants needing correction. The
+# Buddha's own opening question here stands alone.
+# --------------------------------------------------------------------------- #
+page(
+    51, 31, "Moggallāna", "About Moggallāna",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.31 — About Moggallāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this Moggallānasutta &mdash; the same explanation of "
+        "Moggallāna's own power as SN 51.14, stripped of its own "
+        "narrative frame. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the mendicants"),
+        ("Form", "A question-and-answer exchange, without the "
+                 "narrative scene SN 51.14 built around the same "
+                 "content"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; shares its "
+                         "own title and explanatory content with SN "
+                         "51.14, confirmed by direct comparison to "
+                         "omit that discourse's own dramatic scene"),
+    ],
+    why=(
+        "This project's own comparison: this discourse shares its "
+        "own root Pāli title, &ldquo;Moggallānasutta,&rdquo; with SN "
+        "51.14 from Vagga 2, and gives the identical explanation of "
+        "the four bases as the cause of Moggallāna's own power "
+        "&mdash; but confirmed by direct reading, it opens simply "
+        "with the Buddha's own question to the mendicants, without "
+        "the toe-shaking demonstration or the restless mendicants "
+        "SN 51.14 built its own narrative around."
+    ),
+    guide=[
+        ("The same content, a bare frame", [
+            "Confirmed by direct reading, this discourse's own "
+            "explanatory content &mdash; the four bases named, the "
+            "detailed method given for enthusiasm and inquiry, the "
+            "sixfold list of results compressed by ellipsis, "
+            "arahantship named last &mdash; is essentially identical "
+            "to SN 51.14's own account, but the entire narrative "
+            "scene (the stilt longhouse, the restless mendicants, "
+            "Moggallāna's own toe) is simply absent.",
+        ]),
+        ("A now-familiar deferral", [
+            "This project's own cross-reference: the mendicants' own "
+            "reply, &ldquo;our teachings are rooted in the Buddha. "
+            "He is our guide and our refuge...,&rdquo; is the same "
+            "deferral formula this project has now met four times "
+            "in this vagga (SN 51.14, SN 51.28, SN 51.30, and here) "
+            "&mdash; a stock response mendicants give when the "
+            "Buddha directs a question at them.",
+        ]),
+        ("Two discourses, one underlying teaching", [
+            "This project's own observation: comparing SN 51.14 and "
+            "this discourse directly shows the same core teaching "
+            "&mdash; Moggallāna's own power traced to the four bases "
+            "&mdash; can be delivered either as a vivid narrative "
+            "occasion (Vagga 2) or as a bare doctrinal restatement "
+            "(Vagga 3), without changing the doctrinal content "
+            "itself.",
+        ]),
+    ],
+    terms=[
+        ("Buddhamūlakā no...bhante, dhammā", "&ldquo;our teachings "
+             "are rooted in the Buddha&rdquo; &mdash; the "
+             "mendicants' own deferral, now met a fourth time in "
+             "this vagga alone"),
+        ("iddhimā ceva ahosi mahānubhāvo ca", "&ldquo;so powerful "
+             "and mighty&rdquo; &mdash; the same description of "
+             "Moggallāna already met at SN 51.14, unchanged here"),
+        ("na ca atilīno...na ca atippaggahito", "&ldquo;neither "
+             "too lax nor too tense&rdquo; &mdash; the same balanced "
+             "quality named for Moggallāna's own enthusiasm and "
+             "inquiry"),
+        ("anekavihitaṁ iddhividhaṁ...pe...", "&ldquo;the many kinds "
+             "of psychic power &hellip;&rdquo; &mdash; the sixfold "
+             "list, compressed by ellipsis here just as it was for "
+             "Moggallāna at SN 51.14"),
+        ("āsavānaṁ khayā", "&ldquo;through the ending of "
+             "defilements&rdquo; &mdash; the discourse's own closing "
+             "item, matching SN 51.14's own account word for word"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.31:1.1-1.3"),
+        ("p", "&sect;2", "sn51.31:2.1-2.2"),
+        ("p", "&sect;3", "sn51.31:3.1-3.14"),
+        ("p", "&sect;4", "sn51.31:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own content compare to SN 51.14 from Vagga 2?",
+         "opts": ["Essentially the same explanation of Moggallāna's own power, but without the toe-shaking demonstration or the restless mendicants of SN 51.14's own narrative", "A completely different account, crediting a different mendicant's power instead", "It denies that Moggallāna actually possessed psychic power at all", "It adds an entirely new demonstration not found in SN 51.14"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the same doctrinal content, stripped of SN 51.14's own dramatic scene."},
+        {"q": "How many times has the mendicants' own deferral formula (\"our teachings are rooted in the Buddha\") now appeared in this vagga, according to this project's own count?",
+         "opts": ["Four times — at SN 51.14, SN 51.28, SN 51.30, and now SN 51.31", "Only once, exclusively in this discourse", "Twice, and only when spoken by Ānanda specifically", "It has not appeared before this discourse"],
+         "correct": 0,
+         "expl": "A stock response now confirmed across four separate discourses in this vagga alone."},
+        {"q": "What does this project's own comparison of the two Moggallāna discourses suggest?",
+         "opts": ["The same core teaching can be delivered either as a vivid narrative occasion or as a bare doctrinal restatement, without changing its content", "The two discourses actually contradict each other about the cause of Moggallāna's power", "Only one of the two discourses is considered canonical", "The bare version in Vagga 3 was composed earlier than the narrative version in Vagga 2"],
+         "correct": 0,
+         "expl": "This project's own observation, based on direct comparison of the two discourses' own content."},
+    ],
+    marginalia=[
+        ("The same story, no scene", [
+            "no toe against a longhouse floor this time —",
+            "just the Buddha's own bare question"
+        ]),
+        ("A deferral heard before", [
+            "the fourth time in this vagga alone —",
+            "\"our teachings are rooted in the Buddha\""
+        ]),
+        ("Two tellings, one teaching", [
+            "narrative in Vagga 2, doctrine in Vagga 3 —",
+            "the same four bases either way"
+        ]),
+        ("Content over occasion", [
+            "the drama was never the point —",
+            "the cause of the power always was"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.31/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.14.html\">SN 51.14 &middot; With "
+        "Moggallāna</a> &mdash; the earlier discourse this one "
+        "closely parallels, with the toe-shaking demonstration this "
+        "discourse omits.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
