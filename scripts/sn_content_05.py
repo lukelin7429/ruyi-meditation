@@ -54886,3 +54886,128 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.13 — Dibbasotasutta ("Clairaudience")
+# Confirmed by direct reading: the second confirmed instance of this
+# vagga's own pattern -- a single elided sentence, attributing
+# clairaudience to the four foundations of mindfulness, matching the
+# same power already met at SN 51.11.
+# --------------------------------------------------------------------------- #
+page(
+    52, 13, "Dibbasota", "Clairaudience",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.13 — Clairaudience | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dibbasotasutta &mdash; Anuruddha attributes clairaudience "
+        "to the four kinds of mindfulness meditation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the second "
+                         "confirmed instance of this vagga's own "
+                         "systematic walk through the classic higher "
+                         "knowledges"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse continues the "
+        "pattern this project confirmed at SN 52.12: a single elided "
+        "sentence attributing the next of the classic higher "
+        "knowledges &mdash; clairaudience &mdash; to the four "
+        "kinds of mindfulness meditation, matching the identical "
+        "power already given in full at SN 51.11."
+    ),
+    guide=[
+        ("The vagga's own confirmed pattern continues", [
+            "Confirmed by direct reading, this discourse's own "
+            "content is again a single sentence, assuming SN 52.11's "
+            "own base question and formula, now naming clairaudience "
+            "as the specific attainment.",
+        ]),
+        ("The same power already met at SN 51.11", [
+            "Confirmed by direct reading, the phrasing &mdash; "
+            "&ldquo;with clairaudience that is purified and "
+            "superhuman, I hear both kinds of sounds, human and "
+            "heavenly, whether near or far&rdquo; &mdash; is "
+            "word-for-word the same description already given at SN "
+            "51.11, again attributed here to the four foundations of "
+            "mindfulness rather than the four bases of psychic "
+            "power.",
+        ]),
+    ],
+    terms=[
+        ("dibbasota", "&ldquo;clairaudience&rdquo; &mdash; this "
+             "discourse's own title, literally &ldquo;the divine "
+             "ear&rdquo;"),
+        ("dibbāya sotadhātuyā visuddhāya atikkantamānusikāya",
+             "&ldquo;with clairaudience that is purified and "
+             "superhuman&rdquo; &mdash; the same phrase already met "
+             "at SN 51.11"),
+        ("ubho sadde suṇāti dibbe ca mānuse ca", "&ldquo;I hear "
+             "both kinds of sounds, human and heavenly&rdquo; "
+             "&mdash; the specific claim, unchanged from its own "
+             "earlier occurrence"),
+        ("ye dūre santike ca", "&ldquo;whether near or far&rdquo; "
+             "&mdash; the phrase's own closing qualifier"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for clairaudience here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.13:1.1"),
+    ],
+    quiz=[
+        {"q": "What pattern does this discourse continue, according to this project's own confirmation?",
+         "opts": ["The vagga's own systematic walk through the classic higher knowledges, each in a single elided sentence", "A pattern of full narrative retellings with no elision at all", "A pattern unrelated to any earlier discourse in this book", "A pattern found only in this single discourse, not repeated elsewhere"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to SN 52.12: the same compressed structure, now naming clairaudience."},
+        {"q": "Where has this exact description of clairaudience already appeared in this project's own work?",
+         "opts": ["At SN 51.11, word-for-word the same phrasing", "Nowhere else — this is the first occurrence in this book", "Only in the Aṅguttara Nikāya", "At SN 52.1, this saṃyutta's own opening discourse"],
+         "correct": 0,
+         "expl": "The identical phrase, already translated in full at SN 51.11."},
+        {"q": "What does clairaudience allow the practitioner to hear, according to this discourse's own text?",
+         "opts": ["Both kinds of sounds, human and heavenly, whether near or far", "Only sounds made by other mendicants within the same monastery", "Only sounds occurring in the present moment, not from any distance", "The thoughts of other beings, rather than sounds"],
+         "correct": 0,
+         "expl": "\"Both kinds of sounds, human and heavenly, whether near or far\" — confirmed directly by the text."},
+    ],
+    marginalia=[
+        ("The pattern holds", [
+            "one elided sentence, as expected —",
+            "clairaudience, next in the list"
+        ]),
+        ("A familiar description", [
+            "purified, superhuman, both kinds of sound —",
+            "the same words as SN 51.11"
+        ]),
+        ("Near or far, no distinction", [
+            "human voices and heavenly ones alike —",
+            "distance itself no longer a limit"
+        ]),
+        ("Two roots, one power", [
+            "the four foundations named here —",
+            "the same fruit as the four bases elsewhere"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.12.html\">SN 52.12 &middot; Psychic "
+        "Powers</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
