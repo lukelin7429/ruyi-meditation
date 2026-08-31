@@ -49895,3 +49895,134 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.16 — Paṭhamasamaṇabrāhmaṇasutta ("Ascetics and Brahmins, 1st")
+# Confirmed by direct reading: a short, general statement that every
+# mighty and powerful ascetic or brahmin, past, future, or present,
+# owes that power to the four bases — with a "1st" in its own title
+# implying a companion discourse still to come.
+# --------------------------------------------------------------------------- #
+page(
+    51, 16, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins (1st)",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.16 — Ascetics and Brahmins (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamaṇabrāhmaṇasutta &mdash; every mighty ascetic "
+        "or brahmin, in any era, owes that power to the four bases "
+        "of psychic power. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, general, universally scoped statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the "
+                         "discourse's own title marks it as the "
+                         "first of a pair, extending the four bases' "
+                         "own claim beyond the Buddhist community "
+                         "itself"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse makes an "
+        "unusually broad claim: not only Buddhist mendicants like "
+        "Moggallāna, but &ldquo;all the ascetics and brahmins in the "
+        "past, future, or present who are mighty and powerful&rdquo; "
+        "&mdash; any tradition, any era &mdash; owe that power "
+        "specifically to developing and cultivating the four bases "
+        "of psychic power."
+    ),
+    guide=[
+        ("A claim that reaches beyond this one community", [
+            "Confirmed by direct reading, the discourse's own scope "
+            "is explicitly universal: &ldquo;all the ascetics and "
+            "brahmins&rdquo; across all three times, not qualified "
+            "by school, teacher, or tradition &mdash; the same claim "
+            "this project has already met in a narrower form applied "
+            "to Moggallāna specifically at SN 51.14.",
+        ]),
+        ("The same four bases, stated without elaboration", [
+            "Confirmed by direct reading, the discourse gives only "
+            "the bare list &mdash; enthusiasm, energy, mental "
+            "development, inquiry, each with active effort &mdash; "
+            "without repeating the detailed method or the sixfold "
+            "list of results already given in full at SN 51.11.",
+        ]),
+        ("A title that promises a second discourse", [
+            "This project's own observation: the discourse's own "
+            "root Pāli title, Paṭhamasamaṇabrāhmaṇasutta, marks it "
+            "explicitly as &ldquo;first&rdquo; (paṭhama) &mdash; not "
+            "yet confirmed what distinguishes the companion "
+            "discourse still to come.",
+        ]),
+    ],
+    terms=[
+        ("samaṇabrāhmaṇā", "&ldquo;ascetics and brahmins&rdquo; "
+             "&mdash; the discourse's own deliberately broad "
+             "category, not restricted to the Buddha's own community"),
+        ("atītānāgatapaccuppannā", "&ldquo;past, future, or "
+             "present&rdquo; &mdash; the discourse's own three-part "
+             "temporal scope, covering every era without exception"),
+        ("iddhimanto ceva ahesuṁ mahānubhāvā ca", "&ldquo;mighty and "
+             "powerful&rdquo; &mdash; the discourse's own criterion, "
+             "identical to the description of Moggallāna at SN 51.14"),
+        ("paṭhama", "&ldquo;first&rdquo; &mdash; part of the "
+             "discourse's own root Pāli title, marking it as one of "
+             "a pair"),
+        ("padhānasaṅkhārasamannāgataṁ", "&ldquo;and active "
+             "effort&rdquo; &mdash; the same technical term defined "
+             "in full at SN 51.13, here used without re-explanation"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.16:1.1-1.3"),
+        ("p", "&sect;2", "sn51.16:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "How broad is this discourse's own claim about who owes their power to the four bases?",
+         "opts": ["All ascetics and brahmins, in any tradition, past, future, or present — not limited to the Buddha's own community", "Only mendicants who have personally met the Buddha", "Only ascetics living in India during the Buddha's own lifetime", "Only those who have already attained arahantship"],
+         "correct": 0,
+         "expl": "\"All the ascetics and brahmins in the past, future, or present who are mighty and powerful.\""},
+        {"q": "What does this discourse's own title suggest about it?",
+         "opts": ["It is explicitly marked \"first\" (paṭhama), implying a companion discourse still to come", "It was the very first discourse the Buddha ever gave", "It is the first of the four bases to be described in this saṃyutta", "It replaces an earlier discourse that was later withdrawn"],
+         "correct": 0,
+         "expl": "Paṭhamasamaṇabrāhmaṇasutta — \"the first Ascetics-and-Brahmins discourse,\" by its own root title."},
+        {"q": "How does this discourse present the four bases, compared to SN 51.11's own full account?",
+         "opts": ["As a bare list only, without repeating the detailed method or the sixfold list of results", "With an entirely new, more detailed method not found anywhere else", "By naming a fifth basis absent from all previous discourses", "By denying that ascetics outside the Buddhist community can develop them at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: only the bare list, assuming the reader already has SN 51.11's own fuller account in mind."},
+    ],
+    marginalia=[
+        ("A claim beyond one community", [
+            "not just mendicants, not just this era —",
+            "any ascetic or brahmin, any time at all"
+        ]),
+        ("The same four, unexplained again", [
+            "enthusiasm, energy, mind, inquiry —",
+            "named, not re-taught"
+        ]),
+        ("A title that promises a sequel", [
+            "\"first,\" the root title says plainly —",
+            "a second Ascetics-and-Brahmins discourse still to come"
+        ]),
+        ("Power, but no elaboration", [
+            "no method spelled out again this time —",
+            "the reader is trusted to already know it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.14.html\">SN 51.14 &middot; With "
+        "Moggallāna</a> &mdash; the same claim, applied there to one "
+        "named individual rather than stated in general.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
