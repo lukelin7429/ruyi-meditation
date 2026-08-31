@@ -55799,3 +55799,130 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.20 — Indriyaparopariyattisutta ("Comprehending the Faculties
+# of Others")
+# Confirmed by direct reading: the sixth of the ten Tathāgata
+# powers, continuing the sequence confirmed at SN 52.15-19 --
+# knowledge of the relative maturity of other beings' own faculties.
+# --------------------------------------------------------------------------- #
+page(
+    52, 20, "Indriyaparopariyatti", "Comprehending the Faculties of Others",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.20 — Comprehending the Faculties of Others | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Indriyaparopariyattisutta &mdash; Anuruddha attributes "
+        "knowledge of other beings' faculties to the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the sixth of "
+                         "the ten Tathāgata powers, confirming this "
+                         "vagga's own continued sequential order"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; truly understanding &ldquo;the faculties of other "
+        "sentient beings and other individuals after encompassing "
+        "them with my mind&rdquo; &mdash; is the sixth of the "
+        "classical ten Tathāgata powers, directly following the "
+        "fifth at SN 52.19, confirming this project's own tracking "
+        "of this vagga's own sequential order continues intact."
+    ),
+    guide=[
+        ("The sixth power, in sequence", [
+            "This project's own confirmation: this discourse "
+            "continues the exact order already confirmed across SN "
+            "52.15-19, now naming knowledge of the relative "
+            "maturity of other beings' own spiritual faculties.",
+        ]),
+        ("A phrase echoing this vagga's own earlier mind-reading discourse", [
+            "This project's own cross-reference: the phrase "
+            "&ldquo;after encompassing them with my mind&rdquo; "
+            "echoes SN 52.14's own mind-reading claim closely, though "
+            "here directed at assessing others' own spiritual "
+            "readiness (their faculties' own relative maturity) "
+            "rather than reading their present mental state.",
+        ]),
+    ],
+    terms=[
+        ("parasattānaṁ parapuggalānaṁ indriyaparopariyattaṁ "
+             "yathābhūtaṁ pajānāmi", "&ldquo;I truly understand the "
+             "faculties of other sentient beings and other "
+             "individuals&rdquo; &mdash; this discourse's own precise "
+             "claim, the sixth of the ten Tathāgata powers"),
+        ("indriya", "&ldquo;faculty&rdquo; &mdash; here referring to "
+             "spiritual faculties (such as faith, energy, "
+             "mindfulness, immersion, and wisdom) whose relative "
+             "development this power assesses"),
+        ("paropariyatta", "&ldquo;relative maturity&rdquo; &mdash; "
+             "the discourse's own specific concern: not merely "
+             "whether a faculty is present, but how developed it is"),
+        ("cetasā ceto paricca", "&ldquo;after encompassing them with "
+             "my mind&rdquo; &mdash; the same phrase already met at "
+             "SN 52.14, here applied to assessing faculties rather "
+             "than reading present mental states"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.20:1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse's own claim occupy in the ten Tathāgata powers?",
+         "opts": ["The sixth power, directly following the fifth at SN 52.19", "The first power, contradicting the sequence already established", "A power unrelated to the dasabala list entirely", "The final, tenth power in the traditional list"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: continuing the exact order already tracked across SN 52.15-19."},
+        {"q": "What does this project's own cross-reference note about this discourse's own phrasing?",
+         "opts": ["It echoes SN 52.14's own mind-reading phrase, but here applied to assessing faculties' relative maturity rather than present mental states", "It is entirely unrelated to any earlier discourse in this vagga", "It contradicts SN 52.14's own account of mind-reading", "It denies that Anuruddha can perceive others' minds at all"],
+         "correct": 0,
+         "expl": "This project's own confirmed cross-reference to the same phrase's own earlier, related use."},
+        {"q": "What specifically does \"paropariyatta\" (relative maturity) concern?",
+         "opts": ["How developed a given faculty is, not merely whether it is present", "The physical age of the being being assessed", "The number of past lives a being has lived", "A being's own social or economic status"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a concern with degree of development, not mere presence or absence."},
+    ],
+    marginalia=[
+        ("The sixth power, on schedule", [
+            "convictions, then faculties —",
+            "the sequence continues unbroken"
+        ]),
+        ("A familiar phrase, a new purpose", [
+            "\"encompassing with my mind\" — heard before, at SN 52.14 —",
+            "now assessing readiness, not just present thought"
+        ]),
+        ("Not just present, but how far along", [
+            "faith, energy, mindfulness, immersion, wisdom —",
+            "each one's own degree of ripeness known"
+        ]),
+        ("The same root, a sixth fruit", [
+            "the four foundations, unchanged as cause —",
+            "the list of results keeps growing"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.19.html\">SN 52.19 &middot; Diverse "
+        "Beliefs</a> &mdash; the previous discourse, the fifth of "
+        "the ten Tathāgata powers.",
+        "<a href=\"sn-52.14.html\">SN 52.14 &middot; Encompassing "
+        "the Mind</a> &mdash; the earlier discourse sharing this "
+        "one's own opening phrase.",
+    ],
+)
