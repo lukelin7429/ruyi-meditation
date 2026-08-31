@@ -54276,3 +54276,159 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.9 — Ambapālivanasutta ("In Ambapālī's Mango Grove")
+# Confirmed by direct reading: a new setting, Vesālī. Sāriputta
+# notices Anuruddha's own clear faculties and bright complexion and
+# asks what he practices; Anuruddha answers with the same plain
+# satipaṭṭhāna formula, then explicitly applies the classic arahant
+# formula to himself. Confirmed by direct reading of the root Pāli,
+# Sāriputta's own closing praise names this an "āsabhiṁ vācaṁ" --
+# literally a "bull's utterance," a confident declaration of one's
+# own attainment -- rendered by the consulted translation as a
+# "dramatic statement."
+# --------------------------------------------------------------------------- #
+page(
+    52, 9, "Ambapālivana", "In Ambapālī's Mango Grove",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.9 — In Ambapālī's Mango Grove | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ambapālivanasutta &mdash; Sāriputta notices Anuruddha's "
+        "own bright complexion and asks what he practices, prompting "
+        "a rare, explicit declaration of arahantship. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Ambapālī's Mango Grove, near Vesālī"),
+        ("Speakers", "Venerables Sāriputta and Anuruddha"),
+        ("Form", "An observation, a question, and a rare explicit "
+                 "declaration of attainment"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; a "
+                         "new setting, and a discourse this project "
+                         "confirms, by its own root Pāli, contains a "
+                         "&ldquo;bull's utterance&rdquo; &mdash; a "
+                         "formal declaration of arahantship"),
+    ],
+    why=(
+        "Confirmed by direct reading, Sāriputta's own opening "
+        "observation &mdash; Anuruddha's &ldquo;faculties are so "
+        "very clear,&rdquo; his &ldquo;complexion is pure and "
+        "bright&rdquo; &mdash; leads Anuruddha to answer not only "
+        "with the practice itself but with an explicit application "
+        "of the classic arahant formula to himself, which Sāriputta "
+        "then names, confirmed by this project's own reading of the "
+        "root Pāli, an &ldquo;āsabhiṁ vācaṁ&rdquo; &mdash; literally "
+        "a &ldquo;bull's utterance,&rdquo; a formal, confident "
+        "declaration of attainment."
+    ),
+    guide=[
+        ("A physical sign noticed and asked about", [
+            "Confirmed by direct reading, Sāriputta's own question is "
+            "prompted by observation, not report: he notices "
+            "Anuruddha's own clear faculties and bright complexion "
+            "before asking what kind of meditation he has been "
+            "practicing.",
+        ]),
+        ("The familiar practice, then a rare explicit claim", [
+            "Confirmed by direct reading, Anuruddha's own answer "
+            "begins with the same plain satipaṭṭhāna formula already "
+            "met throughout this vagga, but closes by explicitly "
+            "applying the classic arahant formula &mdash; &ldquo;"
+            "perfected&mdash;with defilements ended, who has "
+            "completed the spiritual journey... rightly freed "
+            "through enlightenment&rdquo; &mdash; directly to "
+            "himself as the one whose mind stays &ldquo;firmly "
+            "established&rdquo; in the four foundations.",
+        ]),
+        ("A \"bull's utterance,\" confirmed by the root Pāli", [
+            "Confirmed by direct reading of the root Pāli, "
+            "Sāriputta's own closing reaction names Anuruddha's "
+            "statement an &ldquo;āsabhiṁ vācaṁ&rdquo; &mdash; "
+            "literally a &ldquo;bull's utterance,&rdquo; a "
+            "recognized technical term in this literature for a "
+            "confident, formal declaration of one's own spiritual "
+            "attainment &mdash; rendered by the consulted English "
+            "translation as a &ldquo;dramatic statement.&rdquo; "
+            "Sāriputta's own words &mdash; &ldquo;we're so "
+            "fortunate... to have heard&rdquo; it &mdash; mark this "
+            "as a notably rare, direct moment in this vagga.",
+        ]),
+    ],
+    terms=[
+        ("vippasannāni kho te, āvuso, indriyāni", "&ldquo;your "
+             "faculties are so very clear&rdquo; &mdash; Sāriputta's "
+             "own observed physical sign, prompting his question"),
+        ("suppatiṭṭhitacitto", "&ldquo;with my mind firmly "
+             "established&rdquo; &mdash; Anuruddha's own description "
+             "of how he now meditates, describing stability rather "
+             "than active exertion"),
+        ("khīṇāsavo vusitavā...sammadaññāvimutto", "&ldquo;with "
+             "defilements ended... rightly freed through "
+             "enlightenment&rdquo; &mdash; the classic arahant "
+             "formula, here applied by Anuruddha explicitly to "
+             "himself"),
+        ("āsabhiṁ vācaṁ", "&ldquo;a bull's utterance&rdquo; &mdash; "
+             "confirmed by this project's own reading of the root "
+             "Pāli, a technical term for a confident declaration of "
+             "attainment, rendered here as &ldquo;a dramatic "
+             "statement&rdquo;"),
+        ("lābhā vata no...suladdhaṁ vata no", "&ldquo;we're so "
+             "fortunate... so very fortunate&rdquo; &mdash; "
+             "Sāriputta's own closing expression of gratitude for "
+             "having heard this declaration directly"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.9:1.1-1.2"),
+        ("p", "&sect;2", "sn52.9:2.1-2.10"),
+        ("p", "&sect;3", "sn52.9:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What prompts Sāriputta's own question to Anuruddha?",
+         "opts": ["Noticing Anuruddha's own clear faculties and bright complexion", "A rumor he heard from another mendicant", "A direct instruction from the Buddha to investigate Anuruddha", "Anuruddha's own request for feedback on his meditation"],
+         "correct": 0,
+         "expl": "A physical observation, confirmed by direct reading, prompts the question rather than any report or instruction."},
+        {"q": "What does Anuruddha's own answer do that this project's own reading marks as unusual?",
+         "opts": ["He explicitly applies the classic arahant formula to himself, rather than describing the practice alone", "He refuses to answer Sāriputta's own question at all", "He denies that he practices any form of meditation currently", "He claims a practice unrelated to the four foundations of mindfulness"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: an explicit, direct application of the arahant formula to himself, not just a description of practice."},
+        {"q": "What does this project's own reading of the root Pāli confirm about Sāriputta's own closing reaction?",
+         "opts": ["He calls Anuruddha's statement an \"āsabhiṁ vācaṁ\" — literally a \"bull's utterance,\" a technical term for a confident declaration of attainment", "He directly contradicts Anuruddha's own claim as false", "He asks Anuruddha to repeat the statement a second time", "He reports the exchange immediately to the Buddha for verification"],
+         "correct": 0,
+         "expl": "Confirmed by this project's own direct reading of the root Pāli term, rendered \"a dramatic statement\" in the consulted English translation."},
+    ],
+    marginalia=[
+        ("A face that gives it away", [
+            "clear faculties, a bright complexion —",
+            "Sāriputta notices before asking"
+        ]),
+        ("From practice to declaration", [
+            "not just what he does, but what he's become —",
+            "the arahant formula, spoken of himself"
+        ]),
+        ("A bull's utterance", [
+            "the root Pāli names it precisely —",
+            "a confident claim, not idle boasting"
+        ]),
+        ("Gratitude for a rare moment", [
+            "\"we're so fortunate,\" Sāriputta says twice —",
+            "such directness doesn't come often"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.8.html\">SN 52.8 &middot; The Salaḷa Tree "
+        "Hut</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
