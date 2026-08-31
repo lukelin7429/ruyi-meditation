@@ -51884,3 +51884,150 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.30 — Dutiyabhikkhusutta ("Several Mendicants, 2nd")
+# Confirmed by direct reading: the fifth occurrence of this
+# saṃyutta's own fourfold analysis, completing the cycle of
+# questioners (unprompted, individual asks, individual asked, group
+# asks, group asked). Its own root Pāli closes with "Dasamaṁ"
+# ("tenth") — but SN 51.31 and SN 51.32 are directly confirmed to
+# still carry the "3. Ayoguḷavagga" header, so this project does NOT
+# assume the vagga closes here despite the marker, unlike the clean
+# ten-discourse closures already confirmed for Vagga 1 and Vagga 2.
+# --------------------------------------------------------------------------- #
+page(
+    51, 30, "Dutiyabhikkhu", "Several Mendicants (2nd)",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.30 — Several Mendicants (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyabhikkhusutta &mdash; the Buddha questions a group "
+        "of mendicants, who defer to him, completing this "
+        "saṃyutta's own cycle of four questioners. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and several mendicants"),
+        ("Form", "A reversed question-and-answer, echoing SN 51.29 "
+                 "with the direction of questioning flipped"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "completes this saṃyutta's own cycle of "
+                         "four questioner-configurations; its own "
+                         "closing marker raises a genuine structural "
+                         "question this project does not resolve"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse mirrors SN "
+        "51.29 with the questioning reversed, exactly as SN 51.28 "
+        "mirrored SN 51.27 &mdash; completing a full cycle of four "
+        "questioner-configurations for the same fourfold analysis. "
+        "Its own closing Pāli word, &ldquo;Dasamaṁ&rdquo; "
+        "(&ldquo;tenth&rdquo;), might suggest a vagga closing exactly "
+        "as Vagga 1 and Vagga 2 both did &mdash; but this project "
+        "does not assume that, since SN 51.31 and SN 51.32 are "
+        "directly confirmed to still carry the same "
+        "&ldquo;Ayoguḷavagga&rdquo; header."
+    ),
+    guide=[
+        ("A full cycle of four questioners, now complete", [
+            "This project's own count: SN 51.19 (unprompted), SN "
+            "51.27 (Ānanda asks), SN 51.28 (the Buddha asks Ānanda), "
+            "SN 51.29 (several mendicants ask), and now SN 51.30 "
+            "(the Buddha asks several mendicants, who defer with the "
+            "same &ldquo;our teachings are rooted in the "
+            "Buddha&rdquo; formula already met at SN 51.14 and SN "
+            "51.28) &mdash; five discourses, the same content, every "
+            "combination of individual and group, prompted and "
+            "unprompted.",
+        ]),
+        ("An honest structural puzzle: does the vagga close here?", [
+            "Confirmed by direct reading of this discourse's own "
+            "closing Pāli line, &ldquo;Dasamaṁ&rdquo; "
+            "(&ldquo;tenth&rdquo;) appears exactly as it did at the "
+            "true closes of Vagga 1 (SN 51.10) and Vagga 2 (SN "
+            "51.20) &mdash; but this discourse's own file carries no "
+            "matching &ldquo;Ayoguḷavaggo tatiyo&rdquo; colophon or "
+            "uddāna, and this project's own direct check of SN "
+            "51.31 and SN 51.32 confirms both are still headed "
+            "&ldquo;3. Ayoguḷavagga.&rdquo; This project does not "
+            "resolve the discrepancy &mdash; it is reported honestly "
+            "as an open structural question, not assumed to mean "
+            "the vagga closes at exactly ten discourses this time.",
+        ]),
+    ],
+    terms=[
+        ("Buddhamūlakā no...bhante, dhammā", "&ldquo;our teachings "
+             "are rooted in the Buddha&rdquo; &mdash; the group's "
+             "own deferral, the same formula already met at SN 51.14 "
+             "and SN 51.28"),
+        ("iddhi", "&ldquo;psychic power&rdquo; &mdash; defined a "
+             "fifth time, identically to every prior occurrence"),
+        ("iddhipādabhāvanā", "&ldquo;the development of the bases "
+             "of psychic power&rdquo; &mdash; the same four-part "
+             "formula, unchanged across every occurrence"),
+        ("ayameva ariyo aṭṭhaṅgiko maggo", "&ldquo;it is simply "
+             "this noble eightfold path&rdquo; &mdash; named a fifth "
+             "time as the deepest layer beneath the four bases"),
+        ("Dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this discourse's "
+             "own closing word, matching the true vagga-closing "
+             "marker seen at SN 51.10 and SN 51.20, though without a "
+             "matching colophon here"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.30:1.1-1.4"),
+        ("p", "&sect;2", "sn51.30:2.1-2.3"),
+        ("p", "&sect;3", "sn51.30:3.1-3.3"),
+        ("p", "&sect;4", "sn51.30:4.1-4.6"),
+        ("p", "&sect;5", "sn51.30:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does this project's own count identify as now complete?",
+         "opts": ["A full cycle of four questioner-configurations for the same fourfold analysis: unprompted, individual asks, individual asked, group asks, and now group asked", "The complete list of all six higher knowledges", "The full enumeration of every basis of psychic power's own technical definition", "A count of every mendicant present at this specific teaching"],
+         "correct": 0,
+         "expl": "Five discourses (SN 51.19, 27, 28, 29, 30), the same content delivered through every combination of individual/group and prompted/unprompted."},
+        {"q": "What genuine structural question does this discourse raise, according to this project's own honest reporting?",
+         "opts": ["Its closing word \"Dasamaṁ\" (tenth) resembles a vagga-closing marker, but SN 51.31 and SN 51.32 are still confirmed headed \"Ayoguḷavagga,\" so the vagga does not actually close here", "Whether the Buddha or Ānanda spoke first in this exchange", "Whether this discourse belongs to Vagga 2 or Vagga 3", "Whether the eightfold path is correctly translated in this discourse"],
+         "correct": 0,
+         "expl": "An open discrepancy this project reports honestly rather than resolves — the marker looks like a vagga close, but the following discourses contradict that."},
+        {"q": "How does the group of mendicants respond when the Buddha asks them the four questions directly?",
+         "opts": ["They defer with the same formula already met at SN 51.14 and SN 51.28: \"our teachings are rooted in the Buddha\"", "They answer correctly and completely without hesitation", "They ask Ānanda to answer on their behalf", "They request more time to consider before answering"],
+         "correct": 0,
+         "expl": "The same deferral formula, now used by a group rather than an individual."},
+    ],
+    marginalia=[
+        ("A cycle closed", [
+            "unprompted, Ānanda asks, Ānanda asked, a group asks —",
+            "now a group is asked in turn"
+        ]),
+        ("A familiar deferral, again", [
+            "\"our teachings are rooted in the Buddha\" —",
+            "the third time this project has met this exact line"
+        ]),
+        ("\"Tenth,\" but the vagga continues", [
+            "the same word that closed the last two vaggas —",
+            "yet SN 51.31 still says \"Ayoguḷavagga\""
+        ]),
+        ("An honest loose end", [
+            "not every structural question resolves neatly —",
+            "this one is reported, not explained away"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.29.html\">SN 51.29 &middot; Several "
+        "Mendicants (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own promised companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
