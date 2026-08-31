@@ -49579,3 +49579,161 @@ page(
         "same formula without defining it.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.14 — Moggallānasutta ("With Moggallāna")
+# Confirmed by direct reading: this is the vagga's own namesake
+# discourse. Moggallāna shakes Migāra's mother's stilt longhouse with
+# his big toe to startle restless mendicants; the Buddha then names
+# the four bases of psychic power as the cause of Moggallāna's own
+# power. A vivid narrative, not a bare formula.
+# --------------------------------------------------------------------------- #
+page(
+    51, 14, "Moggallāna", "With Moggallāna",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.14 — With Moggallāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Moggallānasutta &mdash; the vagga's own namesake "
+        "discourse, in which Moggallāna shakes a stilt longhouse "
+        "with his big toe to startle restless mendicants. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The stilt longhouse of Migāra's mother, "
+                    "Eastern Monastery, near Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Mahāmoggallāna, with "
+                     "a group of restless mendicants"),
+        ("Form", "A vivid narrative: a rebuke, a demonstration of "
+                 "psychic power, and a teaching on its cause"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this vagga's own namesake "
+                         "discourse, confirmed directly by its own "
+                         "title, &lsquo;Shaking the Stilt "
+                         "Longhouse&rsquo;"),
+    ],
+    why=(
+        "Confirmed by direct reading, this is the discourse this "
+        "vagga is named for: a group of mendicants beneath the "
+        "stilt longhouse have grown restless and undisciplined, and "
+        "at the Buddha's own request Moggallāna shakes the entire "
+        "building with his big toe to startle them &mdash; after "
+        "which the Buddha names the four bases of psychic power as "
+        "the specific cause of Moggallāna's own extraordinary power."
+    ),
+    guide=[
+        ("A group of mendicants gone slack", [
+            "Confirmed by direct reading, the discourse opens with "
+            "an unflattering portrait: mendicants staying beneath "
+            "the longhouse are &ldquo;restless, insolent, fickle, "
+            "scurrilous, loose-tongued, unmindful, lacking "
+            "situational awareness and immersion, with straying "
+            "minds and undisciplined faculties&rdquo; &mdash; the "
+            "occasion for everything that follows.",
+        ]),
+        ("A toe that shakes a firmly embedded building", [
+            "Confirmed by direct reading, Moggallāna's own "
+            "demonstration is deliberately dramatic: with no wind at "
+            "all, and the longhouse's own foundations described as "
+            "&ldquo;firmly embedded, imperturbable and "
+            "unshakable,&rdquo; he makes it &ldquo;shake and rock "
+            "and tremble&rdquo; using nothing but his big toe "
+            "&mdash; leaving the startled mendicants &ldquo;shocked "
+            "and awestruck.&rdquo;",
+        ]),
+        ("The Buddha names the cause, not the display", [
+            "This project's own observation: rather than dwelling on "
+            "the display itself, the Buddha immediately redirects "
+            "the mendicants' own attention to its cause &mdash; "
+            "asking what Moggallāna has &ldquo;developed and "
+            "cultivated so as to have such power and might,&rdquo; "
+            "then answering his own question: the four bases of "
+            "psychic power, described here in the same compressed "
+            "form as SN 51.12, ending once again in arahantship.",
+        ]),
+        ("A demonstration used pedagogically, not for its own sake", [
+            "This project's own observation: the discourse frames "
+            "the demonstration itself as instrumental &mdash; the "
+            "Buddha's own stated purpose for sending Moggallāna was "
+            "&ldquo;wanting to strike awe&rdquo; in mendicants who "
+            "had grown slack, not to display power for its own sake; "
+            "the awe becomes the occasion for a teaching on its own "
+            "cause.",
+        ]),
+    ],
+    terms=[
+        ("Pāsādakampana", "&ldquo;shaking the stilt "
+             "longhouse&rdquo; &mdash; this vagga's own name, drawn "
+             "directly from this discourse's own central scene"),
+        ("uddhatā unnaḷā capalā mukharā vikiṇṇavācā", "&ldquo;"
+             "restless, insolent, fickle, scurrilous, "
+             "loose-tongued&rdquo; &mdash; the discourse's own "
+             "unflattering description of the mendicants needing "
+             "correction"),
+        ("pādaṅguṭṭhakena", "&ldquo;with his big toe&rdquo; &mdash; "
+             "the discourse's own specific, almost casual detail for "
+             "how Moggallāna produces such a dramatic effect"),
+        ("saṁvejetuṁ", "&ldquo;to strike awe (in)&rdquo; &mdash; "
+             "the Buddha's own explicitly stated purpose for sending "
+             "Moggallāna to shake the longhouse"),
+        ("iddhimā ceva ahosi mahānubhāvo ca", "&ldquo;so powerful "
+             "and mighty&rdquo; &mdash; the Buddha's own description "
+             "of Moggallāna, whose cause the rest of the discourse "
+             "goes on to explain"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.14:1.1-1.3"),
+        ("p", "&sect;2", "sn51.14:2.1-2.3"),
+        ("p", "&sect;3", "sn51.14:3.1-3.4"),
+        ("p", "&sect;4", "sn51.14:4.1-4.8"),
+        ("p", "&sect;5", "sn51.14:5.1-5.17"),
+    ],
+    quiz=[
+        {"q": "Why does this discourse give this vagga its own name?",
+         "opts": ["It is the vagga's own namesake discourse: Moggallāna shakes the stilt longhouse with his big toe", "It is the only discourse in the vagga that mentions the Buddha directly", "It is simply the longest discourse in the vagga", "It was the first discourse of the vagga to be translated into English"],
+         "correct": 0,
+         "expl": "Confirmed by this discourse's own title and content: Pāsādakampana, \"Shaking the Stilt Longhouse.\""},
+        {"q": "Why does the Buddha send Moggallāna to shake the longhouse, according to the text itself?",
+         "opts": ["Wanting to strike awe in mendicants who had grown restless, insolent, and undisciplined", "To test whether the building's foundations were sound", "As a punishment for the mendicants' own misbehavior", "To demonstrate psychic power to a visiting king"],
+         "correct": 0,
+         "expl": "\"Wanting to strike awe in you, the mendicant Moggallāna made the longhouse shake and rock and tremble with his big toe.\""},
+        {"q": "What does the Buddha identify as the cause of Moggallāna's own extraordinary power?",
+         "opts": ["Developing and cultivating the four bases of psychic power", "A blessing received directly from a previous Buddha", "Many years of physical strength training", "A secret teaching given only to him"],
+         "correct": 0,
+         "expl": "\"The mendicant Moggallāna has become so powerful and mighty by developing and cultivating the four bases of psychic power.\""},
+    ],
+    marginalia=[
+        ("Slack mendicants, a firm rebuke", [
+            "restless, insolent, loose-tongued —",
+            "an occasion for correction, not just narrative color"
+        ]),
+        ("One toe, an unshakable building", [
+            "no wind at all, deep foundations —",
+            "and still it shakes, rocks, trembles"
+        ]),
+        ("Awe as a teaching tool", [
+            "the display was never the point —",
+            "\"wanting to strike awe,\" the Buddha says plainly"
+        ]),
+        ("The vagga's own name, earned here", [
+            "Pāsādakampanavagga, \"the shaking stilt longhouse\" —",
+            "this is the very scene it's named for"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.13.html\">SN 51.13 &middot; Immersion Due "
+        "to Enthusiasm</a> &mdash; the previous discourse, defining "
+        "the same four bases this discourse applies to Moggallāna.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
