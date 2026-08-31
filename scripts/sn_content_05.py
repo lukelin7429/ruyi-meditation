@@ -50457,3 +50457,179 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.20 — Vibhaṅgasutta ("Analysis")
+# Confirmed by direct reading: the fullest, most technical discourse
+# in this saṃyutta, defining every term in the recurring formula —
+# and revealing, confirmed directly by the text and not assumed in
+# advance, that "as below, so above" is literally the classic
+# thirty-one-part body contemplation known from satipatthāna.
+# --------------------------------------------------------------------------- #
+page(
+    51, 20, "Vibhaṅga", "Analysis",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.20 — Analysis | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vibhaṅgasutta &mdash; every term in this saṃyutta's own "
+        "recurring formula defined in full, revealing the classic "
+        "body-parts contemplation inside it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A full technical analysis (Vibhaṅga-style), "
+                 "defining every term in the recurring formula"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this saṃyutta's own most detailed "
+                         "discourse, revealing that &ldquo;as below, "
+                         "so above&rdquo; is literally the classic "
+                         "thirty-one-part body contemplation"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse finally defines "
+        "every term this saṃyutta's own recurring formula has used "
+        "since SN 51.1 without explanation &mdash; lax, tense, "
+        "constricted, scattered, before-and-behind, above-and-below, "
+        "day-and-night, radiant &mdash; and in doing so reveals, "
+        "confirmed directly by the text rather than assumed in "
+        "advance, that &ldquo;as below, so above&rdquo; is literally "
+        "the classic thirty-one-part body contemplation familiar "
+        "from the foundations of mindfulness."
+    ),
+    guide=[
+        ("Lax, tense, constricted, scattered: defined at last", [
+            "Confirmed by direct reading, the discourse's own "
+            "technical definitions are precise: lax enthusiasm is "
+            "&ldquo;coupled with laziness&rdquo;; tense enthusiasm "
+            "is &ldquo;coupled with restlessness&rdquo;; internally "
+            "constricted is &ldquo;coupled with dullness and "
+            "drowsiness&rdquo;; externally scattered is &ldquo;"
+            "frequently scattered and diffused... on account of the "
+            "five kinds of sensual stimulation.&rdquo;",
+        ]),
+        ("A surprising discovery: the body-parts contemplation, hiding in plain sight", [
+            "Confirmed directly by the text, not assumed in advance: "
+            "&ldquo;as below, so above&rdquo; turns out to mean "
+            "examining one's own body &ldquo;from the soles of the "
+            "feet... down from the tips of the hairs, wrapped in "
+            "skin and full of many kinds of filth&rdquo; &mdash; the "
+            "same thirty-one-part list (head hair, nails, teeth, "
+            "flesh, bones, organs, fluids) this project has already "
+            "met in the foundations of mindfulness, here embedded "
+            "inside the four bases' own formula without announcement.",
+        ]),
+        ("Before-and-behind, day-and-night, and radiance, defined", [
+            "Confirmed by direct reading, the remaining three "
+            "elements are defined more briefly: the "
+            "&ldquo;before-and-behind&rdquo; perception is simply "
+            "this same perception &ldquo;properly grasped, focused "
+            "on, borne in mind, and penetrated with wisdom&rdquo;; "
+            "&ldquo;day-and-night&rdquo; means maintaining "
+            "&ldquo;the same features, attributes, and signs&rdquo; "
+            "regardless of the hour; and the radiant, unenveloped "
+            "mind comes from &ldquo;properly grasped&rdquo; "
+            "perceptions of light and of day.",
+        ]),
+        ("A pattern of compression this project has met before", [
+            "This project's own cross-reference: the discourse "
+            "gives enthusiasm's own four technical definitions in "
+            "full, elides energy's and mental development's own "
+            "identical definitions with ellipsis, then gives "
+            "inquiry's own definitions in full a second time &mdash; "
+            "the same first-full, middle-elided, last-full pattern "
+            "this project has already tracked across this saṃyutta's "
+            "own repeated four-part formulas.",
+        ]),
+    ],
+    terms=[
+        ("līnaṁ chandaṁ", "&ldquo;lax enthusiasm&rdquo; &mdash; "
+             "precisely defined here as enthusiasm &ldquo;coupled "
+             "with laziness&rdquo;"),
+        ("atippaggahitaṁ chandaṁ", "&ldquo;tense enthusiasm&rdquo; "
+             "&mdash; defined as enthusiasm &ldquo;coupled with "
+             "restlessness&rdquo;"),
+        ("ajjhattaṁ saṅkhittaṁ", "&ldquo;constricted "
+             "internally&rdquo; &mdash; defined as being "
+             "&ldquo;coupled with dullness and drowsiness&rdquo;"),
+        ("heṭṭhimena uddhimena samannāgataṁ", "&ldquo;as below, so "
+             "above&rdquo; &mdash; confirmed directly by this "
+             "discourse's own text to be the thirty-one-part body "
+             "contemplation, not a separate practice"),
+        ("ālokasaññaṁ...divasasaññaṁ", "&ldquo;the perception of "
+             "light... the perception of day&rdquo; &mdash; the "
+             "discourse's own technical definition of the "
+             "&ldquo;radiant, unenveloped mind&rdquo; named "
+             "throughout this saṃyutta"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.20:1.1"),
+        ("p", "&sect;2", "sn51.20:2.1-2.17"),
+        ("p", "&sect;3", "sn51.20:3.1-3.3"),
+        ("p", "&sect;4", "sn51.20:4.1-4.3"),
+        ("p", "&sect;5", "sn51.20:5.1-5.3"),
+        ("p", "&sect;6", "sn51.20:6.1-6.3"),
+        ("p", "&sect;7", "sn51.20:7.1-7.5"),
+        ("p", "&sect;8", "sn51.20:8.1-8.4"),
+        ("p", "&sect;9", "sn51.20:9.1-9.4"),
+        ("p", "&sect;10", "sn51.20:10.1-10.3"),
+        ("p", "&sect;11", "sn51.20:11.1"),
+        ("p", "&sect;12", "sn51.20:16.1"),
+        ("p", "&sect;13", "sn51.20:20.1-20.3"),
+        ("p", "&sect;14", "sn51.20:21.1-21.3"),
+        ("p", "&sect;15", "sn51.20:22.1-22.3"),
+        ("p", "&sect;16", "sn51.20:23.1-23.5"),
+        ("p", "&sect;17", "sn51.20:24.1-24.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse reveal \"as below, so above\" to actually mean?",
+         "opts": ["The classic thirty-one-part body contemplation, examining the body from the soles of the feet to the hair on the head", "A specific yoga posture used only by advanced mendicants", "A metaphor for social status having no bearing on spiritual attainment", "A reference to the layered structure of the cosmos in early Buddhist cosmology"],
+         "correct": 0,
+         "expl": "\"Examines their own body up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth\" — the classic body-parts list."},
+        {"q": "How does this discourse define \"lax\" and \"tense\" enthusiasm?",
+         "opts": ["Lax enthusiasm is coupled with laziness; tense enthusiasm is coupled with restlessness", "Lax and tense are simply synonyms with no technical distinction", "Lax refers to physical posture; tense refers to mental state only", "Lax enthusiasm is desirable; tense enthusiasm is always harmful"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: precise, paired technical definitions for each term."},
+        {"q": "What pattern of compression does this discourse follow, according to this project's own cross-reference?",
+         "opts": ["Enthusiasm's definitions given in full, energy's and mental development's elided, inquiry's given in full again", "All four bases' definitions given in exactly equal detail throughout", "Only enthusiasm is defined; the other three bases are omitted entirely", "The definitions appear in reverse order, from inquiry back to enthusiasm"],
+         "correct": 0,
+         "expl": "The same first-full, middle-elided, last-full pattern already tracked elsewhere in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A glossary, finally given", [
+            "lax, tense, constricted, scattered —",
+            "terms used since SN 51.1, defined here at last"
+        ]),
+        ("The body, hiding in a formula", [
+            "\"as below, so above\" sounded abstract —",
+            "it was the thirty-one body parts all along"
+        ]),
+        ("Radiance, made technical", [
+            "not a feeling, but two specific perceptions —",
+            "of light, and of day"
+        ]),
+        ("Full, then elided, then full again", [
+            "enthusiasm spelled out, energy and mind waved through —",
+            "then inquiry gets the full treatment once more"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.19.html\">SN 51.19 &middot; A Teaching on "
+        "Psychic Power, Etc.</a> &mdash; the previous discourse, "
+        "naming the eightfold path as the practice beneath the four "
+        "bases this discourse now defines in full.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
