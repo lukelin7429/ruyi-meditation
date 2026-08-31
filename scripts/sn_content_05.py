@@ -59426,3 +59426,304 @@ page(
         "the complete chain this discourse compresses.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.15 — Paṭhamabhikkhusutta ("Several Mendicants, 1st")
+# Confirmed by direct reading: repeats SN 54.13's own question and
+# answer almost exactly, but this time asked by "several mendicants"
+# (sambahulā bhikkhū) collectively rather than Ānanda alone, and
+# entirely compressed via "…pe…" as a direct cross-reference back to
+# SN 54.13's own full step-by-step explanation.
+# --------------------------------------------------------------------------- #
+page(
+    54, 15, "Paṭhamabhikkhu", "Several Mendicants (1st)",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.15 — Several Mendicants (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamabhikkhusutta &mdash; several mendicants ask the "
+        "Buddha the same chain-question SN 54.13 posed, compressed "
+        "as a direct cross-reference. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.14's own setting"),
+        ("Speakers", "Several mendicants (sambahulā bhikkhū) and the "
+                     "Buddha"),
+        ("Form", "The identical question from SN 54.13, now asked "
+                 "collectively; the compressed answer follows"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; a third "
+                         "occurrence of the same chain-question, now "
+                         "asked by a group of mendicants rather than "
+                         "a single named disciple"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats the "
+        "identical chain-question already met at SN 54.13 and SN "
+        "54.14 &mdash; whether one thing fulfills four, which "
+        "fulfill seven, which fulfill two &mdash; but this time it "
+        "is &ldquo;several mendicants&rdquo; (sambahulā bhikkhū), "
+        "not a single named disciple, who ask it. The Buddha "
+        "confirms the answer directly and gives it in full, then "
+        "compresses the step-by-step explanation via "
+        "&ldquo;…pe…&rdquo;, pointing back to SN 54.13's own already-"
+        "translated account."
+    ),
+    guide=[
+        ("A third occurrence, now asked collectively", [
+            "This project's own observation: this is the third time "
+            "in this vagga this exact chain-question has appeared "
+            "&mdash; first from Ānanda alone (SN 54.13), then from "
+            "the Buddha to Ānanda (SN 54.14), and now from an "
+            "unnamed group of mendicants together &mdash; suggesting "
+            "the question and its own answer were significant enough "
+            "to be recorded across multiple distinct occasions and "
+            "audiences.",
+        ]),
+        ("A full answer, a compressed explanation", [
+            "Confirmed by direct reading, unlike SN 54.14's own "
+            "compression of the entire chain, this discourse states "
+            "the full one-four-seven-two chain by name (breath, the "
+            "satipaṭṭhānas, the awakening factors, knowledge and "
+            "freedom) before eliding only the step-by-step "
+            "explanation of each link via &ldquo;…pe…&rdquo;, "
+            "assuming SN 54.13's own full account.",
+        ]),
+    ],
+    terms=[
+        ("sambahulā bhikkhū", "&ldquo;several mendicants&rdquo; "
+             "&mdash; this discourse's own questioners, unnamed and "
+             "collective, unlike SN 54.13's own single questioner "
+             "Ānanda"),
+        ("atthi kho, bhikkhave, ekadhammo", "&ldquo;there is, "
+             "mendicants&rdquo; &mdash; the Buddha's own direct "
+             "confirmation, addressed to the group"),
+        ("ānāpānassatisamādhi...cattāro satipaṭṭhāne paripūreti",
+             "&ldquo;immersion due to mindfulness of breathing"
+             "&hellip;fulfills the four kinds of mindfulness "
+             "meditation&rdquo; &mdash; the chain's own first link, "
+             "identical to SN 54.13's own"),
+        ("…pe…", "the elision marking, standing in for SN 54.13's "
+             "own full step-by-step explanation"),
+        ("vijjāvimuttiṁ paripūrenti", "&ldquo;fulfill knowledge and "
+             "freedom&rdquo; &mdash; the chain's own final link, "
+             "closing this discourse exactly as it closed SN 54.13 "
+             "and SN 54.14"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 54.13. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.15:1.1-1.3"),
+        ("p", "&sect;2", "sn54.15:2.1-2.2"),
+        ("p", "&sect;3", "sn54.15:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own questioners differ from SN 54.13's own?",
+         "opts": ["Several unnamed mendicants ask collectively, rather than the single named disciple Ānanda", "The Buddha himself asks, as at SN 54.14", "A group of wanderers from another religion ask", "No one asks; the Buddha teaches unprompted"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — \"sambahulā bhikkhū,\" several mendicants together."},
+        {"q": "What does this project's own observation note about this being the third occurrence of this question in this vagga?",
+         "opts": ["Its significance was apparently recorded across multiple distinct occasions and audiences — Ānanda alone, the Buddha to Ānanda, and now a group of mendicants", "It suggests the earlier two occurrences were mistaken and needed correction", "It proves the question was asked only once and later duplicated by error", "It has no significance beyond simple repetition"],
+         "correct": 0,
+         "expl": "This project's own reading of the pattern across SN 54.13-15."},
+        {"q": "What does this discourse compress via \"…pe…\", unlike stating in full?",
+         "opts": ["The step-by-step explanation of each link in the chain, assuming SN 54.13's own full account", "The chain's own name — one thing, four things, seven things, two things — which is stated in full here", "The Buddha's own confirmation that the chain exists", "Nothing is compressed; this discourse is given in full"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the chain is named in full, only its own detailed explanation is elided."},
+    ],
+    marginalia=[
+        ("A question, asked a third time", [
+            "Ānanda first, then the Buddha to Ānanda —",
+            "now several mendicants together"
+        ]),
+        ("Named in full, explained in brief", [
+            "the chain itself, stated plainly —",
+            "its own detail assumed from SN 54.13"
+        ]),
+        ("Recorded across occasions", [
+            "not one telling but several —",
+            "a teaching worth repeating, this project notes"
+        ]),
+        ("Fifteenth of twenty, the chain holds steady", [
+            "one thing, four, seven, two —",
+            "the same truth, a third time confirmed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.14.html\">SN 54.14 &middot; With Ānanda "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-54.13.html\">SN 54.13 &middot; With Ānanda "
+        "(1st)</a> &mdash; this project's own full translation of "
+        "the chain this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.16 — Dutiyabhikkhusutta ("Several Mendicants, 2nd")
+# Confirmed by direct comparison: a genuine and unusual case. The
+# root Pali writes out the ENTIRE chain in full -- all eighteen
+# sections, matching SN 54.13's own full length almost word for word
+# -- with no "…pe…" elision in the source itself. Yet the consulted
+# English translation leaves nearly the whole discourse as empty
+# strings, translating only the opening frame, the chain's own name,
+# the very start of the step-by-step explanation, and the closing
+# line. Reported honestly: this is the English translator's own
+# editorial choice to elide a discourse the root Pali itself gives
+# in full, not a gap in the source or an omission by this project.
+# --------------------------------------------------------------------------- #
+page(
+    54, 16, "Dutiyabhikkhu", "Several Mendicants (2nd)",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.16 — Several Mendicants (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyabhikkhusutta &mdash; the root Pali gives the "
+        "entire chain in full, but the consulted English translation "
+        "leaves nearly all of it untranslated. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.15's own setting"),
+        ("Speakers", "Several mendicants (sambahulā bhikkhū) and the "
+                     "Buddha"),
+        ("Form", "The Buddha asks first (as at SN 54.14); the "
+                 "mendicants defer; the root Pali then gives the "
+                 "entire chain in full"),
+        ("Length", "&lt;1 minute to read, per the consulted English "
+                   "translation's own actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirmed by "
+                         "direct comparison to be a genuine case "
+                         "where the English source elides a "
+                         "discourse the root Pali itself gives in "
+                         "full"),
+    ],
+    why=(
+        "Confirmed by direct comparison between the two sources, "
+        "this is a genuinely unusual case: the root Pali writes out "
+        "the complete eighteen-section chain in full, essentially "
+        "matching SN 54.13's own full length word for word, with no "
+        "&ldquo;…pe…&rdquo; elision of its own. Yet the consulted "
+        "English translation leaves nearly the entire discourse as "
+        "empty strings, translating only the opening frame, the "
+        "chain's own name, the very beginning of the step-by-step "
+        "explanation, and the closing line &mdash; an editorial "
+        "choice by the translator, not a gap in the underlying "
+        "source."
+    ),
+    guide=[
+        ("The Buddha asks, the mendicants defer", [
+            "Confirmed by direct reading, this discourse repeats the "
+            "role-reversal already met at SN 54.14: the Buddha asks "
+            "the mendicants the chain-question directly, and they "
+            "reply with the same deferral formula, &ldquo;our "
+            "teachings are rooted in the Buddha,&rdquo; before he "
+            "answers his own question.",
+        ]),
+        ("Full in the Pali, nearly empty in English", [
+            "This project's own direct comparison, reported "
+            "honestly rather than filled in: where SN 54.13's own "
+            "English translation gave the complete eighteen-section "
+            "explanation in full, and SN 54.15's own English "
+            "compressed it via a translated &ldquo;…pe…&rdquo;, "
+            "this discourse's own English source gives almost "
+            "nothing at all for the identical Pali content &mdash; "
+            "confirming a genuine inconsistency in how this "
+            "translator chose to handle repeated material across "
+            "these three closely related discourses.",
+        ]),
+    ],
+    terms=[
+        ("bhagavaṁmūlakā no, bhante, dhammā", "&ldquo;our teachings "
+             "are rooted in the Buddha&rdquo; &mdash; the same "
+             "deferral formula already met at SN 54.14"),
+        ("ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti",
+             "&ldquo;one thing that, when developed and cultivated, "
+             "fulfills four things&rdquo; &mdash; the chain's own "
+             "opening link, translated here"),
+        ("araññagato vā rukkhamūlagato vā suññāgāragato vā... "
+         "parimukhaṁ satiṁ upaṭṭhapetvā", "&ldquo;gone to a wilderness, or "
+             "to the root of a tree, or to an empty hut&hellip;"
+             "brings mindfulness to the present&rdquo; &mdash; the "
+             "only fragment of the step-by-step explanation the "
+             "English source translates before leaving the "
+             "remainder as empty strings"),
+        ("cattāro satipaṭṭhāne...satta bojjhaṅge...vijjāvimuttiṁ",
+             "&ldquo;the four kinds of mindfulness meditation... "
+             "the seven awakening factors...knowledge and "
+             "freedom&rdquo; &mdash; the chain's own remaining "
+             "links, present in the root Pali in full but absent "
+             "from the consulted English translation"),
+        ("evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ "
+         "bahulīkatā vijjāvimuttiṁ paripūrentīti", "&ldquo;that's "
+             "how the seven awakening factors are developed and "
+             "cultivated so as to fulfill knowledge and "
+             "freedom&rdquo; &mdash; the discourse's own closing "
+             "line, the only other substantial fragment translated"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Confirmed by direct comparison: "
+        "the root Pali gives this entire discourse in full, but the "
+        "English translation leaves nearly all of it as empty "
+        "strings &mdash; reported honestly here, not filled in by "
+        "this project. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.16:1.1-1.4"),
+        ("p", "&sect;2", "sn54.16:2.1-2.2"),
+        ("p", "&sect;3", "sn54.16:3.1-3.2"),
+        ("p", "Closing", "sn54.16:18.5"),
+    ],
+    quiz=[
+        {"q": "What does this project's own direct comparison confirm about this discourse's own two sources?",
+         "opts": ["The root Pali gives the entire eighteen-section chain in full, but the consulted English translation leaves nearly all of it as empty strings", "Both sources give the discourse in full, with no discrepancy", "The root Pali itself elides the discourse via \"…pe…\", and the English source does the same", "The English translation is longer and more detailed than the root Pali"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuine, reported inconsistency in how the translator handled this discourse."},
+        {"q": "How does this discourse's own opening compare to SN 54.14's own?",
+         "opts": ["It repeats the same role-reversal: the Buddha asks first, and the mendicants defer with \"our teachings are rooted in the Buddha\"", "The mendicants ask first, as at SN 54.13 and SN 54.15", "No question is asked at all in this discourse", "The Buddha explicitly refuses to answer the question this time"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same deferral formula and role-reversal already met at SN 54.14."},
+        {"q": "Is the near-total absence of English text in this discourse a gap in the underlying source or this project's own omission?",
+         "opts": ["Neither — it is the English translator's own editorial choice to elide a discourse the root Pali itself gives in full, reported honestly here", "It is a genuine gap; the root Pali itself is also incomplete", "This project chose to omit most of the discourse's own content", "The discourse genuinely has no further content beyond what is translated"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to the full root Pali — an editorial choice, not a gap or an omission."},
+    ],
+    marginalia=[
+        ("Full in one language, sparse in another", [
+            "the Pali writes out all eighteen sections —",
+            "the English gives almost nothing"
+        ]),
+        ("A translator's own choice, not a missing text", [
+            "reported honestly, not filled in —",
+            "the root itself holds the full chain"
+        ]),
+        ("The same deferral, met again", [
+            "\"our teachings are rooted in the Buddha\" —",
+            "a sixth occurrence in this project's own tracking"
+        ]),
+        ("Sixteenth of twenty, brief by choice not by source", [
+            "the shortest page yet in this saṃyutta —",
+            "not because the text is short, but because the translation is"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.15.html\">SN 54.15 &middot; Several "
+        "Mendicants (1st)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-54.13.html\">SN 54.13 &middot; With Ānanda "
+        "(1st)</a> &mdash; this project's own full translation of "
+        "the identical chain, given there in full by both sources.",
+    ],
+)
