@@ -55676,3 +55676,126 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.19 — Nānādhimuttisutta ("Diverse Beliefs")
+# Confirmed by direct reading: the fifth of the ten Tathāgata
+# powers, continuing the sequence confirmed at SN 52.15-18 --
+# knowledge of the diverse convictions of sentient beings.
+# --------------------------------------------------------------------------- #
+page(
+    52, 19, "Nānādhimutti", "Diverse Beliefs",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.19 — Diverse Beliefs | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nānādhimuttisutta &mdash; Anuruddha attributes knowledge "
+        "of beings' diverse convictions to the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fifth of "
+                         "the ten Tathāgata powers, confirming this "
+                         "vagga's own continued sequential order"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; truly understanding &ldquo;the diverse convictions "
+        "of sentient beings&rdquo; &mdash; is the fifth of the "
+        "classical ten Tathāgata powers, directly following the "
+        "fourth at SN 52.18, confirming this project's own tracking "
+        "of this vagga's own sequential order continues intact."
+    ),
+    guide=[
+        ("The fifth power, in sequence", [
+            "This project's own confirmation: this discourse "
+            "continues the exact order already confirmed across SN "
+            "52.15-18, now naming knowledge of the diverse "
+            "convictions or inclinations held by different sentient "
+            "beings.",
+        ]),
+        ("Convictions, not just character", [
+            "This project's own observation: &ldquo;convictions&rdquo; "
+            "(adhimutti) refers specifically to deep-seated beliefs "
+            "or inclinations, not simply personality or temperament "
+            "&mdash; this power is traditionally understood as "
+            "knowing what a given being is fundamentally drawn "
+            "toward or convinced of.",
+        ]),
+    ],
+    terms=[
+        ("sattānaṁ nānādhimuttikataṁ yathābhūtaṁ pajānāmi", "&ldquo;I "
+             "truly understand the diverse convictions of sentient "
+             "beings&rdquo; &mdash; this discourse's own precise "
+             "claim, the fifth of the ten Tathāgata powers"),
+        ("adhimutti", "&ldquo;conviction&rdquo; &mdash; a "
+             "deep-seated belief or inclination, distinct from mere "
+             "personality or surface preference"),
+        ("nānā", "&ldquo;diverse&rdquo; &mdash; the same qualifier "
+             "already met at SN 52.18, here applied to beings' own "
+             "inner convictions rather than the world's elements"),
+        ("sattānaṁ", "&ldquo;of sentient beings&rdquo; &mdash; the "
+             "discourse's own scope, covering beings broadly rather "
+             "than any single individual"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.19:1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse's own claim occupy in the ten Tathāgata powers?",
+         "opts": ["The fifth power, directly following the fourth at SN 52.18", "The first power, contradicting the sequence already established", "A power unrelated to the dasabala list entirely", "The final, tenth power in the traditional list"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: continuing the exact order already tracked across SN 52.15-18."},
+        {"q": "What does \"conviction\" (adhimutti) refer to, according to this project's own observation?",
+         "opts": ["A deep-seated belief or inclination, distinct from mere personality or surface preference", "A synonym for physical appearance or bodily characteristics", "A term referring only to formal religious affiliation", "A word with no distinct technical meaning in this context"],
+         "correct": 0,
+         "expl": "This project's own observation on the specific technical scope of \"adhimutti\" in this discourse's own context."},
+        {"q": "What is the scope of beings covered by this discourse's own claim?",
+         "opts": ["Sentient beings broadly, not any single individual specifically", "Only mendicants who have already attained arahantship", "Only beings within Anuruddha's own immediate community", "A claim limited exclusively to human beings"],
+         "correct": 0,
+         "expl": "\"The diverse convictions of sentient beings\" — a broad scope, confirmed directly by the text."},
+    ],
+    marginalia=[
+        ("The fifth power, on schedule", [
+            "elements, then convictions —",
+            "the sequence continues unbroken"
+        ]),
+        ("Not surface traits, but deep leanings", [
+            "\"adhimutti\" reaches beneath personality —",
+            "toward what a being is truly convinced of"
+        ]),
+        ("Diversity, named a second time", [
+            "the world's elements were diverse, now beings' beliefs —",
+            "the same qualifier, a new subject"
+        ]),
+        ("The same root, a fifth fruit", [
+            "the four foundations, unchanged as cause —",
+            "the list of results keeps growing"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.18.html\">SN 52.18 &middot; Diverse "
+        "Elements</a> &mdash; the previous discourse, the fourth of "
+        "the ten Tathāgata powers.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
