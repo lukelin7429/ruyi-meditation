@@ -52340,3 +52340,151 @@ page(
         "peyyāla ranges from SN 51.33, are still in preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.33-44 — Gaṅgānadīādisutta (merged peyyāla range)
+# Opens Vagga 4 (Gaṅgāpeyyālavagga), confirmed by direct reading to
+# reuse the identical river-simile formula this project has now met
+# four times: at SN 45.91-102 (eightfold path), SN 48.71-82 (five
+# faculties), SN 49.1-12 (four right efforts), and now here for the
+# four bases of psychic power. Twelve discourses merged into a single
+# bilara-data file, confirmed by its own closing colophon
+# ("Dvādasamaṁ", "Gaṅgāpeyyālavaggo catuttho") and its own uddāna
+# ("six on slanting to the east, and six on slanting to the ocean").
+# --------------------------------------------------------------------------- #
+page_range(
+    51, 33, 44, "Gaṅgānadīādi", "The Ganges River, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 51.33–44 — The Ganges River, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 51.33–44 — the Ganges river simile, opening Vagga 4, "
+        "twelve discourses merged into a single bilara-data file. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The river simile in full, twelve discourses merged "
+                 "into a single bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; opens Vagga "
+                         "4, reusing a formula this project has now "
+                         "met four times across four different "
+                         "saṃyuttas"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens Vagga 4 "
+        "(Gaṅgāpeyyālavagga) by reusing the river-simile formula this "
+        "project has already met at SN 45.91-102 (for the eightfold "
+        "path), SN 48.71-82 (for the five faculties), and SN 49.1-12 "
+        "(for the four right efforts) &mdash; now applied, for the "
+        "first time, to the four bases of psychic power."
+    ),
+    guide=[
+        ("A formula met four times, now for the four bases", [
+            "Confirmed by direct comparison, the simile itself is "
+            "identical each time: &ldquo;the Ganges river slants, "
+            "slopes, and inclines to the east&rdquo; is mirrored by "
+            "a mendicant who develops a given quality &ldquo;"
+            "slanting, sloping, and inclining to "
+            "extinguishment&rdquo; &mdash; here for the first time "
+            "illustrating the four bases of psychic power rather "
+            "than the path factors, faculties, or right efforts.",
+        ]),
+        ("Twelve discourses, one worked example", [
+            "Confirmed by direct reading of this file's own closing "
+            "colophon (&ldquo;Dvādasamaṁ,&rdquo; &ldquo;"
+            "Gaṅgāpeyyālavaggo catuttho&rdquo;) and its own uddāna "
+            "(&ldquo;six on slanting to the east, and six on "
+            "slanting to the ocean&mdash;these two sixes make "
+            "twelve&rdquo;), this single file covers all twelve "
+            "variant discourses (SN 51.33-44) through one full "
+            "worked example, without spelling out each of the "
+            "remaining eleven rivers individually.",
+        ]),
+        ("A fourth vagga, a familiar shape", [
+            "This project's own cross-reference: exactly as SN 45's "
+            "own eightfold-path saṃyutta, SN 48's own faculties "
+            "saṃyutta, and SN 49's own right-efforts saṃyutta each "
+            "used this same river-peyyāla structure to open a later "
+            "vagga, this saṃyutta's own Vagga 4 now does the same "
+            "for the four bases &mdash; a structural pattern this "
+            "project has confirmed recurs across multiple saṃyuttas "
+            "in this book.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; the identical simile already met "
+             "at SN 45.91-102, SN 48.71-82, and SN 49.1-12"),
+        ("nibbānaninno...nibbānapoṇo...nibbānapabbhāro", "&ldquo;"
+             "slants, slopes, and inclines to extinguishment&rdquo; "
+             "&mdash; the mendicant's own mirrored inclination, now "
+             "attributed to developing the four bases"),
+        ("cattāro iddhipāde bhāvento bahulīkaronto", "&ldquo;"
+             "develops and cultivates the four bases of psychic "
+             "power&rdquo; &mdash; the cause named for this "
+             "inclination toward extinguishment"),
+        ("Dvādasamaṁ", "&ldquo;twelfth&rdquo; &mdash; this file's "
+             "own closing ordinal, confirming its own coverage of "
+             "twelve merged discourses"),
+        ("Gaṅgāpeyyālavaggo catuttho", "&ldquo;Vagga 4, the Ganges "
+             "Abbreviated-Texts chapter&rdquo; &mdash; this file's "
+             "own closing colophon, confirming it opens this "
+             "saṃyutta's own fourth vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.33-44:1.1-1.7"),
+        ("p", "&sect;2", "sn51.33-44:2.1"),
+        ("p", "Uddāna", "sn51.33-44:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How many times has this project now confirmed the river-simile formula's own use across this book, including this occurrence?",
+         "opts": ["Four times — SN 45.91-102, SN 48.71-82, SN 49.1-12, and now SN 51.33-44", "Only twice, including this occurrence", "This is the first occurrence of this simile in the entire book", "The simile is unique to this saṃyutta and appears nowhere else"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the eightfold path, the five faculties, the four right efforts, and now the four bases."},
+        {"q": "How many discourses does this single merged file cover, according to its own colophon and uddāna?",
+         "opts": ["Twelve — six rivers sloping to the east, and six sloping to the ocean", "Only one — this file covers a single discourse, SN 51.33", "Twenty-four, double the number this project has seen for this pattern before", "The exact count is not specified anywhere in this file"],
+         "correct": 0,
+         "expl": "\"Dvādasamaṁ\" and the uddāna's own \"these two sixes make twelve,\" confirmed directly."},
+        {"q": "What does this project's own cross-reference identify about this vagga's own opening structure?",
+         "opts": ["It matches a recurring pattern already confirmed across multiple saṃyuttas in this book, each using the river peyyāla to open a later vagga", "It is a structure unique to this saṃyutta, found nowhere else in this book", "It contradicts the opening structure used by SN 45, SN 48, and SN 49", "It only appears in saṃyuttas taught by Ānanda, not the Buddha"],
+         "correct": 0,
+         "expl": "This project's own confirmed structural pattern, recurring across SN 45, SN 48, SN 49, and now SN 51."},
+    ],
+    marginalia=[
+        ("A fourth quality, the same river", [
+            "eightfold path, faculties, right efforts —",
+            "now the four bases join the list"
+        ]),
+        ("Twelve discourses, one telling", [
+            "east and ocean, six rivers each —",
+            "one worked example stands for all twelve"
+        ]),
+        ("A pattern this project now expects", [
+            "not a surprise anymore, but a confirmation —",
+            "the same shape, a fourth saṃyutta over"
+        ]),
+        ("A new vagga, quietly begun", [
+            "no fanfare, just a familiar river —",
+            "borrowed from three other saṃyuttas in this book"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.33-44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.32.html\">SN 51.32 &middot; The Realized "
+        "One</a> &mdash; the previous discourse, closing Vagga 3.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
