@@ -67163,3 +67163,1469 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Sappaññavagga ("A Wise Person"), SN 55.51-61 -- confirmed by direct
+# reading of SN 55.61's own closing colophon ("Sappaññavaggo
+# chaṭṭho") and uddāna to be this saṃyutta's own sixth vagga, eleven
+# discourses (not ten), matching this project's own count exactly
+# once verified directly rather than assumed from the pattern of
+# prior vaggas.
+#
+# SN 55.51 — Sagāthakasutta ("With Verses")
+# Confirmed by direct comparison: repeats the identical closing
+# verse already met at SN 55.26, here attached to a bare restatement
+# of the four factors rather than Sāriputta's own deathbed
+# counseling of Anāthapiṇḍika.
+# --------------------------------------------------------------------------- #
+page(
+    55, 51, "Sagāthaka", "With Verses",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.51 — With Verses | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sagāthakasutta &mdash; the four factors closing with "
+        "the identical verse already met at SN 55.26. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.50's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants, closing "
+                     "with a verse"),
+        ("Form", "The bare four factors, closing with a verse "
+                 "already met elsewhere in this saṃyutta"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; opens Vagga "
+                         "6 with the identical closing verse already "
+                         "met at SN 55.26, now attached to a bare "
+                         "restatement rather than a deathbed "
+                         "narrative"),
+    ],
+    why=(
+        "Confirmed by direct comparison, this discourse's own "
+        "closing verse &mdash; &ldquo;whoever has faith in the "
+        "Realized One, unwavering and well grounded&hellip;so let "
+        "the wise devote themselves&rdquo; &mdash; is word for word "
+        "identical to the verse Sāriputta spoke to the recovered "
+        "Anāthapiṇḍika at SN 55.26, here reused without its own "
+        "original narrative context."
+    ),
+    guide=[
+        ("A verse detached from its own original scene", [
+            "This project's own direct comparison: at SN 55.26, this "
+            "verse closed a specific deathbed counseling scene; "
+            "here, it closes a bare doctrinal statement with no "
+            "narrative at all &mdash; confirming this verse "
+            "functioned as a portable, reusable teaching tool, not "
+            "tied permanently to Sāriputta's own visit to "
+            "Anāthapiṇḍika.",
+        ]),
+    ],
+    terms=[
+        ("yo tathāgate saddho niviṭṭho, mūlajātāya suppatiṭṭhito",
+             "&ldquo;whoever has faith in the Realized One, "
+             "unwavering and well grounded&rdquo; &mdash; this "
+             "discourse's own closing verse, identical to SN 55.26's "
+             "own"),
+        ("sagāthaka", "&ldquo;with verses&rdquo; &mdash; this "
+             "discourse's own title, echoing Vagga 5's own name and "
+             "confirming this vagga also includes verse material"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, restated identically here"),
+        ("appamattaṁ jīvitaṁ", "&ldquo;their life is not in "
+             "vain&rdquo; &mdash; a line from the verse's own second "
+             "stanza, unchanged from SN 55.26"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.51:1.1-2.9"),
+        ("p", "Closing verse", "sn55.51:3.1-5.4"),
+    ],
+    quiz=[
+        {"q": "Where else in this saṃyutta has this project already confirmed this discourse's own closing verse?",
+         "opts": ["SN 55.26, where Sāriputta spoke it to the recovered Anāthapiṇḍika", "SN 55.2, this saṃyutta's own opening discourse", "Nowhere else; this is a genuinely new verse", "SN 55.41-43, this book's own opening triplet with verses"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical verse, word for word."},
+        {"q": "What does this project's own comparison confirm about how this verse is used?",
+         "opts": ["It functioned as a portable, reusable teaching tool, not permanently tied to one specific narrative scene", "It was composed specifically for this discourse and never used before", "It contradicts its own earlier use at SN 55.26", "It can only be spoken by Sāriputta, never by the Buddha"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same verse detached from its own original deathbed context."},
+        {"q": "What confirms this vagga also includes verse material, matching Vagga 5's own name?",
+         "opts": ["This discourse's own title, \"With Verses\" (Sagāthaka), echoing Vagga 5's own name", "The vagga's own colophon explicitly using the word \"verse\"", "A note added by this project rather than found in the source", "Nothing; this vagga contains no verses at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of this discourse's own title."},
+    ],
+    marginalia=[
+        ("A verse, recognized from elsewhere", [
+            "the identical words as SN 55.26 —",
+            "now without the deathbed scene around it"
+        ]),
+        ("Detached, and still functioning", [
+            "a portable teaching, reused deliberately —",
+            "not bound to one single occasion"
+        ]),
+        ("Vagga 6 opens, echoing Vagga 5's own name", [
+            "\"with verses\" once more —",
+            "poetry threading through this saṃyutta"
+        ]),
+        ("Eleven discourses ahead", [
+            "confirmed directly, not assumed from habit —",
+            "this vagga runs one longer than most"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.50.html\">SN 55.50 &middot; Factors</a> "
+        "&mdash; the previous discourse, closing Vagga 5.",
+        "<a href=\"sn-55.26.html\">SN 55.26 &middot; Anāthapiṇḍika "
+        "(1st)</a> &mdash; this project's own earlier occurrence of "
+        "the identical closing verse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.52 — Vassaṁvutthasutta ("One Who Completed the Rains")
+# Confirmed by direct reading: the Sakyans of Kapilavatthu question a
+# visiting mendicant about news from the Buddha, and he reports a
+# striking statistical claim heard directly from the Buddha: at each
+# rung of the noble ladder, fewer mendicants reach the higher
+# attainment than remain at the one below it -- fewer arahants than
+# non-returners, fewer non-returners than once-returners, fewer
+# once-returners than stream-enterers.
+# --------------------------------------------------------------------------- #
+page(
+    55, 52, "Vassaṁvuttha", "One Who Completed the Rains",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.52 — One Who Completed the Rains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vassaṁvutthasutta &mdash; a striking claim about the "
+        "relative numbers of mendicants at each stage of "
+        "awakening. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, reporting news from Sāvatthī"),
+        ("Speakers", "The Sakyans of Kapilavatthu and a visiting "
+                     "mendicant"),
+        ("Form", "A courtesy inquiry, then a reported statistical "
+                 "claim about the distribution of attainment"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a rare, explicit claim about the "
+                         "relative numbers of mendicants reaching "
+                         "each of the four stages of awakening"),
+    ],
+    why=(
+        "Confirmed by direct reading, a mendicant who had just "
+        "completed the rains residence at Sāvatthī arrives at "
+        "Kapilavatthu, and the local Sakyans, after courteously "
+        "asking after the Buddha's own health, ask what he had heard "
+        "directly from the Buddha. His answer is a striking, "
+        "explicitly comparative claim: at each level of "
+        "attainment, fewer mendicants reach the stage above than "
+        "remain at the stage below it."
+    ),
+    guide=[
+        ("A courtesy inquiry, then the substantive question", [
+            "Confirmed by direct reading, the Sakyans first ask "
+            "after the health of the Buddha, Sāriputta, Moggallāna, "
+            "and the Saṅgha in turn, before finally asking what the "
+            "mendicant had personally heard and learned &mdash; a "
+            "layered, socially graduated approach to the "
+            "conversation's own real purpose.",
+        ]),
+        ("A three-step comparative claim", [
+            "Confirmed by direct reading, the mendicant reports "
+            "three distinct comparisons, each following the "
+            "identical structure: &ldquo;there are fewer mendicants "
+            "who [reach the higher stage]&hellip;there are more "
+            "mendicants who [remain at the stage below]&rdquo; "
+            "&mdash; applied first to arahants versus non-returners, "
+            "then non-returners versus once-returners, then "
+            "once-returners versus stream-enterers.",
+        ]),
+        ("A pyramid of attainment, reported as direct teaching", [
+            "This project's own reading of the claim's own overall "
+            "shape: taken together, the three comparisons describe a "
+            "narrowing pyramid &mdash; progressively fewer "
+            "mendicants at each higher stage &mdash; presented not "
+            "as speculation but as something the mendicant "
+            "explicitly &ldquo;heard and learned in the presence of "
+            "the Buddha.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("appakā te bhikkhū ye āsavānaṁ khayā...bahutarā te bhikkhū "
+         "ye pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā",
+             "&ldquo;there are fewer mendicants who realize the "
+             "undefiled freedom&hellip;there are more mendicants "
+             "who&hellip;are reborn spontaneously&rdquo; &mdash; "
+             "the discourse's own first comparison, arahants versus "
+             "non-returners"),
+        ("vassaṁvuttha", "&ldquo;one who completed the rains "
+             "residence&rdquo; &mdash; this discourse's own title, "
+             "naming the visiting mendicant's own status"),
+        ("kacci bhagavā appābādho appātaṅko", "&ldquo;we hope that "
+             "the Buddha is healthy and strong&rdquo; &mdash; the "
+             "Sakyans' own opening courtesy question"),
+        ("kiṁ pana tvaṁ, bhante, imaṁ vassāvāsaṁ bhagavato "
+         "santike kiñci assosi", "&ldquo;during this rains "
+             "residence did you hear and learn anything in the "
+             "presence of the Buddha?&rdquo; &mdash; the Sakyans' "
+             "own real, substantive question"),
+        ("catunnaṁ ariyaphalānaṁ paṭipāṭi", "the sequence of the "
+             "four noble fruits, this project's own term for the "
+             "overall structure this discourse's own three "
+             "comparisons together describe"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.52:1.1-4.2"),
+        ("p", "Arahants and non-returners", "sn55.52:5.1-5.4"),
+        ("p", "Non-returners and once-returners", "sn55.52:6.1-6.3"),
+        ("p", "Once-returners and stream-enterers", "sn55.52:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What three comparisons does the visiting mendicant report hearing from the Buddha?",
+         "opts": ["That at each level of attainment, fewer mendicants reach the higher stage than remain at the stage below it, applied across arahants, non-returners, once-returners, and stream-enterers", "That all mendicants eventually reach full arahantship at the same rate", "That the number of mendicants at each stage is exactly equal", "That no mendicant has yet reached any stage of awakening"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a three-step comparative claim describing a narrowing pyramid of attainment."},
+        {"q": "How do the Sakyans structure their own conversation with the mendicant?",
+         "opts": ["They first ask after the health of the Buddha, Sāriputta, Moggallāna, and the Saṅgha, before finally asking what he personally heard and learned", "They immediately demand the substantive teaching with no preliminary courtesy", "They refuse to speak with him at all", "They ask only about his own personal welfare, never mentioning the Buddha"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a layered, socially graduated approach before reaching the real question."},
+        {"q": "What does this project's own reading identify as the overall shape of the mendicant's own report?",
+         "opts": ["A narrowing pyramid of attainment — progressively fewer mendicants at each higher stage", "An expanding pyramid, with more mendicants at higher stages", "A flat distribution, with equal numbers at every stage", "No discernible pattern at all"],
+         "correct": 0,
+         "expl": "This project's own synthesis of the three comparisons taken together."},
+    ],
+    marginalia=[
+        ("Health asked after, three times over", [
+            "the Buddha, then Sāriputta and Moggallāna, then the Saṅgha —",
+            "courtesy before the real question"
+        ]),
+        ("A pyramid, narrowing at each stage", [
+            "fewer arahants than non-returners —",
+            "fewer non-returners than once-returners"
+        ]),
+        ("Fewer once-returners than stream-enterers", [
+            "the base widest, the summit rarest —",
+            "reported directly from the Buddha's own words"
+        ]),
+        ("News carried from one town to another", [
+            "a mendicant passing through, questioned closely —",
+            "what he heard, now recorded here"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.51.html\">SN 55.51 &middot; With "
+        "Verses</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.53 — Dhammadinnasutta ("With Dhammadinna")
+# Confirmed by direct reading: the lay follower Dhammadinna and five
+# hundred companions ask for advice; the Buddha first recommends
+# meditating on the Realized One's own deep, profound discourses on
+# emptiness, but the group -- echoing SN 55.7's own villagers -- says
+# this is not easy given their household life, and asks for
+# something more accessible. The Buddha then teaches the four
+# factors, which they confirm of themselves collectively.
+# --------------------------------------------------------------------------- #
+page(
+    55, 53, "Dhammadinna", "With Dhammadinna",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.53 — With Dhammadinna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhammadinnasutta &mdash; five hundred lay followers "
+        "decline the Buddha's own first recommendation, honestly "
+        "citing their household life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Varanasi, the deer park at Isipatana"),
+        ("Speakers", "The Buddha and the lay follower Dhammadinna, "
+                     "with five hundred companions"),
+        ("Form", "A request for advice, a first recommendation "
+                 "declined honestly, then a second, accepted "
+                 "teaching"),
+        ("Length", "2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a rare instance of lay followers "
+                         "honestly declining the Buddha's own first "
+                         "teaching, echoing SN 55.7's own villagers, "
+                         "before receiving a more accessible one"),
+    ],
+    why=(
+        "Confirmed by direct reading, when Dhammadinna and five "
+        "hundred lay followers ask for advice, the Buddha first "
+        "recommends meditating on his own &ldquo;discourses that "
+        "are deep, profound, transcendent, dealing with "
+        "emptiness&rdquo; &mdash; and the group responds not with "
+        "silent acceptance but honest declination, citing their own "
+        "household life with children, sandalwood, and jewelry, "
+        "asking instead for something &ldquo;since we are "
+        "established in the five training rules&rdquo; already."
+    ),
+    guide=[
+        ("A first recommendation, honestly declined", [
+            "Confirmed by direct reading, this discourse echoes SN "
+            "55.7's own pattern of villagers stating their own "
+            "worldly circumstances plainly: rather than pretending "
+            "to accept a teaching beyond their own current capacity, "
+            "Dhammadinna's own group states directly, &ldquo;it's "
+            "not easy for us&hellip;please teach us further"
+            "&rdquo; &mdash; a genuine negotiation, not passive "
+            "reception.",
+        ]),
+        ("A second teaching, calibrated to what was asked", [
+            "Confirmed by direct reading, the Buddha does not insist "
+            "on the emptiness teaching or express disappointment; he "
+            "simply gives the four factors instead &mdash; "
+            "confirming this saṃyutta's own recurring pattern of "
+            "meeting disciples where they actually stand, already "
+            "seen at SN 55.7.",
+        ]),
+        ("A collective self-declaration, five hundred strong", [
+            "Confirmed by direct reading, the group's own response "
+            "is a collective version of the individual self-"
+            "declarations already met at SN 55.3, 55.27, and SN "
+            "55.39: &ldquo;these four factors of stream-entry "
+            "&hellip;are found in us, and we embody them,&rdquo; "
+            "confirmed en masse by the Buddha's own closing words, "
+            "&ldquo;you've all declared the fruit of stream-entry.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṁyuttā "
+         "suttantā", "&ldquo;discourses&hellip;that are deep, "
+             "profound, transcendent, dealing with emptiness&rdquo; "
+             "&mdash; the Buddha's own first recommendation, "
+             "declined by the group"),
+        ("na no etaṁ sukaraṁ", "&ldquo;it's not easy for us&rdquo; "
+             "&mdash; the group's own honest, direct declination"),
+        ("pañcasu sikkhāpadesu ṭhitā", "&ldquo;established in the "
+             "five training rules&rdquo; &mdash; the group's own "
+             "stated existing foundation, the basis for their own "
+             "request for further teaching"),
+        ("ime cattāro sotāpattiyaṅgā bhagavatā desitā amhesu "
+         "saṁvijjanti", "&ldquo;these four factors of stream-entry "
+             "&hellip;are found in us, and we embody them&rdquo; "
+             "&mdash; the group's own collective self-confirmation"),
+        ("lābhā vo, dhammadinnā, suladdhaṁ vo", "&ldquo;you're all "
+             "fortunate, Dhammadinna, so very fortunate!&rdquo; "
+             "&mdash; the Buddha's own closing confirmation, "
+             "addressed to the group collectively"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.53:1.1-2.6"),
+        ("p", "&sect;2", "sn55.53:3.1-4.8"),
+    ],
+    quiz=[
+        {"q": "How does Dhammadinna's own group respond to the Buddha's own first recommendation?",
+         "opts": ["They honestly decline it, citing their own household life, and ask for something more accessible", "They accept it silently without comment", "They accuse the Buddha of teaching something impossible", "They leave without responding at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuine, honest negotiation, echoing SN 55.7's own villagers."},
+        {"q": "How does the Buddha respond to their own declination?",
+         "opts": ["He simply gives the four factors instead, without expressing disappointment or insisting on the first teaching", "He rebukes them for their own lack of capacity", "He refuses to teach them anything further", "He insists they attempt the emptiness teaching regardless"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — meeting the group where they actually stand, matching this saṃyutta's own recurring pattern."},
+        {"q": "How does the group's own final response compare to individual self-declarations already met in this saṃyutta?",
+         "opts": ["It is a collective version of the same pattern already met at SN 55.3, 55.27, and SN 55.39 — a direct declaration, not passive reception", "It is entirely unprecedented, with no parallel elsewhere in this saṃyutta", "The group refuses to declare anything about themselves", "Only Dhammadinna personally responds, with the other 499 remaining silent"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same self-declaration structure, now spoken collectively."},
+    ],
+    marginalia=[
+        ("A teaching offered, honestly declined", [
+            "\"it's not easy for us,\" the group admits —",
+            "not pretending to a capacity they lack"
+        ]),
+        ("Household life, named without shame", [
+            "children, sandalwood, gold, garlands —",
+            "the same honesty already met at SN 55.7"
+        ]),
+        ("A second teaching, calibrated to the request", [
+            "no insistence, no disappointment shown —",
+            "the four factors given instead"
+        ]),
+        ("Five hundred voices, one declaration", [
+            "\"found in us, and we embody them\" —",
+            "confirmed collectively, not one by one"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.52.html\">SN 55.52 &middot; One Who "
+        "Completed the Rains</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.7.html\">SN 55.7 &middot; The People of "
+        "Bamboo Gate</a> &mdash; this project's own earlier "
+        "discourse sharing the same honest, household-grounded "
+        "negotiation.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.54 — Gilānasutta ("Sick")
+# Confirmed by direct reading: Mahānāma, worried by news the Buddha
+# will soon depart, admits he has never learned how a wise lay
+# follower should advise another dying lay follower. The Buddha's
+# own answer is an extensive, graduated script: first the four
+# factors as consolations, then a step-by-step release of concern --
+# family, then human sensual pleasure, then six successive heavenly
+# realms each named individually, then the realm of divinity itself
+# -- ending in a claim that a lay follower's mind freed this way is
+# no different from an arahant mendicant's own freedom.
+# --------------------------------------------------------------------------- #
+page(
+    55, 54, "Gilāna", "Sick",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.54 — Sick | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gilānasutta &mdash; a graduated script for counseling a "
+        "dying lay follower, releasing concern step by step up "
+        "through the heavens. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, the Banyan Tree Monastery"),
+        ("Speakers", "The Buddha and Mahānāma the Sakyan"),
+        ("Form", "A question prompted by news of departure, then an "
+                 "extensive, graduated counseling script"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the most extensive lay-to-lay "
+                         "deathbed counseling script in this "
+                         "saṃyutta, releasing concern step by step "
+                         "through six named heavens to the "
+                         "cessation of substantial reality itself"),
+    ],
+    why=(
+        "Confirmed by direct reading, Mahānāma, hearing that the "
+        "Buddha's own robe is nearly finished and he will soon set "
+        "out wandering, admits something specific: he has never "
+        "learned &ldquo;how a wise lay follower should advise "
+        "another wise lay follower who is sick, suffering, gravely "
+        "ill.&rdquo; The Buddha's own answer is the most extensive "
+        "counseling script in this saṃyutta, moving the dying "
+        "person's own attention progressively upward and outward, "
+        "releasing one attachment after another."
+    ),
+    guide=[
+        ("Four consolations, then a graduated release", [
+            "Confirmed by direct reading, the script opens with the "
+            "four factors as direct reassurance (&ldquo;be at ease, "
+            "sir&hellip;you have experiential confidence in the "
+            "Buddha&rdquo;), then moves through a scripted dialogue: "
+            "first releasing concern for parents, then for partners "
+            "and children, each time using the identical reasoning "
+            "&mdash; &ldquo;it's your nature to die&hellip;whether "
+            "or not you are concerned, you will die anyway.&rdquo;",
+        ]),
+        ("Six heavens, named and surpassed in turn", [
+            "Confirmed by direct reading, once family concern is "
+            "released, the script redirects attention upward through "
+            "six distinct heavenly realms in ascending order &mdash; "
+            "the four great kings, the thirty-three, Yama's own "
+            "gods, the joyful gods, the gods who love to create, and "
+            "the gods who control what is created by others &mdash; "
+            "each named individually before being surpassed by the "
+            "next.",
+        ]),
+        ("Beyond even the highest heaven", [
+            "Confirmed by direct reading, the script does not stop "
+            "at the highest named heaven: it continues to &ldquo;"
+            "the realm of divinity&rdquo; (Brahmā's own realm), then "
+            "explicitly names even this as &ldquo;impermanent, not "
+            "lasting, and included within substantial reality"
+            "&rdquo; (sakkāya), redirecting the mind one final time "
+            "toward &ldquo;the cessation of substantial reality"
+            "&rdquo; itself.",
+        ]),
+        ("No difference between lay and monastic freedom", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing claim is striking: once this progression is "
+            "complete, &ldquo;there is no difference between a lay "
+            "follower whose mind is freed in this way and a "
+            "mendicant whose mind is freed from defilements&rdquo; "
+            "&mdash; an explicit statement that this graduated "
+            "release, followed to its own conclusion, reaches the "
+            "identical freedom monastic liberation reaches.",
+        ]),
+    ],
+    terms=[
+        ("kathaṁ paṇḍitena upāsakena paṇḍito upāsako gilāno "
+         "ābādhiko assāsetabbo", "&ldquo;how a wise lay follower "
+             "should advise another wise lay follower who is "
+             "sick&rdquo; &mdash; Mahānāma's own specific question, "
+             "the discourse's own governing concern"),
+        ("assattho hohi, āvuso", "&ldquo;be at ease, sir&rdquo; "
+             "&mdash; the scripted opening line of consolation, "
+             "repeated as the frame for each of the four factors"),
+        ("dhammatā tveva sā, āvuso, yaṁ tvaṁ kāleyyāsi", "&ldquo;"
+             "it's your nature to die&rdquo; &mdash; the recurring "
+             "reasoning released at each stage of family concern"),
+        ("brahmalokāpi kho, āvuso, anicco addhuvo sakkāyapariyāpanno",
+             "&ldquo;the realm of divinity is impermanent, not "
+             "lasting, and included within substantial reality"
+             "&rdquo; &mdash; the script's own final redirection, "
+             "surpassing even the highest named heaven"),
+        ("natthi tassa ca vimuttassa cetovimuttassa bhikkhuno ca "
+         "āsavehi vimuttacittassa kiñci nānākaraṇaṁ", "&ldquo;there "
+             "is no difference&hellip;between the freedom of one "
+             "and the other&rdquo; &mdash; the discourse's own "
+             "closing equivalence between lay and monastic freedom"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, tracing the complete graduated "
+        "script from family concern through six heavens to the "
+        "cessation of substantial reality. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.54:1.1-1.12"),
+        ("p", "Four consolations", "sn55.54:2.1-2.7"),
+        ("p", "Releasing concern for family", "sn55.54:3.1-4.9"),
+        ("p", "Releasing human sensual pleasure",
+             "sn55.54:5.1-5.7"),
+        ("p", "Six heavens, surpassed in turn", "sn55.54:6.1-7.8"),
+        ("p", "Beyond the realm of divinity", "sn55.54:7.9-8.4"),
+    ],
+    quiz=[
+        {"q": "What specific gap in his own knowledge does Mahānāma admit to the Buddha?",
+         "opts": ["He has never learned how a wise lay follower should advise another dying wise lay follower", "He has never heard the four factors of stream-entry explained", "He does not know how to make offerings to the Saṅgha", "He has forgotten the five precepts"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a specific, practical gap, not a general request for teaching."},
+        {"q": "In what order does the script redirect the dying person's own attention, after releasing family concern?",
+         "opts": ["Upward through six named heavens in ascending order, then to the realm of divinity, then to the cessation of substantial reality itself", "Directly to arahantship, skipping all intermediate stages", "Backward toward childhood memories", "It stops entirely after family concern is released"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a carefully graduated, ascending sequence."},
+        {"q": "What does this discourse's own closing claim state about lay versus monastic freedom?",
+         "opts": ["There is no difference between a lay follower whose mind is freed this way and a mendicant freed from defilements", "Lay followers can never reach the same freedom as monastics", "Only monastics who have completed this exact script can be freed", "The comparison is left deliberately unresolved"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an explicit, striking equivalence stated directly."},
+    ],
+    marginalia=[
+        ("A question prompted by news of departure", [
+            "the Buddha's own robe nearly finished —",
+            "Mahānāma realizes a gap in his own knowledge"
+        ]),
+        ("Parents released, then partners and children", [
+            "\"it's your nature to die\" — the same reasoning twice —",
+            "concern set down, not suppressed"
+        ]),
+        ("Six heavens, named and surpassed", [
+            "the four great kings, the thirty-three, Yama's own realm —",
+            "each named, then let go of in turn"
+        ]),
+        ("Even Brahmā's own realm, impermanent", [
+            "the highest heaven, still \"included within substantial reality\" —",
+            "released toward its own cessation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.53.html\">SN 55.53 &middot; With "
+        "Dhammadinna</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.3.html\">SN 55.3 &middot; With Dīghāvu</a> "
+        "&mdash; this project's own earlier deathbed narrative, "
+        "there counseled directly by the Buddha rather than by "
+        "another lay follower.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.55 — Sotāpattiphalasutta ("The Fruit of Stream-Entry")
+# Confirmed by direct reading: opens a systematic seven-discourse
+# sequence (SN 55.55-61) applying the identical four causal
+# conditions already met as Sāriputta's own answer at SN 55.5 and
+# restated at SN 55.50, now attributed one at a time to each of the
+# four fruits of the path and three distinct aspects of wisdom.
+# --------------------------------------------------------------------------- #
+page(
+    55, 55, "Sotāpattiphala", "The Fruit of Stream-Entry",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.55 — The Fruit of Stream-Entry | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sotāpattiphalasutta &mdash; the four practical "
+        "conditions leading to stream-entry, opening a seven-part "
+        "sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.54's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, bare statement of the four causal "
+                 "conditions"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens a systematic seven-discourse "
+                         "sequence attributing the same four "
+                         "conditions to each of the four fruits and "
+                         "three aspects of wisdom in turn"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse states that "
+        "&ldquo;four things&hellip;lead to the realization of the "
+        "fruit of stream-entry&rdquo; &mdash; the identical "
+        "practical conditions already met as Sāriputta's own answer "
+        "at SN 55.5 (associating with true persons, listening to the "
+        "true teaching, rational application of mind, practicing in "
+        "line with the teaching), and restated as this saṃyutta's "
+        "own closing statement at SN 55.50. This discourse opens a "
+        "systematic seven-part sequence applying the same four "
+        "conditions to seven distinct results in turn."
+    ),
+    guide=[
+        ("The same causal conditions, a third confirmed occurrence", [
+            "This project's own direct comparison: the four "
+            "conditions named here match SN 55.5 and SN 55.50 word "
+            "for word, confirming this is the same, stable causal "
+            "formula rather than a coincidental resemblance.",
+        ]),
+        ("The first of seven results", [
+            "Confirmed by direct reading, this discourse names "
+            "stream-entry specifically as what these four conditions "
+            "lead to &mdash; the first in a sequence that continues "
+            "through once-return, non-return, and arahantship (SN "
+            "55.56-58), then through three distinct aspects of "
+            "wisdom (SN 55.59-61), each discourse changing only the "
+            "named result while the four causal conditions remain "
+            "unchanged.",
+        ]),
+    ],
+    terms=[
+        ("sotāpattiphalasacchikiriyāya saṁvattanti", "&ldquo;lead to "
+             "the realization of the fruit of stream-entry&rdquo; "
+             "&mdash; this discourse's own specific result, the "
+             "first of seven in this sequence"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first of the four causal "
+             "conditions, identical to SN 55.5 and SN 55.50"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth and final "
+             "condition"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.55:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four conditions does this discourse name as leading to the fruit of stream-entry?",
+         "opts": ["Associating with true persons, listening to the true teaching, rational application of mind, and practicing in line with the teaching", "Confidence in the Buddha, teaching, Saṅgha, and ethical conduct", "The four jhānas", "The five precepts"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical causal formula already met at SN 55.5 and SN 55.50."},
+        {"q": "What sequence does this discourse open?",
+         "opts": ["A seven-discourse sequence applying the same four conditions to the four fruits and three aspects of wisdom in turn", "A three-discourse sequence limited to the fruits alone", "A sequence that changes the causal conditions at each step", "A single, isolated discourse with no sequence at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the first of seven discourses, SN 55.55-61."},
+        {"q": "What confirms this is the same causal formula met earlier in this saṃyutta, not merely a similar one?",
+         "opts": ["Direct, word-for-word comparison to SN 55.5 and SN 55.50", "The discourse's own title alone", "A general impression of similarity", "This project's own assumption, unverified"],
+         "correct": 0,
+         "expl": "This project's own direct textual comparison, confirming exact wording rather than mere resemblance."},
+    ],
+    marginalia=[
+        ("The same four conditions, a third time", [
+            "SN 55.5, SN 55.50, now this —",
+            "the identical causal formula, confirmed"
+        ]),
+        ("Opening a seven-part sequence", [
+            "stream-entry first, six results still to come —",
+            "the same cause, different fruits"
+        ]),
+        ("Associating, listening, reflecting, practicing", [
+            "four steps toward the same attainment —",
+            "restated here to begin this vagga's own final run"
+        ]),
+        ("A pattern this project now expects", [
+            "the next six discourses will likely repeat this structure —",
+            "confirmed rather than assumed at each occurrence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.54.html\">SN 55.54 &middot; Sick</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-55.5.html\">SN 55.5 &middot; With Sāriputta "
+        "(2nd)</a> &mdash; this project's own earlier translation "
+        "of the identical four causal conditions.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.56 — Sakadāgāmiphalasutta ("The Fruit of Once-Return")
+# Confirmed by direct reading: the second discourse in the SN 55.55-
+# 61 sequence, entirely compressed via "…" as a direct cross-
+# reference to SN 55.55's own full statement, with only the named
+# result changed to once-return.
+# --------------------------------------------------------------------------- #
+page(
+    55, 56, "Sakadāgāmiphala", "The Fruit of Once-Return",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.56 — The Fruit of Once-Return | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, now "
+        "attributed to the fruit of once-return. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.55's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.55's own full statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of "
+                         "seven discourses applying the same four "
+                         "conditions to a different named result"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats SN "
+        "55.55's own structure exactly, changing only the named "
+        "result: the identical four conditions now &ldquo;lead to "
+        "the realization of the fruit of once-return,&rdquo; "
+        "compressed via &ldquo;…&rdquo; rather than restated in full."
+    ),
+    guide=[
+        ("Only the result changes", [
+            "This project's own direct comparison: the entire "
+            "difference between this discourse and SN 55.55 is a "
+            "single compound word &mdash; "
+            "&ldquo;sakadāgāmiphala&rdquo; (&ldquo;fruit of once-"
+            "return&rdquo;) replacing &ldquo;sotāpattiphala&rdquo; "
+            "(&ldquo;fruit of stream-entry&rdquo;) &mdash; while the "
+            "four causal conditions themselves are assumed unchanged.",
+        ]),
+    ],
+    terms=[
+        ("sakadāgāmiphalasacchikiriyāya saṁvattanti", "&ldquo;lead "
+             "to the realization of the fruit of once-return&rdquo; "
+             "&mdash; this discourse's own specific result, replacing "
+             "SN 55.55's own \"stream-entry\""),
+        ("sakadāgāmī", "&ldquo;once-returner&rdquo; &mdash; the "
+             "second of the four classic stages of awakening, "
+             "returning to this world only once more"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.55"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here from SN 55.55"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "likewise assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.55. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.56:1.1"),
+    ],
+    quiz=[
+        {"q": "What changes between this discourse and SN 55.55?",
+         "opts": ["Only the named result — once-return replacing stream-entry — with the same four conditions assumed", "The four causal conditions themselves change entirely", "This discourse adds a fifth condition", "Nothing at all; the two discourses are unrelated"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a minimal, single-word substitution."},
+        {"q": "What does \"sakadāgāmī\" (\"once-returner\") name?",
+         "opts": ["The second of the four classic stages of awakening, returning to this world only once more", "The first stage, stream-entry", "The final stage, full arahantship", "A stage exclusive to monastics"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the classic second stage in the fourfold hierarchy of attainment."},
+        {"q": "What position does this discourse occupy in the SN 55.55-61 sequence?",
+         "opts": ["The second of seven", "The first of seven", "The final discourse in the sequence", "It stands entirely outside the sequence"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("One word changed", [
+            "\"sakadāgāmiphala\" replaces \"sotāpattiphala\" —",
+            "the rest assumed from SN 55.55"
+        ]),
+        ("Second of four fruits", [
+            "returning to this world only once more —",
+            "one step past stream-entry"
+        ]),
+        ("An ellipsis, not an omission", [
+            "the four conditions stand unstated but assumed —",
+            "already given in full just before"
+        ]),
+        ("Second of seven in this sequence", [
+            "stream-entry, then once-return —",
+            "five more results still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.55.html\">SN 55.55 &middot; The Fruit of "
+        "Stream-Entry</a> &mdash; this project's own full "
+        "translation of the formula this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.57 — Anāgāmiphalasutta ("The Fruit of Non-Return")
+# Confirmed by direct reading: the third discourse in the sequence,
+# equally compressed, naming non-return as the result of the
+# identical four conditions.
+# --------------------------------------------------------------------------- #
+page(
+    55, 57, "Anāgāmiphala", "The Fruit of Non-Return",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.57 — The Fruit of Non-Return | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, now "
+        "attributed to the fruit of non-return. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.56's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.55's own full statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the third of seven "
+                         "discourses applying the same four "
+                         "conditions to a different named result"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse continues the "
+        "sequence begun at SN 55.55, naming non-return as the "
+        "result of the identical four conditions, compressed via "
+        "&ldquo;…&rdquo; exactly as SN 55.56 was."
+    ),
+    guide=[
+        ("The third of four fruits, in ascending order", [
+            "Confirmed by direct reading, this discourse's own "
+            "position confirms the SN 55.55-58 sub-sequence follows "
+            "the classic ascending order of the four stages of "
+            "awakening exactly: stream-entry, once-return, non-"
+            "return, then arahantship next at SN 55.58.",
+        ]),
+    ],
+    terms=[
+        ("anāgāmiphalasacchikiriyāya saṁvattanti", "&ldquo;lead to "
+             "the realization of the fruit of non-return&rdquo; "
+             "&mdash; this discourse's own specific result"),
+        ("anāgāmī", "&ldquo;non-returner&rdquo; &mdash; the third "
+             "of the four classic stages, not liable to return to "
+             "the sensual realm"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.55"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here from SN 55.55"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, likewise "
+             "assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.55. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.57:1.1"),
+    ],
+    quiz=[
+        {"q": "What result does this discourse name for the four causal conditions?",
+         "opts": ["Non-return", "Stream-entry, as at SN 55.55", "Once-return, as at SN 55.56", "Arahantship"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the third stage in the classic fourfold hierarchy."},
+        {"q": "What does this discourse's own position confirm about the SN 55.55-58 sub-sequence?",
+         "opts": ["It follows the classic ascending order of the four stages of awakening exactly", "It follows a random, unordered sequence", "It moves in descending order, from arahantship down to stream-entry", "It skips non-return entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — stream-entry, once-return, non-return, then arahantship next."},
+        {"q": "What remains unchanged from SN 55.55-56?",
+         "opts": ["The four causal conditions themselves, assumed identical though elided here", "Nothing; this discourse is entirely unrelated", "Only the discourse's own title", "The specific named result, which stays \"once-return\""],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same underlying causal formula throughout."},
+    ],
+    marginalia=[
+        ("Third stage, third discourse", [
+            "non-return follows once-return in turn —",
+            "the classic order, confirmed by position"
+        ]),
+        ("Not liable to return to the sensual realm", [
+            "the anāgāmī's own defining mark —",
+            "one stage short of full awakening"
+        ]),
+        ("The same conditions, compressed again", [
+            "\"…\" standing in for what SN 55.55 gave —",
+            "nothing genuinely new added"
+        ]),
+        ("Third of seven in this sequence", [
+            "one fruit remains before this set completes —",
+            "arahantship, next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.56.html\">SN 55.56 &middot; The Fruit of "
+        "Once-Return</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.55.html\">SN 55.55 &middot; The Fruit of "
+        "Stream-Entry</a> &mdash; this project's own full "
+        "translation of the formula this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.58 — Arahattaphalasutta ("The Fruit of Perfection")
+# Confirmed by direct reading: closes the four-fruit sub-sequence
+# begun at SN 55.55, naming arahantship as the final, highest result
+# of the identical four conditions.
+# --------------------------------------------------------------------------- #
+page(
+    55, 58, "Arahattaphala", "The Fruit of Perfection",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.58 — The Fruit of Perfection | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, now "
+        "attributed to full arahantship, closing the four-fruit "
+        "sub-sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.57's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.55's own full statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; closes the "
+                         "four-fruit sub-sequence, confirming the "
+                         "same causal conditions extend all the way "
+                         "to full arahantship, not only stream-entry"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse closes the "
+        "four-fruit sub-sequence begun at SN 55.55, naming "
+        "arahantship (arahattaphala, &ldquo;the fruit of "
+        "perfection&rdquo;) as the result of the identical four "
+        "conditions &mdash; confirming these conditions are not "
+        "limited to producing stream-entry alone, but extend, "
+        "unchanged, all the way to full awakening."
+    ),
+    guide=[
+        ("One cause, the entire path's own range of fruits", [
+            "This project's own synthesis of SN 55.55-58 taken "
+            "together: the identical four conditions &mdash; "
+            "associating with true persons, listening to the true "
+            "teaching, rational reflection, practicing in line with "
+            "the teaching &mdash; are said to lead to all four "
+            "stages of awakening, from the first entry onto the "
+            "path to its own final completion, without requiring "
+            "different causes for each stage.",
+        ]),
+    ],
+    terms=[
+        ("arahattaphalasacchikiriyāya saṁvattanti", "&ldquo;lead to "
+             "the realization of the fruit of perfection&rdquo; "
+             "&mdash; this discourse's own specific result, the "
+             "highest and final fruit"),
+        ("arahatta", "&ldquo;perfection,&rdquo; i.e. arahantship "
+             "&mdash; full awakening, the fourth and final of the "
+             "classic stages"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.55"),
+        ("sotāpattiphala...sakadāgāmiphala...anāgāmiphala...arahattaphala",
+             "the complete four-fruit sequence this sub-series "
+             "traces, SN 55.55 through this discourse"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "assumed here as throughout this sub-sequence"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.55. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.58:1.1"),
+    ],
+    quiz=[
+        {"q": "What result does this discourse name, closing the SN 55.55-58 sub-sequence?",
+         "opts": ["The fruit of perfection — full arahantship", "Stream-entry, repeated from SN 55.55", "Once-return, repeated from SN 55.56", "A fifth, previously unnamed stage"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the fourth and final classic stage of awakening."},
+        {"q": "What does this project's own synthesis of SN 55.55-58 conclude?",
+         "opts": ["The identical four conditions are said to lead to all four stages of awakening, not requiring different causes for each stage", "Each of the four stages requires an entirely different set of causal conditions", "Only stream-entry can be reached through these conditions; arahantship requires something else", "The four discourses contradict one another"],
+         "correct": 0,
+         "expl": "This project's own reading of what the four-discourse sub-sequence, taken together, confirms."},
+        {"q": "What structural role does this discourse play in the larger SN 55.55-61 sequence?",
+         "opts": ["It closes the four-fruit sub-sequence, before three further discourses on wisdom follow", "It opens the entire sequence", "It is the final discourse in the entire sequence", "It stands entirely outside the sequence"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — closing the fruits sub-set, with SN 55.59-61 on wisdom still to come."},
+    ],
+    marginalia=[
+        ("The fourth fruit, the highest", [
+            "arahattaphala — perfection itself —",
+            "closing the four-stage sequence"
+        ]),
+        ("One cause, every stage of the path", [
+            "the same four conditions throughout —",
+            "stream-entry to full awakening, unchanged"
+        ]),
+        ("A sub-sequence complete", [
+            "SN 55.55 through this discourse —",
+            "the four classic fruits, traced in order"
+        ]),
+        ("Three more discourses to come", [
+            "wisdom's own getting, growth, and increase —",
+            "the same formula, a new set of results"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.57.html\">SN 55.57 &middot; The Fruit of "
+        "Non-Return</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.55.html\">SN 55.55 &middot; The Fruit of "
+        "Stream-Entry</a> &mdash; this project's own full "
+        "translation of the formula this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.59 — Paññāpaṭilābhasutta ("The Getting of Wisdom")
+# Confirmed by direct reading: opens a second, three-part
+# sub-sequence (SN 55.59-61) within this same vagga, applying the
+# identical four causal conditions to three distinct aspects of
+# wisdom -- getting it, growing it, and increasing it -- rather than
+# the four fruits just completed at SN 55.55-58.
+# --------------------------------------------------------------------------- #
+page(
+    55, 59, "Paññāpaṭilābha", "The Getting of Wisdom",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.59 — The Getting of Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to the getting of wisdom itself. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.58's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.55's own full statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; opens a "
+                         "second, three-part sub-sequence applying "
+                         "the same four conditions to wisdom itself "
+                         "rather than the four fruits of the path"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse marks a shift "
+        "within the SN 55.55-61 sequence: rather than continuing "
+        "with a fifth fruit of the path, it applies the identical "
+        "four causal conditions to &ldquo;the getting of "
+        "wisdom&rdquo; (paññāpaṭilābha) itself &mdash; opening a "
+        "second, three-part sub-sequence that continues through the "
+        "growth (SN 55.60) and increase (SN 55.61) of wisdom."
+    ),
+    guide=[
+        ("A shift from fruits to wisdom itself", [
+            "This project's own direct comparison: SN 55.55-58 "
+            "traced the four classic fruits of the path in "
+            "ascending order; this discourse instead turns to "
+            "wisdom as its own subject, treated across three stages "
+            "&mdash; getting, growing, and increasing &mdash; rather "
+            "than the fourfold hierarchy of awakening.",
+        ]),
+        ("The same conditions produce wisdom's own arising", [
+            "Confirmed by direct reading, this project's own "
+            "observation: since &ldquo;rational application of "
+            "mind&rdquo; is itself one of the four conditions "
+            "already named, this discourse implies wisdom both "
+            "arises from and further deepens through the identical "
+            "process &mdash; a means and an end sharing the same "
+            "underlying conditions.",
+        ]),
+    ],
+    terms=[
+        ("paññāpaṭilābhāya saṁvattanti", "&ldquo;lead to the "
+             "getting of wisdom&rdquo; &mdash; this discourse's own "
+             "specific result, opening the second sub-sequence"),
+        ("paññāpaṭilābha", "&ldquo;the getting of wisdom&rdquo; "
+             "&mdash; the first of three aspects of wisdom this "
+             "sub-sequence traces"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.55"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, itself "
+             "already a form of wisdom in action"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here from SN 55.55"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.55. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.59:1.1"),
+    ],
+    quiz=[
+        {"q": "What genuinely new direction does this discourse take within the SN 55.55-61 sequence?",
+         "opts": ["It shifts from the four fruits of the path to wisdom itself, opening a three-part sub-sequence on getting, growing, and increasing wisdom", "It introduces an entirely new, unrelated causal formula", "It denies that wisdom can be developed at all", "It repeats SN 55.58's own content on arahantship exactly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a shift in subject from the fourfold hierarchy of awakening to wisdom's own development."},
+        {"q": "What does this project's own observation note about \"rational application of mind\" appearing among the causal conditions?",
+         "opts": ["Since it is itself a form of wisdom in action, wisdom both arises from and further deepens through the identical process", "It has no connection to wisdom at all", "It contradicts the discourse's own claim about getting wisdom", "It applies only to monastics, not lay followers"],
+         "correct": 0,
+         "expl": "This project's own reading of the relationship between one of the causal conditions and the discourse's own named result."},
+        {"q": "What three stages does this new sub-sequence trace, according to its own titles?",
+         "opts": ["Getting, growing, and increasing wisdom", "Getting, losing, and regaining wisdom", "Only getting wisdom, with no further stages", "Getting wisdom, then abandoning it entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of this discourse's own title and its own two immediate successors."},
+    ],
+    marginalia=[
+        ("A shift, within the same sequence", [
+            "no longer the four fruits of the path —",
+            "now wisdom itself, traced through three stages"
+        ]),
+        ("The same conditions, a new subject", [
+            "associating, listening, reflecting, practicing —",
+            "producing wisdom this time, not only awakening"
+        ]),
+        ("A means and an end, intertwined", [
+            "rational reflection is itself wisdom in motion —",
+            "the cause already resembling the result"
+        ]),
+        ("First of three, on wisdom's own arc", [
+            "getting, then growing, then increasing —",
+            "two more discourses complete this smaller set"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.58.html\">SN 55.58 &middot; The Fruit of "
+        "Perfection</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.55.html\">SN 55.55 &middot; The Fruit of "
+        "Stream-Entry</a> &mdash; this project's own full "
+        "translation of the formula this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.60 — Paññāvuddhisutta ("The Growth of Wisdom")
+# Confirmed by direct reading: the second of the wisdom sub-
+# sequence's own three discourses, naming growth rather than mere
+# initial getting.
+# --------------------------------------------------------------------------- #
+page(
+    55, 60, "Paññāvuddhi", "The Growth of Wisdom",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.60 — The Growth of Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to the growth of wisdom. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.59's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.55's own full statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of "
+                         "three discourses tracing wisdom's own "
+                         "progression from initial arising to "
+                         "sustained growth"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse continues the "
+        "wisdom sub-sequence begun at SN 55.59, naming "
+        "&ldquo;growth&rdquo; (vuddhi) rather than mere initial "
+        "&ldquo;getting&rdquo; as the result of the identical four "
+        "conditions &mdash; distinguishing wisdom's own first "
+        "arising from its own subsequent, sustained development."
+    ),
+    guide=[
+        ("Getting, then growing: a genuine progression", [
+            "This project's own reading of the distinction between "
+            "SN 55.59 and this discourse: &ldquo;paṭilābha"
+            "&rdquo; (&ldquo;getting, acquisition&rdquo;) names "
+            "wisdom's own initial arising, while &ldquo;vuddhi"
+            "&rdquo; (&ldquo;growth&rdquo;) names its own continued "
+            "development afterward &mdash; the same four conditions "
+            "said to sustain wisdom's own progression, not only "
+            "trigger its own beginning.",
+        ]),
+    ],
+    terms=[
+        ("paññāvuddhiyā saṁvattanti", "&ldquo;lead to the growth of "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result, the second of three aspects of wisdom traced "
+             "in this sub-sequence"),
+        ("vuddhi", "&ldquo;growth&rdquo; &mdash; distinct from SN "
+             "55.59's own &ldquo;paṭilābha&rdquo; (&ldquo;getting"
+             "&rdquo;), naming continued development rather than "
+             "initial arising"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.55"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here from SN 55.55"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "likewise assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.55. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.60:1.1"),
+    ],
+    quiz=[
+        {"q": "What distinguishes this discourse's own result from SN 55.59's own?",
+         "opts": ["\"Growth\" (vuddhi), naming continued development, rather than SN 55.59's own \"getting\" (paṭilābha), naming initial arising", "Nothing; the two discourses are word-for-word identical in every respect", "This discourse denies that wisdom can grow at all", "It names an entirely unrelated quality, not wisdom"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuine progression from initial arising to sustained development."},
+        {"q": "What position does this discourse occupy in the wisdom sub-sequence?",
+         "opts": ["The second of three discourses, between getting (SN 55.59) and increase (SN 55.61)", "The first of the sub-sequence", "The final discourse in the entire SN 55.55-61 sequence", "It stands outside the wisdom sub-sequence entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sub-sequence's own order."},
+        {"q": "What remains constant across SN 55.59 and this discourse?",
+         "opts": ["The four causal conditions themselves, assumed identical though elided in both", "The specific named result, which stays \"getting\"", "Nothing; the two discourses share no common content", "Only the discourse's own title format"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same underlying causal formula throughout the wisdom sub-sequence."},
+    ],
+    marginalia=[
+        ("Getting, then growing", [
+            "SN 55.59's own initial arising —",
+            "now sustained development, one step further"
+        ]),
+        ("The same four conditions, still at work", [
+            "not only triggering wisdom's own beginning —",
+            "sustaining its own continued growth"
+        ]),
+        ("Second of three, mid-sequence", [
+            "getting, growing, increasing —",
+            "one discourse remains to complete this set"
+        ]),
+        ("A progression, not a repetition", [
+            "each of the three names a genuinely different stage —",
+            "not merely restating the same claim three times"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.59.html\">SN 55.59 &middot; The Getting of "
+        "Wisdom</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.55.html\">SN 55.55 &middot; The Fruit of "
+        "Stream-Entry</a> &mdash; this project's own full "
+        "translation of the formula this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.61 — Paññāvepullasutta ("The Increase of Wisdom")
+# Confirmed by direct reading of the root Pali colophon: closes
+# Vagga 6 (Sappaññavaggo chaṭṭho, "the Wise-Person chapter, the
+# sixth") at eleven discourses -- confirmed directly rather than
+# assumed from the pattern of prior ten-discourse vaggas -- matching
+# this project's own SN 55.51-61 exactly. Closes the wisdom
+# sub-sequence's own final stage: increase, beyond mere growth,
+# completing the trio begun at SN 55.59.
+# --------------------------------------------------------------------------- #
+page(
+    55, 61, "Paññāvepulla", "The Increase of Wisdom",
+    vagga="Sappaññavagga",
+    meta_title="SN 55.61 — The Increase of Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions "
+        "leading to wisdom's own full increase, closing Vagga 6 at "
+        "eleven discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.60's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, closing both the "
+                 "wisdom sub-sequence and Vagga 6 itself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Vagga 6 (11 discourses, "
+                         "confirmed directly rather than assumed), "
+                         "completing the three-stage wisdom "
+                         "sub-sequence's own final term"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon "
+        "(&ldquo;Sappaññavaggo chaṭṭho&rdquo;) and uddāna, this "
+        "discourse closes Vagga 6 at eleven discourses &mdash; not "
+        "ten, confirmed directly rather than assumed from the "
+        "pattern of every prior vagga in this saṃyutta &mdash; "
+        "matching this project's own SN 55.51-61 exactly. It "
+        "completes the wisdom sub-sequence's own final stage: "
+        "&ldquo;increase&rdquo; (vepulla), beyond SN 55.59's own "
+        "&ldquo;getting&rdquo; and SN 55.60's own &ldquo;growth.&rdquo;"
+    ),
+    guide=[
+        ("A vagga confirmed at eleven, not ten", [
+            "This project's own explicit confirmation: unlike every "
+            "prior vagga in this saṃyutta, which held exactly ten "
+            "discourses, this vagga's own colophon and uddāna "
+            "confirm eleven &mdash; a genuine structural variation "
+            "this project verified directly by reading the source "
+            "rather than assuming the established pattern would "
+            "hold automatically.",
+        ]),
+        ("Three terms for wisdom's own arc, now complete", [
+            "Confirmed by direct reading, &ldquo;vepulla&rdquo; "
+            "(&ldquo;increase, fullness, abundance&rdquo;) names a "
+            "further stage beyond SN 55.60's own &ldquo;growth"
+            "&rdquo; &mdash; completing a genuine three-part "
+            "progression: wisdom first obtained, then developed, "
+            "then brought to its own full measure.",
+        ]),
+        ("An untranslated closing, once more", [
+            "This project's own direct comparison: matching the "
+            "pattern already confirmed at SN 54.10, SN 55.10, and SN "
+            "55.20, this discourse's own closing colophon and "
+            "uddāna are both left as empty strings in the consulted "
+            "English source, genuinely untranslated rather than "
+            "filled in by this project.",
+        ]),
+    ],
+    terms=[
+        ("paññāvepullāya saṁvattanti", "&ldquo;lead to the "
+             "increase of wisdom&rdquo; &mdash; this discourse's own "
+             "specific result, closing the three-part wisdom "
+             "sub-sequence"),
+        ("vepulla", "&ldquo;increase, fullness, abundance&rdquo; "
+             "&mdash; the final term in wisdom's own three-stage "
+             "progression, beyond mere growth"),
+        ("sappaññavaggo chaṭṭho", "&ldquo;the Wise-Person chapter, "
+             "the sixth [ends]&rdquo; &mdash; the root colophon's "
+             "own vagga-closing marker"),
+        ("ekādasamaṁ", "&ldquo;eleventh&rdquo; &mdash; this "
+             "discourse's own closing ordinal, confirming this "
+             "vagga's own genuinely eleven-discourse length"),
+        ("sagāthakaṁ vassaṁvutthaṁ, dhammadinnañca gilānaṁ; "
+         "caturo phalā paṭilābho, vuddhi vepullatāya cāti", "the "
+             "closing uddāna's own eleven titles, confirmed by "
+             "direct reading to match SN 55.51 through SN 55.61 "
+             "exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source; the closing colophon and uddāna "
+        "themselves are left untranslated in the source, matching "
+        "the pattern already confirmed at SN 54.10, SN 55.10, and SN "
+        "55.20. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.61:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm about Vagga 6, which this project verified directly rather than assumed?",
+         "opts": ["It closes Vagga 6 at eleven discourses, not the ten discourses held by every prior vagga in this saṃyutta", "It closes Vagga 6 at exactly ten discourses, matching every prior vagga", "It closes the entire Sotāpattisaṃyutta itself", "It belongs to an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon — a genuine structural variation, not assumed from habit."},
+        {"q": "What does \"vepulla\" (\"increase\") complete, together with SN 55.59's own \"getting\" and SN 55.60's own \"growth\"?",
+         "opts": ["A genuine three-part progression: wisdom first obtained, then developed, then brought to its own full measure", "Three unrelated, disconnected claims about wisdom", "A contradiction of SN 55.59 and SN 55.60's own content", "A progression that applies only to arahants, not other stages"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a coherent three-stage arc for wisdom's own development."},
+        {"q": "What does this project's own direct comparison confirm about this discourse's own closing colophon and uddāna?",
+         "opts": ["Both are present in the root Pali but left untranslated in the consulted English source, matching the pattern already confirmed at SN 54.10, SN 55.10, and SN 55.20", "Both are fully translated into English, matching the root Pali exactly", "The root Pali itself lacks any closing colophon", "The uddāna lists only ten titles, contradicting this project's own count of eleven"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, reported honestly rather than filled in."},
+    ],
+    marginalia=[
+        ("Eleven, not ten, confirmed directly", [
+            "a break from every prior vagga's own pattern —",
+            "verified by reading, not assumed"
+        ]),
+        ("Getting, growing, now increasing", [
+            "wisdom's own three-stage arc, complete —",
+            "obtained, developed, brought to fullness"
+        ]),
+        ("Fewer, more, fewer, more — a pyramid remembered", [
+            "SN 55.52's own statistical claim, still resonant —",
+            "wisdom's own increase, the vagga's own closing note"
+        ]),
+        ("The uddāna, untranslated once more", [
+            "eleven titles named in the Pali alone —",
+            "the English source leaves it silent"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.60.html\">SN 55.60 &middot; The Growth of "
+        "Wisdom</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own final vagga is still in preparation.",
+    ],
+)
