@@ -58225,3 +58225,358 @@ page(
         "&mdash; the previous discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.8 — Padīpopamasutta ("The Simile of the Lamp")
+# Confirmed by direct reading: this vagga's own longest and most
+# significant discourse so far. The Buddha declares he himself
+# practiced this meditation before his own awakening, "while still
+# unawakened but intent on awakening." An extensive wish-list
+# (ākaṅkha formula) follows, covering the fivefold perception-choice
+# list already met at this project's own SN 52.1, all four jhānas,
+# all four formless attainments, and the cessation of perception and
+# feeling -- the complete nine progressive abodes (anupubbavihāra),
+# all said to be reachable through this one gateway practice. The
+# discourse closes with the lamp simile: as oil and wick run out, the
+# flame goes out for lack of fuel -- likening this to an arahant's
+# own final extinguishment, no longer feeding continued existence
+# with craving.
+# --------------------------------------------------------------------------- #
+page(
+    54, 8, "Padīpopama", "The Simile of the Lamp",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.8 — The Simile of the Lamp | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Padīpopamasutta &mdash; the Buddha's own pre-awakening "
+        "practice, the nine progressive abodes reached through "
+        "breath-mindfulness, and the lamp simile for final "
+        "extinguishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 54.1)"),
+        ("Speaker", "The Buddha, including a first-person account of "
+                     "his own pre-awakening practice"),
+        ("Form", "An extensive wish-list (ākaṅkha) formula, covering "
+                 "all nine progressive abodes, closing with the "
+                 "lamp simile"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this vagga's own longest and most "
+                         "significant discourse so far, including "
+                         "the Buddha's own first-person testimony "
+                         "and the celebrated lamp simile for "
+                         "parinibbāna"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens with a "
+        "rare first-person claim: &ldquo;before my awakening&mdash;"
+        "when I was still unawakened but intent on awakening&mdash;"
+        "I too usually practiced this kind of meditation,&rdquo; and "
+        "found that neither body nor eyes grew fatigued, and the "
+        "mind was freed from defilements by not grasping. What "
+        "follows is an extensive catalog: any mendicant who wishes "
+        "for any of the nine progressive abodes &mdash; the fivefold "
+        "perception-choice already met at this project's own SN "
+        "52.1, all four jhānas, all four formless attainments, or "
+        "cessation itself &mdash; should closely focus on this same "
+        "one practice, mindfulness of breathing, to reach it."
+    ),
+    guide=[
+        ("The Buddha's own pre-awakening testimony", [
+            "Confirmed by direct reading, this is a rare first-"
+            "person account: the Buddha states he himself practiced "
+            "this meditation as a bodhisatta, before his own "
+            "awakening, and names two specific benefits &mdash; "
+            "freedom from bodily and visual fatigue, and a mind "
+            "freed from defilements by non-grasping &mdash; framing "
+            "the entire following catalog as something he tested "
+            "himself, not merely taught to others.",
+        ]),
+        ("One gateway, nine progressive abodes", [
+            "Confirmed by direct reading, the wish-list moves "
+            "through, in strict order: freedom from fatigue and "
+            "grasping; giving up thoughts tied to domestic life; the "
+            "fivefold perception-choice already translated in full "
+            "at this project's own SN 52.1 (repulsive in the "
+            "unrepulsive, unrepulsive in the repulsive, and three "
+            "further combinations); all four jhānas in their "
+            "classic formula; all four formless attainments "
+            "(infinite space, infinite consciousness, nothingness, "
+            "neither-perception-nor-non-perception); and finally "
+            "the cessation of perception and feeling &mdash; the "
+            "complete nine progressive abodes (anupubbavihāra), each "
+            "one reached, this discourse insists, through the same "
+            "single practice.",
+        ]),
+        ("The lamp simile: extinguishment without more fuel", [
+            "Confirmed by direct reading, the discourse closes by "
+            "describing one who, having developed this immersion, "
+            "feels every pleasant, painful, or neutral feeling "
+            "without attachment or relish, understanding it as "
+            "impermanent &mdash; then likens the body's own final "
+            "breaking-up to an oil lamp running out of fuel: "
+            "&ldquo;as the oil and the wick are used up, it would be "
+            "extinguished due to not being fed,&rdquo; so too every "
+            "feeling, no longer relished, &ldquo;will become cool "
+            "right here&rdquo; when life ends &mdash; a description "
+            "of an arahant's own parinibbāna.",
+        ]),
+    ],
+    terms=[
+        ("pubbeva sambodhā anabhisambuddho bodhisattova samāno",
+             "&ldquo;before my awakening&mdash;when I was still "
+             "unawakened but intent on awakening&rdquo; &mdash; the "
+             "Buddha's own rare first-person framing, referring to "
+             "his own practice as a bodhisatta"),
+        ("neva kāyo kilamati na cakkhūni", "&ldquo;neither my body "
+             "nor my eyes became fatigued&rdquo; &mdash; the first "
+             "of two benefits the Buddha names from his own "
+             "practice"),
+        ("appaṭikūle paṭikūlasaññī...paṭikūle appaṭikūlasaññī",
+             "&ldquo;perceiving the repulsive in the unrepulsive... "
+             "the unrepulsive in the repulsive&rdquo; &mdash; the "
+             "first two of the fivefold perception-choice already "
+             "translated in full at this project's own SN 52.1"),
+        ("anupubbavihāra", "&ldquo;the progressive abodes&rdquo; "
+             "(not itself named in this discourse's own text, but "
+             "this project's own term for the complete nine-stage "
+             "sequence this discourse enumerates: perception-"
+             "choices, four jhānas, four formless attainments, and "
+             "cessation)"),
+        ("telañca paṭicca, vaṭṭiñca paṭicca telappadīpo jhāyeyya... "
+         "anāhāro nibbāyeyya", "&ldquo;an oil lamp depended on oil "
+             "and a wick to burn...it would be extinguished due to "
+             "not being fed&rdquo; &mdash; the closing simile, "
+             "&ldquo;nibbāyeyya&rdquo; sharing its own root with "
+             "&ldquo;nibbāna&rdquo; itself"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, spanning this discourse's own "
+        "full extent from the Buddha's own testimony through the "
+        "closing lamp simile. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.8:1.1-2.5"),
+        ("p", "The Buddha's own testimony", "sn54.8:3.1-3.3"),
+        ("p", "Freedom from fatigue", "sn54.8:4.1-4.3"),
+        ("p", "Giving up domestic thoughts", "sn54.8:5.1-5.3"),
+        ("p", "The fivefold perception-choice", "sn54.8:6.1-10.3"),
+        ("p", "The four jhānas", "sn54.8:11.1-14.3"),
+        ("p", "The four formless attainments and cessation",
+             "sn54.8:15.1-19.3"),
+        ("p", "Insight into feeling", "sn54.8:20.1-21.5"),
+        ("p", "The lamp simile", "sn54.8:22.1-22.4"),
+    ],
+    quiz=[
+        {"q": "What rare claim does the Buddha make about his own relationship to this practice?",
+         "opts": ["That he himself practiced this same meditation before his own awakening, as a bodhisatta", "That this practice was unknown to him before his awakening", "That only fully awakened beings can practice it", "That he learned this practice from a previous Buddha"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a rare first-person account of his own pre-awakening practice."},
+        {"q": "What complete sequence of attainments does this discourse's own extensive wish-list cover, all reachable through this one practice?",
+         "opts": ["The fivefold perception-choice, all four jhānas, all four formless attainments, and the cessation of perception and feeling — nine progressive abodes in all", "Only the four jhānas, with no further attainments named", "The ten Tathāgata powers, already covered in SN 52", "The seven awakening factors alone, as at SN 54.2"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the complete nine-stage sequence, each one reached via this same one practice."},
+        {"q": "What does the closing lamp simile illustrate?",
+         "opts": ["An arahant's own final extinguishment — as oil and wick run out, the flame goes out for lack of fuel, and feelings, no longer relished, \"become cool\" at life's end", "That mindfulness of breathing should be practiced by lamplight", "That the Buddha's own teaching will eventually be forgotten, like a lamp going out", "A warning against relying too heavily on any single meditation object"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: parinibbāna described as a lamp running out of fuel, not being extinguished by force."},
+    ],
+    marginalia=[
+        ("Before awakening, already this practice", [
+            "the bodhisatta, testing what he would teach —",
+            "neither body nor eyes grew tired"
+        ]),
+        ("One gateway, nine abodes", [
+            "perception, jhāna, the formless, cessation —",
+            "all reached through the same breath"
+        ]),
+        ("Domestic thoughts, released", [
+            "a wish named plainly among the rest —",
+            "ordinary, not only the exalted"
+        ]),
+        ("A lamp, not blown out but run dry", [
+            "oil and wick spent, not extinguished by force —",
+            "feeling, unrelished, grows cool"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.7.html\">SN 54.7 &middot; About "
+        "Mahākappina</a> &mdash; the previous discourse.",
+        "<a href=\"sn-52.1.html\">SN 52.1 &middot; In Private "
+        "(1st)</a> &mdash; this project's own full translation of "
+        "the fivefold perception-choice this discourse reuses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.9 — Vesālīsutta ("At Vesālī")
+# Confirmed by direct reading: a full narrative discourse recounting
+# a documented historical episode. The Buddha had taught extensively
+# on the meditation on ugliness (asubha-bhāvanā, contemplation of the
+# body's own repulsive aspects) before going on a fortnight's
+# retreat. In his absence, some mendicants developed such aversion to
+# their own bodies through this practice that they sought out a
+# weapon to end their own lives, with ten to thirty mendicants dying
+# by suicide each day. On returning and learning what had happened,
+# the Buddha gathered the remaining Saṅgha and taught mindfulness of
+# breathing instead, describing it as peaceful, sublime, and
+# blissful, settling unskillful qualities without producing the same
+# extreme aversion.
+# --------------------------------------------------------------------------- #
+page(
+    54, 9, "Vesālī", "At Vesālī",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.9 — At Vesālī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vesālīsutta &mdash; the documented episode behind the "
+        "Buddha's own turn to mindfulness of breathing as a safer "
+        "practice than the meditation on ugliness. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                     "peaked roof"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A full narrative discourse recounting a documented "
+                 "historical episode"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; records the historical episode "
+                         "behind the canon's own turn toward "
+                         "mindfulness of breathing as a safer "
+                         "practice than the meditation on ugliness"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse records a "
+        "documented and consequential episode. The Buddha had taught "
+        "extensively on the meditation on ugliness before going on a "
+        "fortnight's solitary retreat; in his absence, some "
+        "mendicants developed such horror, revulsion, and disgust "
+        "toward their own bodies through this practice that they "
+        "sought out a weapon, and each day ten, twenty, or thirty "
+        "mendicants died by suicide. On learning this from Ānanda, "
+        "the Buddha gathered the remaining Saṅgha and taught "
+        "mindfulness of breathing as the safer alternative Ānanda "
+        "had explicitly requested."
+    ),
+    guide=[
+        ("The meditation on ugliness and its consequence", [
+            "Confirmed by direct reading, the discourse states "
+            "plainly, without elaboration, that the Buddha had "
+            "&ldquo;spoken in many ways to the mendicants about the "
+            "meditation on ugliness&rdquo; and &ldquo;praised the "
+            "meditation on ugliness and its development&rdquo; "
+            "before his retreat; during his fortnight of solitude, "
+            "some mendicants, having committed themselves to this "
+            "same practice, became &ldquo;horrified, repelled, and "
+            "disgusted with this body,&rdquo; leading to what the "
+            "text records directly as mass suicide.",
+        ]),
+        ("Ānanda's own explicit request for an alternative", [
+            "Confirmed by direct reading, when the Buddha asks why "
+            "the Saṅgha seems diminished, Ānanda reports what "
+            "happened and then directly requests: &ldquo;please "
+            "explain another way the mendicant Saṅgha might be "
+            "settled in enlightenment&rdquo; &mdash; framing the "
+            "discourse's own teaching that follows as a direct "
+            "response to this specific request, not an unprompted "
+            "new teaching.",
+        ]),
+        ("Mindfulness of breathing, named by its own effect", [
+            "Confirmed by direct reading, the Buddha describes this "
+            "immersion, in contrast to what came before, as "
+            "&ldquo;peaceful and sublime, a delectable and blissful "
+            "meditation,&rdquo; using the same storm simile already "
+            "encountered in this book: as an out-of-season storm "
+            "settles stirred-up summer dust, this practice "
+            "&ldquo;disperses and settles unskillful qualities on "
+            "the spot whenever they arise&rdquo; &mdash; framed "
+            "explicitly by its own gentleness, unlike the aversion "
+            "the meditation on ugliness had produced.",
+        ]),
+    ],
+    terms=[
+        ("asubhabhāvanā", "&ldquo;the meditation on ugliness&rdquo; "
+             "&mdash; contemplation of the body's own repulsive "
+             "aspects, the practice taught before the Buddha's own "
+             "retreat"),
+        ("aṭṭīyamānā harāyamānā jigucchamānā", "&ldquo;horrified, "
+             "repelled, and disgusted&rdquo; &mdash; the mendicants' "
+             "own reaction to their bodies, leading directly to the "
+             "episode this discourse records"),
+        ("dasapi bhikkhū ekāhena satthaṁ āharanti", "&ldquo;each day "
+             "ten...mendicants committed suicide&rdquo; &mdash; "
+             "confirmed by direct reading as this discourse's own "
+             "plain, undramatized statement of what occurred"),
+        ("aññaṁ pariyāyaṁ", "&ldquo;another way&rdquo; &mdash; "
+             "Ānanda's own explicit request, to which mindfulness of "
+             "breathing is given as the direct answer"),
+        ("santo ceva paṇīto ca asecanako ca sukho ca vihāro",
+             "&ldquo;peaceful and sublime, a delectable and blissful "
+             "meditation&rdquo; &mdash; the Buddha's own description "
+             "of this practice, in implicit contrast to what "
+             "preceded it"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the full narrative "
+        "recounting this documented episode without alteration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.9:1.1-1.3"),
+        ("p", "&sect;2", "sn54.9:2.1-2.4"),
+        ("p", "&sect;3", "sn54.9:3.1-3.4"),
+        ("p", "&sect;4", "sn54.9:4.1-4.6"),
+        ("p", "&sect;5", "sn54.9:5.1-5.4"),
+        ("p", "&sect;6", "sn54.9:6.1-6.3"),
+        ("p", "&sect;7", "sn54.9:7.1-7.3"),
+        ("p", "&sect;8", "sn54.9:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What documented episode does this discourse record?",
+         "opts": ["Some mendicants, after intensive practice of the meditation on ugliness during the Buddha's fortnight retreat, became so averse to their own bodies that mass suicide resulted", "A dispute among the mendicants over the correct interpretation of a teaching", "A famine that reduced the size of the Saṅgha at Vesālī", "An attack on the monastery by hostile outsiders"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the text states this plainly, without elaboration or euphemism."},
+        {"q": "What does Ānanda explicitly request from the Buddha after reporting what happened?",
+         "opts": ["\"Please explain another way the mendicant Saṅgha might be settled in enlightenment\" — a direct request for an alternative practice", "That the Buddha personally punish the surviving mendicants", "That the meditation on ugliness be taught even more intensively", "That the Saṅgha be permanently disbanded"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — Ānanda's own explicit words, framing what follows as a direct response."},
+        {"q": "How does the Buddha describe mindfulness of breathing in contrast to what preceded it?",
+         "opts": ["\"Peaceful and sublime, a delectable and blissful meditation\" that settles unskillful qualities on the spot", "As an equally intense practice requiring the same degree of aversion", "As suitable only for advanced practitioners, unlike the meditation on ugliness", "As a temporary measure to be replaced later by the meditation on ugliness"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading, using the same storm simile already met elsewhere in this book."},
+    ],
+    marginalia=[
+        ("A teaching, and its cost", [
+            "the meditation on ugliness, praised at length —",
+            "then a fortnight's retreat, and what happened in it"
+        ]),
+        ("Reported plainly, not softened", [
+            "ten, twenty, thirty a day —",
+            "the text does not look away"
+        ]),
+        ("A direct request, a direct answer", [
+            "\"another way,\" Ānanda asks —",
+            "mindfulness of breathing, given in reply"
+        ]),
+        ("A storm that settles, not provokes", [
+            "dust stirred up, then quieted at once —",
+            "peaceful, sublime, without the same danger"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.8.html\">SN 54.8 &middot; The Simile of the "
+        "Lamp</a> &mdash; the previous discourse.",
+    ],
+)
