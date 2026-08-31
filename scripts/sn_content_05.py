@@ -50168,3 +50168,138 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.18 — Bhikkhusutta ("A Mendicant")
+# Confirmed by direct reading: narrows both the subject (Buddhist
+# mendicants specifically, not "ascetics and brahmins" of any
+# tradition as in SN 51.16-17) and the outcome (arahantship alone,
+# omitting all five of the other supernormal powers).
+# --------------------------------------------------------------------------- #
+page(
+    51, 18, "Bhikkhu", "A Mendicant",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.18 — A Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta &mdash; developing the four bases of "
+        "psychic power leads a mendicant to arahantship itself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, tightly focused statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; narrows both "
+                         "the subject and the outcome compared to "
+                         "the two preceding discourses"),
+    ],
+    why=(
+        "This project's own comparison: after two discourses "
+        "concerning &ldquo;all the ascetics and brahmins&rdquo; in "
+        "any tradition (SN 51.16-17), this discourse narrows its own "
+        "subject specifically to a Buddhist mendicant &mdash; and, "
+        "confirmed by direct reading, narrows the outcome as well, "
+        "naming only arahantship and omitting the five other "
+        "supernormal powers entirely."
+    ),
+    guide=[
+        ("From any tradition to one specific mendicant", [
+            "This project's own observation: SN 51.16-17 spoke of "
+            "&ldquo;all the ascetics and brahmins&rdquo; in the "
+            "past, future, or present, regardless of school; this "
+            "discourse's own subject, confirmed directly by the "
+            "text, is simply &ldquo;a mendicant&rdquo; (bhikkhu) "
+            "&mdash; the discourse's own root Pāli title.",
+        ]),
+        ("From six results to one", [
+            "Confirmed by direct reading, where SN 51.11 gave the "
+            "full sixfold list and SN 51.17 gave the first item in "
+            "detail, this discourse names only the sixth and final "
+            "item &mdash; &ldquo;the undefiled freedom of heart and "
+            "freedom by wisdom&rdquo; through the ending of "
+            "defilements &mdash; leaving the other five unmentioned.",
+        ]),
+        ("A pattern this project has tracked before", [
+            "This project's own cross-reference: this narrowing "
+            "toward arahantship alone continues a pattern already "
+            "noted across SN 51.5-8, where this saṃyutta's own "
+            "discourses repeatedly single out the ending of "
+            "defilements as the four bases' own furthest and final "
+            "fruit.",
+        ]),
+    ],
+    terms=[
+        ("bhikkhu", "&ldquo;a mendicant&rdquo; &mdash; the "
+             "discourse's own root Pāli title, narrower than SN "
+             "51.16-17's own &ldquo;ascetics and brahmins&rdquo;"),
+        ("āsavānaṁ khayā", "&ldquo;through the ending of "
+             "defilements&rdquo; &mdash; the discourse's own sole "
+             "named outcome, the sixth item of the sixfold list "
+             "given alone here"),
+        ("anāsavaṁ cetovimuttiṁ paññāvimuttiṁ", "&ldquo;the "
+             "undefiled freedom of heart and freedom by "
+             "wisdom&rdquo; &mdash; the classic arahant formula this "
+             "project has met at each of this saṃyutta's own "
+             "culminating discourses"),
+        ("diṭṭheva dhamme", "&ldquo;in this very life&rdquo; "
+             "&mdash; specifying that this realization is not "
+             "deferred to a future rebirth"),
+        ("sayaṁ abhiññā sacchikatvā", "&ldquo;having realized it "
+             "with their own insight&rdquo; &mdash; emphasizing "
+             "direct, personal realization rather than received "
+             "belief"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.18:1.1"),
+        ("p", "&sect;2", "sn51.18:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own subject differ from SN 51.16-17?",
+         "opts": ["It narrows from 'all the ascetics and brahmins' of any tradition to a single Buddhist mendicant", "It broadens the subject to include laypeople for the first time", "It restricts the subject to only fully awakened Buddhas", "It applies specifically to female mendicants only"],
+         "correct": 0,
+         "expl": "SN 51.16-17's universal scope narrows here to \"bhikkhu\" — a mendicant — this discourse's own root title."},
+        {"q": "Which of the six results does this discourse name?",
+         "opts": ["Only the sixth and final item: arahantship, through the ending of defilements", "All six results, given in the same full detail as SN 51.11", "Only the first item: the various kinds of psychic power", "A seventh result not found in any other discourse of this saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: only \"the undefiled freedom of heart and freedom by wisdom... through the ending of defilements.\""},
+        {"q": "What pattern does this project's own cross-reference connect this discourse to?",
+         "opts": ["A pattern, already noted across SN 51.5-8, of repeatedly singling out arahantship as the four bases' own furthest fruit", "A pattern of increasingly long discourses as the vagga progresses", "A pattern of discourses taught exclusively by Ānanda rather than the Buddha", "A pattern of discourses set outside Sāvatthī"],
+         "correct": 0,
+         "expl": "This project's own earlier tracking of SN 51.5-8's escalating focus on arahantship as the culminating fruit."},
+    ],
+    marginalia=[
+        ("From every tradition to one mendicant", [
+            "ascetics and brahmins, then just \"a mendicant\" —",
+            "the frame narrows, discourse by discourse"
+        ]),
+        ("Six results, one kept", [
+            "psychic power, clairaudience, mind-reading, all silent here —",
+            "only the ending of defilements is named"
+        ]),
+        ("A pattern already seen", [
+            "SN 51.5 through 51.8 traced the same narrowing —",
+            "arahantship, again, as the furthest fruit"
+        ]),
+        ("Realized, not received", [
+            "\"with their own insight,\" the text insists —",
+            "not taken on another's word"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.17.html\">SN 51.17 &middot; Ascetics and "
+        "Brahmins (2nd)</a> &mdash; the previous discourse, with a "
+        "broader subject and a different result.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
