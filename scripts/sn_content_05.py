@@ -55145,3 +55145,151 @@ page(
         "sixteen-item paired-states list this discourse compresses.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.15 — Ṭhānasutta ("Possible")
+# Confirmed by direct reading: this discourse's own claim -- "truly
+# understanding the possible as possible and the impossible as
+# impossible" -- is NOT one of the classic sixfold higher
+# knowledges this project tracked in its own preview at SN 52.11;
+# it is one of the ten powers of a Tathāgata (dasabala), traditionally
+# considered unique to a fully awakened Buddha. This project's own
+# preview is corrected here: the vagga's own scope reaches beyond
+# the sixfold list, not confined to it.
+# --------------------------------------------------------------------------- #
+page(
+    52, 15, "Ṭhāna", "Possible",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.15 — Possible | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ṭhānasutta &mdash; Anuruddha attributes knowledge of "
+        "the possible and impossible to the four kinds of mindfulness "
+        "meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "corrects this project's own preview at SN "
+                         "52.11: this vagga reaches beyond the "
+                         "sixfold higher knowledges into territory "
+                         "usually reserved for a Buddha alone"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; &ldquo;truly understanding the possible as possible "
+        "and the impossible as impossible&rdquo; &mdash; is not one "
+        "of the classic sixfold higher knowledges (abhiññā) this "
+        "project previewed at SN 52.11; it is one of the ten powers "
+        "of a Tathāgata (dasabala), traditionally described as "
+        "unique to a fully awakened Buddha. This project's own "
+        "preview is corrected here, not silently."
+    ),
+    guide=[
+        ("A correction to this project's own earlier preview", [
+            "Confirmed by direct reading, this project's own honest "
+            "correction: the preview offered at SN 52.11, expecting "
+            "this vagga to walk through the sixfold higher "
+            "knowledges alone, did not anticipate this discourse's "
+            "own subject &mdash; knowledge of the possible and "
+            "impossible &mdash; which belongs instead to the ten "
+            "powers of a Tathāgata, a separate traditional list.",
+        ]),
+        ("A power usually described as unique to a Buddha", [
+            "This project's own observation: &ldquo;knowledge of "
+            "possibilities and impossibilities&rdquo; "
+            "(ṭhānāṭhāna-ñāṇa) is the first of the ten Tathāgata "
+            "powers in the classical list &mdash; a set of "
+            "attainments elsewhere described as marking a fully "
+            "awakened Buddha specifically, here notably attributed "
+            "to Anuruddha, a mendicant disciple, through the four "
+            "foundations of mindfulness.",
+        ]),
+        ("The vagga's own scope, now understood more broadly", [
+            "This project's own revised understanding: rather than a "
+            "closed walk through exactly six items, this vagga "
+            "appears to draw on multiple traditional lists of "
+            "attainments &mdash; the sixfold higher knowledges and, "
+            "at least here, the ten Tathāgata powers &mdash; each "
+            "one attributed in turn to the same four kinds of "
+            "mindfulness meditation.",
+        ]),
+    ],
+    terms=[
+        ("ṭhānañca ṭhānato aṭṭhānañca aṭṭhānato yathābhūtaṁ pajānāmi",
+             "&ldquo;I truly understand the possible as possible and "
+             "the impossible as impossible&rdquo; &mdash; this "
+             "discourse's own precise claim, naming the first of the "
+             "ten Tathāgata powers"),
+        ("dasabala", "&ldquo;the ten powers [of a Tathāgata]&rdquo; "
+             "&mdash; the traditional list this discourse's own "
+             "claim belongs to, not named directly in this "
+             "discourse's own text but confirmed by this project's "
+             "own cross-reference"),
+        ("yathābhūtaṁ", "&ldquo;truly&rdquo; (literally, "
+             "&ldquo;as it has come to be&rdquo;) &mdash; the "
+             "discourse's own qualifier, emphasizing accurate "
+             "understanding rather than mere opinion"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge, as for every attainment in this "
+             "vagga"),
+        ("ṭhāna", "&ldquo;possible&rdquo; &mdash; this discourse's "
+             "own title, naming its own subject directly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.15:1.1"),
+    ],
+    quiz=[
+        {"q": "What correction does this discourse prompt to this project's own earlier preview at SN 52.11?",
+         "opts": ["That the vagga reaches beyond the sixfold higher knowledges into the ten Tathāgata powers, a separate traditional list", "That the vagga has no thematic structure at all, contrary to the earlier preview", "That the vagga is actually shorter than fourteen discourses", "That the vagga is not connected to Anuruddha in any way"],
+         "correct": 0,
+         "expl": "This project's own honest correction: the sixfold-list preview did not anticipate this discourse's own subject."},
+        {"q": "What is \"knowledge of the possible and impossible\" traditionally classified as?",
+         "opts": ["The first of the ten powers of a Tathāgata, traditionally described as unique to a fully awakened Buddha", "One of the classic sixfold higher knowledges also met at SN 51.11", "A power exclusive to trainee (sekha) mendicants only", "An attainment found only in the Abhidhamma, not in the sutta literature"],
+         "correct": 0,
+         "expl": "Confirmed by this project's own cross-reference to the classical dasabala list."},
+        {"q": "What does this discourse's own claim state precisely?",
+         "opts": ["Truly understanding the possible as possible and the impossible as impossible", "Recollecting a thousand past eons", "Hearing sounds both human and heavenly", "Understanding the minds of other beings"],
+         "correct": 0,
+         "expl": "The discourse's own precise, single claim, confirmed directly by the text."},
+    ],
+    marginalia=[
+        ("A preview, corrected honestly", [
+            "the sixfold list didn't cover everything —",
+            "this vagga reaches further than first assumed"
+        ]),
+        ("A Buddha's own power, given to a disciple", [
+            "usually described as unique to the awakened one —",
+            "here, attributed to Anuruddha directly"
+        ]),
+        ("What can happen, and what cannot", [
+            "not a vague sense, but true knowledge —",
+            "the possible known as possible, plainly"
+        ]),
+        ("A wider net than expected", [
+            "not just the six, but the ten as well —",
+            "the same four foundations reaching both lists"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.14.html\">SN 52.14 &middot; Encompassing "
+        "the Mind</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
