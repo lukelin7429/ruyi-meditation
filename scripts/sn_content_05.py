@@ -65863,3 +65863,1303 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Sagāthakapuññābhisandavagga ("Overflowing Merit, With Verses"), SN
+# 55.41-50, confirmed by direct reading of SN 55.50's own closing
+# colophon ("Sagāthakapuññābhisandavaggo pañcamo") and uddāna to be
+# this saṃyutta's own fifth vagga, ten discourses. Its own name
+# confirms by direct comparison that this vagga substantially
+# revisits Vagga 4's own "overflowing merit" triplet (SN 55.31-33),
+# now each closed with a verse absent from the earlier versions.
+#
+# SN 55.41 — Paṭhamasagāthakapuññābhisandasutta ("Overflowing
+# Merit, 1st")
+# Confirmed by direct comparison: repeats SN 55.31's own formula and
+# incalculability claim almost exactly, adding a genuinely new
+# ocean-of-water simile and a closing verse on rivers reaching the
+# sea, absent from SN 55.31 itself.
+# --------------------------------------------------------------------------- #
+page(
+    55, 41, "Paṭhamasagāthakapuññābhisanda", "Overflowing Merit (1st)",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.41 — Overflowing Merit (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; overflowing merit as an "
+        "incalculable ocean of water, closing with a verse on "
+        "rivers reaching the sea. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.40's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants, closing "
+                     "with a verse"),
+        ("Form", "The four factors, an incalculability claim, an "
+                 "ocean simile, and a closing verse"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens Vagga 5 by revisiting SN 55.31's own "
+                         "formula, now closed with a verse and an "
+                         "explicit claim of incalculable merit"),
+    ],
+    why=(
+        "Confirmed by direct comparison, this discourse largely "
+        "repeats SN 55.31's own &ldquo;overflowing merit&rdquo; "
+        "formula, but adds two genuinely new elements: an explicit "
+        "claim that such merit is &ldquo;an incalculable, "
+        "immeasurable, great mass,&rdquo; illustrated by the "
+        "impossibility of counting the ocean's own water in "
+        "gallons, and a closing verse comparing this to how "
+        "&ldquo;the streams of merit reach that astute person, as "
+        "the rivers bring their waters to the sea.&rdquo;"
+    ),
+    guide=[
+        ("Merit, declared uncountable", [
+            "Confirmed by direct reading, this discourse makes an "
+            "explicit claim absent from SN 55.31: the four "
+            "factors' own merit cannot be counted or measured, only "
+            "&ldquo;reckoned as an incalculable, immeasurable, great "
+            "mass&rdquo; &mdash; a genuinely new emphasis on scale "
+            "rather than simply naming the four factors.",
+        ]),
+        ("The ocean, impossible to gauge in gallons", [
+            "Confirmed by direct reading, the simile asks how many "
+            "gallons of water the ocean holds, and answers that this "
+            "cannot meaningfully be counted &mdash; the same "
+            "impossibility applied directly to the scale of merit "
+            "a noble disciple accumulates.",
+        ]),
+        ("A verse this vagga's own name announces in advance", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing verse (rivers reaching the sea, merit reaching "
+            "the disciple) is the first verse in this saṃyutta since "
+            "SN 55.2's own closing verse, confirming this vagga's "
+            "own name, &ldquo;with verses&rdquo; (sagāthaka), "
+            "directly.",
+        ]),
+    ],
+    terms=[
+        ("saṅkhyaṁ na upeti, asaṅkheyyo appameyyo mahāpuññakkhandho",
+             "&ldquo;it's not easy to count&hellip;simply reckoned "
+             "as an incalculable, immeasurable, great mass of "
+             "merit&rdquo; &mdash; this discourse's own new "
+             "incalculability claim"),
+        ("mahāsamudde udakaṁ", "&ldquo;how much water is in the "
+             "ocean&rdquo; &mdash; the discourse's own simile for "
+             "immeasurable scale"),
+        ("puññābhisandā samudāgacchanti medhāvino", "&ldquo;the "
+             "streams of merit reach that astute person&rdquo; "
+             "&mdash; the closing verse's own central image"),
+        ("sagāthaka", "&ldquo;with verses&rdquo; &mdash; this "
+             "vagga's own name, confirmed directly by this "
+             "discourse's own closing verse, the first in this "
+             "saṃyutta since SN 55.2"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha, unchanged throughout this "
+             "saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.41:1.1-3.3"),
+        ("p", "The incalculability claim", "sn55.41:4.1-5.6"),
+        ("p", "Closing verse", "sn55.41:6.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What genuinely new claim does this discourse add to SN 55.31's own formula?",
+         "opts": ["That such merit cannot be counted or measured, only reckoned as an \"incalculable, immeasurable, great mass\"", "That the four factors no longer include ethical conduct", "That merit is finite and can be precisely calculated", "That only monastics can accumulate this kind of merit"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — an explicit incalculability claim absent from SN 55.31."},
+        {"q": "What does this vagga's own name, \"with verses\" (sagāthaka), refer to?",
+         "opts": ["The closing verses this vagga's own discourses add, the first in this saṃyutta since SN 55.2", "A type of musical instrument used in ceremonies", "A specific meter unique to this vagga alone", "A reference to the Buddha's own personal poetry collection"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own closing verse directly confirms the vagga's own name."},
+        {"q": "What does the ocean simile illustrate?",
+         "opts": ["The impossibility of meaningfully counting an immeasurable quantity, applied directly to the scale of a disciple's own merit", "That meditation should always be practiced near large bodies of water", "That the four factors are as unstable and changing as ocean tides", "That only sailors can understand this teaching"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an analogy for scale, not a literal claim about meditation practice."},
+    ],
+    marginalia=[
+        ("A formula revisited, now with verse", [
+            "SN 55.31's own content, largely repeated —",
+            "but closed here with poetry"
+        ]),
+        ("Merit, declared beyond counting", [
+            "not a fixed sum but an incalculable mass —",
+            "like asking how many gallons fill the ocean"
+        ]),
+        ("Rivers reaching the sea", [
+            "the closing verse's own central image —",
+            "merit flowing to the astute, as water to the deep"
+        ]),
+        ("A vagga's own name, confirmed directly", [
+            "\"with verses\" — and here is the first one —",
+            "not since SN 55.2 has this saṃyutta closed in verse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.40.html\">SN 55.40 &middot; Nandiya the "
+        "Sakyan</a> &mdash; the previous discourse, closing Vagga 4.",
+        "<a href=\"sn-55.31.html\">SN 55.31 &middot; Overflowing "
+        "Merit (1st)</a> &mdash; this project's own earlier "
+        "translation of the closely related formula this discourse "
+        "revisits.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.42 — Dutiyasagāthakapuññābhisandasutta ("Overflowing Merit,
+# 2nd")
+# Confirmed by direct reading: repeats SN 55.41's own structure with
+# generosity as the fourth factor (as at SN 55.32), and replaces the
+# ocean simile with a specific, named list of five great rivers --
+# the Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī -- converging at
+# a single point.
+# --------------------------------------------------------------------------- #
+page(
+    55, 42, "Dutiyasagāthakapuññābhisanda", "Overflowing Merit (2nd)",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.42 — Overflowing Merit (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; overflowing merit illustrated by "
+        "five named great rivers converging. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.41's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants, closing "
+                     "with the identical verse from SN 55.41"),
+        ("Form", "SN 55.41's own structure, with generosity as the "
+                 "fourth factor and a new, specific river simile"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "names five specific rivers by name, a "
+                         "rare level of geographic specificity in "
+                         "this saṃyutta's own similes"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats SN "
+        "55.41's own structure with generosity as the fourth factor "
+        "(matching SN 55.32's own earlier substitution), but "
+        "replaces the ocean-of-water simile with something more "
+        "specific: five named great rivers &mdash; &ldquo;the "
+        "Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī&rdquo; &mdash; "
+        "converging at a single point, their combined water equally "
+        "impossible to count."
+    ),
+    guide=[
+        ("Five rivers, named directly", [
+            "Confirmed by direct reading, this discourse names five "
+            "specific rivers rather than the ocean in general "
+            "&mdash; a rare instance of concrete geographic detail "
+            "in this saṃyutta's own similes, grounding the "
+            "incalculability claim in a real, known confluence "
+            "rather than an abstract body of water.",
+        ]),
+        ("The identical closing verse", [
+            "Confirmed by direct comparison, this discourse's own "
+            "closing verse matches SN 55.41's own word for word "
+            "&mdash; the rivers-reaching-the-sea image, reused "
+            "without alteration even though the discourse's own "
+            "prose simile has genuinely changed.",
+        ]),
+    ],
+    terms=[
+        ("gaṅgā yamunā aciravatī sarabhū mahī", "&ldquo;the "
+             "Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī&rdquo; "
+             "&mdash; five specific rivers named directly, a rare "
+             "level of geographic detail in this saṃyutta"),
+        ("sandhi sambhijjanti", "&ldquo;join together and "
+             "converge&rdquo; &mdash; the discourse's own description "
+             "of the five rivers meeting at a single confluence"),
+        ("vigatamalamaccherena cetasā cāgena", "&ldquo;rid of the "
+             "stain of stinginess&hellip;generous&rdquo; &mdash; "
+             "this discourse's own fourth factor, matching SN "
+             "55.32's own earlier substitution"),
+        ("asaṅkheyyo appameyyo mahāpuññakkhandho", "&ldquo;an "
+             "incalculable, immeasurable, great mass of merit"
+             "&rdquo; &mdash; the identical claim already met at SN "
+             "55.41, now illustrated by the five-river confluence"),
+        ("puññābhisandā samudāgacchanti medhāvino", "&ldquo;the "
+             "streams of merit reach that astute person&rdquo; "
+             "&mdash; the closing verse, unchanged word for word "
+             "from SN 55.41"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.42:1.1-4.3"),
+        ("p", "Five rivers converging", "sn55.42:5.1-5.7"),
+        ("p", "Closing verse", "sn55.42:5.8-7.4"),
+    ],
+    quiz=[
+        {"q": "What simile replaces SN 55.41's own ocean image in this discourse?",
+         "opts": ["Five named great rivers — the Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī — converging at a single point", "A single unnamed mountain stream", "A well in a private garden", "A man-made irrigation canal"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a rare instance of specific, named geography in this saṃyutta's own similes."},
+        {"q": "What serves as the fourth factor in this discourse, matching an earlier substitution in this saṃyutta?",
+         "opts": ["Generosity, matching SN 55.32's own earlier substitution", "Wisdom, matching SN 55.33's own substitution", "A fifth confidence, added rather than substituted", "Ethical conduct, unchanged from the base formula"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same generosity-based variant already met at SN 55.32."},
+        {"q": "How does this discourse's own closing verse compare to SN 55.41's own?",
+         "opts": ["It matches word for word, reused without alteration despite the changed prose simile", "It is an entirely different verse with unrelated content", "It omits any closing verse at all", "It reverses the meaning of SN 55.41's own verse"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical verse, unchanged."},
+    ],
+    marginalia=[
+        ("Five rivers, named by name", [
+            "Ganges, Yamunā, Aciravatī, Sarabhū, Mahī —",
+            "a rare specificity in this saṃyutta's own similes"
+        ]),
+        ("A confluence, not the open ocean", [
+            "the same incalculable claim —",
+            "grounded in a real, known meeting point"
+        ]),
+        ("Generosity, once more the fourth factor", [
+            "the same substitution as SN 55.32 —",
+            "open-handedness standing in this slot"
+        ]),
+        ("The same verse, a second time", [
+            "unchanged from SN 55.41 —",
+            "reused deliberately, not by accident"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.41.html\">SN 55.41 &middot; Overflowing "
+        "Merit (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own companion.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.43 — Tatiyasagāthakapuññābhisandasutta ("Overflowing Merit,
+# 3rd")
+# Confirmed by direct reading: completes this vagga's own opening
+# triplet with wisdom as the fourth factor (as at SN 55.33), and
+# closes with a genuinely different verse -- not about rivers, but
+# about facing death itself without trembling.
+# --------------------------------------------------------------------------- #
+page(
+    55, 43, "Tatiyasagāthakapuññābhisanda", "Overflowing Merit (3rd)",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.43 — Overflowing Merit (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; overflowing merit with wisdom, "
+        "closing with a verse on facing death without trembling. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.42's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants, closing "
+                     "with a genuinely different verse"),
+        ("Form", "Wisdom as the fourth factor, the incalculability "
+                 "claim without a river simile, and a new verse"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "completes this vagga's own opening "
+                         "triplet with a genuinely distinct closing "
+                         "verse about facing death without fear"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse completes the "
+        "triplet begun at SN 55.41-42, naming wisdom &mdash; "
+        "&ldquo;the wisdom of arising and passing away&rdquo; "
+        "&mdash; as the fourth factor, matching SN 55.33's own "
+        "earlier substitution. Unlike its own two companions, this "
+        "discourse gives no river or water simile at all, closing "
+        "instead with a genuinely different verse about facing the "
+        "&ldquo;King of Death&rdquo; without trembling."
+    ),
+    guide=[
+        ("Wisdom completes the triplet", [
+            "Confirmed by direct comparison, this discourse's own "
+            "fourth factor &mdash; &ldquo;the wisdom of arising and "
+            "passing away which is noble, penetrative, and leads to "
+            "the complete ending of suffering&rdquo; &mdash; is "
+            "word for word identical to SN 55.33's own version, "
+            "completing the same three-way rotation (ethical "
+            "conduct, generosity, wisdom) already confirmed across "
+            "SN 55.31-33.",
+        ]),
+        ("No river simile this time", [
+            "Confirmed by direct reading, this discourse skips the "
+            "water-based simile entirely, moving directly from the "
+            "bare incalculability claim to its own closing verse "
+            "&mdash; a genuine structural difference from both SN "
+            "55.41 and SN 55.42.",
+        ]),
+        ("A verse about death, not rivers", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing verse breaks from the rivers-reaching-the-sea "
+            "image entirely: &ldquo;once they've reached the heart "
+            "of the teaching, delighting in ending, they don't "
+            "tremble at the approach of the King of Death&rdquo; "
+            "&mdash; connecting wisdom specifically to fearlessness "
+            "before death, echoing this saṃyutta's own earlier "
+            "concern with fear at SN 55.21-22 and SN 55.27.",
+        ]),
+    ],
+    terms=[
+        ("paññavā hoti udayatthagāminiyā paññāya samannāgato",
+             "&ldquo;wise&hellip;the wisdom of arising and passing "
+             "away&rdquo; &mdash; this discourse's own fourth "
+             "factor, identical to SN 55.33's own"),
+        ("saṅkhyaṁ na upeti, asaṅkheyyo appameyyo mahāpuññakkhandho",
+             "&ldquo;it's not easy to count&hellip;an incalculable, "
+             "immeasurable, great mass of merit&rdquo; &mdash; the "
+             "same claim already met at SN 55.41-42, here given "
+             "without an accompanying river simile"),
+        ("kusalamūlaṁ patthayāno puññakāmo", "&ldquo;one who "
+             "desires merit, grounded in the skillful&rdquo; "
+             "&mdash; the closing verse's own opening description"),
+        ("na vedhati maccurājassa āgame", "&ldquo;they don't "
+             "tremble at the approach of the King of Death&rdquo; "
+             "&mdash; this discourse's own closing image, connecting "
+             "wisdom directly to fearlessness before death"),
+        ("maccurāja", "&ldquo;the King of Death&rdquo; &mdash; a "
+             "personification of death itself, this discourse's own "
+             "distinctive closing figure"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.43:1.1-4.3"),
+        ("p", "Closing verse", "sn55.43:4.4-5.4"),
+    ],
+    quiz=[
+        {"q": "What fourth factor completes this vagga's own opening triplet, matching an earlier discourse in this saṃyutta?",
+         "opts": ["Wisdom, matching SN 55.33's own earlier substitution", "Generosity, matching SN 55.42's own substitution", "Ethical conduct, the base formula's own fourth factor", "A fifth confidence, not a substitution at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — completing the ethical-conduct/generosity/wisdom rotation from SN 55.31-33."},
+        {"q": "How does this discourse's own structure genuinely differ from SN 55.41 and SN 55.42?",
+         "opts": ["It gives no river or water simile at all, moving directly to its own distinct closing verse", "It adds two additional similes not found in either companion discourse", "It omits the incalculability claim entirely", "It is word-for-word identical to both companions"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuine structural break from its own two companions."},
+        {"q": "What does this discourse's own closing verse connect wisdom to?",
+         "opts": ["Fearlessness before death — not trembling at the approach of the \"King of Death\"", "Financial prosperity", "Physical strength and endurance", "Skill in public debate"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — echoing this saṃyutta's own earlier concern with fear at SN 55.21-22 and SN 55.27."},
+    ],
+    marginalia=[
+        ("A third virtue, completing the set", [
+            "conduct, generosity, now wisdom —",
+            "the same rotation as SN 55.31-33"
+        ]),
+        ("No river this time", [
+            "the water simile dropped entirely —",
+            "a genuine break from its own two companions"
+        ]),
+        ("The King of Death, unafraid", [
+            "not trembling at his own approach —",
+            "wisdom's own closing promise"
+        ]),
+        ("Fear, echoed from earlier in this saṃyutta", [
+            "Mahānāma's own worry, Anāthapiṇḍika's own courage —",
+            "now sealed in verse"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.42.html\">SN 55.42 &middot; Overflowing "
+        "Merit (2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.44 — Paṭhamamahaddhanasutta ("Rich, 1st")
+# Confirmed by direct reading: the four factors given yet another
+# new name -- a noble disciple who has them is "said to be rich,
+# affluent, and wealthy" -- a bare, single-paragraph statement with
+# no simile or verse.
+# --------------------------------------------------------------------------- #
+page(
+    55, 44, "Paṭhamamahaddhana", "Rich (1st)",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.44 — Rich (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the four factors named as riches, "
+        "affluence, and wealth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.43's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, bare paragraph, no simile or verse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; a fifth distinct "
+                         "name for the four factors within this "
+                         "single saṃyutta, framing them directly as "
+                         "wealth"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse gives the four "
+        "factors a genuinely new name: a noble disciple who has "
+        "them &ldquo;is said to be rich, affluent, and "
+        "wealthy&rdquo; (aḍḍha) &mdash; a bare economic metaphor, "
+        "without the ocean similes or verses that accompanied this "
+        "vagga's own opening triplet."
+    ),
+    guide=[
+        ("Wealth, named without embellishment", [
+            "Confirmed by direct reading, unlike SN 55.41-43's own "
+            "elaborate similes and verses, this discourse states "
+            "its own claim plainly and closes immediately &mdash; "
+            "the four factors simply are, by this discourse's own "
+            "declaration, a form of riches.",
+        ]),
+    ],
+    terms=[
+        ("aḍḍho mahaddhano mahābhogo", "&ldquo;rich, affluent, and "
+             "wealthy&rdquo; &mdash; this discourse's own new name "
+             "for a noble disciple who possesses the four factors"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha, unchanged throughout this "
+             "saṃyutta"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, restated identically here"),
+        ("mahaddhana", "&ldquo;affluent,&rdquo; literally &ldquo;of "
+             "great wealth&rdquo; &mdash; part of this discourse's "
+             "own threefold economic description"),
+        ("mahābhoga", "&ldquo;wealthy,&rdquo; literally &ldquo;of "
+             "great enjoyment/resources&rdquo; &mdash; the third "
+             "term in this discourse's own economic triplet"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.44:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse call a noble disciple who has the four factors?",
+         "opts": ["Rich, affluent, and wealthy", "A stream-enterer, as most commonly used elsewhere in this saṃyutta", "A footprint of the gods, as at SN 55.34-35", "Overflowing with merit, as at SN 55.31-33 and SN 55.41-43"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own distinctive economic framing."},
+        {"q": "How does this discourse's own form compare to its immediately preceding companions, SN 55.41-43?",
+         "opts": ["It is bare and direct, with no accompanying simile or verse", "It is longer and more elaborate than all three preceding discourses combined", "It contains an entirely new simile not found elsewhere", "It closes with the identical verse as SN 55.41"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuinely simpler, unadorned statement."},
+        {"q": "How many distinct names has this project now confirmed for the four factors within this single saṃyutta, counting this discourse?",
+         "opts": ["At least five — stream-enterer, overflowing merit, footprint of the gods, in common with the gods, and now rich/affluent/wealthy", "Only one consistent name throughout", "Exactly two, alternating discourse by discourse", "This discourse introduces the first name ever used"],
+         "correct": 0,
+         "expl": "This project's own running count of the formula's own recurring reframings across this saṃyutta."},
+    ],
+    marginalia=[
+        ("A fifth name, bare and direct", [
+            "no simile, no verse this time —",
+            "\"rich, affluent, wealthy,\" stated plainly"
+        ]),
+        ("Wealth without embellishment", [
+            "after three discourses of ocean imagery —",
+            "a single, unadorned claim"
+        ]),
+        ("The same four factors, again reframed", [
+            "stream-enterer, merit, footprint, wealth —",
+            "one formula, many names"
+        ]),
+        ("A companion follows, adding fame", [
+            "SN 55.45 repeats this, with one further word —",
+            "\"famous\" joins the description"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.43.html\">SN 55.43 &middot; Overflowing "
+        "Merit (3rd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.45 — Dutiyamahaddhanasutta ("Rich, 2nd")
+# Confirmed by direct reading: word-for-word identical to SN 55.44
+# except one added word -- "famous" (yasassī) -- appended to the
+# threefold description of wealth.
+# --------------------------------------------------------------------------- #
+page(
+    55, 45, "Dutiyamahaddhana", "Rich (2nd)",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.45 — Rich (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; SN 55.44's own companion, adding "
+        "\"famous\" to the description of wealth. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.44's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "SN 55.44's own bare formula, with one word added"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; a minimal but "
+                         "genuine variant, confirmed by direct "
+                         "comparison to SN 55.44 rather than "
+                         "assumed identical"),
+    ],
+    why=(
+        "Confirmed by direct comparison, this discourse is "
+        "word-for-word identical to SN 55.44 except for one genuine "
+        "addition: &ldquo;rich, affluent, and wealthy&rdquo; becomes "
+        "&ldquo;rich, affluent, wealthy, and famous&rdquo; (yasassī), "
+        "extending the economic description with a social dimension "
+        "absent from its own companion."
+    ),
+    guide=[
+        ("One word, confirmed by direct comparison", [
+            "This project's own segment-by-segment comparison: every "
+            "other word in this discourse matches SN 55.44 exactly; "
+            "only the closing description gains &ldquo;yasassī"
+            "&rdquo; (&ldquo;famous&rdquo;), a genuine, minimal "
+            "variant rather than an accidental duplicate.",
+        ]),
+    ],
+    terms=[
+        ("aḍḍho mahaddhano mahābhogo yasassī", "&ldquo;rich, "
+             "affluent, wealthy, and famous&rdquo; &mdash; this "
+             "discourse's own closing phrase, one term longer than "
+             "SN 55.44's own"),
+        ("yasassī", "&ldquo;famous&rdquo; &mdash; the single "
+             "genuine addition confirmed in this discourse, adding "
+             "a social dimension to the prior economic description"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha, unchanged from SN 55.44"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, unchanged from SN 55.44"),
+        ("mahābhoga", "&ldquo;wealthy,&rdquo; literally &ldquo;of "
+             "great enjoyment/resources&rdquo; &mdash; unchanged "
+             "from SN 55.44's own description"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.45:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from SN 55.44, per this project's own direct comparison?",
+         "opts": ["Word-for-word identical except one addition — \"famous\" is added to the closing description", "It is an entirely different teaching with no relationship to SN 55.44", "It removes the fourth factor entirely", "It reverses SN 55.44's own claim, denying any benefit"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, segment by segment — a minimal but genuine variant."},
+        {"q": "What does \"yasassī\" add to the description already given at SN 55.44?",
+         "opts": ["A social dimension — fame — alongside the prior purely economic description", "A denial of the prior wealth claim", "A claim about physical appearance", "A claim about a specific number of years lived"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — extending riches into social recognition."},
+        {"q": "Why does this project treat this discourse as a genuine variant rather than a meaningless duplicate?",
+         "opts": ["Because direct comparison confirms one specific term is genuinely added, consistent with this project's own established comparison practice", "Because the discourse's own title alone was considered sufficient without checking the text", "Because bilara-data explicitly labels it as a variant", "Because the English translation differs completely from SN 55.44's own"],
+         "correct": 0,
+         "expl": "This project's own segment-by-segment comparison, applied consistently even to minor variants."},
+    ],
+    marginalia=[
+        ("One word, confirmed by comparison", [
+            "\"yasassī\" added to the prior three —",
+            "checked segment by segment, not assumed"
+        ]),
+        ("Wealth, now with recognition", [
+            "rich, affluent, wealthy — and famous —",
+            "a social dimension joins the economic one"
+        ]),
+        ("A companion, not a repeat", [
+            "SN 55.44's own twin, genuinely distinct —",
+            "however small the difference"
+        ]),
+        ("A vagga nearing its own midpoint", [
+            "five discourses in, five more to come —",
+            "the plain version arrives next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.44.html\">SN 55.44 &middot; Rich (1st)</a> "
+        "&mdash; the previous discourse, this discourse's own "
+        "near-identical companion.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.46 — Suddhakasutta ("Plain Version")
+# Confirmed by direct reading: after five discourses each giving the
+# four factors a new name (overflowing merit, twice more with
+# verses, rich, richer still), this discourse returns to this
+# saṃyutta's own original, unadorned "stream-enterer" formula
+# without embellishment -- confirmed by its own title, "plain,"
+# matching the same naming convention already met at SN 54.3.
+# --------------------------------------------------------------------------- #
+page(
+    55, 46, "Suddhaka", "Plain Version",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.46 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhakasutta &mdash; a deliberate return to the "
+        "unadorned stream-enterer formula, after five reframings. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.45's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The bare, original stream-enterer formula, without "
+                 "embellishment"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; a "
+                         "deliberate return to the plain formula "
+                         "after five successive reframings, matching "
+                         "the same naming convention already met at "
+                         "SN 54.3"),
+    ],
+    why=(
+        "Confirmed by direct reading, after SN 55.41-45 gave the "
+        "four factors five successive new framings &mdash; merit, "
+        "merit again with rivers, merit again with wisdom, riches, "
+        "riches with fame &mdash; this discourse's own title, "
+        "&ldquo;plain&rdquo; (suddhaka), signals a deliberate return "
+        "to the bare, unadorned &ldquo;stream-enterer&rdquo; formula "
+        "this project first met in full at SN 55.2, matching the "
+        "identical naming convention already confirmed at SN 54.3."
+    ),
+    guide=[
+        ("A return, not a new development", [
+            "This project's own direct comparison: this discourse's "
+            "own content is not genuinely new but a reversion to "
+            "this saṃyutta's own earliest, most basic statement of "
+            "the formula &mdash; confirming that beneath the five "
+            "successive reframings just given, the underlying "
+            "content has not changed at all.",
+        ]),
+        ("A naming convention already recognized", [
+            "This project's own cross-reference: the same "
+            "&ldquo;plain version&rdquo; title already appeared at "
+            "SN 54.3, there marking an identical return to the bare "
+            "sixteen-step breathing formula after SN 54.1-2's own "
+            "elaborations &mdash; confirming this is a recognized "
+            "structural device across this book, not unique to this "
+            "saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("suddhaka", "&ldquo;plain, unadorned&rdquo; &mdash; this "
+             "discourse's own title, marking a deliberate return to "
+             "the bare formula"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo",
+             "&ldquo;a stream-enterer, not liable to be reborn in "
+             "the underworld, assured, destined for awakening"
+             "&rdquo; &mdash; this saṃyutta's own original closing "
+             "description, restored here"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha, unchanged throughout this "
+             "saṃyutta"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, restored to its own original form"),
+        ("suddhikasutta", "the identical naming pattern already "
+             "confirmed at SN 54.3, there marking a return to the "
+             "bare sixteen-step breathing formula"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.46:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own title, \"plain,\" signal?",
+         "opts": ["A deliberate return to the bare, unadorned stream-enterer formula, after five successive reframings", "An entirely new sixth framing not yet seen in this saṃyutta", "A denial that the four factors have any real content", "A simplified version intended only for beginners"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the underlying content has not changed, only the surrounding elaboration has been stripped away."},
+        {"q": "Where else in this book has this project already confirmed the identical naming convention?",
+         "opts": ["SN 54.3, marking a return to the bare sixteen-step breathing formula after SN 54.1-2's own elaborations", "Nowhere else; this is the first and only instance of this device", "SN 45.1, this book's own opening discourse", "Every single discourse in this saṃyutta uses this same title"],
+         "correct": 0,
+         "expl": "Confirmed by direct cross-reference — a recognized structural device across this book."},
+        {"q": "What does this project's own comparison confirm about the five discourses preceding this one?",
+         "opts": ["Beneath their five successive reframings (merit, rivers, wisdom, riches, fame), the underlying content never changed", "Each of the five discourses taught an entirely different, unrelated doctrine", "The five discourses contradicted one another", "Only the final discourse of the five contained genuine content"],
+         "correct": 0,
+         "expl": "This project's own reading of what this discourse's own return confirms retrospectively."},
+    ],
+    marginalia=[
+        ("A return, after five reframings", [
+            "merit, rivers, wisdom, riches, fame —",
+            "now the plain formula, restored"
+        ]),
+        ("The same device as SN 54.3", [
+            "\"plain\" marking a deliberate reversion —",
+            "recognized now across this entire book"
+        ]),
+        ("Nothing new beneath the surface", [
+            "five names, one underlying content —",
+            "confirmed by this return itself"
+        ]),
+        ("A brief pause before three named Sakyans", [
+            "Nandiya, Bhaddiya, Mahānāma follow —",
+            "each addressed individually next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.45.html\">SN 55.45 &middot; Rich (2nd)</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-54.3.html\">SN 54.3 &middot; Plain "
+        "Version</a> &mdash; this project's own earlier instance of "
+        "the identical naming convention.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.47 — Nandiyasutta ("With Nandiya")
+# Confirmed by direct reading: the Buddha teaches the bare
+# stream-enterer formula directly to Nandiya the Sakyan, already met
+# at SN 55.40 asking about negligence and diligence -- here simply
+# receiving the formula itself, without further elaboration or
+# dialogue.
+# --------------------------------------------------------------------------- #
+page(
+    55, 47, "Nandiya", "With Nandiya",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.47 — With Nandiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nandiyasutta &mdash; the Buddha teaches the bare four "
+        "factors directly to Nandiya the Sakyan. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu"),
+        ("Speakers", "The Buddha and Nandiya the Sakyan"),
+        ("Form", "A direct, unprompted teaching, with no dialogue "
+                 "or question from Nandiya himself"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the same "
+                         "Nandiya already met at SN 55.40, here "
+                         "simply receiving the formula directly, "
+                         "opening a run of three name-addressed "
+                         "discourses"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse addresses "
+        "Nandiya the Sakyan &mdash; already met at SN 55.40's own "
+        "probing question about negligence and diligence &mdash; "
+        "but here he asks nothing at all; the Buddha simply teaches "
+        "him the bare four factors directly, opening a run of three "
+        "discourses (this one, then SN 55.48 and SN 55.49) each "
+        "addressed by name to a specific Sakyan disciple."
+    ),
+    guide=[
+        ("The same Nandiya, a different kind of encounter", [
+            "This project's own direct comparison: unlike SN 55.40's "
+            "own probing philosophical question, this discourse "
+            "gives Nandiya no dialogue at all &mdash; simply "
+            "&ldquo;seated to one side, the Buddha said to "
+            "Nandiya&hellip;&rdquo;, followed directly by the "
+            "formula itself.",
+        ]),
+        ("Opening a run of three named discourses", [
+            "Confirmed by direct reading, this discourse is the "
+            "first of three consecutive discourses (Nandiya, then "
+            "Bhaddiya, then Mahānāma) each following the identical "
+            "structure &mdash; a named Sakyan seated, then the bare "
+            "formula given directly &mdash; with the latter two "
+            "genuinely compressed via ellipsis rather than restated "
+            "in full.",
+        ]),
+    ],
+    terms=[
+        ("kapilavatthusmiṁ", "&ldquo;at Kapilavatthu&rdquo; "
+             "&mdash; this discourse's own setting, shared with SN "
+             "55.48 and SN 55.49"),
+        ("ekamantaṁ nisinnaṁ nandiyaṁ sakkaṁ bhagavā etadavoca",
+             "&ldquo;seated to one side, the Buddha said to Nandiya "
+             "the Sakyan&rdquo; &mdash; this discourse's own bare "
+             "narrative frame, without any question from Nandiya "
+             "himself"),
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo",
+             "&ldquo;a stream-enterer, not liable to be reborn in "
+             "the underworld, assured, destined for awakening"
+             "&rdquo; &mdash; the bare formula's own closing "
+             "description"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, given here in full for Nandiya "
+             "directly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.47:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from Nandiya's own earlier appearance at SN 55.40?",
+         "opts": ["Here he asks nothing at all; the Buddha simply teaches him the formula directly, without dialogue", "He asks an identical question to SN 55.40's own", "He refuses to listen to the Buddha in this discourse", "This discourse denies he ever met the Buddha before"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a bare teaching, genuinely different from SN 55.40's own probing exchange."},
+        {"q": "What structural role does this discourse play, being the first of a sequence?",
+         "opts": ["It opens a run of three discourses, each addressed by name to a specific Sakyan disciple (Nandiya, then Bhaddiya, then Mahānāma)", "It closes this saṃyutta's own final vagga", "It is entirely unrelated to any other discourse in this vagga", "It is the only discourse in this saṃyutta addressed to a named individual"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the first of three consecutive, structurally identical discourses."},
+        {"q": "What is genuinely given in full in this discourse, unlike its own two immediate successors?",
+         "opts": ["The complete four-factor formula, rather than a compressed cross-reference", "An extensive narrative frame with dialogue", "A closing verse", "A detailed biography of Nandiya himself"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the full formula here, compressed at SN 55.48-49."},
+    ],
+    marginalia=[
+        ("The same name, a different kind of meeting", [
+            "no probing question this time —",
+            "just the formula, given directly"
+        ]),
+        ("A bare frame, nothing more", [
+            "\"seated to one side,\" then the teaching —",
+            "no dialogue, no elaboration"
+        ]),
+        ("First of three named in sequence", [
+            "Nandiya here, Bhaddiya and Mahānāma to follow —",
+            "the same structure, three times over"
+        ]),
+        ("Full here, compressed next", [
+            "this discourse spells it out completely —",
+            "its own two successors will not"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.46.html\">SN 55.46 &middot; Plain "
+        "Version</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.40.html\">SN 55.40 &middot; Nandiya the "
+        "Sakyan</a> &mdash; this project's own earlier discourse "
+        "with the same questioner, there asking about negligence "
+        "and diligence.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.48 — Bhaddiyasutta ("With Bhaddiya")
+# Confirmed by direct reading: repeats SN 55.47's own structure for
+# a new named individual, Bhaddiya the Sakyan, entirely compressed
+# via "…" as a direct cross-reference back to SN 55.47's own full
+# formula.
+# --------------------------------------------------------------------------- #
+page(
+    55, 48, "Bhaddiya", "With Bhaddiya",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.48 — With Bhaddiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhaddiyasutta &mdash; the same formula given to "
+        "Bhaddiya the Sakyan, compressed as a direct cross-"
+        "reference to SN 55.47. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu"),
+        ("Speakers", "The Buddha and Bhaddiya the Sakyan"),
+        ("Form", "A single compressed sentence, cross-referencing "
+                 "SN 55.47's own full formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of "
+                         "three consecutive discourses addressed by "
+                         "name to a specific Sakyan disciple, "
+                         "compressed rather than restated in full"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats SN "
+        "55.47's own identical structure &mdash; the Buddha seated, "
+        "addressing a named Sakyan directly &mdash; but for a new "
+        "individual, Bhaddiya, and entirely compressed via "
+        "&ldquo;…&rdquo; rather than restated in full, confirming "
+        "the identical four-factor content without needing to "
+        "repeat it a second time."
+    ),
+    guide=[
+        ("A new name, the identical compressed structure", [
+            "Confirmed by direct reading, only the name changes "
+            "&mdash; Bhaddiya replacing Nandiya &mdash; while the "
+            "surrounding narrative frame and the ellipsis "
+            "compressing the formula's own content are identical to "
+            "SN 55.47's own pattern.",
+        ]),
+    ],
+    terms=[
+        ("bhaddiyaṁ sakkaṁ bhagavā etadavoca", "&ldquo;the Buddha "
+             "said to Bhaddiya the Sakyan&rdquo; &mdash; this "
+             "discourse's own only genuinely new element, replacing "
+             "SN 55.47's own Nandiya"),
+        ("catūhi dhammehi samannāgato sotāpanno", "&ldquo;a noble "
+             "disciple who has four things is a stream-enterer"
+             "&rdquo; &mdash; the compressed opening of the formula, "
+             "identical to SN 55.47's own"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-factor formula already given in full at SN "
+             "55.47"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha, assumed here from SN 55.47"),
+        ("kapilavatthusmiṁ", "&ldquo;at Kapilavatthu&rdquo; "
+             "&mdash; the unchanged setting, shared with SN 55.47 "
+             "and SN 55.49"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.47. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.48:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What changes in this discourse compared to SN 55.47's own?",
+         "opts": ["Only the name — Bhaddiya replaces Nandiya — with the identical structure and compressed formula otherwise", "The entire teaching is replaced with unrelated content", "The setting moves to a different city", "The Buddha refuses to teach Bhaddiya at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a minimal, deliberate variation on the identical pattern."},
+        {"q": "What does the \"…\" elision in this discourse stand in for?",
+         "opts": ["The complete four-factor formula already given in full at SN 55.47", "A section of the discourse genuinely lost from the source", "An unrelated teaching this project has not yet translated", "A denial that the formula applies to Bhaddiya"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical content, compressed rather than restated."},
+        {"q": "What position does this discourse occupy in the run of three named discourses?",
+         "opts": ["The second, between Nandiya (SN 55.47) and Mahānāma (SN 55.49)", "The first of the three", "The final one, closing the sequence", "It stands alone, unrelated to any sequence"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("One name changed, the rest identical", [
+            "Bhaddiya now, where Nandiya stood before —",
+            "the same compressed structure"
+        ]),
+        ("An ellipsis, not an omission", [
+            "\"…\" stands for what SN 55.47 already gave —",
+            "nothing genuinely missing"
+        ]),
+        ("The second of three", [
+            "Nandiya, now Bhaddiya, Mahānāma still to come —",
+            "the same pattern, three named individuals"
+        ]),
+        ("Brevity earned by prior translation", [
+            "SN 55.47's own full statement, assumed here —",
+            "no need to repeat it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.47.html\">SN 55.47 &middot; With "
+        "Nandiya</a> &mdash; this project's own full translation of "
+        "the formula this discourse compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.49 — Mahānāmasutta ("With Mahānāma")
+# Confirmed by direct reading: closes this run of three named
+# discourses, repeating SN 55.47's own structure once more for
+# Mahānāma the Sakyan -- already this saṃyutta's own most frequently
+# recurring named questioner (SN 55.21-22, 55.23, 55.37) -- here
+# again entirely compressed via ellipsis.
+# --------------------------------------------------------------------------- #
+page(
+    55, 49, "Mahānāma", "With Mahānāma",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.49 — With Mahānāma | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same compressed formula given "
+        "to Mahānāma, closing a run of three named Sakyans. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu"),
+        ("Speakers", "The Buddha and Mahānāma the Sakyan"),
+        ("Form", "A single compressed sentence, closing the run of "
+                 "three named discourses"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; closes the "
+                         "run of three named discourses, addressed "
+                         "to this saṃyutta's own most frequently "
+                         "recurring named questioner"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse closes the run "
+        "of three named discourses begun at SN 55.47, repeating the "
+        "identical compressed structure for Mahānāma the Sakyan "
+        "&mdash; by this project's own count, the individual named "
+        "most often across this entire saṃyutta, already met at SN "
+        "55.21-22, SN 55.23, and SN 55.37."
+    ),
+    guide=[
+        ("Mahānāma's own recurring presence, confirmed by count", [
+            "This project's own running tally: Mahānāma appears by "
+            "name in at least five discourses across this saṃyutta "
+            "so far (SN 55.21, 55.22, 55.23, 55.37, and now this "
+            "discourse), confirming him as this saṃyutta's own most "
+            "frequently recurring named lay questioner &mdash; more "
+            "so than any other individual, including Anāthapiṇḍika.",
+        ]),
+        ("A quiet close to this three-discourse sequence", [
+            "Confirmed by direct reading, this discourse offers no "
+            "new content of its own, closing the Nandiya-Bhaddiya-"
+            "Mahānāma sequence exactly as it began: a bare "
+            "narrative frame, then the compressed formula.",
+        ]),
+    ],
+    terms=[
+        ("mahānāmaṁ sakkaṁ bhagavā etadavoca", "&ldquo;the Buddha "
+             "said to Mahānāma the Sakyan&rdquo; &mdash; this "
+             "discourse's own only new element, closing the "
+             "three-name sequence"),
+        ("catūhi dhammehi samannāgato sotāpanno", "&ldquo;a noble "
+             "disciple who has four things is a stream-enterer"
+             "&rdquo; &mdash; the compressed opening, identical to "
+             "SN 55.47-48's own"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-factor formula already given in full at SN "
+             "55.47"),
+        ("mahānāma", "&ldquo;Mahānāma&rdquo; &mdash; by this "
+             "project's own count, the most frequently recurring "
+             "named lay questioner across this entire saṃyutta"),
+        ("kapilavatthusmiṁ", "&ldquo;at Kapilavatthu&rdquo; "
+             "&mdash; the unchanged setting, shared with SN 55.47 "
+             "and SN 55.48"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.47. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.49:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "How many times has this project now counted Mahānāma appearing by name across this saṃyutta, including this discourse?",
+         "opts": ["At least five times — SN 55.21, 55.22, 55.23, 55.37, and this discourse", "Only this once, with no prior appearances", "Exactly twice, including this discourse", "Every single discourse in this saṃyutta names him"],
+         "correct": 0,
+         "expl": "This project's own running tally, confirming him as the saṃyutta's own most frequent named lay questioner."},
+        {"q": "What role does this discourse play in the three-discourse sequence begun at SN 55.47?",
+         "opts": ["It closes the sequence, repeating the identical compressed structure a third time", "It opens the sequence for the first time", "It contradicts the pattern established by SN 55.47-48", "It is entirely unrelated to SN 55.47-48"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the sequence's own closing instance."},
+        {"q": "What genuinely new content does this discourse add beyond SN 55.47-48?",
+         "opts": ["None — only the named recipient changes, with the formula itself compressed identically", "An entirely new fifth factor", "A closing verse not found in SN 55.47-48", "A dialogue in which Mahānāma questions the Buddha directly"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a deliberate, minimal closing repetition."},
+    ],
+    marginalia=[
+        ("A familiar name, closing the sequence", [
+            "Mahānāma, met four times already —",
+            "now a fifth, quietly compressed"
+        ]),
+        ("The most frequent questioner, counted", [
+            "more than Anāthapiṇḍika, more than any other —",
+            "this project's own running tally confirms it"
+        ]),
+        ("Three names, one shared structure", [
+            "Nandiya, Bhaddiya, Mahānāma —",
+            "each given the identical compressed formula"
+        ]),
+        ("A quiet close, nothing new added", [
+            "brief in its own written form —",
+            "the sequence ends as it began"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.48.html\">SN 55.48 &middot; With "
+        "Bhaddiya</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.37.html\">SN 55.37 &middot; With "
+        "Mahānāma</a> &mdash; this project's own most recent prior "
+        "discourse with the same questioner.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.50 — Aṅgasutta ("Factors")
+# Confirmed by direct reading of the root Pali colophon: closes
+# Vagga 5 (Sagāthakapuññābhisandavaggo pañcamo, "the Overflowing-
+# Merit-With-Verses chapter, the fifth"), confirmed by the uddāna to
+# match this project's own SN 55.41-50 exactly. Rather than closing
+# with the four factors of stream-entry themselves, this discourse
+# closes the vagga with the identical four practical conditions
+# already given as Sāriputta's own first answer at SN 55.5 --
+# associating with true persons, listening to the true teaching,
+# rational application of mind, and practicing in line with the
+# teaching -- standing alone as this vagga's own final statement.
+# --------------------------------------------------------------------------- #
+page(
+    55, 50, "Aṅga", "Factors",
+    vagga="Sagāthakapuññābhisandavagga",
+    meta_title="SN 55.50 — Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṅgasutta &mdash; the four practical conditions for "
+        "stream-entry, closing Vagga 5 with a return to first "
+        "causes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.49's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, bare restatement of the four practical "
+                 "conditions, closing the vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "closes Vagga 5 (10 discourses), confirmed "
+                         "by direct reading of the colophon and "
+                         "uddāna, with a deliberate return to causes "
+                         "rather than results"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon "
+        "(&ldquo;Sagāthakapuññābhisandavaggo pañcamo&rdquo;) and "
+        "uddāna, this discourse closes Vagga 5 at ten discourses, "
+        "matching this project's own SN 55.41-50 exactly. Rather "
+        "than closing with the four factors of stream-entry "
+        "themselves (confidence in the three refuges and ethical "
+        "conduct), it closes with the identical four practical "
+        "conditions already given as Sāriputta's own first answer at "
+        "SN 55.5: associating with true persons, listening to the "
+        "true teaching, rational application of mind, and practicing "
+        "in line with the teaching."
+    ),
+    guide=[
+        ("A deliberate return to causes, not results", [
+            "This project's own direct comparison to SN 55.5: where "
+            "most of this saṃyutta's own discourses restate the "
+            "four factors of stream-entry (the confidences and "
+            "ethical conduct, describing what a stream-enterer "
+            "already possesses), this closing discourse restates "
+            "instead the &ldquo;factors for stream-entry&rdquo; in "
+            "Sāriputta's own original, causal sense &mdash; the "
+            "conditions that lead toward the attainment, rather than "
+            "the attainment's own description.",
+        ]),
+        ("Vagga 5 closes by pointing backward", [
+            "Confirmed by direct reading, this discourse offers no "
+            "new content, no simile, and no verse &mdash; a "
+            "deliberately quiet closing to a vagga that opened with "
+            "elaborate similes and verses at SN 55.41-43, ending "
+            "instead by returning attention to how stream-entry is "
+            "reached in the first place.",
+        ]),
+    ],
+    terms=[
+        ("cattārimāni sotāpattiyaṅgāni", "&ldquo;there are these "
+             "four factors for stream-entry&rdquo; &mdash; this "
+             "discourse's own opening claim, using &ldquo;"
+             "aṅga&rdquo; (&ldquo;factor,&rdquo; also this "
+             "discourse's own title) in Sāriputta's own original "
+             "causal sense from SN 55.5"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first of the four "
+             "practical conditions, identical to SN 55.5's own first "
+             "answer"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth and final "
+             "condition, closing both this discourse and Vagga 5 "
+             "itself"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.50:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this closing discourse restate, unlike most of this saṃyutta's own discourses?",
+         "opts": ["The four practical conditions leading toward stream-entry (associating with true persons, and so on), rather than the four factors describing a stream-enterer's own attainment", "An entirely new fifth framework never mentioned before", "A denial that any conditions lead to stream-entry", "A closing verse summarizing the entire vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to SN 55.5 — a deliberate return to causes rather than results."},
+        {"q": "What does this discourse's own root colophon confirm about Vagga 5?",
+         "opts": ["It closes Vagga 5 (Sagāthakapuññābhisandavagga) at exactly ten discourses, matching this project's own SN 55.41-50", "It closes the entire Sotāpattisaṃyutta itself", "It opens a new vagga rather than closing one", "It belongs to an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed."},
+        {"q": "How does this discourse's own closing style compare to this vagga's own opening discourses, SN 55.41-43?",
+         "opts": ["It closes quietly, with no simile or verse, unlike the elaborate imagery that opened the vagga", "It closes with an even more elaborate simile than any of the opening discourses", "It repeats SN 55.41's own closing verse word for word", "It contradicts everything stated in SN 55.41-43"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a deliberately understated close to an elaborately opened vagga."},
+    ],
+    marginalia=[
+        ("Causes, not results, at the close", [
+            "not the four factors of attainment —",
+            "the four conditions that lead there"
+        ]),
+        ("A pointer back to SN 55.5", [
+            "Sāriputta's own original answer —",
+            "restated here to close the vagga"
+        ]),
+        ("No simile, no verse this time", [
+            "after rivers, oceans, and poetry —",
+            "a quiet, bare statement instead"
+        ]),
+        ("Vagga 5 complete, ten discourses", [
+            "merit revisited, riches named, three Sakyans addressed —",
+            "closing where the path itself begins"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.49.html\">SN 55.49 &middot; With "
+        "Mahānāma</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.5.html\">SN 55.5 &middot; With Sāriputta "
+        "(2nd)</a> &mdash; this project's own earlier translation "
+        "of the same four practical conditions this discourse "
+        "restates.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following vaggas are still in "
+        "preparation.",
+    ],
+)
