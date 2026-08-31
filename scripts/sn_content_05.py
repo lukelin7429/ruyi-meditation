@@ -50303,3 +50303,157 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.19 — Iddhādidesanāsutta ("A Teaching on Psychic Power, Etc.")
+# Confirmed by direct reading: a major structural discourse,
+# distinguishing four distinct terms (psychic power itself, its
+# basis, the development of that basis, and the practice leading to
+# that development) and identifying the last of these as the noble
+# eightfold path itself — the same integrative move this project has
+# already met at the head of several other saṃyuttas in this book.
+# --------------------------------------------------------------------------- #
+page(
+    51, 19, "Iddhādidesanā", "A Teaching on Psychic Power, Etc.",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.19 — A Teaching on Psychic Power, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Iddhādidesanāsutta &mdash; four terms precisely "
+        "distinguished, with the noble eightfold path named as the "
+        "practice underlying the four bases of psychic power. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A fourfold definitional analysis, in ascending "
+                 "order of generality"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; identifies the noble eightfold "
+                         "path itself as the practice underlying the "
+                         "four bases of psychic power"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse does something "
+        "none of SN 51.1-18 has done: it precisely distinguishes "
+        "four separate terms &mdash; psychic power itself, its "
+        "basis, the development of that basis, and the practice "
+        "leading to that development &mdash; and names the last of "
+        "these, the deepest layer, as simply the noble eightfold "
+        "path. This project's own cross-reference: the same "
+        "integrative move already met at the head of this book's "
+        "own path-factor saṃyuttas, now applied to the four bases."
+    ),
+    guide=[
+        ("Four terms, precisely distinguished", [
+            "Confirmed by direct reading, the discourse builds in "
+            "careful stages: &ldquo;psychic power&rdquo; itself is "
+            "the array of feats already met at SN 51.11; the "
+            "&ldquo;basis&rdquo; of psychic power is defined simply "
+            "as &ldquo;the path and practice that leads to gaining "
+            "psychic power&rdquo;; the &ldquo;development&rdquo; of "
+            "that basis is the familiar four-part formula (enthusiasm, "
+            "energy, mental development, inquiry); and the "
+            "&ldquo;practice that leads&rdquo; to that development "
+            "is named last of all.",
+        ]),
+        ("The noble eightfold path, named as the deepest layer", [
+            "This project's own observation: the discourse's own "
+            "final and most general term turns out to be the "
+            "familiar eightfold path &mdash; right view, right "
+            "purpose, right speech, right action, right livelihood, "
+            "right effort, right mindfulness, right immersion "
+            "&mdash; the same list this project has already "
+            "translated in full elsewhere in this book, here applied "
+            "specifically as the foundation beneath the four bases "
+            "of psychic power.",
+        ]),
+        ("A structural key to this whole saṃyutta", [
+            "This project's own cross-reference: this discourse "
+            "clarifies retroactively what has been implicit "
+            "throughout SN 51 &mdash; the four bases are not a "
+            "free-standing practice but rest on the eightfold path "
+            "itself, the same foundational structure this project "
+            "has already found underlying the five faculties, the "
+            "five powers, the seven factors of awakening, and the "
+            "four right efforts in this book's own earlier saṃyuttas.",
+        ]),
+    ],
+    terms=[
+        ("iddhi", "&ldquo;psychic power&rdquo; itself &mdash; "
+             "defined here as the array of feats already described "
+             "in full at SN 51.11"),
+        ("iddhipādo", "&ldquo;the basis of psychic power&rdquo; "
+             "&mdash; defined with deliberate simplicity as "
+             "&ldquo;the path and practice that leads to gaining "
+             "psychic power&rdquo;"),
+        ("iddhipādabhāvanā", "&ldquo;the development of the bases "
+             "of psychic power&rdquo; &mdash; the familiar "
+             "four-part formula this saṃyutta has repeated since SN "
+             "51.1"),
+        ("iddhipādabhāvanāgāminī paṭipadā", "&ldquo;the practice "
+             "that leads to the development of the bases of psychic "
+             "power&rdquo; &mdash; the discourse's own final and "
+             "most general term"),
+        ("ayameva ariyo aṭṭhaṅgiko maggo", "&ldquo;it is simply "
+             "this noble eightfold path&rdquo; &mdash; the "
+             "discourse's own answer to its own final question, "
+             "naming the path this project has already translated "
+             "in full at SN 45"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.19:1.1-1.2"),
+        ("p", "&sect;2", "sn51.19:2.1-2.3"),
+        ("p", "&sect;3", "sn51.19:3.1-3.3"),
+        ("p", "&sect;4", "sn51.19:4.1-4.6"),
+        ("p", "&sect;5", "sn51.19:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse define \"the basis of psychic power\" itself?",
+         "opts": ["Simply as \"the path and practice that leads to gaining psychic power\"", "As a synonym for psychic power itself, with no distinction between the two", "As a specific meditation posture required before developing psychic power", "As a term found only in commentarial literature, not in this discourse itself"],
+         "correct": 0,
+         "expl": "\"The basis of psychic power? The path and practice that leads to gaining psychic power. This is called the basis of psychic power.\""},
+        {"q": "What does this discourse name as \"the practice that leads to the development of the bases of psychic power\"?",
+         "opts": ["The noble eightfold path itself", "A fifth, previously unnamed basis", "Formal ordination as a Buddhist mendicant", "A separate teaching found only in the Abhidhamma"],
+         "correct": 0,
+         "expl": "\"It is simply this noble eightfold path... right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.\""},
+        {"q": "What does this project's own cross-reference say this discourse clarifies?",
+         "opts": ["That the four bases rest on the eightfold path, the same foundational structure this project has found underlying other saṃyuttas in this book", "That psychic power is unrelated to any other Buddhist teaching", "That the four bases were a later addition not taught by the Buddha himself", "That this saṃyutta's teachings apply only to advanced meditators"],
+         "correct": 0,
+         "expl": "The same integrative structure already met at the head of this book's own path-factor saṃyuttas, now applied explicitly to the four bases."},
+    ],
+    marginalia=[
+        ("Four words, four meanings", [
+            "power, its basis, its development, its practice —",
+            "each one precisely distinguished"
+        ]),
+        ("The floor beneath the four bases", [
+            "not a separate path after all —",
+            "the same eightfold path, named plainly"
+        ]),
+        ("A key to the whole saṃyutta", [
+            "what had stayed implicit since SN 51.1 —",
+            "made explicit at last"
+        ]),
+        ("One structure, many saṃyuttas", [
+            "faculties, powers, awakening factors, right efforts —",
+            "all resting on the same eight-factor floor"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.18.html\">SN 51.18 &middot; A Mendicant</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
