@@ -53973,3 +53973,142 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.7 — Taṇhākkhayasutta ("The Ending of Craving")
+# Confirmed by direct reading: the first discourse in this vagga
+# where Anuruddha himself addresses the mendicants unprompted, using
+# the formal monastic address formula. His own teaching names a new
+# outcome for the four satipaṭṭhāna not stated in SN 52.1-6: the
+# ending of craving specifically.
+# --------------------------------------------------------------------------- #
+page(
+    52, 7, "Taṇhākkhaya", "The Ending of Craving",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.7 — The Ending of Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Taṇhākkhayasutta &mdash; Anuruddha addresses the "
+        "mendicants unprompted, teaching that the four kinds of "
+        "mindfulness meditation lead to the ending of craving. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "Venerable Anuruddha, addressing the mendicants "
+                    "directly"),
+        ("Form", "A formal address and a bare statement of outcome"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the first "
+                         "discourse in this vagga where Anuruddha "
+                         "himself teaches unprompted, naming a new "
+                         "outcome not stated in SN 52.1-6"),
+    ],
+    why=(
+        "Confirmed by direct reading, this is the first discourse in "
+        "this vagga where Anuruddha himself takes the initiative, "
+        "using the formal monastic address (&ldquo;Reverends, "
+        "mendicants!&rdquo; &mdash; &ldquo;Reverend,&rdquo; they "
+        "replied) to teach unprompted, rather than answering a "
+        "question or reporting a private reflection interrupted by "
+        "another mendicant."
+    ),
+    guide=[
+        ("Anuruddha as teacher, not respondent", [
+            "This project's own observation: every discourse before "
+            "this one in the vagga has cast Anuruddha as answering "
+            "someone else's question or reflecting privately; here, "
+            "confirmed by direct reading, he formally &ldquo;"
+            "addressed the mendicants&rdquo; himself, initiating the "
+            "teaching.",
+        ]),
+        ("A new outcome named", [
+            "Confirmed by direct reading, this discourse's own "
+            "specific claim &mdash; that the four kinds of "
+            "mindfulness meditation, developed and cultivated, "
+            "&ldquo;lead to the ending of craving&rdquo; &mdash; is "
+            "not stated in any of SN 52.1-6's own accounts, which "
+            "named great direct knowledge, the thousandfold galaxy, "
+            "or simply defined the practice without naming this "
+            "specific result.",
+        ]),
+        ("A title naming its own content directly", [
+            "This project's own observation: unlike most discourses "
+            "in this vagga, whose titles name a place or occasion "
+            "(Thorny Wood, the bank of the Sutanu), this "
+            "discourse's own title, &ldquo;Taṇhākkhaya&rdquo; "
+            "(&ldquo;the ending of craving&rdquo;), directly names "
+            "its own doctrinal content instead.",
+        ]),
+    ],
+    terms=[
+        ("āvuso bhikkhavo", "&ldquo;Reverends, mendicants!&rdquo; "
+             "&mdash; the formal monastic address Anuruddha uses to "
+             "open his own unprompted teaching"),
+        ("āvuso", "&ldquo;Reverend,&rdquo; the mendicants' own "
+             "formal reply, confirming they are ready to listen"),
+        ("taṇhākkhaya", "&ldquo;the ending of craving&rdquo; "
+             "&mdash; this discourse's own title and its own "
+             "specific claimed outcome for the four kinds of "
+             "mindfulness meditation"),
+        ("cattāro satipaṭṭhānā bhāvitā bahulīkatā", "&ldquo;the "
+             "four kinds of mindfulness meditation... developed and "
+             "cultivated&rdquo; &mdash; the same cause named "
+             "throughout this vagga, here yielding a specific new "
+             "result"),
+        ("kāye kāyānupassī viharati", "&ldquo;meditates by "
+             "observing an aspect of the body&rdquo; &mdash; the "
+             "same plain formula already met throughout this vagga"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.7:1.1-1.5"),
+        ("p", "&sect;2", "sn52.7:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own occasion differ from SN 52.1-6?",
+         "opts": ["Anuruddha himself formally addresses the mendicants and teaches unprompted, rather than answering a question or being interrupted during private reflection", "It is the only discourse in this vagga spoken by someone other than Anuruddha", "It takes place at a completely different monastery from every other discourse in this vagga", "No mendicants are present to hear this teaching"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the first discourse where Anuruddha initiates the teaching himself."},
+        {"q": "What new outcome does this discourse name for the four kinds of mindfulness meditation?",
+         "opts": ["That they lead to the ending of craving", "That they lead specifically to psychic power alone", "That they are useful only for trainees, not adepts", "That they cannot be practiced without a teacher present"],
+         "correct": 0,
+         "expl": "A specific claim not found in SN 52.1-6, confirmed by direct comparison."},
+        {"q": "How does this discourse's own title differ in kind from most other titles in this vagga?",
+         "opts": ["It names its own doctrinal content directly (\"the ending of craving\") rather than a place or occasion", "It is the only title in this vagga written in English rather than transliterated Pāli", "It repeats the exact title of an earlier discourse in this vagga", "It names no content and simply reads \"Untitled\""],
+         "correct": 0,
+         "expl": "Most titles in this vagga name a place or occasion (Thorny Wood, the Sutanu); this one names the teaching itself."},
+    ],
+    marginalia=[
+        ("A teacher, not just a respondent", [
+            "\"Reverends, mendicants!\" — his own initiative —",
+            "not a question answered, but a teaching begun"
+        ]),
+        ("A new outcome, plainly stated", [
+            "not direct knowledge, not a galaxy known —",
+            "simply, the ending of craving"
+        ]),
+        ("A title that names its own content", [
+            "no place, no occasion in the title this time —",
+            "just the doctrine itself, stated outright"
+        ]),
+        ("The same practice, a new fruit named", [
+            "body, feelings, mind, principles, unchanged —",
+            "only the promised result is new"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.6.html\">SN 52.6 &middot; At Thorny Wood "
+        "(3rd)</a> &mdash; the previous discourse, closing the "
+        "Thorny Wood triad.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
