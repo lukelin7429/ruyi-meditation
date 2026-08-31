@@ -50,16 +50,18 @@ INDEX_HEADING = "V. Mahāvagga — The Great Book"
 # SN 45.11-54's own range, confirmed by the directory listing above.
 HEAD = ("sn-44.11.html", "SN 44.11 &middot; With Sabhiya Kacc&#257;na")
 # TAIL has moved from sn-55.1.html, through the collection-index
-# placeholder, through SN 56.11 (absorbed once Vagga 1 was complete),
-# to SN 56.31 (Siṁsapāsutta, pre-existing, absorbed the same "fragile
-# junction" way as SN 45.8, SN 55.1, and SN 56.11): the true next
-# landmark beyond this module's own current PAGES coverage, Vagga 2
-# of SN 56 (SN 56.11-20, confirmed by direct reading of SN 56.20's
-# own colophon "Dhammacakkappavattanavaggo dutiyo") now complete.
-# Move TAIL again once SN 56.31 is itself absorbed at the start of
-# Vagga 4, once systematic coverage of Vagga 3 (SN 56.21-30) is
-# complete.
-TAIL = ("sn-56.31.html", "SN 56.31 &middot; In a Rosewood Forest")
+# placeholder, through SN 56.11 and then SN 56.31 (each absorbed once
+# its own preceding vagga was complete, the same "fragile junction"
+# treatment as SN 45.8 and SN 55.1): now back to the collection-index
+# placeholder, since Vagga 4 (SN 56.31-40, confirmed by direct
+# reading of SN 56.40's own colophon "Sīsapāvanavaggo catuttho") is
+# complete and no further pre-existing curated page has been found
+# anywhere else in SN 56 -- only SN 56.11 and SN 56.31 exist from the
+# original "20 curated discourses" selection within this saṃyutta,
+# confirmed by this project's own directory check. TAIL will not move
+# again within this module unless a further pre-existing page is
+# discovered.
+TAIL = ("./", "Saṃyutta Nikāya selections")
 INDEX_EXTRA = [
     ("sn-45.8", "Vibhaṅga", "Analysis"),
     ("sn-55.1", "Cakkavattirāja", "A Wheel-Turning Monarch"),
@@ -73937,5 +73939,1191 @@ page(
         "<a href=\"sn-56.21.html\">SN 56.21 &middot; At the Village "
         "of Koṭi (1st)</a> &mdash; this vagga's own opening "
         "discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.32 — Khadirapattasutta ("Acacia Leaves")
+# Confirmed by direct reading: the second discourse of Vagga 4, using
+# a basket-weaving simile -- some leaves cannot hold water no matter
+# how skillfully woven; others can by their own nature.
+# --------------------------------------------------------------------------- #
+page(
+    56, 32, "Khadirapatta", "Acacia Leaves",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.32 — Acacia Leaves | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khadirapattasutta &mdash; making an end of suffering "
+        "without comprehending the four truths is as impossible as "
+        "carrying water in an acacia-leaf basket. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.31's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two paired similes, impossibility then "
+                 "possibility, each illustrated by a leaf-basket "
+                 "example"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "second discourse of Vagga 4, this project's "
+                         "own first encounter with this vagga's own "
+                         "distinctive vivid similes"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse claims it is "
+        "simply impossible to completely end suffering without "
+        "truly comprehending the four noble truths &mdash; as "
+        "impossible as weaving a basket from acacia, pine, or "
+        "myrobalan leaves and using it to carry water &mdash; while "
+        "ending suffering after truly comprehending the truths is as "
+        "possible as carrying water in a basket woven from lotus, "
+        "flame-of-the-forest, or camel's foot creeper leaves."
+    ),
+    guide=[
+        ("Two ordinary materials, two different outcomes", [
+            "This project's own reading: the simile turns on an "
+            "ordinary, observable fact any listener could confirm "
+            "&mdash; some leaves are naturally too stiff or brittle "
+            "to hold water regardless of skill in weaving, while "
+            "others naturally can &mdash; making the impossibility "
+            "claim vivid and checkable rather than abstract.",
+        ]),
+    ],
+    terms=[
+        ("anabhisamecca...sammā dukkhassantaṁ karissāmī", "&ldquo;"
+             "without truly comprehending [the four truths]...I will "
+             "completely make an end of suffering&rdquo; &mdash; the "
+             "claim this discourse declares impossible"),
+        ("khadirapattānaṁ vā saralapattānaṁ vā āmalakapattānaṁ vā "
+         "puṭaṁ karitvā", "&ldquo;making a basket out of acacia "
+             "leaves or pine needles or myrobalan leaves&rdquo; "
+             "&mdash; the impossible task illustrating the "
+             "impossible claim"),
+        ("netaṁ ṭhānaṁ vijjati", "&ldquo;that is not possible&rdquo; "
+             "&mdash; this discourse's own repeated verdict on the "
+             "first claim"),
+        ("padumapattānaṁ vā palāsapattānaṁ vā māluvapattānaṁ vā",
+             "&ldquo;lotus leaves or flame-of-the-forest leaves or "
+             "camel's foot creeper leaves&rdquo; &mdash; the "
+             "materials illustrating the possible task, matching the "
+             "possible claim"),
+        ("ṭhānametaṁ vijjati", "&ldquo;that is possible&rdquo; "
+             "&mdash; this discourse's own repeated verdict on the "
+             "second claim"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.32:1.1-1.3"),
+        ("p", "&sect;2", "sn56.32:2.1-2.6"),
+        ("p", "&sect;3", "sn56.32:3.1-3.3"),
+        ("p", "&sect;4", "sn56.32:4.1-4.6"),
+        ("p", "&sect;5", "sn56.32:5.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim is as impossible as weaving a basket from acacia or pine leaves to carry water?",
+         "opts": ["Completely making an end of suffering without truly comprehending the four noble truths", "Practicing meditation at all", "Becoming a mendicant without lay sponsorship", "Teaching the Dhamma to more than one person at a time"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicit impossibility claim, illustrated by the leaf-basket simile."},
+        {"q": "What makes the acacia-leaf basket simile effective, per this project's own reading?",
+         "opts": ["It turns on an ordinary, checkable fact — some leaves naturally cannot hold water regardless of weaving skill", "It relies on a supernatural event no listener could verify", "It uses entirely abstract, non-physical imagery", "It requires specialized botanical knowledge to understand"],
+         "correct": 0,
+         "expl": "This project's own reading of the simile's own vivid, observable grounding."},
+        {"q": "What leaves does this discourse name as capable of holding water, matching the possible claim?",
+         "opts": ["Lotus leaves, flame-of-the-forest leaves, or camel's foot creeper leaves", "The same acacia and pine leaves named for the impossible claim", "No leaves at all; only metal containers are named as possible", "Palm leaves exclusively"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a distinct, naturally water-holding set of materials."},
+    ],
+    marginalia=[
+        ("Two baskets, two outcomes", [
+            "acacia leaves cannot hold water —",
+            "lotus leaves can, by their own nature"
+        ]),
+        ("An ordinary fact, made vivid", [
+            "no skill in weaving changes what a leaf can do —",
+            "the same holds for ending suffering unprepared"
+        ]),
+        ("\"Not possible\" and \"possible,\" stated flatly", [
+            "netaṁ ṭhānaṁ vijjati, ṭhānametaṁ vijjati —",
+            "the discourse's own paired verdicts"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "a stick tossed in the air follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.31.html\">SN 56.31 &middot; In a Rosewood "
+        "Forest</a> &mdash; the previous discourse, already published "
+        "on this site, opening this vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.33 — Daṇḍasutta ("A Stick")
+# Confirmed by direct reading: a stick tossed in the air lands
+# unpredictably on either end -- an image of the randomness with
+# which unawakened beings move between this world and the next.
+# --------------------------------------------------------------------------- #
+page(
+    56, 33, "Daṇḍa", "A Stick",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.33 — A Stick | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Daṇḍasutta &mdash; a tossed stick lands unpredictably, "
+        "an image for unawakened beings moving randomly between "
+        "worlds. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.32's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single vivid simile, its own application, then "
+                 "the standard closing instruction"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "third of ten discourses, a compact and "
+                         "vivid image of the randomness of unawakened "
+                         "rebirth"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings &mdash; shrouded by ignorance and fettered "
+        "by craving, wandering and transmigrating &mdash; to a stick "
+        "tossed into the air, which falls sometimes on its base and "
+        "sometimes on its tip: sometimes going from this world to "
+        "another, sometimes coming from another world to this one, "
+        "with no discernible pattern, because the four noble truths "
+        "have not been seen."
+    ),
+    guide=[
+        ("Randomness, not punishment or reward", [
+            "This project's own reading: the stick's own landing is "
+            "presented as genuinely unpredictable, neither base nor "
+            "tip favored &mdash; an image this project reads as "
+            "emphasizing the sheer randomness of unawakened rebirth "
+            "rather than any orderly system of just deserts, the "
+            "cause named instead as simply not having seen the four "
+            "truths.",
+        ]),
+    ],
+    terms=[
+        ("daṇḍo uparivehāsaṁ khitto", "&ldquo;a stick tossed up in "
+             "the air&rdquo; &mdash; this discourse's own central "
+             "image"),
+        ("sakimpi mūlena nipatati, sakimpi aggena nipatati", "&ldquo;"
+             "sometimes it'd fall on its bottom and sometimes the "
+             "top&rdquo; &mdash; the stick's own unpredictable "
+             "landing"),
+        ("avijjānīvaraṇā sattā taṇhāsaṁyojanā sandhāvantā "
+         "saṁsarantā", "&ldquo;sentient beings roaming and "
+             "transmigrating, shrouded by ignorance and fettered by "
+             "craving&rdquo; &mdash; this discourse's own description "
+             "of the beings the simile illustrates"),
+        ("sakimpi asmā lokā paraṁ lokaṁ gacchanti, sakimpi parasmā "
+         "lokā imaṁ lokaṁ āgacchanti", "&ldquo;sometimes they go "
+             "from this world to the other world, and sometimes they "
+             "come from the other world to this world&rdquo; "
+             "&mdash; the unpredictable movement matching the "
+             "stick's own unpredictable landing"),
+        ("adiṭṭhattā, bhikkhave, catunnaṁ ariyasaccānaṁ", "&ldquo;"
+             "because they haven't seen the four noble truths&rdquo; "
+             "&mdash; this discourse's own named cause"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.33:1.1-1.6"),
+        ("p", "&sect;2", "sn56.33:2.1"),
+    ],
+    quiz=[
+        {"q": "What does the tossed stick's own unpredictable landing illustrate?",
+         "opts": ["The randomness with which unawakened beings move between this world and other worlds through rebirth", "A specific method for determining rebirth destiny through divination", "The Buddha's own physical exercises", "A metaphor for meditation posture"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicit comparison."},
+        {"q": "What does this project's own reading emphasize about the stick's own landing?",
+         "opts": ["Genuine randomness, not an orderly system of reward and punishment", "A fixed, predictable pattern favoring one side", "Divine intervention determining the outcome", "A test the stick can pass or fail through effort"],
+         "correct": 0,
+         "expl": "This project's own reading of the image's own emphasis on unpredictability."},
+        {"q": "What cause does this discourse name for such unpredictable wandering?",
+         "opts": ["Not having seen the four noble truths", "Insufficient wealth accumulated in past lives", "A curse placed by a rival ascetic", "Simple bad luck with no underlying cause"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicitly stated cause."},
+    ],
+    marginalia=[
+        ("A stick, tossed and falling", [
+            "sometimes base, sometimes tip —",
+            "no pattern, no favor either way"
+        ]),
+        ("The same randomness in rebirth", [
+            "this world to the next, and back again —",
+            "unpredictable, until the truths are seen"
+        ]),
+        ("Not punishment, not reward", [
+            "this project's own reading: pure randomness —",
+            "the cause is simply not having seen"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "a burning head follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.33/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.32.html\">SN 56.32 &middot; Acacia "
+        "Leaves</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.34 — Celasutta ("Clothes")
+# Confirmed by direct reading: the famous "burning head" discourse --
+# the Buddha asks what mendicants would do if their clothes or head
+# caught fire, then instructs them to treat that very urgency as
+# secondary to comprehending the four truths.
+# --------------------------------------------------------------------------- #
+page(
+    56, 34, "Cela", "Clothes",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.34 — Clothes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Celasutta &mdash; if your head were on fire, act at "
+        "once; comprehending the four truths deserves greater "
+        "urgency still. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.33's own setting"),
+        ("Speaker", "The Buddha asks a question; the mendicants "
+                     "answer; the Buddha then applies the answer"),
+        ("Form", "A question, an answer, then a striking reversal of "
+                 "priority"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the fourth of ten discourses, this "
+                         "project's own most famous single image "
+                         "encountered so far in this vagga"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse asks the "
+        "mendicants what they would do if their clothes or head "
+        "caught fire; they answer that they would apply "
+        "extraordinary urgency to extinguish it; the Buddha then "
+        "delivers a striking reversal &mdash; until the four noble "
+        "truths are comprehended, one should regard even a literally "
+        "burning head with equanimity and direct that same "
+        "extraordinary urgency toward comprehending the truths "
+        "instead."
+    ),
+    guide=[
+        ("A question answered, then overturned", [
+            "This project's own reading: the discourse's own "
+            "rhetorical structure builds real force by first eliciting "
+            "an obvious, urgent answer &mdash; of course one would act "
+            "immediately on a burning head &mdash; only to redirect "
+            "that exact urgency toward something the mendicants "
+            "would not naturally treat as equally pressing, "
+            "comprehending the four truths.",
+        ]),
+    ],
+    terms=[
+        ("āditte, bhikkhave, cele vā sīse vā kimassa karaṇīyaṁ",
+             "&ldquo;if your clothes or head were on fire, what "
+             "would you do about it?&rdquo; &mdash; the Buddha's own "
+             "opening question"),
+        ("adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca "
+         "appaṭivānī ca sati ca sampajaññañca", "&ldquo;extraordinary "
+             "enthusiasm, effort, zeal, vigor, perseverance, "
+             "mindfulness, and situational awareness&rdquo; &mdash; "
+             "the sevenfold urgent response, first named for the "
+             "fire, then redirected to the four truths"),
+        ("ajjhupekkhitvā", "&ldquo;regard...with equanimity&rdquo; "
+             "&mdash; the striking instruction to treat even a "
+             "literally burning head as secondary"),
+        ("anabhisametānaṁ catunnaṁ ariyasaccānaṁ yathābhūtaṁ "
+         "abhisamayāya", "&ldquo;to truly comprehending the four "
+             "noble truths, so long as they have not [yet] been "
+             "encompassed&rdquo; &mdash; the redirected target of the "
+             "same urgency"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.34:1.1-1.2"),
+        ("p", "&sect;2", "sn56.34:2.1-2.3"),
+        ("p", "&sect;3", "sn56.34:3.1"),
+    ],
+    quiz=[
+        {"q": "What striking reversal does this discourse deliver, per this project's own reading of its own rhetorical structure?",
+         "opts": ["Redirecting the exact urgency mendicants would apply to a burning head toward comprehending the four truths instead", "Denying that a burning head requires any urgent response at all", "Instructing mendicants to ignore fire safety entirely in all circumstances", "Claiming that comprehending the four truths is less urgent than any physical danger"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own rhetorical force — urgency elicited, then redirected."},
+        {"q": "What sevenfold response does the discourse name, first for the fire and then redirected?",
+         "opts": ["Extraordinary enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness", "Fear, panic, flight, shouting, prayer, negotiation, and surrender", "A single undifferentiated urgency with no further breakdown", "Patience, calm, delay, deliberation, consultation, planning, and caution"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical sevenfold formula applied first to fire, then to the truths."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fourth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Catutthaṁ\" (\"fourth\")."},
+    ],
+    marginalia=[
+        ("A burning head, a natural urgency", [
+            "the mendicants' own obvious answer —",
+            "act at once, with everything one has"
+        ]),
+        ("The same urgency, redirected", [
+            "regard the fire with equanimity instead —",
+            "and turn that force toward the four truths"
+        ]),
+        ("A question that builds its own force", [
+            "elicit the obvious, then overturn it —",
+            "this project's own most striking image yet"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "a hundred spears in a single day follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.33.html\">SN 56.33 &middot; A Stick</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.35 — Sattisatasutta ("A Hundred Spears")
+# Confirmed by direct reading: an extreme hypothetical (a century of
+# daily spear-wounds, in exchange for comprehending the four truths
+# only after a hundred years) proposed as worth accepting, then
+# explicitly overturned -- comprehension actually comes with
+# pleasure and happiness, not pain.
+# --------------------------------------------------------------------------- #
+page(
+    56, 35, "Sattisata", "A Hundred Spears",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.35 — A Hundred Spears | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sattisatasutta &mdash; an extreme hypothetical worth "
+        "accepting in principle, then explicitly overturned: "
+        "comprehension comes with happiness, not pain. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.34's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly, "
+                     "proposing then overturning a hypothetical"),
+        ("Form", "An extreme hypothetical, a reasoned acceptance of "
+                 "it, then an explicit reversal of its own premise"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the fifth of ten discourses, "
+                         "proposing an extreme sacrifice as worthwhile "
+                         "only to explicitly deny that any such "
+                         "sacrifice is actually required"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse proposes a "
+        "striking hypothetical: a man struck by three hundred spears "
+        "every day for a hundred years, finally comprehending the "
+        "four truths only at the century's end &mdash; a bargain "
+        "this discourse says an earnest person should accept, given "
+        "how beginningless transmigration's own suffering already "
+        "is. But the discourse does not end there: it explicitly "
+        "denies the premise implied by the hypothetical, stating "
+        "that comprehending the four truths actually comes with "
+        "pleasure and happiness, not pain."
+    ),
+    guide=[
+        ("A hypothetical proposed, then its own premise denied", [
+            "This project's own reading of the discourse's own "
+            "two-part structure: first, an extreme thought experiment "
+            "establishes that comprehending the truths would be worth "
+            "any price, however severe; second, the discourse "
+            "explicitly rejects the implication that reaching "
+            "comprehension actually requires such suffering &mdash; "
+            "the rhetorical extremity of the first half makes the "
+            "reversal in the second half land with particular force.",
+        ]),
+        ("Beginningless transmigration as the standard of comparison", [
+            "This project's own reading: the argument for accepting "
+            "even the hundred-spears bargain rests on comparing it "
+            "to transmigration's own beginningless past &mdash; a "
+            "century of daily spear-wounds is finite and bounded, "
+            "while the suffering already endured through countless "
+            "unremembered lives has no discoverable starting point "
+            "at all.",
+        ]),
+    ],
+    terms=[
+        ("pubbaṇhasamayaṁ taṁ sattisatena hanissanti", "&ldquo;"
+             "they'll strike you with a hundred spears in the "
+             "morning&rdquo; &mdash; the first third of the "
+             "hypothetical's own daily three hundred spear-wounds"),
+        ("atthavasikena...kulaputtena alaṁ upagantuṁ", "&ldquo;for "
+             "an earnest gentleman this is sufficient reason to "
+             "submit&rdquo; &mdash; this discourse's own verdict on "
+             "the hypothetical bargain"),
+        ("anamataggoyaṁ...saṁsāro; pubbā koṭi nappaññāyati", "&ldquo;"
+             "this transmigration has no known beginning; no first "
+             "point is found&rdquo; &mdash; the standard of "
+             "comparison grounding the bargain's own worthiness"),
+        ("na kho panāhaṁ...saha dukkhena, saha domanassena catunnaṁ "
+         "ariyasaccānaṁ abhisamayaṁ vadāmi", "&ldquo;the "
+             "comprehension of the four noble truths doesn't come "
+             "with pain or sadness, I say&rdquo; &mdash; this "
+             "discourse's own explicit reversal of the hypothetical's "
+             "own implied premise"),
+        ("sahāva sukhena, sahāva somanassena", "&ldquo;only with "
+             "pleasure and happiness&rdquo; &mdash; this discourse's "
+             "own positive claim replacing the denied premise"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.35:1.1-1.4"),
+        ("p", "&sect;2", "sn56.35:2.1-2.9"),
+        ("p", "&sect;3", "sn56.35:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own two-part structure do, per this project's own reading?",
+         "opts": ["Proposes an extreme hypothetical worth accepting, then explicitly denies that comprehending the truths actually requires such suffering", "Simply restates the standard four-truths formula with no additional structure", "Argues that suffering is always necessary for any genuine spiritual attainment", "Proposes the hypothetical without ever resolving or commenting on it"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own rhetorical reversal, gaining force from the extremity of its own setup."},
+        {"q": "What grounds the claim that even the hundred-spears bargain would be worth accepting?",
+         "opts": ["Transmigration's own beginningless past, against which a bounded century of suffering is comparatively small", "A promise of wealth in the mendicant's next life", "A direct command from the Buddha with no supporting reason given", "The bargain is never actually endorsed by the discourse at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicit standard of comparison."},
+        {"q": "What does this discourse explicitly state about how comprehension of the four truths actually comes?",
+         "opts": ["With pleasure and happiness, not with pain or sadness", "Only through prolonged physical suffering, as the hypothetical implies", "Randomly, with no discernible accompanying feeling", "Exclusively through intense fear and anxiety"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicit, stated reversal of the hypothetical's own implied premise."},
+    ],
+    marginalia=[
+        ("An extreme bargain, proposed", [
+            "three hundred spears a day, for a century —",
+            "worth it, given transmigration's own scope"
+        ]),
+        ("Then the premise itself denied", [
+            "comprehension doesn't actually cost this —",
+            "it comes with happiness, not pain"
+        ]),
+        ("A rhetorical reversal, felt fully", [
+            "the extremity of the setup —",
+            "makes the reversal land with real force"
+        ]),
+        ("Fifth of ten", [
+            "the vagga's own midpoint reached —",
+            "the ocean's own smallest creatures follow next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.35/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.34.html\">SN 56.34 &middot; Clothes</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.36 — Pāṇasutta ("Living Creatures")
+# Confirmed by direct reading: an even more extreme simile than SN
+# 56.35's own -- all the vegetation of the entire Indian subcontinent
+# could not supply enough stakes to impale even the ocean's own large
+# creatures, let alone its innumerable small ones, illustrating the
+# vastness of the plane of loss.
+# --------------------------------------------------------------------------- #
+page(
+    56, 36, "Pāṇa", "Living Creatures",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.36 — Living Creatures | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pāṇasutta &mdash; the entire subcontinent's own "
+        "vegetation could not supply stakes for the ocean's own "
+        "smallest creatures, a measure of the plane of loss. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.35's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "An extended, escalating simile, then its own "
+                 "application to those who understand the four "
+                 "truths"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "sixth of ten discourses, this vagga's own "
+                         "most extreme measure yet of the plane of "
+                         "loss's own vastness"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse imagines every "
+        "blade of grass, stick, branch, and leaf in the entire "
+        "&ldquo;Black Plum Tree Land&rdquo; (Jambudīpa, the Indian "
+        "subcontinent) gathered and made into stakes to impale the "
+        "ocean's own creatures by size &mdash; and claims all that "
+        "vegetation would be exhausted before the ocean's own "
+        "innumerable small creatures alone could be accounted for, "
+        "using this exhausted supply as a measure of how vast the "
+        "plane of loss genuinely is."
+    ),
+    guide=[
+        ("An entire subcontinent, still insufficient", [
+            "This project's own reading: the simile's own scale "
+            "escalates beyond SN 56.35's own already-extreme hundred "
+            "years of daily spear-wounds &mdash; here, the total "
+            "vegetation of an entire landmass is exhausted before "
+            "even beginning to address the ocean's own smallest "
+            "life-forms, using an image of practical impossibility to "
+            "convey a scope that resists ordinary comprehension.",
+        ]),
+        ("Exemption, not merely escape", [
+            "This project's own reading of the discourse's own "
+            "closing claim: one accomplished in view is described as "
+            "&ldquo;parimutto&rdquo; (&ldquo;exempt, released&rdquo;) "
+            "from this vast plane of loss &mdash; a status of "
+            "exemption from the entire scale just described, not "
+            "merely a personal escape from one particular danger.",
+        ]),
+    ],
+    terms=[
+        ("jambudīpe tiṇakaṭṭhasākhāpalāsaṁ", "&ldquo;the grass, "
+             "sticks, branches, and leaves in the Black Plum Tree "
+             "Land&rdquo; &mdash; the entire vegetative supply of the "
+             "Indian subcontinent, this discourse's own measure of "
+             "practical exhaustion"),
+        ("mahantakā...majjhimakā...sukhumakā pāṇā", "&ldquo;large... "
+             "medium-sized...small creatures&rdquo; &mdash; the "
+             "ocean's own creatures, sorted by size for the "
+             "impaling simile"),
+        ("apariyādinnā", "&ldquo;wouldn't run out&rdquo; &mdash; the "
+             "large creatures alone would not exhaust the supply "
+             "before it ran out, unlike the small ones"),
+        ("evaṁ mahā kho, bhikkhave, apāyo", "&ldquo;that's how big "
+             "the plane of loss is&rdquo; &mdash; this discourse's "
+             "own explicit conclusion, using the exhausted-vegetation "
+             "image as a scale"),
+        ("parimutto diṭṭhisampanno puggalo", "&ldquo;an individual "
+             "accomplished in view, exempt [from that vast plane of "
+             "loss]&rdquo; &mdash; the status this discourse claims "
+             "for one who truly understands the four truths"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.36:1.1-1.4"),
+        ("p", "&sect;2", "sn56.36:2.1-2.6"),
+        ("p", "&sect;3", "sn56.36:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own extended simile claim would be exhausted before the ocean's own small creatures could be accounted for?",
+         "opts": ["All the grass, sticks, branches, and leaves in the entire Indian subcontinent", "The entire content of the Buddha's own teaching", "A single mendicant's own lifespan", "The world's own supply of fresh water"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an image of continent-scale exhaustion, still insufficient."},
+        {"q": "How does this simile's own scale compare to SN 56.35's own hundred-years hypothetical, per this project's own reading?",
+         "opts": ["It escalates further, using an entire subcontinent's own vegetation as a scale that still proves insufficient", "It is a much smaller-scale, more modest image by comparison", "The two similes measure entirely unrelated things", "This discourse abandons simile entirely in favor of direct statement"],
+         "correct": 0,
+         "expl": "This project's own reading of an even more extreme measure of scope."},
+        {"q": "What status does this discourse claim for one accomplished in view, per this project's own reading of \"parimutto\"?",
+         "opts": ["Exemption from the entire vast plane of loss just described, not merely escape from one particular danger", "Temporary protection lasting only a single lifetime", "A partial reduction in suffering, not full exemption", "No special status at all beyond ordinary understanding"],
+         "correct": 0,
+         "expl": "This project's own reading of the term's own scope, matching the vastness just established."},
+    ],
+    marginalia=[
+        ("A continent's own vegetation, exhausted", [
+            "every blade of grass turned to stakes —",
+            "still not enough for the ocean's own small creatures"
+        ]),
+        ("A scale beyond ordinary grasp", [
+            "this project's own most extreme measure yet —",
+            "of how vast the plane of loss truly is"
+        ]),
+        ("Exempt, not merely escaped", [
+            "\"parimutto\" — released from the whole scale —",
+            "not a narrow personal reprieve"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "dawn as the sunrise's own forerunner follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.36/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.35.html\">SN 56.35 &middot; A Hundred "
+        "Spears</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.37 — Paṭhamasūriyasutta ("The Simile of the Sun (1st)")
+# Confirmed by direct reading: dawn as the sunrise's own forerunner,
+# compared to right view as the forerunner of truly comprehending
+# the four truths.
+# --------------------------------------------------------------------------- #
+page(
+    56, 37, "Paṭhamasūriya", "The Simile of the Sun (1st)",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.37 — The Simile of the Sun (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; dawn is the sunrise's own forerunner; "
+        "right view is the forerunner of comprehending the four "
+        "truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.36's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compact simile, then its own direct "
+                 "application"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the seventh "
+                         "of ten discourses, naming right view as a "
+                         "forerunner rather than the comprehension "
+                         "itself"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "dawn's own appearance &mdash; the forerunner and harbinger "
+        "of the sunrise &mdash; to right view, which this discourse "
+        "names as the forerunner and harbinger of a mendicant's own "
+        "eventual true comprehension of the four noble truths: a "
+        "mendicant with right view can expect, in due course, to "
+        "truly understand the truths themselves."
+    ),
+    guide=[
+        ("A forerunner, not the arrival itself", [
+            "This project's own reading: the simile's own precision "
+            "matters &mdash; dawn is not the sunrise, only its own "
+            "reliable herald; right view is likewise named here as a "
+            "sign that full comprehension can be expected, not as "
+            "comprehension already achieved.",
+        ]),
+    ],
+    terms=[
+        ("sūriyassa udayato etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ",
+             "&ldquo;this is the forerunner and harbinger of the "
+             "sunrise&rdquo; &mdash; this discourse's own opening "
+             "description of dawn's own role"),
+        ("aruṇuggaṁ", "&ldquo;dawn, the rising of red light&rdquo; "
+             "&mdash; the natural phenomenon serving as this "
+             "discourse's own central image"),
+        ("sammādiṭṭhi", "&ldquo;right view&rdquo; &mdash; the first "
+             "factor of the noble eightfold path, here named as the "
+             "forerunner of comprehending the four truths"),
+        ("pāṭikaṅkhaṁ", "&ldquo;can be expected&rdquo; &mdash; this "
+             "discourse's own term for the reliable, though not yet "
+             "arrived, comprehension right view forecasts"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.37:1.1-1.4"),
+        ("p", "&sect;2", "sn56.37:2.1"),
+    ],
+    quiz=[
+        {"q": "What role does this discourse assign to right view, per its own simile?",
+         "opts": ["A forerunner and harbinger of true comprehension, like dawn preceding sunrise, not comprehension itself", "Comprehension itself, complete and final", "An obstacle that must be overcome before comprehension is possible", "An unrelated factor with no connection to comprehending the four truths"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own precise comparison, forerunner rather than arrival."},
+        {"q": "Why does this project's own reading emphasize the simile's own precision?",
+         "opts": ["Dawn is not the sunrise itself, only its own reliable herald — right view likewise forecasts rather than constitutes full comprehension", "The simile is imprecise and this project corrects it", "Dawn and sunrise are treated as identical in this discourse", "The distinction has no bearing on the discourse's own meaning"],
+         "correct": 0,
+         "expl": "This project's own reading of a careful, deliberate comparison."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The seventh", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Sattamaṁ\" (\"seventh\")."},
+    ],
+    marginalia=[
+        ("A herald, not the arrival", [
+            "dawn precedes the sunrise —",
+            "right view precedes full comprehension"
+        ]),
+        ("A reliable forecast", [
+            "\"pāṭikaṅkhaṁ\" — can be expected —",
+            "not yet arrived, but confidently anticipated"
+        ]),
+        ("A compact, precise image", [
+            "no more said than the comparison requires —",
+            "this project's own shortest discourse in this vagga"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "the sun's own arising in the world follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.37/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.36.html\">SN 56.36 &middot; Living "
+        "Creatures</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.38 — Dutiyasūriyasutta ("The Simile of the Sun (2nd)")
+# Confirmed by direct reading: widens SN 56.37's own personal simile
+# (dawn/right view) to a cosmic one -- the sun and moon's own arising
+# ends darkness and makes time itself measurable, compared to the
+# Realized One's own arising in the world, without which the four
+# truths cannot be taught at all.
+# --------------------------------------------------------------------------- #
+page(
+    56, 38, "Dutiyasūriya", "The Simile of the Sun (2nd)",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.38 — The Simile of the Sun (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; without the sun and moon, utter "
+        "darkness and no measurable time; without a Buddha, no "
+        "teaching of the four truths at all. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.37's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A cosmological simile given in full, then its own "
+                 "direct application to a Buddha's own arising in the "
+                 "world"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the eighth of ten discourses, "
+                         "widening SN 56.37's own personal image into "
+                         "a claim about the rarity of a Buddha's own "
+                         "arising at all"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse widens SN "
+        "56.37's own personal simile (dawn as right view's own "
+        "image) into a cosmic one: without the sun and moon, no "
+        "great light appears, utter darkness prevails, and even day "
+        "and night, months, and years cannot be measured; likewise, "
+        "without a Realized One arising in the world, no great light "
+        "appears and the four noble truths cannot be explained, "
+        "taught, or revealed at all."
+    ),
+    guide=[
+        ("From personal forerunner to cosmic necessity", [
+            "This project's own direct comparison against SN 56.37: "
+            "that discourse concerned one mendicant's own right view "
+            "as a personal forecast; this discourse instead claims "
+            "something far larger &mdash; that the very possibility "
+            "of the four truths being taught at all depends on a "
+            "Buddha's own arising, without which not even the "
+            "concept could be explained.",
+        ]),
+        ("Time itself made unmeasurable without light", [
+            "This project's own reading of the cosmological half of "
+            "the simile: the discourse claims not merely that "
+            "darkness prevails without sun and moon, but that day and "
+            "night, fortnights, and years become altogether "
+            "unmeasurable &mdash; an image of disorientation as "
+            "complete as the darkness itself.",
+        ]),
+    ],
+    terms=[
+        ("yāvakīvañca...candimasūriyā loke nuppajjanti", "&ldquo;as "
+             "long as the moon and the sun don't arise in the "
+             "world&rdquo; &mdash; this discourse's own opening "
+             "cosmological condition"),
+        ("andhatamaṁ...andhakāratimisā", "&ldquo;darkness... utter "
+             "darkness&rdquo; &mdash; the result of that condition, "
+             "described with two intensifying terms"),
+        ("neva rattindivā paññāyanti, na māsaddhamāsā paññāyanti, na "
+         "utusaṁvaccharā paññāyanti", "&ldquo;day and night aren't "
+             "found, nor months and fortnights, nor seasons and "
+             "years&rdquo; &mdash; time itself rendered "
+             "unmeasurable"),
+        ("tathāgato loke nuppajjati arahaṁ sammāsambuddho", "&ldquo;"
+             "the Realized One doesn't arise in the world&rdquo; "
+             "&mdash; the discourse's own application of the "
+             "cosmological condition to a Buddha's own arising"),
+        ("catunnaṁ ariyasaccānaṁ ācikkhaṇā hoti desanā paññāpanā "
+         "paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ", "&ldquo;there's "
+             "explanation of the four noble truths, teaching, "
+             "advocating, establishing, clarifying, analyzing, and "
+             "revealing of them&rdquo; &mdash; the sixfold act made "
+             "possible only by a Buddha's own arising"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.38:1.1-1.3"),
+        ("p", "&sect;2", "sn56.38:2.1-2.6"),
+        ("p", "&sect;3", "sn56.38:3.1-3.5"),
+        ("p", "&sect;4", "sn56.38:4.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse widen SN 56.37's own simile, per this project's own direct comparison?",
+         "opts": ["From one mendicant's own personal forecast (right view) to a claim about the very possibility of the four truths being taught at all, dependent on a Buddha's own arising", "It narrows the claim to apply only to the historical Buddha, excluding all other Buddhas", "It denies SN 56.37's own claim entirely", "It abandons the sun imagery in favor of an entirely different simile"],
+         "correct": 0,
+         "expl": "This project's own reading of a widening from personal to cosmic and doctrinal necessity."},
+        {"q": "What does this discourse claim happens to time itself without the sun and moon?",
+         "opts": ["Day and night, months, seasons, and years all become unmeasurable", "Time continues to be measured normally, unaffected", "Only the length of days changes, with years unaffected", "The claim is not made; only darkness is described"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an image of complete disorientation, matching the darkness."},
+        {"q": "What sixfold act does this discourse claim becomes possible only when a Realized One arises in the world?",
+         "opts": ["Explaining, teaching, advocating, establishing, clarifying, and revealing the four noble truths", "Building temples, ordaining monks, writing scriptures, and similar institutional acts", "Only silent meditation, with no verbal teaching implied", "Nothing specific; the discourse makes no such claim"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicit sixfold formula."},
+    ],
+    marginalia=[
+        ("From personal to cosmic", [
+            "SN 56.37 spoke of one mendicant's own right view —",
+            "this discourse speaks of a Buddha's own rare arising"
+        ]),
+        ("Darkness complete, time unmeasurable", [
+            "no day, no night, no year, no season —",
+            "disorientation total, not merely dim light"
+        ]),
+        ("A Buddha's own necessary arising", [
+            "without which the four truths cannot even be taught —",
+            "not merely difficult, but impossible"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "a cotton tuft in the wind follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.38/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.37.html\">SN 56.37 &middot; The Simile of "
+        "the Sun (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own personal-scale companion.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.39 — Indakhīlasutta ("Indra's Pillar")
+# Confirmed by direct reading: two paired similes -- a light cotton
+# tuft blown randomly by any wind vs. a deeply embedded iron pillar
+# unmoved by storms from any direction -- illustrating dependence on
+# others' opinion versus one's own settled understanding.
+# --------------------------------------------------------------------------- #
+page(
+    56, 39, "Indakhīla", "Indra's Pillar",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.39 — Indra's Pillar | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Indakhīlasutta &mdash; a cotton tuft blown by any wind "
+        "vs. a deeply embedded pillar unmoved by storms, on "
+        "dependence versus settled understanding. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.38's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two paired similes, each illustrating a contrasted "
+                 "state of understanding"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "ninth of ten discourses, its own two similes "
+                         "sharing this vagga's own recurring "
+                         "immovable-pillar image, which SN 56.40 will "
+                         "echo once more to close the vagga"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse contrasts two "
+        "kinds of ascetics and brahmins: those who do not truly "
+        "understand the four truths gaze up hopefully at another's "
+        "face, as unsettled as a light cotton tuft blown randomly by "
+        "any wind; those who do truly understand never look to "
+        "another for confirmation, as unmoved as a deeply embedded "
+        "iron pillar or Indra's pillar, unshaken by storms from any "
+        "direction."
+    ),
+    guide=[
+        ("Dependence on others versus settled confidence", [
+            "This project's own reading: the discourse's own contrast "
+            "is social as much as epistemic &mdash; those lacking "
+            "understanding are described looking to another's face "
+            "for reassurance (&ldquo;surely this worthy one knows and "
+            "sees&rdquo;), while those who understand need no such "
+            "external confirmation at all.",
+        ]),
+        ("A pillar-image this vagga will use again", [
+            "This project's own direct comparison: the deeply "
+            "embedded, storm-unshaken pillar used here to illustrate "
+            "settled understanding is the same image this vagga's own "
+            "closing discourse, SN 56.40, will use once more &mdash; "
+            "there applied specifically to withstanding a rival "
+            "debater's own challenge rather than to inner confidence "
+            "generally.",
+        ]),
+    ],
+    terms=[
+        ("aññassa samaṇassa vā brāhmaṇassa vā mukhaṁ ullokenti",
+             "&ldquo;they gaze up at the face of another ascetic or "
+             "brahmin&rdquo; &mdash; the dependent posture of those "
+             "lacking understanding"),
+        ("tūlapicu vā kappāsapicu vā lahuko vātūpādāno", "&ldquo;a "
+             "light tuft of cotton-wool or kapok...taken up by the "
+             "wind&rdquo; &mdash; the first simile's own image of "
+             "instability"),
+        ("ayokhīlo vā indakhīlo vā gambhīranemo sunikhāto acalo "
+         "asampakampī", "&ldquo;an iron pillar or an Indra's pillar "
+             "with deep foundations, firmly embedded, imperturbable "
+             "and unshakable&rdquo; &mdash; the second simile's own "
+             "image of settled stability"),
+        ("adiṭṭhattā...sudiṭṭhattā, bhikkhave, catunnaṁ "
+         "ariyasaccānaṁ", "&ldquo;because they haven't [have "
+             "clearly] seen the four noble truths&rdquo; &mdash; this "
+             "discourse's own paired cause for each contrasted "
+             "state"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision across the repeated four-truths formula. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.39:1.1-1.3"),
+        ("p", "&sect;2", "sn56.39:2.1-2.9"),
+        ("p", "&sect;3", "sn56.39:3.1-3.3"),
+        ("p", "&sect;4", "sn56.39:4.1-4.11"),
+        ("p", "&sect;5", "sn56.39:5.1"),
+    ],
+    quiz=[
+        {"q": "What contrast does this discourse draw between those who understand and those who don't, per this project's own reading?",
+         "opts": ["Dependence on another's confirming face versus settled confidence needing no such external validation", "A contrast in physical strength rather than understanding", "A contrast in social class, unrelated to understanding", "No genuine contrast; both groups behave identically"],
+         "correct": 0,
+         "expl": "This project's own reading of a contrast that is social as much as epistemic."},
+        {"q": "What image does this discourse share with SN 56.40, this vagga's own closing discourse, per this project's own direct comparison?",
+         "opts": ["A deeply embedded, storm-unshaken pillar, here for inner confidence generally and there for withstanding a rival debater specifically", "The cotton-tuft image, used identically in both discourses", "Neither discourse shares any image with the other", "The sun and moon simile from SN 56.37-38"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a recurring pillar image applied to two related but distinct situations."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Navamaṁ\" (\"ninth\")."},
+    ],
+    marginalia=[
+        ("A cotton tuft, blown any way", [
+            "no understanding, no settled ground —",
+            "dependent on another's confirming face"
+        ]),
+        ("A pillar, deeply embedded", [
+            "storms from any direction, unmoved —",
+            "settled understanding, needing no confirmation"
+        ]),
+        ("An image that will return once more", [
+            "the same pillar closes this vagga at SN 56.40 —",
+            "there facing a rival debater specifically"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "closing it next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.39/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.38.html\">SN 56.38 &middot; The Simile of "
+        "the Sun (2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.40 — Vādatthikasutta ("Looking For a Debate")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 4 ("Sīsapāvanavaggo catuttho"), ten
+# discourses (SN 56.31-40), with its own closing uddāna confirmed to
+# match exactly. Closes with the same immovable-pillar image already
+# met at SN 56.39, now specifically applied to withstanding a rival
+# debater's own challenge.
+# --------------------------------------------------------------------------- #
+page(
+    56, 40, "Vādatthika", "Looking For a Debate",
+    vagga="Sīsapāvanavagga",
+    meta_title="SN 56.40 — Looking For a Debate | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vādatthikasutta &mdash; the closing discourse of Vagga "
+        "4, on a stone pillar no rival debater can shake, sunk deep "
+        "in the four truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.39's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A direct claim about withstanding debate, a "
+                 "pillar simile, then this vagga's own closing "
+                 "colophon and uddāna"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of the "
+                         "root colophon as the close of Vagga 4, ten "
+                         "discourses, echoing SN 56.39's own pillar "
+                         "image once more"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 4 (&ldquo;Sīsapāvanavaggo "
+        "catuttho&rdquo;) by claiming that no ascetic or brahmin, "
+        "arriving from any direction seeking debate, could "
+        "legitimately shake a mendicant who truly understands the "
+        "four noble truths &mdash; illustrated by a sixteen-foot "
+        "stone post, half buried, unmoved by storms from any "
+        "direction, the same immovable-pillar image already met at "
+        "SN 56.39, now applied specifically to withstanding a rival "
+        "debater's own challenge."
+    ),
+    guide=[
+        ("The same pillar, a different threat", [
+            "This project's own direct comparison against SN 56.39: "
+            "there, the immovable pillar illustrated settled "
+            "understanding needing no external confirmation; here, "
+            "the identical image (this time an eight-foot-buried, "
+            "sixteen-foot stone post rather than an iron or Indra's "
+            "pillar) illustrates specifically the impossibility of a "
+            "rival debater legitimately shaking such understanding "
+            "through argument.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.31-40", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;The rosewood forest, acacia, the stick; "
+            "clothes and with a hundred spears; living creatures, "
+            "two similes of the sun; Indra's pillar and one looking "
+            "for a debate&rdquo;) lists exactly ten titles, matching "
+            "this project's own SN 56.31 through SN 56.40 precisely "
+            "&mdash; including SN 56.31 itself, this project's own "
+            "earlier absorbed pre-existing page.",
+        ]),
+    ],
+    terms=[
+        ("vādatthiko vādagavesī", "&ldquo;wanting to debate, "
+             "seeking a debate&rdquo; &mdash; the rival challenger "
+             "this discourse's own title names"),
+        ("vādamassa āropessāmi", "&ldquo;I'll refute their "
+             "doctrine!&rdquo; &mdash; the challenger's own stated "
+             "intent"),
+        ("taṁ vata sahadhammena saṅkampessati vā sampakampessati vā "
+         "sampacālessati vāti—netaṁ ṭhānaṁ vijjati", "&ldquo;it's "
+             "simply impossible for them to legitimately make that "
+             "mendicant shake or rock or tremble&rdquo; &mdash; this "
+             "discourse's own central verdict"),
+        ("silāyūpo soḷasa kukkuko", "&ldquo;a stone post, sixteen "
+             "feet long&rdquo; &mdash; this discourse's own version "
+             "of the immovable-pillar image already met at SN 56.39"),
+        ("dasamaṁ. sīsapāvanavaggo catuttho", "&ldquo;tenth. the "
+             "fourth vagga [ends]&rdquo; &mdash; the root colophon's "
+             "own vagga-closing marker"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. The vagga-closing colophon and "
+        "uddāna verse are left untranslated in the consulted English "
+        "source, as at several earlier vagga closes throughout this "
+        "project's own work. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.40:1.1-2.14"),
+        ("p", "&sect;2", "sn56.40:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 4 (\"Sīsapāvanavaggo catuttho\"), ten discourses (SN 56.31-40)", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 5, not Vagga 4"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "How does this discourse's own pillar image relate to SN 56.39's own, per this project's own direct comparison?",
+         "opts": ["The same immovable-pillar image, there illustrating settled understanding generally and here applied specifically to withstanding a rival debater's own challenge", "An entirely unrelated image with no connection to SN 56.39", "A direct contradiction of SN 56.39's own claim", "The identical image applied to the identical situation with no distinction"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a recurring image, applied to a related but distinct threat."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 56.31-40?",
+         "opts": ["Its own ten listed titles match this project's own ten discourses exactly, including SN 56.31 itself", "It lists only nine titles, omitting SN 56.31", "It lists titles from an entirely different vagga", "The uddāna gives entirely different terms from this project's own ten discourses"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure."},
+    ],
+    marginalia=[
+        ("No debater can shake it", [
+            "from any direction, seeking to refute —",
+            "impossible against settled understanding"
+        ]),
+        ("The same pillar, once more", [
+            "SN 56.39's own image, returned —",
+            "now facing argument rather than mere doubt"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Sīsapāvanavaggo catuttho\" — the fourth vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("Vagga 4 complete, six more to come", [
+            "the Papātavagga follows next —",
+            "this saṃyutta's own long stretch continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.40/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.39.html\">SN 56.39 &middot; Indra's "
+        "Pillar</a> &mdash; the previous discourse, this discourse's "
+        "own imagistic companion.",
+        "<a href=\"sn-56.31.html\">SN 56.31 &middot; In a Rosewood "
+        "Forest</a> &mdash; this vagga's own opening discourse.",
     ],
 )
