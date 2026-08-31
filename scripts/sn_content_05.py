@@ -55926,3 +55926,143 @@ page(
         "one's own opening phrase.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.21 — Jhānādisutta ("Absorptions, Etc.")
+# Confirmed by direct reading: the seventh of the ten Tathāgata
+# powers, continuing the sequence confirmed at SN 52.15-20 --
+# knowledge of corruption, cleansing, and emergence regarding
+# absorptions, liberations, immersions, and attainments.
+# --------------------------------------------------------------------------- #
+page(
+    52, 21, "Jhānādi", "Absorptions, Etc.",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.21 — Absorptions, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jhānādisutta &mdash; Anuruddha attributes knowledge of "
+        "corruption, cleansing, and emergence in meditative states to "
+        "the four kinds of mindfulness meditation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the seventh "
+                         "of the ten Tathāgata powers, confirming "
+                         "this vagga's own continued sequential "
+                         "order"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; truly understanding &ldquo;corruption, cleansing, "
+        "and emergence regarding the absorptions, liberations, "
+        "immersions, and attainments&rdquo; &mdash; is the seventh "
+        "of the classical ten Tathāgata powers, directly following "
+        "the sixth at SN 52.20, confirming this project's own "
+        "tracking of this vagga's own sequential order continues "
+        "intact."
+    ),
+    guide=[
+        ("The seventh power, in sequence", [
+            "This project's own confirmation: this discourse "
+            "continues the exact order already confirmed across SN "
+            "52.15-20, now naming knowledge of how four distinct "
+            "meditative categories can become corrupted, be "
+            "cleansed, or be emerged from.",
+        ]),
+        ("Four categories of meditative attainment named together", [
+            "Confirmed by direct reading, the discourse's own scope "
+            "spans four related but distinct categories: "
+            "absorptions (jhāna), liberations (vimokkha), immersions "
+            "(samādhi), and attainments (samāpatti) &mdash; a "
+            "broader sweep of meditative states than any single "
+            "term alone.",
+        ]),
+        ("Three specific dynamics named for each", [
+            "Confirmed by direct reading, the discourse's own "
+            "precision extends to naming three distinct dynamics "
+            "for each category: &ldquo;corruption&rdquo; (how a "
+            "state degrades), &ldquo;cleansing&rdquo; (how it is "
+            "purified), and &ldquo;emergence&rdquo; (how one exits "
+            "it) &mdash; not merely whether a state is attained, but "
+            "how it behaves once entered.",
+        ]),
+    ],
+    terms=[
+        ("jhānavimokkhasamādhisamāpattīnaṁ saṅkilesaṁ vodānaṁ "
+             "vuṭṭhānaṁ yathābhūtaṁ pajānāmi", "&ldquo;I truly "
+             "understand corruption, cleansing, and emergence "
+             "regarding the absorptions, liberations, immersions, "
+             "and attainments&rdquo; &mdash; this discourse's own "
+             "precise claim, the seventh of the ten Tathāgata powers"),
+        ("jhāna", "&ldquo;absorption&rdquo; &mdash; the first of "
+             "the four categories, referring to deep states of "
+             "meditative concentration"),
+        ("vimokkha", "&ldquo;liberation&rdquo; &mdash; a distinct "
+             "category of meditative release, named alongside "
+             "absorption"),
+        ("saṅkilesa...vodāna...vuṭṭhāna", "&ldquo;corruption... "
+             "cleansing... emergence&rdquo; &mdash; the three "
+             "specific dynamics this discourse's own claim addresses "
+             "for each meditative category"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.21:1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse's own claim occupy in the ten Tathāgata powers?",
+         "opts": ["The seventh power, directly following the sixth at SN 52.20", "The first power, contradicting the sequence already established", "A power unrelated to the dasabala list entirely", "The final, tenth power in the traditional list"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: continuing the exact order already tracked across SN 52.15-20."},
+        {"q": "What four categories of meditative attainment does this discourse's own claim span?",
+         "opts": ["Absorptions, liberations, immersions, and attainments", "Only the four foundations of mindfulness themselves", "The four noble truths specifically", "The four bases of psychic power"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: jhāna, vimokkha, samādhi, and samāpatti named together."},
+        {"q": "What three dynamics does this discourse's own claim address for each category?",
+         "opts": ["Corruption, cleansing, and emergence", "Origin, duration, and cessation only", "Only whether a state is attained or not attained", "Difficulty, ease, and neutrality"],
+         "correct": 0,
+         "expl": "Confirmed directly by the text: not merely attainment, but how each state degrades, is purified, or is exited."},
+    ],
+    marginalia=[
+        ("The seventh power, on schedule", [
+            "faculties, then absorptions —",
+            "the sequence continues unbroken"
+        ]),
+        ("Four categories, named together", [
+            "absorptions, liberations, immersions, attainments —",
+            "a wide sweep of meditative states"
+        ]),
+        ("Not just entering, but what happens inside", [
+            "corruption, cleansing, emergence —",
+            "the dynamics of a state, not just its presence"
+        ]),
+        ("The same root, a seventh fruit", [
+            "the four foundations, unchanged as cause —",
+            "the list of results keeps growing"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.20.html\">SN 52.20 &middot; Comprehending "
+        "the Faculties of Others</a> &mdash; the previous discourse, "
+        "the sixth of the ten Tathāgata powers.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
