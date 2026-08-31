@@ -53694,3 +53694,142 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.5 — Dutiyakaṇḍakīsutta ("At Thorny Wood, 2nd")
+# Confirmed by direct reading: the promised companion to SN 52.4,
+# with Sāriputta asking the identical question but about the adept
+# (asekha, one beyond training -- an arahant) rather than the
+# trainee (sekha). Anuruddha's own answer is word-for-word the same:
+# the four kinds of mindfulness meditation, confirming the identical
+# practice serves both stages.
+# --------------------------------------------------------------------------- #
+page(
+    52, 5, "Dutiyakaṇḍakī", "At Thorny Wood (2nd)",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.5 — At Thorny Wood (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyakaṇḍakīsutta &mdash; Sāriputta asks Anuruddha what "
+        "an adept, one beyond training, should practice, and "
+        "receives the identical answer given for the trainee. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāketa"),
+        ("Speakers", "Venerables Sāriputta and Anuruddha"),
+        ("Form", "The same question as SN 52.4, now about the "
+                 "adept rather than the trainee"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirmed "
+                         "directly as the promised companion to SN "
+                         "52.4, with a minimal but significant "
+                         "contrast: trainee versus adept"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse resolves what "
+        "SN 52.4's own title promised: the identical question and "
+        "answer structure, but now asking what a mendicant who is an "
+        "&ldquo;adept&rdquo; (asekha &mdash; one beyond training, an "
+        "arahant) should practice, rather than the &ldquo;"
+        "trainee&rdquo; (sekha) of the previous discourse."
+    ),
+    guide=[
+        ("The same question, one word changed", [
+            "Confirmed by direct reading, Sāriputta's own question "
+            "here is identical to SN 52.4's own, with a single "
+            "substitution: &ldquo;asekha&rdquo; (adept) in place of "
+            "&ldquo;sekha&rdquo; (trainee) &mdash; the difference "
+            "between one still developing the path and one who has "
+            "completed it.",
+        ]),
+        ("The identical answer, for both stages", [
+            "This project's own comparison: Anuruddha's own answer "
+            "is word-for-word the same as SN 52.4's own &mdash; the "
+            "four kinds of mindfulness meditation, in the same plain "
+            "formula &mdash; confirming that this project's own "
+            "observation applies here directly: the same practice "
+            "serves both the trainee working toward the goal and the "
+            "adept who has already reached it, with no different "
+            "or more advanced technique reserved for the latter.",
+        ]),
+        ("A minimal pair, deliberately placed", [
+            "This project's own observation: placing SN 52.4 and SN "
+            "52.5 back to back, differing only in the practitioner's "
+            "own stage while sharing an identical answer, reads as a "
+            "deliberate teaching point in its own right &mdash; the "
+            "four foundations of mindfulness are not merely a "
+            "beginner's practice, but remain the arahant's own "
+            "practice as well.",
+        ]),
+    ],
+    terms=[
+        ("asekho bhikkhu", "&ldquo;a mendicant who is an adept&rdquo; "
+             "&mdash; one who has completed the training and reached "
+             "arahantship, this discourse's own subject"),
+        ("dutiya", "&ldquo;second&rdquo; &mdash; this discourse's "
+             "own root Pāli title, confirming it as SN 52.4's own "
+             "promised companion"),
+        ("kismiṁ dhamme samādāya vattitabbaṁ", "&ldquo;what things "
+             "should [an adept] enter and remain in?&rdquo; &mdash; "
+             "Sāriputta's own question, identical in structure to SN "
+             "52.4's own"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; Anuruddha's own "
+             "answer, unchanged from SN 52.4"),
+        ("kāye kāyānupassī viharati", "&ldquo;meditates by "
+             "observing an aspect of the body&rdquo; &mdash; the "
+             "same plain formula given word-for-word in both "
+             "discourses"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.5:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does Sāriputta's own question here differ from SN 52.4?",
+         "opts": ["Only one word changes — asking about the adept (asekha) rather than the trainee (sekha)", "It asks about an entirely unrelated topic", "It is addressed to Moggallāna rather than Anuruddha", "It asks about a fifth foundation of mindfulness not named elsewhere"],
+         "correct": 0,
+         "expl": "The identical question structure, with a single substitution: adept in place of trainee."},
+        {"q": "What does this project's own comparison find about Anuruddha's own answer?",
+         "opts": ["Word-for-word the same as SN 52.4's own — the four kinds of mindfulness meditation, unchanged", "A significantly more advanced practice reserved for arahants only", "Anuruddha declines to answer for the adept, saying it cannot be described", "A shortened version omitting two of the four foundations"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the identical answer, regardless of the practitioner's own stage."},
+        {"q": "What teaching point does this project's own observation draw from pairing SN 52.4 and SN 52.5 together?",
+         "opts": ["The four foundations of mindfulness are not merely a beginner's practice, but remain the arahant's own practice as well", "Trainees and adepts require completely different methods that happen to share a name", "SN 52.5 is a later, less authoritative addition to the canon", "The pairing has no particular significance beyond narrative convenience"],
+         "correct": 0,
+         "expl": "This project's own reading of the deliberate minimal-pair structure."},
+    ],
+    marginalia=[
+        ("One word, a world of difference", [
+            "sekha becomes asekha —",
+            "trainee becomes one who has arrived"
+        ]),
+        ("The same answer, unchanged", [
+            "no new technique for the one who's finished —",
+            "the same four foundations, word for word"
+        ]),
+        ("A pair placed deliberately", [
+            "SN 52.4 and 52.5, side by side —",
+            "one practice, for every stage of the path"
+        ]),
+        ("Not left behind, once arrived", [
+            "mindfulness isn't outgrown at arahantship —",
+            "it's what the arahant still does"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.4.html\">SN 52.4 &middot; At Thorny Wood "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own promised companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
