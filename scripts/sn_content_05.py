@@ -54432,3 +54432,158 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.10 — Bāḷhagilānasutta ("Gravely Ill")
+# Confirmed by direct reading of the root Pāli colophon ("Dasamaṁ.
+# Rahogatavaggo paṭhamo.") and its own ten-item uddāna, this
+# discourse closes Vagga 1 (Rahogatavagga) at exactly ten
+# discourses, matching this project's own earlier structural
+# confirmation (10 + 14 = 24 total). Anuruddha, gravely ill,
+# explains to visiting mendicants how the four satipaṭṭhāna keep
+# physical pain from occupying his mind.
+# --------------------------------------------------------------------------- #
+page(
+    52, 10, "Bāḷhagilāna", "Gravely Ill",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.10 — Gravely Ill | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bāḷhagilānasutta &mdash; gravely ill, Anuruddha explains "
+        "how the four kinds of mindfulness meditation keep physical "
+        "pain from occupying his mind, closing Vagga 1. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The Dark Forest, near Sāvatthī"),
+        ("Speakers", "Venerable Anuruddha, gravely ill, and several "
+                     "visiting mendicants"),
+        ("Form", "A question prompted by visible suffering, and a "
+                 "practical answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "Vagga 1's own true closing discourse, "
+                         "confirmed directly by its own colophon and "
+                         "uddāna to number exactly ten"),
+    ],
+    why=(
+        "Confirmed by direct reading of this discourse's own closing "
+        "Pāli lines &mdash; &ldquo;Dasamaṁ. Rahogatavaggo "
+        "paṭhamo&rdquo; (&ldquo;tenth. Vagga 1, the In-Private "
+        "chapter&rdquo;) &mdash; followed by a ten-item uddāna "
+        "matching SN 52.1 through SN 52.10 exactly, this discourse "
+        "closes Vagga 1 at exactly ten discourses, confirming this "
+        "project's own earlier structural count (10 + 14 = 24 total "
+        "for this saṃyutta)."
+    ),
+    guide=[
+        ("A question prompted by visible suffering", [
+            "Confirmed by direct reading, Anuruddha is &ldquo;sick, "
+            "suffering, gravely ill&rdquo; when several mendicants "
+            "visit him and ask directly what meditation he "
+            "practices so that &ldquo;physical pain doesn't occupy "
+            "his mind&rdquo; &mdash; a practical question prompted "
+            "by what they can see, not a report of a private "
+            "reflection or an abstract inquiry.",
+        ]),
+        ("The same four foundations, now applied to physical pain", [
+            "Confirmed by direct reading, Anuruddha's own answer "
+            "uses the same plain satipaṭṭhāna formula met throughout "
+            "this vagga, but names a new, specifically practical "
+            "outcome not stated elsewhere in this vagga: keeping his "
+            "own mind firmly established in the four foundations "
+            "&ldquo;so that physical pain doesn't occupy&rdquo; it, "
+            "even while gravely ill.",
+        ]),
+        ("A vagga closed on illness, not triumph", [
+            "This project's own observation: Vagga 1 opened with "
+            "Anuruddha's own private reflection and Moggallāna's own "
+            "psychic-power visit (SN 52.1), moved through claims of "
+            "great direct knowledge and a thousandfold galaxy (SN "
+            "52.3, 52.6), and closes here on a notably humbler and "
+            "more vulnerable note &mdash; the same practice sustaining "
+            "him not in triumph, but in physical illness.",
+        ]),
+        ("Ten discourses, confirmed item by item", [
+            "This project's own count, matching the uddāna's own ten "
+            "items directly against the discourses themselves: two "
+            "In-Private discourses (SN 52.1-2), the Sutanu discourse "
+            "(SN 52.3), three Thorny Wood discourses (SN 52.4-6), "
+            "the Ending of Craving (SN 52.7), the Salaḷa Tree Hut "
+            "(SN 52.8), Ambapālī's Mango Grove (SN 52.9), and this "
+            "discourse, Gravely Ill (SN 52.10) &mdash; ten discourses "
+            "for ten titles, exactly.",
+        ]),
+    ],
+    terms=[
+        ("ābādhiko dukkhito bāḷhagilāno", "&ldquo;sick, suffering, "
+             "gravely ill&rdquo; &mdash; this discourse's own "
+             "opening description of Anuruddha's own condition, and "
+             "the source of its own title"),
+        ("uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhanti",
+             "&ldquo;physical pain doesn't occupy his "
+             "mind&rdquo; &mdash; the specific, practical outcome "
+             "named for the four foundations in this discourse "
+             "alone"),
+        ("suppatiṭṭhitacitto", "&ldquo;with my mind firmly "
+             "established&rdquo; &mdash; the same description of "
+             "stable practice already met at SN 52.9, here sustaining "
+             "Anuruddha through illness"),
+        ("Dasamaṁ", "&ldquo;tenth&rdquo; &mdash; this discourse's "
+             "own closing ordinal, confirming its own position as "
+             "Vagga 1's own final discourse"),
+        ("Rahogatavaggo paṭhamo", "&ldquo;Vagga 1, the In-Private "
+             "chapter&rdquo; &mdash; the vagga's own true closing "
+             "colophon, confirmed here directly"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.10:1.1-1.2"),
+        ("p", "&sect;2", "sn52.10:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What confirms that this discourse closes Vagga 1 at exactly ten discourses?",
+         "opts": ["Its own closing colophon \"Dasamaṁ. Rahogatavaggo paṭhamo\" followed by a ten-item uddāna matching SN 52.1 through SN 52.10", "A note from the translator stating the vagga has ended", "This project's own assumption based on the file naming convention alone", "The fact that ten mendicants are named as present in the discourse"],
+         "correct": 0,
+         "expl": "Confirmed directly by the text's own closing colophon and uddāna, matching this project's own item-by-item count."},
+        {"q": "What prompts the mendicants' own question to Anuruddha in this discourse?",
+         "opts": ["Visiting him while he is gravely ill and asking directly how he manages the pain", "A private reflection Anuruddha shared with them beforehand", "A formal invitation issued by Anuruddha to discuss illness", "A rumor that Anuruddha had already died"],
+         "correct": 0,
+         "expl": "A practical question prompted by directly observing his own visible suffering."},
+        {"q": "What does this project's own observation say about how Vagga 1 closes?",
+         "opts": ["On a notably humbler and more vulnerable note — the same practice sustaining Anuruddha through physical illness, not triumph", "On the most triumphant claim in the entire vagga, exceeding even the thousandfold galaxy claim of SN 52.6", "With Anuruddha's own death, ending the vagga on a note of loss", "With a formal teaching addressed to the Buddha himself"],
+         "correct": 0,
+         "expl": "This project's own reading of the vagga's own arc, from psychic-power visits and cosmic claims to a humbler, practical use of the same practice."},
+    ],
+    marginalia=[
+        ("A body in pain, a mind held steady", [
+            "gravely ill, and still they come to ask —",
+            "how does the mind stay clear?"
+        ]),
+        ("The same four foundations, a new use", [
+            "not direct knowledge, not a distant galaxy —",
+            "just keeping pain from taking over"
+        ]),
+        ("A vagga's own quiet close", [
+            "it opened with a psychic-power visit —",
+            "it closes with illness, met the same way"
+        ]),
+        ("Ten discourses, exactly accounted for", [
+            "the uddāna names them one by one —",
+            "confirmed, not assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.9.html\">SN 52.9 &middot; In Ambapālī's "
+        "Mango Grove</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
