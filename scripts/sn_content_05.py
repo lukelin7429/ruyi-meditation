@@ -49,14 +49,16 @@ INDEX_HEADING = "V. Mahāvagga — The Great Book"
 # current coverage -- there being no pre-existing page anywhere within
 # SN 45.11-54's own range, confirmed by the directory listing above.
 HEAD = ("sn-44.11.html", "SN 44.11 &middot; With Sabhiya Kacc&#257;na")
-# TAIL has moved from sn-55.1.html (absorbed below, mid-Veḷudvāravagga,
-# the same "fragile junction" treatment as SN 45.8) onward to the
-# collection index as a neutral placeholder: SN 55.11-74 and SN
-# 56.1-131 are not yet written, so no further pre-existing landmark
-# lies immediately beyond this module's own current coverage. Move
-# TAIL again once SN 56.11 (also pre-existing, also to be absorbed the
-# same way) is the true next landmark beyond this module's own PAGES.
-TAIL = ("./", "Saṃyutta Nikāya selections")
+# TAIL has moved from sn-55.1.html, through the collection-index
+# placeholder used while SN 55.11-74 and SN 56.1-10 were being
+# written, to SN 56.11 (Dhammacakkappavattanasutta, pre-existing,
+# absorbed the same "fragile junction" way as SN 45.8 and SN 55.1):
+# the true next landmark beyond this module's own current PAGES
+# coverage (Vagga 1 of SN 56 now complete). Move TAIL again once SN
+# 56.31 (also pre-existing) is the true next landmark, once
+# systematic coverage of Vagga 2 (SN 56.12-30) is complete.
+TAIL = ("sn-56.11.html", "SN 56.11 &middot; Rolling Forth the Wheel "
+        "of Dhamma")
 INDEX_EXTRA = [
     ("sn-45.8", "Vibhaṅga", "Analysis"),
     ("sn-55.1", "Cakkavattirāja", "A Wheel-Turning Monarch"),
@@ -70240,5 +70242,1270 @@ page(
         "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
         "the Sotāpattisaṃyutta is now complete; the next saṃyutta in "
         "this book is still in preparation.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56 (Saccasaṃyutta, "Linked Discourses on the Truths") -- confirmed
+# by direct bilara-data listing to be 131 discourses across 11 vaggas.
+# Vaggas 1-6 (SN 56.1-70) are individual discourses; Vaggas 7-11 (SN
+# 56.71-131) are heavily peyyāla (repetition-series) territory, several
+# already pre-merged as multi-number ranges in bilara-data itself
+# (e.g. sn56.96-101, sn56.105-107) -- confirmed by direct listing, not
+# assumed; each such range will use page_range() as at SN 53. Book V's
+# own twelfth and final saṃyutta, directly following SN 55, already
+# confirmed complete by this project.
+#
+# Vagga boundaries confirmed by direct reading of each vagga's own
+# opening discourse's :0.2 field:
+#   1. Samādhivagga             SN 56.1-10
+#   2. Dhammacakkappavattanavagga SN 56.11-20
+#   3. Koṭigāmavagga            SN 56.21-30
+#   4. Sīsapāvanavagga          SN 56.31-40
+#   5. Papātavagga              SN 56.41-50
+#   6. Abhisamayavagga          SN 56.51-60 (or 51-70 pending direct check)
+#   7-11. Peyyāla vaggas        SN 56.61/71-131 (boundaries pending direct check)
+#
+# Two pre-existing pages from this project's own earlier "20 curated
+# discourses" selection (commit 58cef566) fall inside this saṃyutta,
+# both conveniently at vagga starts: SN 56.11 (Dhammacakkappavattanasutta,
+# "Rolling Forth the Wheel of Dhamma" -- the first sermon) opens Vagga
+# 2; SN 56.31 (Siṁsapāsutta, "In a Rosewood Forest") opens Vagga 4.
+# Confirmed by direct reading not to be regenerated here, but absorbed
+# as "fragile junctions" exactly as SN 45.8 and SN 55.1 were: this
+# saṃyutta's own systematic coverage of Vagga 2 begins at SN 56.12 (not
+# SN 56.11), and of Vagga 4 begins at SN 56.32 (not SN 56.31), with
+# both pre-existing pages hand-patched into the chain on both sides
+# after every build from the point each is reached.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 56.1 — Samādhisutta ("Immersion")
+# Confirmed by direct reading: Book V's own final saṃyutta opens not
+# with a definition of the four noble truths themselves, but with a
+# call to develop immersion (samādhi) as the condition for truly
+# understanding them.
+# --------------------------------------------------------------------------- #
+page(
+    56, 1, "Samādhi", "Immersion",
+    vagga="Samādhivagga",
+    meta_title="SN 56.1 — Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samādhisutta &mdash; the opening discourse of the "
+        "Saccasaṃyutta, Book V's own final saṃyutta, on immersion as "
+        "the condition for truly understanding the four noble "
+        "truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A short, formulaic call to practice, opening onto "
+                 "this saṃyutta's own recurring closing refrain"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the opening discourse of Book V's "
+                         "own final saṃyutta, the Saccasaṃyutta (131 "
+                         "discourses across 11 vaggas, confirmed by "
+                         "direct bilara-data listing)"),
+    ],
+    why=(
+        "Confirmed by direct reading, this saṃyutta's own opening "
+        "discourse does not begin by defining the four noble truths "
+        "&mdash; it begins by naming the condition for truly "
+        "understanding them: immersion (samādhi). A mendicant who "
+        "has developed immersion, this discourse claims, truly "
+        "understands suffering, its origin, its cessation, and the "
+        "practice leading to its cessation &mdash; the same "
+        "four-part refrain that recurs at the close of nearly every "
+        "discourse across this entire saṃyutta."
+    ),
+    guide=[
+        ("Book V's own final saṃyutta", [
+            "This project's own direct check of bilara-data: the "
+            "Saccasaṃyutta comprises 131 discourses across 11 vaggas "
+            "&mdash; the largest saṃyutta this project has yet "
+            "undertaken, with its own final five vaggas (SN 56.71 "
+            "onward) confirmed to be heavily peyyāla (repetition "
+            "series) territory, several already pre-merged as "
+            "multi-number ranges in bilara-data itself.",
+        ]),
+        ("Immersion as precondition, not conclusion", [
+            "This project's own reading: rather than opening with a "
+            "definition of the four truths, this discourse opens "
+            "with the condition for seeing them truly &mdash; a "
+            "structural choice this project notes without "
+            "overinterpreting, since the discourse itself offers no "
+            "explicit commentary on the ordering.",
+        ]),
+    ],
+    terms=[
+        ("samādhiṁ bhāvetha", "&ldquo;develop immersion&rdquo; "
+             "&mdash; this discourse's own opening instruction"),
+        ("samāhito...yathābhūtaṁ pajānāti", "&ldquo;one who has "
+             "immersion truly understands&rdquo; &mdash; this "
+             "discourse's own central claim, linking immersion "
+             "directly to true understanding"),
+        ("idaṁ dukkhaṁ", "&ldquo;this is suffering&rdquo; &mdash; "
+             "the first of the four truths, in the exact formula "
+             "recurring throughout this saṃyutta"),
+        ("ayaṁ dukkhasamudayo", "&ldquo;this is the origin of "
+             "suffering&rdquo; &mdash; the second of the four truths"),
+        ("ayaṁ dukkhanirodhagāminī paṭipadā", "&ldquo;this is the "
+             "practice that leads to the cessation of "
+             "suffering&rdquo; &mdash; the fourth of the four truths, "
+             "closing the recurring formula"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.1:1.1-1.8"),
+        ("p", "&sect;2", "sn56.1:2.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim is the condition for truly understanding the four noble truths?",
+         "opts": ["Immersion (samādhi)", "Extensive scriptural study alone", "Birth into a particular caste", "Advanced age"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own opening instruction and central claim."},
+        {"q": "How many discourses does this project's own direct bilara-data check confirm for the entire Saccasaṃyutta?",
+         "opts": ["131, across 11 vaggas", "20, across 2 vaggas", "74, across 7 vaggas, as at SN 55", "10, a single vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct listing — Book V's own largest and final saṃyutta."},
+        {"q": "What four truths does this discourse's own closing refrain name?",
+         "opts": ["Suffering, its origin, its cessation, and the practice leading to its cessation", "Impermanence, suffering, non-self, and emptiness", "The four jhānas, already treated at SN 53", "The four satipaṭṭhānas, an entirely different saṃyutta's own topic"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the four noble truths, in the formula recurring throughout this saṃyutta."},
+    ],
+    marginalia=[
+        ("A new saṃyutta, the largest yet", [
+            "131 discourses, 11 vaggas confirmed —",
+            "Book V's own final and largest section"
+        ]),
+        ("Immersion first, then understanding", [
+            "not a definition, but a condition —",
+            "samādhi as what makes true seeing possible"
+        ]),
+        ("A refrain that will recur throughout", [
+            "suffering, origin, cessation, practice —",
+            "the four truths, named again and again"
+        ]),
+        ("An opening without commentary", [
+            "the discourse itself explains no ordering —",
+            "this project notes the structure, without overreading it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.74.html\">SN 55.74 &middot; Penetrating "
+        "Wisdom</a> &mdash; the closing discourse of the previous "
+        "saṃyutta, the Sotāpattisaṃyutta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.2 — Paṭisallānasutta ("Retreat")
+# Confirmed by direct reading: the second discourse, identical in
+# structure to SN 56.1, substituting solitary retreat for immersion.
+# --------------------------------------------------------------------------- #
+page(
+    56, 2, "Paṭisallāna", "Retreat",
+    vagga="Samādhivagga",
+    meta_title="SN 56.2 — Retreat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; identical in structure to SN 56.1, "
+        "naming solitary retreat rather than immersion as the "
+        "condition for true understanding. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.1's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical structure as SN 56.1, with one term "
+                 "substituted"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of ten "
+                         "discourses in this vagga, confirming a "
+                         "paired structure with SN 56.1"),
+    ],
+    why=(
+        "Confirmed by direct comparison, this discourse repeats SN "
+        "56.1's own exact structure word for word, substituting "
+        "&ldquo;paṭisallāna&rdquo; (&ldquo;retreat, seclusion&rdquo;) "
+        "for &ldquo;samādhi&rdquo; (&ldquo;immersion&rdquo;) as the "
+        "condition for truly understanding the four noble truths "
+        "&mdash; a paired opening this project reports honestly as a "
+        "structural echo, not a substantive elaboration."
+    ),
+    guide=[
+        ("A paired opening, confirmed by direct comparison", [
+            "This project's own word-for-word comparison against SN "
+            "56.1 confirms the two discourses share an identical "
+            "structure, differing only in the single term named as "
+            "the condition for true understanding &mdash; immersion "
+            "there, retreat here.",
+        ]),
+    ],
+    terms=[
+        ("paṭisallāṇaṁ, bhikkhave, yogamāpajjatha", "&ldquo;mendicants, "
+             "meditate in retreat&rdquo; &mdash; this discourse's own "
+             "opening instruction, replacing SN 56.1's own "
+             "&ldquo;develop immersion&rdquo;"),
+        ("paṭisallāna", "&ldquo;retreat, seclusion&rdquo; &mdash; "
+             "solitary withdrawal for the purpose of meditation"),
+        ("paṭisallīno...yathābhūtaṁ pajānāti", "&ldquo;one in retreat "
+             "truly understands&rdquo; &mdash; this discourse's own "
+             "central claim, identical in structure to SN 56.1's own"),
+        ("idaṁ dukkhan'ti", "&ldquo;this is suffering&rdquo; &mdash; "
+             "the first of the four truths, in the identical formula "
+             "recurring throughout this saṃyutta"),
+        ("ayaṁ dukkhanirodho", "&ldquo;this is the cessation of "
+             "suffering&rdquo; &mdash; the third of the four truths"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.2:1.1-1.6"),
+        ("p", "&sect;2", "sn56.2:2.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from SN 56.1, per this project's own word-for-word comparison?",
+         "opts": ["Only in the single term named as the condition for true understanding — retreat here, immersion there", "It teaches an entirely different set of truths", "It adds three additional noble truths", "It is addressed to a different audience"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a structural echo, reported honestly."},
+        {"q": "What does \"paṭisallāna\" mean?",
+         "opts": ["Retreat, seclusion", "Immersion, concentration", "Argument, dispute", "Low, worldly talk"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — solitary withdrawal for meditation."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The second", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("A paired opening", [
+            "identical structure to SN 56.1 —",
+            "one term swapped, retreat for immersion"
+        ]),
+        ("Solitary withdrawal", [
+            "\"paṭisallāna\" — retreat, seclusion —",
+            "the condition named here for true understanding"
+        ]),
+        ("The same refrain, once more", [
+            "suffering, origin, cessation, practice —",
+            "already familiar from SN 56.1"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "a pattern beginning to take shape"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.1.html\">SN 56.1 &middot; Immersion</a> "
+        "&mdash; the previous discourse, this discourse's own "
+        "structural twin.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.3 — Paṭhamakulaputtasutta ("A Gentleman (1st)")
+# Confirmed by direct reading: the third discourse, its own root text
+# given in full (no elision), unlike several companions that follow.
+# --------------------------------------------------------------------------- #
+page(
+    56, 3, "Paṭhamakulaputta", "A Gentleman (1st)",
+    vagga="Samādhivagga",
+    meta_title="SN 56.3 — A Gentleman (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; every gentleman who has ever rightly "
+        "gone forth, past, future, or present, does so to comprehend "
+        "the four noble truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.2's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A threefold claim across past, future, and "
+                 "present, given in full without elision"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the third of "
+                         "ten discourses, naming the going-forth "
+                         "itself as purposed toward the four truths"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse claims that "
+        "every gentleman who has ever rightly gone forth from the "
+        "lay life to homelessness &mdash; across past, future, and "
+        "present alike &mdash; does so for one purpose: to truly "
+        "comprehend the four noble truths. This discourse's own root "
+        "text is given in full, without the elision used in several "
+        "of its own companions that follow."
+    ),
+    guide=[
+        ("The purpose of going forth, stated directly", [
+            "This project's own reading: rather than describing what "
+            "a gentleman does after going forth, this discourse "
+            "names the going-forth itself as already purposed toward "
+            "one end &mdash; comprehending the four truths &mdash; a "
+            "claim this discourse's own next companion, SN 56.4, "
+            "will restate from a different angle.",
+        ]),
+    ],
+    terms=[
+        ("kulaputtā sammā agārasmā anagāriyaṁ pabbajiṁsu", "&ldquo;"
+             "gentlemen rightly went forth from the lay life to "
+             "homelessness&rdquo; &mdash; this discourse's own "
+             "subject across all three times"),
+        ("catunnaṁ ariyasaccānaṁ yathābhūtaṁ abhisamayāya", "&ldquo;"
+             "in order to truly comprehend the four noble "
+             "truths&rdquo; &mdash; this discourse's own stated "
+             "purpose of going forth"),
+        ("dukkhassa ariyasaccassa", "&ldquo;the noble truth of "
+             "suffering&rdquo; &mdash; the first truth, named in "
+             "full here rather than elided"),
+        ("dukkhanirodhagāminiyā paṭipadāya ariyasaccassa", "&ldquo;"
+             "the noble truth of the practice leading to the "
+             "cessation of suffering&rdquo; &mdash; the fourth truth, "
+             "likewise named in full"),
+        ("atītamaddhānaṁ...anāgatamaddhānaṁ...etarahi", "&ldquo;"
+             "past...future...present&rdquo; &mdash; the threefold "
+             "temporal span across which this discourse's own claim "
+             "is made"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.3:1.1-1.3"),
+        ("p", "&sect;2", "sn56.3:2.1-2.5"),
+        ("p", "&sect;3", "sn56.3:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim is the purpose of every gentleman's going-forth, across past, future, and present?",
+         "opts": ["To truly comprehend the four noble truths", "To achieve worldly fame and recognition", "No single purpose is named; motivations vary", "To master the practice of immersion specifically, as at SN 56.1"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own explicitly stated purpose, spanning all three times."},
+        {"q": "How is this discourse's own root text structured, compared to several of its own companions that follow?",
+         "opts": ["Given in full, without the elision (\"…pe…\") used in several later discourses in this vagga", "Entirely composed of elision markers with no spelled-out content", "In verse rather than prose", "Addressed to a single named individual rather than the mendicants generally"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison against the root Pali of this discourse and its own companions."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The third", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Tatiyaṁ\" (\"third\")."},
+    ],
+    marginalia=[
+        ("A purpose, stated directly", [
+            "going forth itself already aimed —",
+            "at comprehending the four truths"
+        ]),
+        ("Full, not elided", [
+            "this discourse spells out what others will compress —",
+            "a deliberate contrast, noticed directly"
+        ]),
+        ("Past, future, present", [
+            "the same claim holds across all three —",
+            "no exception granted to any era"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "a companion piece follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.2.html\">SN 56.2 &middot; Retreat</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.4 — Dutiyakulaputtasutta ("A Gentleman (2nd)")
+# Confirmed by direct reading: a companion to SN 56.3, shifting from
+# the purpose of going forth to the fact of comprehension achieved.
+# --------------------------------------------------------------------------- #
+page(
+    56, 4, "Dutiyakulaputta", "A Gentleman (2nd)",
+    vagga="Samādhivagga",
+    meta_title="SN 56.4 — A Gentleman (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; companion to SN 56.3, shifting from "
+        "the purpose of going forth to the comprehension actually "
+        "achieved. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.3's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A threefold claim across past, future, and "
+                 "present, this time partly elided"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fourth of ten "
+                         "discourses, its own companion pairing with "
+                         "SN 56.3 confirmed by direct comparison"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.3, this "
+        "discourse shifts its own claim's grammar: where SN 56.3 "
+        "named the four truths as the purpose gentlemen go forth "
+        "for, this discourse states that any gentleman who has "
+        "&mdash; after rightly going forth &mdash; truly comprehended "
+        "anything at all, has thereby comprehended the four noble "
+        "truths specifically."
+    ),
+    guide=[
+        ("A shift from purpose to achievement", [
+            "This project's own direct comparison against SN 56.3: "
+            "that discourse named the four truths as what going "
+            "forth is <em>for</em>; this discourse instead claims "
+            "that whatever true comprehension a gone-forth gentleman "
+            "actually <em>achieves</em>, it is comprehension of "
+            "these same four truths &mdash; a subtle but genuine "
+            "shift this project reports rather than treats as mere "
+            "repetition.",
+        ]),
+    ],
+    terms=[
+        ("sammā agārasmā anagāriyaṁ pabbajitā yathābhūtaṁ abhisamesuṁ",
+             "&ldquo;having rightly gone forth from the lay life to "
+             "homelessness, truly comprehended&rdquo; &mdash; this "
+             "discourse's own subject, shifted from SN 56.3's own "
+             "purpose-clause to an achievement-clause"),
+        ("cattāri ariyasaccāni yathābhūtaṁ abhisamesuṁ", "&ldquo;"
+             "truly comprehended the four noble truths&rdquo; "
+             "&mdash; this discourse's own claim about what such "
+             "comprehension always turns out to be"),
+        ("dukkhaṁ ariyasaccaṁ", "&ldquo;the noble truth of "
+             "suffering&rdquo; &mdash; the first truth, named in "
+             "full at this discourse's own midpoint"),
+        ("…", "the elision marking, standing in for the repeated "
+             "temporal refrain already given in full at SN 56.3"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.3's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.4:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own claim differ from SN 56.3's own claim, per this project's own direct comparison?",
+         "opts": ["It shifts from naming the four truths as going-forth's own purpose to claiming they are what any true comprehension achieved turns out to be", "It denies SN 56.3's own claim entirely", "It introduces an entirely unrelated fifth truth", "It is addressed to laypeople rather than mendicants"],
+         "correct": 0,
+         "expl": "This project's own reading of a subtle but genuine grammatical shift between two paired discourses."},
+        {"q": "What does this discourse's own root text use to stand in for the repeated temporal refrain already given in full at SN 56.3?",
+         "opts": ["The elision marking \"…pe…\"", "A complete restatement, word for word", "A cross-reference by number to SN 56.3", "Nothing; the refrain is entirely omitted with no marker at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali's own compression."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fourth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Catutthaṁ\" (\"fourth\")."},
+    ],
+    marginalia=[
+        ("Purpose becomes achievement", [
+            "SN 56.3 named what going forth is for —",
+            "this discourse names what it actually yields"
+        ]),
+        ("A subtle shift, reported honestly", [
+            "not mere repetition —",
+            "a genuine change in grammar, noticed directly"
+        ]),
+        ("Elision returns", [
+            "\"…pe…\" stands in for what SN 56.3 spelled out —",
+            "this vagga's own more usual compression"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "a new pairing begins next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.3.html\">SN 56.3 &middot; A Gentleman "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.5 — Paṭhamasamaṇabrāhmaṇasutta ("Ascetics and Brahmins (1st)")
+# Confirmed by direct reading: the fifth discourse, widening SN
+# 56.3-4's own claim about gentlemen who go forth to all ascetics and
+# brahmins who truly awaken, regardless of tradition.
+# --------------------------------------------------------------------------- #
+page(
+    56, 5, "Paṭhamasamaṇabrāhmaṇa", "Ascetics and Brahmins (1st)",
+    vagga="Samādhivagga",
+    meta_title="SN 56.5 — Ascetics and Brahmins (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; any ascetic or brahmin who has ever "
+        "truly awakened, past, future, or present, has awakened to "
+        "the four noble truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.4's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A threefold claim across past, future, and "
+                 "present, partly elided"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fifth of "
+                         "ten discourses, widening the claim beyond "
+                         "gentlemen who go forth to ascetics and "
+                         "brahmins of any tradition"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse widens SN "
+        "56.3-4's own claim: rather than restricting itself to "
+        "gentlemen who go forth within this teaching, it names any "
+        "ascetic or brahmin whatsoever &mdash; across past, future, "
+        "and present &mdash; who has ever truly awakened, and claims "
+        "that whatever such awakening consists of, it is awakening "
+        "to the four noble truths specifically."
+    ),
+    guide=[
+        ("A claim widened beyond this teaching's own followers", [
+            "This project's own reading: unlike SN 56.3-4, which "
+            "spoke of gentlemen who go forth (implicitly, within "
+            "this teaching), this discourse names &ldquo;ascetics "
+            "and brahmins&rdquo; without qualification &mdash; a "
+            "term this project notes elsewhere in the wider canon "
+            "sometimes includes teachers outside the Buddha's own "
+            "tradition, making this discourse's own claim genuinely "
+            "universal in scope rather than sectarian.",
+        ]),
+    ],
+    terms=[
+        ("samaṇā vā brāhmaṇā vā", "&ldquo;ascetics or "
+             "brahmins&rdquo; &mdash; this discourse's own "
+             "unqualified term, wider than SN 56.3-4's own "
+             "\"gentlemen who go forth\""),
+        ("yathābhūtaṁ abhisambojjhiṁsu", "&ldquo;truly "
+             "awakened&rdquo; &mdash; this discourse's own verb, "
+             "sharing its own root with &ldquo;bodhi&rdquo; "
+             "(awakening) itself"),
+        ("cattāri ariyasaccāni yathābhūtaṁ abhisambojjhanti", "&ldquo;"
+             "truly awaken to the four noble truths&rdquo; &mdash; "
+             "this discourse's own claim about what such awakening "
+             "always turns out to be"),
+        ("…", "the elision marking, standing in for the repeated "
+             "temporal refrain and the four truths' own full listing"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.5:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own scope compare to SN 56.3-4's own \"gentlemen who go forth\"?",
+         "opts": ["It widens the claim to any ascetic or brahmin whatsoever, an unqualified and genuinely universal term", "It narrows the claim to a single named individual", "It excludes gentlemen entirely, addressing only laypeople", "It is identical in scope with no meaningful difference"],
+         "correct": 0,
+         "expl": "This project's own reading of a genuine widening in scope, noted rather than assumed identical."},
+        {"q": "What root does the verb \"abhisambojjhiṁsu\" (\"truly awakened\") share?",
+         "opts": ["The same root as \"bodhi\" (awakening) itself", "The same root as \"dukkha\" (suffering)", "The same root as \"samādhi\" (immersion)", "No shared root with any other term in this saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the term's own etymology."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fifth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Pañcamaṁ\" (\"fifth\")."},
+    ],
+    marginalia=[
+        ("Beyond this teaching's own followers", [
+            "\"ascetics or brahmins\" — unqualified —",
+            "a genuinely universal claim, not a sectarian one"
+        ]),
+        ("A root shared with awakening itself", [
+            "\"abhisambojjhiṁsu\" — bodhi's own family —",
+            "true awakening, whoever attains it"
+        ]),
+        ("The same four truths, wider door", [
+            "not only gentlemen who go forth —",
+            "any who truly awaken, by this discourse's own claim"
+        ]),
+        ("Fifth of ten", [
+            "the vagga's own midpoint approaches —",
+            "a companion piece follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.4.html\">SN 56.4 &middot; A Gentleman "
+        "(2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.6 — Dutiyasamaṇabrāhmaṇasutta ("Ascetics and Brahmins (2nd)")
+# Confirmed by direct reading: companion to SN 56.5, shifting from
+# private awakening to public proclamation of that awakening.
+# --------------------------------------------------------------------------- #
+page(
+    56, 6, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Samādhivagga",
+    meta_title="SN 56.6 — Ascetics and Brahmins (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; companion to SN 56.5, shifting from "
+        "private awakening to public proclamation of that awakening. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.5's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A threefold claim across past, future, and "
+                 "present, partly elided"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the sixth of ten "
+                         "discourses, closing this vagga's own "
+                         "opening trio of paired discourses"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.5, this "
+        "discourse shifts from private awakening to its own public "
+        "declaration: any ascetic or brahmin who has ever "
+        "&ldquo;revealed&rdquo; or &ldquo;proclaimed&rdquo; that they "
+        "are awakened, this discourse claims, has thereby proclaimed "
+        "awakening to the four noble truths specifically &mdash; "
+        "shifting attention from the fact of realization to the act "
+        "of announcing it."
+    ),
+    guide=[
+        ("From awakening itself to its own proclamation", [
+            "This project's own direct comparison against SN 56.5: "
+            "that discourse concerned the fact of true awakening "
+            "itself; this discourse instead concerns the "
+            "<em>proclamation</em> of having awakened &mdash; a "
+            "distinct act, since a claim to awakening could in "
+            "principle be made falsely, though this discourse itself "
+            "does not raise that possibility explicitly.",
+        ]),
+    ],
+    terms=[
+        ("yathābhūtaṁ abhisambuddhaṁ pakāsesuṁ", "&ldquo;revealed "
+             "that they are truly awakened&rdquo; &mdash; this "
+             "discourse's own verb, shifted from SN 56.5's own "
+             "\"truly awakened\" to a public act of proclamation"),
+        ("pakāsesuṁ", "&ldquo;revealed, proclaimed, made "
+             "known&rdquo; &mdash; the key shift from private "
+             "attainment to public declaration"),
+        ("cattāri ariyasaccāni yathābhūtaṁ abhisambuddhaṁ pakāsenti",
+             "&ldquo;proclaim that they are truly awakened to the "
+             "four noble truths&rdquo; &mdash; this discourse's own "
+             "claim about what any such proclamation always turns "
+             "out to concern"),
+        ("…", "the elision marking, standing in for the repeated "
+             "temporal refrain and the four truths' own full listing"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.6:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own concern differ from SN 56.5's own concern, per this project's own direct comparison?",
+         "opts": ["It shifts from the fact of true awakening itself to its own public proclamation", "It denies that awakening is possible at all", "It concerns only the Buddha's own personal awakening, no one else's", "It is addressed exclusively to laypeople"],
+         "correct": 0,
+         "expl": "This project's own reading of a genuine shift from attainment to its own declaration."},
+        {"q": "What does \"pakāsesuṁ\" mean?",
+         "opts": ["Revealed, proclaimed, made known", "Concealed, hid", "Doubted, questioned", "Forgot, lost track of"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the key term marking this discourse's own shift to public declaration."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence, and what trio does it close?",
+         "opts": ["The sixth, closing this vagga's own opening trio of paired discourses (SN 56.1-2, 56.3-4, 56.5-6)", "The first, opening the vagga", "The final, tenth, closing the vagga", "It stands outside any pairing structure"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order and this project's own tracked pairing pattern."},
+    ],
+    marginalia=[
+        ("From attainment to declaration", [
+            "SN 56.5 concerned awakening itself —",
+            "this discourse concerns its own proclamation"
+        ]),
+        ("A public act, not raised as suspect", [
+            "the discourse does not question false claims —",
+            "this project notes the gap without overreading it"
+        ]),
+        ("A third pairing, now complete", [
+            "56.1-2, 56.3-4, 56.5-6 —",
+            "this vagga's own opening structure, confirmed directly"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "a shift in topic follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.5.html\">SN 56.5 &middot; Ascetics and "
+        "Brahmins (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.7 — Vitakkasutta ("Thoughts")
+# Confirmed by direct reading: the seventh discourse, this vagga's
+# own turn from claims about who comprehends the truths to direct
+# instruction about what to think.
+# --------------------------------------------------------------------------- #
+page(
+    56, 7, "Vitakka", "Thoughts",
+    vagga="Samādhivagga",
+    meta_title="SN 56.7 — Thoughts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vitakkasutta &mdash; don't think sensual, malicious, or "
+        "cruel thoughts; think instead of the four noble truths. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.6's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A direct prohibition, its own reason given, then a "
+                 "direct instruction, its own reason given"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the seventh "
+                         "of ten discourses, this vagga's own turn "
+                         "to direct instruction about the content of "
+                         "thought itself"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse marks a turn in "
+        "this vagga's own opening sequence: rather than making a "
+        "claim about who comprehends the four truths (as SN 56.1-6 "
+        "did), it directly instructs against three named categories "
+        "of unskillful thought &mdash; sensual, malicious, and cruel "
+        "&mdash; and directly instructs toward thinking of the four "
+        "truths instead, each instruction accompanied by its own "
+        "stated reason."
+    ),
+    guide=[
+        ("Three named unskillful thoughts", [
+            "Confirmed by direct reading, this discourse names "
+            "exactly three kinds of thought to avoid: sensual "
+            "(kāma), malicious (byāpāda), and cruel (vihiṁsā) "
+            "&mdash; a standard threefold grouping this project "
+            "notes recurs elsewhere in the canon as the three wrong "
+            "resolves, opposite to the three right resolves of right "
+            "intention.",
+        ]),
+        ("A reason given on both sides", [
+            "This project's own reading: unlike SN 56.1-6, which "
+            "stated their own claims without argument, this "
+            "discourse gives an explicit reason for both the "
+            "prohibition and the instruction &mdash; unskillful "
+            "thoughts do not lead to disillusionment, dispassion, "
+            "cessation, peace, insight, awakening, or extinguishment; "
+            "thinking of the four truths does.",
+        ]),
+    ],
+    terms=[
+        ("mā...pāpake akusale vitakke vitakkeyyātha", "&ldquo;don't "
+             "think bad, unskillful thoughts&rdquo; &mdash; this "
+             "discourse's own opening prohibition"),
+        ("kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ", "&ldquo;"
+             "sensual, malicious, and cruel thoughts&rdquo; &mdash; "
+             "the three named categories, a standard grouping "
+             "elsewhere paired with the three right resolves"),
+        ("nibbidāya...virāgāya...nirodhāya...upasamāya...abhiññāya"
+         "...sambodhāya...nibbānāya", "&ldquo;disillusionment... "
+             "dispassion...cessation...peace...insight...awakening... "
+             "extinguishment&rdquo; &mdash; the sevenfold benefit "
+             "this discourse's own reasoning turns on"),
+        ("vitakkentā...vitakkeyyātha", "&ldquo;when you think, you "
+             "should think [of the four truths]&rdquo; &mdash; this "
+             "discourse's own positive instruction"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.7:1.1-1.4"),
+        ("p", "&sect;2", "sn56.7:2.1-2.3"),
+        ("p", "&sect;3", "sn56.7:3.1"),
+    ],
+    quiz=[
+        {"q": "What three kinds of thought does this discourse instruct against?",
+         "opts": ["Sensual, malicious, and cruel thoughts", "Wise, compassionate, and generous thoughts", "Thoughts about the four noble truths themselves", "Thoughts about immersion, as at SN 56.1"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a standard threefold grouping, opposite to the three right resolves."},
+        {"q": "How does this discourse's own structure differ from SN 56.1-6, per this project's own reading?",
+         "opts": ["It gives an explicit reason for both its prohibition and its instruction, where the earlier discourses stated their claims without argument", "It is written entirely in verse", "It abandons the four-truths refrain entirely", "It is addressed to laypeople rather than mendicants"],
+         "correct": 0,
+         "expl": "This project's own reading of a structural turn within this vagga's own opening sequence."},
+        {"q": "What sevenfold benefit does this discourse's own reasoning turn on?",
+         "opts": ["Disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment", "Wealth, fame, health, longevity, beauty, intelligence, and eloquence", "The seven factors of awakening, treated in an earlier saṃyutta", "The seven days of a standard teaching retreat"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the standard sevenfold formula this discourse cites as its own reason."},
+    ],
+    marginalia=[
+        ("Three thoughts to set aside", [
+            "sensual, malicious, cruel —",
+            "opposite the three right resolves"
+        ]),
+        ("A reason given, not merely asserted", [
+            "unlike SN 56.1-6's own bare claims —",
+            "this discourse explains itself on both sides"
+        ]),
+        ("What thought should turn toward instead", [
+            "the four truths, thought rather than merely known —",
+            "practice reaching into the mind's own content"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "a companion follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.6.html\">SN 56.6 &middot; Ascetics and "
+        "Brahmins (2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.8 — Cintasutta ("Thought")
+# Confirmed by direct reading: companion to SN 56.7, naming the ten
+# classical speculative views (avyākata, "undeclared points") as the
+# specific content of unskillful thought this time.
+# --------------------------------------------------------------------------- #
+page(
+    56, 8, "Cinta", "Thought",
+    vagga="Samādhivagga",
+    meta_title="SN 56.8 — Thought | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cintasutta &mdash; the ten classical speculative views "
+        "the Buddha left undeclared, named here directly as "
+        "unprofitable thought. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.7's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A direct prohibition naming ten specific "
+                 "propositions, its own reason given, then a direct "
+                 "instruction, its own reason given"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "eighth of ten discourses, naming the ten "
+                         "classical speculative views elsewhere left "
+                         "undeclared (avyākata) by the Buddha"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names ten "
+        "specific propositions this project recognizes as the "
+        "classical set of speculative views the Buddha is elsewhere "
+        "recorded refusing to declare (avyākata, &ldquo;undeclared "
+        "points&rdquo;): whether the cosmos is eternal or not, "
+        "finite or infinite, whether the soul and body are the same "
+        "or different, and four positions on a realized one's own "
+        "existence after death &mdash; naming them here directly as "
+        "the content of bad, unskillful thought."
+    ),
+    guide=[
+        ("The ten undeclared points, named directly", [
+            "This project's own recognition: the classical list of "
+            "speculative views the Buddha elsewhere refuses to "
+            "answer (most famously in the Cūḷamālukyasutta, MN 63) "
+            "appears here not as a list he declines to address, but "
+            "as a named example of thought this discourse instructs "
+            "against outright &mdash; a different framing of the "
+            "same material, this project notes without conflating "
+            "the two discourses' own distinct purposes.",
+        ]),
+        ("Four positions on a realized one after death", [
+            "This project's own reading: the final four propositions "
+            "&mdash; a realized one (tathāgata) exists after death, "
+            "does not, both does and does not, or neither does nor "
+            "does not &mdash; form a standard tetralemma (catuṣkoṭi) "
+            "structure this project notes recurs across multiple "
+            "canonical discussions of this same undeclared question.",
+        ]),
+    ],
+    terms=[
+        ("pāpakaṁ akusalaṁ cittaṁ cinteyyātha", "&ldquo;think up a "
+             "bad, unskillful idea&rdquo; &mdash; this discourse's "
+             "own opening prohibition"),
+        ("sassato loko...asassato loko", "&ldquo;the cosmos is "
+             "eternal...or not eternal&rdquo; &mdash; the first pair "
+             "of the ten classical undeclared points"),
+        ("hoti tathāgato paraṁ maraṇā...na hoti...hoti ca na ca "
+         "hoti...neva hoti na na hoti", "&ldquo;a realized one still "
+             "exists after death...does not...both...neither&rdquo; "
+             "&mdash; the standard tetralemma on the undeclared "
+             "question of a realized one's own postmortem status"),
+        ("nādibrahmacariyakā", "&ldquo;not relevant to the "
+             "fundamentals of the spiritual life&rdquo; &mdash; this "
+             "discourse's own stated reason for the prohibition"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.8:1.1-1.4"),
+        ("p", "&sect;2", "sn56.8:2.1-2.3"),
+        ("p", "&sect;3", "sn56.8:3.1"),
+    ],
+    quiz=[
+        {"q": "What classical set of propositions does this discourse name as the content of unskillful thought, per this project's own recognition?",
+         "opts": ["The ten speculative views the Buddha is elsewhere recorded refusing to declare (avyākata), most famously in the Cūḷamālukyasutta", "An entirely original list found nowhere else in the canon", "The four noble truths themselves, stated as unskillful", "The three unskillful thoughts already named at SN 56.7"],
+         "correct": 0,
+         "expl": "This project's own recognition of the classical \"undeclared points,\" here framed differently than elsewhere."},
+        {"q": "What structure do the final four propositions (about a realized one's own status after death) form?",
+         "opts": ["A standard tetralemma (catuṣkoṭi): exists, does not, both, neither", "A simple binary: exists or does not, with no further options", "A single unqualified assertion that a realized one continues to exist", "An open question left entirely without any listed positions"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the four-cornered structure recurring across multiple canonical discussions of this question."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The eighth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Aṭṭhamaṁ\" (\"eighth\")."},
+    ],
+    marginalia=[
+        ("The undeclared points, named directly", [
+            "eternal or not, finite or infinite —",
+            "the classical list, framed here as unskillful thought"
+        ]),
+        ("A four-cornered question", [
+            "exists, does not, both, neither —",
+            "the tetralemma on a realized one after death"
+        ]),
+        ("A different framing, noted honestly", [
+            "elsewhere left undeclared, here named directly —",
+            "the same material, a distinct purpose"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "arguments, then low talk, still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.7.html\">SN 56.7 &middot; Thoughts</a> "
+        "&mdash; the previous discourse, this discourse's own "
+        "companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.9 — Viggāhikakathāsutta ("Arguments")
+# Confirmed by direct reading: the ninth discourse, its own quoted
+# dialogue giving this saṃyutta's own only extended piece of reported
+# speech so far -- a caricature of quarrelsome debate.
+# --------------------------------------------------------------------------- #
+page(
+    56, 9, "Viggāhikakathā", "Arguments",
+    vagga="Samādhivagga",
+    meta_title="SN 56.9 — Arguments | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viggāhikakathāsutta &mdash; a vivid caricature of "
+        "quarrelsome debate, set against discussing the four noble "
+        "truths instead. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.8's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly, "
+                     "quoting a caricature of quarrelsome speech"),
+        ("Form", "A direct prohibition, its own quoted example given "
+                 "in full, then a direct instruction"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the ninth of "
+                         "ten discourses, its own quoted dialogue the "
+                         "most vivid piece of reported speech in this "
+                         "vagga so far"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse instructs "
+        "against quarrelsome debate, and quotes in full the very "
+        "words such an argument would use &mdash; a string of "
+        "escalating jabs (&ldquo;you don't understand this teaching, "
+        "I do,&rdquo; &ldquo;you're practicing wrong, I'm practicing "
+        "right,&rdquo; &ldquo;go on, save your doctrine!&rdquo;) &mdash; "
+        "this project's own most vivid piece of quoted speech "
+        "encountered in this vagga."
+    ),
+    guide=[
+        ("A caricature quoted in full", [
+            "This project's own reading: rather than merely naming "
+            "quarrelsome debate as unskillful, this discourse quotes "
+            "an escalating string of debate-tactics word for word "
+            "&mdash; accusations of misunderstanding, claims of "
+            "correct practice, complaints about argument order, "
+            "declarations of victory &mdash; a vividness this project "
+            "notes stands out against this vagga's own more abstract "
+            "companions.",
+        ]),
+    ],
+    terms=[
+        ("viggāhikakathaṁ katheyyātha", "&ldquo;get into "
+             "arguments&rdquo; &mdash; this discourse's own opening "
+             "prohibition"),
+        ("na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ "
+         "ājānāmi", "&ldquo;you don't understand this teaching and "
+             "training, I understand this teaching and "
+             "training&rdquo; &mdash; the quoted dialogue's own "
+             "opening jab"),
+        ("micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno", "&ldquo;"
+             "you're practicing wrong, I'm practicing right&rdquo; "
+             "&mdash; the quoted dialogue's own escalation"),
+        ("āropito te vādo, cara vādappamokkhāya", "&ldquo;your "
+             "doctrine is refuted, go on, save your doctrine!&rdquo; "
+             "&mdash; the quoted dialogue's own closing taunt"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself leaves the closing "
+        "instruction compressed with an elision back to SN 56.7's "
+        "own full statement. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.9:1.1-1.4"),
+        ("p", "&sect;2", "sn56.9:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse present its own prohibition against quarrelsome debate, per this project's own reading?",
+         "opts": ["It quotes an escalating string of debate-tactics word for word, more vivid than this vagga's own more abstract companions", "It merely names the prohibition with no further elaboration", "It presents the argument as a legitimate teaching method", "It is addressed only to a single named debater"],
+         "correct": 0,
+         "expl": "This project's own reading of this discourse's own distinctively vivid quoted dialogue."},
+        {"q": "What does the quoted dialogue's own closing line say?",
+         "opts": ["\"Your doctrine is refuted, go on, save your doctrine!\"", "\"Let us discuss this calmly and reach agreement.\"", "\"I concede the argument; you are correct.\"", "\"This topic is not worth debating at all.\""],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the quoted dialogue's own final taunt."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Navamaṁ\" (\"ninth\")."},
+    ],
+    marginalia=[
+        ("A caricature, quoted in full", [
+            "escalating jabs, word for word —",
+            "the most vivid speech in this vagga so far"
+        ]),
+        ("\"Go on, save your doctrine!\"", [
+            "the taunt that closes the quoted exchange —",
+            "recognizable across any era's own arguments"
+        ]),
+        ("What discussion should turn toward instead", [
+            "the four truths, not victory in debate —",
+            "this discourse's own positive instruction"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "closing it next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.8.html\">SN 56.8 &middot; Thought</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.10 — Tiracchānakathāsutta ("Low Talk")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 1 ("Samādhivaggo paṭhamo"), ten discourses,
+# with its own closing uddāna confirmed to match SN 56.1-10 exactly.
+# --------------------------------------------------------------------------- #
+page(
+    56, 10, "Tiracchānakathā", "Low Talk",
+    vagga="Samādhivagga",
+    meta_title="SN 56.10 — Low Talk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tiracchānakathāsutta &mdash; the closing discourse of "
+        "Vagga 1, cataloguing worldly talk to avoid in favor of "
+        "discussing the four noble truths. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.9's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A long catalogue of worldly topics, its own reason "
+                 "given, then a direct instruction, then this "
+                 "vagga's own closing colophon and uddāna"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "confirmed by direct reading of the root "
+                         "colophon as the close of Vagga 1, ten "
+                         "discourses"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 1 (&ldquo;Samādhivaggo "
+        "paṭhamo&rdquo;) with an extensive catalogue of ordinary "
+        "worldly talk &mdash; kings, bandits, armies, food, clothes, "
+        "family, villages, women and heroes, gossip at the well, the "
+        "departed, tales of land and sea &mdash; all instructed "
+        "against in favor of discussing the four noble truths, "
+        "closing this vagga's own opening sequence with its own "
+        "widest catalogue yet."
+    ),
+    guide=[
+        ("The widest catalogue in this vagga", [
+            "Confirmed by direct reading, this discourse's own list "
+            "of worldly topics is by far the longest and most "
+            "concrete in this vagga &mdash; specific enough to name "
+            "gossip &ldquo;at the well&rdquo; and talk about "
+            "&ldquo;women and heroes&rdquo; &mdash; closing this "
+            "vagga's own progression from abstract claims about who "
+            "comprehends the truths (SN 56.1-6) through instructions "
+            "about thought and debate (SN 56.7-9) to this final, "
+            "most vivid instruction about ordinary conversation "
+            "itself.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.1-10", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing uddāna (&ldquo;Immersion, retreat, two more "
+            "gentlemen; ascetics and brahmins, thought, thinking, "
+            "arguing, and talk&rdquo;) lists exactly ten titles, "
+            "matching this project's own SN 56.1 through SN 56.10 "
+            "precisely.",
+        ]),
+    ],
+    terms=[
+        ("anekavihitaṁ tiracchānakathaṁ", "&ldquo;all kinds of low "
+             "talk&rdquo; &mdash; this discourse's own subject, "
+             "literally speech that goes \"sideways\" or "
+             "\"crosswise\" from the path"),
+        ("rājakathaṁ corakathaṁ...ñātikathaṁ yānakathaṁ", "&ldquo;"
+             "talk about kings, bandits...family, vehicles&rdquo; "
+             "&mdash; a sample from this discourse's own extensive "
+             "catalogue"),
+        ("itthikathaṁ sūrakathaṁ visikhākathaṁ kumbhaṭṭhānakathaṁ",
+             "&ldquo;talk about women and heroes; street talk and "
+             "talk at the well&rdquo; &mdash; among this discourse's "
+             "own most concrete, socially specific examples"),
+        ("dasamaṁ. samādhivaggo paṭhamo", "&ldquo;tenth. the first "
+             "vagga [ends]&rdquo; &mdash; the root colophon's own "
+             "vagga-closing marker"),
+        ("samādhi paṭisallānā, kulaputtā apare duve; samaṇabrāhmaṇā "
+         "vitakkaṁ, cintā viggāhikā kathāti", "the closing uddāna's "
+             "own ten titles, confirmed by direct reading to match "
+             "SN 56.1 through SN 56.10 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. The vagga-closing colophon and "
+        "uddāna verse are left untranslated in the consulted English "
+        "source, as at several earlier vagga closes throughout this "
+        "project's own work. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.10:1.1-1.4"),
+        ("p", "&sect;2", "sn56.10:2.1-2.3"),
+        ("p", "&sect;3", "sn56.10:3.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 1 (\"Samādhivaggo paṭhamo\"), ten discourses", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 2, not Vagga 1"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "How does this discourse's own catalogue of worldly talk compare to its own companions earlier in this vagga, per this project's own reading?",
+         "opts": ["It is by far the longest and most socially concrete, naming specific examples like gossip \"at the well\"", "It is shorter and more abstract than every discourse preceding it", "It contains no catalogue at all, only a single prohibited topic", "It repeats SN 56.8's own list of speculative views exactly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this vagga's own widest and most vivid catalogue, closing its own progression."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 56.1-10?",
+         "opts": ["Its own ten listed titles match this project's own ten discourses exactly", "It lists only nine titles, contradicting this project's own count of ten", "It lists titles from an entirely different vagga", "The uddāna is left untranslated with no titles given at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure."},
+    ],
+    marginalia=[
+        ("The widest catalogue yet", [
+            "kings, bandits, food, family, gossip at the well —",
+            "the most concrete list in this vagga"
+        ]),
+        ("From abstract claim to ordinary talk", [
+            "SN 56.1-6 asked who comprehends —",
+            "this discourse asks what to talk about"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Samādhivaggo paṭhamo\" — the first vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("Vagga 1 complete, ten more to come", [
+            "the Dhammacakkappavattanavagga follows next —",
+            "this saṃyutta's own most famous discourse awaits"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.9.html\">SN 56.9 &middot; Arguments</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-56.1.html\">SN 56.1 &middot; Immersion</a> "
+        "&mdash; this vagga's own opening discourse.",
     ],
 )
