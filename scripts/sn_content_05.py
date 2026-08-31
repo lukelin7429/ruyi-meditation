@@ -57233,3 +57233,298 @@ page_range(
         "this book is still in preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54 (Ānāpānasaṁyutta, "Linked Discourses on Mindfulness of
+# Breathing") -- confirmed by direct bilara-data listing to be
+# structured as 20 individual discourses (unlike SN 53's own five
+# merged peyyāla files), across 2 vaggas: Ekadhammavagga (54.1-10)
+# and Dutiyavagga (54.11-20), confirmed by direct reading of each
+# file's own "0.2" vagga field, not assumed from the file count.
+#
+# SN 54.1 — Ekadhammasutta ("One Thing")
+# The canonical sixteen-step ānāpānasati formula, given here in full
+# for the first time in this book: four tetrads of four steps each,
+# mapping breath-mindfulness onto the four satipaṭṭhānas (body,
+# feeling, mind, principles) already translated in full earlier in
+# this project's own work. Confirmed by direct reading to be this
+# saṃyutta's own opening, foundational discourse -- the same
+# sixteen-step formula also found at MN 118 (Ānāpānassatisutta),
+# though no direct comparison to that text has been made by this
+# project.
+# --------------------------------------------------------------------------- #
+page(
+    54, 1, "Ekadhamma", "One Thing",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.1 — One Thing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ekadhammasutta &mdash; the canonical sixteen-step "
+        "mindfulness-of-breathing formula, opening the "
+        "Ānāpānasaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The complete sixteen-step ānāpānasati formula, in "
+                 "four tetrads of four steps each"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check; the same "
+                              "formula recurs at MN 118, not "
+                              "directly compared here"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; opens the entire Ānāpānasaṃyutta "
+                         "with the full, foundational sixteen-step "
+                         "breathing-meditation formula"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens the "
+        "Ānāpānasaṃyutta (Book V's own tenth saṃyutta) by giving "
+        "the complete, classic sixteen-step ānāpānasati formula: "
+        "four tetrads of four steps, mapping mindfulness of "
+        "breathing directly onto the four satipaṭṭhānas &mdash; "
+        "body, feeling, mind, and principles &mdash; already "
+        "translated in full earlier in this project's own work on "
+        "Book V's Satipaṭṭhānasaṃyutta."
+    ),
+    guide=[
+        ("Four tetrads, one breath", [
+            "Confirmed by direct reading, the formula unfolds in "
+            "four groups of four steps each: the first tetrad "
+            "(long/short breath, experiencing the whole body, "
+            "stilling the bodily process) maps onto body-"
+            "contemplation; the second (experiencing rapture, bliss, "
+            "the mental process, stilling it) onto feeling; the "
+            "third (experiencing the mind, gladdening it, "
+            "immersing it, freeing it) onto mind; and the fourth "
+            "(observing impermanence, fading away, cessation, "
+            "letting go) onto principles &mdash; sixteen steps in "
+            "all, each practiced on both the in-breath and the "
+            "out-breath.",
+        ]),
+        ("A bare frame, no narrative", [
+            "Confirmed by direct reading, this discourse carries no "
+            "setting beyond &ldquo;At Sāvatthī&rdquo; and no "
+            "interlocutor at all &mdash; the Buddha simply "
+            "addresses the mendicants directly, matching this "
+            "project's own recurring observation of Book V's own "
+            "bare structural style for foundational, doctrine-"
+            "stating discourses.",
+        ]),
+        ("The saṃyutta's own name and opening vagga, confirmed directly", [
+            "Confirmed by direct reading of this file's own "
+            "&ldquo;0.2&rdquo; vagga field (&ldquo;Ekadhammavagga,"
+            "&rdquo; &ldquo;the One-Thing chapter&rdquo;) and its "
+            "own closing ordinal (&ldquo;Paṭhamaṁ,&rdquo; "
+            "&ldquo;first&rdquo;), this discourse opens both the "
+            "saṃyutta's own first vagga and the saṃyutta itself.",
+        ]),
+    ],
+    terms=[
+        ("ānāpānassati", "&ldquo;mindfulness of breathing&rdquo; "
+             "&mdash; this saṃyutta's own governing subject and "
+             "this discourse's own &ldquo;one thing&rdquo;"),
+        ("dīghaṁ vā assasanto...rassaṁ vā assasanto", "&ldquo;"
+             "breathing in heavily...breathing in lightly&rdquo; "
+             "&mdash; the formula's own opening pair, simply "
+             "knowing the breath's own length"),
+        ("sabbakāyappaṭisaṁvedī", "&ldquo;experiencing the whole "
+             "body&rdquo; &mdash; the first tetrad's own third step, "
+             "extending awareness beyond the breath alone"),
+        ("pītippaṭisaṁvedī...sukhappaṭisaṁvedī", "&ldquo;"
+             "experiencing rapture...experiencing bliss&rdquo; "
+             "&mdash; the second tetrad's own opening steps, mapping "
+             "onto feeling-contemplation"),
+        ("aniccānupassī...paṭinissaggānupassī", "&ldquo;observing "
+             "impermanence...observing letting go&rdquo; &mdash; "
+             "the fourth tetrad's own four steps, mapping onto "
+             "contemplation of principles, the formula's own most "
+             "advanced stage"),
+    ],
+    text_intro=("The complete sixteen-step formula, given here in "
+        "full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.1:1.1"),
+        ("p", "&sect;2", "sn54.1:1.3-1.8"),
+        ("p", "First tetrad", "sn54.1:2.1-2.4"),
+        ("p", "Second tetrad", "sn54.1:3.1-3.4"),
+        ("p", "Third tetrad", "sn54.1:4.1-4.4"),
+        ("p", "Fourth tetrad", "sn54.1:4.5-5.4"),
+        ("p", "&sect;3", "sn54.1:6.1"),
+    ],
+    quiz=[
+        {"q": "How many steps does the ānāpānasati formula given here contain, and how are they grouped?",
+         "opts": ["Sixteen steps, in four tetrads of four each", "Four steps only, one per satipaṭṭhāna", "Eight steps, in two groups of four", "Thirty-two steps, in eight groups of four"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: four tetrads, sixteen steps, each practiced on both in-breath and out-breath."},
+        {"q": "What do the four tetrads of this formula map onto, according to this project's own cross-reference?",
+         "opts": ["The four satipaṭṭhānas — body, feeling, mind, and principles — already translated in full in this project's own Satipaṭṭhānasaṃyutta work", "The four jhānas, just translated in full in SN 53", "The four right efforts", "The four bases of psychic power"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: body-, feeling-, mind-, and principle-contemplation, in that order."},
+        {"q": "What structural role does this discourse play in the Ānāpānasaṃyutta, confirmed by direct reading of its own vagga field and closing ordinal?",
+         "opts": ["It opens both the saṃyutta's own first vagga (Ekadhammavagga) and the saṃyutta itself", "It closes the entire saṃyutta", "It belongs to the saṃyutta's own second vagga", "It is a merged peyyāla range, not an individual discourse"],
+         "correct": 0,
+         "expl": "Confirmed directly — \"Ekadhammavagga\" and \"Paṭhamaṁ\" (first), an opening discourse."},
+    ],
+    marginalia=[
+        ("Sixteen steps, one breath", [
+            "long or short, known simply —",
+            "the whole path folded into breathing"
+        ]),
+        ("Four tetrads, four foundations", [
+            "body, feeling, mind, principles —",
+            "each mapped onto the breath itself"
+        ]),
+        ("No setting, no interlocutor", [
+            "just \"at Sāvatthī,\" then the teaching —",
+            "doctrine stated plainly, without frame"
+        ]),
+        ("A tenth saṃyutta begins", [
+            "absorption's own saṃyutta now behind it —",
+            "breath itself takes the stage"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.2 — Bojjhaṅgasutta ("Awakening Factors")
+# Confirmed by direct reading: ties mindfulness of breathing to the
+# seven awakening factors (bojjhaṅga), compressed via "…pe…" for the
+# middle five factors, but confirmed complete by the English source
+# naming all seven explicitly.
+# --------------------------------------------------------------------------- #
+page(
+    54, 2, "Bojjhaṅga", "Awakening Factors",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.2 — Awakening Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bojjhaṅgasutta &mdash; mindfulness of breathing "
+        "developed together with the seven awakening factors. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 54.1)"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A compressed formula naming all seven awakening "
+                 "factors, the middle five elided via &ldquo;…pe…"
+                 "&rdquo; in the root Pāli but given in full by the "
+                 "English source"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; ties "
+                         "mindfulness of breathing directly to the "
+                         "seven factors of awakening, a second major "
+                         "doctrinal framework mapped onto the same "
+                         "practice"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse ties "
+        "mindfulness of breathing to the seven awakening factors "
+        "(bojjhaṅga: mindfulness, investigation of principles, "
+        "energy, rapture, tranquility, immersion, equanimity) "
+        "&mdash; a second major doctrinal framework, alongside SN "
+        "54.1's own mapping onto the four satipaṭṭhānas, shown to "
+        "be developed through this same one practice."
+    ),
+    guide=[
+        ("Seven factors, one closing formula", [
+            "Confirmed by direct reading, each of the seven "
+            "awakening factors is developed &ldquo;together with "
+            "mindfulness of breathing&rdquo; and closes with the "
+            "identical formula already met throughout this book: "
+            "&ldquo;relying on seclusion, fading away, and "
+            "cessation, ripening as letting go.&rdquo;",
+        ]),
+        ("A genuine compression, confirmed complete by the English source", [
+            "This project's own direct comparison: the root Pāli "
+            "elides the middle five factors (investigation of "
+            "principles through immersion) via &ldquo;…pe…&rdquo; "
+            "after naming only mindfulness and the seventh, "
+            "equanimity &mdash; but the English source spells out "
+            "all seven by name, confirming no factor is genuinely "
+            "missing from this discourse's own teaching.",
+        ]),
+    ],
+    terms=[
+        ("ānāpānassatisahagataṁ satisambojjhaṅgaṁ", "&ldquo;the "
+             "awakening factor of mindfulness, together with "
+             "mindfulness of breathing&rdquo; &mdash; the formula's "
+             "own first factor, opening the sevenfold list"),
+        ("dhammavicayasambojjhaṅga", "&ldquo;the awakening factor of "
+             "investigation of principles&rdquo; &mdash; the second "
+             "factor, named by the English source though elided in "
+             "the root Pāli"),
+        ("vīriya...pīti...passaddhi...samādhi", "&ldquo;energy... "
+             "rapture...tranquility...immersion&rdquo; &mdash; the "
+             "third through sixth factors, likewise named only by "
+             "the English source"),
+        ("upekkhāsambojjhaṅga", "&ldquo;the awakening factor of "
+             "equanimity&rdquo; &mdash; the seventh and final "
+             "factor, the only one besides mindfulness the root "
+             "Pāli itself names explicitly"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ "
+         "vossaggapariṇāmiṁ", "&ldquo;relying on seclusion, fading "
+             "away, and cessation, ripening as letting go&rdquo; "
+             "&mdash; the closing formula shared by all seven "
+             "factors, identical to this formula's own use "
+             "throughout this book"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which names all seven factors "
+        "explicitly despite the root Pāli's own elision. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.2:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What second doctrinal framework does this discourse tie mindfulness of breathing to, alongside SN 54.1's own four satipaṭṭhānas?",
+         "opts": ["The seven awakening factors (bojjhaṅga) — mindfulness, investigation, energy, rapture, tranquility, immersion, equanimity", "The five faculties, already treated in SN 48", "The eightfold path, already treated in SN 45", "The ten Tathāgata powers, already treated in SN 52"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: all seven bojjhaṅga, developed together with breath-mindfulness."},
+        {"q": "What does this project's own direct comparison confirm about the root Pāli's own elision?",
+         "opts": ["The root Pāli elides five middle factors via \"…pe…\", but the English source names all seven explicitly, confirming none is genuinely missing", "Both the Pāli and English sources omit the middle five factors entirely", "The English source also elides factors, matching the Pāli exactly", "The elided factors cannot be determined from either source"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison between the two sources."},
+        {"q": "What closing formula does each of the seven awakening factors share, according to this discourse?",
+         "opts": ["\"Relying on seclusion, fading away, and cessation, ripening as letting go\" — identical to this formula's use throughout this book", "Each factor has its own unique closing formula, none shared", "\"Slanting, sloping, inclining to extinguishment\" — the river-simile formula", "No closing formula is given for any of the seven factors"],
+         "correct": 0,
+         "expl": "The same recurring closing formula this project has met many times across this book."},
+    ],
+    marginalia=[
+        ("Seven factors, one breath", [
+            "mindfulness, investigation, energy, rapture —",
+            "tranquility, immersion, equanimity"
+        ]),
+        ("An elision, not an omission", [
+            "\"…pe…\" hides five factors in the Pāli —",
+            "the English source names them all"
+        ]),
+        ("The same closing words, again", [
+            "seclusion, fading away, cessation, letting go —",
+            "shared by all seven factors here"
+        ]),
+        ("A second framework, one practice", [
+            "satipaṭṭhāna at SN 54.1 —",
+            "bojjhaṅga here, both built on breath"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.1.html\">SN 54.1 &middot; One Thing</a> "
+        "&mdash; the previous discourse, this saṃyutta's own "
+        "opening page.",
+    ],
+)
