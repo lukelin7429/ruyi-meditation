@@ -55553,3 +55553,126 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.18 — Nānādhātusutta ("Diverse Elements")
+# Confirmed by direct reading: the fourth of the ten Tathāgata
+# powers, continuing the sequence confirmed at SN 52.15-17 --
+# knowledge of the world's many and diverse elements.
+# --------------------------------------------------------------------------- #
+page(
+    52, 18, "Nānādhātu", "Diverse Elements",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.18 — Diverse Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nānādhātusutta &mdash; Anuruddha attributes knowledge of "
+        "the world's diverse elements to the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fourth "
+                         "of the ten Tathāgata powers, confirming "
+                         "this vagga's own continued sequential "
+                         "order"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; truly understanding &ldquo;the world with its many "
+        "and diverse elements&rdquo; &mdash; is the fourth of the "
+        "classical ten Tathāgata powers, directly following the "
+        "third at SN 52.17, confirming this project's own tracking "
+        "of this vagga's own sequential order continues intact."
+    ),
+    guide=[
+        ("The fourth power, in sequence", [
+            "This project's own confirmation: this discourse "
+            "continues the exact order already confirmed across SN "
+            "52.15-17, now naming knowledge of the world's own "
+            "diversity of elements.",
+        ]),
+        ("\"Elements\" as fundamental constituents, not merely physical matter", [
+            "This project's own observation: &ldquo;elements&rdquo; "
+            "(dhātu) in this context is a broad technical term "
+            "covering the fundamental constituents underlying "
+            "experience and the cosmos, not simply physical "
+            "substances &mdash; this power is traditionally "
+            "understood as knowledge of the vast variety of realms, "
+            "temperaments, and conditions making up existence.",
+        ]),
+    ],
+    terms=[
+        ("anekadhātunānādhātulokaṁ yathābhūtaṁ pajānāmi", "&ldquo;I "
+             "truly understand the world with its many and diverse "
+             "elements&rdquo; &mdash; this discourse's own precise "
+             "claim, the fourth of the ten Tathāgata powers"),
+        ("dhātu", "&ldquo;element&rdquo; &mdash; a broad technical "
+             "term for a fundamental constituent, not limited to "
+             "physical matter alone"),
+        ("aneka...nānā", "&ldquo;many... diverse&rdquo; &mdash; the "
+             "discourse's own paired qualifiers, emphasizing both "
+             "quantity and variety"),
+        ("loka", "&ldquo;the world&rdquo; &mdash; the discourse's "
+             "own scope, the totality this knowledge encompasses"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.18:1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse's own claim occupy in the ten Tathāgata powers?",
+         "opts": ["The fourth power, directly following the third at SN 52.17", "The first power, contradicting the sequence already established", "A power unrelated to the dasabala list entirely", "The final, tenth power in the traditional list"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: continuing the exact order already tracked across SN 52.15-17."},
+        {"q": "What does this project's own observation say about the meaning of \"elements\" (dhātu) in this context?",
+         "opts": ["A broad technical term for fundamental constituents underlying experience and the cosmos, not limited to physical matter", "A term referring exclusively to the four physical elements of earth, water, fire, and air", "A synonym for the four foundations of mindfulness themselves", "A term with no established technical meaning in this literature"],
+         "correct": 0,
+         "expl": "This project's own observation on the broader technical scope of \"dhātu\" in this discourse's own context."},
+        {"q": "What qualifiers does the discourse use to describe the world's elements?",
+         "opts": ["Many and diverse", "Few and uniform", "Hidden and unknowable", "Temporary and illusory"],
+         "correct": 0,
+         "expl": "\"Many and diverse elements\" — confirmed directly by the text's own phrasing."},
+    ],
+    marginalia=[
+        ("The fourth power, on schedule", [
+            "possible, results, paths, now elements —",
+            "the sequence continues unbroken"
+        ]),
+        ("Not just matter, but constituents of everything", [
+            "\"dhātu\" reaches further than physical stuff —",
+            "realms, temperaments, conditions, all included"
+        ]),
+        ("Many, and diverse", [
+            "not one uniform world —",
+            "a world understood in its own full variety"
+        ]),
+        ("The same root, a fourth fruit", [
+            "the four foundations, unchanged as cause —",
+            "the list of results keeps growing"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.17.html\">SN 52.17 &middot; Where All Paths "
+        "of Practice Lead</a> &mdash; the previous discourse, the "
+        "third of the ten Tathāgata powers.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
