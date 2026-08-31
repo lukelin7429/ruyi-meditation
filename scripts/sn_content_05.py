@@ -51469,3 +51469,142 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.27 — Paṭhamaānandasutta ("With Ānanda, 1st")
+# Confirmed by direct reading: the same fourfold definitional
+# analysis as SN 51.19 (psychic power / its basis / its development
+# / the eightfold path as the underlying practice), but now framed
+# as Ānanda's own question to the Buddha rather than an unprompted
+# teaching. Its own "1st" promises a companion discourse.
+# --------------------------------------------------------------------------- #
+page(
+    51, 27, "Paṭhamaānanda", "With Ānanda (1st)",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.27 — With Ānanda (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaānandasutta &mdash; Ānanda asks the Buddha to "
+        "define psychic power, its basis, its development, and the "
+        "eightfold path beneath it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A question-and-answer exchange, repeating SN "
+                 "51.19's own fourfold definitional analysis"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the same "
+                         "structural teaching as SN 51.19, now "
+                         "prompted by Ānanda's own direct question"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats SN "
+        "51.19's own fourfold analysis &mdash; psychic power, its "
+        "basis, its development, and the eightfold path as the "
+        "underlying practice &mdash; but changes its own frame: "
+        "where SN 51.19 was an unprompted teaching, here Ānanda "
+        "himself asks the question directly, and the discourse's own "
+        "title, &ldquo;first,&rdquo; marks it as one of a pair."
+    ),
+    guide=[
+        ("The same four terms, now asked for directly", [
+            "Confirmed by direct reading, Ānanda's own question "
+            "names all four terms at once: &ldquo;what is psychic "
+            "power? What is the basis of psychic power? What is the "
+            "development of the bases of psychic power? And what is "
+            "the practice that leads to the development of the "
+            "bases of psychic power?&rdquo; &mdash; and the Buddha's "
+            "own answer matches SN 51.19's own definitions "
+            "word for word.",
+        ]),
+        ("The eightfold path, confirmed a second time as the deepest layer", [
+            "This project's own cross-reference: as at SN 51.19, "
+            "the discourse's own final and most general answer is "
+            "the noble eightfold path itself &mdash; confirming a "
+            "second time that this saṃyutta's own recurring formula "
+            "rests on the same eight-factor foundation this project "
+            "has already found underlying other saṃyuttas in this "
+            "book.",
+        ]),
+        ("A shift from teaching to dialogue", [
+            "This project's own observation: unlike SN 51.19's own "
+            "unprompted delivery, this discourse is explicitly "
+            "framed as Ānanda's own initiative &mdash; he &ldquo;"
+            "went up to the Buddha, bowed, sat down to one side, and "
+            "said to him&rdquo; before asking &mdash; the same "
+            "structural content, delivered through a different "
+            "occasion.",
+        ]),
+    ],
+    terms=[
+        ("iddhi", "&ldquo;psychic power&rdquo; &mdash; defined here, "
+             "as at SN 51.19, as the array of feats first given in "
+             "full at SN 51.11"),
+        ("iddhipādo", "&ldquo;the basis of psychic power&rdquo; "
+             "&mdash; again defined as &ldquo;the path and practice "
+             "that leads to gaining psychic power&rdquo;"),
+        ("iddhipādabhāvanā", "&ldquo;the development of the bases "
+             "of psychic power&rdquo; &mdash; the familiar four-part "
+             "formula, unchanged from every prior occurrence"),
+        ("ayameva ariyo aṭṭhaṅgiko maggo", "&ldquo;it is simply "
+             "this noble eightfold path&rdquo; &mdash; the "
+             "discourse's own final answer, matching SN 51.19's own "
+             "conclusion exactly"),
+        ("paṭhama", "&ldquo;first&rdquo; &mdash; part of this "
+             "discourse's own root Pāli title, marking it as one of "
+             "a pair with a promised companion"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.27:1.1-1.2"),
+        ("p", "&sect;2", "sn51.27:2.1-2.3"),
+        ("p", "&sect;3", "sn51.27:3.1-3.3"),
+        ("p", "&sect;4", "sn51.27:4.1-4.6"),
+        ("p", "&sect;5", "sn51.27:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own content compare to SN 51.19?",
+         "opts": ["It repeats the same fourfold analysis word for word, but is now prompted by Ānanda's own direct question rather than delivered unprompted", "It gives a completely different set of four definitions", "It replaces the eightfold path with a different foundational teaching", "It denies that psychic power has any distinct basis at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the same four definitions, in the same order, now asked for by Ānanda directly."},
+        {"q": "What does this discourse confirm a second time, according to this project's own cross-reference?",
+         "opts": ["That the noble eightfold path is the deepest layer beneath the four bases, the same foundation found elsewhere in this book", "That the four bases require years of solitary retreat to develop", "That Ānanda personally developed all four bases before the Buddha did", "That psychic power cannot actually lead to arahantship"], "correct": 0,
+         "expl": "The same eightfold-path answer as SN 51.19, now confirmed a second time by an independent discourse."},
+        {"q": "What does this discourse's own title suggest, following this saṃyutta's own established pattern?",
+         "opts": ["It is marked \"first\" (paṭhama), promising a companion \"With Ānanda\" discourse still to come", "It is Ānanda's very first recorded question to the Buddha", "It replaces an earlier, now-lost discourse of the same name", "It was composed after Ānanda's own passing, as a memorial"],
+         "correct": 0,
+         "expl": "Paṭhamaānandasutta — following the same paired-title pattern as SN 51.16-17 and SN 51.25-26."},
+    ],
+    marginalia=[
+        ("A question, this time", [
+            "not delivered unprompted, as at SN 51.19 —",
+            "Ānanda himself asks, directly and by name"
+        ]),
+        ("The same four answers", [
+            "power, its basis, its development, its path —",
+            "word for word, the same as before"
+        ]),
+        ("The eightfold path, confirmed again", [
+            "not a coincidence of one discourse —",
+            "the same foundation, twice independently named"
+        ]),
+        ("A pair begun", [
+            "\"first,\" the title says once more —",
+            "another \"With Ānanda\" discourse still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.19.html\">SN 51.19 &middot; A Teaching on "
+        "Psychic Power, Etc.</a> &mdash; the earlier discourse this "
+        "one closely echoes, unprompted rather than asked for.",
+        "<a href=\"sn-51.26.html\">SN 51.26 &middot; Fruits "
+        "(2nd)</a> &mdash; the previous discourse.",
+    ],
+)
