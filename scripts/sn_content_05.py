@@ -53833,3 +53833,143 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.6 — Tatiyakaṇḍakīsutta ("At Thorny Wood, 3rd")
+# Confirmed by direct reading: completes a triad of "Thorny Wood"
+# discourses. Sāriputta again asks Anuruddha what he developed to
+# attain great direct knowledge (the same question as SN 52.3, now
+# at Sāketa with Sāriputta as the named questioner); the same plain
+# formula is given, closing with a new, distinctive cosmological
+# claim not found in SN 52.3 or any earlier discourse of this vagga:
+# directly knowing the thousandfold galaxy.
+# --------------------------------------------------------------------------- #
+page(
+    52, 6, "Tatiyakaṇḍakī", "At Thorny Wood (3rd)",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.6 — At Thorny Wood (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyakaṇḍakīsutta &mdash; Sāriputta again asks "
+        "Anuruddha about his own great direct knowledge, closing "
+        "with a striking claim to know the thousandfold galaxy. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāketa"),
+        ("Speakers", "Venerables Sāriputta and Anuruddha"),
+        ("Form", "A direct question and a first-person answer, "
+                 "closing with a distinctive cosmological claim"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; completes a "
+                         "triad of Thorny Wood discourses and adds a "
+                         "striking new claim, directly knowing the "
+                         "thousandfold galaxy"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse completes the "
+        "triad of &ldquo;Thorny Wood&rdquo; discourses (SN 52.4-6) "
+        "and echoes SN 52.3's own question about Anuruddha's own "
+        "great direct knowledge &mdash; but closes with a striking "
+        "new claim not found anywhere earlier in this vagga: "
+        "directly knowing &ldquo;the thousandfold galaxy.&rdquo;"
+    ),
+    guide=[
+        ("The same question, asked again by name", [
+            "Confirmed by direct reading, Sāriputta's own question "
+            "here &mdash; what Anuruddha developed to attain great "
+            "direct knowledge &mdash; echoes SN 52.3's own wording "
+            "closely, but this time Sāriputta himself is the named "
+            "questioner rather than an unnamed group of mendicants.",
+        ]),
+        ("A new, striking cosmological claim", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing line breaks new ground within this vagga: "
+            "&ldquo;it's because of developing and cultivating these "
+            "four kinds of mindfulness meditation that I directly "
+            "know the thousandfold galaxy&rdquo; &mdash; a claim of "
+            "cosmic scope this project has not yet met attached to "
+            "the four foundations of mindfulness anywhere in this "
+            "vagga.",
+        ]),
+        ("A triad completed", [
+            "This project's own observation: SN 52.4, 52.5, and 52.6 "
+            "together form a deliberate triad sharing the same "
+            "&ldquo;Thorny Wood&rdquo; setting and Sāriputta's own "
+            "questioning, moving from the trainee's own practice "
+            "(52.4), to the adept's own practice (52.5), to "
+            "Anuruddha's own personal attainment and its cosmic "
+            "reach (52.6).",
+        ]),
+    ],
+    terms=[
+        ("mahābhiññā", "&ldquo;great direct knowledge&rdquo; "
+             "&mdash; the same attainment named at SN 52.3, here "
+             "asked about again by Sāriputta specifically"),
+        ("sahassī lokadhātu", "&ldquo;the thousandfold galaxy&rdquo; "
+             "&mdash; this discourse's own distinctive closing claim, "
+             "a term for a vast cosmological unit in early Buddhist "
+             "cosmology"),
+        ("tatiya", "&ldquo;third&rdquo; &mdash; this discourse's own "
+             "root Pāli title, completing the Thorny Wood triad "
+             "begun at SN 52.4"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; named as the "
+             "means for this discourse's own cosmic-scope claim, "
+             "just as for every other attainment named in this "
+             "vagga"),
+        ("kāye kāyānupassī viharāmi", "&ldquo;I meditate observing "
+             "an aspect of the body&rdquo; &mdash; the same plain "
+             "formula, now given in the first person as Anuruddha's "
+             "own direct report"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.6:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own question compare to SN 52.3?",
+         "opts": ["The same question about attaining great direct knowledge, but now asked by Sāriputta specifically rather than an unnamed group of mendicants", "A completely different question about an unrelated topic", "The question is addressed to Moggallāna, not Anuruddha", "No question is asked — this is a spontaneous teaching"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the same question, now with Sāriputta named as the questioner."},
+        {"q": "What distinctive new claim does this discourse add, not found earlier in this vagga?",
+         "opts": ["Directly knowing the thousandfold galaxy", "A description of Anuruddha's own past lives", "A claim to have personally taught the Buddha", "A denial that direct knowledge is possible through mindfulness alone"],
+         "correct": 0,
+         "expl": "A striking claim of cosmic scope, confirmed by direct reading to be new within this vagga."},
+        {"q": "What triad does this project's own observation identify SN 52.4-6 as forming?",
+         "opts": ["A deliberate sequence moving from the trainee's own practice, to the adept's own practice, to Anuruddha's own personal attainment and its cosmic reach", "Three entirely unrelated discourses accidentally grouped by location alone", "A triad focused exclusively on Sāriputta's own biography", "Three variant translations of the exact same discourse"],
+         "correct": 0,
+         "expl": "This project's own reading of the deliberate progression across the three Thorny Wood discourses."},
+    ],
+    marginalia=[
+        ("The same question, a named face", [
+            "SN 52.3 asked in general —",
+            "here, Sāriputta asks by name"
+        ]),
+        ("A claim that reaches the cosmos", [
+            "not just this life, this body, this mind —",
+            "a thousandfold galaxy, known directly"
+        ]),
+        ("A triad, now complete", [
+            "trainee, then adept, then Anuruddha's own reach —",
+            "three discourses, one setting, one grove"
+        ]),
+        ("The same four foundations, every time", [
+            "no new technique for the cosmic claim —",
+            "body, feelings, mind, principles, as always"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.5.html\">SN 52.5 &middot; At Thorny Wood "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
