@@ -59095,3 +59095,334 @@ page(
         "translation of the account Lomasakaṅgiya quotes here.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.13 — Paṭhamaānandasutta ("With Ānanda, 1st")
+# Confirmed by direct reading: this saṃyutta's own master key, tying
+# together every doctrinal framework this project has met scattered
+# across SN 54.1 (the four satipaṭṭhānas) and SN 54.2 (the seven
+# awakening factors) into one single progressive chain. Ānanda asks
+# whether there is "one thing" that fulfills "four things," which
+# fulfill "seven things," which fulfill "two things." The Buddha
+# confirms this directly: mindfulness of breathing fulfills the four
+# satipaṭṭhānas; the four satipaṭṭhānas fulfill the seven awakening
+# factors; the seven awakening factors fulfill "knowledge and
+# freedom" (vijjāvimutti) -- full liberation itself. The discourse
+# then explains, step by step, exactly how mindfulness feeds into
+# investigation, energy, rapture, tranquility, immersion, and
+# equanimity in strict causal sequence.
+# --------------------------------------------------------------------------- #
+page(
+    54, 13, "Paṭhamaānanda", "With Ānanda (1st)",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.13 — With Ānanda (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaānandasutta &mdash; the complete causal chain "
+        "from mindfulness of breathing through the four "
+        "satipaṭṭhānas and seven awakening factors to full "
+        "liberation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A question naming a threefold chain, then a "
+                 "detailed, step-by-step explanation of each link"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this saṃyutta's own master key, "
+                         "unifying the satipaṭṭhāna and bojjhaṅga "
+                         "frameworks first met separately at SN "
+                         "54.1 and SN 54.2 into one single "
+                         "progressive chain to liberation"),
+    ],
+    why=(
+        "Confirmed by direct reading, Ānanda asks the Buddha "
+        "directly whether there is &ldquo;one thing that, when "
+        "developed and cultivated, fulfills four things; and those "
+        "four things&hellip;fulfill seven things; and those seven "
+        "things&hellip;fulfill two things.&rdquo; The Buddha's own "
+        "answer names the complete chain explicitly: mindfulness of "
+        "breathing fulfills the four satipaṭṭhānas; the four "
+        "satipaṭṭhānas fulfill the seven awakening factors; the "
+        "seven awakening factors fulfill knowledge and freedom "
+        "(vijjāvimutti) &mdash; connecting, for the first time in "
+        "this saṃyutta, the two frameworks already met separately at "
+        "SN 54.1 and SN 54.2 into a single unbroken sequence ending "
+        "in liberation itself."
+    ),
+    guide=[
+        ("One thing, four things, seven things, two things", [
+            "Confirmed by direct reading, Ānanda's own question "
+            "already names the chain's own shape before the Buddha "
+            "answers it: one thing (mindfulness of breathing) "
+            "fulfilling four things (the satipaṭṭhānas), which "
+            "fulfill seven things (the awakening factors), which "
+            "fulfill two things (vijjā and vimutti, knowledge and "
+            "freedom) &mdash; a nested structure this project has "
+            "not seen made this explicit anywhere else in this book.",
+        ]),
+        ("From breath to satipaṭṭhāna, as already met at SN 54.10", [
+            "Confirmed by direct comparison, the explanation of how "
+            "breath-mindfulness fulfills the four satipaṭṭhānas "
+            "repeats the same tetrad-by-tetrad structure with "
+            "explicit &ldquo;why is that?&rdquo; justifications "
+            "already met in full at SN 54.10 &mdash; here embedded "
+            "as the first link of a longer chain rather than a "
+            "discourse's own entire content.",
+        ]),
+        ("From satipaṭṭhāna to bojjhaṅga, in strict causal sequence", [
+            "Confirmed by direct reading, this discourse's own new "
+            "material traces a precise causal chain: established, "
+            "lucid mindfulness (during any of the four "
+            "satipaṭṭhānas) initiates the awakening factor of "
+            "mindfulness; mindful investigation of that principle "
+            "initiates investigation of principles; sustained "
+            "investigation rouses unflagging energy, which "
+            "initiates the energy factor; energy gives rise to "
+            "rapture &ldquo;not of the flesh&rdquo;; a rapturous "
+            "mind and body grow tranquil; a tranquil body brings "
+            "blissful immersion; and one who closely watches over an "
+            "immersed mind initiates equanimity &mdash; each stage "
+            "flowing directly and necessarily from the one before it.",
+        ]),
+        ("From bojjhaṅga to liberation, in a single closing formula", [
+            "Confirmed by direct reading, the final link is stated "
+            "compactly: developing all seven awakening factors "
+            "&ldquo;relying on seclusion, fading away, and "
+            "cessation, ripening as letting go&rdquo; &mdash; the "
+            "identical closing formula already met at SN 54.2 and "
+            "throughout this book &mdash; is what fulfills "
+            "&ldquo;knowledge and freedom,&rdquo; the chain's own "
+            "final and highest link.",
+        ]),
+    ],
+    terms=[
+        ("ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti",
+             "&ldquo;one thing that, when developed and cultivated, "
+             "fulfills four things&rdquo; &mdash; Ānanda's own "
+             "opening formulation of the entire chain"),
+        ("vijjāvimutti", "&ldquo;knowledge and freedom&rdquo; "
+             "&mdash; the chain's own final &ldquo;two things,"
+             "&rdquo; full liberation itself"),
+        ("satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti",
+             "&ldquo;a mendicant has initiated the awakening factor "
+             "of mindfulness&rdquo; &mdash; the recurring formula "
+             "marking each successive factor's own arising"),
+        ("āraddhavīriyassa uppajjati pīti nirāmisā", "&ldquo;when "
+             "you're energetic, rapture not of the flesh "
+             "arises&rdquo; &mdash; one link in the causal chain "
+             "from energy to rapture"),
+        ("vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ "
+         "vossaggapariṇāmiṁ", "&ldquo;relying on seclusion, fading "
+             "away, and cessation, ripening as letting go&rdquo; "
+             "&mdash; the closing formula for the chain's own final "
+             "link, from the seven factors to liberation"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, tracing the complete chain from "
+        "Ānanda's own opening question to its own final answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.13:1.1-1.3"),
+        ("p", "&sect;2", "sn54.13:2.1-3.2"),
+        ("p", "Breath to the body foundation", "sn54.13:4.1-5.7"),
+        ("p", "Breath to the feeling foundation", "sn54.13:6.1-6.8"),
+        ("p", "Breath to the mind foundation", "sn54.13:7.1-7.8"),
+        ("p", "Breath to the principles foundation", "sn54.13:8.1-9.1"),
+        ("p", "Mindfulness to investigation to energy",
+             "sn54.13:10.1-12.3"),
+        ("p", "Energy to rapture to tranquility to immersion",
+             "sn54.13:13.1-16.3"),
+        ("p", "The remaining three foundations, and equanimity",
+             "sn54.13:17.1-18.4"),
+        ("p", "From the seven factors to liberation",
+             "sn54.13:19.1-19.5"),
+    ],
+    quiz=[
+        {"q": "What complete chain does Ānanda's own opening question name, and does the Buddha confirm it exists?",
+         "opts": ["Yes — one thing (breath-mindfulness) fulfilling four things (satipaṭṭhānas), fulfilling seven things (awakening factors), fulfilling two things (knowledge and freedom)", "The Buddha denies any such chain exists", "The chain the Buddha confirms has entirely different content from what Ānanda asked about", "Ānanda's own question is left unanswered in this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha answers \"there is, Ānanda,\" then names the chain explicitly."},
+        {"q": "What precise causal sequence does this discourse trace from mindfulness to equanimity?",
+         "opts": ["Mindfulness initiates investigation, which rouses energy, which gives rise to rapture, which brings tranquility, then immersion, then equanimity — each flowing necessarily from the one before", "The seven awakening factors arise all at once, with no particular sequence", "Equanimity arises first, followed by the other six factors in reverse order", "Only mindfulness and equanimity are discussed; the other five factors are omitted entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a strict, step-by-step causal chain, each link explicitly stated."},
+        {"q": "How does this discourse's own final link connect to material this project has already translated?",
+         "opts": ["It uses the identical closing formula (\"relying on seclusion, fading away, and cessation, ripening as letting go\") already met at SN 54.2 and throughout this book", "It introduces an entirely new formula never seen before in this project's own work", "It denies that the seven awakening factors lead to liberation at all", "It contradicts SN 54.2's own treatment of the awakening factors"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same recurring closing formula, here completing the full chain."},
+    ],
+    marginalia=[
+        ("One thing, four things, seven, then two", [
+            "Ānanda names the whole chain in one question —",
+            "and the Buddha confirms it, link by link"
+        ]),
+        ("Each factor born from the one before", [
+            "mindfulness to investigation, to energy, to rapture —",
+            "nothing skipped, nothing arising on its own"
+        ]),
+        ("Two familiar frameworks, joined at last", [
+            "satipaṭṭhāna from SN 54.1, bojjhaṅga from SN 54.2 —",
+            "shown here as one continuous path"
+        ]),
+        ("The chain's own final word", [
+            "seclusion, fading away, cessation, letting go —",
+            "knowledge and freedom, fulfilled"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.12.html\">SN 54.12 &middot; In Doubt</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-54.1.html\">SN 54.1 &middot; One Thing</a> "
+        "&mdash; this project's own full translation of the "
+        "sixteen-step formula and its own mapping onto the four "
+        "satipaṭṭhānas.",
+        "<a href=\"sn-54.2.html\">SN 54.2 &middot; Awakening "
+        "Factors</a> &mdash; this project's own full translation of "
+        "the seven awakening factors this discourse's own second "
+        "link builds toward.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.14 — Dutiyaānandasutta ("With Ānanda, 2nd")
+# Confirmed by direct reading: a mirror image of SN 54.13. This time
+# the Buddha asks Ānanda the identical question first, and Ānanda
+# responds with the classic "questioner deferral" formula ("Our
+# teachings are rooted in the Buddha") already tracked four times by
+# this project across SN 51's own Vagga 3 -- before the Buddha
+# answers his own question, compressed via "…pe…" as a direct
+# cross-reference back to SN 54.13's own full explanation.
+# --------------------------------------------------------------------------- #
+page(
+    54, 14, "Dutiyaānanda", "With Ānanda (2nd)",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.14 — With Ānanda (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaānandasutta &mdash; the Buddha asks Ānanda the "
+        "same question SN 54.13 posed, reusing the classic "
+        "questioner-deferral formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.13's own setting"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "The identical question from SN 54.13, now asked "
+                 "by the Buddha; Ānanda's own deferral; then the "
+                 "compressed answer"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; a structural "
+                         "mirror of SN 54.13, reusing this project's "
+                         "own already-tracked questioner-deferral "
+                         "formula from SN 51"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse reverses SN "
+        "54.13's own roles: rather than Ānanda asking the Buddha, "
+        "the Buddha asks Ānanda the identical question &mdash; "
+        "whether one thing fulfills four things, which fulfill "
+        "seven, which fulfill two &mdash; and Ānanda responds not "
+        "with an answer but with the classic deferral, &ldquo;our "
+        "teachings are rooted in the Buddha,&rdquo; already tracked "
+        "by this project four times across SN 51's own Vagga 3. The "
+        "Buddha then answers his own question, compressed via "
+        "&ldquo;…pe…&rdquo; as a direct cross-reference back to SN "
+        "54.13's own full explanation."
+    ),
+    guide=[
+        ("A familiar deferral, now met in this saṃyutta", [
+            "Confirmed by direct comparison, Ānanda's own reply "
+            "&mdash; &ldquo;our teachings are rooted in the "
+            "Buddha&rdquo; &mdash; is the identical formula this "
+            "project has already tracked four times across SN "
+            "51.14, 51.28, 51.30, and 51.31, here appearing for the "
+            "first time in this saṃyutta: a mendicant's own "
+            "recognition that the fullest answer belongs to the "
+            "Buddha himself, not a disciple's own restatement.",
+        ]),
+        ("A compressed answer, pointing back to SN 54.13", [
+            "Confirmed by direct reading, the Buddha's own answer "
+            "here is elided via &ldquo;…pe…&rdquo; between naming "
+            "the chain's own first link and its own final line "
+            "&mdash; this discourse assumes SN 54.13's own full "
+            "step-by-step explanation (breath to satipaṭṭhāna to "
+            "bojjhaṅga to liberation) rather than repeating it a "
+            "second time.",
+        ]),
+    ],
+    terms=[
+        ("bhagavaṁmūlakā no, bhante, dhammā", "&ldquo;our teachings "
+             "are rooted in the Buddha&rdquo; &mdash; the classic "
+             "deferral formula, already met four times across this "
+             "project's own SN 51 work"),
+        ("atthānanda, ekadhammo bhāvito bahulīkato cattāro dhamme "
+         "paripūreti", "&ldquo;there is, Ānanda&hellip;one thing "
+             "that&hellip;fulfills four things&rdquo; &mdash; the "
+             "Buddha's own answer to his own question"),
+        ("ānāpānassatisamādhi", "&ldquo;immersion due to mindfulness "
+             "of breathing&rdquo; &mdash; the chain's own first "
+             "link, identical to SN 54.13's own"),
+        ("…pe…", "the elision marking, standing in for SN 54.13's "
+             "own full step-by-step explanation, not repeated here"),
+        ("vijjāvimuttiṁ paripūrenti", "&ldquo;fulfill knowledge and "
+             "freedom&rdquo; &mdash; the chain's own final link, "
+             "identical to SN 54.13's own closing line"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 54.13. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.14:1.1-1.4"),
+        ("p", "&sect;2", "sn54.14:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure differ from SN 54.13's own?",
+         "opts": ["The roles are reversed: the Buddha asks Ānanda the identical question, rather than Ānanda asking the Buddha", "It is word-for-word identical to SN 54.13 with no differences at all", "It asks a completely different question about an unrelated topic", "It is spoken by Mahānāma rather than either the Buddha or Ānanda"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a structural mirror, with the questioner and answerer switched."},
+        {"q": "What does Ānanda's own reply, \"our teachings are rooted in the Buddha,\" confirm, per this project's own tracking?",
+         "opts": ["It is the identical deferral formula already tracked four times across this project's own SN 51 work, now appearing in this saṃyutta", "It is a formula unique to this discourse, never used elsewhere in the canon", "It is Ānanda's own way of refusing to discuss the topic at all", "It contradicts the answer the Buddha gives immediately afterward"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison to this project's own already-tracked occurrences in SN 51."},
+        {"q": "What does the \"…pe…\" elision in the Buddha's own answer stand in for?",
+         "opts": ["SN 54.13's own full, step-by-step explanation of how each link in the chain fulfills the next", "A section of the discourse that has genuinely been lost", "An unrelated teaching this project has not yet translated", "A denial that the chain named in the question actually exists"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same chain, with its own full explanation assumed from SN 54.13."},
+    ],
+    marginalia=[
+        ("Roles reversed, the question repeated", [
+            "this time the Buddha asks first —",
+            "and Ānanda defers, not answers"
+        ]),
+        ("A formula already known to this project", [
+            "\"our teachings are rooted in the Buddha\" —",
+            "met four times before, now a fifth"
+        ]),
+        ("The same chain, told more briefly", [
+            "one thing, four, seven, then two —",
+            "SN 54.13's own explanation, simply assumed"
+        ]),
+        ("Fourteenth of twenty, the chain confirmed twice", [
+            "once at length, once compressed —",
+            "the same truth, told two ways"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.13.html\">SN 54.13 &middot; With Ānanda "
+        "(1st)</a> &mdash; this project's own full translation of "
+        "the complete chain this discourse compresses.",
+    ],
+)
