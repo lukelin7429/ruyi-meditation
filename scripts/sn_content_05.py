@@ -53265,3 +53265,160 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.2 — Dutiyarahogatasutta ("In Private, 2nd")
+# Confirmed by direct reading: repeats SN 52.1's own setup (private
+# reflection, Moggallāna's instant appearance, the same question)
+# but Anuruddha's own answer uses the plainer, more generic
+# satipaṭṭhāna closing formula ("observing an aspect of...") rather
+# than SN 52.1's own fuller impermanence-observing formula and its
+# own fivefold perception-wish list -- a genuine variant in the
+# standard definition, confirmed by direct comparison, not silently
+# harmonized.
+# --------------------------------------------------------------------------- #
+page(
+    52, 2, "Dutiyarahogata", "In Private (2nd)",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.2 — In Private (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyarahogatasutta &mdash; the same scene as SN 52.1, "
+        "but Anuruddha answers with the plainer, more generic "
+        "satipaṭṭhāna formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Anuruddha and Venerable "
+                     "Mahāmoggallāna"),
+        ("Form", "The same scene as SN 52.1, with a plainer closing "
+                 "definition"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirmed "
+                         "by direct comparison to use the plainer of "
+                         "two standard satipaṭṭhāna closing formulas "
+                         "this project has now met paired together"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats SN "
+        "52.1's own scene exactly &mdash; Anuruddha's own private "
+        "reflection, Moggallāna's instant psychic-power appearance, "
+        "the identical question &mdash; but this project's own "
+        "direct comparison shows Anuruddha's own answer here drops "
+        "both the &ldquo;liability to originate, to vanish&rdquo; "
+        "impermanence-observing phrase and the fivefold perception-"
+        "wish list given in full at SN 52.1, replacing them with the "
+        "plainer, more generic &ldquo;observing an aspect of...&rdquo; "
+        "formula."
+    ),
+    guide=[
+        ("The same scene, told again", [
+            "Confirmed by direct reading, every narrative element of "
+            "SN 52.1 recurs here without change: the private "
+            "reflection, Moggallāna's own instant arrival, and the "
+            "same question about defining the four kinds of "
+            "mindfulness meditation.",
+        ]),
+        ("A genuinely plainer answer, not a copy-paste", [
+            "This project's own direct comparison: where SN 52.1 "
+            "gave the fuller &ldquo;observing the liability to "
+            "originate, to vanish, and to originate and vanish&rdquo; "
+            "phrase plus its own fivefold perception-wish list for "
+            "the body specifically, this discourse's own answer uses "
+            "only the plainer &ldquo;meditates by observing an "
+            "aspect of [X] internally... externally... internally "
+            "and externally&rdquo; &mdash; the more generic "
+            "satipaṭṭhāna formula this project has already met "
+            "elsewhere on this site, confirmed here as a genuinely "
+            "distinct, paired variant rather than an identical "
+            "repetition.",
+        ]),
+        ("Two standard formulas, now confirmed side by side", [
+            "This project's own observation: SN 52.1 and SN 52.2 "
+            "together confirm that this saṃyutta itself preserves "
+            "both of the classic satipaṭṭhāna closing formulas known "
+            "from elsewhere in the canon &mdash; the fuller "
+            "impermanence-observing version and the plainer generic "
+            "version &mdash; deliberately paired as first and second "
+            "discourses rather than treated as interchangeable.",
+        ]),
+    ],
+    terms=[
+        ("kāye kāyānupassī viharati", "&ldquo;meditates by observing "
+             "an aspect of the body&rdquo; &mdash; this discourse's "
+             "own plainer opening phrase for body-contemplation, "
+             "without SN 52.1's own added impermanence clause"),
+        ("ātāpī sampajāno satimā", "&ldquo;keen, aware, and "
+             "mindful&rdquo; &mdash; the same three qualities named "
+             "in both discourses' own accounts"),
+        ("vineyya loke abhijjhādomanassaṁ", "&ldquo;rid of "
+             "covetousness and displeasure for the world&rdquo; "
+             "&mdash; the same closing qualifier shared by both "
+             "discourses"),
+        ("ajjhattaṁ...bahiddhā...ajjhattabahiddhā", "&ldquo;"
+             "internally... externally... internally and "
+             "externally&rdquo; &mdash; the same threefold scope "
+             "applied to each of the four foundations in both "
+             "discourses"),
+        ("Rahogatavaggo paṭhamo", "&ldquo;the In-Private chapter, "
+             "the first&rdquo; &mdash; this vagga's own name, shared "
+             "by both SN 52.1 and SN 52.2 as its own first two "
+             "discourses"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.2:1.1-1.4"),
+        ("p", "&sect;2", "sn52.2:2.1"),
+        ("p", "&sect;3", "sn52.2:3.1"),
+        ("p", "&sect;4", "sn52.2:4.1-4.3"),
+        ("p", "&sect;5", "sn52.2:5.1-5.3"),
+        ("p", "&sect;6", "sn52.2:6.1-6.3"),
+        ("p", "&sect;7", "sn52.2:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does this project's own direct comparison find about this discourse's own answer, compared to SN 52.1's?",
+         "opts": ["It drops the impermanence-observing phrase and the fivefold perception-wish list, using the plainer generic satipaṭṭhāna formula instead", "It is word-for-word identical to SN 52.1 in every respect", "It adds an entirely new fifth foundation of mindfulness not found in SN 52.1", "It denies that Moggallāna actually possesses psychic power"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: a genuinely plainer, distinct formula, not a copy of SN 52.1's own fuller account."},
+        {"q": "What narrative elements does this discourse share unchanged with SN 52.1?",
+         "opts": ["The private reflection, Moggallāna's instant psychic-power appearance, and the identical opening question", "None — this is an entirely unrelated discourse with a different setting", "Only the setting, Sāvatthī, with a completely different cast of characters", "The narrative frame is present but the question asked is different"],
+         "correct": 0,
+         "expl": "Every narrative element recurs unchanged; only the technical content of the answer differs."},
+        {"q": "What does this project's own observation say about pairing SN 52.1 and SN 52.2 together?",
+         "opts": ["Together they confirm this saṃyutta preserves both classic satipaṭṭhāna closing formulas, deliberately paired rather than treated as interchangeable", "The pairing is accidental and has no structural significance", "SN 52.2 is a later addition not originally part of this saṃyutta", "Only SN 52.1's own formula is considered authoritative by this project"],
+         "correct": 0,
+         "expl": "This project's own structural observation, based on direct comparison of the two paired discourses."},
+    ],
+    marginalia=[
+        ("The same scene, once more", [
+            "private reflection, an instant arrival —",
+            "nothing in the setting has changed"
+        ]),
+        ("A plainer answer this time", [
+            "no impermanence clause, no fivefold list —",
+            "just the generic formula, kept simple"
+        ]),
+        ("Two formulas, deliberately paired", [
+            "the fuller version first, the plain version second —",
+            "not a copy, but a genuine second telling"
+        ]),
+        ("Consistency in what stays the same", [
+            "keen, aware, mindful — unchanged in both —",
+            "only the closing detail differs"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.1.html\">SN 52.1 &middot; In Private "
+        "(1st)</a> &mdash; the previous discourse, giving the fuller "
+        "formula this discourse's own answer contrasts with.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
