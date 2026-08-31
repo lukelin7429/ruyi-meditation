@@ -58767,3 +58767,331 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.11 — Icchānaṅgalasutta ("At Icchānaṅgala")
+# Confirmed by direct reading: opens Vagga 2 (Dutiyavagga). The
+# Buddha goes on a three-month retreat -- longer than SN 54.9's own
+# fortnight -- and on returning, instructs the mendicants how to
+# answer other wanderers who ask what his own usual meditation was
+# during the rains, giving the sixteen-step formula in the first
+# person for the only time in this saṃyutta. He then declares
+# mindfulness of breathing alone deserves the titles "noble
+# meditation," "divine meditation," and "the Realized One's own
+# meditation," distinguishing its effect for trainees (ending
+# defilements) from its effect for the already-perfected (blissful
+# abiding, mindfulness and awareness) using the full arahant formula
+# already met throughout this project's own SN 51 work.
+# --------------------------------------------------------------------------- #
+page(
+    54, 11, "Icchānaṅgala", "At Icchānaṅgala",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.11 — At Icchānaṅgala | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Icchānaṅgalasutta &mdash; the Buddha's own first-person "
+        "account of his own usual meditation, named noble, divine, "
+        "and the Realized One's own. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest near Icchānaṅgala"),
+        ("Speaker", "The Buddha, addressing the mendicants, "
+                     "including a first-person recitation of the "
+                     "formula"),
+        ("Form", "A narrative frame, the formula in the first "
+                 "person, and a declaration naming the practice by "
+                 "three honorific titles"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; opens Vagga 2; the only discourse "
+                         "in this saṃyutta where the Buddha recites "
+                         "the formula in the first person, and "
+                         "names it &ldquo;a noble meditation, a "
+                         "divine meditation, the Realized One's own "
+                         "meditation&rdquo;"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens Vagga 2 "
+        "with the Buddha returning from a three-month retreat "
+        "&mdash; longer than SN 54.9's own fortnight &mdash; and "
+        "instructing the mendicants how to answer other wanderers "
+        "who ask what his own usual meditation was during the rains: "
+        "&ldquo;immersion due to mindfulness of breathing,&rdquo; "
+        "recited here in the first person for the only time in this "
+        "saṃyutta. He then declares that whatever should rightly be "
+        "called &ldquo;a noble meditation,&rdquo; &ldquo;a divine "
+        "meditation,&rdquo; or &ldquo;the Realized One's own "
+        "meditation&rdquo; is mindfulness of breathing."
+    ),
+    guide=[
+        ("A rare first-person recitation", [
+            "Confirmed by direct reading, this is the only discourse "
+            "in this saṃyutta where the Buddha recites the sixteen-"
+            "step formula in the first person (&ldquo;mindful, I "
+            "breathe in&hellip;I know: &lsquo;I'm breathing in "
+            "heavily&rsquo;&rdquo;) rather than describing a "
+            "generic mendicant's own practice &mdash; framed "
+            "explicitly as his own answer to a hypothetical question "
+            "from wanderers of another religion.",
+        ]),
+        ("Three honorific titles, given twice", [
+            "Confirmed by direct reading, the discourse states twice "
+            "&mdash; opening and closing an identical formula "
+            "&mdash; that whatever deserves to be called &ldquo;a "
+            "noble meditation&rdquo; (ariyavihāra), &ldquo;a divine "
+            "meditation&rdquo; (brahmavihāra), or &ldquo;the "
+            "Realized One's own meditation&rdquo; (tathāgatavihāra) "
+            "is mindfulness of breathing &mdash; a declaration this "
+            "project has not seen made this explicitly for any other "
+            "single practice.",
+        ]),
+        ("One practice, two different effects", [
+            "Confirmed by direct reading, the discourse distinguishes "
+            "this practice's own effect by the practitioner's own "
+            "stage: for trainees (sekha), who &ldquo;haven't achieved "
+            "their heart's desire,&rdquo; it leads to the ending of "
+            "defilements; for the already-perfected (arahants, "
+            "described using the full arahant formula already met "
+            "throughout this project's own SN 51 work), it leads "
+            "instead to blissful abiding and mindfulness and "
+            "awareness in this very life &mdash; the same practice, "
+            "a different fruit depending on where one already stands.",
+        ]),
+    ],
+    terms=[
+        ("temāsaṁ paṭisallīyituṁ", "&ldquo;to go on retreat for "
+             "three months&rdquo; &mdash; the length of this "
+             "discourse's own retreat, longer than SN 54.9's own "
+             "fortnight"),
+        ("ānāpānassatisamādhinā kho, āvuso, bhagavā vassāvāsaṁ "
+         "bahulaṁ vihāsi", "&ldquo;the ascetic Gotama's usual "
+             "meditation during the rainy season residence was "
+             "immersion due to mindfulness of breathing&rdquo; "
+             "&mdash; the scripted answer to give other wanderers"),
+        ("ariyavihāro...brahmavihāro...tathāgatavihāro", "&ldquo;a "
+             "noble meditation...a divine meditation...the Realized "
+             "One's own meditation&rdquo; &mdash; the three "
+             "honorific titles this discourse declares belong to "
+             "mindfulness of breathing alone"),
+        ("sekhā appattamānasā anuttaraṁ yogakkhemaṁ patthayamānā",
+             "&ldquo;trainees&mdash;who haven't achieved their "
+             "heart's desire, but live aspiring to the supreme "
+             "sanctuary from the yoke&rdquo; &mdash; for whom this "
+             "practice leads to the ending of defilements"),
+        ("arahanto khīṇāsavā vusitavanto...sammadaññāvimuttā",
+             "&ldquo;perfected&mdash;who have ended the defilements, "
+             "completed the spiritual journey&hellip;rightly freed "
+             "through enlightenment&rdquo; &mdash; the full arahant "
+             "formula already met throughout this project's own SN "
+             "51 work, here describing who this practice leads to "
+             "blissful abiding for"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the rare first-person "
+        "recitation of the formula. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.11:1.1-1.5"),
+        ("p", "&sect;2", "sn54.11:2.1-2.9"),
+        ("p", "&sect;3", "sn54.11:3.1-3.6"),
+        ("p", "&sect;4", "sn54.11:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse's own recitation of the formula unique in this saṃyutta?",
+         "opts": ["It is the only discourse where the Buddha recites the formula in the first person, as his own scripted answer to other wanderers", "It is the only discourse to give the formula at all", "It replaces the sixteen-step formula with an entirely different, shorter one", "It is recited by Ānanda rather than the Buddha"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a rare first-person recitation, framed as an answer to a hypothetical question."},
+        {"q": "What three honorific titles does this discourse declare belong to mindfulness of breathing?",
+         "opts": ["A noble meditation, a divine meditation, and the Realized One's own meditation", "The highest jhāna, the deepest samādhi, and the final liberation", "Mindfulness, concentration, and wisdom", "The first, second, and third foundations of mindfulness"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — ariyavihāro, brahmavihāro, tathāgatavihāro, stated twice."},
+        {"q": "How does this discourse distinguish the practice's own effect between trainees and the already-perfected?",
+         "opts": ["For trainees it leads to the ending of defilements; for the already-perfected it leads instead to blissful abiding and mindfulness and awareness in this very life", "The practice has identical effects regardless of the practitioner's own stage", "It is beneficial only for trainees, offering nothing further to arahants", "It is beneficial only for arahants, offering nothing to trainees"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same practice, a different fruit depending on the practitioner's own stage."},
+    ],
+    marginalia=[
+        ("Three months, not a fortnight", [
+            "a longer retreat than SN 54.9's own —",
+            "and no tragedy reported this time"
+        ]),
+        ("A scripted answer, in his own voice", [
+            "\"mindful, I breathe in\" —",
+            "the only first-person recitation in this saṃyutta"
+        ]),
+        ("Noble, divine, the Realized One's own", [
+            "three titles, given to one practice —",
+            "stated twice, opening and closing alike"
+        ]),
+        ("One practice, two different fruits", [
+            "for the trainee, an ending still ahead —",
+            "for the arahant, bliss already arrived"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.10.html\">SN 54.10 &middot; With "
+        "Kimbila</a> &mdash; the previous discourse, closing Vagga "
+        "1.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.12 — Kaṅkheyyasutta ("In Doubt")
+# Confirmed by direct reading: Mahānāma the Sakyan asks Venerable
+# Lomasakaṅgiya whether a trainee's own meditation is the same as
+# the Realized One's own meditation. Lomasakaṅgiya answers with two
+# distinct explanations: first, a genuinely new comparison -- both
+# meditate after addressing the five hindrances, but trainees have
+# only given them up (temporarily suppressed) while arahants have
+# them "cut off at the root, made like a palm stump" (permanently
+# uprooted); second, Lomasakaṅgiya quotes SN 54.11's own Icchānaṅgala
+# account verbatim, word for word, as a second way to understand the
+# same distinction -- confirming this discourse as a disciple citing
+# the Buddha's own prior teaching, not mere duplication.
+# --------------------------------------------------------------------------- #
+page(
+    54, 12, "Kaṅkheyya", "In Doubt",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.12 — In Doubt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kaṅkheyyasutta &mdash; Lomasakaṅgiya distinguishes a "
+        "trainee's own meditation from the Realized One's own, using "
+        "the five hindrances and a direct quotation of the Buddha. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, the Banyan Tree Monastery"),
+        ("Speakers", "Mahānāma the Sakyan and Venerable "
+                     "Lomasakaṅgiya"),
+        ("Form", "A question, then two distinct explanations: a new "
+                 "comparison, then a verbatim quotation of SN 54.11"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; a "
+                         "disciple, not the Buddha, answers the "
+                         "question, using both a genuinely new "
+                         "comparison and a direct quotation of an "
+                         "earlier discourse"),
+    ],
+    why=(
+        "Confirmed by direct reading, Mahānāma the Sakyan asks "
+        "Venerable Lomasakaṅgiya directly: &ldquo;is the meditation "
+        "of a trainee just the same as the meditation of a realized "
+        "one? Or is the meditation of a trainee different from the "
+        "meditation of a realized one?&rdquo; Lomasakaṅgiya's own "
+        "answer has two distinct parts: a genuinely new comparison "
+        "using the five hindrances, and then a verbatim quotation of "
+        "SN 54.11's own Icchānaṅgala account, confirmed by direct "
+        "comparison to be word for word identical."
+    ),
+    guide=[
+        ("Given up, or cut off at the root", [
+            "Confirmed by direct reading, this discourse's own new "
+            "material distinguishes the two meditations by degree, "
+            "not kind: both trainees and arahants meditate having "
+            "addressed the same five hindrances (sensual desire, "
+            "ill will, dullness and drowsiness, restlessness and "
+            "remorse, and doubt), but trainees have only &ldquo;"
+            "given up&rdquo; them, while for arahants they are "
+            "&ldquo;cut off at the root, made like a palm stump, "
+            "obliterated, and unable to arise in the future&rdquo; "
+            "&mdash; suppression versus permanent uprooting.",
+        ]),
+        ("A disciple quoting the Buddha directly", [
+            "This project's own direct comparison: Lomasakaṅgiya's "
+            "own second explanation is not a fresh teaching but a "
+            "verbatim quotation of SN 54.11's own account, matching "
+            "it word for word &mdash; the three-month retreat, the "
+            "scripted answer for other wanderers, the first-person "
+            "formula, and the three honorific titles (noble, "
+            "divine, the Realized One's own meditation) all repeated "
+            "exactly, confirming this discourse as a documented "
+            "instance of a disciple citing the Buddha's own prior "
+            "teaching rather than a separate, independent occasion.",
+        ]),
+    ],
+    terms=[
+        ("so eva nu kho...sekho vihāro so tathāgatavihāro, udāhu "
+         "aññova sekho vihāro añño tathāgatavihāro", "&ldquo;is the "
+             "meditation of a trainee just the same as the "
+             "meditation of a realized one, or is it different?"
+             "&rdquo; &mdash; Mahānāma's own opening question"),
+        ("pañca nīvaraṇe pahāya viharanti", "&ldquo;they meditate "
+             "after giving up the five hindrances&rdquo; &mdash; "
+             "the trainee's own condition, temporary suppression"),
+        ("pañca nīvaraṇā pahīnā ucchinnamūlā tālāvatthukatā "
+         "anabhāvaṅkatā āyatiṁ anuppādadhammā", "&ldquo;the five "
+             "hindrances are cut off at the root, made like a palm "
+             "stump, obliterated, and unable to arise in the "
+             "future&rdquo; &mdash; the arahant's own condition, "
+             "permanent uprooting"),
+        ("aññova sekho vihāro, añño tathāgatavihāro", "&ldquo;the "
+             "meditation of a trainee and a realized one are "
+             "different&rdquo; &mdash; Lomasakaṅgiya's own direct "
+             "answer, repeated after each of his two explanations"),
+        ("tadamināpetaṁ...pariyāyena veditabbaṁ", "&ldquo;here's "
+             "another way to understand&rdquo; &mdash; "
+             "Lomasakaṅgiya's own transition into quoting SN 54.11's "
+             "own account as a second explanation"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the verbatim quotation "
+        "of SN 54.11's own account. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.12:1.1-1.3"),
+        ("p", "&sect;2", "sn54.12:2.1-2.8"),
+        ("p", "&sect;3", "sn54.12:3.1"),
+        ("p", "&sect;4", "sn54.12:4.1-4.7"),
+        ("p", "&sect;5", "sn54.12:5.1-5.3"),
+        ("p", "Quoting SN 54.11 (the Icchānaṅgala account)",
+             "sn54.12:6.1-11.6"),
+    ],
+    quiz=[
+        {"q": "What question does Mahānāma the Sakyan ask Venerable Lomasakaṅgiya?",
+         "opts": ["Whether a trainee's own meditation is the same as, or different from, the meditation of a realized one (an arahant)", "How many discourses this saṃyutta contains", "Whether mindfulness of breathing is superior to the four jhānas", "Whether Lomasakaṅgiya has personally met the Buddha"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — Mahānāma's own opening question, in his own words."},
+        {"q": "How does this discourse's own new material distinguish a trainee's meditation from an arahant's, using the five hindrances?",
+         "opts": ["Trainees have only \"given up\" the five hindrances (temporary suppression), while arahants have them \"cut off at the root\" (permanent uprooting)", "Trainees face different hindrances than arahants do", "Only arahants experience the five hindrances at all", "The five hindrances are identical in every respect for both trainees and arahants, with no distinction drawn"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a distinction of degree, not of which hindrances apply."},
+        {"q": "What does this project's own direct comparison confirm about Lomasakaṅgiya's own second explanation?",
+         "opts": ["It is a verbatim quotation of SN 54.11's own account, matching it word for word", "It is an entirely new teaching never given before in this saṃyutta", "It contradicts SN 54.11's own account", "It was spoken by the Buddha himself, not quoted by Lomasakaṅgiya"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a documented instance of a disciple citing the Buddha's own prior teaching."},
+    ],
+    marginalia=[
+        ("Same or different, Mahānāma asks", [
+            "a question put to a disciple, not the Buddha —",
+            "and answered in two distinct ways"
+        ]),
+        ("Suppressed, or uprooted entirely", [
+            "the same five hindrances, named for both —",
+            "but one still growable, the other made a stump"
+        ]),
+        ("A quotation, not a repetition by accident", [
+            "Lomasakaṅgiya cites SN 54.11 word for word —",
+            "a disciple remembering, and passing it on"
+        ]),
+        ("Different meditations, one word confirms it", [
+            "\"añño\" — different, stated plainly twice —",
+            "trainee and arahant, not the same practice"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.11.html\">SN 54.11 &middot; At "
+        "Icchānaṅgala</a> &mdash; this project's own full "
+        "translation of the account Lomasakaṅgiya quotes here.",
+    ],
+)
