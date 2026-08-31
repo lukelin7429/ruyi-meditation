@@ -51608,3 +51608,143 @@ page(
         "(2nd)</a> &mdash; the previous discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.28 — Dutiyaānandasutta ("With Ānanda, 2nd")
+# Confirmed by direct reading: the promised companion to SN 51.27,
+# with the direction of questioning reversed — the Buddha asks
+# Ānanda the same four questions; Ānanda defers back to the Buddha
+# with the classic formula ("our teachings are rooted in the
+# Buddha"); the Buddha then answers his own question with the same
+# fourfold definition given at SN 51.19 and SN 51.27.
+# --------------------------------------------------------------------------- #
+page(
+    51, 28, "Dutiyaānanda", "With Ānanda (2nd)",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.28 — With Ānanda (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaānandasutta &mdash; the Buddha questions Ānanda "
+        "directly, who defers back to him, before the Buddha answers "
+        "his own question. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A reversed question-and-answer, echoing SN 51.27 "
+                 "with the direction of the questioning flipped"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirmed "
+                         "directly as the promised companion to SN "
+                         "51.27, with the questioner and answerer "
+                         "reversed"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse resolves what "
+        "SN 51.27's own title left open, but with a twist this "
+        "project's own comparison highlights: rather than Ānanda "
+        "asking the Buddha, here the Buddha himself asks Ānanda the "
+        "same four questions &mdash; and Ānanda defers, replying "
+        "with the classic formula, &ldquo;our teachings are rooted "
+        "in the Buddha&rdquo; &mdash; before the Buddha answers his "
+        "own question with the identical fourfold definition."
+    ),
+    guide=[
+        ("The questioning, reversed", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure mirrors SN 51.27 exactly, but flips who "
+            "speaks first: &ldquo;the Buddha said to Venerable "
+            "Ānanda: 'Ānanda, what is psychic power?...'&rdquo; "
+            "&mdash; the same four questions, now directed at "
+            "Ānanda rather than asked by him.",
+        ]),
+        ("Ānanda's own deferral, a familiar formula", [
+            "This project's own cross-reference: Ānanda's own reply "
+            "&mdash; &ldquo;our teachings are rooted in the Buddha. "
+            "He is our guide and our refuge...&rdquo; &mdash; is the "
+            "same deferral formula this project has already met "
+            "used by a group of mendicants at SN 51.14, here spoken "
+            "by Ānanda himself in response to the Buddha's own "
+            "direct question.",
+        ]),
+        ("The same answer, given a third time", [
+            "Confirmed by direct reading, the Buddha's own answer, "
+            "once Ānanda defers, is word-for-word identical to SN "
+            "51.19 and SN 51.27 &mdash; ending, a third time, with "
+            "the noble eightfold path named as the deepest layer "
+            "beneath the four bases.",
+        ]),
+    ],
+    terms=[
+        ("Buddhamūlakā no...bhante, dhammā", "&ldquo;our teachings "
+             "are rooted in the Buddha&rdquo; &mdash; Ānanda's own "
+             "formula of deferral, the same one this project has "
+             "already met used by mendicants at SN 51.14"),
+        ("Bhagavā paṭisaraṇā", "&ldquo;he is our guide and our "
+             "refuge&rdquo; &mdash; the second half of the same "
+             "deferral formula"),
+        ("iddhi", "&ldquo;psychic power&rdquo; &mdash; defined a "
+             "third time, identically, once the Buddha answers his "
+             "own question"),
+        ("iddhipādabhāvanā", "&ldquo;the development of the bases "
+             "of psychic power&rdquo; &mdash; the same four-part "
+             "formula unchanged across all three related discourses"),
+        ("ayameva ariyo aṭṭhaṅgiko maggo", "&ldquo;it is simply "
+             "this noble eightfold path&rdquo; &mdash; named a third "
+             "time as the practice underlying the four bases"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.28:1.1-1.3"),
+        ("p", "&sect;2", "sn51.28:2.1-2.2"),
+        ("p", "&sect;3", "sn51.28:3.1-3.3"),
+        ("p", "&sect;4", "sn51.28:4.1-4.6"),
+        ("p", "&sect;5", "sn51.28:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own structure differ from SN 51.27?",
+         "opts": ["The direction of questioning is reversed — the Buddha asks Ānanda the same four questions, rather than Ānanda asking the Buddha", "It uses a completely different set of four definitions", "It takes place at a different monastery from SN 51.27", "It omits the eightfold path entirely, unlike SN 51.27"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the same four questions, now directed at Ānanda by the Buddha himself."},
+        {"q": "How does Ānanda respond when the Buddha asks him these questions directly?",
+         "opts": ["He defers, replying \"our teachings are rooted in the Buddha. He is our guide and our refuge\" — the same formula this project has met used by mendicants at SN 51.14", "He answers confidently and correctly without hesitation", "He asks a group of senior mendicants to answer on his behalf", "He remains silent, and the discourse ends without an answer"],
+         "correct": 0,
+         "expl": "The same deferral formula already met at SN 51.14, now spoken by Ānanda himself."},
+        {"q": "How many times has this project now confirmed the noble eightfold path as the practice underlying the four bases?",
+         "opts": ["A third time — at SN 51.19, SN 51.27, and now SN 51.28", "Only once, in this discourse alone", "Twice, but with a slightly different list of factors each time", "The eightfold path is never actually named in this saṃyutta"],
+         "correct": 0,
+         "expl": "The same answer, word-for-word, confirmed a third independent time across three related discourses."},
+    ],
+    marginalia=[
+        ("The questioner becomes the questioned", [
+            "SN 51.27 had Ānanda ask —",
+            "here, the Buddha turns the question around"
+        ]),
+        ("A familiar deferral", [
+            "\"our teachings are rooted in the Buddha\" —",
+            "the same formula heard once before, at SN 51.14"
+        ]),
+        ("The Buddha answers his own question", [
+            "having asked, he does not wait for an answer that won't come —",
+            "he supplies it himself, in full"
+        ]),
+        ("A third confirmation", [
+            "SN 51.19, then 51.27, now 51.28 —",
+            "the eightfold path, named again"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.27.html\">SN 51.27 &middot; With Ānanda "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own promised companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
