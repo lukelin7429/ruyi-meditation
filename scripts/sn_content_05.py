@@ -49114,3 +49114,172 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.11 — Pubbasutta
+# Opens Vagga 2 (Pāsādakampanavagga, "Shaking the Stilt Longhouse"),
+# confirmed by direct reading to differ sharply from Vagga 1's own
+# bare discourses: a full, detailed method for each basis (the
+# "before/behind, above/below, day/night" perception technique,
+# developing a radiant mind), framed as the Buddha's own
+# pre-awakening reflection as a bodhisatta, culminating in the
+# classic sixfold list of supernormal powers and knowledges.
+# --------------------------------------------------------------------------- #
+page(
+    51, 11, "Pubba", "Before",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.11 — Before | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pubbasutta — the Buddha's own pre-awakening reflection "
+        "on developing the four bases of psychic power, and the "
+        "sixfold list of supernormal powers this yields. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha, recounting his own pre-awakening "
+                     "reflection as a bodhisatta"),
+        ("Form", "A first-person origin account, a detailed "
+                 "developmental method, then the classic sixfold "
+                 "list of supernormal powers"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; opens Vagga 2 with a genuinely "
+                         "fuller treatment than any discourse in "
+                         "Vagga 1, giving the classic sixfold list "
+                         "of supernormal powers in full"),
+    ],
+    why=(
+        "This discourse opens Vagga 2 with a genuinely different "
+        "register from Vagga 1's own bare statements: the Buddha's "
+        "own first-person account, as a bodhisatta before his own "
+        "awakening, of discovering the specific method for "
+        "developing each basis of psychic power &mdash; and the "
+        "classic sixfold list of supernormal powers and knowledges "
+        "this method yields, ending in arahantship itself."
+    ),
+    guide=[
+        ("A pre-awakening reflection, as a bodhisatta", [
+            "Confirmed by direct reading, this discourse opens with "
+            "the Buddha's own recollection: &ldquo;before my "
+            "awakening&mdash;when I was still unawakened but intent "
+            "on awakening&mdash;I thought: 'What's the cause, what's "
+            "the reason for the development of the bases of psychic "
+            "power?'&rdquo; &mdash; framing the entire discourse as "
+            "his own personal discovery, not received instruction.",
+        ]),
+        ("A specific method: neither lax nor tense, radiant and unenveloped", [
+            "Confirmed by direct reading, the discovered method has "
+            "several distinct elements for each basis: keeping the "
+            "governing quality (enthusiasm, energy, mind, or "
+            "inquiry) &ldquo;neither too lax nor too tense,&rdquo; "
+            "neither &ldquo;constricted internally nor scattered "
+            "externally&rdquo;; perceiving before and behind, above "
+            "and below, day and night as uniform; and developing, "
+            "&ldquo;with an open and unenveloped heart,&rdquo; a "
+            "mind &ldquo;full of radiance.&rdquo;",
+        ]),
+        ("The classic sixfold list, given in full", [
+            "As general canonical background, confirmed by this "
+            "discourse's own text: the six results are the many "
+            "kinds of psychic power itself (multiplying the body, "
+            "walking through walls, flying, touching sun and moon), "
+            "clairaudience, reading others' minds (across sixteen "
+            "paired states), recollecting past lives, clairvoyance "
+            "into beings' rebirths according to their own deeds, and "
+            "finally the ending of defilements &mdash; the classic "
+            "list this project has met elsewhere describing full "
+            "mastery's own furthest reach.",
+        ]),
+        ("A structural link back to SN 51.1", [
+            "This project's own observation: SN 51.1 already named "
+            "&ldquo;the far shore&rdquo; as the fruit of the four "
+            "bases without elaborating a method; this discourse now "
+            "supplies, in full detail, both the specific method this "
+            "vagga's own opening only gestured toward and the full "
+            "range of attainments &mdash; from psychic power through "
+            "arahantship &mdash; that method yields.",
+        ]),
+    ],
+    terms=[
+        ("bodhisattasseva sato", "&ldquo;while I was still a "
+             "bodhisatta&rdquo; &mdash; the Buddha's own explicit "
+             "framing of this reflection as occurring before his "
+             "own awakening"),
+        ("na ca atilīno...na ca atippaggahito", "&ldquo;neither too "
+             "lax nor too tense&rdquo; &mdash; the balanced quality "
+             "each basis's own governing element must have"),
+        ("vivaṭena cetasā apariyonaddhena sappabhāsaṁ cittaṁ bhāveti",
+             "&ldquo;with an open and unenveloped heart, they "
+             "develop a mind that's full of radiance&rdquo; &mdash; "
+             "the discourse's own closing image for each basis's "
+             "own development"),
+        ("anekavihitaṁ iddhividhaṁ", "&ldquo;the many kinds of "
+             "psychic power&rdquo; &mdash; the first of the sixfold "
+             "list, including multiplying the body and walking "
+             "through solid matter"),
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ",
+             "&ldquo;undefiled freedom of heart and freedom by "
+             "wisdom... through the ending of defilements&rdquo; "
+             "&mdash; the sixth and final item, arahantship itself"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.11:1.1-1.11"),
+        ("p", "&sect;2", "sn51.11:2.1"),
+        ("p", "&sect;3", "sn51.11:3.1"),
+        ("p", "&sect;4", "sn51.11:4.1-4.7"),
+        ("p", "&sect;5", "sn51.11:5.1"),
+        ("p", "&sect;6", "sn51.11:6.1"),
+        ("p", "&sect;7", "sn51.11:7.1-7.17"),
+        ("p", "&sect;8", "sn51.11:8.1"),
+        ("p", "&sect;9", "sn51.11:9.1"),
+        ("p", "&sect;10", "sn51.11:10.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse frame its own origin?",
+         "opts": ["As the Buddha's own first-person reflection, as a bodhisatta before his own awakening, discovering the method himself", "As instruction received from a previous teacher", "As a dialogue between two mendicants", "As a rule established by a later monastic council"],
+         "correct": 0,
+         "expl": "\"Before my awakening—when I was still unawakened but intent on awakening—I thought...\""},
+        {"q": "What quality must the governing element of each basis have, according to this discourse's own method?",
+         "opts": ["Neither too lax nor too tense, neither constricted internally nor scattered externally", "As intense and forceful as possible at all times", "Completely absent, since effort itself is an obstacle", "Identical in strength for all four bases simultaneously"],
+         "correct": 0,
+         "expl": "A balanced quality, confirmed directly by this discourse's own bare text."},
+        {"q": "What are the six results this discourse names, as general canonical background?",
+         "opts": ["Psychic power, clairaudience, reading others' minds, recollecting past lives, clairvoyance into rebirths, and the ending of defilements", "Only the five faculties and the four right efforts", "A single result: rebirth in a heavenly realm", "The eightfold path's own eight factors"],
+         "correct": 0,
+         "expl": "The classic sixfold list this project has met elsewhere describing full mastery's own furthest reach."},
+    ],
+    marginalia=[
+        ("A bodhisatta's own question", [
+            "before awakening, still searching —",
+            "\"what's the cause, what's the reason?\""
+        ]),
+        ("Neither lax nor tense", [
+            "before and behind, above and below —",
+            "one uniform, radiant mind"
+        ]),
+        ("Six powers, one method", [
+            "walking through walls, reading minds, seeing past lives —",
+            "all traced to the same four bases"
+        ]),
+        ("Ending where liberation begins", [
+            "the sixth power is no power at all —",
+            "the ending of defilements itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.10.html\">SN 51.10 &middot; At the Cāpāla "
+        "Shrine</a> &mdash; the previous discourse, closing Vagga 1.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
