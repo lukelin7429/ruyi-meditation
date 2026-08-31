@@ -54742,3 +54742,147 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.12 — Iddhividhasutta ("Psychic Powers")
+# Confirmed by direct reading: this project's own preview at SN
+# 52.11 is confirmed correct for this discourse -- the base question
+# and formula are elided by ellipsis, with only the closing claim
+# spelled out: the many kinds of psychic power, the same list
+# already given in full at SN 51.11.
+# --------------------------------------------------------------------------- #
+page(
+    52, 12, "Iddhividha", "Psychic Powers",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.12 — Psychic Powers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Iddhividhasutta &mdash; Anuruddha attributes the many "
+        "kinds of psychic power to the four kinds of mindfulness "
+        "meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, completing the base "
+                 "formula established at SN 52.11"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirms "
+                         "this project's own preview at SN 52.11: "
+                         "this vagga does walk through the classic "
+                         "higher knowledges one by one"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse validates this "
+        "project's own preview at SN 52.11: the base question and "
+        "formula (several mendicants asking what Anuruddha developed "
+        "to attain great direct knowledge, answered with the four "
+        "kinds of mindfulness meditation) are elided by ellipsis, "
+        "with only the closing claim spelled out &mdash; the many "
+        "kinds of psychic power, the first of the classic sixfold "
+        "higher knowledges already given in full at SN 51.11."
+    ),
+    guide=[
+        ("A bare-bones structure, confirming the vagga's own pattern", [
+            "Confirmed by direct reading, this discourse's own "
+            "content is a single elided sentence, assuming the "
+            "reader already has SN 52.11's own full question-and-"
+            "answer structure in mind &mdash; the same compression "
+            "pattern this project expects to confirm across this "
+            "vagga's own remaining discourses.",
+        ]),
+        ("The same list already met in full at SN 51.11", [
+            "Confirmed by direct reading, the specific powers named "
+            "&mdash; &ldquo;multiplying myself and becoming one "
+            "again... controlling the body as far as the realm of "
+            "divinity&rdquo; &mdash; are the identical list this "
+            "project has already translated in full detail at SN "
+            "51.11, here simply attributed to the four foundations "
+            "of mindfulness rather than the four bases of psychic "
+            "power.",
+        ]),
+        ("The same power, two different causes named across this book", [
+            "This project's own cross-reference: SN 51 attributed "
+            "psychic power to the four bases (iddhipāda); this "
+            "discourse attributes the identical power to the four "
+            "foundations of mindfulness (satipaṭṭhāna) instead "
+            "&mdash; confirming, as this project has already observed "
+            "elsewhere in this book, that multiple distinct "
+            "practices are each said to lead to the same "
+            "attainments.",
+        ]),
+    ],
+    terms=[
+        ("iddhividha", "&ldquo;psychic powers&rdquo; &mdash; this "
+             "discourse's own title and its own sole content"),
+        ("anekavihitaṁ iddhividhaṁ paccanubhoti", "&ldquo;wield the "
+             "many kinds of psychic power&rdquo; &mdash; the same "
+             "phrase already met in full at SN 51.11"),
+        ("ekopi hutvā bahudhā hoti", "&ldquo;multiplying myself and "
+             "becoming one again&rdquo; &mdash; the list's own first "
+             "item, kept here as elsewhere"),
+        ("yāva brahmalokāpi kāyena vasaṁ vatteti", "&ldquo;"
+             "controlling the body as far as the realm of "
+             "divinity&rdquo; &mdash; the list's own final, most "
+             "extreme item"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for psychic power here, distinct from SN 51's own "
+             "four bases"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.12:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse confirm about this project's own preview from SN 52.11?",
+         "opts": ["That this vagga does walk through the classic higher knowledges one by one, each attributed to the four foundations of mindfulness", "That the preview was incorrect and this vagga has no thematic pattern at all", "That psychic power is not actually one of this vagga's own topics", "That this discourse repeats SN 52.11's own content word for word"],
+         "correct": 0,
+         "expl": "Confirmed directly: this discourse's own content is psychic power, attributed to the four foundations, matching the predicted pattern."},
+        {"q": "Where has this project already translated the specific list of psychic powers named here?",
+         "opts": ["In full detail at SN 51.11", "Nowhere else in this book — this is the first occurrence", "Only in the Aṅguttara Nikāya, not in this saṃyutta collection", "At SN 52.1, the opening discourse of this saṃyutta"],
+         "correct": 0,
+         "expl": "The identical list — multiplying the body, walking through walls, flying, and more — already given in full at SN 51.11."},
+        {"q": "What does this project's own cross-reference observe about the cause named for psychic power here, compared to SN 51?",
+         "opts": ["SN 51 attributed it to the four bases of psychic power, while this discourse attributes the identical power to the four foundations of mindfulness instead", "Both discourses attribute psychic power to exactly the same named cause, with no distinction", "This discourse denies that psychic power can be developed through any practice at all", "SN 51 and this discourse describe two entirely different, unrelated sets of powers"],
+         "correct": 0,
+         "expl": "This project's own confirmed observation: multiple distinct practices, each said to lead to the same attainments."},
+    ],
+    marginalia=[
+        ("A prediction, confirmed", [
+            "the vagga does walk the list, one by one —",
+            "psychic power, right where expected"
+        ]),
+        ("A list already known", [
+            "multiplying the body, passing through walls —",
+            "the same powers as SN 51.11"
+        ]),
+        ("Two causes, one power", [
+            "the four bases there, the four foundations here —",
+            "different roots, the identical fruit"
+        ]),
+        ("Brevity that trusts the reader", [
+            "no need to repeat the question again —",
+            "SN 52.11 already set the pattern"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.11.html\">SN 52.11 &middot; A Thousand "
+        "Eons</a> &mdash; the previous discourse, establishing this "
+        "vagga's own base question and formula.",
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; this project's own full translation of the "
+        "identical list of psychic powers.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
