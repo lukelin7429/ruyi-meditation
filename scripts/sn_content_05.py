@@ -55427,3 +55427,129 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.17 — Sabbatthagāminīsutta ("Where All Paths of Practice Lead")
+# Confirmed by direct reading: the third of the ten Tathāgata powers,
+# continuing the sequence confirmed at SN 52.15-16 -- knowledge of
+# where every path of practice leads.
+# --------------------------------------------------------------------------- #
+page(
+    52, 17, "Sabbatthagāminī", "Where All Paths of Practice Lead",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.17 — Where All Paths of Practice Lead | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sabbatthagāminīsutta &mdash; Anuruddha attributes "
+        "knowledge of where every path of practice leads to the four "
+        "kinds of mindfulness meditation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the third of "
+                         "the ten Tathāgata powers, confirming this "
+                         "vagga's own sequential walk through that "
+                         "list"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; truly understanding &ldquo;where all paths of "
+        "practice lead&rdquo; &mdash; is the third of the classical "
+        "ten Tathāgata powers, directly following knowledge of the "
+        "possible and impossible (SN 52.15) and knowledge of the "
+        "results of deeds (SN 52.16), confirming this project's own "
+        "tracking of this vagga's own sequential order."
+    ),
+    guide=[
+        ("The third power, in its own established place", [
+            "This project's own confirmation: this discourse "
+            "continues the exact sequence already confirmed across "
+            "SN 52.15-16, naming the third of the ten Tathāgata "
+            "powers &mdash; understanding, for any given course of "
+            "practice, where it ultimately leads.",
+        ]),
+        ("A claim about paths, not a specific path named", [
+            "Confirmed by direct reading, the discourse's own claim "
+            "is general in scope: not a description of any single "
+            "path, but the capacity to see where &ldquo;all paths of "
+            "practice&rdquo; (sabbā paṭipadā) lead, whatever they "
+            "may be.",
+        ]),
+    ],
+    terms=[
+        ("sabbatthagāminiṁ paṭipadaṁ yathābhūtaṁ pajānāmi", "&ldquo;I "
+             "truly understand where all paths of practice "
+             "lead&rdquo; &mdash; this discourse's own precise claim, "
+             "the third of the ten Tathāgata powers"),
+        ("paṭipadā", "&ldquo;path of practice&rdquo; &mdash; the "
+             "discourse's own general term, covering any course of "
+             "conduct or practice, not one path specifically"),
+        ("sabbattha", "&ldquo;everywhere,&rdquo; here rendered "
+             "&ldquo;where all... lead&rdquo; &mdash; the "
+             "discourse's own scope, spanning every possible "
+             "destination a path might reach"),
+        ("yathābhūtaṁ", "&ldquo;truly&rdquo; &mdash; the same "
+             "qualifier already met at SN 52.15, emphasizing accurate "
+             "rather than merely opinionated understanding"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.17:1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse's own claim occupy in the ten Tathāgata powers, according to this project's own confirmed sequence?",
+         "opts": ["The third power, directly following SN 52.15's first and SN 52.16's second", "The first power, contradicting the order already established at SN 52.15", "An entirely separate list unrelated to the dasabala", "The final, tenth power in the traditional list"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: continuing the exact sequence already tracked across SN 52.15-16."},
+        {"q": "What is the scope of this discourse's own claim?",
+         "opts": ["Understanding where all paths of practice lead, in general, not any single specific path", "Understanding only the noble eightfold path specifically", "Understanding only wrong paths that lead to a bad rebirth", "A claim limited to paths practiced exclusively by Anuruddha himself"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a general capacity covering every possible path, not one path named specifically."},
+        {"q": "What cause does this discourse name for this knowledge?",
+         "opts": ["Developing and cultivating the four kinds of mindfulness meditation", "Years of formal study under multiple teachers", "A specific psychic power distinct from mindfulness meditation entirely", "No cause is named — the knowledge is described as spontaneous"],
+         "correct": 0,
+         "expl": "The same cause named throughout this vagga for every attainment, confirmed directly by the text."},
+    ],
+    marginalia=[
+        ("The third power, right where expected", [
+            "possible, then results, now paths —",
+            "the sequence holds steady"
+        ]),
+        ("Every path, not just one", [
+            "no single road named specifically —",
+            "understanding reaching all of them at once"
+        ]),
+        ("A capacity, not a map", [
+            "not which path to walk —",
+            "but where each one, once walked, arrives"
+        ]),
+        ("The same root, a third fruit", [
+            "the four foundations, named again —",
+            "one practice, an expanding list of powers"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.16.html\">SN 52.16 &middot; The Results of "
+        "Deeds Undertaken</a> &mdash; the previous discourse, the "
+        "second of the ten Tathāgata powers.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
