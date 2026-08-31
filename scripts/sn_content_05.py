@@ -80111,3 +80111,1191 @@ page(
         "Creatures</a> &mdash; this vagga's own opening discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 56.81 — Naccagītasutta ("Dancing and Singing")
+# Confirmed by direct reading: opens Vagga 9, applying the fingernail
+# formula to the first item of a classical ten-item list of things a
+# virtuous ascetic refrains from -- watching shows of dancing,
+# singing, and music.
+# --------------------------------------------------------------------------- #
+page(
+    56, 81, "Naccagīta", "Dancing and Singing",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.81 — Dancing and Singing | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Naccagītasutta &mdash; those who refrain from watching "
+        "shows of dancing and singing are as rare as a pinch of "
+        "dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.80's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens Vagga 9, the first of a recognizable "
+                         "ten-item list this project cross-references "
+                         "against the wider canon's own catalogue of "
+                         "monastic restraint"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from watching shows of "
+        "dancing, singing, and music to the rare pinch of dirt, and "
+        "those who don't refrain to the vast earth &mdash; opening "
+        "this vagga's own ten-item sequence, which this project "
+        "recognizes as closely matching the classical catalogue of "
+        "restraints elsewhere in the canon (most notably the "
+        "Sāmaññaphalasutta, DN 2) describing what a virtuous "
+        "ascetic does not accept or engage in."
+    ),
+    guide=[
+        ("A recognizable canonical list", [
+            "This project's own reading ahead: SN 56.81-90 restate, "
+            "in a similar though not necessarily identical order, "
+            "items this project recognizes from the wider canon's "
+            "own catalogue of a virtuous mendicant's own restraints "
+            "&mdash; entertainment, luxurious beds, money, raw food, "
+            "and the receiving of women, servants, and livestock "
+            "&mdash; this project offers the cross-reference without "
+            "claiming word-for-word identity, since it has not "
+            "verified an exact textual match.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye naccagītavāditavisūkadassanā "
+         "paṭiviratā", "&ldquo;the sentient beings who refrain from "
+             "seeing shows of dancing, singing, and music are "
+             "few&rdquo; &mdash; the rare category, matching the "
+             "tiny pinch of dirt"),
+        ("naccagītavāditavisūkadassana", "&ldquo;shows of dancing, "
+             "singing, and music&rdquo; &mdash; the compound term "
+             "giving this discourse its own title"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.81:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from watching shows of dancing, singing, and music?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Watching such shows is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What does this project's own reading ahead note about SN 56.81-90 as a group?",
+         "opts": ["They resemble the wider canon's own classical catalogue of a virtuous mendicant's own restraints, without claimed word-for-word identity", "They are entirely unique to this saṃyutta with no wider canonical parallel", "They concern exclusively dietary restrictions", "They restate the same seven courses of action already met in Vagga 8"],
+         "correct": 0,
+         "expl": "This project's own cautious cross-reference, offered without overclaiming an exact textual match."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The first", "The second", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Paṭhamaṁ\" (\"first\")."},
+    ],
+    marginalia=[
+        ("A familiar catalogue begins", [
+            "shows and entertainment, first of ten items —",
+            "echoing the wider canon's own restraint list"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("Opening Vagga 9", [
+            "the third raw-grain-named vagga —",
+            "where raw grain itself finally appears, four discourses ahead"
+        ]),
+        ("First of ten", [
+            "nine discourses remain in this vagga —",
+            "high beds follow next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.81/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.80.html\">SN 56.80 &middot; Perfumes and "
+        "Makeup</a> &mdash; the closing discourse of the previous "
+        "vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.82 — Uccāsayanasutta ("High Beds")
+# Confirmed by direct reading: the second item in this vagga's own
+# ten-item restraint list -- refraining from high and luxurious beds.
+# --------------------------------------------------------------------------- #
+page(
+    56, 82, "Uccāsayana", "High Beds",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.82 — High Beds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uccāsayanasutta &mdash; those who refrain from high and "
+        "luxurious beds are as rare as a pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.81's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of ten "
+                         "discourses"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from high and luxurious beds "
+        "to the rare pinch of dirt, and those who don't refrain to "
+        "the vast earth &mdash; the second item in this vagga's own "
+        "ten-part restraint list."
+    ),
+    guide=[
+        ("A comfort renounced", [
+            "This project's own reading: &ldquo;uccāsayana&rdquo; "
+            "(&ldquo;high beds&rdquo;) names an ordinary material "
+            "comfort a mendicant sets aside, standing among this "
+            "vagga's own broader catalogue of restraint that ranges "
+            "from entertainment through material goods to living "
+            "beings.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye uccāsayanamahāsayanā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from high and "
+             "luxurious beds are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt"),
+        ("uccāsayanamahāsayana", "&ldquo;high and luxurious "
+             "beds&rdquo; &mdash; the compound term giving this "
+             "discourse its own title"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.82:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from high and luxurious beds?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "High beds are claimed to be impossible for any being to obtain"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What kind of item does \"uccāsayana\" represent, per this project's own reading?",
+         "opts": ["An ordinary material comfort a mendicant sets aside", "A form of speech, like those addressed in Vagga 8", "A living being, like the items later in this vagga", "A form of entertainment, identical to SN 56.81"],
+         "correct": 0,
+         "expl": "This project's own reading placing this item within the vagga's own broader catalogue."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The second", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Dutiyaṁ\" (\"second\")."},
+    ],
+    marginalia=[
+        ("A comfort renounced", [
+            "high, luxurious beds —",
+            "an ordinary material comfort set aside"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "gold and money follow next"
+        ]),
+        ("A widening catalogue", [
+            "from entertainment to material comfort —",
+            "money, food, and living beings still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.82/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.81.html\">SN 56.81 &middot; Dancing and "
+        "Singing</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.83 — Jātarūparajatasutta ("Gold and Currency")
+# Confirmed by direct reading: the third item in this vagga's own
+# ten-item restraint list -- refraining from receiving gold and
+# currency, immediately preceding SN 56.84's own raw-grain discourse.
+# --------------------------------------------------------------------------- #
+page(
+    56, 83, "Jātarūparajata", "Gold and Currency",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.83 — Gold and Currency | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jātarūparajatasutta &mdash; those who refrain from "
+        "receiving gold and currency are as rare as a pinch of dirt. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.82's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the third of "
+                         "ten discourses, immediately preceding this "
+                         "vagga's own title-giving discourse at SN "
+                         "56.84"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving gold and "
+        "currency to the rare pinch of dirt, and those who don't "
+        "refrain to the vast earth &mdash; refraining from handling "
+        "money, a restraint this project recognizes elsewhere in "
+        "the canon as a standard element of monastic discipline."
+    ),
+    guide=[
+        ("Refraining from money specifically", [
+            "This project's own reading: &ldquo;jātarūparajata&rdquo; "
+            "(&ldquo;gold and silver,&rdquo; i.e. currency of any "
+            "kind) names a restraint distinct from the physical "
+            "comforts (beds, entertainment) addressed so far &mdash; "
+            "concerning the handling of money itself, a topic this "
+            "project recognizes as a recurring and sometimes "
+            "contested boundary in monastic practice.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye jātarūparajatapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "gold and currency are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt"),
+        ("jātarūparajata", "&ldquo;gold and silver&rdquo; &mdash; "
+             "a standard compound term for money or currency of any "
+             "kind"),
+        ("paṭiggahaṇā", "&ldquo;receiving, accepting&rdquo; "
+             "&mdash; the verb governing this and every remaining "
+             "item in this vagga's own list, shifting from "
+             "&ldquo;watching&rdquo; or general restraint to the "
+             "specific act of accepting something offered"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.83:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from receiving gold and currency?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Receiving gold and currency is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What verb does this project's own reading note governs this and every remaining item in this vagga's own list?",
+         "opts": ["\"Paṭiggahaṇā\" (\"receiving, accepting\"), shifting the focus to accepting something offered", "\"Passanā\" (\"seeing\"), continuing SN 56.81's own watching-focused verb", "No consistent verb; each item uses an entirely different action word", "\"Karaṇā\" (\"doing\"), a generic action verb"],
+         "correct": 0,
+         "expl": "This project's own reading of a shift in verb from SN 56.81's own \"watching\" to \"receiving\"."},
+        {"q": "What discourse does this one immediately precede, per this project's own reading?",
+         "opts": ["SN 56.84, this vagga's own title-giving \"raw grain\" discourse", "SN 56.90, this vagga's own closing discourse", "SN 56.61, the opening discourse of Vagga 7", "No particular discourse; its position carries no special significance"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("Money, specifically", [
+            "\"jātarūparajata\" — gold and silver —",
+            "a recurring boundary in monastic practice"
+        ]),
+        ("A shift in verb", [
+            "from watching to receiving —",
+            "the pattern for every remaining item in this vagga"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "raw grain itself, this vagga's own namesake, follows next"
+        ]),
+        ("One discourse from the answer", [
+            "SN 56.61's own naming puzzle nearly resolved —",
+            "the title-giving discourse comes next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.83/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.82.html\">SN 56.82 &middot; High "
+        "Beds</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.84 — Āmakadhaññasutta ("Raw Grain")
+# Confirmed by direct reading: this is the discourse that gives its
+# own name to the entire four-vagga block (Vaggas 7-10), resolving
+# the naming puzzle this project first flagged at SN 56.61 and
+# partially traced at SN 56.78.
+# --------------------------------------------------------------------------- #
+page(
+    56, 84, "Āmakadhañña", "Raw Grain",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.84 — Raw Grain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āmakadhaññasutta &mdash; the discourse that finally "
+        "gives its own name to the four-vagga \"raw grain\" block, "
+        "resolving a puzzle traced since SN 56.61. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.83's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the fourth of ten discourses, at "
+                         "last resolving this project's own naming "
+                         "puzzle first flagged at SN 56.61 and "
+                         "partially traced at SN 56.78"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving raw grain to "
+        "the rare pinch of dirt, and those who don't refrain to the "
+        "vast earth &mdash; and its own title, "
+        "&ldquo;Āmakadhaññasutta,&rdquo; is the literal source of "
+        "the name shared by all four vaggas in this block (7 "
+        "through 10, each named &ldquo;first/second/third/fourth "
+        "āmakadhaññapeyyālavagga&rdquo;), confirming this project's "
+        "own hypothesis first raised at SN 56.61 and partially "
+        "supported at SN 56.78: the block is named for this "
+        "discourse specifically, its own most distinctive or "
+        "memorable member, even though the name does not describe "
+        "every discourse within it."
+    ),
+    guide=[
+        ("A naming puzzle, resolved", [
+            "This project's own full accounting, closing a thread "
+            "traced across three vaggas: SN 56.61 first flagged that "
+            "no discourse in Vagga 7 mentioned raw grain despite the "
+            "vagga's own name; SN 56.78 offered a partial "
+            "explanation via the shared &ldquo;bīja&rdquo; "
+            "(&ldquo;seed&rdquo;) root; this discourse now confirms "
+            "directly that &ldquo;raw grain&rdquo; names an actual "
+            "discourse, positioned as the fourth of ten in this "
+            "third vagga of the block &mdash; the whole four-vagga "
+            "stretch (SN 56.61-100, by this project's own reading "
+            "ahead) evidently takes its own collective name from "
+            "this single, memorable discourse rather than from any "
+            "content shared by all forty of its own members.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye āmakadhaññapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "raw grain are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("āmakadhañña", "&ldquo;raw, uncooked grain&rdquo; &mdash; "
+             "the term giving this discourse its own title, and by "
+             "extension the name of this entire four-vagga block"),
+        ("paṭiggahaṇā", "&ldquo;receiving, accepting&rdquo; "
+             "&mdash; the same verb governing every item since SN "
+             "56.83"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.84:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own title finally confirm, per this project's own reading?",
+         "opts": ["This is the actual discourse that gives its own name to the entire four-vagga \"raw grain\" block, first flagged as a puzzle at SN 56.61", "The vagga naming puzzle remains fully unresolved even after this discourse", "Raw grain was never actually mentioned in this saṃyutta at all", "This discourse denies any connection to the block's own name"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the puzzle's own resolution, traced across three vaggas of this project's own work."},
+        {"q": "What does this project's own conclusion suggest about how the four-vagga block came to share its own name?",
+         "opts": ["The block takes its own collective name from this single, memorable discourse, not from content shared by all forty members", "Every one of the forty discourses in this block explicitly discusses raw grain", "The name is a scribal error unrelated to any discourse's own content", "The name derives from a discourse in an entirely different saṃyutta"],
+         "correct": 0,
+         "expl": "This project's own final reading of the naming convention, now confirmed directly."},
+        {"q": "What claim does this discourse itself make about refraining from receiving raw grain?",
+         "opts": ["Those who refrain are few, as rare as the pinch of dirt; those who don't are many, as common as the earth", "Refraining from raw grain is claimed to be the most common practice among all sentient beings", "The discourse makes no claim about raw grain specifically, only about wisdom", "Raw grain is declared entirely safe to receive without restriction"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own specific claim, matching this vagga's own recurring formula."},
+    ],
+    marginalia=[
+        ("A puzzle, resolved at last", [
+            "SN 56.61 first noticed the mismatch —",
+            "this discourse is the actual source of the name"
+        ]),
+        ("Named for one member, not the whole", [
+            "forty discourses, one memorable name —",
+            "\"raw grain\" describes only this single discourse"
+        ]),
+        ("The same restraint formula, once more", [
+            "receiving raw grain, rare as dirt —",
+            "this vagga's own recurring structure"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "raw meat follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.84/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.83.html\">SN 56.83 &middot; Gold and "
+        "Currency</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.61.html\">SN 56.61 &middot; Not Human</a> "
+        "&mdash; this project's own first flag of the naming puzzle "
+        "this discourse finally resolves.",
+        "<a href=\"sn-56.78.html\">SN 56.78 &middot; Plants</a> "
+        "&mdash; this project's own earlier, partial step toward "
+        "this resolution.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.85 — Āmakamaṁsasutta ("Raw Meat")
+# Confirmed by direct reading: companion item to SN 56.84's own raw
+# grain, applying the identical formula to raw meat.
+# --------------------------------------------------------------------------- #
+page(
+    56, 85, "Āmakamaṁsa", "Raw Meat",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.85 — Raw Meat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āmakamaṁsasutta &mdash; those who refrain from "
+        "receiving raw meat are as rare as a pinch of dirt. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.84's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fifth of ten "
+                         "discourses, this vagga's own companion item "
+                         "to SN 56.84's own raw grain"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving raw meat to the "
+        "rare pinch of dirt, and those who don't refrain to the "
+        "vast earth &mdash; pairing with SN 56.84's own raw grain as "
+        "this vagga's own two items concerning unprepared "
+        "provisions."
+    ),
+    guide=[
+        ("Raw grain and raw meat, a natural pair", [
+            "This project's own reading: &ldquo;āmakamaṁsa&rdquo; "
+            "(&ldquo;raw meat&rdquo;) directly follows and pairs "
+            "with SN 56.84's own &ldquo;āmakadhañña&rdquo; (raw "
+            "grain), both sharing the &ldquo;āmaka&rdquo; "
+            "(&ldquo;raw, uncooked&rdquo;) qualifier and together "
+            "naming a restraint concerning food received in an "
+            "unprepared state.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye āmakamaṁsapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "raw meat are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("āmaka", "&ldquo;raw, uncooked&rdquo; &mdash; the "
+             "qualifier shared with SN 56.84's own \"āmakadhañña\""),
+        ("maṁsa", "&ldquo;meat, flesh&rdquo; &mdash; the object "
+             "paired with grain as this discourse's own specific "
+             "topic"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.85:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from receiving raw meat?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Receiving raw meat is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What shared qualifier links this discourse's own topic to SN 56.84's own?",
+         "opts": ["\"Āmaka\" (\"raw, uncooked\"), applied here to meat and there to grain", "No connection at all between the two discourses", "Both discourses concern gold and currency, not food", "The two discourses share only their own position in the sequence, nothing textual"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a shared qualifier naming both as unprepared provisions."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fifth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.84."},
+    ],
+    marginalia=[
+        ("A natural pair with SN 56.84", [
+            "\"āmaka\" — raw, uncooked —",
+            "shared between grain and meat"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("The vagga's own midpoint", [
+            "five discourses given, five remain —",
+            "the same structure holding throughout"
+        ]),
+        ("Fifth of ten", [
+            "women and girls follow next —",
+            "this vagga's own turn toward living beings"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.85/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.84.html\">SN 56.84 &middot; Raw Grain</a> "
+        "&mdash; the previous discourse, this discourse's own "
+        "companion item.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.86 — Kumārikasutta ("Women and Girls")
+# Confirmed by direct reading: applies the identical formula to
+# refraining from receiving women and girls, reflecting the
+# monastic vinaya's own historical prohibition against accepting
+# people as gifts or property.
+# --------------------------------------------------------------------------- #
+page(
+    56, 86, "Kumārika", "Women and Girls",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.86 — Women and Girls | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kumārikasutta &mdash; those who refrain from receiving "
+        "women and girls are as rare as a pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.85's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the sixth of "
+                         "ten discourses, reflecting a historical "
+                         "monastic restraint this project reports "
+                         "honestly rather than glossing over"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving women and girls "
+        "to the rare pinch of dirt, and those who don't refrain to "
+        "the vast earth &mdash; the sixth item in this vagga's own "
+        "list, reflecting the monastic vinaya's own historical "
+        "prohibition against mendicants accepting people as gifts or "
+        "property, a restraint this project reports as historical "
+        "content rather than endorsing the social arrangement it "
+        "presupposes."
+    ),
+    guide=[
+        ("A restraint this project reports without endorsing its own premise", [
+            "This project's own honest note: this item's own "
+            "inclusion in the list presupposes a social arrangement "
+            "&mdash; people, specifically women and girls, being "
+            "offered as gifts or acquisitions &mdash; that this "
+            "project does not treat as acceptable, reporting the "
+            "text's own historical content faithfully rather than "
+            "endorsing or softening what it describes.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye kumārikapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "women and girls are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt"),
+        ("kumārika", "&ldquo;girl, young woman&rdquo; &mdash; the "
+             "term giving this discourse its own title"),
+        ("paṭiggahaṇā", "&ldquo;receiving, accepting&rdquo; "
+             "&mdash; the same verb governing this item, as with "
+             "gold, grain, and meat before it"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.86:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from receiving women and girls?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "The discourse denies this item belongs to the ten-part list at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "How does this project characterize its own approach to reporting this item?",
+         "opts": ["Reporting the text's own historical content faithfully, without endorsing the social arrangement it presupposes", "Fully endorsing the practice described as a model for present-day conduct", "Omitting the discourse entirely to avoid discomfort", "Rewriting the discourse's own content to remove the item"],
+         "correct": 0,
+         "expl": "This project's own stated approach: honest reporting rather than endorsement or omission."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The sixth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.85."},
+    ],
+    marginalia=[
+        ("A restraint from another era", [
+            "reported honestly, not softened —",
+            "nor endorsed as this project's own view"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "male and female bondservants follow next"
+        ]),
+        ("A widening catalogue of living beings", [
+            "people, then servants, then livestock —",
+            "this vagga's own final four items"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.86/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.85.html\">SN 56.85 &middot; Raw Meat</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.87 — Dāsidāsasutta ("Bondservants")
+# Confirmed by direct reading: applies the identical formula to
+# refraining from receiving male and female bondservants -- another
+# item this project reports as historical content, not endorsement.
+# --------------------------------------------------------------------------- #
+page(
+    56, 87, "Dāsidāsa", "Bondservants",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.87 — Bondservants | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dāsidāsasutta &mdash; those who refrain from receiving "
+        "male and female bondservants are as rare as a pinch of "
+        "dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.86's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the seventh "
+                         "of ten discourses, reflecting the same "
+                         "historical monastic restraint against "
+                         "accepting people as property already met "
+                         "at SN 56.86"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving male and female "
+        "bondservants to the rare pinch of dirt, and those who "
+        "don't refrain to the vast earth &mdash; continuing this "
+        "vagga's own catalogue of restraint against accepting "
+        "people as property, this project's own honest reporting of "
+        "historical content applying here as it did at SN 56.86."
+    ),
+    guide=[
+        ("Continuing an honestly reported restraint", [
+            "This project's own note, carried forward from SN "
+            "56.86: this item likewise presupposes bonded servitude "
+            "as a social institution the text addresses rather than "
+            "endorses in the abstract, and this project continues to "
+            "report the discourse's own historical content faithfully "
+            "rather than softening or omitting it.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye dāsidāsapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "male and female bondservants are few&rdquo; &mdash; "
+             "the rare category, matching the tiny pinch of dirt"),
+        ("dāsī", "&ldquo;female bondservant&rdquo; &mdash; the "
+             "first half of the compound giving this discourse its "
+             "own title"),
+        ("dāsa", "&ldquo;male bondservant&rdquo; &mdash; the second "
+             "half of the compound"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.87:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from receiving male and female bondservants?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "This item is claimed to be absent from the ten-part list"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "How does this project's own approach to this discourse relate to its own approach at SN 56.86?",
+         "opts": ["The same honest, non-endorsing report of historical content, carried forward consistently", "An entirely different approach, this time endorsing the practice described", "This project omits the discourse's own content entirely here, unlike at SN 56.86", "No relation; the two discourses are treated as unrelated topics"],
+         "correct": 0,
+         "expl": "This project's own consistent, carried-forward approach to reporting historical content honestly."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The seventh", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.86."},
+    ],
+    marginalia=[
+        ("Continuing an honest report", [
+            "the same approach as SN 56.86 —",
+            "historical content, neither softened nor endorsed"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "goats and sheep follow next"
+        ]),
+        ("A turn toward livestock", [
+            "people addressed, now animals —",
+            "this vagga's own final three items"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.87/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.86.html\">SN 56.86 &middot; Women and "
+        "Girls</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.88 — Ajeḷakasutta ("Goats and Sheep")
+# Confirmed by direct reading: turns to livestock, the first of this
+# vagga's own final three items.
+# --------------------------------------------------------------------------- #
+page(
+    56, 88, "Ajeḷaka", "Goats and Sheep",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.88 — Goats and Sheep | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajeḷakasutta &mdash; those who refrain from receiving "
+        "goats and sheep are as rare as a pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.87's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the eighth of ten "
+                         "discourses, opening this vagga's own final "
+                         "three-item run on livestock"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving goats and sheep "
+        "to the rare pinch of dirt, and those who don't refrain to "
+        "the vast earth &mdash; opening this vagga's own final "
+        "three-item sequence on livestock (goats and sheep, chickens "
+        "and pigs, elephants and cattle), a monastic restraint "
+        "against accepting animals as gifts or acquisitions."
+    ),
+    guide=[
+        ("A turn to smaller livestock", [
+            "This project's own reading: this vagga's own closing "
+            "run moves from smaller to larger animals &mdash; goats "
+            "and sheep here, then chickens and pigs at SN 56.89, "
+            "then elephants, cattle, and horses closing the vagga at "
+            "SN 56.90 &mdash; a rough ascending order this project "
+            "notes without claiming the text itself states such an "
+            "ordering principle explicitly.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye ajeḷakapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "goats and sheep are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt"),
+        ("aja", "&ldquo;goat&rdquo; &mdash; the first half of the "
+             "compound giving this discourse its own title"),
+        ("eḷaka", "&ldquo;sheep, ram&rdquo; &mdash; the second half "
+             "of the compound"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.88:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from receiving goats and sheep?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Goats and sheep are claimed to be entirely absent from this region"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What ordering does this project's own reading note across this vagga's own final three items?",
+         "opts": ["A rough ascending order from smaller to larger animals — goats and sheep, then chickens and pigs, then elephants and cattle", "A strictly alphabetical ordering by Pali term", "A descending order from largest to smallest animals", "No discernible ordering of any kind"],
+         "correct": 0,
+         "expl": "This project's own observed pattern, offered without claiming the text itself states it explicitly."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The eighth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.87."},
+    ],
+    marginalia=[
+        ("Smaller livestock first", [
+            "goats and sheep, opening the final three —",
+            "chickens and pigs, then elephants to come"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "chickens and pigs follow next"
+        ]),
+        ("Nearing this vagga's own close", [
+            "elephants and cattle close it —",
+            "the largest animals, last in the sequence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.88/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.87.html\">SN 56.87 &middot; "
+        "Bondservants</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.89 — Kukkuṭasūkarasutta ("Chickens and Pigs")
+# Confirmed by direct reading: the second of this vagga's own three
+# closing livestock items.
+# --------------------------------------------------------------------------- #
+page(
+    56, 89, "Kukkuṭasūkara", "Chickens and Pigs",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.89 — Chickens and Pigs | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kukkuṭasūkarasutta &mdash; those who refrain from "
+        "receiving chickens and pigs are as rare as a pinch of "
+        "dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.88's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the ninth of ten "
+                         "discourses, the second of this vagga's own "
+                         "closing livestock items"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from receiving chickens and "
+        "pigs to the rare pinch of dirt, and those who don't refrain "
+        "to the vast earth &mdash; continuing this vagga's own "
+        "closing livestock sequence between SN 56.88's own goats and "
+        "sheep and SN 56.90's own elephants and cattle."
+    ),
+    guide=[
+        ("Domestic fowl and swine", [
+            "This project's own reading: &ldquo;kukkuṭasūkara&rdquo; "
+            "(&ldquo;chickens and pigs&rdquo;) names common "
+            "domestic animals, continuing the ascending scale this "
+            "project noted at SN 56.88, midway between the smaller "
+            "goats and sheep and the far larger elephants closing "
+            "this vagga at SN 56.90.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye kukkuṭasūkarapaṭiggahaṇā paṭiviratā",
+             "&ldquo;the sentient beings who refrain from receiving "
+             "chickens and pigs are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt"),
+        ("kukkuṭa", "&ldquo;chicken, fowl&rdquo; &mdash; the first "
+             "half of the compound giving this discourse its own "
+             "title"),
+        ("sūkara", "&ldquo;pig, swine&rdquo; &mdash; the second "
+             "half of the compound"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.89:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from receiving chickens and pigs?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Chickens and pigs are claimed to be sacred animals never received or given"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "Where does this discourse's own topic sit within this project's own noted ascending scale of animal size?",
+         "opts": ["Midway, between SN 56.88's own smaller goats and sheep and SN 56.90's own larger elephants and cattle", "At the very smallest end of the scale, smaller than any other item", "At the very largest end, larger than elephants", "This project identifies no such scale at all"],
+         "correct": 0,
+         "expl": "This project's own reading of the sequence's own rough ordering."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.88."},
+    ],
+    marginalia=[
+        ("Common domestic animals", [
+            "chickens and pigs, midway on the scale —",
+            "between goats and elephants"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this saṃyutta's own recurring formula, once more"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "closing it next"
+        ]),
+        ("The largest animals still ahead", [
+            "elephants and cattle close this vagga next —",
+            "and this saṃyutta's own third block"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.89/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.88.html\">SN 56.88 &middot; Goats and "
+        "Sheep</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.90 — Hatthigavassasutta ("Elephants and Cows")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 9 ("Tatiyaāmakadhaññapeyyālavaggo navamo"),
+# ten discourses (SN 56.81-90), with its own closing uddāna confirmed
+# to match exactly.
+# --------------------------------------------------------------------------- #
+page(
+    56, 90, "Hatthigavassa", "Elephants and Cows",
+    vagga="Tatiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.90 — Elephants and Cows | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Hatthigavassasutta &mdash; the closing discourse of "
+        "Vagga 9, on refraining from receiving elephants, cattle, "
+        "and horses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.89's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, then this vagga's own "
+                 "closing colophon and uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "confirmed by direct reading of the root "
+                         "colophon as the close of Vagga 9, ten "
+                         "discourses, closing this vagga's own "
+                         "ascending livestock sequence at its own "
+                         "largest animals"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 9 (&ldquo;"
+        "Tatiyaāmakadhaññapeyyālavaggo navamo&rdquo;) by comparing "
+        "sentient beings who refrain from receiving elephants, "
+        "cattle, horses, and mares to the rare pinch of dirt, and "
+        "those who don't refrain to the vast earth &mdash; the "
+        "largest animals named, closing this vagga's own ascending "
+        "livestock sequence begun at SN 56.88."
+    ),
+    guide=[
+        ("The scale completed", [
+            "This project's own final observation: goats and sheep "
+            "(SN 56.88), then chickens and pigs (SN 56.89), then "
+            "elephants, cattle, horses, and mares here &mdash; this "
+            "vagga's own closing three items complete a rough "
+            "ascending scale by animal size, ending at the largest.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.81-90", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;Dance, beds, silver; grain, meat, girls; "
+            "bondservants and goats; chickens, pigs, and "
+            "elephant&rdquo;) lists exactly ten titles, matching "
+            "this project's own SN 56.81 through SN 56.90 precisely "
+            "&mdash; and this vagga's own own name, the third of the "
+            "\"raw grain\" block, is confirmed to derive from its "
+            "own fourth member, SN 56.84, not from this closing "
+            "discourse's own content.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye hatthigavassavaḷavapaṭiggahaṇā "
+         "paṭiviratā", "&ldquo;the sentient beings who refrain from "
+             "receiving elephants, cows, horses, and mares are "
+             "few&rdquo; &mdash; the rare category, matching the "
+             "tiny pinch of dirt"),
+        ("hatthi", "&ldquo;elephant&rdquo; &mdash; the largest "
+             "animal named, giving this discourse its own title"),
+        ("gavassavaḷava", "&ldquo;cattle, horses, and mares&rdquo; "
+             "&mdash; the remaining large livestock named alongside "
+             "elephants"),
+        ("dasamaṁ. tatiyaāmakadhaññapeyyālavaggo navamo", "&ldquo;"
+             "tenth. the ninth vagga [ends]&rdquo; &mdash; the root "
+             "colophon's own vagga-closing marker"),
+        ("naccaṁ sayanaṁ rajataṁ, dhaññaṁ maṁsaṁ kumārikā; dāsī "
+         "ajeḷakañceva, kukkuṭasūkarahatthīti", "the closing "
+             "uddāna's own ten titles, confirmed by direct reading "
+             "to match SN 56.81 through SN 56.90 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. The vagga-closing colophon and "
+        "uddāna verse are left untranslated in the consulted English "
+        "source, as at several earlier vagga closes throughout this "
+        "project's own work. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.90:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 9 (\"Tatiyaāmakadhaññapeyyālavaggo navamo\"), ten discourses (SN 56.81-90)", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 10, not Vagga 9"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "What scale does this discourse complete, per this project's own reading?",
+         "opts": ["A rough ascending order of livestock by size — goats and sheep, chickens and pigs, then elephants and cattle, the largest", "A descending order from largest to smallest, the reverse of this project's own claim", "No scale at all; the ordering is random", "A scale of monetary value rather than physical size"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this vagga's own closing three items completing an ascending sequence."},
+        {"q": "What does this project's own reading confirm about this vagga's own name, given this discourse's own closing content?",
+         "opts": ["The \"raw grain\" name derives from SN 56.84 specifically, not from this closing discourse about elephants and cattle", "This discourse itself is the source of the vagga's own name", "The vagga's own name remains entirely unexplained even after this discourse", "The name derives equally from all ten discourses combined"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the naming puzzle traced and resolved earlier at SN 56.84, not reopened here."},
+    ],
+    marginalia=[
+        ("The largest animals, closing the scale", [
+            "elephants, cattle, horses, mares —",
+            "the top of this vagga's own ascending sequence"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Tatiyaāmakadhaññapeyyālavaggo navamo\" — the ninth vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("The naming puzzle, already resolved", [
+            "not by this discourse, but by SN 56.84 —",
+            "the block's own actual namesake"
+        ]),
+        ("Vagga 9 complete, one more to come", [
+            "the fourth and final raw-grain-named vagga follows next —",
+            "this saṃyutta's own last stretch of individual discourses"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.90/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.89.html\">SN 56.89 &middot; Chickens and "
+        "Pigs</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.81.html\">SN 56.81 &middot; Dancing and "
+        "Singing</a> &mdash; this vagga's own opening discourse.",
+    ],
+)
