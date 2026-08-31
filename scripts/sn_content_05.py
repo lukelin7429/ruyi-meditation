@@ -49737,3 +49737,161 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.15 — Uṇṇābhabrāhmaṇasutta ("The Brahmin Uṇṇābha")
+# Confirmed by direct reading: taught by Ānanda, not the Buddha, to a
+# brahmin questioner at Kosambī. Resolves the apparent paradox that
+# using desire (chanda, the first basis) to abandon desire seems like
+# an infinite regress, via the walking-to-the-park analogy. Ends with
+# the brahmin taking refuge as a lay follower for life.
+# --------------------------------------------------------------------------- #
+page(
+    51, 15, "Uṇṇābhabrāhmaṇa", "The Brahmin Uṇṇābha",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.15 — The Brahmin Uṇṇābha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uṇṇābhabrāhmaṇasutta &mdash; Venerable Ānanda resolves "
+        "an apparent paradox about using desire to abandon desire, "
+        "using the walking-to-the-park analogy. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Ghosita's Monastery, Kosambī"),
+        ("Speakers", "Venerable Ānanda and Uṇṇābha the brahmin"),
+        ("Form", "A philosophical dialogue resolving an apparent "
+                 "paradox, ending in the brahmin's own conversion"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; taught by Ānanda rather than the "
+                         "Buddha, resolving a genuine philosophical "
+                         "puzzle about desire and ending in a "
+                         "brahmin's own conversion"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse is taught not "
+        "by the Buddha but by Venerable Ānanda, answering a sharp "
+        "objection from a brahmin questioner: if the path to giving "
+        "up desire itself begins with desire (chanda, the first "
+        "basis of psychic power), isn't the path an endless regress? "
+        "Ānanda's own answer, confirmed directly by the text, uses a "
+        "simple everyday analogy to show the desire is self-"
+        "consuming, not self-perpetuating &mdash; and the brahmin "
+        "goes for refuge on the spot."
+    ),
+    guide=[
+        ("A brahmin's own sharp objection", [
+            "Confirmed by direct reading, Uṇṇābha's own challenge is "
+            "precise: since the path to giving up desire is itself "
+            "described as beginning with desire, &ldquo;the path is "
+            "endless, not finite&mdash;for it's not possible to give "
+            "up desire by means of desire,&rdquo; he argues, naming "
+            "an apparent logical trap in the very teaching Ānanda "
+            "had just described.",
+        ]),
+        ("The walking-to-the-park analogy", [
+            "Confirmed by direct reading, Ānanda's own reply doesn't "
+            "argue abstractly but asks the brahmin about his own "
+            "experience: he had once desired to walk to a park, but "
+            "on arriving, that very desire &ldquo;faded "
+            "away&rdquo; &mdash; and the same is true, he confirms, "
+            "of the energy, the idea, and the inquiry that got him "
+            "there.",
+        ]),
+        ("Desire that consumes itself, applied to the goal", [
+            "Confirmed by direct reading, Ānanda then applies this "
+            "same pattern to a mendicant who has &ldquo;ended "
+            "defilements&rdquo;: they too formerly had the desire, "
+            "energy, idea, and inquiry needed to attain perfection, "
+            "but once perfection was attained, each of these "
+            "&ldquo;faded away&rdquo; in turn &mdash; the desire "
+            "used to reach the goal doesn't survive to become a new "
+            "attachment once the goal is reached.",
+        ]),
+        ("A conversion sealed on the spot", [
+            "Confirmed by direct reading, the discourse closes with "
+            "the brahmin's own explicit conversion, praising "
+            "Ānanda's teaching with the classic fourfold simile "
+            "(righting the overturned, revealing the hidden, "
+            "pointing out the path to the lost, lighting a lamp in "
+            "the dark) before formally going for refuge as a lay "
+            "follower for life.",
+        ]),
+    ],
+    terms=[
+        ("chandena chandaṁ pajahissatī", "&ldquo;to give up desire "
+             "by means of desire&rdquo; &mdash; the brahmin's own "
+             "objection, naming the apparent paradox at the heart of "
+             "this discourse"),
+        ("ananto ayaṁ pañho, no anto", "&ldquo;the path is endless, "
+             "not finite&rdquo; &mdash; the brahmin's own initial, "
+             "mistaken conclusion, later reversed in his own words"),
+        ("ārāmaṁ gantukāmo", "&ldquo;had a desire to walk to the "
+             "park&rdquo; &mdash; Ānanda's own everyday analogy, "
+             "grounding an abstract point in the brahmin's own lived "
+             "experience"),
+        ("khīṇāsavo... arahā", "&ldquo;perfected&mdash;with "
+             "defilements ended&rdquo; &mdash; the mendicant Ānanda "
+             "describes as having reached the very goal desire was "
+             "first used to pursue"),
+        ("saraṇaṁ gataṁ upāsakaṁ", "&ldquo;a lay follower who has "
+             "gone for refuge&rdquo; &mdash; the brahmin's own final "
+             "self-description, closing the discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.15:1.1-1.6"),
+        ("p", "&sect;2", "sn51.15:2.1-2.2"),
+        ("p", "&sect;3", "sn51.15:3.1-3.6"),
+        ("p", "&sect;4", "sn51.15:4.1-4.16"),
+        ("p", "&sect;5", "sn51.15:5.1-5.6"),
+        ("p", "&sect;6", "sn51.15:6.1-6.5"),
+    ],
+    quiz=[
+        {"q": "What objection does the brahmin Uṇṇābha raise?",
+         "opts": ["If the path to giving up desire itself begins with desire, the path seems endless — it's not possible to give up desire by means of desire", "That Ānanda's teaching contradicts something the Buddha himself said elsewhere", "That mendicants should not be permitted to develop psychic powers at all", "That the four bases of psychic power apply only to laypeople, not mendicants"],
+         "correct": 0,
+         "expl": "\"The path is endless, not finite. For it's not possible to give up desire by means of desire.\""},
+        {"q": "How does Ānanda answer this objection?",
+         "opts": ["With the walking-to-the-park analogy: a desire that motivates an action naturally fades once that action's goal is reached", "By denying that desire is involved in the path at all", "By appealing to the Buddha's own authority without further explanation", "By redefining desire so that the objection no longer applies"],
+         "correct": 0,
+         "expl": "A desire to walk to the park fades away once you arrive — the same pattern applies to attaining perfection."},
+        {"q": "How does the discourse end?",
+         "opts": ["The brahmin concludes the path is finite after all, and goes for refuge as a lay follower for life", "The brahmin remains unconvinced and departs without further comment", "The Buddha arrives to settle the dispute personally", "The discourse ends with the question left explicitly unresolved"],
+         "correct": 0,
+         "expl": "\"Clearly, worthy Ānanda, this being the case, the path is finite, not endless\" — followed by taking refuge."},
+    ],
+    marginalia=[
+        ("A trap in the teaching itself", [
+            "\"it's not possible to give up desire by means of desire\" —",
+            "a brahmin's own sharp logical challenge"
+        ]),
+        ("A walk to the park", [
+            "desire got you there, then it was gone —",
+            "the ordinary answers the abstract"
+        ]),
+        ("The goal reached, the wanting gone", [
+            "desire, energy, idea, inquiry —",
+            "all four fade once perfection is attained"
+        ]),
+        ("Refuge, taken on the spot", [
+            "righting the overturned, lighting a lamp in the dark —",
+            "a brahmin becomes a lay follower for life"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.15/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.14.html\">SN 51.14 &middot; With "
+        "Moggallāna</a> &mdash; the previous discourse, this vagga's "
+        "own namesake.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
