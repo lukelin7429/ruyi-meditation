@@ -49283,3 +49283,147 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.12 — Bahukārasutta ("Very Fruitful")
+# Confirmed by direct reading: the same method as SN 51.11, restated
+# in the Buddha's own general voice (not the pre-awakening bodhisatta
+# frame), with the sixfold list compressed to a bare cross-reference
+# via ellipsis rather than given in full a second time.
+# --------------------------------------------------------------------------- #
+page(
+    51, 12, "Bahukāra", "Very Fruitful",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.12 — Very Fruitful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bahukārasutta &mdash; the same four-basis method as the "
+        "previous discourse, restated as a general teaching and "
+        "declared very fruitful and beneficial. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A general restatement of SN 51.11's own method, "
+                 "with the sixfold list compressed by cross-reference"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the same "
+                         "method restated in the Buddha's own "
+                         "teaching voice, declared very fruitful and "
+                         "beneficial"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse takes the exact "
+        "method SN 51.11 just gave as the bodhisatta's own private "
+        "discovery and restates it as the Buddha's own general "
+        "teaching to the mendicants &mdash; now explicitly framed as "
+        "&ldquo;very fruitful and beneficial&rdquo; when developed "
+        "and cultivated."
+    ),
+    guide=[
+        ("The same method, a different frame", [
+            "Confirmed by direct reading, the four-basis method here "
+            "is word-for-word the same as SN 51.11's own account "
+            "&mdash; neither too lax nor too tense, neither "
+            "constricted internally nor scattered externally, "
+            "perceiving before and behind, above and below, day and "
+            "night, developing an open, unenveloped, radiant mind "
+            "&mdash; but now given directly as teaching, not "
+            "recounted as a pre-awakening discovery.",
+        ]),
+        ("The sixfold list, compressed by cross-reference", [
+            "Confirmed by direct reading, where SN 51.11 spelled out "
+            "each of the six results in full, this discourse's own "
+            "English source compresses the entire list to a single "
+            "sentence trailing off in ellipsis (&ldquo;multiplying "
+            "themselves and becoming one again &hellip; controlling "
+            "the body as far as the realm of divinity &hellip;&rdquo;) "
+            "before skipping directly to arahantship &mdash; assuming "
+            "the reader already has the previous discourse's own "
+            "full list in mind.",
+        ]),
+        ("&ldquo;Very fruitful and beneficial&rdquo;", [
+            "This project's own observation: the discourse opens and "
+            "closes on this same declaration &mdash; the sole new "
+            "framing this discourse adds to SN 51.11's own material "
+            "&mdash; naming the four bases' own value in bare terms "
+            "before giving the method itself.",
+        ]),
+    ],
+    terms=[
+        ("bahukārā", "&ldquo;very fruitful&rdquo; &mdash; the "
+             "discourse's own title and its opening and closing "
+             "declaration about the four bases, when developed and "
+             "cultivated"),
+        ("na ca atilīno...na ca atippaggahito", "&ldquo;neither too "
+             "lax nor too tense&rdquo; &mdash; the same balanced "
+             "quality named in SN 51.11 for each basis's own "
+             "governing element"),
+        ("vivaṭena cetasā apariyonaddhena sappabhāsaṁ cittaṁ bhāveti",
+             "&ldquo;with an open and unenveloped heart, they "
+             "develop a mind that's full of radiance&rdquo; &mdash; "
+             "repeated here word-for-word from SN 51.11's own text"),
+        ("anekavihitaṁ iddhividhaṁ...pe...", "&ldquo;the many kinds "
+             "of psychic power &hellip;&rdquo; &mdash; the sixfold "
+             "list's own opening item, here trailing into ellipsis "
+             "rather than spelled out in full"),
+        ("āsavānaṁ khayā", "&ldquo;through the ending of "
+             "defilements&rdquo; &mdash; the discourse's own closing "
+             "item, arahantship, kept in full even as the other five "
+             "are compressed"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.12:1.1-1.9"),
+        ("p", "&sect;2", "sn51.12:2.1-2.10"),
+        ("p", "&sect;3", "sn51.12:3.1"),
+        ("p", "&sect;4", "sn51.12:4.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own method compare to SN 51.11's?",
+         "opts": ["Word-for-word the same method, now framed as general teaching rather than a pre-awakening discovery", "A completely different method, using breath instead of perception", "A shortened method omitting the day/night perception", "A method that adds a fifth basis"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the same balanced-quality and before/behind/day/night perception, restated in the Buddha's own teaching voice."},
+        {"q": "How does this discourse's own English source handle the sixfold list of results?",
+         "opts": ["Compressed to a single sentence trailing into ellipsis, assuming the reader already has SN 51.11's own full list in mind", "Expanded even further than SN 51.11's own account", "Reduced to only the first and last items with the middle four dropped entirely", "Replaced entirely with a different, shorter list of four results"],
+         "correct": 0,
+         "expl": "\"Multiplying themselves and becoming one again … controlling the body as far as the realm of divinity …\" before skipping to arahantship."},
+        {"q": "What declaration frames this discourse at both its opening and its close?",
+         "opts": ["That the four bases, when developed and cultivated, are very fruitful and beneficial", "That the four bases are difficult to develop without a teacher", "That only mendicants, not laypeople, can develop the four bases", "That the four bases take many lifetimes to bear fruit"],
+         "correct": 0,
+         "expl": "\"Bahukārā\" — the discourse's own title and its own opening and closing declaration."},
+    ],
+    marginalia=[
+        ("Teaching, not discovery", [
+            "the same method, a different voice —",
+            "now given directly to the mendicants"
+        ]),
+        ("An ellipsis carries the weight", [
+            "\"…controlling the body as far as the realm of divinity…\" —",
+            "the reader is assumed to remember"
+        ]),
+        ("Fruitful, stated twice", [
+            "opening and closing on the same word —",
+            "bahukārā, very fruitful indeed"
+        ]),
+        ("The one item never compressed", [
+            "five powers trail into ellipsis —",
+            "the sixth, ending defilements, stays whole"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; the previous discourse, giving this same method and "
+        "sixfold list in full.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
