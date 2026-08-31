@@ -62977,3 +62977,1533 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Saraṇānivagga ("About Sarakāni"), SN 55.21-30 -- confirmed by
+# direct reading to be this saṃyutta's own third vagga, containing
+# some of its own most doctrinally significant material: the
+# Mahānāma reassurance discourses, the Godhā/Mahānāma exchange on who
+# may declare stream-entry, the controversial Sarakāni case (a lay
+# follower who drank liquor, declared a stream-enterer after death),
+# the Anāthapiṇḍika deathbed narratives, and the explicit definition
+# combining the five precepts, the four factors, and insight into
+# dependent origination.
+#
+# SN 55.21 — Paṭhamamahānāmasutta ("With Mahānāma, 1st")
+# Confirmed by direct reading: Mahānāma confesses that crowded city
+# streets make him momentarily lose mindfulness of the Buddha,
+# teaching, and Saṅgha, and asks where he would be reborn if he died
+# at such a moment. The Buddha reassures him with the pot-of-ghee
+# simile: a long-cultivated mind rises upward at death like oil
+# separating from a broken jar sunk in a lake, regardless of the
+# body's own fate.
+# --------------------------------------------------------------------------- #
+page(
+    55, 21, "Paṭhamamahānāma", "With Mahānāma (1st)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.21 — With Mahānāma (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamamahānāmasutta &mdash; Mahānāma's own fear of "
+        "dying distracted, answered with the pot-of-ghee simile. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, the Banyan Tree Monastery"),
+        ("Speakers", "The Buddha and Mahānāma the Sakyan"),
+        ("Form", "A personal confession, a direct reassurance, then "
+                 "a simile"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; opens Vagga 3 with an unusually "
+                         "personal confession and the celebrated "
+                         "pot-of-ghee simile for a long-cultivated "
+                         "mind's own fate at death"),
+    ],
+    why=(
+        "Confirmed by direct reading, Mahānāma confesses something "
+        "genuinely personal: navigating Kapilavatthu's own crowded, "
+        "cramped streets, he sometimes encounters a stray elephant, "
+        "horse, or cart and momentarily &ldquo;loses mindfulness "
+        "regarding the Buddha, the teaching, and the Saṅgha,&rdquo; "
+        "then wonders in fear where he would be reborn if he died at "
+        "that very moment. The Buddha's own reassurance does not "
+        "deny the momentary lapse but reframes what actually "
+        "determines a good death."
+    ),
+    guide=[
+        ("A confession of momentary distraction, not doubt", [
+            "Confirmed by direct reading, Mahānāma's own worry is "
+            "specific and concrete: an ordinary, unremarkable "
+            "moment of urban distraction &mdash; not a crisis of "
+            "faith, but a genuine, relatable admission that "
+            "mindfulness of the three refuges is not maintained "
+            "every single instant.",
+        ]),
+        ("The pot-of-ghee simile", [
+            "Confirmed by direct reading, the Buddha's own answer "
+            "uses a striking image: sink a pot of ghee or oil into "
+            "a deep lake and break it &mdash; the shards sink, but "
+            "the ghee itself rises to the surface regardless. In "
+            "the same way, a mind long imbued with faith, ethics, "
+            "learning, generosity, and wisdom &ldquo;rises up, "
+            "headed for a higher place,&rdquo; even as the body "
+            "itself is devoured by scavengers.",
+        ]),
+        ("What actually secures a good death", [
+            "Confirmed by direct reading, the Buddha's own logic "
+            "does not require unbroken, moment-to-moment mindfulness "
+            "at the point of death; it points instead to a "
+            "long-cultivated disposition (faith, ethics, learning, "
+            "generosity, wisdom) that determines the mind's own "
+            "trajectory independent of any single distracted moment.",
+        ]),
+    ],
+    terms=[
+        ("satiṁ pamuṭṭhāmi buddhagataṁ dhammagataṁ saṅghagataṁ",
+             "&ldquo;I lose mindfulness regarding the Buddha, the "
+             "teaching, and the Saṅgha&rdquo; &mdash; Mahānāma's own "
+             "candid confession"),
+        ("mā bhāyi mahānāma, mā bhāyi", "&ldquo;do not fear, "
+             "Mahānāma, do not fear!&rdquo; &mdash; the Buddha's own "
+             "immediate, repeated reassurance, before any "
+             "explanation is given"),
+        ("cittaṁ dīgharattaṁ saddhāparibhāvitaṁ sīlaparibhāvitaṁ "
+         "sutaparibhāvitaṁ cāgaparibhāvitaṁ paññāparibhāvitaṁ",
+             "&ldquo;a mind that has for a long time been imbued "
+             "with faith, ethics, learning, generosity, and "
+             "wisdom&rdquo; &mdash; the discourse's own key phrase, "
+             "naming what actually determines a good rebirth"),
+        ("uddhagāmi hoti visesagāmi", "&ldquo;rises up, headed for "
+             "a higher place&rdquo; &mdash; the mind's own "
+             "trajectory at death, independent of the body's own "
+             "fate"),
+        ("sappiṁ vā telaṁ vā gambhīre udakarahade nikkhipeyya",
+             "&ldquo;sink a pot of ghee or oil into a deep "
+             "lake&rdquo; &mdash; the discourse's own celebrated "
+             "simile"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.21:1.1-1.13"),
+        ("p", "&sect;2", "sn55.21:2.1-2.5"),
+        ("p", "The pot-of-ghee simile", "sn55.21:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What does Mahānāma confess to the Buddha?",
+         "opts": ["That crowded city streets sometimes cause him to momentarily lose mindfulness of the Buddha, teaching, and Saṅgha, leaving him fearful of dying in that state", "That he has entirely lost all confidence in the Buddha", "That he wishes to disrobe and abandon the training", "That he has never once felt any mindfulness of the three refuges"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a specific, relatable confession of ordinary urban distraction."},
+        {"q": "What does the pot-of-ghee simile illustrate?",
+         "opts": ["A long-cultivated mind rises upward at death, like ghee separating from a broken jar sunk in a lake, regardless of the body's own fate", "That meditation requires complete submersion in water", "That the body and mind share an identical fate after death", "That only monastics, not lay followers, can attain a good rebirth"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha's own celebrated image for a cultivated mind's own trajectory."},
+        {"q": "What does the Buddha's own logic imply about moment-to-moment mindfulness at the point of death?",
+         "opts": ["Unbroken mindfulness at the final instant is not required — a long-cultivated disposition determines the mind's own trajectory regardless", "Any single lapse in mindfulness at death guarantees a bad rebirth", "Only those who die while actively meditating can be reborn well", "The Buddha refuses to address the question at all"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own reassurance and its own underlying logic."},
+    ],
+    marginalia=[
+        ("A crowded street, a moment lost", [
+            "an elephant, a cart, a stray horse —",
+            "and mindfulness slips, just for an instant"
+        ]),
+        ("\"Do not fear,\" said before any explanation", [
+            "reassurance first, reasoning after —",
+            "the Buddha's own immediate response"
+        ]),
+        ("Ghee rising through broken shards", [
+            "a jar shattered in a deep lake —",
+            "yet the oil finds its own way upward"
+        ]),
+        ("What the body suffers, what the mind does not", [
+            "crows and jackals devour what remains —",
+            "the mind, long cultivated, rises regardless"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.21/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.20.html\">SN 55.20 &middot; A Visit to the "
+        "Gods (3rd)</a> &mdash; the previous discourse, closing "
+        "Vagga 2.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.22 — Dutiyamahānāmasutta ("With Mahānāma, 2nd")
+# Confirmed by direct reading: Mahānāma repeats his own identical
+# confession from SN 55.21, but the Buddha's own answer this time
+# gives the four factors of stream-entry directly, illustrated with
+# a new simile -- a tree that leans toward the east falls east when
+# cut, exactly as it leaned.
+# --------------------------------------------------------------------------- #
+page(
+    55, 22, "Dutiyamahānāma", "With Mahānāma (2nd)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.22 — With Mahānāma (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyamahānāmasutta &mdash; the leaning-tree simile, "
+        "illustrating how the four factors incline a disciple toward "
+        "extinguishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, the Banyan Tree Monastery"),
+        ("Speakers", "The Buddha and Mahānāma the Sakyan"),
+        ("Form", "The identical confession from SN 55.21, answered "
+                 "with the four factors and a new simile"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "same confession as SN 55.21, but answered "
+                         "with the four factors directly, plus a "
+                         "genuinely new simile"),
+    ],
+    why=(
+        "Confirmed by direct comparison, Mahānāma repeats his own "
+        "identical confession word for word from SN 55.21 &mdash; "
+        "the same crowded streets, the same momentary loss of "
+        "mindfulness, the same fear. But the Buddha's own answer "
+        "genuinely differs: rather than the pot-of-ghee simile, he "
+        "gives the four factors of stream-entry directly, "
+        "illustrated by a leaning tree that falls in the direction "
+        "it already leans when cut at the root."
+    ),
+    guide=[
+        ("The identical question, a genuinely different answer", [
+            "This project's own direct comparison: SN 55.21's own "
+            "opening confession and SN 55.22's own match word for "
+            "word, confirming this is a deliberate repetition of "
+            "the same personal worry &mdash; but the Buddha's own "
+            "response this time draws on this saṃyutta's own "
+            "central formula (the four factors) rather than the "
+            "pot-of-ghee image.",
+        ]),
+        ("A tree that falls the way it already leans", [
+            "Confirmed by direct reading, the Buddha asks Mahānāma "
+            "directly which way a tree leaning east would fall if "
+            "cut at the root, and Mahānāma answers correctly "
+            "himself before the Buddha confirms the parallel: a "
+            "noble disciple with the four factors &ldquo;slants, "
+            "slopes, and inclines toward extinguishment&rdquo; in "
+            "exactly the same way &mdash; a disposition established "
+            "well before the moment of death, not decided by it.",
+        ]),
+    ],
+    terms=[
+        ("satiṁ pamuṭṭhāmi buddhagataṁ dhammagataṁ saṅghagataṁ",
+             "&ldquo;I lose mindfulness regarding the Buddha, the "
+             "teaching, and the Saṅgha&rdquo; &mdash; Mahānāma's own "
+             "confession, identical to SN 55.21's own"),
+        ("nibbānaninno hoti nibbānapoṇo nibbānapabbhāro", "&ldquo;"
+             "slants, slopes, and inclines towards "
+             "extinguishment&rdquo; &mdash; the identical closing "
+             "formula for the four factors already met throughout "
+             "this book's own river-simile discourses"),
+        ("rukkho pācīnaninno pācīnapoṇo pācīnapabbhāro", "&ldquo;a "
+             "tree that slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; this discourse's own new simile, "
+             "structurally parallel to the river-simile pattern"),
+        ("yato naṁ mūlaṁ chindeyya, katamena naṁ papateyyā ti",
+             "&ldquo;if it was cut off at the root where would it "
+             "fall?&rdquo; &mdash; the Buddha's own direct question "
+             "to Mahānāma"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "teaching, and Saṅgha, unchanged throughout"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.22:1.1-1.13"),
+        ("p", "&sect;2", "sn55.22:2.1-2.9"),
+        ("p", "The leaning-tree simile", "sn55.22:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "How does Mahānāma's own opening confession in this discourse compare to SN 55.21's own?",
+         "opts": ["It matches word for word — the same crowded streets, the same momentary lapse, the same fear", "It describes an entirely different worry", "He confesses to a much more severe crisis of faith", "He no longer expresses any fear at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a deliberate repetition of the identical personal confession."},
+        {"q": "What new simile does the Buddha use in this discourse, unlike SN 55.21's own pot-of-ghee image?",
+         "opts": ["A leaning tree falls in the direction it already leans when cut at the root", "A river flowing toward the ocean", "A lamp running out of oil", "A heap of sand at a crossroads"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely different simile from SN 55.21's own."},
+        {"q": "What does the leaning-tree simile illustrate about the four factors?",
+         "opts": ["A disposition established well before death, not decided by the moment of death itself, determines where a disciple is headed", "That death itself is the only moment that matters for one's own rebirth", "That trees and disciples share an identical literal fate", "That the four factors have no bearing on rebirth at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same underlying point as SN 55.21's own pot-of-ghee simile, illustrated differently."},
+    ],
+    marginalia=[
+        ("The same worry, word for word", [
+            "crowded streets, a moment's lapse —",
+            "Mahānāma's own confession repeated"
+        ]),
+        ("A different answer this time", [
+            "not ghee in a broken jar —",
+            "the four factors, given directly"
+        ]),
+        ("A tree, cut at the root", [
+            "it falls the way it already leaned —",
+            "no surprise in the direction"
+        ]),
+        ("Established long before the final moment", [
+            "the disposition, not the death itself —",
+            "already decides where the mind is headed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.21.html\">SN 55.21 &middot; With Mahānāma "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own companion.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.23 — Godhasakkasutta ("With Godhā the Sakyan")
+# Confirmed by direct reading: Mahānāma asks Godhā how many things
+# she requires to recognize someone as a stream-enterer; she answers
+# three (the confidences alone, without ethical conduct), while
+# Mahānāma himself answers four. Neither will settle the disagreement
+# themselves -- "only the Buddha would know" -- so both go together
+# to ask him directly, though the Buddha's own answer is not
+# preserved in this discourse's own text. Confirmed by direct
+# reading, the root Pali repeats the entire exchange verbatim as
+# Mahānāma reports it to the Buddha (segments the English source
+# leaves empty, since they duplicate content already given), before
+# a genuinely new final exchange about loyalty in a legal dispute.
+# --------------------------------------------------------------------------- #
+page(
+    55, 23, "Godhasakka", "With Godhā the Sakyan",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.23 — With Godhā the Sakyan | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Godhasakkasutta &mdash; Mahānāma and Godhā disagree on "
+        "how many factors define a stream-enterer, and take the "
+        "question to the Buddha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu"),
+        ("Speakers", "Mahānāma and Godhā, both Sakyans"),
+        ("Form", "A disagreement between two lay Sakyans, reported "
+                 "to the Buddha, followed by a new exchange on "
+                 "loyalty"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; a "
+                         "genuine three-versus-four disagreement "
+                         "about the factors of stream-entry between "
+                         "two lay Sakyans, neither claiming final "
+                         "authority to settle it themselves"),
+    ],
+    why=(
+        "Confirmed by direct reading, Mahānāma asks Godhā how many "
+        "things a person must have for her to recognize them as a "
+        "stream-enterer; she answers three &mdash; confidence in the "
+        "Buddha, teaching, and Saṅgha alone, without naming ethical "
+        "conduct. Mahānāma answers four, including ethical conduct. "
+        "Neither claims the authority to resolve the disagreement: "
+        "&ldquo;only the Buddha would know,&rdquo; Godhā says, and "
+        "the two go to him together."
+    ),
+    guide=[
+        ("Three factors, or four: a genuine disagreement", [
+            "Confirmed by direct reading, this discourse preserves a "
+            "real disagreement rather than resolving it neatly: "
+            "Godhā's own answer omits ethical conduct entirely, "
+            "naming only the three confidences, while Mahānāma's own "
+            "answer includes all four factors already familiar from "
+            "this saṃyutta's own recurring formula.",
+        ]),
+        ("Neither claims final authority", [
+            "Confirmed by direct reading, Godhā's own response to "
+            "Mahānāma is not a concession but a redirection: "
+            "&ldquo;hold on&hellip;only the Buddha would know "
+            "whether or not they have these things&rdquo; &mdash; "
+            "an explicit acknowledgment that lay disciples, however "
+            "confident, defer to the Buddha's own final "
+            "determination on this specific question.",
+        ]),
+        ("A repeated report, and a genuinely new final exchange", [
+            "Confirmed by direct reading of the root Pali, Mahānāma "
+            "repeats the entire prior exchange to the Buddha "
+            "verbatim &mdash; segments this discourse's own English "
+            "source leaves empty, since they duplicate content "
+            "already translated. What follows is genuinely new: "
+            "Mahānāma declares that even if the Buddha's own side in "
+            "a legal dispute stood against the entire fourfold "
+            "assembly and the whole world, he would still side with "
+            "the Buddha &mdash; and Godhā has nothing but approval "
+            "for this declaration.",
+        ]),
+    ],
+    terms=[
+        ("katihi tvaṁ, godhe, dhammehi samannāgataṁ sotāpannapuggalaṁ "
+         "ājānāsi", "&ldquo;how many things must an individual have "
+             "for you to recognize them as a stream-enterer&rdquo; "
+             "&mdash; Mahānāma's own opening question to Godhā"),
+        ("tīhi dhammehi", "&ldquo;three things&rdquo; &mdash; "
+             "Godhā's own answer, naming only the three confidences"),
+        ("catūhi dhammehi", "&ldquo;four things&rdquo; &mdash; "
+             "Mahānāma's own answer, including ethical conduct as a "
+             "fourth"),
+        ("āgamehi tvaṁ, mahānāma, āgamehi tvaṁ, mahānāma", "&ldquo;"
+             "hold on, Mahānāma, hold on!&rdquo; &mdash; Godhā's own "
+             "redirection, deferring the question to the Buddha "
+             "rather than settling it herself"),
+        ("ahaṁ bhagavato pakkhaṁ bhajissāmi", "&ldquo;I'd side "
+             "with the Buddha&rdquo; &mdash; Mahānāma's own "
+             "declaration, extended even to a scenario opposing the "
+             "entire fourfold assembly and the world itself"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source; the root Pali's own verbatim "
+        "repetition of the prior exchange is left empty by the "
+        "English translator, since it duplicates content already "
+        "given. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.23:1.1-2.8"),
+        ("p", "&sect;2", "sn55.23:3.1-4.4"),
+        ("p", "A test of loyalty", "sn55.23:8.4-8.20"),
+    ],
+    quiz=[
+        {"q": "How do Godhā's and Mahānāma's own answers to the same question differ?",
+         "opts": ["Godhā names three factors (the confidences alone), while Mahānāma names four (adding ethical conduct)", "Both give identical answers of four factors", "Godhā names five factors, more than Mahānāma's four", "Neither is willing to give any answer at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuine, unresolved disagreement in the number of factors named."},
+        {"q": "How does Godhā respond when Mahānāma states his own four-factor answer?",
+         "opts": ["She redirects the question to the Buddha, saying only he would know for certain", "She immediately agrees his answer is correct", "She insists her own three-factor answer is definitively right", "She refuses to discuss the matter further"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a deferral to the Buddha's own authority, not a resolution by either lay disciple."},
+        {"q": "What does the root Pali's own verbatim repetition (left empty in the English source) confirm?",
+         "opts": ["Mahānāma reports the entire prior exchange to the Buddha word for word, duplicating content already translated", "The Buddha gives an entirely new, different answer at that point", "The repeated section is genuinely lost from the source", "Godhā changes her own earlier answer during the repetition"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali — pure narrative repetition, honestly reported as such."},
+    ],
+    marginalia=[
+        ("Three, or four — a real disagreement", [
+            "Godhā names the confidences alone —",
+            "Mahānāma adds ethical conduct"
+        ]),
+        ("\"Only the Buddha would know\"", [
+            "neither claims the final word —",
+            "both walk together to ask him"
+        ]),
+        ("A story retold, word for word", [
+            "the root Pali repeats it in full —",
+            "the English source leaves it silent, not lost"
+        ]),
+        ("Loyalty tested against the whole world", [
+            "even against the fourfold assembly —",
+            "\"I'd side with the Buddha,\" stated plainly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.22.html\">SN 55.22 &middot; With Mahānāma "
+        "(2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.24 — Paṭhamasaraṇānisakkasutta ("About Sarakāni, 1st")
+# Confirmed by direct reading: this saṃyutta's own most controversial
+# discourse. The Buddha declares the deceased Sarakāni a
+# stream-enterer, provoking open public complaint from other Sakyans
+# -- "who can't become a stream-enterer these days?" -- since
+# Sarakāni was known to drink liquor. The Buddha's own defense is not
+# a denial but a full sevenfold typology, from arahant down to a
+# person with merely "a degree of faith and fondness" for him, all
+# exempt from a bad rebirth -- closing with a striking rhetorical
+# claim about sal trees, and the direct revelation that Sarakāni
+# "undertook the training at the time of his death."
+# --------------------------------------------------------------------------- #
+page(
+    55, 24, "Paṭhamasaraṇānisakka", "About Sarakāni (1st)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.24 — About Sarakāni (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasaraṇānisakkasutta &mdash; the controversial "
+        "declaration of Sarakāni's own stream-entry, and the "
+        "Buddha's own sevenfold defense. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Kapilavatthu"),
+        ("Speakers", "The Buddha, complaining Sakyans, and Mahānāma"),
+        ("Form", "A public controversy, reported to the Buddha, "
+                 "answered with a full sevenfold typology of noble "
+                 "attainment"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this saṃyutta's own most "
+                         "controversial discourse, publicly "
+                         "questioning the Buddha's own authority to "
+                         "declare a known liquor-drinker a "
+                         "stream-enterer, met with a full sevenfold "
+                         "defense rather than a denial"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse records a "
+        "genuine public controversy: after the Buddha declares the "
+        "deceased Sarakāni a stream-enterer, several Sakyans openly "
+        "complain &mdash; &ldquo;who can't become a stream-enterer "
+        "these days? Sarakāni was too weak for the training; he used "
+        "to drink liquor.&rdquo; The Buddha does not deny the "
+        "premise but responds with a full sevenfold typology of "
+        "noble attainment, closing with the direct claim that "
+        "Sarakāni had, in fact, &ldquo;undertook the training at the "
+        "time of his death.&rdquo;"
+    ),
+    guide=[
+        ("A public complaint, reported directly", [
+            "Confirmed by direct reading, this discourse does not "
+            "soften the objection: the Sakyans' own complaint names "
+            "Sarakāni's own drinking explicitly, and Mahānāma "
+            "carries this criticism directly to the Buddha rather "
+            "than suppressing it.",
+        ]),
+        ("Refuge, not attainment, as the first line of defense", [
+            "Confirmed by direct reading, the Buddha's own initial "
+            "response does not immediately address the drinking; it "
+            "asks how anyone who has &ldquo;for a long time gone for "
+            "refuge to the Buddha, the teaching, and the "
+            "Saṅgha&rdquo; could possibly go to the underworld "
+            "&mdash; grounding the defense in refuge itself before "
+            "turning to a fuller typology.",
+        ]),
+        ("A full sevenfold spectrum, arahant to bare fondness", [
+            "Confirmed by direct reading, the Buddha names seven "
+            "distinct types, each &ldquo;exempt from hell, the "
+            "animal realm, and the ghost realm&rdquo;: the arahant "
+            "(with &ldquo;laughing wisdom and swift wisdom&rdquo; "
+            "and freedom); the non-returner with the same wisdom but "
+            "not full freedom; the once-returner; the stream-"
+            "enterer; and then two further categories &mdash; "
+            "neither yet stream-enterers &mdash; who simply possess "
+            "the five spiritual faculties and accept the Buddha's "
+            "own teachings after reflection, or who have merely "
+            "&ldquo;a degree of faith and fondness&rdquo; for him.",
+        ]),
+        ("Sal trees, and a direct revelation", [
+            "Confirmed by direct reading, the Buddha closes with a "
+            "striking rhetorical claim: &ldquo;if these great sal "
+            "trees could understand what was well said and poorly "
+            "said, I'd declare them to be stream-enterers&rdquo; "
+            "&mdash; before revealing the specific fact that settles "
+            "the case: &ldquo;Sarakāni the Sakyan undertook the "
+            "training at the time of his death.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("kohaññatra sotāpanno bhavissati", "&ldquo;who can't "
+             "become a stream-enterer these days?&rdquo; &mdash; "
+             "the Sakyans' own sarcastic, public objection"),
+        ("dubbalo sikkhāya, so ca kira soṇḍo ahosi majjapo",
+             "&ldquo;Sarakāni was too weak for the training; he "
+             "used to drink liquor&rdquo; &mdash; the specific "
+             "criticism at the center of this controversy"),
+        ("hasupaññā ca javanapaññā ca, vimuttiyā ca samannāgato",
+             "&ldquo;laughing wisdom and swift wisdom, and are "
+             "endowed with freedom&rdquo; &mdash; the arahant's own "
+             "distinguishing qualities in this sevenfold typology"),
+        ("saddhāmattaṁ pemamattaṁ", "&ldquo;a degree of faith and "
+             "fondness&rdquo; &mdash; the minimal qualification "
+             "named in this discourse's own final category, still "
+             "sufficient to avoid a bad rebirth"),
+        ("maraṇakāle sikkhaṁ samādiyi", "&ldquo;undertook the "
+             "training at the time of his death&rdquo; &mdash; the "
+             "Buddha's own direct revelation, settling the "
+             "controversy"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.24:1.1-1.11"),
+        ("p", "&sect;2", "sn55.24:2.1-3.5"),
+        ("p", "Seven types, arahant to bare fondness", "sn55.24:4.1-9.11"),
+    ],
+    quiz=[
+        {"q": "What specific accusation do the Sakyans openly make against Sarakāni?",
+         "opts": ["That he was too weak for the training and used to drink liquor", "That he had never once visited the Buddha", "That he actively denied the Buddha's own teaching before he died", "That he had committed theft"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a specific, named criticism, reported directly rather than softened."},
+        {"q": "What does the Buddha's own sevenfold typology range across?",
+         "opts": ["From the arahant down to a person with merely \"a degree of faith and fondness\" for the Buddha, all exempt from a bad rebirth", "Only the four classic stages of awakening, with no further categories", "A ranking of lay followers by wealth", "A comparison between monastics and laypeople exclusively"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a full spectrum, wider than the classic fourfold stages alone."},
+        {"q": "What specific fact does the Buddha reveal to settle the controversy?",
+         "opts": ["That Sarakāni \"undertook the training at the time of his death\"", "That the Sakyans' own accusation was entirely fabricated", "That Sarakāni had secretly been ordained as a monk", "That drinking liquor is not actually against the training rules"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a direct, specific revelation, not a general doctrinal deflection."},
+    ],
+    marginalia=[
+        ("A complaint, voiced openly", [
+            "\"who can't become a stream-enterer these days?\" —",
+            "the criticism named directly, not hidden"
+        ]),
+        ("Refuge asked about first", [
+            "how could one who long went for refuge fall? —",
+            "before any typology is given"
+        ]),
+        ("Seven types, one spectrum", [
+            "arahant down to bare fondness —",
+            "each exempt from the worst rebirths"
+        ]),
+        ("A training undertaken at the very end", [
+            "not a lifetime of practice, but a final turn —",
+            "settling the whole controversy"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.23.html\">SN 55.23 &middot; With Godhā the "
+        "Sakyan</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.25 — Dutiyasaraṇānisakkasutta ("About Sarakāni, 2nd")
+# Confirmed by direct reading: a genuine companion to SN 55.24, not a
+# duplicate -- this time the Sakyans object that Sarakāni "didn't
+# fulfill the training" (a different criticism from "too weak,
+# drank liquor"), the sevenfold typology's own non-returner category
+# is spelled out into the five distinct paths already met at this
+# project's own SN 52 and SN 54 work, the closing simile is barren
+# versus fertile field rather than sal trees, and the Buddha's own
+# closing revelation uses "fulfilled" rather than SN 55.24's own
+# "undertook."
+# --------------------------------------------------------------------------- #
+page(
+    55, 25, "Dutiyasaraṇānisakka", "About Sarakāni (2nd)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.25 — About Sarakāni (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasaraṇānisakkasutta &mdash; a genuine companion to "
+        "SN 55.24, with the barren-field simile and a different "
+        "closing verb. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu"),
+        ("Speakers", "The Buddha, complaining Sakyans, and Mahānāma"),
+        ("Form", "A second version of the Sarakāni controversy, "
+                 "genuinely distinct from SN 55.24"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct comparison to "
+                         "be a genuine companion to SN 55.24, not a "
+                         "duplicate: a different accusation, a "
+                         "different simile, and a different closing "
+                         "verb"),
+    ],
+    why=(
+        "Confirmed by direct comparison, this discourse repeats SN "
+        "55.24's own basic structure &mdash; Sarakāni's death, the "
+        "Buddha's own declaration, public complaint, and a sevenfold "
+        "defense &mdash; but with genuine differences throughout: "
+        "the accusation here is that Sarakāni &ldquo;didn't fulfill "
+        "the training,&rdquo; not that he drank liquor; the closing "
+        "simile is a barren versus fertile field, not sal trees; and "
+        "the Buddha's own final verdict uses &ldquo;fulfilled&rdquo; "
+        "rather than SN 55.24's own &ldquo;undertook.&rdquo;"
+    ),
+    guide=[
+        ("A different accusation", [
+            "Confirmed by direct reading, the specific complaint "
+            "here is narrower than SN 55.24's own: &ldquo;Sarakāni "
+            "didn't fulfill the training,&rdquo; with no explicit "
+            "mention of liquor &mdash; a genuinely distinct "
+            "objection this project reports honestly rather than "
+            "assuming identical to the prior discourse.",
+        ]),
+        ("The non-returner category, spelled out into five", [
+            "This project's own direct comparison: where SN 55.24's "
+            "own non-returner category simply says &ldquo;reborn "
+            "spontaneously,&rdquo; this discourse spells out the "
+            "full five distinct paths already translated in this "
+            "project's own earlier work on SN 52 and SN 54 &mdash; "
+            "extinguished between one life and the next, upon "
+            "landing, without extra effort, with extra effort, or "
+            "heading upstream to the Akaniṭṭha realm.",
+        ]),
+        ("Barren field, fertile field", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing simile replaces SN 55.24's own sal trees with "
+            "seeds: a barren field with broken, spoiled seeds and "
+            "insufficient rain will not grow anything, just as a "
+            "badly explained teaching from someone who is not a "
+            "fully awakened Buddha cannot emancipate a disciple; but "
+            "a fertile field with sound seeds and ample rain "
+            "grows, just as the Buddha's own well-explained teaching "
+            "does for a disciple who lives in line with it.",
+        ]),
+        ("\"Undertook\" becomes \"fulfilled\"", [
+            "This project's own direct comparison: where SN 55.24's "
+            "own closing line states Sarakāni &ldquo;undertook the "
+            "training at the time of his death,&rdquo; this "
+            "discourse's own closing line reads &ldquo;fulfilled the "
+            "training at the time of his death&rdquo; &mdash; a "
+            "genuine variant, reported rather than harmonized.",
+        ]),
+    ],
+    terms=[
+        ("na paripūrakārī", "&ldquo;didn't fulfill the "
+             "training&rdquo; &mdash; this discourse's own specific "
+             "accusation, distinct from SN 55.24's own"),
+        ("antarāparinibbāyī...uddhaṁsoto akaniṭṭhagāmī", "the five "
+             "distinct paths to non-return, spelled out in full "
+             "here, already translated in this project's own "
+             "earlier work on SN 52 and SN 54"),
+        ("kacchaṁ akhettaṁ vipannabhūmiṁ akatabhūmiṁ", "&ldquo;a "
+             "barren field, a barren ground, with uncleared "
+             "stumps&rdquo; &mdash; this discourse's own closing "
+             "simile, replacing SN 55.24's own sal trees"),
+        ("dhammo svākkhāto suppavedito niyyāniko upasamasaṁvattaniko "
+         "sammāsambuddhappavedito", "&ldquo;a teaching that's well "
+             "explained and well propounded, emancipating, leading "
+             "to peace, proclaimed by someone who is a fully "
+             "awakened Buddha&rdquo; &mdash; the discourse's own "
+             "description of the fertile field"),
+        ("maraṇakāle sikkhaṁ paripūresi", "&ldquo;fulfilled the "
+             "training at the time of his death&rdquo; &mdash; this "
+             "discourse's own closing verdict, genuinely differing "
+             "from SN 55.24's own \"undertook\""),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.25:1.1-1.12"),
+        ("p", "&sect;2", "sn55.25:3.1-3.4"),
+        ("p", "Seven types, with non-return spelled out",
+             "sn55.25:4.1-9.8"),
+        ("p", "Barren field, fertile field", "sn55.25:10.1-11.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own accusation against Sarakāni differ from SN 55.24's own?",
+         "opts": ["It states he \"didn't fulfill the training,\" without the explicit mention of liquor found in SN 55.24", "It is word-for-word identical to SN 55.24's own accusation", "It accuses him of an entirely unrelated offense, theft", "It denies that any accusation was made at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuinely distinct objection, reported honestly."},
+        {"q": "How does this discourse's own non-returner category compare to SN 55.24's own?",
+         "opts": ["It spells out the full five distinct paths to non-return, rather than simply saying \"reborn spontaneously\"", "It omits the non-returner category entirely", "It is identical in every detail to SN 55.24's own", "It denies that non-return is a genuine attainment"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a fuller, more detailed version of the same category."},
+        {"q": "What genuine variant does this discourse's own closing verdict carry, compared to SN 55.24's own?",
+         "opts": ["\"Fulfilled the training\" rather than SN 55.24's own \"undertook the training\"", "A denial that Sarakāni attained stream-entry at all", "An identical closing verdict, word for word", "A claim that Sarakāni achieved full arahantship"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, reported as a genuine textual variant rather than harmonized."},
+    ],
+    marginalia=[
+        ("A different complaint this time", [
+            "not \"he drank\" but \"he didn't fulfill\" —",
+            "a genuinely distinct accusation"
+        ]),
+        ("Five paths, spelled out in full", [
+            "between lives, upon landing, with effort or without —",
+            "or heading upstream to the highest realm"
+        ]),
+        ("Barren ground, fertile ground", [
+            "broken seeds versus sound ones —",
+            "the same teaching determines the harvest"
+        ]),
+        ("Undertook, or fulfilled — one word, genuinely different", [
+            "SN 55.24 says one thing, this discourse another —",
+            "reported honestly, not smoothed over"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.24.html\">SN 55.24 &middot; About Sarakāni "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own genuine companion.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.26 — Paṭhamaanāthapiṇḍikasutta ("Anāthapiṇḍika, 1st")
+# Confirmed by direct reading: the dying householder Anāthapiṇḍika --
+# already known from this project's own earlier translation work as
+# the Buddha's own principal lay donor -- sends for Sāriputta, who
+# visits with Ānanda and, in a striking counseling method, has
+# Anāthapiṇḍika examine his own confidence and ethical conduct
+# directly rather than simply receiving instruction, ending each of
+# ten points with "seeing in yourself...that pain may die down on
+# the spot." His pain genuinely subsides, and Sāriputta praises him
+# afterward in verse. The Buddha reveals Sāriputta's own analytical
+# skill extends to ten aspects of the four factors, not merely four.
+# --------------------------------------------------------------------------- #
+page(
+    55, 26, "Paṭhamaanāthapiṇḍika", "Anāthapiṇḍika (1st)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.26 — Anāthapiṇḍika (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaanāthapiṇḍikasutta &mdash; Sāriputta's own "
+        "striking deathbed counseling method, having Anāthapiṇḍika "
+        "examine his own confidence directly. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "The home of the householder Anāthapiṇḍika, "
+                     "Sāvatthī"),
+        ("Speakers", "Venerable Sāriputta, Venerable Ānanda, and "
+                     "the householder Anāthapiṇḍika"),
+        ("Form", "A deathbed visit, a ten-point self-examination, "
+                 "verses of appreciation, and the Buddha's own "
+                 "closing praise of Sāriputta"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a distinctive counseling method: "
+                         "not instructing the dying Anāthapiṇḍika, "
+                         "but having him examine his own already-"
+                         "present qualities directly, with his own "
+                         "pain subsiding as a result"),
+    ],
+    why=(
+        "Confirmed by direct reading, the dying Anāthapiṇḍika sends "
+        "for Sāriputta exactly as Dīghāvu once sent for the Buddha "
+        "at SN 55.3. But Sāriputta's own method here is genuinely "
+        "distinctive: rather than teaching new content, he has "
+        "Anāthapiṇḍika examine ten qualities he already possesses "
+        "&mdash; confidence in the Buddha, teaching, and Saṅgha, "
+        "ethical conduct, and the seven remaining factors of the "
+        "eightfold path &mdash; each closing with &ldquo;seeing in "
+        "yourself&hellip;that pain may die down on the spot,&rdquo; "
+        "and it genuinely does."
+    ),
+    guide=[
+        ("A self-examination, not new instruction", [
+            "Confirmed by direct reading, Sāriputta's own repeated "
+            "structure &mdash; &ldquo;you don't have the distrust "
+            "in the Buddha that causes&hellip;and you have "
+            "experiential confidence in the Buddha&hellip;seeing in "
+            "yourself that experiential confidence, that pain may "
+            "die down on the spot&rdquo; &mdash; directs "
+            "Anāthapiṇḍika's own attention inward to what he already "
+            "possesses, rather than adding anything new.",
+        ]),
+        ("Ten points, not four", [
+            "Confirmed by direct reading, Sāriputta's own "
+            "examination extends beyond the usual four factors to a "
+            "full ten: confidence in the Buddha, teaching, and "
+            "Saṅgha, ethical conduct, then right view, purpose, "
+            "speech, action, livelihood, effort, mindfulness, "
+            "immersion, knowledge, and freedom &mdash; the eightfold "
+            "path plus right knowledge and right freedom, its own "
+            "ten-factor expansion.",
+        ]),
+        ("The pain subsides, genuinely", [
+            "Confirmed by direct reading, this is not merely a "
+            "rhetorical close: &ldquo;Anāthapiṇḍika's pain died down "
+            "on the spot,&rdquo; and he immediately serves his own "
+            "guests food before Sāriputta departs, praising him with "
+            "verses on faith, ethics, confidence, and vision of the "
+            "truth.",
+        ]),
+        ("Sāriputta's own skill, confirmed by the Buddha directly", [
+            "Confirmed by direct reading, when Ānanda reports the "
+            "visit to the Buddha, he responds: &ldquo;Sāriputta is "
+            "astute&hellip;he has great wisdom, since he can analyze "
+            "the four factors of stream-entry in ten respects"
+            "&rdquo; &mdash; the Buddha's own explicit confirmation "
+            "of the tenfold expansion just witnessed.",
+        ]),
+    ],
+    terms=[
+        ("gilāno ābādhiko dukkhito bāḷhagilāno", "&ldquo;sick, "
+             "suffering, gravely ill&rdquo; &mdash; Anāthapiṇḍika's "
+             "own condition, the identical phrase already met "
+             "describing Dīghāvu at SN 55.3"),
+        ("attani passato taṁ vedanaṁ ṭhānaso paṭippassambheyya",
+             "&ldquo;seeing in yourself&hellip;that pain may die "
+             "down on the spot&rdquo; &mdash; Sāriputta's own "
+             "repeated closing formula, once for each of ten points"),
+        ("dasahi ākārehi cattāri sotāpattiyaṅgāni vibhajituṁ",
+             "&ldquo;he can analyze the four factors of stream-"
+             "entry in ten respects&rdquo; &mdash; the Buddha's own "
+             "closing praise of Sāriputta's own distinctive skill"),
+        ("micchādiṭṭhi...sammādiṭṭhi", "&ldquo;wrong view&hellip;"
+             "right view&rdquo; &mdash; the first of the seven "
+             "further points, beginning this discourse's own "
+             "extension into the eightfold path plus knowledge and "
+             "freedom"),
+        ("yo tathāgate saddho niviṭṭho, mūlajātāya suppatiṭṭhito",
+             "&ldquo;whoever has faith in the Realized One, "
+             "unwavering and well grounded&rdquo; &mdash; the "
+             "opening line of Sāriputta's own closing verses of "
+             "appreciation"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.26:1.1-4.3"),
+        ("p", "The three refuges, examined", "sn55.26:5.1-9.3"),
+        ("p", "The remaining seven points, and recovery",
+             "sn55.26:10.1-19.4"),
+        ("p", "Sāriputta's own verses", "sn55.26:20.1-23.1"),
+        ("p", "The Buddha's own praise of Sāriputta", "sn55.26:24.1-24.5"),
+    ],
+    quiz=[
+        {"q": "What is distinctive about Sāriputta's own counseling method in this discourse?",
+         "opts": ["He has Anāthapiṇḍika examine ten qualities he already possesses, rather than teaching new content", "He simply repeats the four factors without any elaboration", "He refuses to visit until Anāthapiṇḍika recovers", "He teaches an entirely new practice unrelated to anything Anāthapiṇḍika already knows"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a self-examination method, directing attention inward."},
+        {"q": "How many points does Sāriputta's own examination cover, and what do the additional ones beyond the usual four consist of?",
+         "opts": ["Ten — confidence in the three refuges and ethical conduct, plus the eightfold path expanded with right knowledge and right freedom", "Only the usual four factors, with no extension", "Seven, corresponding to the seven awakening factors", "Sixteen, matching the breathing formula's own steps"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuine tenfold expansion, later confirmed explicitly by the Buddha."},
+        {"q": "What does the Buddha say about Sāriputta's own skill after hearing Ānanda's report?",
+         "opts": ["That he is astute and has great wisdom, able to analyze the four factors of stream-entry in ten respects", "That Sāriputta's own method was inappropriate for a dying man", "That only the Buddha himself could have counseled Anāthapiṇḍika correctly", "The Buddha makes no comment on Sāriputta's own method at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — explicit, specific praise naming the tenfold analysis."},
+    ],
+    marginalia=[
+        ("Not taught, but shown what's already there", [
+            "\"seeing in yourself,\" ten times over —",
+            "confidence already present, only noticed"
+        ]),
+        ("Pain, genuinely subsiding", [
+            "not a rhetorical close but a real report —",
+            "Anāthapiṇḍika serves food moments later"
+        ]),
+        ("Ten points, not merely four", [
+            "the eightfold path added to the three refuges —",
+            "knowledge and freedom completing the set"
+        ]),
+        ("The Buddha confirms what Ānanda witnessed", [
+            "\"Sāriputta is astute,\" stated directly —",
+            "the tenfold analysis, praised by name"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.25.html\">SN 55.25 &middot; About Sarakāni "
+        "(2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.3.html\">SN 55.3 &middot; With Dīghāvu</a> "
+        "&mdash; this project's own earlier deathbed narrative, "
+        "sharing Anāthapiṇḍika's own opening phrase.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.27 — Dutiyaanāthapiṇḍikasutta ("With Anāthapiṇḍika, 2nd")
+# Confirmed by direct reading: the same dying Anāthapiṇḍika, this
+# time visited by Ānanda alone. Rather than Sāriputta's own self-
+# examination method, Ānanda teaches directly, contrasting an
+# unlearned ordinary person's own fourfold fear with a learned noble
+# disciple's own fourfold fearlessness -- after which Anāthapiṇḍika
+# declares, in his own words, that he has nothing to fear and has
+# broken no lay training rule, and Ānanda confirms he has declared
+# the fruit of stream-entry.
+# --------------------------------------------------------------------------- #
+page(
+    55, 27, "Dutiyaanāthapiṇḍika", "With Anāthapiṇḍika (2nd)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.27 — With Anāthapiṇḍika (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaanāthapiṇḍikasutta &mdash; Ānanda visits the "
+        "dying Anāthapiṇḍika, teaching the four fears and their "
+        "absence directly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The home of the householder Anāthapiṇḍika, "
+                     "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda and the householder "
+                     "Anāthapiṇḍika"),
+        ("Form", "A deathbed visit, a direct teaching contrasting "
+                 "fear and fearlessness, then Anāthapiṇḍika's own "
+                 "self-declaration"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; a "
+                         "genuinely different counseling approach "
+                         "from SN 55.26's own self-examination "
+                         "method, teaching directly rather than "
+                         "guiding self-reflection"),
+    ],
+    why=(
+        "Confirmed by direct reading, Ānanda visits the same dying "
+        "Anāthapiṇḍika already met at SN 55.26, but his own method "
+        "differs genuinely from Sāriputta's: rather than guiding "
+        "self-examination, Ānanda teaches directly, contrasting the "
+        "&ldquo;four things&rdquo; that leave an unlearned ordinary "
+        "person &ldquo;frightened and terrified&rdquo; of death with "
+        "the four things that leave a learned noble disciple entirely "
+        "without such fear."
+    ),
+    guide=[
+        ("Fear and fearlessness, structured as a matched pair", [
+            "Confirmed by direct reading, Ānanda's own teaching is "
+            "built as a direct contrast: distrust in the Buddha, "
+            "teaching, and Saṅgha, plus unethical conduct, are named "
+            "as the four causes of fear; experiential confidence in "
+            "the same three, plus ethical conduct loved by the "
+            "noble ones, are named as the four causes of "
+            "fearlessness &mdash; the identical four factors met "
+            "throughout this saṃyutta, now framed by their own "
+            "absence or presence of dread.",
+        ]),
+        ("Anāthapiṇḍika answers for himself", [
+            "Confirmed by direct reading, after Ānanda's own "
+            "teaching, Anāthapiṇḍika does not merely receive it but "
+            "responds in his own voice: &ldquo;I am not afraid. "
+            "What have I to fear?&rdquo; &mdash; naming his own "
+            "confidence in the three refuges and stating directly "
+            "that he sees no lay training rule he has broken.",
+        ]),
+        ("Ānanda confirms the declaration directly", [
+            "Confirmed by direct reading, Ānanda's own closing "
+            "response is unambiguous: &ldquo;you're fortunate, "
+            "householder, so very fortunate! You have declared the "
+            "fruit of stream-entry&rdquo; &mdash; a direct "
+            "confirmation from a senior disciple, delivered at the "
+            "deathbed itself.",
+        ]),
+    ],
+    terms=[
+        ("catūhi dhammehi samannāgato ubbiggo hoti uttāsavā, "
+         "maraṇassa bhāyati", "&ldquo;when&hellip;has four things, "
+             "they're frightened and terrified, and fear what "
+             "awaits them after death&rdquo; &mdash; the negative "
+             "half of this discourse's own matched structure"),
+        ("na ubbiggo hoti na uttāsavā, na maraṇassa bhāyati",
+             "&ldquo;they're not frightened or terrified, and don't "
+             "fear what awaits them after death&rdquo; &mdash; the "
+             "positive counterpart, attributed to the four factors"),
+        ("kiṁ me tena bhavissati", "&ldquo;what have I to "
+             "fear?&rdquo; &mdash; Anāthapiṇḍika's own direct, "
+             "confident question, answering himself"),
+        ("na kiñci samanupassāmi sikkhāpadaṁ abhinnaṁ", "&ldquo;I "
+             "don't see any that I have broken&rdquo; &mdash; "
+             "Anāthapiṇḍika's own examination of his own lay "
+             "training rules"),
+        ("sotāpattiphalaṁ tvaṁ, gahapati, byākāsi", "&ldquo;you "
+             "have declared the fruit of stream-entry&rdquo; "
+             "&mdash; Ānanda's own direct confirmation, closing this "
+             "discourse"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.27:1.1-3.3"),
+        ("p", "Four causes of fear", "sn55.27:4.1-7.3"),
+        ("p", "Four causes of fearlessness", "sn55.27:8.1-11.3"),
+        ("p", "Anāthapiṇḍika's own declaration", "sn55.27:12.1-12.10"),
+    ],
+    quiz=[
+        {"q": "How does Ānanda's own method in this discourse differ from Sāriputta's own at SN 55.26?",
+         "opts": ["Ānanda teaches directly, contrasting fear and fearlessness, rather than guiding a self-examination", "Ānanda uses the identical self-examination structure Sāriputta used", "Ānanda refuses to visit Anāthapiṇḍika at all", "Ānanda teaches an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely different counseling approach."},
+        {"q": "How does Anāthapiṇḍika respond to Ānanda's own teaching?",
+         "opts": ["He answers in his own voice, declaring he has nothing to fear and has broken no lay training rule", "He remains silent throughout", "He disputes Ānanda's own teaching", "He asks Ānanda to fetch the Buddha instead"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a direct, personal self-declaration, not passive reception."},
+        {"q": "What does Ānanda confirm at the close of this discourse?",
+         "opts": ["That Anāthapiṇḍika has declared the fruit of stream-entry", "That Anāthapiṇḍika must undergo further training before any confirmation can be given", "That only the Buddha could make such a confirmation", "That Anāthapiṇḍika's own declaration was premature and incorrect"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an unambiguous, direct confirmation from a senior disciple."},
+    ],
+    marginalia=[
+        ("A different visitor, a different method", [
+            "not self-examination, but direct teaching —",
+            "Ānanda's own approach, genuinely distinct"
+        ]),
+        ("Four causes of dread, four causes of calm", [
+            "distrust and bad conduct on one side —",
+            "confidence and good conduct on the other"
+        ]),
+        ("\"What have I to fear?\"", [
+            "Anāthapiṇḍika answers for himself —",
+            "not merely receiving, but declaring"
+        ]),
+        ("Confirmed at the deathbed itself", [
+            "\"you have declared the fruit of stream-entry\" —",
+            "spoken directly, without hedging"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.27/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.26.html\">SN 55.26 &middot; Anāthapiṇḍika "
+        "(1st)</a> &mdash; the previous discourse, Sāriputta's own "
+        "visit to the same dying householder.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.28 — Paṭhamabhayaverūpasantasutta ("Fears and Enmities, 1st")
+# Confirmed by direct reading: this saṃyutta's own most complete
+# formal definition of stream-entry, combining three distinct
+# elements into one licensing formula -- the five precepts (framed
+# as "quelling five fears and enmities"), the four factors of
+# stream-entry, and direct insight into dependent origination
+# (paṭiccasamuppāda), given here in its own full twelve-link forward
+# and reverse sequence.
+# --------------------------------------------------------------------------- #
+page(
+    55, 28, "Paṭhamabhayaverūpasanta", "Fears and Enmities (1st)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.28 — Fears and Enmities (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamabhayaverūpasantasutta &mdash; the five precepts, "
+        "the four factors, and dependent origination combined into "
+        "one formal definition of stream-entry. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the householder "
+                     "Anāthapiṇḍika"),
+        ("Form", "A single, comprehensive definition combining "
+                 "three distinct doctrinal elements"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this saṃyutta's own most complete "
+                         "formal definition, combining the five "
+                         "precepts, the four factors, and direct "
+                         "insight into dependent origination into "
+                         "one licensing formula"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse gives the "
+        "fullest, most technically complete definition of "
+        "stream-entry anywhere in this saṃyutta so far: a noble "
+        "disciple must have quelled &ldquo;five fears and "
+        "enmities&rdquo; (the five precepts, reframed by their own "
+        "psychological effect), possess the four factors of "
+        "stream-entry, and have &ldquo;clearly seen and penetrated "
+        "the noble system&rdquo; &mdash; dependent origination "
+        "itself, given here in its own complete twelve-link forward "
+        "and reverse sequence."
+    ),
+    guide=[
+        ("Five precepts, reframed as fears quelled", [
+            "Confirmed by direct reading, rather than simply listing "
+            "the five precepts as rules, this discourse frames each "
+            "as a fear and enmity that killing, stealing, sexual "
+            "misconduct, lying, and intoxication each generate "
+            "&ldquo;both in this life and in lives to come&rdquo; "
+            "&mdash; abstention is framed as the quelling of a "
+            "specific, named psychological burden.",
+        ]),
+        ("The four factors, unchanged", [
+            "Confirmed by direct reading, the second element is the "
+            "identical formula met throughout this saṃyutta: "
+            "confidence in the Buddha, teaching, and Saṅgha, and "
+            "ethical conduct loved by the noble ones.",
+        ]),
+        ("Dependent origination, given in full", [
+            "Confirmed by direct reading, the third element is the "
+            "complete twelve-link chain, forward (&ldquo;ignorance "
+            "is a requirement for choices&hellip;&rdquo;, ending in "
+            "the arising of the entire mass of suffering) and "
+            "reverse (&ldquo;when ignorance fades away and "
+            "ceases&hellip;&rdquo;, ending in the cessation of that "
+            "same mass of suffering) &mdash; a rare instance in this "
+            "saṃyutta of doctrinal content well beyond the four-"
+            "factor formula alone.",
+        ]),
+        ("Three elements, one declaration", [
+            "Confirmed by direct reading, all three elements are "
+            "explicitly required together before the same "
+            "self-declaration formula met throughout this saṃyutta "
+            "may be spoken &mdash; this discourse's own structure "
+            "confirms stream-entry, at its most complete, is not "
+            "ethical conduct, confidence, or insight alone, but all "
+            "three combined.",
+        ]),
+    ],
+    terms=[
+        ("pañca bhayāni verāni vūpasantāni", "&ldquo;five fears and "
+             "enmities&rdquo; quelled &mdash; this discourse's own "
+             "reframing of the five precepts by their own "
+             "psychological effect"),
+        ("cattāri sotāpattiyaṅgāni", "&ldquo;the four factors of "
+             "stream-entry&rdquo; &mdash; the second required "
+             "element, unchanged from this saṃyutta's own recurring "
+             "formula"),
+        ("ariyo ñāyo paññāya sudiṭṭho hoti suppaṭividdho",
+             "&ldquo;the noble system that they have clearly seen "
+             "and penetrated with wisdom&rdquo; &mdash; the third "
+             "required element, dependent origination itself"),
+        ("avijjāpaccayā saṅkhārā", "&ldquo;ignorance is a "
+             "requirement for choices&rdquo; &mdash; the opening "
+             "link of the twelve-link chain, given here in full"),
+        ("avijjāya tveva asesavirāganirodhā saṅkhāranirodho",
+             "&ldquo;when ignorance fades away and ceases with "
+             "nothing left over, choices cease&rdquo; &mdash; the "
+             "opening link of the chain's own reverse sequence, "
+             "ending in the cessation of suffering"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the complete twelve-"
+        "link chain of dependent origination in both directions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.28:1.1-1.4"),
+        ("p", "Five fears and enmities quelled", "sn55.28:2.1-2.9"),
+        ("p", "The four factors, once more", "sn55.28:3.1-3.7"),
+        ("p", "Dependent origination, forward and reverse",
+             "sn55.28:4.1-4.9"),
+        ("p", "&sect;2", "sn55.28:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What three distinct elements does this discourse combine into a single definition of stream-entry?",
+         "opts": ["The five precepts (as \"fears and enmities\" quelled), the four factors of stream-entry, and insight into dependent origination", "Only the four factors, repeated three times for emphasis", "The four jhānas, the four satipaṭṭhānas, and the seven awakening factors", "The eightfold path alone, divided into three groups"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely comprehensive, three-part formal definition."},
+        {"q": "How does this discourse frame the five precepts, rather than simply listing them as rules?",
+         "opts": ["As fears and enmities that killing, stealing, sexual misconduct, lying, and intoxication each generate, which abstention quells", "As arbitrary restrictions with no explained rationale", "As rules that apply only to monastics, not lay followers", "As optional guidelines rather than genuine requirements"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a psychological reframing, not a bare rule list."},
+        {"q": "What does this discourse give in full that is genuinely rare elsewhere in this saṃyutta?",
+         "opts": ["The complete twelve-link chain of dependent origination, in both forward and reverse sequence", "A detailed biography of the Buddha's own life", "The complete Vinaya code for monastics", "A list of all prior Buddhas"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — doctrinal content well beyond this saṃyutta's own usual four-factor focus."},
+    ],
+    marginalia=[
+        ("Five fears, quelled by five abstentions", [
+            "killing, stealing, misconduct, lying, drink —",
+            "each named as a burden set down"
+        ]),
+        ("The familiar four factors, once more", [
+            "confidence in three refuges, conduct the noble ones love —",
+            "unchanged from this saṃyutta's own formula"
+        ]),
+        ("The full chain, forward and reverse", [
+            "ignorance to suffering, then suffering undone —",
+            "twelve links, stated completely"
+        ]),
+        ("Three elements, one declaration licensed", [
+            "not conduct alone, not confidence alone, not insight alone —",
+            "all three together, this discourse insists"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.28/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.27.html\">SN 55.27 &middot; With "
+        "Anāthapiṇḍika (2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.29 — Dutiyabhayaverūpasantasutta ("Fears and Enmities, 2nd")
+# Confirmed by direct reading: the identical three-part definition
+# from SN 55.28, this time addressed generally to "mendicants" rather
+# than specifically to Anāthapiṇḍika, and entirely compressed via
+# "…" as a direct cross-reference back to SN 55.28's own full
+# content.
+# --------------------------------------------------------------------------- #
+page(
+    55, 29, "Dutiyabhayaverūpasanta", "Fears and Enmities (2nd)",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.29 — Fears and Enmities (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; SN 55.28's own three-part definition "
+        "of stream-entry, restated for the mendicants generally. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants generally"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.28's own full content"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirms SN "
+                         "55.28's own three-part definition was also "
+                         "taught generally to the mendicant "
+                         "community, not only to the lay householder "
+                         "Anāthapiṇḍika"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse restates SN "
+        "55.28's own identical three-part definition &mdash; the "
+        "five fears and enmities quelled, the four factors, and "
+        "insight into dependent origination &mdash; but this time "
+        "addressed generally to &ldquo;mendicants,&rdquo; entirely "
+        "compressed via ellipsis, confirming the same teaching "
+        "reached both the specific dying householder of SN 55.28 and "
+        "the wider monastic community."
+    ),
+    guide=[
+        ("The same formula, a different audience", [
+            "This project's own direct comparison: where SN 55.28 "
+            "was addressed specifically to Anāthapiṇḍika in his own "
+            "home, this discourse's own audience is the mendicants "
+            "generally, confirming the identical three-part "
+            "definition was not tailored uniquely to one lay "
+            "disciple's own circumstance.",
+        ]),
+    ],
+    terms=[
+        ("bhikkhave", "&ldquo;mendicants&rdquo; &mdash; this "
+             "discourse's own general audience, differing from SN "
+             "55.28's own specific address to Anāthapiṇḍika"),
+        ("pañca bhayāni verāni vūpasantāni", "&ldquo;five fears and "
+             "enmities&rdquo; quelled &mdash; the first required "
+             "element, unchanged from SN 55.28"),
+        ("cattāri sotāpattiyaṅgāni", "&ldquo;the four factors of "
+             "stream-entry&rdquo; &mdash; the second required "
+             "element, unchanged"),
+        ("ariyo ñāyo paññāya sudiṭṭho hoti suppaṭividdho",
+             "&ldquo;the noble system&hellip;clearly seen and "
+             "penetrated with wisdom&rdquo; &mdash; the third "
+             "required element, dependent origination, elided here "
+             "but given in full at SN 55.28"),
+        ("khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo",
+             "&ldquo;I've finished with rebirth in hell, the animal "
+             "realm, and the ghost realm&rdquo; &mdash; the "
+             "licensing formula's own opening, unchanged from SN "
+             "55.28"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.28. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.29:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own audience differ from SN 55.28's own?",
+         "opts": ["It addresses mendicants generally, rather than the specific lay householder Anāthapiṇḍika", "It addresses only nuns, excluding monks entirely", "It addresses a single named brahmin", "It addresses deities in the heaven of the thirty-three"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a general monastic audience rather than one specific lay disciple."},
+        {"q": "What does this discourse's own compression via ellipsis confirm?",
+         "opts": ["It cross-references SN 55.28's own full three-part definition rather than restating it in full", "It introduces a genuinely new definition, unrelated to SN 55.28", "It denies that dependent origination is required for stream-entry", "It reduces the requirement from three elements to only one"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical content, compressed rather than altered."},
+        {"q": "What does the existence of this discourse alongside SN 55.28 confirm?",
+         "opts": ["The same three-part teaching was given to both a specific dying lay disciple and the mendicant community generally", "SN 55.28's own teaching was later retracted", "Only monastics, not lay followers, can meet this definition", "The two discourses contradict each other"],
+         "correct": 0,
+         "expl": "This project's own reading of what pairing these two discourses together confirms."},
+    ],
+    marginalia=[
+        ("The same three elements, a wider audience", [
+            "not Anāthapiṇḍika alone this time —",
+            "the mendicants generally, addressed"
+        ]),
+        ("Compressed, not altered", [
+            "the ellipsis points back to SN 55.28 —",
+            "nothing added, nothing removed"
+        ]),
+        ("One teaching, two settings", [
+            "a deathbed, and a general assembly —",
+            "the same definition reaching both"
+        ]),
+        ("Vagga 3 nears its own close", [
+            "one discourse remains —",
+            "Nandaka the Licchavi, still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.28.html\">SN 55.28 &middot; Fears and "
+        "Enmities (1st)</a> &mdash; this project's own full "
+        "translation of the three-part definition this discourse "
+        "compresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.30 — Licchavisutta ("With Nandaka the Licchavi")
+# Confirmed by direct reading of the root Pali colophon: closes
+# Vagga 3 (Saraṇānivaggo tatiyo, "the About-Sarakāni chapter, the
+# third"), confirmed by the uddāna to match this project's own SN
+# 55.21-30 exactly. The Buddha extends the four factors' own
+# benefits to long life, beauty, happiness, fame, and sovereignty,
+# both human and heavenly, stating this from his own direct
+# realization rather than hearsay -- and the discourse closes with
+# Nandaka's own celebrated declaration, refusing an offered bath in
+# favor of "interior bathing": confidence in the Buddha.
+# --------------------------------------------------------------------------- #
+page(
+    55, 30, "Licchavi", "With Nandaka the Licchavi",
+    vagga="Saraṇānivagga",
+    meta_title="SN 55.30 — With Nandaka the Licchavi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Licchavisutta &mdash; Nandaka's own celebrated \"interior "
+        "bathing\" declaration, closing Vagga 3. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                     "peaked roof"),
+        ("Speakers", "The Buddha and Nandaka the Licchavi chief "
+                     "minister"),
+        ("Form", "The four factors extended to five further "
+                 "benefits, then a closing vignette about literal "
+                 "and figurative bathing"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Vagga 3 (10 discourses), "
+                         "confirmed by direct reading of the "
+                         "colophon and uddāna, with Nandaka's own "
+                         "celebrated declaration refusing an "
+                         "offered bath for \"interior bathing\""),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon "
+        "(&ldquo;Saraṇānivaggo tatiyo&rdquo;) and uddāna, this "
+        "discourse closes Vagga 3 at ten discourses, matching this "
+        "project's own SN 55.21-30 exactly. The Buddha extends the "
+        "four factors' own benefits well beyond stream-entry itself "
+        "&mdash; to long life, beauty, happiness, fame, and "
+        "sovereignty, both human and heavenly &mdash; stating this "
+        "from his own direct realization. When someone then tells "
+        "Nandaka it is time to bathe, he declines: &ldquo;this "
+        "interior bathing will do for me&hellip;confidence in the "
+        "Buddha.&rdquo;"
+    ),
+    guide=[
+        ("Five further benefits, not merely stream-entry", [
+            "Confirmed by direct reading, this discourse names "
+            "benefits genuinely broader than the &ldquo;not liable "
+            "to be reborn in the underworld&rdquo; formula met "
+            "throughout this saṃyutta: long life, beauty, happiness, "
+            "fame, and sovereignty, each said to apply &ldquo;both "
+            "human and heavenly&rdquo; &mdash; worldly flourishing "
+            "attributed to the same four factors that also secure a "
+            "good rebirth.",
+        ]),
+        ("A claim grounded in direct knowledge, not report", [
+            "Confirmed by direct reading, the Buddha explicitly "
+            "distinguishes his own basis for this claim: &ldquo;I "
+            "don't say this because I've heard it from some other "
+            "ascetic or brahmin. I only say it because I've known, "
+            "seen, and realized it for myself&rdquo; &mdash; an "
+            "epistemic marker this project has confirmed recurs at "
+            "points of unusually strong claim throughout this book.",
+        ]),
+        ("Interior bathing, chosen over the exterior kind", [
+            "Confirmed by direct reading, this discourse closes with "
+            "a vivid, almost anecdotal moment: someone tells Nandaka "
+            "it is time for his own bath, and he replies, &ldquo;"
+            "enough now&hellip;this interior bathing will do for "
+            "me, that is, confidence in the Buddha&rdquo; &mdash; a "
+            "spontaneous declaration turning a mundane household "
+            "moment into a statement of spiritual priority.",
+        ]),
+    ],
+    terms=[
+        ("dīghāyukena ca samannāgato hoti mānusakena ca "
+         "dibbena ca", "&ldquo;endowed with long life, both human "
+             "and heavenly&rdquo; &mdash; the first of five "
+             "worldly benefits this discourse attributes to the "
+             "four factors"),
+        ("nāhaṁ etaṁ aññassa samaṇassa vā brāhmaṇassa vā sutvā "
+         "vadāmi; api ca yadeva mayā sāmaṁ ñātaṁ sāmaṁ diṭṭhaṁ sāmaṁ "
+         "viditaṁ tadevāhaṁ vadāmi", "&ldquo;I don't say this "
+             "because I've heard it&hellip;I only say it because "
+             "I've known, seen, and realized it for myself&rdquo; "
+             "&mdash; the Buddha's own explicit epistemic marker for "
+             "this claim"),
+        ("kālo te, bhante, nhānāyāti", "&ldquo;sir, it is time to "
+             "bathe&rdquo; &mdash; the mundane prompt that occasions "
+             "this discourse's own closing declaration"),
+        ("alamidaṁ bāhiraṁ nahānaṁ", "&ldquo;enough now, I must "
+             "say, with that exterior bath&rdquo; &mdash; Nandaka's "
+             "own decline of the literal bath"),
+        ("ajjhattaṁ nahānaṁ...bhagavati pasādo", "&ldquo;interior "
+             "bathing&hellip;confidence in the Buddha&rdquo; "
+             "&mdash; Nandaka's own reframing, closing both this "
+             "discourse and Vagga 3"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.30:1.1-2.8"),
+        ("p", "Five further benefits", "sn55.30:3.1-3.6"),
+        ("p", "Interior bathing", "sn55.30:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "What five further benefits does the Buddha attribute to the four factors in this discourse?",
+         "opts": ["Long life, beauty, happiness, fame, and sovereignty, both human and heavenly", "The four jhānas and the four formless attainments", "Wealth, children, servants, land, and cattle", "Invisibility, flight, mind-reading, and two further psychic powers"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — worldly flourishing extended well beyond the usual stream-entry formula."},
+        {"q": "How does the Buddha ground this particular claim, according to his own explicit statement?",
+         "opts": ["In his own direct knowledge, seeing, and realization — not in something heard from another ascetic or brahmin", "In a teaching he received from a previous Buddha", "In popular consensus among the Sakyans", "In a written scripture he consulted"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an explicit epistemic marker distinguishing personal realization from report."},
+        {"q": "How does Nandaka respond when told it is time to bathe?",
+         "opts": ["He declines the exterior bath, saying his own \"interior bathing\" — confidence in the Buddha — will suffice", "He agrees immediately and goes to bathe", "He asks the Buddha to bathe with him", "He becomes angry at the interruption"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a spontaneous, vivid closing declaration."},
+    ],
+    marginalia=[
+        ("Beyond stream-entry alone", [
+            "long life, beauty, happiness, fame, sovereignty —",
+            "worldly flourishing, not only a good rebirth"
+        ]),
+        ("Known personally, not merely heard", [
+            "\"I've known, seen, and realized it for myself\" —",
+            "a claim grounded in direct experience"
+        ]),
+        ("An ordinary moment, turned significant", [
+            "\"it is time to bathe\" — a household prompt —",
+            "answered with a statement of priority instead"
+        ]),
+        ("Interior bathing, closing the vagga", [
+            "confidence in the Buddha, called a cleansing —",
+            "Vagga 3's own final, memorable image"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.30/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.29.html\">SN 55.29 &middot; Fears and "
+        "Enmities (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following vaggas are still in "
+        "preparation.",
+    ],
+)
