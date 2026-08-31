@@ -52177,3 +52177,166 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.32 — Tathāgatasutta ("The Realized One")
+# Confirmed by direct reading of the root Pāli colophon: this is
+# Vagga 3's own true closing discourse, at position TWELVE
+# ("Dvādasamaṁ"), not ten — resolving the honest structural question
+# this project flagged at SN 51.30 (whose own "Dasamaṁ" marked the
+# vagga's own tenth discourse, not its last). The uddāna's own
+# twelve-item list confirms SN 51.21-32 exactly. Content parallels
+# SN 51.31 but asks after the Buddha's own power rather than
+# Moggallāna's.
+# --------------------------------------------------------------------------- #
+page(
+    51, 32, "Tathāgata", "The Realized One",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.32 — The Realized One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tathāgatasutta &mdash; Vagga 3's own true closing "
+        "discourse, confirming the Buddha's own power traces to the "
+        "four bases, closing at twelve discourses rather than ten. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the mendicants"),
+        ("Form", "A question-and-answer exchange, closing this "
+                 "vagga at its own twelfth discourse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; Vagga 3's own true closing "
+                         "discourse, confirmed directly by its own "
+                         "colophon and uddāna to number twelve, "
+                         "resolving the puzzle this project flagged "
+                         "at SN 51.30"),
+    ],
+    why=(
+        "Confirmed by direct reading of this discourse's own closing "
+        "Pāli lines, Vagga 3 (Ayoguḷavagga) closes here, at its own "
+        "TWELFTH discourse (&ldquo;Dvādasamaṁ&rdquo;) followed by "
+        "&ldquo;Ayoguḷavaggo tatiyo&rdquo; and a twelve-item uddāna "
+        "matching SN 51.21 through SN 51.32 exactly &mdash; resolving "
+        "the honest structural question this project raised at SN "
+        "51.30: that discourse's own &ldquo;Dasamaṁ&rdquo; correctly "
+        "marked its position as the vagga's own tenth discourse, not "
+        "its last, since this vagga simply runs two discourses "
+        "longer than Vagga 1 and Vagga 2 both did."
+    ),
+    guide=[
+        ("The puzzle resolved: twelve, not ten", [
+            "This project's own confirmation: SN 51.30's own "
+            "&ldquo;Dasamaṁ&rdquo; was correct as a plain ordinal "
+            "&mdash; it genuinely was the vagga's own tenth "
+            "discourse &mdash; but this project was right not to "
+            "assume it meant the vagga's own last discourse, since "
+            "this vagga's own true close, confirmed here, comes two "
+            "discourses later at SN 51.32, marked "
+            "&ldquo;Dvādasamaṁ&rdquo; (&ldquo;twelfth&rdquo;).",
+        ]),
+        ("The Buddha's own power, asked about directly", [
+            "Confirmed by direct reading, this discourse mirrors SN "
+            "51.31 exactly in structure &mdash; the Buddha asks the "
+            "mendicants what he himself has &ldquo;developed and "
+            "cultivated so as to have such power and "
+            "might,&rdquo; they defer with the same formula, and the "
+            "Buddha answers his own question &mdash; but now the "
+            "subject is the Buddha himself (&ldquo;tathāgato&rdquo;), "
+            "not Moggallāna.",
+        ]),
+        ("Twelve titles, confirmed item by item", [
+            "This project's own count, matching the uddāna's own "
+            "twelve-item list directly against the discourses "
+            "themselves: Magga (51.21), Ayoguḷa (51.22), Bhikkhu "
+            "(51.23), Suddhika (51.24), the two Fruits discourses "
+            "(51.25-26), the two Ānanda discourses (51.27-28), the "
+            "two Several-Mendicants discourses (51.29-30), "
+            "Moggallāna (51.31), and Tathāgata (51.32) &mdash; twelve "
+            "titles for twelve discourses, exactly.",
+        ]),
+        ("The six direct knowledges, cross-referenced once more", [
+            "Confirmed by direct reading, this discourse closes with "
+            "the same bracketed translator's cross-reference already "
+            "met at SN 51.21: &ldquo;(The six direct knowledges "
+            "should be told in full.)&rdquo; &mdash; pointing back to "
+            "SN 51.11's own complete account rather than repeating "
+            "it here.",
+        ]),
+    ],
+    terms=[
+        ("tathāgato evaṁmahiddhiko evaṁmahānubhāvo", "&ldquo;the "
+             "Realized One... so powerful and mighty&rdquo; &mdash; "
+             "the discourse's own subject, echoing the same "
+             "description already given for Moggallāna at SN 51.14 "
+             "and SN 51.31"),
+        ("Bhagavaṁmūlakā no, bhante, dhammā", "&ldquo;our teachings "
+             "are rooted in the Buddha&rdquo; &mdash; the "
+             "mendicants' own deferral, met a fifth time in this "
+             "vagga alone"),
+        ("Dvādasamaṁ", "&ldquo;twelfth&rdquo; &mdash; this "
+             "discourse's own closing ordinal, confirming its own "
+             "position as Vagga 3's own final discourse"),
+        ("Ayoguḷavaggo tatiyo", "&ldquo;Vagga 3, the Iron-Ball "
+             "Vagga&rdquo; &mdash; the vagga's own true closing "
+             "colophon, present here where SN 51.30 lacked it"),
+        ("chaḷabhiññāyo vitthāretabbā", "&ldquo;the six direct "
+             "knowledges should be told in full&rdquo; &mdash; the "
+             "translator's own cross-reference, the same bracketed "
+             "instruction already met at SN 51.21"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.32:1.1-1.3"),
+        ("p", "&sect;2", "sn51.32:2.1-2.2"),
+        ("p", "&sect;3", "sn51.32:3.1-3.18"),
+        ("p", "&sect;4", "sn51.32:4.1-4.2"),
+        ("p", "&sect;5", "sn51.32:4.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own colophon confirm about Vagga 3, resolving the question raised at SN 51.30?",
+         "opts": ["Vagga 3 closes at its own twelfth discourse, not its tenth — SN 51.30's own 'tenth' marker was a correct ordinal, just not the vagga's own last discourse", "Vagga 3 actually closes at SN 51.30 after all, and SN 51.31-32 belong to a separate, unnamed vagga", "The vagga numbering system used in this saṃyutta is inconsistent and cannot be resolved", "Vagga 3 and Vagga 2 are actually the same vagga under two different names"],
+         "correct": 0,
+         "expl": "\"Dvādasamaṁ\" (\"twelfth\") followed by \"Ayoguḷavaggo tatiyo\" and a twelve-item uddāna, confirmed directly."},
+        {"q": "How does this discourse's own content compare to SN 51.31?",
+         "opts": ["The same structure and near-identical wording, but asking after the Buddha's own power rather than Moggallāna's", "A completely unrelated teaching on a different topic entirely", "It denies that the Buddha ever demonstrated psychic power personally", "It replaces the four bases with a fifth, previously unnamed basis"], "correct": 0,
+         "expl": "Confirmed by direct reading: the same question-and-deferral-and-answer structure, now applied to the Tathāgata himself."},
+        {"q": "How many discourses does the uddāna's own twelve-item list confirm for this vagga?",
+         "opts": ["Twelve, matching SN 51.21 through SN 51.32 exactly", "Ten, matching only SN 51.21 through SN 51.30", "Fourteen, including two discourses not yet translated", "The uddāna does not specify an exact count"],
+         "correct": 0,
+         "expl": "This project's own item-by-item match: Magga, Ayoguḷa, Bhikkhu, Suddhika, two Fruits, two Ānanda, two Several-Mendicants, Moggallāna, Tathāgata — twelve exactly."},
+    ],
+    marginalia=[
+        ("A puzzle, resolved", [
+            "\"tenth\" at SN 51.30 wasn't wrong —",
+            "just not the vagga's own final word"
+        ]),
+        ("Two discourses further than expected", [
+            "Vagga 1 and 2 both closed at ten —",
+            "Vagga 3 runs two discourses longer"
+        ]),
+        ("The same question, a different subject", [
+            "Moggallāna's power, then the Buddha's own —",
+            "the same four bases behind both"
+        ]),
+        ("Twelve titles, exactly accounted for", [
+            "the uddāna names them one by one —",
+            "matching this project's own twelve pages precisely"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.32/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.31.html\">SN 51.31 &middot; About "
+        "Moggallāna</a> &mdash; the previous discourse, this "
+        "discourse's own close structural parallel.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses, beginning the "
+        "peyyāla ranges from SN 51.33, are still in preparation.",
+    ],
+)
