@@ -51327,3 +51327,145 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.26 — Dutiyaphalasutta ("Fruits, 2nd")
+# Confirmed by direct reading: the promised companion to SN 51.25,
+# expanding its own two-result formula into the classic sevenfold
+# list of fruits — the same sevenfold non-returner typology this
+# project has already met attached to other qualities in this book.
+# --------------------------------------------------------------------------- #
+page(
+    51, 26, "Dutiyaphala", "Fruits (2nd)",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.26 — Fruits (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaphalasutta &mdash; the classic sevenfold list of "
+        "fruits expected from developing the four bases, expanding "
+        "the previous discourse's own two results into seven. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare list followed by the classic sevenfold "
+                 "fruits formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "confirmed directly as the promised "
+                         "companion to SN 51.25, expanding two "
+                         "results into the classic sevenfold list"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse resolves what "
+        "SN 51.25's own title left open: this project's own "
+        "comparison shows the &ldquo;second&rdquo; Fruits discourse "
+        "expands the &ldquo;first&rdquo; discourse's own two results "
+        "(enlightenment now, or non-return) into the same classic "
+        "sevenfold list of possible fruits this project has already "
+        "met attached to other qualities elsewhere in this book."
+    ),
+    guide=[
+        ("Two results, unfolded into seven", [
+            "Confirmed by direct reading, the seven fruits are: "
+            "attaining enlightenment early in this very life; "
+            "failing that, at the time of death; failing that, one "
+            "of five distinct ways of becoming a non-returner "
+            "&mdash; extinguished between one life and the next, "
+            "upon landing in the next life, without extra effort, "
+            "with extra effort, or heading upstream to the Akaniṭṭha "
+            "realm.",
+        ]),
+        ("A formula this project has met before", [
+            "This project's own cross-reference: this same sevenfold "
+            "structure &mdash; two forms of full enlightenment, "
+            "followed by the five varieties of non-return &mdash; "
+            "is the classic elaborated version of the &ldquo;two "
+            "results&rdquo; formula this project has already "
+            "translated attached to other qualities in this book, "
+            "confirmed here for the four bases specifically.",
+        ]),
+        ("Five ways of not returning, named without elaboration", [
+            "Confirmed by direct reading, the discourse itself "
+            "names the five non-return varieties only by their own "
+            "brief technical labels &mdash; &ldquo;extinguished "
+            "between one life and the next... upon landing... "
+            "without extra effort... with extra effort... heading "
+            "upstream&rdquo; &mdash; without explaining what "
+            "distinguishes them, consistent with this saṃyutta's own "
+            "practice of using established technical vocabulary "
+            "without re-glossing it.",
+        ]),
+    ],
+    terms=[
+        ("satta phalā satta ānisaṁsā", "&ldquo;seven fruits and "
+             "benefits&rdquo; &mdash; the discourse's own count, "
+             "expanding SN 51.25's own two results"),
+        ("antarāparinibbāyī", "&ldquo;extinguished between one life "
+             "and the next&rdquo; &mdash; the first of the five "
+             "non-return varieties named"),
+        ("upahaccaparinibbāyī", "&ldquo;extinguished upon "
+             "landing&rdquo; &mdash; the second variety, named "
+             "without further explanation"),
+        ("asaṅkhāraparinibbāyī...sasaṅkhāraparinibbāyī", "&ldquo;"
+             "extinguished without extra effort... with extra "
+             "effort&rdquo; &mdash; the third and fourth varieties, "
+             "paired as opposites"),
+        ("uddhaṁsoto akaniṭṭhagāmī", "&ldquo;heading upstream, "
+             "going to the Akaniṭṭha realm&rdquo; &mdash; the fifth "
+             "and final variety, naming the highest of the pure "
+             "abodes"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.26:1.1-1.8"),
+        ("p", "&sect;2", "sn51.26:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 51.25, according to this project's own comparison?",
+         "opts": ["It expands SN 51.25's own two results into the classic sevenfold list of fruits", "It contradicts SN 51.25's own account entirely", "It repeats SN 51.25 word for word with no new content", "It replaces the four bases with a different list of eight qualities"],
+         "correct": 0,
+         "expl": "Confirmed as the promised companion, unfolding two results into seven fruits."},
+        {"q": "What are the seven fruits, in outline?",
+         "opts": ["Enlightenment early in this life, enlightenment at death, and five distinct varieties of becoming a non-returner", "Seven different levels of psychic power, ranked from weakest to strongest", "Seven different monasteries where a mendicant might be reborn", "Seven stages of meditative absorption (jhāna) leading to arahantship"],
+         "correct": 0,
+         "expl": "Two forms of full enlightenment, followed by five varieties of non-return, confirmed directly by the text."},
+        {"q": "How does the discourse itself explain the five non-return varieties it names?",
+         "opts": ["It names them only by their own brief technical labels, without explaining what distinguishes them", "It gives a full paragraph of explanation for each of the five", "It explains only the first two and leaves the remaining three unnamed", "It denies that five distinct varieties actually exist"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: bare technical labels only, consistent with this saṃyutta's own use of established vocabulary without re-glossing."},
+    ],
+    marginalia=[
+        ("Two results, unfolded", [
+            "SN 51.25 named only two —",
+            "here, the same ground divided into seven"
+        ]),
+        ("A familiar list, newly attached", [
+            "this project has met this sevenfold shape before —",
+            "now confirmed for the four bases too"
+        ]),
+        ("Five kinds of not returning", [
+            "between lives, upon landing, with effort, without —",
+            "named plainly, not explained"
+        ]),
+        ("Upstream to the highest abode", [
+            "the seventh and rarest path —",
+            "heading to Akaniṭṭha itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.26/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.25.html\">SN 51.25 &middot; Fruits "
+        "(1st)</a> &mdash; the previous discourse, this discourse's "
+        "own promised companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
