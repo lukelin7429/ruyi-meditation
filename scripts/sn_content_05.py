@@ -82027,3 +82027,1675 @@ page_range(
         "project first flagged the naming puzzle now fully resolved.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 56.102 — Manussacutinirayasutta ("Passing Away as Humans and Reborn in Hell")
+# Confirmed by direct reading: opens Vagga 11, this saṃyutta's own
+# final vagga, applying the fingernail formula (left fully elided in
+# the consulted English source, unlike this pattern's own earlier
+# vagga-openers) to rebirth across the five destinations.
+# --------------------------------------------------------------------------- #
+page(
+    56, 102, "Manussacutiniraya", "Passing Away as Humans and "
+    "Reborn in Hell",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.102 — Passing Away as Humans and Reborn in "
+                "Hell | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; opens this saṃyutta's own final "
+        "vagga, on how rare it is to be reborn human again after a "
+        "human life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.101's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line; the fingernail demonstration "
+                 "itself left unstated even once in the consulted "
+                 "English source"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens Vagga 11, this saṃyutta's own final "
+                         "vagga, beginning a large combinatorial "
+                         "series across the five destinations"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse claims that "
+        "sentient beings who die as humans and are reborn as humans "
+        "are few, while those who die as humans and are reborn in "
+        "hell are many &mdash; opening Vagga 11, &ldquo;"
+        "Pañcagatipeyyālavagga&rdquo; (&ldquo;Abbreviated Texts on "
+        "Five Destinations&rdquo;), this saṃyutta's own final vagga, "
+        "confirmed by direct bilara-data listing to span SN 56.102 "
+        "through SN 56.131, thirty discourses across five "
+        "destinations: gods, humans, hell, animals, and ghosts."
+    ),
+    guide=[
+        ("The fingernail image, present in Pali but silent in English", [
+            "This project's own reading: the root Pali still spells "
+            "out the fingernail-dirt demonstration in full at this "
+            "vagga's own opening (as at every previous vagga's own "
+            "first or second discourse), but the consulted English "
+            "source leaves every segment of that demonstration "
+            "empty here, jumping straight to the comparative claim "
+            "itself &mdash; a translator's own choice this project "
+            "notes without treating it as evidence the Pali source "
+            "itself omits the image.",
+        ]),
+        ("A combinatorial matrix across five destinations", [
+            "This project's own reading ahead, confirmed by direct "
+            "bilara-data listing: this vagga systematically compares "
+            "rebirth as a human or a god (the two favorable "
+            "outcomes) against rebirth in hell, as an animal, or as "
+            "a ghost (the three unfavorable ones), for each of the "
+            "five destinations taken in turn as a starting point "
+            "&mdash; a large combinatorial series, several of whose "
+            "later segments bilara-data itself merges into single "
+            "files.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye manussā cutā manussesu paccājāyanti",
+             "&ldquo;the sentient beings who die as humans and are "
+             "reborn as humans are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt already "
+             "established at SN 56.51"),
+        ("manussā cutā niraye paccājāyanti", "&ldquo;die as humans "
+             "and are reborn in hell&rdquo; &mdash; the common "
+             "category, matching the whole earth, giving this "
+             "discourse its own title"),
+        ("cuta", "&ldquo;passed away, deceased&rdquo; &mdash; the "
+             "term marking the starting destination in each of this "
+             "vagga's own comparisons"),
+        ("paccājāyati", "&ldquo;is reborn&rdquo; &mdash; the term "
+             "marking the resulting destination"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself leaves the "
+        "fingernail demonstration unstated here, unlike this "
+        "project's own earlier vagga-openers. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.102:1.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about rebirth from a human life?",
+         "opts": ["Being reborn as a human again is rare; being reborn in hell is common", "Being reborn as a human again is the most common outcome of all", "The discourse makes no claim about relative rarity", "Rebirth of any kind after human death is claimed to be impossible"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same rarity structure as SN 56.51's own fingernail-dirt image."},
+        {"q": "What does this project's own reading ahead confirm about this vagga's own overall structure?",
+         "opts": ["A combinatorial series comparing favorable rebirth (human, god) against unfavorable rebirth (hell, animal, ghost) across all five destinations as starting points", "A simple ten-discourse repetition of a single fixed claim with no variation", "A series concerning only human and animal rebirth, excluding gods, hell, and ghosts", "An unrelated series about monastic precepts, continuing Vagga 10's own topic"],
+         "correct": 0,
+         "expl": "This project's own reading ahead, confirmed by direct bilara-data listing of the vagga's own full span."},
+        {"q": "What position does this discourse occupy, and what vagga does it open?",
+         "opts": ["The first discourse of Vagga 11, this saṃyutta's own final vagga", "The final discourse of the entire saṃyutta", "A discourse belonging to Vagga 10, not Vagga 11", "A discourse standing entirely outside any vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the vagga field in the root text."},
+    ],
+    marginalia=[
+        ("The final vagga begins", [
+            "\"Pañcagatipeyyālavagga\" — five destinations —",
+            "this saṃyutta's own last stretch"
+        ]),
+        ("A silent demonstration", [
+            "the fingernail image, unstated in English here —",
+            "still present in the root Pali itself"
+        ]),
+        ("Human to hell, rare to common", [
+            "the same structure as SN 56.51's own dirt and earth —",
+            "now applied across five realms of rebirth"
+        ]),
+        ("First of thirty", [
+            "twenty-nine items remain in this vagga —",
+            "animal and ghost rebirth follow next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.102/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.96-101.html\">SN 56.96&ndash;101 &middot; "
+        "Mutilation, Etc.</a> &mdash; the closing page of the "
+        "previous vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.103 — Manussacutitiracchānasutta ("Passing Away as Humans and Reborn as Animals")
+# Confirmed by direct reading: companion to SN 56.102, the identical
+# formula applied to rebirth as an animal.
+# --------------------------------------------------------------------------- #
+page(
+    56, 103, "Manussacutitiracchāna", "Passing Away as Humans and "
+    "Reborn as Animals",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.103 — Passing Away as Humans and Reborn as "
+                "Animals | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; being reborn human again is rare; "
+        "being reborn as an animal is common. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.102's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of "
+                         "thirty items in this vagga's own "
+                         "combinatorial series"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.102, this "
+        "discourse repeats the identical structure, substituting "
+        "rebirth &ldquo;in the animal realm&rdquo; for &ldquo;in "
+        "hell&rdquo; as the common outcome compared against the "
+        "rare case of a human reborn human again."
+    ),
+    guide=[
+        ("The first of three parallel comparisons", [
+            "This project's own reading: SN 56.102-104 form a "
+            "three-part set, each comparing human-to-human rebirth "
+            "against one of the three unfavorable destinations in "
+            "turn (hell, animal, ghost) &mdash; kept as three "
+            "separate discourse-numbers here, unlike the merged "
+            "single-file treatment this project will confirm for "
+            "several later origin-points in this same vagga.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye manussā cutā manussesu paccājāyanti",
+             "&ldquo;the sentient beings who die as humans and are "
+             "reborn as humans are few&rdquo; &mdash; the rare "
+             "category, identical to SN 56.102's own"),
+        ("tiracchānayoniyā paccājāyanti", "&ldquo;reborn as "
+             "animals&rdquo; &mdash; the common category, giving "
+             "this discourse its own title"),
+        ("tiracchānayoni", "&ldquo;animal womb, the animal "
+             "realm&rdquo; &mdash; one of the three unfavorable "
+             "destinations named across this vagga's own series"),
+        ("…", "the elision marking, standing in for the causal "
+             "explanation and fingernail demonstration already "
+             "assumed from earlier discourses"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.103:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about rebirth as an animal after a human life?",
+         "opts": ["Being reborn human again is rare; being reborn as an animal is common", "Being reborn as an animal is rarer than being reborn human again", "The discourse makes no claim about relative rarity", "Animal rebirth is claimed to be impossible after human death"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching SN 56.102's own structure, animal realm substituted for hell."},
+        {"q": "What three-part set does this discourse belong to, per this project's own reading?",
+         "opts": ["SN 56.102-104, each comparing human-to-human rebirth against one of the three unfavorable destinations, kept as separate discourse-numbers", "A merged single file covering all three comparisons at once", "A pairing with SN 56.131, the saṃyutta's own final discourse", "No larger set; this discourse stands entirely alone"],
+         "correct": 0,
+         "expl": "This project's own reading of a three-part structure kept individually numbered here."},
+        {"q": "What position does this discourse occupy in this vagga's own sequence?",
+         "opts": ["The second", "The first", "The final item", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.102."},
+    ],
+    marginalia=[
+        ("The same rarity, a new destination", [
+            "human to human, still rare —",
+            "human to animal, still common"
+        ]),
+        ("One of three parallel comparisons", [
+            "hell at SN 56.102, animal here —",
+            "ghost realm follows next"
+        ]),
+        ("Kept separate, not yet merged", [
+            "three individual discourse-numbers —",
+            "merging begins with SN 56.105 in this vagga"
+        ]),
+        ("Second of thirty", [
+            "twenty-eight items remain in this vagga —",
+            "the ghost realm follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.103/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.102.html\">SN 56.102 &middot; Passing "
+        "Away as Humans and Reborn in Hell</a> &mdash; the previous "
+        "discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.104 — Manussacutipettivisayasutta ("Passing Away as Humans and Reborn as Ghosts")
+# Confirmed by direct reading: completes the three-part set opened at
+# SN 56.102, the identical formula applied to rebirth as a ghost.
+# --------------------------------------------------------------------------- #
+page(
+    56, 104, "Manussacutipettivisaya", "Passing Away as Humans and "
+    "Reborn as Ghosts",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.104 — Passing Away as Humans and Reborn as "
+                "Ghosts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; being reborn human again is rare; "
+        "being reborn as a ghost is common. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.103's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the third "
+                         "of thirty items, completing the "
+                         "human-origin three-part set opened at SN "
+                         "56.102"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "rebirth as a human against rebirth &ldquo;in the ghost "
+        "realm,&rdquo; completing the three-part set (SN 56.102-104) "
+        "measuring human-to-human rebirth against all three "
+        "unfavorable destinations in turn &mdash; the last "
+        "individually numbered set in this vagga before merged "
+        "files begin at SN 56.105."
+    ),
+    guide=[
+        ("The last individually numbered set", [
+            "This project's own reading ahead, confirmed by direct "
+            "bilara-data listing: this is the final discourse "
+            "before this vagga's own remaining twenty-seven items "
+            "(covering the human-to-god comparison and all "
+            "remaining origin-points) are compressed into nine "
+            "merged files, SN 56.105 through SN 56.130.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye manussā cutā manussesu paccājāyanti",
+             "&ldquo;the sentient beings who die as humans and are "
+             "reborn as humans are few&rdquo; &mdash; the rare "
+             "category, identical across SN 56.102-104"),
+        ("pettivisaye paccājāyanti", "&ldquo;reborn as ghosts, in "
+             "the ghost realm&rdquo; &mdash; the common category, "
+             "giving this discourse its own title"),
+        ("pettivisaya", "&ldquo;the ghost realm&rdquo; &mdash; the "
+             "third and final unfavorable destination named across "
+             "this human-origin set"),
+        ("…", "the elision marking, standing in for the causal "
+             "explanation and fingernail demonstration already "
+             "assumed from earlier discourses"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.104:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about rebirth as a ghost after a human life?",
+         "opts": ["Being reborn human again is rare; being reborn as a ghost is common", "Being reborn as a ghost is rarer than being reborn human again", "The discourse makes no claim about relative rarity", "Ghost rebirth is claimed to be impossible after human death"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — completing the three-part set begun at SN 56.102."},
+        {"q": "What structural transition does this project's own reading ahead confirm follows this discourse?",
+         "opts": ["This vagga's own remaining twenty-seven items compress into nine merged files starting at SN 56.105", "Every remaining discourse in this vagga continues to be individually numbered", "This is the final discourse of the entire saṃyutta", "The vagga itself ends immediately after this discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct bilara-data listing of the vagga's own remaining structure."},
+        {"q": "What position does this discourse occupy in this vagga's own sequence?",
+         "opts": ["The third", "The first", "The final item", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.103."},
+    ],
+    marginalia=[
+        ("The third of three", [
+            "hell, animal, now ghost realm —",
+            "completing the human-origin comparisons"
+        ]),
+        ("The last individually numbered discourse", [
+            "for now — merged files begin next —",
+            "confirmed by direct directory listing"
+        ]),
+        ("Rare and common, once more", [
+            "human to human, still rare —",
+            "human to ghost, still common"
+        ]),
+        ("Third of thirty", [
+            "twenty-seven items remain in this vagga —",
+            "human-to-god rebirth, merged, follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.104/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.103.html\">SN 56.103 &middot; Passing "
+        "Away as Humans and Reborn as Animals</a> &mdash; the "
+        "previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.105–107 — Manussacutidevanirayādisutta ("Passing Away as Humans and Reborn as Gods")
+# Confirmed by direct listing of bilara-data's own directory: three
+# discourse-numbers merged into a single file, this vagga's own
+# first merged entry, comparing human-to-god rebirth against all
+# three unfavorable destinations at once.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 105, 107, "Manussacutidevanirayādi", "Passing Away as "
+    "Humans and Reborn as Gods",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.105–107 — Passing Away as Humans and Reborn "
+                "as Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.105&ndash;107 &mdash; being reborn as a god after a "
+        "human life is rare; hell, animal, or ghost rebirth is "
+        "common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.104's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file, all three unfavorable "
+                 "destinations named together in one compound "
+                 "sentence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; this "
+                         "vagga's own first merged entry, confirming "
+                         "the compression pattern that will recur "
+                         "across most of its own remaining "
+                         "origin-points"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "SN 56.105 through SN 56.107 &mdash; three discourse-numbers "
+        "&mdash; are merged into a single file comparing sentient "
+        "beings who die as humans and are reborn as gods (rare) "
+        "against those who die as humans and are reborn in hell, as "
+        "an animal, or as a ghost (all three named together, "
+        "common)."
+    ),
+    guide=[
+        ("Three unfavorable outcomes, one compound sentence", [
+            "This project's own reading: unlike SN 56.102-104's own "
+            "three separately numbered discourses (each naming a "
+            "single unfavorable destination), this merged file "
+            "compresses the same three outcomes into one flowing "
+            "sentence &mdash; &ldquo;reborn in hell, or the animal "
+            "realm, or the ghost realm&rdquo; &mdash; while still "
+            "occupying three distinct discourse-numbers in the root "
+            "text's own numbering.",
+        ]),
+        ("A pattern this project will trace across the remaining origins", [
+            "This project's own reading ahead: this same three-into-"
+            "one compression recurs for every remaining origin-point "
+            "compared against a favorable rebirth (human or god) in "
+            "this vagga, with one confirmed exception at SN "
+            "56.129-130, where the ghost-realm's own comparison "
+            "against rebirth as a god is instead split and left "
+            "incomplete, its own third case reserved for this "
+            "saṃyutta's own closing discourse.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye manussā cutā devesu paccājāyanti",
+             "&ldquo;the sentient beings who die as humans and are "
+             "reborn as gods are few&rdquo; &mdash; the rare "
+             "category, giving this merged page its own title"),
+        ("devesu paccājāyanti", "&ldquo;reborn as gods&rdquo; "
+             "&mdash; the favorable destination named here, "
+             "completing the pair with SN 56.102-104's own human-to-"
+             "human comparison"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, named together in a single compound "
+             "clause"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; the root "
+             "colophon's own numbering, confirming this merged "
+             "file's own final discourse-number within the vagga's "
+             "own running count"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination even within the "
+             "root Pali itself"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.105-107:1.1"),
+    ],
+    quiz=[
+        {"q": "How many discourse-numbers does this single merged page cover, confirmed by direct directory listing?",
+         "opts": ["Three (SN 56.105 through SN 56.107)", "One", "Nine", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by directly listing bilara-data's own directory: one merged file for three discourse-numbers."},
+        {"q": "How does this merged page's own treatment differ from SN 56.102-104's own, per this project's own comparison?",
+         "opts": ["The three unfavorable destinations are named together in one compound sentence, rather than each given its own separate discourse", "Each of the three destinations still receives its own fully separate elaboration here, unlike SN 56.102-104", "The two sets of discourses are treated identically with no distinction", "This merged page names only one unfavorable destination, not three"],
+         "correct": 0,
+         "expl": "This project's own direct comparison confirming a more compressed treatment for the favorable-to-god comparisons."},
+        {"q": "What exception does this project's own reading ahead flag to this compression pattern?",
+         "opts": ["SN 56.129-130, where the ghost-to-god comparison is split and its own third case reserved for the saṃyutta's own closing discourse", "No exceptions exist anywhere in this vagga's own remaining structure", "The exception occurs earlier, at SN 56.108-110", "The pattern breaks down entirely after this merged page"],
+         "correct": 0,
+         "expl": "This project's own reading ahead, confirming a deliberate structural choice at the saṃyutta's own close."},
+    ],
+    marginalia=[
+        ("Merging begins", [
+            "three discourse-numbers, one file —",
+            "this vagga's own first compression"
+        ]),
+        ("Three destinations, one sentence", [
+            "hell, animal, ghost — named together —",
+            "unlike SN 56.102-104's own separate treatment"
+        ]),
+        ("A pattern to watch for", [
+            "this compression recurs across most remaining origins —",
+            "with one confirmed exception near this vagga's own close"
+        ]),
+        ("Human-to-god, rare like the rest", [
+            "the same comparative structure, once more —",
+            "god-to-god rebirth follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.105-107/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.104.html\">SN 56.104 &middot; Passing "
+        "Away as Humans and Reborn as Ghosts</a> &mdash; the "
+        "previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.108–110 — Devacutinirayādisutta ("Passing Away as Gods and Reborn as Gods")
+# Confirmed by direct listing: three discourse-numbers merged into a
+# single file, shifting this vagga's own origin-point from human to
+# god.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 108, 110, "Devacutinirayādi", "Passing Away as Gods and "
+    "Reborn as Gods",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.108–110 — Passing Away as Gods and Reborn as "
+                "Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.108&ndash;110 &mdash; being reborn as a god after a "
+        "god's own life is rare; hell, animal, or ghost rebirth is "
+        "common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.105-107's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; shifts this "
+                         "vagga's own origin-point from human to "
+                         "god, even the gods' own favorable state "
+                         "shown as no guarantee against falling"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die as gods "
+        "and are reborn as gods (rare) against those who die as "
+        "gods and are reborn in hell, as an animal, or as a ghost "
+        "(common) &mdash; extending the comparison to a starting "
+        "point already favorable, showing even a god's own "
+        "fortunate state does not guarantee continued favorable "
+        "rebirth."
+    ),
+    guide=[
+        ("Even the fortunate can fall", [
+            "This project's own reading: this discourse's own "
+            "significance lies in its own starting point &mdash; "
+            "unlike SN 56.102-107's own human origin, here the "
+            "being already occupies the most favorable of the five "
+            "destinations, yet the same rarity claim holds, "
+            "underscoring that no state, however fortunate, secures "
+            "future rebirth without understanding the four truths.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye devā cutā devesu paccājāyanti", "&ldquo;"
+             "the sentient beings who die as gods and are reborn as "
+             "gods are few&rdquo; &mdash; the rare category, giving "
+             "this merged page its own title"),
+        ("devā cutā", "&ldquo;having died as gods&rdquo; &mdash; "
+             "this discourse's own starting point, the most "
+             "favorable of the five destinations"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, named together"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the root "
+             "colophon's own numbering, confirming this merged "
+             "file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.108-110:1.1"),
+    ],
+    quiz=[
+        {"q": "What starting point does this merged page use, unlike SN 56.102-107's own human origin?",
+         "opts": ["A god's own life — the most favorable of the five destinations", "An animal's own life", "A ghost's own existence", "The discourse names no specific starting point"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — extending the comparison to an already-favorable starting condition."},
+        {"q": "What point does this project's own reading draw from applying the rarity claim even to a god's own rebirth?",
+         "opts": ["No state, however fortunate, secures future favorable rebirth without understanding the four truths", "Gods are guaranteed continued favorable rebirth by their own nature", "The rarity claim does not apply to gods at all", "This discourse denies that gods can ever be reborn unfavorably"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own significance in choosing a favorable starting point."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.108 through SN 56.110)", "One", "Six", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("Starting from the top", [
+            "gods, the most favorable destination —",
+            "yet the same rarity claim still holds"
+        ]),
+        ("No guaranteed continuation", [
+            "fortune now does not secure fortune later —",
+            "this project's own reading of the discourse's own point"
+        ]),
+        ("The same three unfavorable outcomes", [
+            "hell, animal, ghost — named together, once more —",
+            "this vagga's own recurring compression"
+        ]),
+        ("A new origin-point begins", [
+            "god-to-human rebirth follows next —",
+            "the second half of the god-origin pair"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.108-110/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.105-107.html\">SN 56.105&ndash;107 &middot; "
+        "Passing Away as Humans and Reborn as Gods</a> &mdash; the "
+        "previous page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.111–113 — Devamanussanirayādisutta ("Dying as Gods and Reborn as Humans")
+# Confirmed by direct listing: completes the god-origin pair opened
+# at SN 56.108-110.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 111, 113, "Devamanussanirayādi", "Dying as Gods and Reborn "
+    "as Humans",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.111–113 — Dying as Gods and Reborn as Humans "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.111&ndash;113 &mdash; being reborn human after a "
+        "god's own life is rare; hell, animal, or ghost rebirth is "
+        "common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.108-110's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; completes the "
+                         "god-origin pair opened at SN 56.108-110"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die as gods "
+        "and are reborn as humans (rare) against those who die as "
+        "gods and are reborn in hell, as an animal, or as a ghost "
+        "(common) &mdash; completing the god-origin pair (SN "
+        "56.108-113) before this vagga's own series moves to hell as "
+        "its own next origin-point."
+    ),
+    guide=[
+        ("A recurring two-part structure per origin", [
+            "This project's own reading, confirmed across this "
+            "vagga's own first two origins: each starting point "
+            "receives two merged comparisons, one against rebirth "
+            "as a god and one against rebirth as a human (the two "
+            "favorable outcomes), before moving to the next origin "
+            "&mdash; human gave 56.105-107 (to god, after SN "
+            "56.102-104's own to-human set); god gives 56.108-110 "
+            "(to god) and this page (to human).",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye devā cutā manussesu paccājāyanti",
+             "&ldquo;the sentient beings who die as gods and are "
+             "reborn as humans are few&rdquo; &mdash; the rare "
+             "category, giving this merged page its own title"),
+        ("manussesu paccājāyanti", "&ldquo;reborn as humans&rdquo; "
+             "&mdash; the second of the two favorable destinations "
+             "this vagga's own series measures against"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, named together"),
+        ("dvādasamaṁ", "&ldquo;the twelfth&rdquo; &mdash; the root "
+             "colophon's own numbering, confirming this merged "
+             "file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.111-113:1.1"),
+    ],
+    quiz=[
+        {"q": "What pair does this merged page complete, per this project's own reading?",
+         "opts": ["The god-origin pair (SN 56.108-113), comparing god-to-god and god-to-human rebirth against the three unfavorable destinations", "A pairing with SN 56.102-104's own human-origin set", "This vagga's own entire thirty-item series", "No pairing; this discourse stands entirely alone"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — completing the two-comparison structure this project traces per origin-point."},
+        {"q": "What recurring structure does this project's own reading confirm across the vagga's own first two origins?",
+         "opts": ["Each origin-point receives two merged comparisons, one against god rebirth and one against human rebirth, before the series moves on", "Each origin-point receives only a single comparison with no repetition", "The structure varies unpredictably with no discernible pattern", "Only the human origin receives any comparison at all"],
+         "correct": 0,
+         "expl": "This project's own confirmed pattern, traced across SN 56.102-113."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.111 through SN 56.113)", "One", "Twelve", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("The god-origin pair, complete", [
+            "god-to-god, then god-to-human —",
+            "both measured against the same three falls"
+        ]),
+        ("A structure now confirmed", [
+            "two comparisons per origin, traced across two origins —",
+            "human gave one set, god gives two"
+        ]),
+        ("The same three unfavorable outcomes", [
+            "hell, animal, ghost — named together, once more —",
+            "this vagga's own recurring compression"
+        ]),
+        ("A new origin-point begins", [
+            "hell-to-human rebirth follows next —",
+            "the third of five starting points"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.111-113/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.108-110.html\">SN 56.108&ndash;110 &middot; "
+        "Passing Away as Gods and Reborn as Gods</a> &mdash; the "
+        "previous page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.114–116 — Nirayamanussanirayādisutta ("Dying in Hell and Reborn as Humans")
+# Confirmed by direct listing: opens hell as this vagga's own third
+# origin-point.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 114, 116, "Nirayamanussanirayādi", "Dying in Hell and "
+    "Reborn as Humans",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.114–116 — Dying in Hell and Reborn as Humans "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.114&ndash;116 &mdash; escaping hell for a human "
+        "rebirth is rare; falling back into hell, animal, or ghost "
+        "rebirth is common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.111-113's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; opens hell "
+                         "as this vagga's own third origin-point, "
+                         "including a return to hell itself among the "
+                         "three unfavorable outcomes it measures "
+                         "against"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die in hell "
+        "and are reborn as humans (rare) against those who die in "
+        "hell and are reborn in hell again, as an animal, or as a "
+        "ghost (common) &mdash; this discourse's own unfavorable "
+        "set notably includes a return to hell itself, the same "
+        "realm the being is already leaving."
+    ),
+    guide=[
+        ("Hell included among hell's own possible outcomes", [
+            "This project's own reading: unlike SN 56.129-130's own "
+            "confirmed omission of ghost-to-ghost rebirth from its "
+            "own unfavorable set, this discourse keeps hell-to-hell "
+            "rebirth within its own three named outcomes &mdash; a "
+            "genuine asymmetry this project reports directly rather "
+            "than smoothing into a single consistent rule the source "
+            "itself does not follow uniformly.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye nirayā cutā manussesu paccājāyanti",
+             "&ldquo;the sentient beings who die in hell and are "
+             "reborn as humans are few&rdquo; &mdash; the rare "
+             "category, giving this merged page its own title"),
+        ("nirayā cutā", "&ldquo;having died in hell&rdquo; &mdash; "
+             "this discourse's own starting point, the least "
+             "favorable of the five destinations"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, here including hell itself again"),
+        ("pannarasamaṁ", "&ldquo;the fifteenth&rdquo; &mdash; the "
+             "root colophon's own numbering, confirming this "
+             "merged file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.114-116:1.1"),
+    ],
+    quiz=[
+        {"q": "What genuine asymmetry does this project's own reading identify in this discourse's own unfavorable set?",
+         "opts": ["Rebirth back in hell itself is included among the three unfavorable outcomes, unlike SN 56.129-130's own confirmed omission of ghost-to-ghost rebirth", "The discourse names only two unfavorable outcomes, not three", "Hell is entirely excluded from its own unfavorable set", "No asymmetry exists; every origin-point treats its own realm identically"],
+         "correct": 0,
+         "expl": "This project's own direct comparison, reporting an inconsistency in the source rather than smoothing over it."},
+        {"q": "What does this discourse claim about escaping hell for a human rebirth?",
+         "opts": ["It is rare; falling back into hell, animal, or ghost rebirth is common", "It is the most common outcome for any being who dies in hell", "The discourse makes no claim about relative rarity", "Escaping hell entirely is claimed to be impossible"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring comparative formula."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.114 through SN 56.116)", "One", "Fifteen", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("Hell, as a starting point", [
+            "the least favorable of the five destinations —",
+            "escaping it for human rebirth, still rare"
+        ]),
+        ("An asymmetry, reported honestly", [
+            "hell included among hell's own possible falls —",
+            "unlike ghost's own later, confirmed omission"
+        ]),
+        ("The vagga's own midpoint approaches", [
+            "fifteen discourse-numbers given, fifteen remain —",
+            "hell-to-god rebirth follows next"
+        ]),
+        ("A structure holding, with exceptions noted", [
+            "not every origin-point treats its own realm identically —",
+            "this project traces the pattern without forcing consistency"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.114-116/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.111-113.html\">SN 56.111&ndash;113 &middot; "
+        "Dying as Gods and Reborn as Humans</a> &mdash; the "
+        "previous page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.117–119 — Nirayadevanirayādisutta ("Dying in Hell and Reborn as Gods")
+# Confirmed by direct listing: completes the hell-origin pair opened
+# at SN 56.114-116.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 117, 119, "Nirayadevanirayādi", "Dying in Hell and Reborn "
+    "as Gods",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.117–119 — Dying in Hell and Reborn as Gods | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.117&ndash;119 &mdash; escaping hell for rebirth as a "
+        "god is rare; falling back into hell, animal, or ghost "
+        "rebirth is common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.114-116's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; completes the "
+                         "hell-origin pair, the most extreme span in "
+                         "this vagga's own comparative structure"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die in hell "
+        "and are reborn as gods (rare) against those who die in "
+        "hell and are reborn in hell again, as an animal, or as a "
+        "ghost (common) &mdash; completing the hell-origin pair (SN "
+        "56.114-119), spanning the widest possible distance in this "
+        "vagga's own comparative structure, from the least "
+        "favorable destination to the most favorable."
+    ),
+    guide=[
+        ("The widest span in this vagga's own structure", [
+            "This project's own reading: this discourse's own claim "
+            "&mdash; that a being can rise from hell all the way to "
+            "rebirth as a god &mdash; measures the greatest possible "
+            "distance between origin and destination in this vagga's "
+            "own comparative series, and still finds this outcome "
+            "rarer than falling back into any of the three "
+            "unfavorable realms.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye nirayā cutā devesu paccājāyanti",
+             "&ldquo;the sentient beings who die in hell and are "
+             "reborn as gods are few&rdquo; &mdash; the rare "
+             "category, giving this merged page its own title"),
+        ("devesu paccājāyanti", "&ldquo;reborn as gods&rdquo; "
+             "&mdash; the most favorable possible destination, "
+             "reached here from the least favorable origin"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, named together"),
+        ("aṭṭhārasamaṁ", "&ldquo;the eighteenth&rdquo; &mdash; the "
+             "root colophon's own numbering, confirming this "
+             "merged file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.117-119:1.1"),
+    ],
+    quiz=[
+        {"q": "What distance does this discourse's own claim measure, per this project's own reading?",
+         "opts": ["The widest possible span in this vagga's own structure — from hell, the least favorable destination, to god, the most favorable", "The narrowest span, comparing hell only against itself", "A span between two equally unfavorable destinations", "This discourse makes no comparison between destinations at all"],
+         "correct": 0,
+         "expl": "This project's own reading of this discourse's own extreme comparative range."},
+        {"q": "What pair does this merged page complete?",
+         "opts": ["The hell-origin pair (SN 56.114-119), comparing hell-to-human and hell-to-god rebirth against the three unfavorable destinations", "The god-origin pair, already completed at SN 56.111-113", "This vagga's own entire thirty-item series", "No pair; each merged page in this vagga stands alone"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — completing the two-comparison structure for the hell origin-point."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.117 through SN 56.119)", "One", "Eighteen", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("The widest possible rise", [
+            "hell to god — the greatest span measured —",
+            "still rarer than falling back"
+        ]),
+        ("The hell-origin pair, complete", [
+            "hell-to-human, then hell-to-god —",
+            "both measured against the same three falls"
+        ]),
+        ("The same three unfavorable outcomes", [
+            "hell, animal, ghost — named together, once more —",
+            "this vagga's own recurring compression"
+        ]),
+        ("A new origin-point begins", [
+            "animal-to-human rebirth follows next —",
+            "the fourth of five starting points"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.117-119/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.114-116.html\">SN 56.114&ndash;116 &middot; "
+        "Dying in Hell and Reborn as Humans</a> &mdash; the "
+        "previous page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.120–122 — Tiracchānamanussanirayādisutta ("Dying as Animals and Reborn as Humans")
+# Confirmed by direct listing: opens the animal realm as this vagga's
+# own fourth origin-point.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 120, 122, "Tiracchānamanussanirayādi", "Dying as Animals "
+    "and Reborn as Humans",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.120–122 — Dying as Animals and Reborn as "
+                "Humans | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.120&ndash;122 &mdash; rising from animal rebirth to a "
+        "human one is rare; falling into hell, animal, or ghost "
+        "rebirth is common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.117-119's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; opens the animal "
+                         "realm as this vagga's own fourth "
+                         "origin-point"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die as "
+        "animals and are reborn as humans (rare) against those who "
+        "die as animals and are reborn in hell, as an animal again, "
+        "or as a ghost (common) &mdash; continuing this vagga's own "
+        "established two-comparison pattern for a fourth "
+        "origin-point."
+    ),
+    guide=[
+        ("The pattern holds, this vagga's own fourth origin", [
+            "This project's own reading: the identical structure "
+            "already confirmed for human, god, and hell origins "
+            "recurs here without variation &mdash; each origin gets "
+            "two merged comparisons (against god and against human "
+            "rebirth), each measured against the same three-item "
+            "unfavorable set.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye tiracchānayoniyā cutā manussesu "
+         "paccājāyanti", "&ldquo;the sentient beings who die as "
+             "animals and are reborn as humans are few&rdquo; "
+             "&mdash; the rare category, giving this merged page "
+             "its own title"),
+        ("tiracchānayoniyā cutā", "&ldquo;having died as "
+             "animals&rdquo; &mdash; this discourse's own starting "
+             "point"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, here including the animal realm again"),
+        ("ekavīsatimaṁ", "&ldquo;the twenty-first&rdquo; &mdash; "
+             "the root colophon's own numbering, confirming this "
+             "merged file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.120-122:1.1"),
+    ],
+    quiz=[
+        {"q": "What confirms this discourse follows the same pattern already established for the human, god, and hell origins?",
+         "opts": ["Two merged comparisons (against god and human rebirth) measured against the identical three-item unfavorable set", "An entirely new, unrelated structure specific to the animal realm", "Only a single comparison, unlike the previous three origins", "A structure that inverts the previous origins' own pattern"],
+         "correct": 0,
+         "expl": "This project's own confirmed reading of a consistent recurring structure."},
+        {"q": "What does this discourse claim about rising from animal rebirth to a human one?",
+         "opts": ["It is rare; falling into hell, animal, or ghost rebirth is common", "It is the most common outcome for any being reborn as an animal", "The discourse makes no claim about relative rarity", "Rising to human rebirth from animal rebirth is claimed to be impossible"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring comparative formula."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.120 through SN 56.122)", "One", "Twenty-one", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("A fourth origin, the same structure", [
+            "human, god, hell, now animal —",
+            "the pattern holds without variation"
+        ]),
+        ("Rising from the animal realm", [
+            "to human rebirth, still rare —",
+            "the same comparative formula, once more"
+        ]),
+        ("Two-thirds through this vagga", [
+            "twenty-one discourse-numbers given —",
+            "animal-to-god rebirth follows next"
+        ]),
+        ("One origin-point remaining after this", [
+            "the ghost realm closes this vagga's own series —",
+            "with this saṃyutta's own final discourse still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.120-122/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.117-119.html\">SN 56.117&ndash;119 &middot; "
+        "Dying in Hell and Reborn as Gods</a> &mdash; the previous "
+        "page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.123–125 — Tiracchānadevanirayādisutta ("Dying as Animals and Reborn as Gods")
+# Confirmed by direct listing: completes the animal-origin pair
+# opened at SN 56.120-122.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 123, 125, "Tiracchānadevanirayādi", "Dying as Animals and "
+    "Reborn as Gods",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.123–125 — Dying as Animals and Reborn as "
+                "Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.123&ndash;125 &mdash; rising from animal rebirth to a "
+        "god's own life is rare; falling into hell, animal, or "
+        "ghost rebirth is common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.120-122's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; completes the "
+                         "animal-origin pair, only the ghost realm "
+                         "remaining as this vagga's own final origin"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die as "
+        "animals and are reborn as gods (rare) against those who "
+        "die as animals and are reborn in hell, as an animal again, "
+        "or as a ghost (common) &mdash; completing the animal-origin "
+        "pair (SN 56.120-125), leaving only the ghost realm as this "
+        "vagga's own final origin-point before this saṃyutta's own "
+        "close."
+    ),
+    guide=[
+        ("Four origins complete, one remaining", [
+            "This project's own count: with human, god, hell, and "
+            "now animal each given their own two-comparison "
+            "treatment, only the ghost realm remains as an "
+            "origin-point &mdash; and this project's own reading "
+            "ahead already confirms that final origin's own "
+            "treatment breaks the established pattern, its own "
+            "third comparison held back for this saṃyutta's own "
+            "closing discourse.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye tiracchānayoniyā cutā devesu "
+         "paccājāyanti", "&ldquo;the sentient beings who die as "
+             "animals and are reborn as gods are few&rdquo; &mdash; "
+             "the rare category, giving this merged page its own "
+             "title"),
+        ("devesu paccājāyanti", "&ldquo;reborn as gods&rdquo; "
+             "&mdash; the most favorable destination, reached here "
+             "from the animal realm"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, named together"),
+        ("catuvīsatimaṁ", "&ldquo;the twenty-fourth&rdquo; &mdash; "
+             "the root colophon's own numbering, confirming this "
+             "merged file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.123-125:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this project's own count confirm at this point in the vagga's own sequence?",
+         "opts": ["Four origins (human, god, hell, animal) are complete, leaving only the ghost realm as a final origin-point", "All five origins are already complete after this merged page", "Only two origins have been addressed so far", "This merged page is the first, not the fourth, origin-pair completed"],
+         "correct": 0,
+         "expl": "This project's own running count across the vagga's own established structure."},
+        {"q": "What does this project's own reading ahead confirm about the ghost-realm origin still to come?",
+         "opts": ["Its own treatment breaks the established pattern, with its own third comparison held back for the saṃyutta's own closing discourse", "It follows the identical pattern as every other origin, with no variation", "The ghost realm is entirely omitted as an origin-point in this vagga", "It receives four comparisons instead of the usual two"],
+         "correct": 0,
+         "expl": "This project's own reading ahead, confirming the deliberate structural choice already traced at SN 56.129-131."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.123 through SN 56.125)", "One", "Twenty-four", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("The animal-origin pair, complete", [
+            "animal-to-human, then animal-to-god —",
+            "both measured against the same three falls"
+        ]),
+        ("Four origins done, one remains", [
+            "human, god, hell, animal —",
+            "only the ghost realm still ahead"
+        ]),
+        ("A pattern about to break", [
+            "this project's own reading ahead already knows —",
+            "the ghost realm's own treatment will differ"
+        ]),
+        ("Approaching this saṃyutta's own close", [
+            "ghost-to-human rebirth follows next —",
+            "then this vagga's own final origin-point"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.123-125/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.120-122.html\">SN 56.120&ndash;122 &middot; "
+        "Dying as Animals and Reborn as Humans</a> &mdash; the "
+        "previous page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.126–128 — Pettimanussanirayādisutta ("Dying as Ghosts and Reborn as Humans")
+# Confirmed by direct listing: opens the ghost realm as this vagga's
+# own fifth and final origin-point, still following the standard
+# three-item unfavorable set before this pattern breaks at SN 56.129.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 126, 128, "Pettimanussanirayādi", "Dying as Ghosts and "
+    "Reborn as Humans",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.126–128 — Dying as Ghosts and Reborn as "
+                "Humans | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.126&ndash;128 &mdash; rising from ghost rebirth to a "
+        "human one is rare; falling into hell, animal, or ghost "
+        "rebirth is common. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.123-125's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Three discourse-numbers merged into a single "
+                 "bilara-data file"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; opens the "
+                         "ghost realm as this vagga's own fifth and "
+                         "final origin-point, still following the "
+                         "standard three-item unfavorable set"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page compares sentient beings who die as "
+        "ghosts and are reborn as humans (rare) against those who "
+        "die as ghosts and are reborn in hell, as an animal, or as a "
+        "ghost again (common) &mdash; this discourse's own "
+        "ghost-to-human comparison still keeps all three unfavorable "
+        "outcomes together, unlike the ghost-to-god comparison to "
+        "follow at SN 56.129-130, where this project confirms the "
+        "pattern breaks."
+    ),
+    guide=[
+        ("The final origin's own first half, still standard", [
+            "This project's own reading: this discourse's own "
+            "ghost-to-human comparison follows the identical "
+            "three-item structure already confirmed for every prior "
+            "origin-point &mdash; including ghost-to-ghost among the "
+            "three named falls &mdash; making the coming departure "
+            "at SN 56.129-130 (this vagga's own ghost-to-god "
+            "comparison) a deliberate exception rather than this "
+            "origin's own general treatment.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pettivisayā cutā manussesu paccājāyanti",
+             "&ldquo;the sentient beings who die as ghosts and are "
+             "reborn as humans are few&rdquo; &mdash; the rare "
+             "category, giving this merged page its own title"),
+        ("pettivisayā cutā", "&ldquo;having died as ghosts&rdquo; "
+             "&mdash; this discourse's own starting point, this "
+             "vagga's own fifth and final origin"),
+        ("niraye...tiracchānayoniyā...pettivisaye paccājāyanti",
+             "&ldquo;reborn in hell, or the animal realm, or the "
+             "ghost realm&rdquo; &mdash; the three unfavorable "
+             "destinations, here including the ghost realm again"),
+        ("sattavīsatimaṁ", "&ldquo;the twenty-seventh&rdquo; "
+             "&mdash; the root colophon's own numbering, confirming "
+             "this merged file's own final discourse-number"),
+        ("…pe…", "the elision marking, appearing between each "
+             "named unfavorable destination"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.126-128:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own structure confirm, per this project's own reading?",
+         "opts": ["It still follows the standard three-item unfavorable set, including ghost-to-ghost rebirth, unlike the coming exception at SN 56.129-130", "It already breaks the pattern that SN 56.129-130 will later follow", "It names only two unfavorable outcomes instead of three", "It is the first discourse in this vagga to omit hell from its own unfavorable set"],
+         "correct": 0,
+         "expl": "This project's own reading confirming the pattern still holds for this specific comparison."},
+        {"q": "What does this discourse claim about rising from ghost rebirth to a human one?",
+         "opts": ["It is rare; falling into hell, animal, or ghost rebirth is common", "It is the most common outcome for any being reborn as a ghost", "The discourse makes no claim about relative rarity", "Rising to human rebirth from ghost rebirth is claimed to be impossible"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring comparative formula."},
+        {"q": "How many discourse-numbers does this single merged page cover?",
+         "opts": ["Three (SN 56.126 through SN 56.128)", "One", "Twenty-seven", "Thirty"],
+         "correct": 0,
+         "expl": "Confirmed by direct directory listing — matching this vagga's own recurring three-item merge pattern."},
+    ],
+    marginalia=[
+        ("The fifth and final origin begins", [
+            "the ghost realm, this vagga's own last starting point —",
+            "still the standard three-item structure here"
+        ]),
+        ("A pattern about to shift", [
+            "this comparison still whole —",
+            "the next one, ghost-to-god, will break the mold"
+        ]),
+        ("Rising from ghosthood", [
+            "to human rebirth, still rare —",
+            "the same comparative formula, once more"
+        ]),
+        ("Nearly there", [
+            "twenty-seven discourse-numbers given —",
+            "ghost-to-god rebirth, incomplete, follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.126-128/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.123-125.html\">SN 56.123&ndash;125 &middot; "
+        "Dying as Animals and Reborn as Gods</a> &mdash; the "
+        "previous page.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.129–130 — Pettidevanirayādisutta ("Dying as Ghosts and Reborn as Gods")
+# Confirmed by direct listing: two discourse-numbers merged, one
+# short of this vagga's own otherwise-consistent three-item pattern
+# -- the ghost-to-ghost comparison is conspicuously absent here,
+# confirmed by direct reading to be reserved for this saṃyutta's own
+# closing discourse, SN 56.131.
+# --------------------------------------------------------------------------- #
+page_range(
+    56, 129, 130, "Pettidevanirayādi", "Dying as Ghosts and Reborn "
+    "as Gods",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.129–130 — Dying as Ghosts and Reborn as Gods "
+                "| Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 56.129&ndash;130 &mdash; rising from ghost rebirth to a "
+        "god's own life is rare; falling into hell or animal "
+        "rebirth is common &mdash; the ghost-to-ghost comparison "
+        "deliberately held back. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.126-128's own setting"),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Only two discourse-numbers merged, each keeping "
+                 "its own separate clause rather than compressing "
+                 "into one sentence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "confirmed by direct reading to be one "
+                         "short of this vagga's own otherwise-"
+                         "consistent three-item pattern, its own "
+                         "missing case reserved for the saṃyutta's "
+                         "own final discourse"),
+    ],
+    why=(
+        "Confirmed by direct listing of bilara-data's own directory, "
+        "this merged page covers only two discourse-numbers, unlike "
+        "every other origin-point in this vagga's own series, which "
+        "receives three &mdash; comparing sentient beings who die as "
+        "ghosts and are reborn as gods (rare) against those who die "
+        "as ghosts and fall into hell (SN 56.129) or the animal "
+        "realm (SN 56.130), each kept as its own separate clause "
+        "rather than merged into one compound sentence. The third "
+        "expected comparison, against ghosts falling back into the "
+        "ghost realm itself, is conspicuously absent here &mdash; "
+        "confirmed by direct reading of SN 56.131 to be this "
+        "saṃyutta's own deliberately withheld final discourse."
+    ),
+    guide=[
+        ("A pattern broken, and why", [
+            "This project's own direct comparison against every "
+            "prior merged page in this vagga: SN 56.105-128 each "
+            "compress three unfavorable outcomes into one shared "
+            "clause across three discourse-numbers; this page "
+            "instead gives only two outcomes (hell, animal) across "
+            "two numbers, each kept as its own separate sentence "
+            "&mdash; both a numerical and a structural departure "
+            "this project confirms is deliberate, not an accident of "
+            "compilation, once SN 56.131's own content is read "
+            "directly.",
+        ]),
+        ("The missing case, reserved for the very end", [
+            "Confirmed by direct reading ahead: the omitted "
+            "comparison &mdash; sentient beings who die as ghosts "
+            "and are reborn as ghosts again, set against the rare "
+            "case of rebirth as a god &mdash; is not lost or "
+            "uncounted; it is this saṃyutta's own closing discourse, "
+            "SN 56.131, given its own dedicated final statement "
+            "rather than folded into this merged page like its own "
+            "two companions.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pettivisayā cutā devesu paccājāyanti",
+             "&ldquo;the sentient beings who die as ghosts and are "
+             "reborn as gods are few&rdquo; &mdash; the rare "
+             "category, repeated identically in both of this "
+             "merged page's own two clauses"),
+        ("niraye paccājāyanti", "&ldquo;reborn in hell&rdquo; "
+             "&mdash; SN 56.129's own specific unfavorable outcome, "
+             "kept as its own separate clause"),
+        ("tiracchānayoniyā paccājāyanti", "&ldquo;reborn as an "
+             "animal&rdquo; &mdash; SN 56.130's own specific "
+             "unfavorable outcome, likewise its own separate clause"),
+        ("pettivisaye paccājāyanti", "&ldquo;reborn as a "
+             "ghost&rdquo; &mdash; the third, expected outcome "
+             "conspicuously absent from this merged page, confirmed "
+             "reserved for SN 56.131"),
+        ("ekūnatiṁsatimaṁ", "&ldquo;the twenty-ninth&rdquo; "
+             "&mdash; the root colophon's own numbering, confirming "
+             "this merged file's own final discourse-number, one "
+             "short of what the vagga's own pattern would predict"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, given as two separate clauses "
+        "rather than one merged sentence, matching the root text's "
+        "own own structure here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.129-130:1.1"),
+        ("p", "&sect;2", "sn56.129-130:1.2"),
+    ],
+    quiz=[
+        {"q": "How does this merged page's own structure depart from every prior one in this vagga, per this project's own direct comparison?",
+         "opts": ["It covers only two discourse-numbers with two separate clauses, rather than three compressed into one, omitting the ghost-to-ghost comparison", "It covers four discourse-numbers instead of the usual three", "It is identical in every respect to the prior merged pages", "It omits the rare, favorable comparison entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — both a numerical and structural departure from this vagga's own established pattern."},
+        {"q": "What does this project's own reading ahead confirm about the missing ghost-to-ghost comparison?",
+         "opts": ["It is reserved for SN 56.131, this saṃyutta's own closing discourse, rather than being lost or omitted", "It is genuinely missing from the source with no explanation available", "It was already given earlier, at SN 56.126-128", "The comparison never existed in the tradition at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of SN 56.131's own actual content, resolving what would otherwise be an unexplained gap."},
+        {"q": "What unfavorable outcomes does this merged page name, and how many discourse-numbers does it cover?",
+         "opts": ["Hell and the animal realm, across two discourse-numbers (SN 56.129-130)", "Hell, animal, and ghost realms, across three discourse-numbers", "Only the ghost realm, across a single discourse-number", "All five destinations, across five discourse-numbers"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading and directory listing — two outcomes, two numbers, the pattern's own deliberate exception."},
+    ],
+    marginalia=[
+        ("A pattern, broken on purpose", [
+            "two discourse-numbers here, not three —",
+            "hell and animal, but not ghost"
+        ]),
+        ("The missing piece, not lost", [
+            "ghost-to-ghost rebirth held back —",
+            "reserved for this saṃyutta's own very last word"
+        ]),
+        ("Two clauses, not one compound sentence", [
+            "unlike every merged page before it —",
+            "each unfavorable outcome kept separate here"
+        ]),
+        ("One discourse remains", [
+            "in this vagga, in this saṃyutta, in this entire book —",
+            "SN 56.131 closes everything next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.129-130/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.126-128.html\">SN 56.126&ndash;128 &middot; "
+        "Dying as Ghosts and Reborn as Humans</a> &mdash; the "
+        "previous page.",
+        "<a href=\"sn-56.131.html\">SN 56.131 &middot; Dying as "
+        "Ghosts and Reborn as Ghosts</a> &mdash; the discourse this "
+        "page's own missing comparison is reserved for.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.131 — Pettidevapettivisayasutta ("Dying as Ghosts and Reborn as Ghosts")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 11 ("Pañcagatipeyyālavaggo ekādasamo"), the
+# entire Saccasaṃyutta ("Saccasaṁyuttaṁ dvādasamaṁ" -- confirming SN
+# 56 as Book V's own twelfth and final saṃyutta), the entire
+# Mahāvagga ("Mahāvaggo pañcamo" -- confirming Book V as the
+# Saṃyutta Nikāya's own fifth and final book), and -- with its own
+# closing line "Saṁyuttanikāyo samatto" -- the ENTIRE SAṂYUTTA
+# NIKĀYA ITSELF. This is confirmed by direct reading, not assumed:
+# the final discourse of the entire collection, and with it, this
+# project's own multi-session translation of every book of the
+# Saṃyutta Nikāya (Books I-V, all fifty-six saṃyuttas) is complete.
+# --------------------------------------------------------------------------- #
+page(
+    56, 131, "Pettidevapettivisaya", "Dying as Ghosts and Reborn as "
+    "Ghosts",
+    vagga="Pañcagatipeyyālavagga",
+    meta_title="SN 56.131 — Dying as Ghosts and Reborn as Ghosts | "
+                "Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz "
+        "for the final discourse of the entire Saṃyutta Nikāya "
+        "&mdash; confirmed by its own closing line, \"the Linked "
+        "Discourses are completed.\" From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.129-130's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The vagga's own withheld third comparison, then "
+                 "an unbroken cascade of closing colophons: this "
+                 "vagga, this saṃyutta, this book, and the entire "
+                 "collection, each confirmed in turn"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of its "
+                         "own root colophon as the final discourse "
+                         "of the ENTIRE Saṃyutta Nikāya, closing "
+                         "Vagga 11, the Saccasaṃyutta, the "
+                         "Mahāvagga, and the whole collection all at "
+                         "once"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes four things simultaneously, each stated "
+        "explicitly in the text itself rather than inferred: Vagga "
+        "11 (&ldquo;Pañcagatipeyyālavaggo ekādasamo&rdquo;), the "
+        "entire Saccasaṃyutta (&ldquo;Saccasaṁyuttaṁ "
+        "dvādasamaṁ&rdquo; &mdash; confirming SN 56 as Book V's own "
+        "twelfth and final saṃyutta), the entire Mahāvagga "
+        "(&ldquo;Mahāvaggo pañcamo&rdquo; &mdash; confirming Book V "
+        "as the Saṃyutta Nikāya's own fifth and final book), and, "
+        "with its own final line, the entire Saṃyutta Nikāya itself "
+        "(&ldquo;Saṁyuttanikāyo samatto&rdquo; &mdash; &ldquo;the "
+        "Saṃyutta Nikāya is completed&rdquo;). Its own content "
+        "completes the comparison this project already flagged as "
+        "withheld at SN 56.129-130: sentient beings who die as "
+        "ghosts and are reborn as gods are few, while those who die "
+        "as ghosts and are reborn as ghosts again are many."
+    ),
+    guide=[
+        ("The withheld comparison, delivered at last", [
+            "Confirmed by direct reading, this discourse gives "
+            "exactly the comparison this project identified as "
+            "missing from SN 56.129-130: ghost-to-god rebirth "
+            "measured against ghost-to-ghost rebirth specifically, "
+            "the one unfavorable outcome the prior merged page "
+            "conspicuously omitted &mdash; closing this vagga's own "
+            "combinatorial series with the single most fitting "
+            "final image, a being endlessly reborn as what it "
+            "already is, never rising.",
+        ]),
+        ("A cascade of four closings, each confirmed directly", [
+            "This project's own direct reading of the root colophon, "
+            "line by line, rather than assumed from context: "
+            "&ldquo;Ekādasamo&rdquo; closes Vagga 11; &ldquo;"
+            "Saccasaṁyuttaṁ dvādasamaṁ&rdquo; closes the "
+            "Saccasaṃyutta as Book V's own twelfth saṃyutta; "
+            "&ldquo;Mahāvaggo pañcamo&rdquo; closes the Mahāvagga as "
+            "the Saṃyutta Nikāya's own fifth book; and a final, "
+            "second uddāna names all twelve saṃyuttas of Book V by "
+            "name (Path, Awakening Factors, Mindfulness, Faculties, "
+            "Right Efforts, Powers, Bases of Success, Anuruddha, "
+            "Jhāna, Breathing, Stream-Entry, and Truths) before the "
+            "text's own final words: &ldquo;Mahāvaggasaṁyuttapāḷi "
+            "niṭṭhitā. Saṁyuttanikāyo samatto&rdquo; (&ldquo;The "
+            "Mahāvagga Saṃyutta text is finished. The Saṃyutta "
+            "Nikāya is completed.&rdquo;)",
+        ]),
+        ("This project's own multi-session translation, also complete", [
+            "This project's own honest note: this discourse's own "
+            "close is not only the source text's own end but this "
+            "project's own as well &mdash; every saṃyutta of every "
+            "book of the Saṃyutta Nikāya (Books I through V, "
+            "fifty-six saṃyuttas in total) has now been translated "
+            "and published on this site across many separate working "
+            "sessions, this one completing Book V's own final "
+            "stretch (SN 52 through SN 56) begun and finished within "
+            "this single continuous session.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pettivisayā cutā devesu paccājāyanti; "
+         "atha kho eteva bahutarā sattā ye pettivisayā cutā "
+         "pettivisaye paccājāyanti", "&ldquo;the sentient beings who "
+             "die as ghosts and are reborn as gods are few, while "
+             "those who die as ghosts and are reborn in the ghost "
+             "realm are many&rdquo; &mdash; this discourse's own "
+             "specific claim, completing SN 56.129-130's own "
+             "withheld third comparison"),
+        ("pañcagatipeyyālavaggo ekādasamo", "&ldquo;the eleventh "
+             "vagga [ends]&rdquo; &mdash; this discourse's own first "
+             "confirmed closing"),
+        ("saccasaṁyuttaṁ dvādasamaṁ", "&ldquo;the Saccasaṃyutta is "
+             "the twelfth [section]&rdquo; &mdash; confirming Book "
+             "V's own full complement of twelve saṃyuttas, SN 45 "
+             "through SN 56"),
+        ("mahāvaggo pañcamo", "&ldquo;the Mahāvagga is the "
+             "fifth&rdquo; &mdash; confirming Book V as the last of "
+             "the Saṃyutta Nikāya's own five books"),
+        ("mahāvaggasaṁyuttapāḷi niṭṭhitā. saṁyuttanikāyo samatto",
+             "&ldquo;the Mahāvagga Saṃyutta text is finished. The "
+             "Saṃyutta Nikāya is completed.&rdquo; &mdash; the "
+             "collection's own final words"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including its own full cascade "
+        "of closing lines &mdash; the vagga's own colophon and first "
+        "uddāna are left untranslated in the consulted English "
+        "source, as at every earlier vagga close throughout this "
+        "project's own work, but the saṃyutta-closing line, the "
+        "book-closing line, and the collection's own final words are "
+        "all genuinely translated and quoted here in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.131:1.1-1.5"),
+        ("p", "&sect;2", "sn56.131:2.1"),
+        ("p", "Closing", "sn56.131:3.1-3.2"),
+        ("p", "Saṃyutta complete", "sn56.131:4.5"),
+        ("p", "Book and collection complete", "sn56.131:5.7-5.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct, line-by-line reading?",
+         "opts": ["It closes Vagga 11, the entire Saccasaṃyutta (Book V's own twelfth saṃyutta), the entire Mahāvagga (the Saṃyutta Nikāya's own fifth and final book), and the ENTIRE Saṃyutta Nikāya itself", "It closes only this single vagga, with the saṃyutta and book both continuing beyond it", "It belongs to an entirely different saṃyutta, not SN 56", "It closes nothing beyond this single discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon's own explicit, cascading closing statements — not inferred or assumed."},
+        {"q": "What comparison does this discourse complete, per this project's own reading?",
+         "opts": ["The ghost-to-god versus ghost-to-ghost comparison this project identified as deliberately withheld from SN 56.129-130", "An entirely new comparison unrelated to any prior discourse", "The human-to-god comparison, already given at SN 56.105-107", "No comparison; this discourse abandons the vagga's own established structure"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the missing third case from SN 56.129-130, delivered here as this vagga's own closing image."},
+        {"q": "What does this project's own honest note confirm about the significance of this discourse's own close?",
+         "opts": ["It marks the completion of this project's own multi-session translation of the entire Saṃyutta Nikāya, all five books and fifty-six saṃyuttas", "It marks only the completion of a single working session with no larger significance", "The project's own translation work continues well beyond this discourse", "This discourse has no particular significance for this project's own own work"],
+         "correct": 0,
+         "expl": "This project's own stated milestone, directly tied to the source text's own confirmed final words."},
+    ],
+    marginalia=[
+        ("The missing piece, delivered", [
+            "ghost to god, rare — ghost to ghost, common —",
+            "this vagga's own final, fitting image"
+        ]),
+        ("Four closings, confirmed one by one", [
+            "vagga, saṃyutta, book, collection —",
+            "each stated explicitly in the colophon itself"
+        ]),
+        ("\"The Saṃyutta Nikāya is completed\"", [
+            "the collection's own final words —",
+            "read directly, not assumed"
+        ]),
+        ("This project's own translation, also complete", [
+            "every book, every saṃyutta, now published —",
+            "Book V's own final stretch finished in one session"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.131/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.129-130.html\">SN 56.129&ndash;130 &middot; "
+        "Dying as Ghosts and Reborn as Gods</a> &mdash; the previous "
+        "page, whose own withheld third comparison this discourse "
+        "completes.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the entire Saṃyutta Nikāya, all five books, is now complete "
+        "on this site.",
+    ],
+)
