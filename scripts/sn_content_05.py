@@ -75127,3 +75127,1369 @@ page(
         "Forest</a> &mdash; this vagga's own opening discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 56.41 — Lokacintāsutta ("Speculation About the World")
+# Confirmed by direct reading: a genuine narrative frame -- a man
+# sees a mythic army vanish into a lotus stalk (in fact a real event,
+# titans fleeing the gods after a lost battle), goes to declare
+# himself mad, and the Buddha turns the story into a warning against
+# metaphysical speculation.
+# --------------------------------------------------------------------------- #
+page(
+    56, 41, "Lokacintā", "Speculation About the World",
+    vagga="Papātavagga",
+    meta_title="SN 56.41 — Speculation About the World | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Lokacintāsutta &mdash; a man who saw a mythic army "
+        "vanish into a lotus stalk, and the Buddha's own warning "
+        "against speculating about the world. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove"),
+        ("Speaker", "The Buddha, narrating a story, then addressing "
+                     "the mendicants directly"),
+        ("Form", "A full narrative with dialogue, an explanatory "
+                 "twist, then the standard instruction against "
+                 "speculation"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; opens Vagga 5 with this saṃyutta's "
+                         "own most fully developed narrative frame "
+                         "yet, naming the same ten classical "
+                         "speculative views already met at SN 56.8"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse tells a "
+        "complete story: a man sits by a pond deliberately "
+        "speculating about the world, sees what looks like an army "
+        "vanish into a lotus stalk, and publicly declares himself "
+        "mad for seeing something impossible &mdash; until the "
+        "Buddha reveals what he actually saw was real: titans "
+        "fleeing into their own citadel through the stalk after "
+        "losing a battle with the gods. The Buddha then draws the "
+        "lesson: don't speculate about the world, naming the same "
+        "ten classical points already met at SN 56.8."
+    ),
+    guide=[
+        ("A story with a real explanation", [
+            "This project's own reading: the discourse's own "
+            "structure withholds and then supplies an explanation "
+            "&mdash; what seemed impossible (an army vanishing into a "
+            "flower stem) turns out to have a genuine, if mythic, "
+            "cause &mdash; making the point that even startling "
+            "experiences may have real explanations, rather than "
+            "justifying open-ended speculation about ultimate "
+            "questions.",
+        ]),
+        ("The same ten points as SN 56.8, in a new setting", [
+            "This project's own direct comparison: the list of "
+            "views instructed against here &mdash; the cosmos "
+            "eternal or not, finite or infinite, the tetralemma on a "
+            "realized one after death &mdash; is identical to SN "
+            "56.8's own list, here framed by this discourse's own "
+            "narrative rather than presented as a bare prohibition.",
+        ]),
+    ],
+    terms=[
+        ("lokacintaṁ cintessāmi", "&ldquo;I'll speculate about the "
+             "world&rdquo; &mdash; the man's own stated purpose, "
+             "giving this discourse its own title"),
+        ("caturaṅginiṁ senaṁ bhisamuḷālaṁ pavisantaṁ", "&ldquo;an "
+             "army of four divisions enter a lotus stalk&rdquo; "
+             "&mdash; the impossible-seeming sight"),
+        ("taṁ kho pana...so puriso bhūtaṁyeva addasa, no abhūtaṁ",
+             "&ldquo;what that person saw was in fact real, not "
+             "unreal&rdquo; &mdash; the Buddha's own reveal"),
+        ("devāsurasaṅgāmo", "&ldquo;a battle...between the gods and "
+             "the titans&rdquo; &mdash; the mythic event explaining "
+             "the vision"),
+        ("mā lokacintaṁ cintetha", "&ldquo;don't speculate about the "
+             "world&rdquo; &mdash; the Buddha's own instruction, "
+             "introducing the same ten classical points already met "
+             "at SN 56.8"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.41:1.1-1.7"),
+        ("p", "&sect;2", "sn56.41:2.1-2.11"),
+        ("p", "&sect;3", "sn56.41:3.1-3.4"),
+        ("p", "&sect;4", "sn56.41:4.1-4.4"),
+        ("p", "&sect;5", "sn56.41:5.1-5.3"),
+        ("p", "&sect;6", "sn56.41:6.1"),
+    ],
+    quiz=[
+        {"q": "What did the man in this story actually see, according to the Buddha's own explanation?",
+         "opts": ["Titans fleeing into their own citadel through a lotus stalk after losing a battle with the gods — a real event, not a hallucination", "Nothing at all; the entire episode was invented for effect", "An ordinary army of soldiers passing by, misperceived", "A dream the man had while asleep by the pond"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha's own explicit reveal that the vision was real, not unreal."},
+        {"q": "What list of views does this discourse instruct against, per this project's own direct comparison?",
+         "opts": ["The identical ten classical speculative views already met at SN 56.8", "A new, previously unmentioned list unique to this discourse", "Only questions about rebirth, with no other topics named", "The four noble truths themselves, framed as speculation"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same tetralemma-inclusive list, here in a fuller narrative frame."},
+        {"q": "What point does this project's own reading draw from the story's own structure?",
+         "opts": ["Even startling experiences may have real explanations, rather than justifying open-ended metaphysical speculation", "All visions and experiences are illusory and should be dismissed", "Speculation about the world is actively encouraged by this discourse", "The man's own madness claim was accurate and endorsed by the Buddha"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own withhold-then-reveal structure."},
+    ],
+    marginalia=[
+        ("An army in a flower stem", [
+            "impossible-seeming, until explained —",
+            "titans fleeing gods, a real mythic event"
+        ]),
+        ("\"Real, not unreal\"", [
+            "the Buddha's own reveal —",
+            "startling, but not therefore false"
+        ]),
+        ("The same ten points, once more", [
+            "already met at SN 56.8 —",
+            "now framed by a fuller story"
+        ]),
+        ("Opening Vagga 5", [
+            "this project's own most developed narrative yet —",
+            "in this saṃyutta's own final book"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.41/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.40.html\">SN 56.40 &middot; Looking For a "
+        "Debate</a> &mdash; the closing discourse of the previous "
+        "vagga.",
+        "<a href=\"sn-56.8.html\">SN 56.8 &middot; Thought</a> "
+        "&mdash; this project's own earlier occurrence of the "
+        "identical ten classical speculative views.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.42 — Papātasutta ("A Cliff")
+# Confirmed by direct reading: gives this vagga its own name -- a
+# mendicant, awed by an actual mountain cliff, asks if any cliff is
+# bigger and more terrifying, and the Buddha names the cliff of
+# rebirth, old age, and death itself.
+# --------------------------------------------------------------------------- #
+page(
+    56, 42, "Papāta", "A Cliff",
+    vagga="Papātavagga",
+    meta_title="SN 56.42 — A Cliff | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Papātasutta, giving this vagga its own name &mdash; a "
+        "literal cliff prompts the question of a bigger, more "
+        "terrifying one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, Inspiration Peak (Paṭibhānakūṭa), "
+                     "near Vulture's Peak Mountain"),
+        ("Speaker", "A mendicant asks; the Buddha answers"),
+        ("Form", "A physical setting prompts a question, answered "
+                 "with a doctrinal claim about a different kind of "
+                 "cliff"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "second discourse of Vagga 5, giving the "
+                         "entire vagga its own name"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse gives Vagga 5 "
+        "its own name: a mendicant, standing at an actual mountain "
+        "cliff near Rājagaha and struck by its own size, asks the "
+        "Buddha whether any cliff is bigger and more terrifying "
+        "&mdash; the Buddha answers that ascetics and brahmins who "
+        "take pleasure in the choices leading to rebirth, old age, "
+        "and death fall down that very cliff, a fall from which "
+        "those who understand the four truths are instead freed."
+    ),
+    guide=[
+        ("A physical setting becomes a doctrinal image", [
+            "This project's own reading: the discourse's own "
+            "structure grounds an abstract teaching in an immediate, "
+            "shared physical experience &mdash; the mendicant's own "
+            "awe at a real cliff (at a place literally named "
+            "&ldquo;Inspiration Peak&rdquo;) becomes the occasion for "
+            "naming a metaphorical cliff, one this discourse claims "
+            "is genuinely bigger and more terrifying.",
+        ]),
+        ("A vagga named for its own second discourse", [
+            "This project's own observation: unlike Vagga 4 "
+            "(Sīsapāvanavagga), named for its own opening discourse "
+            "(the pre-existing SN 56.31), this vagga takes its own "
+            "name from SN 56.42 specifically, its second discourse "
+            "&mdash; a naming convention this project notes without "
+            "further explanation, since the root text itself gives "
+            "none.",
+        ]),
+    ],
+    terms=[
+        ("paṭibhānakūṭo", "&ldquo;Inspiration Peak&rdquo; &mdash; "
+             "the specific mountain location where the discourse "
+             "takes place"),
+        ("mahā vatāyaṁ papāto subhayānako", "&ldquo;that big cliff "
+             "is really huge and scary&rdquo; &mdash; the "
+             "mendicant's own opening observation, prompting the "
+             "discourse's own question"),
+        ("jātisaṁvattanikesu saṅkhāresu abhiramanti", "&ldquo;take "
+             "pleasure in choices that lead to rebirth&rdquo; "
+             "&mdash; the cause this discourse names for falling "
+             "down the metaphorical cliff"),
+        ("jātipapātampi papatanti, jarāpapātampi papatanti, "
+         "maraṇapapātampi papatanti", "&ldquo;they fall down the "
+             "cliff of rebirth...old age...and death&rdquo; &mdash; "
+             "this discourse's own central metaphorical image"),
+        ("na parimuccanti dukkhasmā...parimuccanti dukkhasmā",
+             "&ldquo;they're not freed from suffering...they're "
+             "freed from suffering&rdquo; &mdash; the discourse's own "
+             "paired verdicts on those who fall versus those who "
+             "don't"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision across the repeated cliff-formula. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.42:1.1-1.10"),
+        ("p", "&sect;2", "sn56.42:2.1-2.7"),
+        ("p", "&sect;3", "sn56.42:3.1-3.6"),
+        ("p", "&sect;4", "sn56.42:4.1"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha name as bigger and more terrifying than the physical cliff at Inspiration Peak?",
+         "opts": ["The metaphorical cliff of rebirth, old age, and death, into which those lacking understanding of the four truths fall", "A larger physical cliff elsewhere in the region", "There is no such thing; the Buddha denies any bigger cliff exists", "A cliff located in a specific hell realm"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha's own explicit answer, doctrinal rather than physical."},
+        {"q": "What does this discourse give to Vagga 5, per this project's own observation?",
+         "opts": ["This vagga's own name (Papātavagga, \"A Cliff\"), despite being the vagga's own second discourse rather than its first", "Nothing distinctive; it is one of many similarly-themed discourses", "The vagga's own closing discourse and colophon", "A direct contradiction of the vagga's own opening discourse"],
+         "correct": 0,
+         "expl": "This project's own observed naming convention, differing from Vagga 4's own precedent."},
+        {"q": "What grounds this discourse's own doctrinal claim, per this project's own reading?",
+         "opts": ["An immediate, shared physical experience — the mendicant's own awe at a real cliff — becomes the occasion for the teaching", "A purely abstract argument with no connection to physical experience", "A dream reported by the mendicant", "A direct quotation from an earlier discourse in this saṃyutta"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own grounding in shared, immediate experience."},
+    ],
+    marginalia=[
+        ("A real cliff, a real question", [
+            "\"is there a bigger, scarier one?\" —",
+            "asked at a place named Inspiration Peak"
+        ]),
+        ("A cliff no eye can see", [
+            "rebirth, old age, death —",
+            "the fall this discourse claims is truly worse"
+        ]),
+        ("Naming the vagga", [
+            "not the opening discourse, but the second —",
+            "this project's own noted, unexplained pattern"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "an even greater scorching follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.42/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.41.html\">SN 56.41 &middot; Speculation "
+        "About the World</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.43 — Mahāpariḷāhasutta ("The Great Scorching")
+# Confirmed by direct reading: a named hell where every sense
+# experience is uniformly unpleasant, used as the same "is there
+# something worse?" pattern already met at SN 56.42, this time with
+# scorching rather than falling as the central image.
+# --------------------------------------------------------------------------- #
+page(
+    56, 43, "Mahāpariḷāha", "The Great Scorching",
+    vagga="Papātavagga",
+    meta_title="SN 56.43 — The Great Scorching | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahāpariḷāhasutta &mdash; a hell where every sense "
+        "experience is uniformly unpleasant, and a scorching worse "
+        "still. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.42's own setting"),
+        ("Speaker", "The Buddha describes a hell; a mendicant asks; "
+                     "the Buddha answers"),
+        ("Form", "A description of a named hell, then the same "
+                 "\"is there something worse?\" pattern already met at "
+                 "SN 56.42"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "third of ten discourses, its own structural "
+                         "echo of SN 56.42 confirmed by direct "
+                         "comparison"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse describes a "
+        "hell called &ldquo;The Great Scorching,&rdquo; where every "
+        "sight, sound, smell, taste, touch, and thought is uniformly "
+        "unlikable, undesirable, and unpleasant &mdash; then repeats "
+        "SN 56.42's own exact question-and-answer pattern, naming "
+        "the scorching of rebirth, old age, and death as worse still "
+        "than even this named hell."
+    ),
+    guide=[
+        ("The same pattern as SN 56.42, a different image", [
+            "This project's own direct comparison: this discourse "
+            "shares its own exact structure with SN 56.42 &mdash; a "
+            "vivid image is presented, a mendicant asks if anything "
+            "is worse, and the Buddha names the same underlying "
+            "doctrinal reality (the same choices leading to rebirth, "
+            "old age, and death) &mdash; only the central image "
+            "changes, from falling to scorching.",
+        ]),
+        ("Uniform unpleasantness as a defining feature", [
+            "This project's own reading of the hell's own "
+            "description: what makes &ldquo;The Great "
+            "Scorching&rdquo; distinctive is not intensity alone but "
+            "totality &mdash; every one of the six senses without "
+            "exception registers only what is unlikable, with no "
+            "variation or relief across any sense door.",
+        ]),
+    ],
+    terms=[
+        ("mahāpariḷāho nāma nirayo", "&ldquo;a hell called 'The "
+             "Great Scorching'&rdquo; &mdash; the named hell giving "
+             "this discourse its own title"),
+        ("aniṭṭharūpaññeva...akantarūpaññeva...amanāparūpaññeva",
+             "&ldquo;unlikable, not likable; undesirable, not "
+             "desirable; unpleasant, not pleasant&rdquo; &mdash; the "
+             "threefold description applied uniformly across all six "
+             "senses"),
+        ("mahā vata so pariḷāho, sumahā vata so pariḷāho", "&ldquo;"
+             "that scorching really is mighty, so very mighty&rdquo; "
+             "&mdash; the mendicant's own reaction, prompting the "
+             "same question pattern as SN 56.42"),
+        ("jātipariḷāhenapi pariḍayhanti, jarāpariḷāhenapi "
+         "pariḍayhanti, maraṇapariḷāhenapi pariḍayhanti", "&ldquo;"
+             "they burn with the scorching of rebirth...old age... "
+             "and death&rdquo; &mdash; this discourse's own version of "
+             "SN 56.42's own falling image"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision across the sense-door list and the repeated "
+        "cliff-formula's own scorching variant. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.43:1.1-1.5"),
+        ("p", "&sect;2", "sn56.43:2.1-2.4"),
+        ("p", "&sect;3", "sn56.43:3.1-3.7"),
+        ("p", "&sect;4", "sn56.43:4.1-4.6"),
+        ("p", "&sect;5", "sn56.43:5.1"),
+    ],
+    quiz=[
+        {"q": "What structural pattern does this discourse share with SN 56.42, per this project's own direct comparison?",
+         "opts": ["A vivid image, a mendicant asking if anything is worse, and the Buddha naming the same underlying doctrinal reality — only the central image changes", "No structural relationship at all", "This discourse directly quotes SN 56.42 word for word with no variation", "A contradiction of SN 56.42's own claim"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a shared pattern, different image (scorching rather than falling)."},
+        {"q": "What makes \"The Great Scorching\" distinctive, per this project's own reading?",
+         "opts": ["Totality — every one of the six senses without exception registers only unpleasant experience, with no variation", "Its extremely short duration compared to other hells", "It affects only the sense of touch, unlike other hells", "It is described as pleasant to some beings and unpleasant to others"],
+         "correct": 0,
+         "expl": "This project's own reading of the hell's own uniform, exceptionless unpleasantness."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The third", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Tatiyaṁ\" (\"third\")."},
+    ],
+    marginalia=[
+        ("Every sense, uniformly unpleasant", [
+            "sight, sound, smell, taste, touch, thought —",
+            "no exception, no relief"
+        ]),
+        ("The same question, asked again", [
+            "\"is anything worse than this?\" —",
+            "echoing SN 56.42's own exact pattern"
+        ]),
+        ("Scorching instead of falling", [
+            "the same cliff of rebirth, old age, death —",
+            "a different sensation, the same underlying reality"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "an unbuilt bungalow's own upper story follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.43/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.42.html\">SN 56.42 &middot; A Cliff</a> "
+        "&mdash; the previous discourse, this discourse's own "
+        "structural twin.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.44 — Kūṭāgārasutta ("A Bungalow")
+# Confirmed by direct reading: the identical impossibility/possibility
+# structure already met at SN 56.32 (acacia leaves), here illustrated
+# by construction order -- a two-story building's own upper floor
+# cannot be raised before its lower floor exists.
+# --------------------------------------------------------------------------- #
+page(
+    56, 44, "Kūṭāgāra", "A Bungalow",
+    vagga="Papātavagga",
+    meta_title="SN 56.44 — A Bungalow | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kūṭāgārasutta &mdash; a bungalow's own upper story "
+        "cannot be raised before the lower story is built, just as "
+        "ending suffering requires comprehension first. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.43's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Two paired similes, impossibility then "
+                 "possibility, each illustrated by a building "
+                 "example"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fourth "
+                         "of ten discourses, restating SN 56.32's own "
+                         "identical structure with a construction "
+                         "image in place of a basket-weaving one"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse restates the "
+        "identical impossibility/possibility structure already met "
+        "at SN 56.32, replacing that discourse's own leaf-basket "
+        "image with a construction one: just as a bungalow's own "
+        "upper story cannot be hoisted up before its lower story is "
+        "built, ending suffering is impossible without first truly "
+        "comprehending the four truths, and possible once that "
+        "comprehension is achieved."
+    ),
+    guide=[
+        ("A recurring structure, a new image", [
+            "This project's own direct comparison against SN 56.32: "
+            "both discourses share the identical two-part claim "
+            "(impossible without comprehension, possible after it) "
+            "and the identical repeated verdicts (&ldquo;netaṁ "
+            "ṭhānaṁ vijjati,&rdquo; &ldquo;ṭhānametaṁ vijjati&rdquo;), "
+            "differing only in which everyday image illustrates the "
+            "claim &mdash; construction order here, leaf-basket "
+            "material there.",
+        ]),
+    ],
+    terms=[
+        ("kūṭāgārassa heṭṭhimaṁ gharaṁ akaritvā uparimaṁ gharaṁ "
+         "āropessāmi", "&ldquo;before the lower story of a bungalow "
+             "is built, I will hoist up the upper story&rdquo; "
+             "&mdash; the impossible claim illustrating the "
+             "impossible comprehension-claim"),
+        ("netaṁ ṭhānaṁ vijjati", "&ldquo;that is not possible&rdquo; "
+             "&mdash; this discourse's own repeated verdict, "
+             "identical to SN 56.32's own"),
+        ("heṭṭhimaṁ gharaṁ karitvā uparimaṁ gharaṁ āropessāmi",
+             "&ldquo;after the lower story of a bungalow is built, I "
+             "will hoist up the upper story&rdquo; &mdash; the "
+             "possible claim, matching the possible comprehension-"
+             "claim"),
+        ("ṭhānametaṁ vijjati", "&ldquo;that is possible&rdquo; "
+             "&mdash; this discourse's own repeated verdict, "
+             "identical to SN 56.32's own"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.44:1.1-1.3"),
+        ("p", "&sect;2", "sn56.44:2.1-2.6"),
+        ("p", "&sect;3", "sn56.44:3.1-3.3"),
+        ("p", "&sect;4", "sn56.44:4.1-4.6"),
+        ("p", "&sect;5", "sn56.44:5.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 56.32, per this project's own direct comparison?",
+         "opts": ["The identical two-part impossibility/possibility structure, illustrated here by construction order instead of leaf-basket material", "An entirely unrelated claim with no shared structure", "A direct contradiction of SN 56.32's own claim", "A significantly expanded version with additional new claims"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same claim and the same repeated verdicts, a different everyday image."},
+        {"q": "What construction fact illustrates the impossibility claim?",
+         "opts": ["A bungalow's own upper story cannot be hoisted up before its lower story is built", "A roof cannot be replaced without removing the entire building", "Bricks cannot be fired without a kiln", "A foundation requires no particular building material"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an ordinary, checkable fact about construction order."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fourth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Catutthaṁ\" (\"fourth\")."},
+    ],
+    marginalia=[
+        ("The same claim, a new image", [
+            "SN 56.32 used leaf-baskets —",
+            "this discourse uses a bungalow's own construction order"
+        ]),
+        ("Order matters", [
+            "upper story before lower — impossible —",
+            "comprehension before ending suffering — the same logic"
+        ]),
+        ("Identical verdicts, word for word", [
+            "\"netaṁ ṭhānaṁ vijjati,\" \"ṭhānametaṁ vijjati\" —",
+            "the same phrasing as SN 56.32's own"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "splitting a single hair seven ways follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.43.html\">SN 56.43 &middot; The Great "
+        "Scorching</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.32.html\">SN 56.32 &middot; Acacia "
+        "Leaves</a> &mdash; this project's own earlier occurrence of "
+        "the identical impossibility/possibility structure.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.45 — Vālasutta ("Splitting Hairs")
+# Confirmed by direct reading: a genuine narrative -- Ānanda,
+# impressed by young archers shooting through a keyhole, reports it
+# to the Buddha, who names something harder still: splitting a
+# horsehair seven ways and threading tip through tip.
+# --------------------------------------------------------------------------- #
+page(
+    56, 45, "Vāla", "Splitting Hairs",
+    vagga="Papātavagga",
+    meta_title="SN 56.45 — Splitting Hairs | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vālasutta &mdash; Ānanda marvels at skilled archery, and "
+        "the Buddha names something harder still: truly penetrating "
+        "the four truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                     "peaked roof"),
+        ("Speaker", "Venerable Ānanda reports what he saw; the "
+                     "Buddha answers with a comparison"),
+        ("Form", "A genuine narrative frame, a comparative question, "
+                 "then the Buddha's own answer"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the fifth of ten discourses, this "
+                         "vagga's own second genuine narrative, "
+                         "naming Ānanda specifically"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens with "
+        "Venerable Ānanda watching Licchavi youths shoot arrows "
+        "through a small keyhole from a distance, shaft after shaft "
+        "without missing, and reporting his own admiration to the "
+        "Buddha. The Buddha asks which is harder: that archery, or "
+        "splitting a horsehair into seven strands and threading one "
+        "tip through another &mdash; then names truly penetrating "
+        "the four truths as harder still than even that."
+    ),
+    guide=[
+        ("A named disciple, a specific skill witnessed directly", [
+            "This project's own reading: unlike this vagga's own "
+            "more abstract companions, this discourse names Ānanda "
+            "specifically and describes an actual skill he directly "
+            "observed &mdash; archers hitting a small keyhole "
+            "repeatedly from a distance &mdash; grounding the "
+            "discourse's own comparison in a concrete, witnessed feat "
+            "rather than a hypothetical.",
+        ]),
+        ("A comparison escalated twice, not once", [
+            "This project's own reading of the discourse's own "
+            "structure: the Buddha does not simply declare "
+            "penetrating the truths hardest of all directly; he "
+            "first has Ānanda judge between two difficult feats "
+            "(archery versus hair-splitting), then names something "
+            "harder than whichever wins that comparison.",
+        ]),
+    ],
+    terms=[
+        ("sikkhitā vatime licchavikumārakā, susikkhitā vatime "
+         "licchavikumārakā", "&ldquo;these Licchavi youths really "
+             "are trained, so well trained&rdquo; &mdash; Ānanda's "
+             "own admiring reaction, reported to the Buddha"),
+        ("dūratova sukhumena tāḷacchiggaḷena asanaṁ atipātente "
+         "poṅkhānupoṅkhaṁ avirādhitaṁ", "&ldquo;shooting arrows from "
+             "a distance through a small keyhole, shaft after shaft "
+             "without missing&rdquo; &mdash; the skill Ānanda "
+             "witnessed directly"),
+        ("sattadhā bhinnassa vālassa koṭiyā koṭiṁ paṭivijjheyya",
+             "&ldquo;take a horsehair split into seven strands and "
+             "penetrate one tip with another tip&rdquo; &mdash; the "
+             "harder feat this discourse's own title names"),
+        ("duppaṭivijjhataraṁ paṭivijjhanti", "&ldquo;penetrate "
+             "something tougher than that&rdquo; &mdash; the "
+             "Buddha's own verdict, naming truly penetrating the "
+             "four truths as harder than even the hair-splitting"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself leaves Ānanda's own "
+        "report to the Buddha untranslated as a repetition of what "
+        "was already given in full moments earlier. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.45:1.1-1.6"),
+        ("p", "&sect;2", "sn56.45:2.1"),
+        ("p", "&sect;3", "sn56.45:3.1-3.5"),
+        ("p", "&sect;4", "sn56.45:4.1"),
+    ],
+    quiz=[
+        {"q": "What skill does Ānanda directly witness and report to the Buddha in this discourse?",
+         "opts": ["Licchavi youths shooting arrows through a small keyhole from a distance, repeatedly without missing", "A demonstration of extraordinary meditation by a fellow mendicant", "A magic trick performed at a public festival", "A feat of memory reciting scriptures perfectly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a specific, witnessed skill, not a hypothetical."},
+        {"q": "What two-step comparison does the Buddha make, per this project's own reading of the discourse's own structure?",
+         "opts": ["First comparing archery to hair-splitting, then naming penetrating the four truths as harder than whichever of those two wins", "Directly declaring the four truths hardest with no intermediate comparison", "Comparing only two things total, with no escalation", "Denying that any comparison is meaningful"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own two-stage escalation."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fifth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Pañcamaṁ\" (\"fifth\")."},
+    ],
+    marginalia=[
+        ("A skill witnessed directly", [
+            "arrows through a keyhole, shaft after shaft —",
+            "Ānanda's own admiration, reported in person"
+        ]),
+        ("Harder still: a single hair, split seven ways", [
+            "tip threaded through tip —",
+            "an escalation beyond even the archers' own feat"
+        ]),
+        ("Two comparisons, not one", [
+            "archery against hair-splitting first —",
+            "then the four truths named harder than either"
+        ]),
+        ("Fifth of ten", [
+            "the vagga's own midpoint reached —",
+            "a darkness beyond even interstellar space follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.45/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.44.html\">SN 56.44 &middot; A "
+        "Bungalow</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.46 — Andhakārasutta ("Darkness")
+# Confirmed by direct reading: the same "is there something worse?"
+# pattern as SN 56.42-43, this time starting from the darkness of
+# interstellar space, so absolute that even sun and moon make no
+# impression on it.
+# --------------------------------------------------------------------------- #
+page(
+    56, 46, "Andhakāra", "Darkness",
+    vagga="Papātavagga",
+    meta_title="SN 56.46 — Darkness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Andhakārasutta &mdash; a darkness so absolute even sun "
+        "and moon make no impression, and a darkness worse still. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.45's own setting"),
+        ("Speaker", "The Buddha describes a cosmic darkness; a "
+                     "mendicant asks; the Buddha answers"),
+        ("Form", "A cosmological description, then the same \"is "
+                 "there something worse?\" pattern already met at SN "
+                 "56.42-43"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "sixth of ten discourses, this vagga's own "
+                         "third instance of its own recurring "
+                         "\"something worse\" pattern"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse describes the "
+        "boundless gloom of interstellar space, so utterly dark that "
+        "even the sun and moon's own mighty light makes no "
+        "impression there &mdash; then repeats the same pattern "
+        "already met at SN 56.42 and SN 56.43, naming the darkness "
+        "of rebirth, old age, and death, into which those lacking "
+        "understanding of the four truths fall, as worse still."
+    ),
+    guide=[
+        ("This vagga's own third repetition of a recurring pattern", [
+            "This project's own direct comparison across SN 56.42, "
+            "56.43, and this discourse: all three share the "
+            "identical structure &mdash; an image of overwhelming "
+            "scale or intensity, a mendicant's own question about "
+            "whether anything could be worse, and the same "
+            "underlying answer about the choices leading to rebirth, "
+            "old age, and death &mdash; confirming this project's own "
+            "recognition of a deliberate compositional pattern within "
+            "this vagga.",
+        ]),
+    ],
+    terms=[
+        ("lokantarikā aghā", "&ldquo;the boundless gloom of "
+             "interstellar space&rdquo; &mdash; literally the "
+             "\"gap-spaces\" between world-systems, this discourse's "
+             "own central cosmological image"),
+        ("candimasūriyānaṁ...evaṁmahiddhikānaṁ evaṁ mahānubhāvānaṁ "
+         "ābhāya nānubhonti", "&ldquo;even the luminosity of the "
+             "moon and the sun, so mighty and powerful, makes no "
+             "impression&rdquo; &mdash; this discourse's own measure "
+             "of the darkness's own absoluteness"),
+        ("mahā vata so andhakāro, sumahā vata so andhakāro", "&ldquo;"
+             "that darkness really is mighty, so very mighty&rdquo; "
+             "&mdash; the mendicant's own reaction, identical in "
+             "form to SN 56.42-43's own reactions"),
+        ("jātandhakārampi papatanti, jarandhakārampi papatanti, "
+         "maraṇandhakārampi papatanti", "&ldquo;they fall into the "
+             "darkness of rebirth...old age...and death&rdquo; "
+             "&mdash; this discourse's own version of the recurring "
+             "falling image"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision across the repeated formula's own darkness variant. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.46:1.1"),
+        ("p", "&sect;2", "sn56.46:2.1-2.4"),
+        ("p", "&sect;3", "sn56.46:3.1-3.7"),
+        ("p", "&sect;4", "sn56.46:4.1-4.6"),
+        ("p", "&sect;5", "sn56.46:5.1"),
+    ],
+    quiz=[
+        {"q": "What confirms this project's own recognition of a deliberate compositional pattern in this vagga?",
+         "opts": ["SN 56.42, 56.43, and this discourse all share the identical structure — overwhelming image, \"is anything worse?\" question, and the same underlying answer", "The three discourses share nothing in common beyond being in the same saṃyutta", "This is the only discourse in this vagga using the \"something worse\" pattern", "The pattern appears only once, in this discourse alone"],
+         "correct": 0,
+         "expl": "This project's own direct comparison across three discourses confirming a repeated compositional choice."},
+        {"q": "What measure of absoluteness does this discourse give for the darkness of interstellar space?",
+         "opts": ["Even the mighty light of the sun and moon makes no impression on it at all", "It is merely somewhat darker than an ordinary moonless night", "It varies in intensity depending on the time of year", "The discourse gives no measure of its own intensity"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a measure of totality, not merely relative darkness."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The sixth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Chaṭṭhaṁ\" (\"sixth\")."},
+    ],
+    marginalia=[
+        ("Darkness even the sun cannot touch", [
+            "the gaps between world-systems —",
+            "so absolute, sun and moon make no impression"
+        ]),
+        ("A pattern, confirmed a third time", [
+            "cliff, scorching, now darkness —",
+            "the same question, the same underlying answer"
+        ]),
+        ("Falling into darkness", [
+            "rebirth, old age, death —",
+            "this vagga's own recurring image, once more"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "a blind turtle and a yoke follow next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.46/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.45.html\">SN 56.45 &middot; Splitting "
+        "Hairs</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.42.html\">SN 56.42 &middot; A Cliff</a> "
+        "&mdash; this vagga's own first use of the \"something "
+        "worse\" pattern this discourse repeats.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.47 — Paṭhamachiggaḷayugasutta ("A Yoke With a Hole (1st)")
+# Confirmed by direct reading: the famous blind-turtle simile, in its
+# own first, ocean-scale form -- a one-eyed turtle surfacing once a
+# century, and a yoke with a single hole, thrown into the sea.
+# --------------------------------------------------------------------------- #
+page(
+    56, 47, "Paṭhamachiggaḷayuga", "A Yoke With a Hole (1st)",
+    vagga="Papātavagga",
+    meta_title="SN 56.47 — A Yoke With a Hole (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the famous blind-turtle simile, "
+        "rarer than a fool's own rebirth as a human being once "
+        "fallen to the underworld. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.46's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single extended simile, its own application, "
+                 "then the standard closing instruction"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the seventh of ten discourses, one "
+                         "of this project's own most widely "
+                         "recognized single images in the entire "
+                         "canon"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse gives the "
+        "famous blind-turtle simile in its own first form: a yoke "
+        "with a single hole thrown into the ocean, and a one-eyed "
+        "turtle surfacing once every hundred years &mdash; the "
+        "Buddha claims that turtle would sooner poke its neck "
+        "through that yoke's own hole than a fool, once fallen to "
+        "the underworld, would be reborn as a human being, because "
+        "there is no principled conduct there at all, only preying "
+        "on the weak."
+    ),
+    guide=[
+        ("A recognized image, this project's own first encounter", [
+            "This project's own reading: this simile is among the "
+            "canon's own most widely recognized single images, "
+            "traditionally cited to illustrate the rarity of human "
+            "rebirth and, by extension, the rarity of any opportunity "
+            "to encounter the Dhamma at all &mdash; here presented in "
+            "its own more modest, ocean-scale form, with SN 56.48 "
+            "escalating it further.",
+        ]),
+        ("The stated reason: no possibility of ethical conduct", [
+            "This project's own reading: the discourse's own "
+            "explanation for the underworld's own severity is not "
+            "merely suffering's own intensity, but the total absence "
+            "of any principled or moral conduct there &mdash; beings "
+            "there simply prey on each other, preying especially on "
+            "the weak, with no possibility of the good and skillful "
+            "action that might otherwise lead upward.",
+        ]),
+    ],
+    terms=[
+        ("mahāsamudde ekacchiggaḷaṁ yugaṁ pakkhipeyya", "&ldquo;throw "
+             "a yoke with a single hole into the ocean&rdquo; "
+             "&mdash; this discourse's own central image"),
+        ("kāṇo kacchapo...vassasatassa vassasatassa accayena sakiṁ "
+         "sakiṁ ummujjeyya", "&ldquo;a one-eyed turtle who popped up "
+             "once every hundred years&rdquo; &mdash; the simile's "
+             "own second element"),
+        ("na tveva...sakiṁ vinipātagatena bālena manussattaṁ vadāmi",
+             "&ldquo;[sooner than] a fool fallen to the underworld is "
+             "reborn as a human being, I say&rdquo; &mdash; this "
+             "discourse's own comparative claim"),
+        ("na hettha atthi dhammacariyā, samacariyā, kusalakiriyā, "
+         "puññakiriyā", "&ldquo;in that place there's no principled "
+             "or moral conduct, and no doing what is good and "
+             "skillful&rdquo; &mdash; the discourse's own stated "
+             "reason for the underworld's own severity"),
+        ("aññamaññakhādikā...dubbalakhādikā", "&ldquo;they just prey "
+             "on each other, preying on the weak&rdquo; &mdash; the "
+             "underworld's own described condition"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.47:1.1-1.4"),
+        ("p", "&sect;2", "sn56.47:2.1"),
+        ("p", "&sect;3", "sn56.47:3.1-3.7"),
+        ("p", "&sect;4", "sn56.47:4.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own blind-turtle simile compare to a fool's own rebirth as a human being after falling to the underworld?",
+         "opts": ["A one-eyed turtle, surfacing once a century, poking its neck through a single-holed yoke floating in the ocean", "A common, everyday occurrence with no particular rarity implied", "A guaranteed outcome after a fixed period of time", "An impossibility with literally zero chance of occurring"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an image of extreme, though not absolute, rarity."},
+        {"q": "What does this discourse name as the reason the underworld is so severe?",
+         "opts": ["No principled or moral conduct exists there at all; beings simply prey on each other, especially the weak", "Extreme physical temperatures alone", "A fixed, unchangeable sentence with no possibility of any activity", "The absence of any beings at all in that realm"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the discourse's own explicitly stated reason, an ethical rather than merely physical description."},
+        {"q": "How does this project characterize this simile's own place in the wider canon?",
+         "opts": ["Among the most widely recognized single images, traditionally illustrating the rarity of human rebirth and Dhamma encounter", "A rare, little-known image found only in this single discourse", "An image original to this project's own translation, without wider precedent", "A simile primarily associated with a different, unrelated topic"],
+         "correct": 0,
+         "expl": "This project's own contextual note on the simile's own broader recognition."},
+    ],
+    marginalia=[
+        ("A famous image, met directly", [
+            "one-eyed turtle, a hundred years between surfacings —",
+            "poking its neck through a single floating hole"
+        ]),
+        ("Rarer still", [
+            "a fool's own return to human birth —",
+            "even less likely than the turtle's own feat"
+        ]),
+        ("Why the underworld is so severe", [
+            "no principled conduct there at all —",
+            "only preying on each other, on the weak"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "the same image, escalated further, follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.47/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.46.html\">SN 56.46 &middot; Darkness</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.48 — Dutiyachiggaḷayugasutta ("A Yoke With a Hole (2nd)")
+# Confirmed by direct reading: escalates SN 56.47's own already-
+# extreme simile -- the entire earth covered with water, the yoke
+# blown randomly by winds from all directions -- then reverses the
+# comparison entirely, from underworld rarity to the positive
+# anomaly of a Buddha's own arising.
+# --------------------------------------------------------------------------- #
+page(
+    56, 48, "Dutiyachiggaḷayuga", "A Yoke With a Hole (2nd)",
+    vagga="Papātavagga",
+    meta_title="SN 56.48 — A Yoke With a Hole (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the blind-turtle simile escalated "
+        "further, then reversed: the anomaly of a Buddha's own "
+        "arising, already granted. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.47's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The same simile as SN 56.47, escalated in scale, "
+                 "then applied to a positive rather than a negative "
+                 "claim"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the eighth of ten discourses, "
+                         "reversing SN 56.47's own comparison from "
+                         "underworld rarity to a Buddha's own already-"
+                         "granted arising"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse escalates SN "
+        "56.47's own already-extreme simile: rather than a still "
+        "ocean, the entire earth is imagined covered with water, and "
+        "the single-holed yoke is now blown randomly east, west, "
+        "north, and south by contrary winds, making the one-eyed "
+        "turtle's own task harder still &mdash; but this discourse "
+        "reverses the comparison's own direction: rather than "
+        "measuring underworld rarity as SN 56.47 did, it measures the "
+        "anomaly of human rebirth, a Buddha's own arising, and the "
+        "teaching's own presence in the world, then affirms that this "
+        "anomaly has already been granted to its own listeners."
+    ),
+    guide=[
+        ("The same simile, escalated and reversed", [
+            "This project's own direct comparison against SN 56.47: "
+            "the escalation (whole-earth flooding, winds from all "
+            "four directions moving the yoke) makes the turtle's own "
+            "task harder than in SN 56.47's own version, while the "
+            "discourse's own application reverses direction entirely "
+            "&mdash; from a negative warning about underworld rarity "
+            "to a positive affirmation that the equally rare "
+            "conditions for practice have already been met.",
+        ]),
+        ("Three anomalies affirmed as present, not merely possible", [
+            "This project's own reading of the discourse's own "
+            "closing claim: it does not merely say human rebirth, a "
+            "Buddha's own arising, and the teaching's own presence "
+            "are anomalously rare in the abstract &mdash; it "
+            "explicitly affirms all three have already been granted "
+            "to the mendicants being addressed, turning the rarity "
+            "into present, personal circumstance.",
+        ]),
+    ],
+    terms=[
+        ("ayaṁ mahāpathavī ekodakā assa", "&ldquo;the earth was "
+             "entirely covered with water&rdquo; &mdash; this "
+             "discourse's own escalation of SN 56.47's own ocean"),
+        ("puratthimo vāto pacchimena saṁhareyya...", "&ldquo;the "
+             "east wind wafts it west...&rdquo; &mdash; the yoke's "
+             "own added, contrary-wind movement, absent from SN "
+             "56.47's own version"),
+        ("adhiccamidaṁ, bhikkhave, yaṁ manussattaṁ labhati", "&ldquo;"
+             "that's how anomalous it is to get reborn as a human "
+             "being&rdquo; &mdash; the first of three anomalies this "
+             "discourse names"),
+        ("tathāgato loke uppajjati arahaṁ sammāsambuddho...dhammo "
+         "loke dibbati", "&ldquo;a Realized One arises in the "
+             "world...the teaching...shines in the world&rdquo; "
+             "&mdash; the second and third anomalies"),
+        ("tassidaṁ...manussattaṁ laddhaṁ, tathāgato loke uppanno...",
+             "&ldquo;you have been reborn as a human being...a "
+             "Realized One has arisen...&rdquo; &mdash; this "
+             "discourse's own affirmation that all three anomalies "
+             "have already been granted, present tense"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.48:1.1-1.7"),
+        ("p", "&sect;2", "sn56.48:2.1-2.4"),
+        ("p", "&sect;3", "sn56.48:3.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse escalate SN 56.47's own simile, per this project's own direct comparison?",
+         "opts": ["The entire earth is covered with water, and the yoke is blown randomly by winds from all four directions", "It removes the turtle from the simile entirely", "It shrinks the timeframe from a century to a single day", "It makes the task easier rather than harder"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a harder version of the same image."},
+        {"q": "How does this discourse's own application reverse SN 56.47's own direction, per this project's own reading?",
+         "opts": ["From a negative warning about underworld rarity to a positive affirmation that the same rare conditions for practice have already been granted", "It reverses nothing; the application is identical to SN 56.47", "It denies that any anomaly or rarity is meaningful at all", "It applies the simile to a completely unrelated topic, animal rebirth"],
+         "correct": 0,
+         "expl": "This project's own reading of a genuine reversal in the comparison's own direction and tone."},
+        {"q": "What does this discourse's own closing claim affirm about its own listeners?",
+         "opts": ["That all three named anomalies (human rebirth, a Buddha's own arising, the teaching's own presence) have already been granted to them, present tense", "That these anomalies remain purely hypothetical and unattained", "That only one of the three anomalies has been granted so far", "That the anomalies apply only to future generations, not the present listeners"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an explicit, present-tense affirmation, not a future hope."},
+    ],
+    marginalia=[
+        ("The same turtle, a harder task", [
+            "the whole earth flooded, winds from all sides —",
+            "escalating SN 56.47's own already-extreme image"
+        ]),
+        ("From warning to affirmation", [
+            "not underworld rarity, but present good fortune —",
+            "the comparison's own direction reversed"
+        ]),
+        ("Already granted, not merely possible", [
+            "human birth, a Buddha's own arising, the teaching's own presence —",
+            "affirmed as already true for these listeners"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "Mount Sineru's own vastness follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.48/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.47.html\">SN 56.47 &middot; A Yoke With a "
+        "Hole (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own companion piece.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.49 — Paṭhamasinerupabbatarājasutta ("Sineru, King of Mountains (1st)")
+# Confirmed by direct reading: seven mung-bean-sized pebbles placed
+# beside Mount Sineru are incomparably tiny next to it -- an image
+# for how little suffering remains, at most seven more lives, for a
+# stream-enterer compared to suffering already ended.
+# --------------------------------------------------------------------------- #
+page(
+    56, 49, "Paṭhamasinerupabbatarāja", "Sineru, King of Mountains "
+    "(1st)",
+    vagga="Papātavagga",
+    meta_title="SN 56.49 — Sineru, King of Mountains (1st) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; seven pebbles beside Mount Sineru, "
+        "an image for how little suffering remains for a "
+        "stream-enterer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.48's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question, an answer, then its own "
+                 "application to a stream-enterer's own remaining "
+                 "suffering"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the ninth of ten discourses, "
+                         "naming the fixed upper limit of seven more "
+                         "lives for a stream-enterer explicitly"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse asks whether "
+        "seven mung-bean-sized pebbles placed beside Mount Sineru, "
+        "the king of mountains, or the mountain itself, amount to "
+        "more &mdash; the mountain, overwhelmingly, with the pebbles "
+        "not even a fraction by comparison. The Buddha applies this "
+        "directly to a noble disciple accomplished in view: the "
+        "suffering already ended is the mountain; what remains, at "
+        "most seven more lives, is the pebbles."
+    ),
+    guide=[
+        ("A named numerical limit, not a vague reassurance", [
+            "This project's own reading: the discourse's own claim "
+            "is precise rather than merely comforting &mdash; it "
+            "names &ldquo;sattakkhattuparamatā&rdquo; (&ldquo;at "
+            "most seven more times&rdquo;) as the fixed upper bound "
+            "on a stream-enterer's own remaining rebirths, a specific "
+            "figure this project recognizes as the canon's own "
+            "standard description of the stream-enterer's own "
+            "attainment.",
+        ]),
+        ("A comparison of past against future, not present against absence", [
+            "This project's own reading: unlike SN 56.36's own "
+            "measure of the plane of loss's own vastness, this "
+            "discourse compares a single individual's own already-"
+            "ended suffering against their own still-remaining "
+            "suffering &mdash; a personal, biographical scale rather "
+            "than a cosmic one.",
+        ]),
+    ],
+    terms=[
+        ("sinerussa pabbatarājassa satta muggamattiyo pāsāṇasakkharā "
+         "upanikkhipeyya", "&ldquo;place on Sineru, the king of "
+             "mountains, seven pebbles the size of mung beans&rdquo; "
+             "&mdash; this discourse's own central image"),
+        ("saṅkhampi na upenti, upanidhampi na upenti, kalabhāgampi "
+         "na upenti", "&ldquo;they don't count, there's no "
+             "comparison, they're not worth a fraction&rdquo; "
+             "&mdash; the threefold formula measuring the pebbles' "
+             "own insignificance against the mountain"),
+        ("diṭṭhisampannassa puggalassa abhisametāvino", "&ldquo;an "
+             "individual with comprehension, a noble disciple "
+             "accomplished in view&rdquo; &mdash; the stream-enterer "
+             "this discourse's own comparison is applied to"),
+        ("sattakkhattuparamatā", "&ldquo;at most seven more "
+             "[lives]&rdquo; &mdash; the fixed numerical limit this "
+             "discourse names for a stream-enterer's own remaining "
+             "rebirths"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.49:1.1-1.9"),
+        ("p", "&sect;2", "sn56.49:2.1"),
+    ],
+    quiz=[
+        {"q": "What fixed numerical limit does this discourse name for a stream-enterer's own remaining rebirths?",
+         "opts": ["At most seven more lives (sattakkhattuparamatā)", "Exactly one more life, no more and no fewer", "An unlimited number, with no upper bound named", "Exactly one hundred more lives"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a precise figure, the canon's own standard description of stream-entry."},
+        {"q": "How does this discourse's own comparison differ in kind from SN 56.36's own ocean-creature simile, per this project's own reading?",
+         "opts": ["It compares one individual's own past and future suffering (a personal scale), rather than measuring a cosmic realm's own vastness", "The two similes measure identical things with no distinction", "This discourse concerns the plane of loss specifically, like SN 56.36", "SN 56.36 concerns a single individual, unlike this discourse"],
+         "correct": 0,
+         "expl": "This project's own reading of a personal, biographical comparison distinct from SN 56.36's own cosmic one."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Navamaṁ\" (\"ninth\")."},
+    ],
+    marginalia=[
+        ("Seven pebbles beside a mountain", [
+            "not even a fraction, by comparison —",
+            "Mount Sineru overwhelms them entirely"
+        ]),
+        ("A named limit: at most seven lives", [
+            "\"sattakkhattuparamatā\" — precise, not vague —",
+            "the standard measure of stream-entry"
+        ]),
+        ("Past suffering against future suffering", [
+            "a personal scale, not a cosmic one —",
+            "distinct from SN 56.36's own vast ocean measure"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "the same mountain, worn away, closes it next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.49/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.48.html\">SN 56.48 &middot; A Yoke With a "
+        "Hole (2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.50 — Dutiyasinerupabbatarājasutta ("Sineru, King of Mountains (2nd)")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 5 ("Papātavaggo pañcamo"), ten discourses
+# (SN 56.41-50), with its own closing uddāna confirmed to match
+# exactly. Inverts SN 56.49's own image -- now Mount Sineru itself is
+# worn away, with only seven mustard-seed-sized pebbles remaining.
+# --------------------------------------------------------------------------- #
+page(
+    56, 50, "Dutiyasinerupabbatarāja", "Sineru, King of Mountains "
+    "(2nd)",
+    vagga="Papātavagga",
+    meta_title="SN 56.50 — Sineru, King of Mountains (2nd) | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the closing discourse of Vagga 5, "
+        "Mount Sineru worn away to seven mustard-seed pebbles. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.49's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A comparative question inverting SN 56.49's own "
+                 "image, its own answer, then this vagga's own "
+                 "closing colophon and uddāna"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of the "
+                         "root colophon as the close of Vagga 5, ten "
+                         "discourses, inverting SN 56.49's own image "
+                         "of Mount Sineru"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 5 (&ldquo;Papātavaggo pañcamo&rdquo;) "
+        "by inverting SN 56.49's own image: rather than pebbles "
+        "placed beside an intact mountain, Mount Sineru itself is "
+        "imagined worn away and eroded until only seven mustard-"
+        "seed-sized pebbles remain &mdash; the eroded portion is "
+        "overwhelmingly more than what's left, exactly as a "
+        "stream-enterer's own ended suffering overwhelmingly exceeds "
+        "what little remains, at most seven more lives."
+    ),
+    guide=[
+        ("The same claim, the image inverted", [
+            "This project's own direct comparison against SN 56.49: "
+            "that discourse compared an intact mountain to pebbles "
+            "placed beside it; this discourse instead compares the "
+            "mountain's own worn-away portion to pebbles that "
+            "remain of the mountain itself &mdash; a genuinely "
+            "different image (erosion rather than addition) making "
+            "the identical claim about a stream-enterer's own "
+            "suffering.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.41-50", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;Speculation, a cliff, scorching; a "
+            "bungalow, hairs, and darkness; a yoke with a hole "
+            "spoken twice; Sineru, two more&rdquo;) lists exactly ten "
+            "titles, matching this project's own SN 56.41 through SN "
+            "56.50 precisely.",
+        ]),
+    ],
+    terms=[
+        ("sinerupabbatarājā parikkhayaṁ pariyādānaṁ gaccheyya",
+             "&ldquo;Sineru, the king of mountains, was worn away "
+             "and eroded&rdquo; &mdash; this discourse's own inverted "
+             "image, erosion rather than addition"),
+        ("ṭhapetvā satta muggamattiyo pāsāṇasakkharā", "&ldquo;except "
+             "for seven pebbles the size of mustard seeds&rdquo; "
+             "&mdash; the remaining fragment after the mountain's own "
+             "erosion"),
+        ("etadeva bahutaraṁ...parikkhīṇaṁ pariyādinnaṁ; appamattikā "
+         "avasiṭṭhā", "&ldquo;the portion worn away is certainly "
+             "more; the remaining pebbles are tiny&rdquo; &mdash; "
+             "this discourse's own verdict, echoing SN 56.49's own "
+             "phrasing exactly despite the inverted image"),
+        ("dasamaṁ. papātavaggo pañcamo", "&ldquo;tenth. the fifth "
+             "vagga [ends]&rdquo; &mdash; the root colophon's own "
+             "vagga-closing marker"),
+        ("cintā papāto pariḷāho, kūṭaṁ vālandhakāro ca; chiggaḷena "
+         "ca dve vuttā, sineru apare duveti", "the closing uddāna's "
+             "own ten titles, confirmed by direct reading to match "
+             "SN 56.41 through SN 56.50 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. The vagga-closing colophon and "
+        "uddāna verse are left untranslated in the consulted English "
+        "source, as at several earlier vagga closes throughout this "
+        "project's own work. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.50:1.1-1.9"),
+        ("p", "&sect;2", "sn56.50:2.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 5 (\"Papātavaggo pañcamo\"), ten discourses (SN 56.41-50)", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 6, not Vagga 5"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "How does this discourse's own image relate to SN 56.49's own image, per this project's own direct comparison?",
+         "opts": ["An inversion — erosion of the mountain itself, rather than pebbles added beside an intact mountain — making the identical claim", "The identical image repeated without any change", "A direct contradiction, denying SN 56.49's own claim", "An entirely unrelated image with no connection to mountains"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a genuinely different image reaching the same conclusion."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 56.41-50?",
+         "opts": ["Its own ten listed titles match this project's own ten discourses exactly", "It lists only nine titles, contradicting this project's own count of ten", "It lists titles from an entirely different vagga", "The uddāna gives entirely different terms from this project's own ten discourses"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure."},
+    ],
+    marginalia=[
+        ("A mountain worn away", [
+            "not pebbles added, but the mountain eroded —",
+            "the same claim, the image inverted"
+        ]),
+        ("Seven mustard seeds remain", [
+            "smaller even than SN 56.49's own mung beans —",
+            "still overwhelmed by what's already gone"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Papātavaggo pañcamo\" — the fifth vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("Vagga 5 complete, five more to come", [
+            "the Abhisamayavagga follows next —",
+            "this saṃyutta's own peyyāla-heavy stretch not far ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.50/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.49.html\">SN 56.49 &middot; Sineru, King "
+        "of Mountains (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own inverted companion.",
+        "<a href=\"sn-56.41.html\">SN 56.41 &middot; Speculation "
+        "About the World</a> &mdash; this vagga's own opening "
+        "discourse.",
+    ],
+)
