@@ -49427,3 +49427,155 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.13 — Chandasamādhisutta ("Immersion Due to Enthusiasm")
+# Confirmed by direct reading of the root Pāli title: an Analysis-
+# style discourse, precisely defining "immersion due to X" and
+# "active effort" for each of the four bases in turn, spelling out at
+# last exactly what the recurring formula meant throughout this
+# saṃyutta.
+# --------------------------------------------------------------------------- #
+page(
+    51, 13, "Chandasamādhi", "Immersion Due to Enthusiasm",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.13 — Immersion Due to Enthusiasm | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Chandasamādhisutta &mdash; a precise definition of "
+        "'immersion' and 'active effort' for each of the four bases "
+        "of psychic power, embedding the four right efforts. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A term-by-term definition (Analysis-style), "
+                 "repeated for each of the four bases in turn"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "discourse that finally spells out, in "
+                         "technical terms, exactly what this "
+                         "saṃyutta's own recurring formula has meant "
+                         "all along"),
+    ],
+    why=(
+        "This project's own observation: SN 51.1 through SN 51.12 "
+        "have all used the phrase &ldquo;immersion due to X, and "
+        "active effort&rdquo; without ever defining either term; "
+        "this discourse, confirmed by its own root Pāli title "
+        "(Chandasamādhisutta), finally supplies the precise "
+        "definition &mdash; and reveals that &ldquo;active "
+        "effort&rdquo; is simply the four right efforts (sammappadhāna) "
+        "this project met in full at SN 49, restated in this "
+        "saṃyutta's own vocabulary."
+    ),
+    guide=[
+        ("What counts as &ldquo;immersion&rdquo;", [
+            "Confirmed by direct reading, the discourse's own "
+            "definition is spare: &ldquo;if a mendicant depends on "
+            "enthusiasm in order to gain immersion, gain unification "
+            "of mind, this is called immersion due to "
+            "enthusiasm&rdquo; &mdash; and the same single-sentence "
+            "pattern repeats for energy, mental development "
+            "(citta), and inquiry in turn.",
+        ]),
+        ("What counts as &ldquo;active effort&rdquo;: the four right efforts, restated", [
+            "This project's own cross-reference: the discourse's own "
+            "definition of &ldquo;active effort&rdquo; &mdash; "
+            "generating enthusiasm, trying, making an effort, "
+            "exerting the mind, and striving so that unskillful "
+            "qualities don't arise or are given up, and skillful "
+            "qualities arise or are developed to fulfillment &mdash; "
+            "is word-for-word the four right efforts (sammappadhāna) "
+            "already given their own full saṃyutta at SN 49; this "
+            "discourse confirms directly that the two teachings "
+            "share their own underlying content.",
+        ]),
+        ("One formula, four times over", [
+            "Confirmed by direct reading, the discourse's own "
+            "structure simply repeats this same definition four "
+            "times, once for each basis, with only the governing "
+            "quality's own name changing &mdash; enthusiasm, energy, "
+            "mental development, inquiry &mdash; closing each "
+            "repetition with the exact technical term this "
+            "saṃyutta's own other discourses have been using all "
+            "along without spelling out.",
+        ]),
+    ],
+    terms=[
+        ("chandasamādhi", "&ldquo;immersion due to "
+             "enthusiasm&rdquo; &mdash; gaining immersion and "
+             "unification of mind by depending on enthusiasm, the "
+             "discourse's own precise definition"),
+        ("padhānasaṅkhārā", "&ldquo;active efforts&rdquo; &mdash; "
+             "confirmed by this project's own cross-reference to be "
+             "the four right efforts (sammappadhāna) in different "
+             "vocabulary"),
+        ("anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya",
+             "&ldquo;so that bad, unskillful qualities don't "
+             "arise&rdquo; &mdash; the first of the four right "
+             "efforts, restated here as part of &ldquo;active "
+             "effort&rdquo;"),
+        ("cittassa ekaggataṁ", "&ldquo;unification of mind&rdquo; "
+             "&mdash; named alongside immersion (samādhi) itself as "
+             "what each basis's own governing quality yields"),
+        ("vīmaṁsāsamādhi", "&ldquo;immersion due to inquiry&rdquo; "
+             "&mdash; the fourth and final basis defined in this "
+             "discourse, completing the set of four"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.13:1.1-1.9"),
+        ("p", "&sect;2", "sn51.13:2.1-2.7"),
+        ("p", "&sect;3", "sn51.13:3.1-3.7"),
+        ("p", "&sect;4", "sn51.13:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse finally spell out, according to this project's own observation?",
+         "opts": ["The precise definitions of 'immersion' and 'active effort' behind a formula used without definition since SN 51.1", "A brand-new fifth basis of psychic power", "The exact number of mendicants present at the teaching", "A list of monasteries where the four bases were first taught"],
+         "correct": 0,
+         "expl": "SN 51.1-12 used \"immersion due to X, and active effort\" throughout without ever defining either term; this discourse does."},
+        {"q": "What does this project's own cross-reference identify \"active effort\" as being?",
+         "opts": ["The four right efforts (sammappadhāna), already given their own full saṃyutta at SN 49, restated in different vocabulary", "A completely new teaching found nowhere else in the canon", "A synonym for the eightfold path's right effort factor only, distinct from the four right efforts", "A physical exercise regimen for mendicants"],
+         "correct": 0,
+         "expl": "Word-for-word the same four right efforts this project already translated in full at SN 49."},
+        {"q": "How many times does this discourse repeat its own core definition?",
+         "opts": ["Four times, once for each basis, with only the governing quality's own name changing", "Once only, covering all four bases together in a single statement", "Six times, once for each of the six higher knowledges", "Twice, contrasting a short and a long version"],
+         "correct": 0,
+         "expl": "Enthusiasm, energy, mental development, inquiry — the same formula, four times over."},
+    ],
+    marginalia=[
+        ("A formula, finally defined", [
+            "twelve discourses used the term unglossed —",
+            "here, at last, the precise meaning"
+        ]),
+        ("Two teachings, one content", [
+            "\"active effort\" turns out to be —",
+            "the four right efforts, differently named"
+        ]),
+        ("Same shape, four fillings", [
+            "enthusiasm, energy, mind, inquiry —",
+            "one sentence repeated, one word changed each time"
+        ]),
+        ("Unification of mind", [
+            "immersion and unification named together —",
+            "the same single gain, two words for it"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.13/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-49.1-12.html\">SN 49.1&ndash;12 &middot; "
+        "Sloping East, Etc.</a> &mdash; this project's own full "
+        "translation of the four right efforts, the teaching this "
+        "discourse's own &ldquo;active effort&rdquo; restates.",
+        "<a href=\"sn-51.12.html\">SN 51.12 &middot; Very "
+        "Fruitful</a> &mdash; the previous discourse, using this "
+        "same formula without defining it.",
+    ],
+)
