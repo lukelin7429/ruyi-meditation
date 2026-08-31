@@ -55293,3 +55293,137 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.16 — Kammasamādānasutta ("The Results of Deeds Undertaken")
+# Confirmed by direct reading: this discourse's own claim is the
+# second of the ten Tathāgata powers (dasabala) -- knowledge of the
+# result of deeds undertaken -- confirming the correction this
+# project made at SN 52.15: this vagga draws on the dasabala list,
+# not only the sixfold higher knowledges.
+# --------------------------------------------------------------------------- #
+page(
+    52, 16, "Kammasamādāna", "The Results of Deeds Undertaken",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.16 — The Results of Deeds Undertaken | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kammasamādānasutta &mdash; Anuruddha attributes "
+        "knowledge of the results of deeds to the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirms "
+                         "this project's own correction at SN 52.15: "
+                         "this vagga draws on the ten Tathāgata "
+                         "powers, not the sixfold higher knowledges "
+                         "alone"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; truly understanding &ldquo;the result of deeds "
+        "undertaken in the past, future, and present in terms of "
+        "grounds and causes&rdquo; &mdash; is the second of the "
+        "classical ten Tathāgata powers, directly following "
+        "&ldquo;knowledge of the possible and impossible&rdquo; at "
+        "SN 52.15 &mdash; confirming this vagga now walks through "
+        "that list in its own established order."
+    ),
+    guide=[
+        ("The dasabala list, now confirmed in sequence", [
+            "This project's own confirmation: SN 52.15's own "
+            "knowledge of possibilities and impossibilities is "
+            "traditionally the first of the ten Tathāgata powers, "
+            "and this discourse's own claim &mdash; understanding "
+            "kamma's own results across past, future, and present "
+            "&mdash; is traditionally the second, confirming this "
+            "vagga does not merely touch the dasabala list in "
+            "passing but appears to walk through it in its own "
+            "recognized order.",
+        ]),
+        ("Causation named specifically, not just outcome", [
+            "Confirmed by direct reading, the discourse's own "
+            "phrasing is precise: understanding results &ldquo;in "
+            "terms of grounds and causes&rdquo; (ṭhānaso hetuso), "
+            "not merely which outcome follows which deed, but the "
+            "underlying causal structure connecting them.",
+        ]),
+    ],
+    terms=[
+        ("kammasamādānānaṁ ṭhānaso hetuso vipākaṁ yathābhūtaṁ pajānāmi",
+             "&ldquo;I truly understand the result of deeds "
+             "undertaken... in terms of grounds and causes&rdquo; "
+             "&mdash; this discourse's own precise claim, the second "
+             "of the ten Tathāgata powers"),
+        ("atītānāgatapaccuppannānaṁ", "&ldquo;past, future, and "
+             "present&rdquo; &mdash; the discourse's own temporal "
+             "scope, covering deeds across all three times"),
+        ("ṭhānaso hetuso", "&ldquo;in terms of grounds and "
+             "causes&rdquo; &mdash; the discourse's own qualifier, "
+             "specifying causal understanding rather than mere "
+             "correlation"),
+        ("vipāka", "&ldquo;result&rdquo; &mdash; the specific term "
+             "for the ripening or fruit of a deed, this discourse's "
+             "own central subject"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.16:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own claim confirm about this vagga's own structure, according to this project's own comparison?",
+         "opts": ["That the vagga walks through the ten Tathāgata powers in their own recognized order, following SN 52.15's own first power with this discourse's own second", "That the vagga has abandoned the dasabala list entirely after just one discourse", "That this discourse repeats SN 52.15's own claim without any distinction", "That the ten Tathāgata powers are unrelated to the four foundations of mindfulness"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the traditional first and second Tathāgata powers, appearing here in sequence."},
+        {"q": "What does this discourse's own qualifier \"in terms of grounds and causes\" specify?",
+         "opts": ["Understanding the underlying causal structure connecting deeds to their results, not merely which outcome follows which deed", "A specific number of past lives that must be recalled", "A geographic location where certain deeds must be performed", "A denial that deeds actually have any results at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a precise causal understanding, not just correlation between deed and outcome."},
+        {"q": "What time span does this discourse's own claim cover?",
+         "opts": ["Past, future, and present", "Only the present life, with no reference to past or future", "Only future results, excluding the past entirely", "A single specific day named in the discourse"],
+         "correct": 0,
+         "expl": "\"The result of deeds undertaken in the past, future, and present\" — confirmed directly by the text."},
+    ],
+    marginalia=[
+        ("The second power, right on schedule", [
+            "SN 52.15 gave the first of ten —",
+            "this discourse gives the second, in order"
+        ]),
+        ("Not just what, but why", [
+            "grounds and causes, the text insists —",
+            "understanding runs deeper than outcome alone"
+        ]),
+        ("Deeds across all three times", [
+            "past, future, present, together —",
+            "no boundary limiting this understanding"
+        ]),
+        ("A list, now confirmed to be walked in full", [
+            "one power followed cleanly by the next —",
+            "not scattered, but sequential"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.16/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.15.html\">SN 52.15 &middot; Possible</a> "
+        "&mdash; the previous discourse, the first of the ten "
+        "Tathāgata powers.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
