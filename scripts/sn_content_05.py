@@ -57925,3 +57925,303 @@ page(
         "&mdash; the previous discourse, naming only two fruits.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.6 — Ariṭṭhasutta ("With Ariṭṭha")
+# Confirmed by direct reading: the vagga's first genuine narrative
+# discourse, unlike SN 54.1-5's own bare doctrinal statements. The
+# Buddha asks the mendicants whether they develop mindfulness of
+# breathing; Ariṭṭha describes his own simplified practice (freedom
+# from past and future sensual desire, freedom from aversion, then
+# simply breathing mindfully); the Buddha neither denies nor endorses
+# this as sufficient, but distinguishes it from the practice
+# "fulfilled in detail" -- the complete sixteen-step formula.
+# --------------------------------------------------------------------------- #
+page(
+    54, 6, "Ariṭṭha", "With Ariṭṭha",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.6 — With Ariṭṭha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ariṭṭhasutta &mdash; Ariṭṭha's own simplified breathing "
+        "practice, and the Buddha's own distinction from the "
+        "complete, detailed formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Ariṭṭha"),
+        ("Form", "A genuine narrative exchange, this vagga's own "
+                 "first, unlike SN 54.1-5's own bare doctrinal "
+                 "statements"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "distinguishes a simplified personal "
+                         "practice from the formula &ldquo;fulfilled "
+                         "in detail&rdquo;, without outright "
+                         "rejecting the simpler version"),
+    ],
+    why=(
+        "Confirmed by direct reading, this is the vagga's own first "
+        "genuine narrative discourse: the Buddha asks the mendicants "
+        "directly whether they develop mindfulness of breathing, and "
+        "Ariṭṭha answers by describing his own simplified practice "
+        "&mdash; not the sixteen-step formula, but simply being free "
+        "of past and future sensual desire and aversion, then "
+        "breathing mindfully. The Buddha's own response neither "
+        "denies this is genuine mindfulness of breathing nor calls "
+        "it sufficient, instead distinguishing it from the practice "
+        "&ldquo;fulfilled in detail.&rdquo;"
+    ),
+    guide=[
+        ("A simplified practice, neither rejected nor confirmed as complete", [
+            "Confirmed by direct reading, the Buddha's own reply is "
+            "carefully worded: &ldquo;that is mindfulness of "
+            "breathing, Ariṭṭha; I don&rsquo;t deny it&rdquo; "
+            "&mdash; affirming Ariṭṭha's own account as genuine "
+            "practice, while immediately moving to teach &ldquo;how "
+            "mindfulness of breathing is fulfilled in detail,&rdquo; "
+            "implying Ariṭṭha's own version, while valid, is not "
+            "yet the complete formula.",
+        ]),
+        ("Ariṭṭha's own account, in his own words", [
+            "Confirmed by direct reading, Ariṭṭha describes three "
+            "elements: having given up desire for past sensual "
+            "pleasures, being free of desire for future sensual "
+            "pleasures, and having eliminated the perception of "
+            "aversion regarding phenomena internally and "
+            "externally &mdash; then simply breathing with "
+            "mindfulness, without the sixteen-step formula's own "
+            "detailed steps.",
+        ]),
+        ("A teaching moment, not a rebuke", [
+            "This project's own reading of the exchange's own tone: "
+            "the Buddha asks Ariṭṭha to &ldquo;listen and apply "
+            "your mind well&rdquo; before giving the full formula "
+            "&mdash; framed as an invitation to learn the complete "
+            "practice, not a correction of an error, since the "
+            "Buddha explicitly declines to deny that Ariṭṭha's own "
+            "account is genuine mindfulness of breathing.",
+        ]),
+    ],
+    terms=[
+        ("bhāvetha no tumhe bhikkhave, ānāpānassatin", "&ldquo;"
+             "mendicants, do you develop mindfulness of "
+             "breathing?&rdquo; &mdash; the Buddha's own opening "
+             "question, addressed to the assembly generally"),
+        ("atītesu me kāmesu kāmacchando pahīno", "&ldquo;I've given "
+             "up desire for sensual pleasures of the past&rdquo; "
+             "&mdash; the first element of Ariṭṭha's own simplified "
+             "account"),
+        ("ajjhattabahiddhā ca me dhammesu paṭighasaññā "
+         "suppaṭivinītā", "&ldquo;I have eliminated perception of "
+             "aversion regarding phenomena internally and "
+             "externally&rdquo; &mdash; the third element of "
+             "Ariṭṭha's own account"),
+        ("atthesā, ariṭṭha, ānāpānassati, nesā natthi", "&ldquo;"
+             "that is mindfulness of breathing, Ariṭṭha; I don't "
+             "deny it&rdquo; &mdash; the Buddha's own careful "
+             "affirmation, neither rejecting nor endorsing it as "
+             "complete"),
+        ("vitthārena paripuṇṇā", "&ldquo;fulfilled in detail&rdquo; "
+             "&mdash; the Buddha's own term for the complete "
+             "sixteen-step formula, distinguishing it from "
+             "Ariṭṭha's own simpler account"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the full narrative "
+        "exchange. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.6:1.1-1.9"),
+        ("p", "&sect;2", "sn54.6:2.1-2.5"),
+        ("p", "&sect;3", "sn54.6:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond to Ariṭṭha's own account of his simplified practice?",
+         "opts": ["He affirms it as genuine mindfulness of breathing (\"I don't deny it\"), then teaches the complete version \"fulfilled in detail\"", "He rejects it outright as not being mindfulness of breathing at all", "He praises it as already complete and superior to any fuller version", "He ignores Ariṭṭha's own answer entirely and changes the subject"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: careful affirmation, followed by teaching the fuller formula."},
+        {"q": "What three elements does Ariṭṭha's own account of his practice include?",
+         "opts": ["Freedom from desire for past and future sensual pleasures, and elimination of the perception of aversion internally and externally", "The complete sixteen-step formula given in full at SN 54.1", "The seven awakening factors, as at SN 54.2", "The seven fruits, as at SN 54.5"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of Ariṭṭha's own words, in his own reply to the Buddha."},
+        {"q": "What does this project's own reading identify about the tone of this exchange?",
+         "opts": ["A teaching moment, not a rebuke — the Buddha explicitly declines to deny Ariṭṭha's own account is genuine practice", "A public rebuke of Ariṭṭha for practicing incorrectly", "A test that Ariṭṭha fails, leading to his expulsion from the community", "An argument between two disagreeing teachers"],
+         "correct": 0,
+         "expl": "This project's own reading of the exchange's own careful, non-confrontational wording."},
+    ],
+    marginalia=[
+        ("A question to the assembly", [
+            "\"do you develop mindfulness of breathing?\" —",
+            "one mendicant answers for himself"
+        ]),
+        ("Neither denied nor declared complete", [
+            "\"that is mindfulness of breathing; I don't deny it\" —",
+            "careful words, not a rebuke"
+        ]),
+        ("A simpler practice, a fuller one", [
+            "past and future desire relinquished —",
+            "then the full sixteen steps, freely offered"
+        ]),
+        ("Sixth of ten, a name enters", [
+            "Ariṭṭha, remembered by this exchange —",
+            "the vagga's own first real conversation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.5.html\">SN 54.5 &middot; Fruits (2nd)</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-54.1.html\">SN 54.1 &middot; One Thing</a> "
+        "&mdash; this project's own full statement of the sixteen-"
+        "step formula the Buddha teaches Ariṭṭha here.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.7 — Mahākappinasutta ("About Mahākappina")
+# Confirmed by direct reading: a vivid observational narrative -- the
+# Buddha notices Mahākappina sitting in perfect physical stillness,
+# and the mendicants confirm they have never seen him disturbed,
+# whether meditating publicly or alone. The Buddha then names this
+# stillness as the visible sign of immersion (samādhi) born of
+# mindfulness of breathing, before giving the formula once more.
+# --------------------------------------------------------------------------- #
+page(
+    54, 7, "Mahākappina", "About Mahākappina",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.7 — About Mahākappina | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahākappinasutta &mdash; Mahākappina's own visible "
+        "stillness in meditation, named by the Buddha as the sign of "
+        "immersion from breath-mindfulness. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, observing Venerable Mahākappina"),
+        ("Form", "An observational narrative, then the formula, "
+                 "explaining a visible sign rather than an inner "
+                 "attainment alone"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; ties "
+                         "the formula to an observable, physical "
+                         "sign of accomplished immersion, unlike "
+                         "this vagga's own more abstract framework-"
+                         "mappings"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens with the "
+        "Buddha noticing Venerable Mahākappina sitting cross-legged "
+        "&ldquo;not far from the Buddha,&rdquo; his body perfectly "
+        "still. The Buddha asks the mendicants directly whether they "
+        "see any disturbance or trembling in his body, and they "
+        "confirm they never have, &ldquo;whether in the middle of "
+        "the Saṅgha or alone in private&rdquo; &mdash; the Buddha "
+        "then names this stillness as the sign of immersion "
+        "developed through mindfulness of breathing."
+    ),
+    guide=[
+        ("A visible sign, not only an inner claim", [
+            "This project's own observation: unlike SN 54.4 and SN "
+            "54.5's own claims about future soteriological fruits, "
+            "this discourse identifies a directly observable, "
+            "present sign of accomplished immersion &mdash; bodily "
+            "and mental stillness, confirmed by other mendicants' "
+            "own eyewitness testimony rather than asserted abstractly.",
+        ]),
+        ("Consistency, public and private", [
+            "Confirmed by direct reading, the mendicants specifically "
+            "note Mahākappina's own stillness holds &ldquo;whether "
+            "in the middle of the Saṅgha or alone in private&rdquo; "
+            "&mdash; ruling out the possibility that his composure "
+            "is a performance for an audience rather than a "
+            "genuine, cultivated quality of mind.",
+        ]),
+        ("The same formula, now explaining a visible effect", [
+            "Confirmed by direct reading, the discourse closes with "
+            "the identical compressed sixteen-step formula already "
+            "met throughout this vagga &mdash; but framed here "
+            "specifically as the cause of Mahākappina's own "
+            "observed stillness, giving the formula's own effects a "
+            "concrete, witnessed illustration.",
+        ]),
+    ],
+    terms=[
+        ("kāyassa iñjitattaṁ vā phanditattaṁ vā", "&ldquo;disturbance "
+             "or trembling of the body&rdquo; &mdash; the specific "
+             "absence the Buddha asks the mendicants to confirm"),
+        ("saṅghamajjhe vā nisinnaṁ ekaṁ vā raho nisinnaṁ", "&ldquo;"
+             "meditating in the middle of the Saṅgha or alone in "
+             "private&rdquo; &mdash; the mendicants' own confirmation "
+             "that Mahākappina's own stillness holds in both public "
+             "and private settings"),
+        ("samādhissa nikāmalābhī akicchalābhī akasiralābhī", "&ldquo;"
+             "gets such immersion when he wants, without trouble or "
+             "difficulty&rdquo; &mdash; the Buddha's own description "
+             "of what Mahākappina's own visible stillness signifies"),
+        ("ānāpānassatisamādhi", "&ldquo;immersion due to mindfulness "
+             "of breathing&rdquo; &mdash; the specific immersion "
+             "named as the cause of this stillness"),
+        ("neva kāyassa iñjitattaṁ vā hoti phanditattaṁ vā, na "
+         "cittassa iñjitattaṁ vā hoti phanditattaṁ vā", "&ldquo;no "
+             "disturbance or trembling of the body or mind&rdquo; "
+             "&mdash; the formula's own closing effect, this "
+             "discourse's own repeated refrain"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including the full observational "
+        "exchange. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.7:1.1-1.4"),
+        ("p", "&sect;2", "sn54.7:2.1-2.2"),
+        ("p", "&sect;3", "sn54.7:3.1-3.2"),
+        ("p", "&sect;4", "sn54.7:4.1-4.2"),
+        ("p", "&sect;5", "sn54.7:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha ask the mendicants to confirm about Venerable Mahākappina?",
+         "opts": ["Whether they see any disturbance or trembling in his body while meditating", "Whether he has attained arahantship", "Whether he can perform psychic powers", "Whether he teaches the sixteen-step formula correctly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha's own specific, observable question."},
+        {"q": "What detail do the mendicants add that rules out Mahākappina's stillness being a mere performance?",
+         "opts": ["The stillness holds both when meditating in the middle of the Saṅgha and alone in private", "Mahākappina only appears still when the Buddha is watching", "The mendicants have never actually observed him meditating", "His stillness only occurs during formal ceremonies"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: public and private settings both, ruling out performance."},
+        {"q": "How does this discourse's own approach differ from SN 54.4 and SN 54.5's own claims, per this project's own observation?",
+         "opts": ["It identifies a directly observable, present sign (bodily stillness) rather than asserting a future soteriological fruit abstractly", "It denies that mindfulness of breathing produces any observable effect", "It focuses only on Mahākappina's own future rebirth, like SN 54.4-5", "It contradicts the formula given at SN 54.1"],
+         "correct": 0,
+         "expl": "This project's own comparison: a witnessed, present sign rather than a claimed future outcome."},
+    ],
+    marginalia=[
+        ("Stillness, noticed and confirmed", [
+            "the Buddha asks, the mendicants answer —",
+            "no trembling, ever witnessed"
+        ]),
+        ("Public and private, the same", [
+            "not a performance for an audience —",
+            "genuine composure, either way"
+        ]),
+        ("A visible sign of an inner cause", [
+            "the body's own stillness, plainly seen —",
+            "immersion from breath, made evident"
+        ]),
+        ("Seventh of ten, a portrait given", [
+            "not doctrine alone, but one mendicant observed —",
+            "the practice's own fruit, made visible"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.6.html\">SN 54.6 &middot; With Ariṭṭha</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
