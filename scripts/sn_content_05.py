@@ -55011,3 +55011,137 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.14 — Cetopariyasutta ("Encompassing the Mind")
+# Confirmed by direct reading: the third confirmed instance of this
+# vagga's own pattern, naming mind-reading. Unlike SN 51.11's own
+# full sixteen-item list of paired mental states, this discourse
+# elides the middle items by ellipsis, keeping only the first
+# ("mind with greed") and the last ("unfreed mind").
+# --------------------------------------------------------------------------- #
+page(
+    52, 14, "Cetopariya", "Encompassing the Mind",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.14 — Encompassing the Mind | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cetopariyasutta &mdash; Anuruddha attributes mind-"
+        "reading to the four kinds of mindfulness meditation. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided passage, continuing this vagga's "
+                 "own confirmed pattern"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the third "
+                         "confirmed instance of this vagga's own "
+                         "walk through the classic higher "
+                         "knowledges, here compressed further than "
+                         "SN 51.11's own full account"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse continues this "
+        "vagga's own pattern, naming mind-reading as the attainment "
+        "produced by the four kinds of mindfulness meditation "
+        "&mdash; but confirmed by direct comparison, its own English "
+        "source compresses SN 51.11's own full sixteen-item list of "
+        "paired mental states down to only the first item "
+        "(&ldquo;mind with greed&rdquo;) and the last (&ldquo;unfreed "
+        "mind&rdquo;), with the middle fourteen elided by ellipsis."
+    ),
+    guide=[
+        ("The vagga's own pattern, continued", [
+            "Confirmed by direct reading, this discourse again "
+            "assumes SN 52.11's own base question and formula, now "
+            "naming the ability to &ldquo;understand the minds of "
+            "other beings and individuals, having encompassed them "
+            "with my mind.&rdquo;",
+        ]),
+        ("A compression beyond even SN 51.11's own account", [
+            "This project's own comparison: where SN 51.11 spelled "
+            "out all eight paired categories in full (greed/no "
+            "greed, hate/no hate, delusion/no delusion, "
+            "constricted/scattered, expansive/unexpansive, "
+            "supreme/not supreme, in samādhi/not, freed/unfreed), "
+            "this discourse's own English source keeps only the "
+            "first pairing's own first half and the very last item, "
+            "eliding the rest with an ellipsis &mdash; a further "
+            "compression this project has not yet met for this "
+            "particular list.",
+        ]),
+    ],
+    terms=[
+        ("cetopariya", "&ldquo;encompassing the mind&rdquo; &mdash; "
+             "this discourse's own title, naming the ability to "
+             "read others' minds directly"),
+        ("parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāmi",
+             "&ldquo;I understand the minds of other beings and "
+             "individuals, having encompassed them with my "
+             "mind&rdquo; &mdash; the discourse's own opening claim, "
+             "matching SN 51.11's own phrasing exactly"),
+        ("sarāgaṁ vā cittaṁ", "&ldquo;mind with greed&rdquo; "
+             "&mdash; the first item kept in full here, the opening "
+             "member of the paired-states list given in full at SN "
+             "51.11"),
+        ("avimuttaṁ vā cittaṁ", "&ldquo;unfreed mind&rdquo; "
+             "&mdash; the list's own final item, likewise kept in "
+             "full while the middle items are elided"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for mind-reading here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.14:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What ability does this discourse attribute to the four kinds of mindfulness meditation?",
+         "opts": ["Understanding the minds of other beings and individuals, having encompassed them with one's own mind", "Recollecting a thousand past eons", "Hearing sounds both human and heavenly", "Seeing beings pass away and be reborn according to their deeds"],
+         "correct": 0,
+         "expl": "Mind-reading, confirmed directly by the discourse's own text, matching this vagga's own established pattern."},
+        {"q": "How does this discourse's own list of paired mental states compare to SN 51.11's own full account?",
+         "opts": ["It keeps only the first item (\"mind with greed\") and the last (\"unfreed mind\"), eliding the middle fourteen with ellipsis", "It gives the identical sixteen-item list in full, unchanged", "It adds four entirely new categories not found at SN 51.11", "It omits the list entirely and names no specific mental states"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: a further compression beyond SN 51.11's own already-complete account."},
+        {"q": "What does this project's own observation say about this level of compression?",
+         "opts": ["It is a compression this project has not yet met for this particular list before this discourse", "It is identical to every prior compression already confirmed in this vagga", "It contradicts the fuller account already given at SN 51.11", "It suggests the list itself is considered less important than the others in this vagga"],
+         "correct": 0,
+         "expl": "This project's own direct comparison, noting the specific degree of compression as new within its own tracking."},
+    ],
+    marginalia=[
+        ("The pattern, again confirmed", [
+            "mind-reading, next in this vagga's own list —",
+            "the same base formula, elided as expected"
+        ]),
+        ("Only the ends of a long list kept", [
+            "greed at the start, unfreed at the close —",
+            "fourteen states folded into an ellipsis"
+        ]),
+        ("A fuller version, remembered elsewhere", [
+            "SN 51.11 gave all eight pairs in full —",
+            "here, the reader is trusted to recall them"
+        ]),
+        ("Two causes, the same reach into another's mind", [
+            "the four foundations, not the four bases —",
+            "yet the same understanding of another's heart"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.14/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.13.html\">SN 52.13 &middot; "
+        "Clairaudience</a> &mdash; the previous discourse.",
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; this project's own full translation of the "
+        "sixteen-item paired-states list this discourse compresses.",
+    ],
+)
