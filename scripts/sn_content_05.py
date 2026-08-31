@@ -51748,3 +51748,139 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.29 — Paṭhamabhikkhusutta ("Several Mendicants, 1st")
+# Confirmed by direct reading: the fourth occurrence of the same
+# fourfold definitional analysis (SN 51.19, SN 51.27, SN 51.28, and
+# now this discourse), this time asked by a group of mendicants
+# collectively rather than by an individual. Its own "1st" promises
+# yet another companion discourse.
+# --------------------------------------------------------------------------- #
+page(
+    51, 29, "Paṭhamabhikkhu", "Several Mendicants (1st)",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.29 — Several Mendicants (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamabhikkhusutta &mdash; a group of mendicants ask "
+        "the Buddha to define psychic power and its basis, the "
+        "fourth occurrence of this saṃyutta's own fourfold analysis. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Several mendicants and the Buddha"),
+        ("Form", "A question-and-answer exchange, the fourth "
+                 "occurrence of the same fourfold analysis"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fourth "
+                         "confirmed occurrence of this saṃyutta's "
+                         "own core fourfold analysis, now asked by a "
+                         "group rather than an individual"),
+    ],
+    why=(
+        "This project's own count: this is the fourth time this "
+        "saṃyutta gives the identical fourfold analysis of psychic "
+        "power, its basis, its development, and the eightfold path "
+        "beneath it &mdash; unprompted at SN 51.19, asked by Ānanda "
+        "at SN 51.27, asked of Ānanda at SN 51.28, and now asked by "
+        "&ldquo;several mendicants&rdquo; collectively."
+    ),
+    guide=[
+        ("A fourth occurrence, a new questioner", [
+            "Confirmed by direct reading, this discourse's own "
+            "content is word-for-word identical to SN 51.19, SN "
+            "51.27, and SN 51.28 &mdash; only the occasion changes: "
+            "&ldquo;several mendicants went up to the Buddha, "
+            "bowed, sat down to one side&rdquo; and asked the same "
+            "four questions together.",
+        ]),
+        ("A title that, once again, promises a pair", [
+            "This project's own observation: as with SN 51.16-17, SN "
+            "51.25-26, and SN 51.27-28, this discourse's own root "
+            "Pāli title marks it &ldquo;first&rdquo; "
+            "(paṭhama) &mdash; this saṃyutta's own recurring "
+            "practice of pairing near-identical discourses under "
+            "different occasions continues once more.",
+        ]),
+        ("The eightfold path, confirmed a fourth time", [
+            "Confirmed by direct reading, the discourse's own final "
+            "answer is, once again, the noble eightfold path itself "
+            "&mdash; now independently confirmed across four "
+            "separate discourses with four different questioners, "
+            "underscoring how central this project's own earlier "
+            "structural finding (at SN 51.19) has proven to be.",
+        ]),
+    ],
+    terms=[
+        ("sambahulā bhikkhū", "&ldquo;several mendicants&rdquo; "
+             "&mdash; the discourse's own collective questioners, "
+             "distinct from the individual questioners of SN 51.27-28"),
+        ("iddhi", "&ldquo;psychic power&rdquo; &mdash; defined a "
+             "fourth time, identically to every prior occurrence"),
+        ("iddhipādo", "&ldquo;the basis of psychic power&rdquo; "
+             "&mdash; again, &ldquo;the path and practice that leads "
+             "to gaining psychic power&rdquo;"),
+        ("iddhipādabhāvanā", "&ldquo;the development of the bases "
+             "of psychic power&rdquo; &mdash; the same four-part "
+             "formula, unchanged across every occurrence"),
+        ("ayameva ariyo aṭṭhaṅgiko maggo", "&ldquo;it is simply "
+             "this noble eightfold path&rdquo; &mdash; named a "
+             "fourth time as the deepest layer beneath the four bases"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.29:1.1-1.2"),
+        ("p", "&sect;2", "sn51.29:2.1-2.2"),
+        ("p", "&sect;3", "sn51.29:3.1-3.3"),
+        ("p", "&sect;4", "sn51.29:4.1-4.6"),
+        ("p", "&sect;5", "sn51.29:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How many times has this same fourfold analysis now appeared in this saṃyutta, according to this project's own count?",
+         "opts": ["Four times — at SN 51.19, SN 51.27, SN 51.28, and now SN 51.29", "Only twice — this discourse and SN 51.19", "This is the first occurrence; the earlier discourses covered different material", "Six times, once for each of the six higher knowledges"],
+         "correct": 0,
+         "expl": "SN 51.19 (unprompted), SN 51.27 (Ānanda asks), SN 51.28 (Buddha asks Ānanda), and now SN 51.29 (several mendicants ask)."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": ["Several mendicants, collectively, rather than a single named individual", "Venerable Ānanda alone, as in SN 51.27", "The Buddha himself, addressing the questions to no one in particular", "A brahmin visitor unnamed elsewhere in this saṃyutta"],
+         "correct": 0,
+         "expl": "\"Several mendicants went up to the Buddha, bowed, sat down to one side\" and asked together."},
+        {"q": "What does this discourse's own title suggest, following this saṃyutta's own established pattern?",
+         "opts": ["It is marked \"first\" (paṭhama), promising another \"Several Mendicants\" discourse still to come", "It is the very first discourse spoken to a group rather than an individual in the entire canon", "It replaces an earlier discourse that mentioned only one mendicant by name", "It marks the first appearance of the phrase \"several mendicants\" in this saṃyutta"],
+         "correct": 0,
+         "expl": "Paṭhamabhikkhusutta — following the same paired-title pattern already seen three times in this vagga."},
+    ],
+    marginalia=[
+        ("A fourth telling", [
+            "unprompted, then Ānanda, then reversed —",
+            "now a group asks together"
+        ]),
+        ("The same four answers again", [
+            "power, basis, development, path —",
+            "unchanged through every retelling"
+        ]),
+        ("Another pair begun", [
+            "\"first,\" the title says a third time over —",
+            "one more companion discourse still ahead"
+        ]),
+        ("A structure worth repeating", [
+            "four discourses, four questioners, one answer —",
+            "the eightfold path, foundation to it all"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.29/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.28.html\">SN 51.28 &middot; With Ānanda "
+        "(2nd)</a> &mdash; the previous discourse, giving the same "
+        "content in a different exchange.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
