@@ -56066,3 +56066,140 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.22 — Pubbenivāsasutta ("Past Lives")
+# Confirmed by direct reading: the eighth of the ten Tathāgata
+# powers -- and, confirmed by this project's own cross-reference,
+# also the fourth item of the classic sixfold higher knowledges
+# already met in full at SN 51.11. The two traditional lists
+# converge from this point on, since the dasabala's own final three
+# powers are identical to the abhiññā's own final three.
+# --------------------------------------------------------------------------- #
+page(
+    52, 22, "Pubbenivāsa", "Past Lives",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.22 — Past Lives | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pubbenivāsasutta &mdash; Anuruddha attributes "
+        "recollection of past lives to the four kinds of mindfulness "
+        "meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "point where the two traditional lists this "
+                         "vagga draws on &mdash; the ten Tathāgata "
+                         "powers and the sixfold higher knowledges "
+                         "&mdash; converge"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; recollecting &ldquo;many kinds of past lives, with "
+        "features and details&rdquo; &mdash; is both the eighth of "
+        "the ten Tathāgata powers this vagga has tracked since SN "
+        "52.15, and, confirmed by this project's own cross-"
+        "reference, the fourth of the classic sixfold higher "
+        "knowledges already given in full at SN 51.11: the two "
+        "traditional lists converge from this discourse onward, "
+        "since the dasabala's own final three powers are identical "
+        "to the abhiññā's own final three."
+    ),
+    guide=[
+        ("Two lists, now confirmed to converge", [
+            "This project's own cross-reference: recollection of "
+            "past lives, clairvoyance, and the ending of defilements "
+            "&mdash; the remaining three items of this vagga (SN "
+            "52.22-24) &mdash; are simultaneously the eighth through "
+            "tenth of the ten Tathāgata powers and the fourth "
+            "through sixth of the classic sixfold higher knowledges, "
+            "resolving the open question this project noted at SN "
+            "52.21: the two lists this vagga has drawn on do not "
+            "conflict but share their own final three items.",
+        ]),
+        ("The identical description already met at SN 51.11", [
+            "Confirmed by direct reading, this discourse's own "
+            "phrasing &mdash; &ldquo;many kinds of past lives, with "
+            "features and details&rdquo; &mdash; is the same "
+            "compressed reference to the fuller account already "
+            "given at SN 51.11, which itself detailed name, clan, "
+            "appearance, food, feelings, and manner of death across "
+            "many past existences.",
+        ]),
+    ],
+    terms=[
+        ("anekavihitaṁ pubbenivāsaṁ anussarāmi seākāraṁ sauddesaṁ",
+             "&ldquo;I recollect my many kinds of past lives, with "
+             "features and details&rdquo; &mdash; this discourse's "
+             "own precise claim, both the eighth Tathāgata power and "
+             "the fourth higher knowledge"),
+        ("ākāra", "&ldquo;feature&rdquo; &mdash; specific "
+             "circumstances of a given past life, as detailed in "
+             "full at SN 51.11"),
+        ("uddesa", "&ldquo;detail&rdquo; &mdash; further specifics "
+             "of a recollected past existence"),
+        ("pubbenivāsa", "&ldquo;past lives,&rdquo; literally "
+             "&ldquo;former abode&rdquo; &mdash; this discourse's "
+             "own title and central term"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.22:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this project's own cross-reference confirm about this discourse's own claim?",
+         "opts": ["It is simultaneously the eighth of the ten Tathāgata powers and the fourth of the classic sixfold higher knowledges, since the two lists share their own final three items", "It belongs only to the ten Tathāgata powers and has no connection to the sixfold higher knowledges", "It is an entirely new item not found in either traditional list", "It contradicts the account of past-life recollection already given at SN 51.11"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the two traditional lists converge from this discourse onward."},
+        {"q": "How does this discourse's own phrasing compare to SN 51.11's own fuller account?",
+         "opts": ["It is the same compressed reference, assuming the fuller detail (name, clan, appearance, food, feelings, manner of death) already given at SN 51.11", "It gives an entirely different, expanded account not found at SN 51.11", "It denies that past-life recollection is genuinely possible", "It limits recollection to only one single past life, unlike SN 51.11's own broader claim"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the same compressed phrase, referring back to the fuller account already translated."},
+        {"q": "What does this discourse's own resolution settle from this project's own earlier open question at SN 52.21?",
+         "opts": ["Whether the dasabala and abhiññā lists this vagga draws on conflict or share content — confirmed here that they share their own final three items", "Whether Anuruddha personally recalls more or fewer past lives than the Buddha", "Whether the four foundations of mindfulness are the true cause of this knowledge", "Whether this vagga has more or fewer than fourteen discourses total"],
+         "correct": 0,
+         "expl": "This project's own resolution of the structural question raised at SN 52.21."},
+    ],
+    marginalia=[
+        ("Two lists, meeting at last", [
+            "the ten powers and the six knowledges —",
+            "converging here, not competing"
+        ]),
+        ("A claim already met in full", [
+            "\"features and details\" points back to SN 51.11 —",
+            "name, clan, food, feelings, all remembered"
+        ]),
+        ("An open question, resolved", [
+            "this project wondered which list would hold —",
+            "the answer: both, from here on"
+        ]),
+        ("The eighth power, the fourth knowledge, one claim", [
+            "two traditional counts, a single attainment —",
+            "past lives, recalled directly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.21.html\">SN 52.21 &middot; Absorptions, "
+        "Etc.</a> &mdash; the previous discourse, the seventh of "
+        "the ten Tathāgata powers.",
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; this project's own full translation of past-life "
+        "recollection's own fuller account.",
+    ],
+)
