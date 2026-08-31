@@ -56484,3 +56484,752 @@ page(
         "defilements.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 53 (Jhānasaṁyutta, "Linked Discourses on Absorption") -- confirmed
+# by direct bilara-data listing to be structured as five merged
+# peyyāla files (53.1-12, 53.13-22, 53.23-34, 53.35-44, 53.45-54),
+# exactly the recurring five-vagga cycle (Gaṅgāpeyyālavagga,
+# Appamādavagga, Balakaraṇīyavagga, Esanāvagga, Oghavagga) already
+# confirmed across SN 48-51, here applied for the first time to the
+# four jhānas (absorptions) rather than a set of spiritual faculties.
+# Confirmed by its own closing colophon ("Jhānasaṁyuttaṁ navamaṁ") to
+# be the ninth saṃyutta of Book V, directly continuing from SN 52
+# (Anuruddhasaṁyuttaṁ aṭṭhamaṁ, the eighth) confirmed complete.
+#
+# SN 53.1-12 — Jhānādisutta (merged peyyāla range)
+# Opens Vagga 1 (Gaṅgāpeyyālavagga): the four jhānas given in full,
+# then the river-simile formula already met at SN 45.91-102, SN
+# 48.71-82, SN 49.1-12, SN 50.1-12, and SN 51.33-44 -- confirmed by
+# direct reading, now applied for the first time to the four
+# absorptions themselves.
+# --------------------------------------------------------------------------- #
+page_range(
+    53, 1, 12, "Jhānādi", "Absorptions, Etc.",
+    vagga="Gaṅgāpeyyālavagga",
+    meta_title="SN 53.1–12 — Absorptions, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 53.1–12 — the four jhānas defined in full, then the "
+        "Ganges river simile, opening the Jhānasaṁyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The four jhānas defined in full, then the river "
+                 "simile, twelve discourses merged into a single "
+                 "bilara-data file"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; opens "
+                         "the Jhānasaṁyutta, giving the classic "
+                         "fourfold jhāna formula in full before "
+                         "reusing the river simile met five times "
+                         "already in this book"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file opens the "
+        "Jhānasaṁyutta (Book V's own ninth saṃyutta, per its own "
+        "closing colophon &ldquo;Jhānasaṁyuttaṁ navamaṁ&rdquo; met "
+        "at SN 53.45-54) by giving the classic fourfold jhāna "
+        "formula in full, then reusing the river-simile formula this "
+        "project has now met five times &mdash; at SN 45.91-102, SN "
+        "48.71-82, SN 49.1-12, SN 50.1-12, and SN 51.33-44 &mdash; "
+        "here applied, for the first time in this book, to the four "
+        "absorptions themselves rather than a set of spiritual "
+        "faculties or path factors."
+    ),
+    guide=[
+        ("The four jhānas, defined in full", [
+            "Confirmed by direct reading, this file opens with the "
+            "complete classic formula for all four absorptions: the "
+            "first (rapture and bliss born of seclusion, with "
+            "placed and sustained thought), the second (rapture and "
+            "bliss born of immersion, with internal clarity), the "
+            "third (equanimous, mindful, personally experiencing "
+            "bliss), and the fourth (neither pleasure nor pain, "
+            "with pure equanimity and mindfulness) &mdash; the same "
+            "formula this project has already met describing "
+            "meditative attainment throughout this book.",
+        ]),
+        ("A sixth occurrence of the river simile", [
+            "Confirmed by direct comparison, the simile itself is "
+            "identical each time: &ldquo;the Ganges river slants, "
+            "slopes, and inclines to the east&rdquo; is mirrored by "
+            "a mendicant who develops a given quality &ldquo;"
+            "slanting, sloping, and inclining to "
+            "extinguishment&rdquo; &mdash; now, for the first time "
+            "in this book, illustrating the four jhānas rather than "
+            "the eightfold path, five faculties, four right "
+            "efforts, five powers, or four bases of psychic power.",
+        ]),
+        ("Twelve discourses, one worked example", [
+            "Confirmed by direct reading of this file's own closing "
+            "colophon (&ldquo;Dvādasamaṁ,&rdquo; &ldquo;"
+            "Gaṅgāpeyyālavaggo paṭhamo&rdquo;) and its own uddāna "
+            "(&ldquo;six on slanting to the east, and six on "
+            "slanting to the ocean&mdash;these two sixes make "
+            "twelve&rdquo;), this single file covers all twelve "
+            "variant discourses (SN 53.1-12) through one full "
+            "worked example.",
+        ]),
+    ],
+    terms=[
+        ("cattāro jhānā", "&ldquo;the four absorptions&rdquo; "
+             "&mdash; this saṃyutta's own governing subject, defined "
+             "here in full for the first time in this book"),
+        ("vivicceva kāmehi vivicca akusalehi dhammehi", "&ldquo;"
+             "quite secluded from sensual pleasures, secluded from "
+             "unskillful qualities&rdquo; &mdash; the first jhāna's "
+             "own opening condition"),
+        ("upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ", "&ldquo;the "
+             "fourth absorption, with pure equanimity and "
+             "mindfulness&rdquo; &mdash; the formula's own final, "
+             "most refined stage"),
+        ("gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā", "&ldquo;the "
+             "Ganges river slants, slopes, and inclines to the "
+             "east&rdquo; &mdash; the identical simile already met "
+             "five times earlier in this book"),
+        ("Gaṅgāpeyyālavaggo paṭhamo", "&ldquo;Vagga 1, the Ganges "
+             "Abbreviated-Texts chapter&rdquo; &mdash; this file's "
+             "own closing colophon, confirming it opens this "
+             "saṃyutta's own first vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn53.1-12:1.1"),
+        ("p", "&sect;2", "sn53.1-12:1.3-1.9"),
+        ("p", "&sect;3", "sn53.1-12:2.1-2.8"),
+        ("p", "Uddāna", "sn53.1-12:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does this file give in full before reusing the river simile?",
+         "opts": ["The classic fourfold jhāna formula — all four absorptions defined in full", "Only the first absorption, with the remaining three merely named", "A list of the five spiritual faculties", "The eightfold path in full"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the complete four-jhāna formula, opening this saṃyutta."},
+        {"q": "How many times has this project now confirmed the river-simile formula's own use across this book, including this occurrence?",
+         "opts": ["Six times — SN 45.91-102, SN 48.71-82, SN 49.1-12, SN 50.1-12, SN 51.33-44, and now SN 53.1-12", "Only twice, including this occurrence", "This is the first occurrence of this simile in the entire book", "The simile is unique to this saṃyutta and appears nowhere else"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison across five prior saṃyuttas in this book, now a sixth."},
+        {"q": "How many discourses does this single merged file cover, according to its own colophon and uddāna?",
+         "opts": ["Twelve — six rivers sloping to the east, and six sloping to the ocean", "Only one — this file covers a single discourse, SN 53.1", "Twenty-four, double the number this project has seen for this pattern before", "The exact count is not specified anywhere in this file"],
+         "correct": 0,
+         "expl": "\"Dvādasamaṁ\" and the uddāna's own \"these two sixes make twelve,\" confirmed directly."},
+    ],
+    marginalia=[
+        ("A new saṃyutta, a familiar river", [
+            "the sixth time this book has told it —",
+            "now for the four absorptions themselves"
+        ]),
+        ("Four jhānas, given in full", [
+            "seclusion, immersion, equanimity, purity —",
+            "the classic formula, spelled out completely"
+        ]),
+        ("Twelve discourses, one telling", [
+            "east and ocean, six rivers each —",
+            "one worked example stands for all twelve"
+        ]),
+        ("A ninth saṃyutta begins", [
+            "Anuruddha's relation now behind it —",
+            "absorption itself takes the stage"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn53.1-12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 53.13-22 — Appamādasutta (merged peyyāla range)
+# Confirmed by direct bilara-data reading: like SN 46.89-98, SN
+# 48.83-92, SN 49.13-22, and SN 50.13-22, this entire ten-discourse
+# vagga is a single merged file carrying no independent content --
+# just the explicit cross-reference "(Tell in full as in the chapter
+# on diligence at SN 45.139-148)"; Pāli root "(Appamādavaggo
+# vitthāretabbo.)" Confirmed by its own closing uddāna to list the
+# same ten similes (Realized One, footprint, roof peak, root,
+# heartwood, jasmine, monarch, sun, moon, cloth) as this project's
+# own already-completed SN 45.139-148.
+# --------------------------------------------------------------------------- #
+page_range(
+    53, 13, 22, "Appamāda", "Diligence",
+    vagga="Appamādavagga",
+    meta_title="SN 53.13–22 — Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 53.13–22 — ten discourses on diligence, cross-referenced "
+        "directly to this project's own already-completed chapter at "
+        "SN 45.139–148. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, carrying no independent content "
+                 "beyond an explicit cross-reference"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, structurally confirmed to "
+                         "represent ten discourses reusing "
+                         "already-translated content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file carries no "
+        "independent content of its own: it instructs the reader to "
+        "&ldquo;tell in full as in the chapter on diligence at SN "
+        "45.139&ndash;148&rdquo; &mdash; this project's own already-"
+        "completed vagga from the Maggasaṃyutta &mdash; rather than "
+        "repeating its own ten similes a sixth time in this book "
+        "(after SN 45's own original, then SN 46, SN 48, SN 49, and "
+        "SN 50)."
+    ),
+    guide=[
+        ("A direct cross-reference, matching this project's own established pattern", [
+            "This project's own comparison: exactly as at SN "
+            "46.89-98, SN 48.83-92, SN 49.13-22, and SN 50.13-22, "
+            "this vagga simply points back to this project's own "
+            "already-translated SN 45.139-148 rather than rewriting "
+            "its own similes yet again &mdash; the identical "
+            "compression pattern, here applied to the four jhānas.",
+        ]),
+        ("Ten similes, confirmed by the closing uddāna", [
+            "Confirmed by direct reading of this file's own closing "
+            "uddāna (&ldquo;the Realized One, footprint, roof peak, "
+            "roots, heartwood, jasmine, monarch, sun and moon, and "
+            "cloth is the tenth&rdquo;), this single file's own ten "
+            "listed items confirm it spans exactly ten discourses, "
+            "SN 53.13 through SN 53.22.",
+        ]),
+        ("A sixth confirmed occurrence in this book", [
+            "This project's own running count: this is the sixth "
+            "time this exact ten-simile Appamādavagga structure has "
+            "appeared in this book &mdash; SN 45's own original, "
+            "then SN 46, SN 48, SN 49, SN 50, and now SN 53 &mdash; "
+            "confirming this pattern's own remarkable consistency "
+            "across Book V.",
+        ]),
+    ],
+    terms=[
+        ("Appamādavaggo vitthāretabbo", "&ldquo;the Diligence "
+             "chapter is to be elaborated in full&rdquo; &mdash; "
+             "this file's own entire root Pāli content, a bare "
+             "cross-reference instruction"),
+        ("appamāda", "&ldquo;diligence&rdquo; &mdash; this vagga's "
+             "own governing theme, shared with this project's own "
+             "already-completed SN 45.139-148"),
+        ("mūlaṁ sāro ca vassikaṁ", "&ldquo;roots, heartwood, "
+             "jasmine&rdquo; &mdash; the uddāna's own middle group "
+             "of similes"),
+        ("rājā candimasūriyā", "&ldquo;monarch, sun and moon&rdquo; "
+             "&mdash; the uddāna's own later group of similes"),
+        ("vatthena dasamaṁ padaṁ", "&ldquo;and cloth is the "
+             "tenth&rdquo; &mdash; the uddāna's own closing item, "
+             "confirming ten similes total"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn53.13-22:1.1"),
+        ("p", "Uddāna", "sn53.13-22:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this file instruct the reader to do, rather than rewriting the diligence teaching yet again?",
+         "opts": ["Tell it in full as in the chapter on diligence at SN 45.139–148, this project's own already-completed vagga", "Skip this vagga entirely and move on to the next", "Consult an unrelated saṃyutta not yet translated by this project", "Compose an entirely new set of ten similes"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed chapter."},
+        {"q": "How many discourses does this single merged file's own closing uddāna confirm it spans?",
+         "opts": ["Ten, matching SN 53.13 through SN 53.22", "Twelve, matching the previous vagga's own count", "Only one, this file covers just SN 53.13", "The uddāna does not specify an exact count"],
+         "correct": 0,
+         "expl": "Ten similes — the Realized One, footprint, roof peak, roots, heartwood, jasmine, monarch, sun, moon, and cloth."},
+        {"q": "How many times has this project now confirmed this exact ten-simile Appamādavagga structure across this book, including this occurrence?",
+         "opts": ["Six — SN 45's own original, then SN 46, SN 48, SN 49, SN 50, and now SN 53", "Only twice, including this occurrence", "This is the first occurrence outside SN 45 itself", "The structure differs meaningfully each time it recurs"],
+         "correct": 0,
+         "expl": "This project's own running count, confirming remarkable structural consistency across Book V."},
+    ],
+    marginalia=[
+        ("A cross-reference, not new content", [
+            "\"tell in full as in SN 45.139–148\" —",
+            "the same compression seen four times before"
+        ]),
+        ("Ten similes, named in the uddāna", [
+            "footprint, roof peak, roots, heartwood, jasmine —",
+            "the same count as the chapter it points to"
+        ]),
+        ("A pattern holding steady, a fifth time", [
+            "SN 46, 48, 49, 50, now 53 —",
+            "brevity earned by prior translation"
+        ]),
+        ("Nothing lost in the reuse", [
+            "the same ten similes, the same order —",
+            "confirmed to match exactly, not approximately"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn53.13-22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-53.1-12.html\">SN 53.1&ndash;12 &middot; "
+        "Absorptions, Etc.</a> &mdash; the previous page, closing "
+        "Vagga 1.",
+        "<a href=\"sn-50.13-22.html\">SN 50.13&ndash;22 &middot; "
+        "Diligence</a> &mdash; this project's own most recent prior "
+        "instance of this identical chapter.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 53.23-34 — Balakaraṇīyasutta (merged peyyāla range)
+# Confirmed by direct bilara-data reading: like SN 48.93-104, SN
+# 49.23-34, and SN 50.23-34, this entire twelve-discourse vagga is a
+# single merged file carrying no independent content -- just the
+# explicit cross-reference "(Tell in full as in the chapter on hard
+# work at SN 45.149-160)"; Pāli root "(Balakaraṇīyavaggo
+# vitthāretabbo.)" Confirmed by its own closing uddāna to list the
+# same twelve similes as this project's own already-completed SN
+# 45.149-160.
+# --------------------------------------------------------------------------- #
+page_range(
+    53, 23, 34, "Balakaraṇīya", "Hard Work",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 53.23–34 — Hard Work | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 53.23–34 — twelve discourses on hard work, cross-"
+        "referenced directly to this project's own already-completed "
+        "chapter at SN 45.149–160. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Twelve discourses compressed into a single "
+                 "bilara-data file, carrying no independent content "
+                 "beyond an explicit cross-reference"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, structurally confirmed to "
+                         "represent twelve discourses reusing "
+                         "already-translated content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file carries no "
+        "independent content of its own: it instructs the reader to "
+        "&ldquo;tell in full as in the chapter on hard work at SN "
+        "45.149&ndash;160&rdquo; &mdash; this project's own already-"
+        "completed vagga from the Maggasaṃyutta &mdash; rather than "
+        "repeating its own twelve similes yet again in this book."
+    ),
+    guide=[
+        ("A direct cross-reference, matching this project's own established pattern", [
+            "This project's own comparison: exactly as at SN "
+            "48.93-104, SN 49.23-34, and SN 50.23-34, this vagga "
+            "simply points back to this project's own already-"
+            "translated SN 45.149-160 rather than rewriting its own "
+            "similes a further time &mdash; the identical "
+            "compression pattern, here applied to the four jhānas.",
+        ]),
+        ("Twelve similes, confirmed by the closing uddāna", [
+            "Confirmed by direct reading of this file's own closing "
+            "uddāna (&ldquo;hard work, seeds, and dragons, a tree, "
+            "a pot, and a spike, the atmosphere, and two on clouds, "
+            "a ship, a guest house, and a river&rdquo;), this single "
+            "file's own twelve listed items confirm it spans exactly "
+            "twelve discourses, SN 53.23 through SN 53.34.",
+        ]),
+        ("A recurring third-vagga position, confirmed again", [
+            "This project's own running observation: exactly as at "
+            "SN 48, SN 49, and SN 50, this Balakaraṇīyavagga again "
+            "occupies the third position in its own saṃyutta's "
+            "five-vagga cycle, directly following the Appamādavagga "
+            "and preceding the Esanāvagga.",
+        ]),
+    ],
+    terms=[
+        ("Balakaraṇīyavaggo vitthāretabbo", "&ldquo;the Hard-Work "
+             "chapter is to be elaborated in full&rdquo; &mdash; "
+             "this file's own entire root Pāli content, a bare "
+             "cross-reference instruction"),
+        ("balakaraṇīya", "&ldquo;hard work&rdquo; &mdash; this "
+             "vagga's own governing theme, shared with this "
+             "project's own already-completed SN 45.149-160"),
+        ("bījañca nāgo ca", "&ldquo;seeds, and dragons&rdquo; "
+             "&mdash; the uddāna's own second and third similes"),
+        ("ākāsena ca dve meghā", "&ldquo;the atmosphere, and two on "
+             "clouds&rdquo; &mdash; the uddāna's own middle group, "
+             "naming three related sky-similes"),
+        ("nāvā āgantukā nadī", "&ldquo;a ship, a guest house, and a "
+             "river&rdquo; &mdash; the uddāna's own closing three "
+             "similes, confirming twelve items total"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn53.23-34:1.1"),
+        ("p", "Uddāna", "sn53.23-34:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this file instruct the reader to do, rather than rewriting the hard-work teaching yet again?",
+         "opts": ["Tell it in full as in the chapter on hard work at SN 45.149–160, this project's own already-completed vagga", "Skip this vagga entirely and move on to the next", "Consult an unrelated saṃyutta not yet translated by this project", "Compose an entirely new set of twelve similes"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed chapter."},
+        {"q": "How many discourses does this single merged file's own closing uddāna confirm it spans?",
+         "opts": ["Twelve, matching SN 53.23 through SN 53.34", "Ten, matching the previous vagga's own count", "Only one, this file covers just SN 53.23", "The uddāna does not specify an exact count"],
+         "correct": 0,
+         "expl": "Twelve similes — hard work, seeds, dragons, a tree, a pot, a spike, the atmosphere, two clouds, a ship, a guest house, a river."},
+        {"q": "What position does the Balakaraṇīyavagga occupy, according to this project's own running observation?",
+         "opts": ["The third position in its own saṃyutta's five-vagga cycle, following Appamādavagga and preceding Esanāvagga — confirmed again here as at SN 48, SN 49, and SN 50", "The first vagga of every saṃyutta it appears in", "A position that varies unpredictably between saṃyuttas", "The final vagga, always closing the saṃyutta"],
+         "correct": 0,
+         "expl": "This project's own confirmed structural pattern, holding consistently across four saṃyuttas now."},
+    ],
+    marginalia=[
+        ("A cross-reference, not new content", [
+            "\"tell in full as in SN 45.149–160\" —",
+            "the same compression seen at SN 48, 49, and 50"
+        ]),
+        ("Twelve similes, named in the uddāna", [
+            "seeds, dragons, a tree, a pot, a spike —",
+            "the same count as the chapter it points to"
+        ]),
+        ("Third position, held steady", [
+            "after diligence, before searches —",
+            "the same slot, saṃyutta after saṃyutta"
+        ]),
+        ("Nothing lost in the reuse", [
+            "twelve similes here, twelve there —",
+            "confirmed to match exactly, not approximately"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn53.23-34/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-53.13-22.html\">SN 53.13&ndash;22 &middot; "
+        "Diligence</a> &mdash; the previous page, closing Vagga 2.",
+        "<a href=\"sn-50.23-34.html\">SN 50.23&ndash;34 &middot; "
+        "Hard Work</a> &mdash; this project's own most recent prior "
+        "instance of this identical chapter.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 53.35-44 — Esanāsutta (merged peyyāla range)
+# Confirmed by direct bilara-data reading: like SN 48.105-114, SN
+# 49.35-44, and SN 50.35-44, this entire ten-discourse vagga is a
+# single merged file carrying no independent content -- just the
+# explicit cross-reference "(Tell in full as in the chapter on
+# searches at SN 45.161-170)"; Pāli root "(Esanāvaggo
+# vitthāretabbo.)" Confirmed by its own closing uddāna to list the
+# same ten items as this project's own already-completed SN
+# 45.161-170.
+# --------------------------------------------------------------------------- #
+page_range(
+    53, 35, 44, "Esanā", "Searches",
+    vagga="Esanāvagga",
+    meta_title="SN 53.35–44 — Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 53.35–44 — ten discourses on searches and their kin, "
+        "cross-referenced directly to this project's own already-"
+        "completed chapter at SN 45.161–170. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, carrying no independent content "
+                 "beyond an explicit cross-reference"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, structurally confirmed to "
+                         "represent ten discourses reusing "
+                         "already-translated content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file carries no "
+        "independent content of its own: it instructs the reader to "
+        "&ldquo;tell in full as in the chapter on searches at SN "
+        "45.161&ndash;170&rdquo; &mdash; this project's own already-"
+        "completed vagga from the Maggasaṃyutta &mdash; rather than "
+        "repeating its own ten items yet again in this book."
+    ),
+    guide=[
+        ("A direct cross-reference, matching this project's own established pattern", [
+            "This project's own comparison: exactly as at SN "
+            "48.105-114, SN 49.35-44, and SN 50.35-44, this vagga "
+            "simply points back to this project's own already-"
+            "translated SN 45.161-170 rather than rewriting its own "
+            "content a further time &mdash; the identical "
+            "compression pattern, here applied to the four jhānas.",
+        ]),
+        ("Ten items, confirmed by the closing uddāna", [
+            "Confirmed by direct reading of this file's own closing "
+            "uddāna (&ldquo;searches, discriminations, defilements, "
+            "states of existence, three kinds of suffering, "
+            "barrenness, stains, and troubles, feelings, craving, "
+            "and thirst&rdquo;), this single file's own listed items "
+            "confirm it spans exactly ten discourses, SN 53.35 "
+            "through SN 53.44.",
+        ]),
+        ("Abstract themes, not concrete similes", [
+            "This project's own observation, already noted at this "
+            "vagga's own prior occurrences: unlike the "
+            "Balakaraṇīyavagga's own concrete similes (seeds, "
+            "dragons, ships), the Esanāvagga's own ten items are "
+            "abstract qualities and experiences &mdash; searches, "
+            "conceits, defilements, states of being &mdash; a "
+            "different flavor of list within the same recurring "
+            "five-vagga cycle.",
+        ]),
+    ],
+    terms=[
+        ("Esanāvaggo vitthāretabbo", "&ldquo;the Searches chapter is "
+             "to be elaborated in full&rdquo; &mdash; this file's "
+             "own entire root Pāli content, a bare cross-reference "
+             "instruction"),
+        ("esanā", "&ldquo;searches&rdquo; &mdash; this vagga's own "
+             "governing theme, shared with this project's own "
+             "already-completed SN 45.161-170"),
+        ("bhavo ca dukkhatā tisso", "&ldquo;states of existence, "
+             "three kinds of suffering&rdquo; &mdash; the uddāna's "
+             "own second item group"),
+        ("khilaṁ malañca nīgho ca", "&ldquo;barrenness, stains, and "
+             "troubles&rdquo; &mdash; the uddāna's own third item "
+             "group"),
+        ("vedanā taṇhā tasinā ca", "&ldquo;feelings, craving, and "
+             "thirst&rdquo; &mdash; the uddāna's own closing three "
+             "items, confirming ten total"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn53.35-44:1.1"),
+        ("p", "Uddāna", "sn53.35-44:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this file instruct the reader to do, rather than rewriting the teaching on searches yet again?",
+         "opts": ["Tell it in full as in the chapter on searches at SN 45.161–170, this project's own already-completed vagga", "Skip this vagga entirely and move on to the next", "Consult an unrelated saṃyutta not yet translated by this project", "Compose an entirely new set of ten items"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed chapter."},
+        {"q": "How many discourses does this single merged file's own closing uddāna confirm it spans?",
+         "opts": ["Ten, matching SN 53.35 through SN 53.44", "Twelve, matching the previous vagga's own count", "Only one, this file covers just SN 53.35", "The uddāna does not specify an exact count"],
+         "correct": 0,
+         "expl": "Ten items — searches, discriminations, defilements, states of existence, three sufferings, barrenness, stains, troubles, feelings, craving, thirst."},
+        {"q": "How does the Esanāvagga's own list differ in character from the Balakaraṇīyavagga's own list, per this project's own observation?",
+         "opts": ["Abstract qualities and experiences, rather than the Balakaraṇīyavagga's own concrete similes like seeds, dragons, and ships", "It is identical in every respect, just renamed", "It lists only physical objects, more concrete than the Balakaraṇīyavagga's own list", "It contains no list at all, unlike the Balakaraṇīyavagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: a different flavor of list within the same recurring cycle."},
+    ],
+    marginalia=[
+        ("A cross-reference, not new content", [
+            "\"tell in full as in SN 45.161–170\" —",
+            "the same compression seen at SN 48, 49, and 50"
+        ]),
+        ("Ten items, named in the uddāna", [
+            "searches, discriminations, defilements —",
+            "the same count as the chapter it points to"
+        ]),
+        ("Abstractions, not objects", [
+            "no seeds or ships here —",
+            "searches, sufferings, cravings instead"
+        ]),
+        ("Fourth position, held steady", [
+            "after hard work, before floods —",
+            "the same slot, saṃyutta after saṃyutta"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn53.35-44/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-53.23-34.html\">SN 53.23&ndash;34 &middot; "
+        "Hard Work</a> &mdash; the previous page, closing Vagga 3.",
+        "<a href=\"sn-50.35-44.html\">SN 50.35&ndash;44 &middot; "
+        "Searches</a> &mdash; this project's own most recent prior "
+        "instance of this identical chapter.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 53.45-54 — Oghādisutta (merged peyyāla range)
+# Confirmed by direct reading of the root Pali colophon: closes both
+# Vagga 5 (Oghavaggo pañcamo) and the entire Jhānasaṁyutta itself
+# ("Jhānasaṁyuttaṁ navamaṁ" -- "the Absorption-Saṃyutta is the
+# ninth"), confirming this project's own expected structure of 54
+# discourses across 5 vaggas (12+10+12+10+10), and confirming SN53's
+# own position as the ninth saṃyutta of Book V, directly continuing
+# from SN52 (Anuruddhasaṁyuttaṁ aṭṭhamaṁ, the eighth) confirmed
+# complete by this project. Unlike SN 50.45-54's own mid-saṃyutta
+# instance of this identical higher-fetters discourse (which carried
+# no closing colophon at all, confirmed by direct comparison), this
+# file closes cleanly, matching SN 49.45-54's own pattern.
+# --------------------------------------------------------------------------- #
+page_range(
+    53, 45, 54, "Oghādi", "Floods, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 53.45–54 — Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 53.45–54 — the five higher fetters and the four jhānas "
+        "given in full, closing the entire Jhānasaṃyutta. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; matching this book's own "
+                     "recurring bare structure"),
+        ("Speakers", "The Buddha (implied)"),
+        ("Form", "One discourse given in full, closing both this "
+                 "vagga and the entire saṃyutta"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes the entire Jhānasaṁyutta "
+                         "(SN 53) at 54 discourses, confirmed by "
+                         "this file's own closing colophon as the "
+                         "ninth saṃyutta of Book V"),
+    ],
+    why=(
+        "This discourse closes not only Vagga 5 (Oghavagga) but the "
+        "entire Jhānasaṁyutta itself, confirmed by this file's own "
+        "final closing line: &ldquo;Jhānasaṁyuttaṁ navamaṁ&rdquo; "
+        "(&ldquo;the Absorption-Saṁyutta is the ninth&rdquo;) "
+        "&mdash; matching this project's own tracked structure of "
+        "five vaggas (12+10+12+10+10 = 54 discourses) exactly, and "
+        "confirming SN 53's own position directly after SN 52 "
+        "(Anuruddhasaṁyuttaṁ aṭṭhamaṁ, the eighth), already "
+        "confirmed complete by this project."
+    ),
+    guide=[
+        ("The final discourse, confirmed by its own closing words", [
+            "Confirmed by direct reading, this file's own closing "
+            "line states plainly that the Jhānasaṁyutta is &ldquo;"
+            "the ninth&rdquo; &mdash; a book-level closing marker, "
+            "ending this saṃyutta's own 54-discourse span (SN 53.1 "
+            "through SN 53.54) begun at this project's own earlier "
+            "work on SN 53.1-12.",
+        ]),
+        ("The five higher fetters and four jhānas, together", [
+            "Mirroring this discourse's own earlier instances at SN "
+            "48.115-124, SN 48.169-178, SN 49.45-54, and SN 50.45-54, "
+            "this discourse gives the five higher fetters (desire "
+            "for rebirth in the realm of luminous form, desire for "
+            "rebirth in the formless realm, conceit, restlessness, "
+            "ignorance) in full, now developed by the four jhānas "
+            "themselves &mdash; the very subject this entire "
+            "saṃyutta has explored, brought full circle to close it.",
+        ]),
+        ("A count that matches cleanly, unlike SN 50's own mid-saṃyutta instance", [
+            "This project's own explicit comparison: this file's own "
+            "vagga-level colophon, &ldquo;Oghavaggo pañcamo&rdquo; "
+            "(&ldquo;the Floods chapter, the fifth&rdquo;), together "
+            "with its own saṃyutta-closing line, confirms this is "
+            "the genuine end of SN 53 &mdash; unlike SN 50.45-54's "
+            "own structurally identical discourse, which this "
+            "project confirmed by directly listing bilara-data's own "
+            "directory to carry no closing colophon at all, since "
+            "five further vaggas followed it there.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the higher "
+             "fetters&rdquo; &mdash; identical to this discourse's "
+             "own four prior instances at SN 48.115-124, SN "
+             "48.169-178, SN 49.45-54, and SN 50.45-54"),
+        ("cattāro jhānā bhāvetabbā", "&ldquo;the four absorptions "
+             "should be developed&rdquo; &mdash; this saṃyutta's "
+             "own governing subject, closing its own final "
+             "discourse by returning to its own opening theme"),
+        ("Yathā maggasaṁyuttaṁ tathā vitthāretabbaṁ", "&ldquo;it "
+             "should be elaborated just as [in] the Path-"
+             "Saṁyutta&rdquo; &mdash; this file's own cross-"
+             "reference, naming SN 45 (Maggasaṁyutta) directly by "
+             "name rather than only by discourse range"),
+        ("Oghavaggo pañcamo", "&ldquo;the Floods chapter, the "
+             "fifth&rdquo; &mdash; this file's own vagga-level "
+             "colophon, matching this project's own count of five "
+             "vaggas exactly"),
+        ("Jhānasaṁyuttaṁ navamaṁ", "&ldquo;the Absorption-Saṁyutta "
+             "is the ninth&rdquo; &mdash; this file's own final "
+             "closing line, ending the entire saṃyutta at 54 "
+             "discourses and confirming its own position as Book "
+             "V's own ninth saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source: the full closing discourse on the "
+        "higher fetters and the four jhānas, the closing uddāna, and "
+        "the saṃyutta's own final closing line. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn53.45-54:1.1-1.5"),
+        ("p", "&sect;2", "sn53.45-54:1.6-1.11"),
+        ("p", "Cross-reference", "sn53.45-54:1.12"),
+        ("p", "Uddāna", "sn53.45-54:2.1-2.4"),
+        ("p", "Closing", "sn53.45-54:2.5"),
+    ],
+    quiz=[
+        {"q": "What does this file's own final closing line confirm?",
+         "opts": ["That the entire Jhānasaṁyutta (SN 53) ends here, at 54 discourses, marked as \"the ninth\"", "That only this single vagga ends here, with the saṃyutta continuing", "That a new saṃyutta begins immediately after this discourse", "That this discourse is unrelated to any larger structural unit"],
+         "correct": 0,
+         "expl": "\"Jhānasaṁyuttaṁ navamaṁ\" — a book-level closing marker, ending the saṃyutta."},
+        {"q": "What subject does this closing discourse develop the five higher fetters by, bringing the saṃyutta full circle?",
+         "opts": ["The four jhānas themselves — the very subject this entire saṃyutta has explored", "The four right efforts, as at SN 49.45-54", "The five powers, as at SN 50.45-54", "An entirely new, previously unmentioned practice"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this saṃyutta's own governing subject closes its own final discourse."},
+        {"q": "How does this file's own closing colophon compare to SN 50.45-54's own structurally identical discourse?",
+         "opts": ["This file genuinely closes its saṃyutta with a colophon and closing line, unlike SN 50.45-54, which this project confirmed (by directly listing the bilara-data directory) to carry no closing colophon since five further vaggas followed it", "Both discourses close their respective saṃyuttas identically", "SN 50.45-54 closes its saṃyutta, while this file does not", "Neither discourse carries any colophon at all"],
+         "correct": 0,
+         "expl": "This project's own explicit comparison, confirmed by direct reading rather than assumed uniform."},
+    ],
+    marginalia=[
+        ("The saṃyutta's own final word", [
+            "Jhānasaṁyuttaṁ navamaṁ, stated plainly —",
+            "54 discourses, now complete"
+        ]),
+        ("The same fetters, closing a third saṃyutta this book", [
+            "form-realm, formless-realm, conceit, restlessness, ignorance —",
+            "now developed by the four jhānas themselves"
+        ]),
+        ("Full circle, subject meeting close", [
+            "the saṃyutta opened on absorption —",
+            "and closes developing absorption too"
+        ]),
+        ("Ninth of Book V, cleanly counted", [
+            "Anuruddha's own saṃyutta the eighth —",
+            "absorption's own saṃyutta the ninth, confirmed directly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn53.45-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-53.35-44.html\">SN 53.35&ndash;44 &middot; "
+        "Searches</a> &mdash; the previous page, closing Vagga 4.",
+        "<a href=\"sn-50.45-54.html\">SN 50.45&ndash;54 &middot; "
+        "Floods, Etc.</a> &mdash; this project's own structurally "
+        "identical discourse, there NOT closing its own saṃyutta.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Jhānasaṁyutta is now complete; the next saṃyutta in "
+        "this book is still in preparation.",
+    ],
+)
