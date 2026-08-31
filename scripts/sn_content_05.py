@@ -48774,3 +48774,144 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.9 — Ñāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, 9, "Ñāṇa", "Knowledge",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.9 — Knowledge | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ñāṇasutta — the Buddha's own first-person account of "
+        "his own unprecedented realization of the four bases of "
+        "psychic power. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; this discourse's own bare, "
+                     "first-person statement"),
+        ("Speakers", "The Buddha, speaking in his own first-person "
+                     "voice"),
+        ("Form", "A threefold realization (identify, should be "
+                 "developed, has been developed) for each of the "
+                 "four bases"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&#9734; "
+                         "&mdash; applies the classic first-sermon "
+                         "formula (vision, knowledge, wisdom, "
+                         "realization, light) to the four bases, "
+                         "twelve aspects total"),
+    ],
+    why=(
+        "This discourse applies, to each of the four bases of "
+        "psychic power individually, the identical fivefold "
+        "epistemic formula and threefold structure this project has "
+        "met describing the Buddha's own unprecedented realization "
+        "of the four noble truths in his own first sermon &mdash; "
+        "here yielding twelve total aspects (four bases &times; "
+        "three phases) of self-discovered insight."
+    ),
+    guide=[
+        ("A threefold realization, for each of the four bases", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure repeats an identical three-step pattern for "
+            "each basis: first identifying it (&ldquo;this is the "
+            "basis of psychic power...&rdquo;), then recognizing it "
+            "&ldquo;should be developed,&rdquo; and finally "
+            "confirming it &ldquo;has been developed&rdquo; &mdash; "
+            "each step marked by the identical fivefold arising of "
+            "vision, knowledge, wisdom, realization, and light.",
+        ]),
+        ("Pubbe ananussutesu dhammesu: unprecedented insight", [
+            "As general canonical background, confirmed by this "
+            "discourse's own bare text: &ldquo;regarding teachings "
+            "not learned before from another&rdquo; is the same "
+            "phrase this project has met describing the Buddha's own "
+            "unprecedented, self-discovered realization of the four "
+            "noble truths at his own first sermon &mdash; here "
+            "applied instead to the four bases of psychic power.",
+        ]),
+        ("Twelve aspects, echoing a famous structure", [
+            "This project's own observation, drawn from direct "
+            "comparison rather than asserted from memory alone: four "
+            "bases, each realized in three phases, totals twelve "
+            "aspects of insight &mdash; the same total this project "
+            "has met describing the Buddha's own realization of the "
+            "four noble truths across their own traditional "
+            "&ldquo;three turnings.&rdquo;",
+        ]),
+    ],
+    terms=[
+        ("pubbe ananussutesu dhammesu", "&ldquo;regarding teachings "
+             "not learned before from another&rdquo; &mdash; marking "
+             "unprecedented, self-discovered insight, the same "
+             "phrase met describing the four noble truths"),
+        ("cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā "
+         "udapādi, āloko udapādi", "&ldquo;vision, knowledge, "
+             "wisdom, realization, and light arose&rdquo; &mdash; "
+             "the classic fivefold epistemic formula, repeated for "
+             "each phase of each basis"),
+        ("bhāvetabbo...bhāvito", "&ldquo;should be developed... has "
+             "been developed&rdquo; &mdash; the second and third "
+             "phases of this discourse's own threefold realization "
+             "structure"),
+        ("cattāro iddhipādā", "&ldquo;the four bases of psychic "
+             "power&rdquo; &mdash; restated identically to this "
+             "vagga's own prior discourses"),
+        ("Navamaṁ", "&ldquo;the ninth&rdquo; &mdash; the closing "
+             "colophon marker, confirming this as the vagga's ninth "
+             "discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.9:1.1-1.3"),
+        ("p", "&sect;2", "sn51.9:2.1-2.3"),
+        ("p", "&sect;3", "sn51.9:3.1-3.3"),
+        ("p", "&sect;4", "sn51.9:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What threefold structure does this discourse repeat for each of the four bases?",
+         "opts": ["Identifying the basis, recognizing it should be developed, and confirming it has been developed", "Comparing it to the eightfold path, the five faculties, and the seven awakening factors", "Naming it, forgetting it, and rediscovering it", "Teaching it to a disciple, testing the disciple, and confirming the disciple's own realization"],
+         "correct": 0,
+         "expl": "Each of the three phases marked by the identical fivefold epistemic formula."},
+        {"q": "What does \"pubbe ananussutesu dhammesu\" signal, as general canonical background?",
+         "opts": ["Unprecedented, self-discovered insight, the same phrase met describing the Buddha's own realization of the four noble truths", "That the teaching was learned from a previous teacher", "That the teaching is false or unreliable", "That this discourse contradicts the Buddha's own first sermon"],
+         "correct": 0,
+         "expl": "Marking this as the Buddha's own unprecedented discovery, not received wisdom."},
+        {"q": "What total does this project note across the four bases and three phases?",
+         "opts": ["Twelve aspects of insight, the same total met describing the four noble truths across their own three turnings", "Only four aspects, one per basis", "Twenty aspects, five per basis", "A number this project has not confirmed"],
+         "correct": 0,
+         "expl": "Four bases times three phases, echoing a structure already met describing the four truths."},
+    ],
+    marginalia=[
+        ("A formula borrowed from the first sermon", [
+            "vision, knowledge, wisdom, realization, light —",
+            "the same words, a different subject"
+        ]),
+        ("Three steps, four times over", [
+            "identify, develop, confirm developed —",
+            "repeated for each of the four bases"
+        ]),
+        ("Not learned from another", [
+            "pubbe ananussutesu dhammesu —",
+            "the Buddha's own unprecedented discovery"
+        ]),
+        ("Ninth discourse, Navamaṁ", [
+            "twelve aspects in one brief page —",
+            "the vagga's own opening sequence nears its end"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.8.html\">SN 51.8 &middot; Awakened</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
