@@ -51190,3 +51190,140 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.25 — Paṭhamaphalasutta ("Fruits, 1st")
+# Confirmed by direct reading: introduces the two-result formula
+# (full enlightenment in this very life, or non-return if residue
+# remains) already familiar from other saṃyuttas in this book. The
+# "1st" in its own title, as with SN 51.16, promises a companion
+# discourse still to come.
+# --------------------------------------------------------------------------- #
+page(
+    51, 25, "Paṭhamaphala", "Fruits (1st)",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.25 — Fruits (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaphalasutta &mdash; developing the four bases "
+        "yields one of two results: enlightenment in this very life, "
+        "or non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A bare list followed by the two-result formula"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; introduces "
+                         "the two-result formula already familiar "
+                         "from other saṃyuttas in this book, and its "
+                         "own title promises a companion discourse"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names a "
+        "specific pair of results for developing the four bases: "
+        "&ldquo;enlightenment in this very life, or if there's "
+        "residue left behind, non-return&rdquo; &mdash; this "
+        "project's own cross-reference recognizes this exact formula "
+        "from other saṃyuttas in this book, here applied for the "
+        "first time to the four bases specifically."
+    ),
+    guide=[
+        ("A familiar formula, newly applied", [
+            "This project's own cross-reference: the &ldquo;two "
+            "results&rdquo; formula &mdash; arahantship or, "
+            "failing that, non-return (anāgāmitā, meaning no further "
+            "rebirth in the sensual realm) &mdash; is the same "
+            "formula this project has already translated for other "
+            "qualities in this book; this is its first confirmed "
+            "appearance applied specifically to the four bases of "
+            "psychic power.",
+        ]),
+        ("A named exception: \"if there's residue left behind\"", [
+            "Confirmed by direct reading, the discourse's own "
+            "wording is precise about the lesser of the two "
+            "outcomes: non-return applies specifically &ldquo;if "
+            "there's residue left behind&rdquo; &mdash; some trace "
+            "of defilement not yet fully eliminated, distinguishing "
+            "it from the complete ending named as the first, higher "
+            "result.",
+        ]),
+        ("A title that promises a second discourse", [
+            "This project's own observation: as with SN 51.16-17, "
+            "this discourse's own root Pāli title marks it "
+            "explicitly as &ldquo;first&rdquo; (paṭhama), and this "
+            "project does not yet assume what distinguishes its own "
+            "promised companion until that discourse is directly "
+            "read.",
+        ]),
+    ],
+    terms=[
+        ("dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ", "&ldquo;"
+             "one of two results can be expected&rdquo; &mdash; the "
+             "discourse's own precise framing, not a certainty but "
+             "an expectation"),
+        ("diṭṭheva dhamme aññā", "&ldquo;enlightenment in this very "
+             "life&rdquo; &mdash; the first and higher of the two "
+             "named results, arahantship itself"),
+        ("sati vā upādisese anāgāmitā", "&ldquo;if there's residue "
+             "left behind, non-return&rdquo; &mdash; the second "
+             "result, reached when some trace of defilement remains "
+             "unfinished"),
+        ("anāgāmitā", "&ldquo;non-return&rdquo; &mdash; the state "
+             "of never again being reborn into the sensual realm, "
+             "though short of full arahantship"),
+        ("paṭhama", "&ldquo;first&rdquo; &mdash; the discourse's own "
+             "root Pāli title, marking it as one of a pair, as with "
+             "SN 51.16-17"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.25:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What two results does this discourse say can be expected from developing the four bases?",
+         "opts": ["Enlightenment in this very life, or if there's residue left behind, non-return", "Rebirth as a deity, or rebirth as a human being", "Wealth in this life, or a favorable rebirth in the next", "Psychic power, or freedom from physical illness"],
+         "correct": 0,
+         "expl": "\"One of two results can be expected: enlightenment in this very life, or if there's residue left behind, non-return.\""},
+        {"q": "What does this project's own cross-reference identify about this formula?",
+         "opts": ["It is the same two-result formula already translated for other qualities elsewhere in this book, here applied to the four bases for the first time", "It is a formula found only in this discourse and nowhere else in the canon", "It contradicts the arahantship-only outcome named in SN 51.18 and SN 51.23", "It applies exclusively to lay followers, not mendicants"],
+         "correct": 0,
+         "expl": "A familiar formula from elsewhere in this book, confirmed here for the first time applied specifically to the four bases."},
+        {"q": "What does this discourse's own title suggest, following the same pattern as SN 51.16-17?",
+         "opts": ["It is explicitly marked \"first\" (paṭhama), promising a companion discourse this project does not yet assume the content of", "It is the very first discourse of this entire saṃyutta", "It replaces an earlier, now-lost version of the same teaching", "It was composed specifically as an introduction for new mendicants"],
+         "correct": 0,
+         "expl": "Paṭhamaphalasutta — \"the first Fruits discourse,\" following the same paired-title pattern as SN 51.16-17."},
+    ],
+    marginalia=[
+        ("A formula recognized from elsewhere", [
+            "not new to this discourse, but new to this basis —",
+            "the same two results, differently earned"
+        ]),
+        ("A precise exception named", [
+            "not just \"less than arahantship\" —",
+            "\"if there's residue left behind,\" specifically"
+        ]),
+        ("Another promised pair", [
+            "\"first,\" the title says again —",
+            "a second Fruits discourse still to come"
+        ]),
+        ("Expectation, not guarantee", [
+            "\"can be expected,\" the text says carefully —",
+            "not an automatic certainty"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.25/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.24.html\">SN 51.24 &middot; Plain "
+        "Version</a> &mdash; the previous discourse, giving the same "
+        "bare list with no outcome named at all.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
