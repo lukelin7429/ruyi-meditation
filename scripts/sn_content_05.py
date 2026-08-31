@@ -56203,3 +56203,135 @@ page(
         "recollection's own fuller account.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.23 — Dibbacakkhusutta ("Clairvoyance")
+# Confirmed by direct reading: the ninth of the ten Tathāgata
+# powers and, per this project's own confirmed convergence at SN
+# 52.22, simultaneously the fifth of the classic sixfold higher
+# knowledges -- knowledge of how sentient beings pass on according
+# to their deeds.
+# --------------------------------------------------------------------------- #
+page(
+    52, 23, "Dibbacakkhu", "Clairvoyance",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.23 — Clairvoyance | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dibbacakkhusutta &mdash; Anuruddha attributes "
+        "clairvoyance to the four kinds of mindfulness meditation. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, continuing this vagga's "
+                 "own confirmed sequence"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the ninth of "
+                         "the ten Tathāgata powers, and simultaneously "
+                         "the fifth of the sixfold higher knowledges, "
+                         "per this project's own confirmed "
+                         "convergence at SN 52.22"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own claim "
+        "&mdash; understanding, &ldquo;with clairvoyance that is "
+        "purified and superhuman,&rdquo; how sentient beings pass "
+        "on according to their deeds &mdash; is the ninth of the ten "
+        "Tathāgata powers, and, per this project's own confirmed "
+        "convergence at SN 52.22, simultaneously the fifth of the "
+        "classic sixfold higher knowledges already given in full at "
+        "SN 51.11."
+    ),
+    guide=[
+        ("The identical description already met at SN 51.11", [
+            "Confirmed by direct reading, this discourse's own "
+            "phrasing matches SN 51.11's own account of clairvoyance "
+            "exactly: seeing beings pass away and be reborn "
+            "&ldquo;according to their deeds&rdquo; &mdash; inferior "
+            "and superior, in good places and bad, based on their "
+            "own conduct of body, speech, and mind.",
+        ]),
+        ("The penultimate item in this vagga's own converged list", [
+            "This project's own confirmation: with only one "
+            "discourse remaining in this vagga, this is the "
+            "second-to-last item in the converged sequence first "
+            "identified at SN 52.22 &mdash; the ending of "
+            "defilements, the classic culmination of both "
+            "traditional lists, still to come.",
+        ]),
+    ],
+    terms=[
+        ("dibbena cakkhunā visuddhena atikkantamānusakena satte "
+             "passāmi cavamāne upapajjamāne", "&ldquo;with "
+             "clairvoyance that is purified and superhuman, I see "
+             "sentient beings passing away and being reborn&rdquo; "
+             "&mdash; the same phrase already met in full at SN "
+             "51.11"),
+        ("yathākammūpage", "&ldquo;according to their deeds&rdquo; "
+             "&mdash; the discourse's own specific qualifier, tying "
+             "clairvoyance directly to the workings of karma"),
+        ("dibbacakkhu", "&ldquo;clairvoyance,&rdquo; literally "
+             "&ldquo;the divine eye&rdquo; &mdash; this discourse's "
+             "own title and central term"),
+        ("hīna paṇīta", "&ldquo;inferior and superior&rdquo; &mdash; "
+             "part of the fuller description at SN 51.11 this "
+             "discourse's own compressed phrase assumes"),
+        ("catunnaṁ satipaṭṭhānānaṁ bhāvitattā", "&ldquo;because of "
+             "developing and cultivating these four kinds of "
+             "mindfulness meditation&rdquo; &mdash; the cause named "
+             "for this knowledge here, as throughout this vagga"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.23:1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse's own claim occupy in the two converged lists this project has tracked?",
+         "opts": ["The ninth of the ten Tathāgata powers and simultaneously the fifth of the sixfold higher knowledges", "Only the ninth Tathāgata power, with no connection to the sixfold list", "The final item in both traditional lists", "An item found in neither traditional list"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, continuing the convergence this project first confirmed at SN 52.22."},
+        {"q": "How does this discourse's own phrasing compare to SN 51.11's own account of clairvoyance?",
+         "opts": ["It matches exactly — seeing beings pass away and be reborn according to their deeds, purified and superhuman", "It gives an entirely different, expanded description not found at SN 51.11", "It denies that clairvoyance can perceive karmic causation", "It limits this knowledge to only human beings, unlike SN 51.11's own broader claim"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the same compressed reference to the fuller account already translated."},
+        {"q": "What remains after this discourse in this vagga's own sequence, according to this project's own tracking?",
+         "opts": ["One final discourse: the ending of defilements, the classic culmination of both traditional lists", "Three further discourses covering entirely new material", "Nothing — this discourse closes the vagga", "A return to the beginning of the ten Tathāgata powers list"],
+         "correct": 0,
+         "expl": "This project's own confirmed count: only the final, culminating item remains."},
+    ],
+    marginalia=[
+        ("The ninth power, the fifth knowledge, one claim", [
+            "two traditional counts, converging again —",
+            "clairvoyance, seen from both lists at once"
+        ]),
+        ("A description already given in full", [
+            "purified, superhuman, according to deeds —",
+            "the same words as SN 51.11"
+        ]),
+        ("One discourse left", [
+            "the vagga nears its own close —",
+            "only the ending of defilements remains"
+        ]),
+        ("Seeing beings as their deeds carry them", [
+            "not chance, not randomness —",
+            "karma made visible, directly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.22.html\">SN 52.22 &middot; Past Lives</a> "
+        "&mdash; the previous discourse, the eighth of the ten "
+        "Tathāgata powers.",
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; this project's own full translation of "
+        "clairvoyance's own fuller account.",
+    ],
+)
