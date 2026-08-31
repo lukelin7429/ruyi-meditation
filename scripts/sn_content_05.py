@@ -52641,3 +52641,144 @@ page_range(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# 6. Balakaraṇīyavagga — Hard Work (SN 51.55-66)
+# Confirmed by direct bilara-data reading: this entire twelve-
+# discourse vagga is a single merged file carrying no independent
+# content -- the explicit cross-reference "(Tell in full as in the
+# chapter on hard work at SN 45.149-160)"; Pāli root
+# "(Balakaraṇīyavaggo vitthāretabbo.)" Confirmed by its own closing
+# uddāna's own twelve items (hard work, seeds, dragons, a tree, a
+# pot, a spike, the atmosphere, two on clouds, a ship, a guest house,
+# a river) to match this project's own already-completed SN
+# 45.149-160 exactly.
+# --------------------------------------------------------------------------- #
+page_range(
+    51, 55, 66, "Balakaraṇīya", "Hard Work",
+    vagga="Balakaraṇīyavagga",
+    meta_title="SN 51.55–66 — Hard Work | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 51.55–66 — twelve discourses on hard work, cross-"
+        "referenced directly to this project's own already-completed "
+        "chapter at SN 45.149–160. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Twelve discourses compressed into a single "
+                 "bilara-data file, carrying no independent content "
+                 "beyond an explicit cross-reference"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, structurally confirmed to "
+                         "represent twelve discourses reusing "
+                         "already-translated content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file carries no "
+        "independent content of its own: it instructs the reader to "
+        "&ldquo;tell in full as in the chapter on hard work at SN "
+        "45.149&ndash;160&rdquo; &mdash; this project's own already-"
+        "completed vagga from the Maggasaṃyutta &mdash; rather than "
+        "repeating its own twelve similes a second time in this book."
+    ),
+    guide=[
+        ("A direct cross-reference, matching this project's own established pattern", [
+            "This project's own comparison: as with SN 51.45-54's "
+            "own Appamādavagga, this vagga simply points back to an "
+            "already-translated chapter (here, SN 45.149-160) rather "
+            "than rewriting its own similes &mdash; the same "
+            "compression pattern, now applied to the &ldquo;hard "
+            "work&rdquo; (balakaraṇīya) chapter rather than "
+            "diligence.",
+        ]),
+        ("Twelve similes, confirmed by the closing uddāna", [
+            "Confirmed by direct reading of this file's own closing "
+            "uddāna (&ldquo;hard work, seeds, and dragons, a tree, a "
+            "pot, and a spike, the atmosphere, and two on clouds, a "
+            "ship, a guest house, and a river&rdquo;), this single "
+            "file's own twelve listed items confirm it spans exactly "
+            "twelve discourses, SN 51.55 through SN 51.66.",
+        ]),
+        ("Matching this project's own count for the original chapter", [
+            "This project's own cross-reference: twelve similes here "
+            "matches this project's own already-completed SN "
+            "45.149-160, which likewise spanned twelve discourses "
+            "under the same &ldquo;hard work&rdquo; theme &mdash; a "
+            "clean numerical match confirming no similes were added "
+            "or dropped in this saṃyutta's own reuse of the chapter.",
+        ]),
+    ],
+    terms=[
+        ("Balakaraṇīyavaggo vitthāretabbo", "&ldquo;the Hard-Work "
+             "chapter is to be elaborated in full&rdquo; &mdash; "
+             "this file's own entire root Pāli content, a bare "
+             "cross-reference instruction"),
+        ("balakaraṇīya", "&ldquo;hard work&rdquo; &mdash; this "
+             "vagga's own governing theme, shared with this "
+             "project's own already-completed SN 45.149-160"),
+        ("bījañca nāgo ca", "&ldquo;seeds, and dragons&rdquo; "
+             "&mdash; the uddāna's own second and third similes"),
+        ("ākāsena ca dve meghā", "&ldquo;the atmosphere, and two on "
+             "clouds&rdquo; &mdash; the uddāna's own middle group, "
+             "naming three related sky-similes"),
+        ("nāvā āgantukā nadī", "&ldquo;a ship, a guest house, and a "
+             "river&rdquo; &mdash; the uddāna's own closing three "
+             "similes, confirming twelve items total"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.55-66:1.1"),
+        ("p", "Uddāna", "sn51.55-66:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this file instruct the reader to do, rather than rewriting the hard-work teaching a second time?",
+         "opts": ["Tell it in full as in the chapter on hard work at SN 45.149–160, this project's own already-completed vagga", "Skip this vagga entirely and move on to the next", "Consult an unrelated saṃyutta not yet translated by this project", "Compose an entirely new set of twelve similes"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed chapter."},
+        {"q": "How many discourses does this single merged file's own closing uddāna confirm it spans?",
+         "opts": ["Twelve, matching SN 51.55 through SN 51.66", "Ten, matching the previous vagga's own count", "Only one, this file covers just SN 51.55", "The uddāna does not specify an exact count"],
+         "correct": 0,
+         "expl": "Twelve similes — hard work, seeds, dragons, a tree, a pot, a spike, the atmosphere, two clouds, a ship, a guest house, a river."},
+        {"q": "What does this project's own cross-reference confirm about the numerical match to SN 45.149-160?",
+         "opts": ["Twelve similes here matches this project's own already-completed SN 45.149-160, confirming no similes were added or dropped", "This vagga has two more similes than SN 45.149-160 had", "SN 45.149-160 actually covered a different topic entirely", "The two chapters cannot be meaningfully compared"],
+         "correct": 0,
+         "expl": "A clean numerical match, confirmed by this project's own direct comparison."},
+    ],
+    marginalia=[
+        ("A cross-reference, not new content", [
+            "\"tell in full as in SN 45.149–160\" —",
+            "the same compression already seen at Vagga 5"
+        ]),
+        ("Twelve similes, named in the uddāna", [
+            "seeds, dragons, a tree, a pot, a spike —",
+            "the same count as the chapter it points to"
+        ]),
+        ("A pattern holding steady", [
+            "each new vagga in this book reuses what came before —",
+            "brevity earned by prior translation"
+        ]),
+        ("Nothing lost in the reuse", [
+            "twelve similes here, twelve there —",
+            "confirmed to match exactly, not approximately"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.55-66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.45-54.html\">SN 51.45&ndash;54 &middot; "
+        "Diligence</a> &mdash; the previous discourse, closing "
+        "Vagga 5.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
