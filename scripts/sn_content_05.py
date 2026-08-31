@@ -50946,3 +50946,125 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.23 — Bhikkhusutta ("A Mendicant")
+# Confirmed by direct reading: shares its own title with SN 51.18
+# and its own content is nearly identical — the four bases named,
+# then arahantship alone as the outcome, without the sixfold list.
+# --------------------------------------------------------------------------- #
+page(
+    51, 23, "Bhikkhu", "A Mendicant",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.23 — A Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this Bhikkhusutta &mdash; a bare statement of the four "
+        "bases, closely echoing SN 51.18 from the previous vagga. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, tightly focused statement"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; confirmed by this "
+                         "project's own comparison to closely echo "
+                         "SN 51.18, sharing its own title"),
+    ],
+    why=(
+        "This project's own comparison: this discourse shares its "
+        "own root Pāli title, &ldquo;Bhikkhusutta,&rdquo; with SN "
+        "51.18 from the previous vagga, and its own content is "
+        "nearly identical &mdash; the four bases named plainly, with "
+        "arahantship alone as the stated outcome."
+    ),
+    guide=[
+        ("The same title, a near-identical statement", [
+            "Confirmed by direct reading, this discourse's own "
+            "structure mirrors SN 51.18 closely: the four bases are "
+            "simply listed (enthusiasm, energy, mental development, "
+            "inquiry, each with active effort), then their "
+            "development is said to lead directly to &ldquo;the "
+            "undefiled freedom of heart and freedom by wisdom... "
+            "through the ending of defilements&rdquo; &mdash; "
+            "omitting the sixfold list of results entirely, as SN "
+            "51.18 also did.",
+        ]),
+        ("A recurring shape across vaggas", [
+            "This project's own observation: this saṃyutta's own "
+            "practice of returning to the same bare formula across "
+            "different vaggas, sometimes under the very same title, "
+            "continues here &mdash; this discourse functions as "
+            "Vagga 3's own counterpart to Vagga 2's own SN 51.18.",
+        ]),
+    ],
+    terms=[
+        ("bhikkhu", "&ldquo;a mendicant&rdquo; &mdash; the "
+             "discourse's own root Pāli title, shared word-for-word "
+             "with SN 51.18"),
+        ("cattāro iddhipādā", "&ldquo;these four bases of psychic "
+             "power&rdquo; &mdash; the discourse's own bare opening "
+             "statement"),
+        ("padhānasaṅkhārasamannāgataṁ", "&ldquo;and active "
+             "effort&rdquo; &mdash; the same technical term defined "
+             "in full at SN 51.13, here used without re-explanation"),
+        ("āsavānaṁ khayā", "&ldquo;through the ending of "
+             "defilements&rdquo; &mdash; the discourse's own sole "
+             "named outcome, as at SN 51.18"),
+        ("diṭṭheva dhamme sayaṁ abhiññā sacchikatvā", "&ldquo;in "
+             "this very life... having realized it with their own "
+             "insight&rdquo; &mdash; the same emphasis on direct, "
+             "present-life realization met throughout this saṃyutta"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.23:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does this project's own comparison find about this discourse?",
+         "opts": ["It shares its own title and near-identical content with SN 51.18 from the previous vagga", "It is entirely unique among the discourses of this saṃyutta", "It contradicts SN 51.18's own account of the four bases", "It is the longest discourse in Vagga 3"],
+         "correct": 0,
+         "expl": "Same root title (\"Bhikkhusutta\"), same bare structure, same sole outcome named."},
+        {"q": "What outcome does this discourse name for developing the four bases?",
+         "opts": ["The undefiled freedom of heart and freedom by wisdom, through the ending of defilements — arahantship alone", "The full sixfold list of supernormal powers, given in complete detail", "Rebirth in the Brahmā realm specifically", "No outcome is named — the discourse ends with the bare list of four bases only"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: only arahantship, omitting the sixfold list, exactly as SN 51.18 also did."},
+        {"q": "What does this discourse illustrate about this saṃyutta's own structure, according to this project's own observation?",
+         "opts": ["The same bare formula recurs across different vaggas, sometimes under the very same title", "Each vagga uses a completely distinct set of formulas never repeated elsewhere", "Only Vagga 1 uses short, formulaic discourses; later vaggas are always longer", "Titles are never repeated anywhere in this saṃyutta"],
+         "correct": 0,
+         "expl": "This discourse functions as Vagga 3's own counterpart to Vagga 2's own SN 51.18."},
+    ],
+    marginalia=[
+        ("A familiar title returns", [
+            "\"a mendicant\" — the same words as SN 51.18 —",
+            "in a different vagga, almost the same discourse"
+        ]),
+        ("Four named, one kept", [
+            "enthusiasm, energy, mind, inquiry —",
+            "and only the ending of defilements as the fruit"
+        ]),
+        ("A shape that repeats itself", [
+            "not the first bare formula in this saṃyutta —",
+            "and not likely the last"
+        ]),
+        ("Brief, but not skippable", [
+            "no new content, yet still its own numbered discourse —",
+            "the canon repeats what it wants remembered"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.23/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.18.html\">SN 51.18 &middot; A Mendicant "
+        "(Vagga 2)</a> &mdash; the near-identical earlier discourse "
+        "this one closely echoes.",
+        "<a href=\"sn-51.22.html\">SN 51.22 &middot; The Iron "
+        "Ball</a> &mdash; the previous discourse, this vagga's own "
+        "namesake.",
+    ],
+)
