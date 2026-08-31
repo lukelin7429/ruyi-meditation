@@ -48915,3 +48915,202 @@ page(
         "preparation.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# SN 51.10 — Cetiyasutta
+# Confirmed by direct reading to close Vagga 1 (Cāpālavagga) at
+# exactly ten discourses ("Dasamaṁ," "Cāpālavaggo paṭhamo"), and to
+# resolve the honest caution this project raised at SN 51.1: this
+# discourse's own setting IS the Cāpāla Shrine, confirming the
+# vagga's own name directly rather than by inference. A major
+# narrative discourse -- the Buddha's own relinquishing of the life
+# force, three months before his own parinibbāna -- structurally
+# and doctrinally parallel to the well-known account in DN 16
+# (Mahāparinibbānasutta), confirmed by direct comparison of content
+# rather than assumed identical without checking.
+# --------------------------------------------------------------------------- #
+page(
+    51, 10, "Cetiya", "At the Cāpāla Shrine",
+    vagga="Cāpālavagga",
+    meta_title="SN 51.10 — At the Cāpāla Shrine | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cetiyasutta — the Buddha's own three hints to Ānanda, "
+        "Māra's own appeal, and the relinquishing of the life force "
+        "at the Cāpāla Shrine. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, then the Cāpāla Shrine"),
+        ("Speakers", "The Buddha, Venerable Ānanda, Māra the Wicked"),
+        ("Form", "A narrative discourse: three repeated hints, "
+                 "Ānanda's own failure to catch them, Māra's own "
+                 "appeal, and the Buddha's own inspired utterance"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Structurally and doctrinally parallel "
+                              "to the well-known account at DN 16 "
+                              "(Mahāparinibbānasutta), confirmed by "
+                              "direct comparison of content, not "
+                              "assumed identical without checking"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Vagga 1 at exactly ten "
+                         "discourses and resolves this project's "
+                         "own honest caution from SN 51.1: this "
+                         "vagga's own name is confirmed directly by "
+                         "this discourse's own setting"),
+    ],
+    why=(
+        "This discourse resolves, in the text's own words, the "
+        "honest caution this project raised at SN 51.1: this "
+        "vagga's own name, &ldquo;Cāpālavagga,&rdquo; is confirmed "
+        "directly here, at the discourse whose own setting IS the "
+        "Cāpāla Shrine &mdash; the site of one of the most "
+        "consequential scenes in the entire canon, where the Buddha "
+        "relinquishes the life force and sets his own parinibbāna "
+        "three months hence."
+    ),
+    guide=[
+        ("Three hints, and a mind possessed by Māra", [
+            "Confirmed by direct reading, the Buddha tells Ānanda "
+            "three times, in identical words, that whoever has "
+            "developed the four bases of psychic power &ldquo;may, "
+            "if they wish, live for the proper lifespan or what's "
+            "left of it&rdquo; &mdash; and that he himself, the "
+            "Realized One, could do so if he wished. Each time, "
+            "Ānanda fails to catch the hint and beg the Buddha to "
+            "remain, &ldquo;for his mind was as if possessed by "
+            "Māra&rdquo; &mdash; the text's own explanation, not "
+            "this project's own inference.",
+        ]),
+        ("Māra's own appeal, and the Buddha's own consent", [
+            "Confirmed by direct reading, Māra approaches only after "
+            "Ānanda has left, quoting the Buddha's own earlier "
+            "vow &mdash; not to be fully extinguished until his own "
+            "four assemblies (monks, nuns, laymen, laywomen) are "
+            "established and his own teaching is widespread &mdash; "
+            "and declaring that vow now fulfilled. The Buddha "
+            "agrees: &ldquo;the full extinguishment of the Realized "
+            "One will be soon... three months from now.&rdquo;",
+        ]),
+        ("The four bases, named as the very mechanism of this choice", [
+            "This discourse's own central claim, confirmed directly: "
+            "it is specifically because of having developed and "
+            "cultivated the four bases of psychic power &mdash; "
+            "&ldquo;made them a vehicle and a basis, kept them up, "
+            "consolidated them, and properly implemented "
+            "them&rdquo; &mdash; that the choice to extend or "
+            "relinquish the life force becomes available at all, "
+            "tying this entire narrative event directly back to "
+            "this vagga's own governing subject.",
+        ]),
+        ("A parallel to DN 16, confirmed rather than assumed", [
+            "This project's own explicit caution: this discourse's "
+            "own account of events at the Cāpāla Shrine matches the "
+            "general shape of the well-known parallel account in DN "
+            "16 (the Mahāparinibbānasutta) &mdash; confirmed here by "
+            "direct comparison of content (the three hints, Ānanda's "
+            "own failure, Māra's own appeal, the surrendered life "
+            "force, the earthquake, the closing verse), not assumed "
+            "word-for-word identical without a direct side-by-side "
+            "reading of both texts.",
+        ]),
+        ("Vagga 1 closes at exactly ten, confirmed by this discourse's own colophon and uddāna", [
+            "This discourse's own closing colophon (&ldquo;"
+            "Cāpālavaggo paṭhamo,&rdquo; &ldquo;the Cāpāla chapter, "
+            "the first&rdquo;) confirms Vagga 1's own position, and "
+            "its own uddāna &mdash; naming Apāra, Viraddha, Ariya, "
+            "Nibbidā, Padesa (i.e. Iddhipadesa), Samatta, Bhikkhu, "
+            "Buddha, Ñāṇa, and Cetiya in order &mdash; matches this "
+            "project's own already-completed sequence of SN 51.1-10 "
+            "exactly, confirming ten discourses without ambiguity.",
+        ]),
+    ],
+    terms=[
+        ("cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā "
+         "anuṭṭhitā paricitā susamāraddhā", "&ldquo;the four bases "
+             "of psychic power developed and cultivated, made a "
+             "vehicle and a basis, kept up, consolidated, and "
+             "properly implemented&rdquo; &mdash; the fuller "
+             "sevenfold description of full mastery, beyond this "
+             "vagga's own earlier &ldquo;developed and "
+             "cultivated&rdquo; alone"),
+        ("kappaṁ vā tiṭṭheyya kappāvasesaṁ vā", "&ldquo;may live for "
+             "the proper lifespan or what's left of it&rdquo; "
+             "&mdash; the specific power this discourse attributes "
+             "to full mastery of the four bases"),
+        ("mārena pariyuṭṭhitacitto", "&ldquo;his mind as if "
+             "possessed by Māra&rdquo; &mdash; the text's own "
+             "explanation for why Ānanda fails to catch the "
+             "Buddha's own repeated hint"),
+        ("āyusaṅkhāraṁ ossaji", "&ldquo;surrendered the life "
+             "force&rdquo; &mdash; the pivotal act, performed "
+             "&ldquo;mindful and aware,&rdquo; setting the Buddha's "
+             "own parinibbāna three months hence"),
+        ("Cāpālavaggo paṭhamo", "&ldquo;the Cāpāla chapter, the "
+             "first&rdquo; &mdash; this discourse's own closing "
+             "colophon, confirming Vagga 1's own position and its "
+             "own name directly"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.10:1.1-1.7"),
+        ("p", "&sect;2", "sn51.10:2.1-2.3"),
+        ("p", "&sect;3", "sn51.10:3.1-3.3"),
+        ("p", "&sect;4", "sn51.10:4.1-4.3"),
+        ("p", "&sect;5", "sn51.10:5.1-5.5"),
+        ("p", "&sect;6", "sn51.10:6.1-6.3"),
+        ("p", "&sect;7", "sn51.10:7.1-7.4"),
+        ("p", "&sect;8", "sn51.10:8.1"),
+        ("p", "&sect;9", "sn51.10:9.1-9.3"),
+        ("p", "&sect;10", "sn51.10:10.1-10.2"),
+        ("p", "&sect;11", "sn51.10:11.1-11.2"),
+        ("p", "&sect;12", "sn51.10:12.1-12.2"),
+        ("p", "&sect;13", "sn51.10:13.1-13.3"),
+        ("p", "&sect;14", "sn51.10:14.1-14.3"),
+        ("p", "&sect;15", "sn51.10:15.1-15.4"),
+        ("p", "&sect;16", "sn51.10:16.1-16.3"),
+        ("p", "&sect;17", "sn51.10:17.1-17.3"),
+        ("p", "&sect;18", "sn51.10:18.1-18.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha tell Ānanda three times at the Cāpāla Shrine?",
+         "opts": ["That whoever has fully developed the four bases of psychic power could live for the proper lifespan or what's left of it, and that he himself could do so", "That Ānanda must immediately request the Buddha's own extinguishment", "That the four bases of psychic power are no longer relevant", "That Māra has already been defeated permanently"],
+         "correct": 0,
+         "expl": "An explicit hint, given three times, that Ānanda fails to catch each time."},
+        {"q": "Why does Ānanda fail to beg the Buddha to remain, according to the text's own explanation?",
+         "opts": ["\"His mind was as if possessed by Māra\" — the discourse's own stated reason", "He was asleep during the conversation", "He did not believe the Buddha's own words", "He had already left the country"],
+         "correct": 0,
+         "expl": "The text's own explicit explanation, not an inference this project has added."},
+        {"q": "What does this discourse's own closing colophon and uddāna confirm?",
+         "opts": ["Vagga 1 closes at exactly ten discourses, matching this project's own already-completed sequence SN 51.1-10 in order", "This vagga has an unknown or undetermined length", "This is only the fifth discourse of the vagga", "The uddāna lists entirely different discourse titles than SN 51.1-9"],
+         "correct": 0,
+         "expl": "\"Cāpālavaggo paṭhamo\" and the uddāna's own ten-item list, confirmed by direct comparison."},
+    ],
+    marginalia=[
+        ("A hint given three times, unheard", [
+            "the Buddha's own clear sign, twice missed —",
+            "\"his mind as if possessed by Māra\""
+        ]),
+        ("Māra's own timing, after Ānanda leaves", [
+            "the vow fulfilled, the four assemblies established —",
+            "an appeal the Buddha does not refuse"
+        ]),
+        ("The life force, surrendered mindfully", [
+            "not lost, but let go —",
+            "an earthquake marking the moment"
+        ]),
+        ("This vagga's own name, confirmed at last", [
+            "Cāpālavagga, not assumed but proven —",
+            "the shrine itself, named in this final page"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.9.html\">SN 51.9 &middot; Knowledge</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
