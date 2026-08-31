@@ -53422,3 +53422,143 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.3 — Sutanusutta ("On the Bank of the Sutanu")
+# Confirmed by direct reading: a new setting and a new occasion --
+# several mendicants ask Anuruddha directly what he developed to
+# attain "great direct knowledge" (mahābhiññā), and his answer, using
+# the same plain satipaṭṭhāna formula as SN 52.2, adds a distinctive
+# new closing claim not found in either of the first two discourses:
+# directly knowing the lower, middle, and higher principle as such.
+# --------------------------------------------------------------------------- #
+page(
+    52, 3, "Sutanu", "On the Bank of the Sutanu",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.3 — On the Bank of the Sutanu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sutanusutta &mdash; several mendicants ask Anuruddha "
+        "what he developed to attain great direct knowledge, and he "
+        "answers with the four kinds of mindfulness meditation. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The bank of the Sutanu, near Sāvatthī"),
+        ("Speakers", "Several mendicants and Venerable Anuruddha"),
+        ("Form", "A direct question and a first-person answer, with "
+                 "a new closing claim"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; a new "
+                         "setting and occasion, adding a distinctive "
+                         "closing claim not found in either of the "
+                         "first two discourses of this vagga"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse moves away from "
+        "SN 52.1-2's own shared &ldquo;in private&rdquo; scene "
+        "entirely: it is set on the bank of the Sutanu, and a group "
+        "of mendicants ask Anuruddha directly what he developed to "
+        "attain &ldquo;great direct knowledge&rdquo; (mahābhiññā) "
+        "&mdash; his answer names the same four kinds of mindfulness "
+        "meditation, but adds a distinctive closing claim about "
+        "directly knowing principles at three distinct levels."
+    ),
+    guide=[
+        ("A new setting, a direct question", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening breaks from the pattern of SN 52.1-2: instead "
+            "of Anuruddha's own private reflection interrupted by "
+            "Moggallāna, several mendicants approach him directly on "
+            "the bank of the Sutanu and ask what he developed to "
+            "attain his own &ldquo;great direct knowledge.&rdquo;",
+        ]),
+        ("The same plain formula as SN 52.2", [
+            "This project's own comparison: Anuruddha's own answer "
+            "here uses the same plainer, generic satipaṭṭhāna "
+            "formula already met at SN 52.2 (&ldquo;observing an "
+            "aspect of...&rdquo;), rather than SN 52.1's own fuller "
+            "impermanence-observing version.",
+        ]),
+        ("A distinctive new closing claim", [
+            "Confirmed by direct reading, this discourse adds a "
+            "closing statement not found in either SN 52.1 or SN "
+            "52.2: through developing the four kinds of mindfulness "
+            "meditation, Anuruddha &ldquo;directly knew the lower "
+            "principle as lower, the middle principle as middle, and "
+            "the higher principle as higher&rdquo; &mdash; a "
+            "threefold discernment of quality or level this vagga's "
+            "own first two discourses did not name.",
+        ]),
+    ],
+    terms=[
+        ("mahābhiññā", "&ldquo;great direct knowledge&rdquo; "
+             "&mdash; the specific attainment the mendicants ask "
+             "Anuruddha about, distinct from the general term used "
+             "in SN 52.1-2's own accounts"),
+        ("cattāro satipaṭṭhānā", "&ldquo;the four kinds of "
+             "mindfulness meditation&rdquo; &mdash; Anuruddha's own "
+             "answer, unchanged in name from the previous two "
+             "discourses"),
+        ("hīnaṁ dhammaṁ hīnato", "&ldquo;the lower principle as "
+             "lower&rdquo; &mdash; the first of this discourse's own "
+             "distinctive threefold closing claim"),
+        ("majjhimaṁ dhammaṁ majjhimato", "&ldquo;the middle "
+             "principle as middle&rdquo; &mdash; the second item in "
+             "the same threefold claim"),
+        ("paṇītaṁ dhammaṁ paṇītato", "&ldquo;the higher principle "
+             "as higher&rdquo; &mdash; the third and final item, "
+             "closing this discourse's own distinctive addition"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.3:1.1-1.4"),
+        ("p", "&sect;2", "sn52.3:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own setting differ from SN 52.1-2?",
+         "opts": ["It is set on the bank of the Sutanu, with several mendicants directly asking Anuruddha a question, rather than his own private reflection interrupted by Moggallāna", "It is set in exactly the same location with the exact same characters", "It takes place after Anuruddha's own death, as a memorial account", "No setting is given anywhere in the discourse"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a genuinely new occasion, not the private-reflection scene of SN 52.1-2."},
+        {"q": "What distinctive closing claim does this discourse add, not found in SN 52.1 or SN 52.2?",
+         "opts": ["Directly knowing the lower principle as lower, the middle principle as middle, and the higher principle as higher", "A detailed description of Anuruddha's own final passing", "A list of every mendicant present at this teaching", "A denial that mindfulness meditation alone produces direct knowledge"],
+         "correct": 0,
+         "expl": "This discourse's own distinctive threefold addition, confirmed by direct comparison to the previous two discourses."},
+        {"q": "Which formula does Anuruddha's own answer use here, according to this project's own comparison?",
+         "opts": ["The same plainer, generic formula already met at SN 52.2, not SN 52.1's own fuller impermanence-observing version", "An entirely new formula not found in either previous discourse", "SN 52.1's own fuller formula with the fivefold perception-wish list included", "No specific formula is given — only the bare names of the four foundations"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the plainer formula, matching SN 52.2 rather than SN 52.1."},
+    ],
+    marginalia=[
+        ("A question asked directly", [
+            "not overheard by psychic power this time —",
+            "mendicants simply ask, and Anuruddha answers"
+        ]),
+        ("The plainer formula, again", [
+            "the same four foundations, the simpler wording —",
+            "matching SN 52.2, not SN 52.1"
+        ]),
+        ("A new claim, added here", [
+            "lower as lower, middle as middle, higher as higher —",
+            "a discernment not named in the two discourses before it"
+        ]),
+        ("One vagga, three distinct occasions", [
+            "private reflection, then again, now a direct question —",
+            "the same practice, told from different angles"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.2.html\">SN 52.2 &middot; In Private "
+        "(2nd)</a> &mdash; the previous discourse, using the same "
+        "plain formula this discourse also gives.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
