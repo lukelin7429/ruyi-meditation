@@ -49,7 +49,14 @@ INDEX_HEADING = "V. Mahāvagga — The Great Book"
 # current coverage -- there being no pre-existing page anywhere within
 # SN 45.11-54's own range, confirmed by the directory listing above.
 HEAD = ("sn-44.11.html", "SN 44.11 &middot; With Sabhiya Kacc&#257;na")
-TAIL = ("sn-55.1.html", "SN 55.1 &middot; A Wheel-Turning Monarch")
+# TAIL has moved from sn-55.1.html (absorbed below, mid-Veḷudvāravagga,
+# the same "fragile junction" treatment as SN 45.8) onward to the
+# collection index as a neutral placeholder: SN 55.11-74 and SN
+# 56.1-131 are not yet written, so no further pre-existing landmark
+# lies immediately beyond this module's own current coverage. Move
+# TAIL again once SN 56.11 (also pre-existing, also to be absorbed the
+# same way) is the true next landmark beyond this module's own PAGES.
+TAIL = ("./", "Saṃyutta Nikāya selections")
 INDEX_EXTRA = [
     ("sn-45.8", "Vibhaṅga", "Analysis"),
     ("sn-55.1", "Cakkavattirāja", "A Wheel-Turning Monarch"),
@@ -60289,5 +60296,1352 @@ page(
         "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
         "the Ānāpānasaṃyutta is now complete; the next saṃyutta in "
         "this book is still in preparation.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55 (Sotāpattisaṃyutta, "Linked Discourses on Stream-Entry") --
+# confirmed by direct bilara-data listing to be 74 individual
+# discourses across 7 vaggas, not merged peyyāla ranges. Book V's own
+# eleventh saṃyutta (directly following SN 54, the tenth, already
+# confirmed complete by this project).
+#
+# Veḷudvāravagga ("At Bamboo Gate"), SN 55.1-10, confirmed by direct
+# reading of SN 55.10's own closing colophon ("Veḷudvāravaggo
+# paṭhamo") and uddāna to be this saṃyutta's own first vagga, ten
+# discourses. SN 55.1 (Cakkavattirājasutta, "A Wheel-Turning
+# Monarch") is a pre-existing page from this project's own earlier
+# "20 curated discourses" selection (commit 58cef566) -- confirmed by
+# direct reading not to be regenerated here, but absorbed as a
+# "fragile junction" exactly as SN 45.8 was: this vagga's own systematic
+# coverage begins at SN 55.2, with SN 55.1 hand-patched into the chain
+# on both sides after every build from this point forward.
+# --------------------------------------------------------------------------- #
+
+# --------------------------------------------------------------------------- #
+# SN 55.2 — Brahmacariyogadhasutta ("The Objective of the Spiritual
+# Life")
+# Confirmed by direct reading: gives the classic four factors of
+# stream-entry in full for the first time in this saṃyutta --
+# experiential confidence in the Buddha, the teaching, and the
+# Saṅgha, plus the ethical conduct loved by the noble ones -- closing
+# with a four-line verse.
+# --------------------------------------------------------------------------- #
+page(
+    55, 2, "Brahmacariyogadha", "The Objective of the Spiritual Life",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.2 — The Objective of the Spiritual Life | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Brahmacariyogadhasutta &mdash; the four factors of "
+        "stream-entry given in full, closing with a verse. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; a bare doctrinal statement"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A prose statement of the four factors, closing "
+                 "with a four-line verse"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; gives "
+                         "the classic four factors of stream-entry "
+                         "in full, this saṃyutta's own governing "
+                         "formula"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse states the four "
+        "factors of stream-entry in full: experiential confidence in "
+        "the Buddha, the teaching, and the Saṅgha, and possessing "
+        "&ldquo;the ethical conduct loved by the noble ones&rdquo; "
+        "&mdash; the recurring formula this project confirms is this "
+        "saṃyutta's own governing structure, closing with a short "
+        "verse naming these four as &ldquo;the objective of the "
+        "spiritual life.&rdquo;"
+    ),
+    guide=[
+        ("Four factors, one recurring formula", [
+            "Confirmed by direct reading, the four factors are: "
+            "experiential confidence (aveccappasāda) in the Buddha, "
+            "the teaching, and the Saṅgha, each elaborated by their "
+            "own traditional epithets (elided here via &ldquo;…"
+            "&rdquo; but confirmed present in the root Pali), and "
+            "ethical conduct &ldquo;loved by the noble ones... "
+            "leading to immersion&rdquo; &mdash; this project "
+            "expects this exact formula to recur throughout this "
+            "saṃyutta, confirmed rather than assumed at each "
+            "occurrence.",
+        ]),
+        ("A verse closing a prose statement", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing verse compresses the prose formula into four "
+            "lines: faith, ethics, confidence, and &ldquo;vision of "
+            "the truth&rdquo; leading &ldquo;in time&rdquo; to "
+            "happiness, &ldquo;the objective of the spiritual "
+            "life&rdquo; &mdash; this discourse's own title.",
+        ]),
+    ],
+    terms=[
+        ("sotāpanno avinipātadhammo niyato sambodhiparāyaṇo", "&ldquo;"
+             "a stream-enterer, not liable to be reborn in the "
+             "underworld, assured, destined for awakening&rdquo; "
+             "&mdash; this saṃyutta's own recurring closing "
+             "description of the stream-enterer"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; a confidence grounded in direct experience, "
+             "not mere belief, the quality shared toward the Buddha, "
+             "teaching, and Saṅgha"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, elided here but detailed in full "
+             "elsewhere in this saṃyutta"),
+        ("saddhā ca sīlañca", "&ldquo;faith and ethics&rdquo; "
+             "&mdash; the closing verse's own opening pair"),
+        ("brahmacariyogadha", "&ldquo;the objective of the spiritual "
+             "life&rdquo; &mdash; this discourse's own title, the "
+             "verse's own final phrase"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.2:1.1-2.7"),
+        ("p", "Verse", "sn55.2:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What four factors does this discourse give in full?",
+         "opts": ["Experiential confidence in the Buddha, the teaching, and the Saṅgha, plus ethical conduct loved by the noble ones", "The four jhānas, already fully treated in SN 53", "The four satipaṭṭhānas, already fully treated in SN 54", "The four right efforts"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this saṃyutta's own governing formula for stream-entry."},
+        {"q": "What does the closing verse name as \"the objective of the spiritual life\"?",
+         "opts": ["Faith, ethics, confidence, and vision of the truth, leading in time to happiness", "Only ethical conduct, with the other three factors set aside", "Rebirth in a heavenly realm", "The attainment of the four jhānas"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the verse's own four lines."},
+        {"q": "What does this project expect regarding this four-factor formula going forward?",
+         "opts": ["It expects the formula to recur throughout this saṃyutta, confirmed rather than assumed at each occurrence", "It expects this formula never to appear again in this saṃyutta", "It expects the formula to be replaced by an entirely different one in the next vagga", "It expects the formula to apply only to monastics, not lay followers"],
+         "correct": 0,
+         "expl": "This project's own stated expectation, to be verified discourse by discourse rather than assumed."},
+    ],
+    marginalia=[
+        ("Four factors, stated plainly", [
+            "confidence in Buddha, teaching, Saṅgha —",
+            "and conduct the noble ones love"
+        ]),
+        ("A verse closing a prose formula", [
+            "faith, ethics, confidence, vision —",
+            "four lines distilling the whole"
+        ]),
+        ("A formula this project expects to meet again", [
+            "not assumed but watched for —",
+            "confirmed at each new occurrence"
+        ]),
+        ("The saṃyutta's own second page, its own first full statement", [
+            "SN 55.1 stands as this vagga's own pre-existing island —",
+            "this discourse gives the formula in full for the first time"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.1.html\">SN 55.1 &middot; A Wheel-Turning "
+        "Monarch</a> &mdash; the previous discourse, a pre-existing "
+        "page from this project's own earlier curated selection.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.3 — Dīghāvuupāsakasutta ("With Dīghāvu")
+# Confirmed by direct reading: a full narrative. The dying lay
+# follower Dīghāvu sends for the Buddha; the Buddha visits, teaches
+# the four factors of stream-entry, then -- once Dīghāvu confirms he
+# already has them -- adds six further contemplations on
+# impermanence, suffering, not-self, giving up, fading away, and
+# cessation. Dīghāvu dies shortly after, and the Buddha confirms he
+# has become a non-returner.
+# --------------------------------------------------------------------------- #
+page(
+    55, 3, "Dīghāvuupāsaka", "With Dīghāvu",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.3 — With Dīghāvu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dīghāvuupāsakasutta &mdash; a dying lay follower "
+        "confirms the four factors of stream-entry, then six further "
+        "contemplations, and becomes a non-returner. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The home of the lay follower Dīghāvu, near "
+                     "Rājagaha"),
+        ("Speakers", "The Buddha, the dying Dīghāvu, and his father "
+                     "Jotika"),
+        ("Form", "A full narrative: a message sent, a deathbed "
+                 "visit, two rounds of teaching, and a rebirth "
+                 "confirmed after death"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; a full deathbed narrative, adding "
+                         "six further contemplations beyond the four "
+                         "factors, and confirming a named "
+                         "individual's own specific rebirth"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse follows the "
+        "dying lay follower Dīghāvu from his own message summoning "
+        "the Buddha, through the Buddha's own deathbed visit and "
+        "teaching, to his own death and the Buddha's own confirmation "
+        "of his rebirth as a non-returner &mdash; a full narrative "
+        "arc, unlike SN 55.2's own bare doctrinal statement, and "
+        "confirmed by direct reading to add six further "
+        "contemplations once Dīghāvu has already confirmed he "
+        "possesses the four factors."
+    ),
+    guide=[
+        ("A message sent, a visit granted", [
+            "Confirmed by direct reading, Dīghāvu, too sick to travel, "
+            "sends his father Jotika with a formal message asking the "
+            "Buddha to visit &ldquo;out of sympathy&rdquo;; the "
+            "Buddha consents with silence and comes the next morning.",
+        ]),
+        ("The four factors, confirmed by Dīghāvu himself", [
+            "Confirmed by direct reading, after the Buddha teaches "
+            "the four factors, Dīghāvu does not merely accept them "
+            "but reports directly: &ldquo;these four factors of "
+            "stream-entry&hellip;are found in me, and I exhibit "
+            "them&rdquo; &mdash; a personal confirmation, not just "
+            "an instruction received.",
+        ]),
+        ("Six further contemplations, grounded on the four factors", [
+            "Confirmed by direct reading, the Buddha then adds a new "
+            "teaching not given at SN 55.2: &ldquo;grounded on these "
+            "four factors of stream-entry you should further develop "
+            "these six things that play a part in realization&rdquo; "
+            "&mdash; observing impermanence, then perceiving "
+            "suffering in impermanence, not-self in suffering, "
+            "giving up, fading away, and cessation, each building on "
+            "the one before it.",
+        ]),
+        ("A final worry, and a confirmed rebirth", [
+            "Confirmed by direct reading, even at the point of "
+            "death Dīghāvu voices concern for his father's own "
+            "grief; Jotika redirects him back to the Buddha's own "
+            "teaching. After Dīghāvu dies, the Buddha confirms "
+            "directly to the mendicants that he &ldquo;practiced in "
+            "line with the teaching&rdquo; and, with the five lower "
+            "fetters ended, has been reborn spontaneously as a "
+            "non-returner.",
+        ]),
+    ],
+    terms=[
+        ("gilāno ābādhiko dukkhito bāḷhagilāno", "&ldquo;sick, "
+             "suffering, gravely ill&rdquo; &mdash; Dīghāvu's own "
+             "condition, opening this discourse"),
+        ("chaḷabhiññā dhammā", "the &ldquo;six things that play a "
+             "part in realization&rdquo; &mdash; this discourse's "
+             "own new addition beyond the four factors: "
+             "contemplating impermanence, suffering, not-self, "
+             "giving up, fading away, and cessation"),
+        ("mā tvaṁ, dīghāvu, etaṁ manasākāsi", "&ldquo;don't focus "
+             "on that&rdquo; &mdash; Jotika's own gentle redirection "
+             "of his dying son's final worldly worry"),
+        ("pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā",
+             "&ldquo;with the ending of the five lower fetters"
+             "&rdquo; &mdash; the condition for the specific "
+             "non-return rebirth the Buddha confirms for Dīghāvu"),
+        ("na maṁ dhammesu vicikicchāpesi", "&ldquo;did not trouble "
+             "me about the teachings&rdquo; &mdash; the Buddha's "
+             "own praise for Dīghāvu, having practiced without "
+             "needing further clarification"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.3:1.1-1.14"),
+        ("p", "&sect;2", "sn55.3:2.1-2.9"),
+        ("p", "&sect;3", "sn55.3:3.1-3.8"),
+        ("p", "&sect;4", "sn55.3:4.1-4.6"),
+        ("p", "&sect;5", "sn55.3:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What does Dīghāvu report after the Buddha teaches him the four factors?",
+         "opts": ["That he already possesses and exhibits all four factors himself", "That he does not understand the teaching", "That he wishes to become a mendicant before he dies", "That he disputes the Buddha's own teaching"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a personal confirmation, not merely receiving instruction."},
+        {"q": "What new teaching does the Buddha add once Dīghāvu confirms he has the four factors?",
+         "opts": ["Six further contemplations — impermanence, suffering, not-self, giving up, fading away, and cessation", "The four jhānas", "The seven awakening factors", "Nothing further; the four factors alone are said to be sufficient"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely new addition, absent from SN 55.2."},
+        {"q": "What does the Buddha confirm about Dīghāvu's own rebirth after his death?",
+         "opts": ["With the five lower fetters ended, he was reborn spontaneously as a non-returner", "He was reborn as a stream-enterer only, not yet a non-returner", "He achieved full arahantship before dying", "His rebirth could not be determined"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the Buddha's own direct answer to the mendicants' question."},
+    ],
+    marginalia=[
+        ("A message from a sickbed", [
+            "\"please visit him out of sympathy\" —",
+            "and the Buddha comes the next morning"
+        ]),
+        ("Confirmed, not just received", [
+            "\"these four factors are found in me\" —",
+            "Dīghāvu speaks for himself"
+        ]),
+        ("Six more things, grounded on the four", [
+            "impermanence, suffering, not-self —",
+            "giving up, fading away, cessation"
+        ]),
+        ("A father's grief, gently set aside", [
+            "\"don't focus on that,\" Jotika says —",
+            "and the dying son returns to the teaching"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.2.html\">SN 55.2 &middot; The Objective of "
+        "the Spiritual Life</a> &mdash; the previous discourse, "
+        "giving the four factors in full.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.4 — Paṭhamasāriputtasutta ("With Sāriputta, 1st")
+# Confirmed by direct reading: Ānanda asks Sāriputta how many things
+# a person must possess to be declared a stream-enterer; Sāriputta
+# answers with the identical four factors already given in full at
+# SN 55.2, this time stated by a disciple rather than the Buddha.
+# --------------------------------------------------------------------------- #
+page(
+    55, 4, "Paṭhamasāriputta", "With Sāriputta (1st)",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.4 — With Sāriputta (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasāriputtasutta &mdash; Ānanda asks Sāriputta "
+        "about the four factors of stream-entry, and Sāriputta "
+        "answers correctly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery"),
+        ("Speakers", "Venerable Ānanda and Venerable Sāriputta"),
+        ("Form", "A single question and answer between two "
+                 "disciples, no involvement from the Buddha"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the four "
+                         "factors, correctly restated by a disciple "
+                         "rather than the Buddha, confirming the "
+                         "teaching's own consistency across speakers"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse is a dialogue "
+        "between two disciples, with no involvement from the Buddha "
+        "at all: Ānanda asks Sāriputta how many things a person must "
+        "possess for the Buddha to declare them a stream-enterer, and "
+        "Sāriputta answers with the identical four factors already "
+        "given in full at SN 55.2 &mdash; confirming the teaching's "
+        "own consistency independent of who states it."
+    ),
+    guide=[
+        ("A dialogue between disciples, not with the Buddha", [
+            "Confirmed by direct reading, this discourse's own "
+            "setting differs from SN 55.2 and SN 55.3: Ānanda "
+            "simply approaches Sāriputta directly, &ldquo;in the "
+            "late afternoon&hellip;came out of retreat,&rdquo; and "
+            "asks his own question without any mention of the "
+            "Buddha being present.",
+        ]),
+        ("The identical formula, confirmed word for word", [
+            "This project's own direct comparison: Sāriputta's own "
+            "answer &mdash; experiential confidence in the Buddha, "
+            "the teaching, the Saṅgha, and the ethical conduct "
+            "loved by the noble ones &mdash; matches SN 55.2's own "
+            "formula exactly, confirming this project's own earlier "
+            "expectation that the four-factor formula would recur "
+            "consistently throughout this saṃyutta.",
+        ]),
+    ],
+    terms=[
+        ("kittāvatā nu kho, āvuso, dhammehi samannāgatassa puggalassa "
+         "bhagavā byākaroti sotāpanno", "&ldquo;how many things do "
+             "people have to possess in order for the Buddha to "
+             "declare that they're a stream-enterer&rdquo; &mdash; "
+             "Ānanda's own opening question"),
+        ("catūhi kho, āvuso, dhammehi samannāgatassa puggalassa",
+             "&ldquo;people have to possess four things&rdquo; "
+             "&mdash; Sāriputta's own direct answer, matching this "
+             "project's own already-confirmed formula"),
+        ("aveccappasāda", "&ldquo;experiential confidence&rdquo; "
+             "&mdash; the shared term for confidence in the Buddha, "
+             "the teaching, and the Saṅgha, as at SN 55.2"),
+        ("ariyakantehi sīlehi samannāgato", "&ldquo;has the ethical "
+             "conduct loved by the noble ones&rdquo; &mdash; the "
+             "fourth factor, restated identically here"),
+        ("sāyanhasamayaṁ paṭisallānā vuṭṭhito", "&ldquo;in the late "
+             "afternoon&hellip;came out of retreat&rdquo; &mdash; "
+             "Ānanda's own circumstance, framing this as an "
+             "informal exchange between disciples"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.4:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "Who is present in this discourse's own dialogue?",
+         "opts": ["Only Ānanda and Sāriputta — the Buddha is not mentioned as present", "The Buddha, Ānanda, and Sāriputta together", "Sāriputta and the Buddha, without Ānanda", "A large assembly of mendicants"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a dialogue between two disciples alone."},
+        {"q": "How does Sāriputta's own answer compare to SN 55.2's own formula, per this project's own direct comparison?",
+         "opts": ["It matches exactly, word for word — the same four factors", "It differs meaningfully, naming only three factors", "It contradicts SN 55.2's own formula", "It adds an entirely new fifth factor"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical formula, confirming its own consistency across speakers."},
+        {"q": "What does this discourse confirm about the four-factor teaching, given that a disciple states it correctly?",
+         "opts": ["Its own consistency independent of who states it — not unique to the Buddha's own phrasing alone", "That only the Buddha himself can correctly state this teaching", "That Sāriputta's own version is considered superior to the Buddha's own", "That the teaching changes depending on who explains it"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own significance."},
+    ],
+    marginalia=[
+        ("A question between disciples", [
+            "no Buddha present, just Ānanda asking —",
+            "and Sāriputta answering plainly"
+        ]),
+        ("The same four factors, a third time", [
+            "SN 55.2, SN 55.3, now this —",
+            "the formula holding steady"
+        ]),
+        ("Consistency across speakers", [
+            "not only the Buddha's own words —",
+            "a disciple states it correctly too"
+        ]),
+        ("An informal afternoon exchange", [
+            "coming out of retreat, one question asked —",
+            "brief, but doctrinally exact"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.3.html\">SN 55.3 &middot; With Dīghāvu</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.5 — Dutiyasāriputtasutta ("With Sāriputta, 2nd")
+# Confirmed by direct reading: the Buddha quizzes Sāriputta directly
+# on three progressively deeper terms -- "a factor for stream-entry,"
+# "the stream," and "a stream-enterer" -- praising each answer in
+# turn. A genuinely different content from SN 55.4, despite the
+# similar title: not the four-factor formula, but a distinct analysis
+# building from practical conditions to the noble eightfold path
+# itself.
+# --------------------------------------------------------------------------- #
+page(
+    55, 5, "Dutiyasāriputta", "With Sāriputta (2nd)",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.5 — With Sāriputta (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasāriputtasutta &mdash; the Buddha quizzes "
+        "Sāriputta on the factor for stream-entry, the stream "
+        "itself, and the stream-enterer. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.4's own setting"),
+        ("Speakers", "The Buddha and Venerable Sāriputta"),
+        ("Form", "Three progressive questions and answers, each "
+                 "praised by the Buddha"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; a "
+                         "genuinely distinct analysis from SN 55.4's "
+                         "own four-factor formula, defining "
+                         "stream-entry through the noble eightfold "
+                         "path directly"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse is genuinely "
+        "distinct from SN 55.4 despite the similar title: rather "
+        "than the four-factor formula, the Buddha quizzes Sāriputta "
+        "directly on three progressively deeper terms &mdash; a "
+        "&ldquo;factor for stream-entry,&rdquo; &ldquo;the "
+        "stream,&rdquo; and &ldquo;a stream-enterer&rdquo; &mdash; "
+        "each answer confirmed correct with the Buddha's own "
+        "repeated praise, &ldquo;good, good, Sāriputta!&rdquo;"
+    ),
+    guide=[
+        ("A factor for stream-entry: four practical conditions", [
+            "Confirmed by direct reading, Sāriputta's own first "
+            "answer names four practical conditions, distinct from "
+            "the four factors of SN 55.2: &ldquo;associating with "
+            "true persons, listening to the true teaching, rational "
+            "application of mind, and practicing in line with the "
+            "teaching&rdquo; &mdash; a causal sequence for how one "
+            "comes to stream-entry, not a description of what one "
+            "possesses once there.",
+        ]),
+        ("The stream itself: the noble eightfold path", [
+            "Confirmed by direct reading, Sāriputta's own second "
+            "answer identifies &ldquo;the stream&rdquo; directly "
+            "with &ldquo;this noble eightfold path&rdquo; &mdash; "
+            "right view, purpose, speech, action, livelihood, "
+            "effort, mindfulness, and immersion &mdash; grounding "
+            "this saṃyutta's own central metaphor in the path "
+            "already fully translated in this project's own earlier "
+            "work on Book V's Maggasaṃyutta (SN 45).",
+        ]),
+        ("A stream-enterer: simply one who has the path", [
+            "Confirmed by direct reading, Sāriputta's own third "
+            "answer is the simplest of the three: &ldquo;anyone who "
+            "possesses this noble eightfold path is called a "
+            "stream-enterer&rdquo; &mdash; a direct, unadorned "
+            "definition, each of the three answers building on the "
+            "one before it.",
+        ]),
+    ],
+    terms=[
+        ("sotāpattiyaṅga", "&ldquo;a factor for stream-entry&rdquo; "
+             "&mdash; the first term the Buddha asks Sāriputta to "
+             "define"),
+        ("sappurisasaṁsevo, saddhammassavanaṁ, yonisomanasikāro, "
+         "dhammānudhammappaṭipatti", "&ldquo;associating with true "
+             "persons, listening to the true teaching, rational "
+             "application of mind, and practicing in line with the "
+             "teaching&rdquo; &mdash; Sāriputta's own first answer, "
+             "the four practical conditions"),
+        ("sota", "&ldquo;the stream&rdquo; &mdash; the second term, "
+             "identified directly with the noble eightfold path"),
+        ("ariyo aṭṭhaṅgiko maggo", "&ldquo;the noble eightfold "
+             "path&rdquo; &mdash; already fully translated in this "
+             "project's own earlier work on the Maggasaṃyutta (SN "
+             "45), here identified as &ldquo;the stream&rdquo; "
+             "itself"),
+        ("sādhu sādhu, sāriputta", "&ldquo;good, good, "
+             "Sāriputta!&rdquo; &mdash; the Buddha's own repeated "
+             "praise, once after each of the three correct answers"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.5:1.1-1.6"),
+        ("p", "&sect;2", "sn55.5:2.1-2.7"),
+        ("p", "&sect;3", "sn55.5:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What does Sāriputta name as \"a factor for stream-entry\"?",
+         "opts": ["Associating with true persons, listening to the true teaching, rational application of mind, and practicing in line with the teaching", "The four factors already given at SN 55.2 (confidence in the Buddha, teaching, Saṅgha, and ethics)", "The seven awakening factors", "The four jhānas"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a genuinely distinct answer from SN 55.2's own four-factor formula."},
+        {"q": "What does Sāriputta identify \"the stream\" with directly?",
+         "opts": ["The noble eightfold path itself", "The four factors of stream-entry", "The river Ganges, as a metaphor already met elsewhere in this book", "A specific meditative attainment not otherwise named"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — grounding this saṃyutta's own central metaphor in the eightfold path."},
+        {"q": "How does the Buddha respond to each of Sāriputta's own three answers?",
+         "opts": ["He confirms each is correct, repeating \"good, good, Sāriputta!\" after every one", "He corrects each answer before giving his own", "He remains silent, neither confirming nor denying", "He asks Sāriputta to answer differently"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — repeated, explicit praise after each correct answer."},
+    ],
+    marginalia=[
+        ("Three questions, three confirmed answers", [
+            "a factor, the stream, the stream-enterer —",
+            "each building on the one before"
+        ]),
+        ("Not the four factors, but the eightfold path", [
+            "a genuinely different analysis —",
+            "same title as SN 55.4, different content"
+        ]),
+        ("\"Good, good, Sāriputta!\"", [
+            "the Buddha's own praise, given three times —",
+            "each answer confirmed correct"
+        ]),
+        ("The stream, named directly", [
+            "not a metaphor left unexplained —",
+            "the noble eightfold path, stated plainly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.4.html\">SN 55.4 &middot; With Sāriputta "
+        "(1st)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.6 — Thapatisutta ("The Chamberlains")
+# Confirmed by direct reading: two royal chamberlains, Isidatta and
+# Purāṇa, post a lookout for the Buddha's own return and confess
+# their own homesickness whenever he travels far. The Buddha praises
+# household renunciation, and the chamberlains name something they
+# consider even more cramped than home life: their own duty escorting
+# the king's wives without ever entertaining an improper thought. The
+# Buddha closes with the four factors, this time defined through
+# generosity rather than bare ethical conduct.
+# --------------------------------------------------------------------------- #
+page(
+    55, 6, "Thapati", "The Chamberlains",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.6 — The Chamberlains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Thapatisutta &mdash; two royal chamberlains confess "
+        "their own devotion to the Buddha, and their own vigilance "
+        "escorting the king's wives. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The road between Sāvatthī and Sādhuka, at the "
+                     "root of a tree"),
+        ("Speakers", "The Buddha and the chamberlains Isidatta and "
+                     "Purāṇa"),
+        ("Form", "A full narrative: a lookout posted, a devoted "
+                 "confession, and a closing teaching"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; a "
+                         "vivid court narrative, and a version of "
+                         "the four factors defined through "
+                         "generosity rather than bare ethical "
+                         "conduct"),
+    ],
+    why=(
+        "Confirmed by direct reading, two royal chamberlains post a "
+        "lookout to be notified the moment the Buddha comes into "
+        "view, then confess their own recurring sadness whenever he "
+        "travels far from Sāvatthī. The Buddha praises their own "
+        "diligence, and they name something they consider &ldquo;"
+        "even more cramped&rdquo; than ordinary household life: "
+        "escorting the king's own wives on outings without ever "
+        "entertaining an improper thought toward them."
+    ),
+    guide=[
+        ("A lookout posted for the Buddha's own return", [
+            "Confirmed by direct reading, the chamberlains station "
+            "someone on the road specifically to watch for the "
+            "Buddha, who waits two or three days before finally "
+            "sighting him &mdash; a concrete, logistical measure of "
+            "their own devotion, not merely a stated feeling.",
+        ]),
+        ("Sad when far, joyful when near", [
+            "Confirmed by direct reading, the chamberlains describe "
+            "in detail their own alternating sadness and joy as the "
+            "Buddha's own itinerary moves progressively farther "
+            "(Kosala to Malla to Vajji to Kāsi to Magadha) then back "
+            "again toward Sāvatthī &mdash; an elaborate, geography-"
+            "tracking expression of personal attachment to the "
+            "Buddha's own presence.",
+        ]),
+        ("A duty more cramped than home life itself", [
+            "Confirmed by direct reading, when the Buddha praises "
+            "household life as &ldquo;cramped and dirty&rdquo; "
+            "compared to going forth, the chamberlains offer a "
+            "striking counter-example from their own daily work: "
+            "escorting the king's beloved wives &mdash; perfumed, "
+            "as pampered &ldquo;as a tuft of cotton-wool&rdquo; "
+            "&mdash; while never once recalling an improper thought "
+            "toward them.",
+        ]),
+        ("The four factors, this time through generosity", [
+            "Confirmed by direct reading, the Buddha closes not with "
+            "the bare ethical-conduct formula of SN 55.2, but with "
+            "a version naming generosity specifically: being "
+            "&ldquo;rid of the stain of stinginess, freely "
+            "generous, open-handed&rdquo; &mdash; before directly "
+            "praising the chamberlains' own lay generosity as "
+            "unmatched among the Kosalans.",
+        ]),
+    ],
+    terms=[
+        ("kadā panamhākaṁ bhagavantaṁ āgacchantaṁ passissāmā ti",
+             "&ldquo;let us know when you see the Blessed One "
+             "coming&rdquo; &mdash; the chamberlains' own "
+             "instruction to their lookout"),
+        ("kāsāvaṁ gehaṁ sambādho, abbhokāso pabbajjā", "&ldquo;life "
+             "at home is cramped and dirty, life gone forth is wide "
+             "open&rdquo; &mdash; the Buddha's own recurring "
+             "refrain, repeated twice in this discourse"),
+        ("kappāsapicu vā tūlapicu vā", "&ldquo;a tuft of cotton-"
+             "wool or kapok&rdquo; &mdash; the simile for how "
+             "pampered the royal wives are, as felt by the "
+             "chamberlains escorting them"),
+        ("vigatamalamaccherena cetasā", "&ldquo;rid of the stain of "
+             "stinginess&rdquo; &mdash; this discourse's own "
+             "distinctive fourth factor, generosity rather than "
+             "bare ethical conduct"),
+        ("lābhā no, bhante, suladdhaṁ no", "&ldquo;we're fortunate, "
+             "sir, so very fortunate&rdquo; &mdash; the chamberlains' "
+             "own closing response to being personally understood "
+             "by the Buddha"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.6:1.1-3.4"),
+        ("p", "&sect;2", "sn55.6:4.1-13.6"),
+        ("p", "&sect;3", "sn55.6:14.1-15.6"),
+        ("p", "&sect;4", "sn55.6:16.1-18.10"),
+    ],
+    quiz=[
+        {"q": "What concrete measure do the chamberlains take to know when the Buddha is near?",
+         "opts": ["They post someone on the road as a lookout, who waits two or three days before sighting him", "They send a formal written invitation to the Buddha", "They simply wait passively at home for news to arrive", "They dispatch royal soldiers to escort the Buddha directly"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a concrete, logistical measure of their own devotion."},
+        {"q": "What do the chamberlains name as something even more cramped than ordinary household life?",
+         "opts": ["Escorting the king's own wives on outings without ever entertaining an improper thought toward them", "Their own duties managing the royal treasury", "Serving as judges in the king's own court", "Training the royal elephants for battle"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — their own striking counter-example to the Buddha's own praise of renunciation."},
+        {"q": "How does this discourse's own version of the four factors differ from SN 55.2's own?",
+         "opts": ["It names generosity specifically — being rid of stinginess, freely generous — rather than the bare ethical-conduct formula", "It is identical in every respect to SN 55.2's own version", "It omits confidence in the Buddha, teaching, and Saṅgha entirely", "It adds a fifth factor not found at SN 55.2"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a version tailored to these two lay chamberlains' own generous character."},
+    ],
+    marginalia=[
+        ("A lookout, watching the road", [
+            "two or three days, then a sighting —",
+            "devotion measured in waiting"
+        ]),
+        ("Sad when far, joyful when near", [
+            "Kosala, Malla, Vajji, Kāsi, Magadha —",
+            "an itinerary tracked by feeling"
+        ]),
+        ("Escorting perfumed queens, thoughts unmoved", [
+            "cotton-soft, pampered, ever-present —",
+            "yet no improper thought recalled"
+        ]),
+        ("The four factors, tailored to generosity", [
+            "stinginess set aside, giving freely —",
+            "praised as unmatched among the Kosalans"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.6/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.5.html\">SN 55.5 &middot; With Sāriputta "
+        "(2nd)</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.7 — Veḷudvāreyyasutta ("The People of Bamboo Gate")
+# Confirmed by direct reading: the villagers of Bamboo Gate openly
+# state their own worldly wishes (family, luxury, a heavenly rebirth)
+# and ask for a teaching that serves them. The Buddha responds with a
+# reciprocity-based ethical reflection -- "the thing that is disliked
+# by me is also disliked by others" -- applied in turn to killing,
+# stealing, sexual misconduct, lying, and three further kinds of
+# harmful speech, then closes with the four factors, together framed
+# as "seven good qualities and four desirable states."
+# --------------------------------------------------------------------------- #
+page(
+    55, 7, "Veḷudvāreyya", "The People of Bamboo Gate",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.7 — The People of Bamboo Gate | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Veḷudvāreyyasutta &mdash; the golden-rule reflection "
+        "grounding the five precepts, taught to villagers who openly "
+        "state their own worldly wishes. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Bamboo Gate, a village of Kosalan brahmins"),
+        ("Speakers", "The Buddha and the brahmins and householders "
+                     "of Bamboo Gate"),
+        ("Form", "An honest request for worldly benefit, then a "
+                 "structured, reciprocity-based teaching"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the well-known reciprocity "
+                         "reflection grounding ethical conduct "
+                         "directly in the villagers' own stated "
+                         "worldly wishes, without demanding they "
+                         "renounce those wishes first"),
+    ],
+    why=(
+        "Confirmed by direct reading, the villagers of Bamboo Gate "
+        "state their own wishes openly &mdash; to live at home with "
+        "their children, enjoy luxury and fine goods, and be reborn "
+        "in a heavenly realm after death &mdash; and ask the Buddha "
+        "for a teaching that helps them achieve exactly this. Rather "
+        "than redirecting them toward renunciation, the Buddha "
+        "teaches a reciprocity-based reflection applied directly to "
+        "ethical conduct, honoring their own stated goals."
+    ),
+    guide=[
+        ("Honest wishes, honestly addressed", [
+            "Confirmed by direct reading, the villagers name their "
+            "own desires without pretense &mdash; sandalwood, "
+            "garlands, gold, a comfortable family life, and a good "
+            "rebirth &mdash; and the Buddha's own reply, &ldquo;an "
+            "explanation of the Dhamma that is relevant for "
+            "oneself,&rdquo; meets them exactly where they stand "
+            "rather than redirecting them elsewhere first.",
+        ]),
+        ("The reciprocity reflection, repeated for each precept", [
+            "Confirmed by direct reading, the same reasoning "
+            "structure recurs for each of ten harmful actions: "
+            "&ldquo;the thing that is disliked by me is also "
+            "disliked by others&mdash;since I dislike this thing, "
+            "how can I inflict it on someone else?&rdquo; &mdash; "
+            "applied in turn to killing, stealing, sexual "
+            "misconduct, lying, divisive speech, harsh speech, and "
+            "idle chatter.",
+        ]),
+        ("Ten actions, purifying body and speech in three points each", [
+            "Confirmed by direct reading, the discourse groups these "
+            "ten reflections into bodily conduct (killing, stealing, "
+            "sexual misconduct &mdash; &ldquo;purified in three "
+            "points&rdquo;) and verbal conduct (lying, divisive "
+            "speech, harsh speech, idle chatter &mdash; &ldquo;"
+            "purified in three points&rdquo; again), each abandoned "
+            "action paired with actively encouraging others toward "
+            "the same abstention.",
+        ]),
+        ("Seven good qualities and four desirable states, together", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing formula names the total achievement as "
+            "&ldquo;these seven good qualities and these four "
+            "desirable states&rdquo; &mdash; the reciprocity-based "
+            "ethical conduct plus the four factors of stream-entry "
+            "already met at SN 55.2, together licensing the same "
+            "self-declaration formula as a stream-enterer.",
+        ]),
+    ],
+    terms=[
+        ("attūpanāyikaṁ dhammapariyāyaṁ", "&ldquo;an explanation of "
+             "the Dhamma that is relevant for oneself&rdquo; "
+             "&mdash; the Buddha's own framing, meeting the "
+             "villagers' own stated wishes directly"),
+        ("yampi mayhaṁ appiyaṁ amanāpaṁ, tampi parassa appiyaṁ "
+         "amanāpaṁ", "&ldquo;the thing that is disliked by me is "
+             "also disliked by others&rdquo; &mdash; the discourse's "
+             "own recurring reciprocity formula"),
+        ("kāyakammantaṁ parisodheti tīhi ṭhānehi", "&ldquo;their "
+             "bodily behavior is purified in three points&rdquo; "
+             "&mdash; the closing formula after killing, stealing, "
+             "and sexual misconduct are each abandoned"),
+        ("vacīkammantaṁ parisodheti catūhi ṭhānehi", "&ldquo;their "
+             "verbal behavior is purified in&hellip;points&rdquo; "
+             "&mdash; the parallel closing formula after the four "
+             "kinds of harmful speech are abandoned"),
+        ("sattahi saddhammehi samannāgato catūhi ca ākaṅkhiyehi "
+         "dhammehi", "&ldquo;these seven good qualities and these "
+             "four desirable states&rdquo; &mdash; this discourse's "
+             "own combined total, licensing the same self-"
+             "declaration as a stream-enterer"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.7:1.1-2.4"),
+        ("p", "&sect;2", "sn55.7:3.1-3.4"),
+        ("p", "Reciprocity and killing", "sn55.7:4.1-4.9"),
+        ("p", "Stealing and sexual misconduct", "sn55.7:5.1-6.7"),
+        ("p", "Four kinds of harmful speech", "sn55.7:7.1-10.7"),
+        ("p", "The seven and the four, together", "sn55.7:11.1-11.7"),
+        ("p", "&sect;3", "sn55.7:12.1-12.4"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond to the villagers' own openly stated worldly wishes?",
+         "opts": ["He teaches them directly, meeting their own stated goals rather than first redirecting them toward renunciation", "He refuses to teach until they give up their worldly wishes", "He rebukes them for having such wishes at all", "He teaches only monastics are eligible for this instruction"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — \"an explanation of the Dhamma that is relevant for oneself,\" meeting them where they stand."},
+        {"q": "What reasoning structure recurs across all ten harmful actions addressed in this discourse?",
+         "opts": ["\"The thing that is disliked by me is also disliked by others\" — a reciprocity reflection applied to each in turn", "A direct command from the Buddha with no explanation given", "A description of the karmic punishment for each action", "A comparison to animal behavior for each action"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same golden-rule-style reflection, repeated for each precept."},
+        {"q": "What does this discourse's own closing formula name as the total achievement?",
+         "opts": ["\"These seven good qualities and these four desirable states\" — the reciprocity-based ethics plus the four factors of stream-entry", "Only the four factors, with the ethical reflections treated as a separate, unrelated teaching", "Eleven entirely separate and unconnected qualities", "A single unified quality with no internal division"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the two teachings combined into one licensing formula."},
+    ],
+    marginalia=[
+        ("Wishes stated plainly, not hidden", [
+            "sandalwood, garlands, gold, a good rebirth —",
+            "the Buddha teaches toward exactly this"
+        ]),
+        ("What I dislike, another dislikes too", [
+            "the same reasoning, ten times over —",
+            "killing, stealing, lying, and more"
+        ]),
+        ("Purified in three points, twice over", [
+            "body in three, speech in three more —",
+            "each precept its own small purification"
+        ]),
+        ("Seven and four, joined as one", [
+            "reciprocity's own ethics, plus confidence in three refuges —",
+            "together, the mark of a stream-enterer"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.7/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.6.html\">SN 55.6 &middot; The "
+        "Chamberlains</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.8 — Paṭhamagiñjakāvasathasutta ("In the Brick Hall, 1st")
+# Confirmed by direct reading: Ānanda asks about the rebirths of four
+# named deceased followers; the Buddha answers each individually,
+# then -- explicitly citing the burden of being asked this
+# repeatedly -- institutes a new self-administered teaching, "the
+# mirror of the teaching" (dhammādāsa), letting any noble disciple
+# confirm their own stream-entry without needing to ask the Buddha
+# directly.
+# --------------------------------------------------------------------------- #
+page(
+    55, 8, "Paṭhamagiñjakāvasatha", "In the Brick Hall (1st)",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.8 — In the Brick Hall (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamagiñjakāvasathasutta &mdash; the origin of \"the "
+        "mirror of the teaching,\" letting disciples confirm their "
+        "own stream-entry directly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, the brick house"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A rebirth inquiry for four named individuals, "
+                 "then the founding of a new self-declaration "
+                 "teaching"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; introduces &ldquo;the mirror of "
+                         "the teaching&rdquo; (dhammādāsa), a "
+                         "landmark self-administered formula for "
+                         "confirming one's own stream-entry"),
+    ],
+    why=(
+        "Confirmed by direct reading, Ānanda asks the Buddha about "
+        "the rebirths of four named deceased followers &mdash; a "
+        "monk, a nun, a layman, and a laywoman &mdash; and the "
+        "Buddha answers each individually, naming their own specific "
+        "attainment (arahantship, non-return, once-return, and "
+        "stream-entry respectively). The Buddha then explicitly "
+        "names the burden of being asked this &ldquo;each and every "
+        "time someone dies&rdquo; and institutes a new teaching, "
+        "&ldquo;the mirror of the teaching,&rdquo; letting a noble "
+        "disciple confirm their own status directly."
+    ),
+    guide=[
+        ("Four named individuals, four distinct attainments", [
+            "Confirmed by direct reading, the Buddha distinguishes "
+            "each of the four precisely: the monk Sāḷha, "
+            "arahantship (&ldquo;the undefiled freedom of heart and "
+            "freedom by wisdom&hellip;due to the ending of "
+            "defilements&rdquo;); the nun Nandā, non-return, with "
+            "the five lower fetters ended; the layman Sudatta, "
+            "once-return, with three fetters ended and greed, hate, "
+            "and delusion weakened; and the laywoman Sujātā, "
+            "stream-entry, with three fetters ended &mdash; the "
+            "same fourfold hierarchy of noble attainment this "
+            "project has met throughout Book V.",
+        ]),
+        ("A burden named directly, and a solution offered", [
+            "Confirmed by direct reading, the Buddha states plainly: "
+            "&ldquo;if you should come and ask me about it each and "
+            "every time someone dies, that would be a bother for "
+            "me&rdquo; &mdash; a rare, candid admission of personal "
+            "inconvenience, immediately followed by a constructive "
+            "solution rather than simply refusing further questions.",
+        ]),
+        ("The mirror of the teaching: the four factors, renamed", [
+            "Confirmed by direct reading, &ldquo;the mirror of the "
+            "teaching&rdquo; (dhammādāsa) is, in its own actual "
+            "content, the identical four factors of stream-entry "
+            "already given in full at SN 55.2 &mdash; now framed "
+            "explicitly as a tool any noble disciple can use to "
+            "&ldquo;declare of themselves&rdquo; their own "
+            "stream-entry, without needing to consult the Buddha "
+            "individually.",
+        ]),
+    ],
+    terms=[
+        ("kuhiṁ upapanno", "&ldquo;where has he been reborn&rdquo; "
+             "&mdash; Ānanda's own recurring question, once for "
+             "each of the four named individuals"),
+        ("diṭṭheva dhamme sayaṁ abhiññā sacchikatvā", "&ldquo;"
+             "realized it with his own insight&hellip;in this very "
+             "life&rdquo; &mdash; the arahant formula, here applied "
+             "to the monk Sāḷha specifically"),
+        ("vihesā pesā, ānanda, assa tathāgatassa", "&ldquo;that "
+             "would be a bother for me&rdquo; &mdash; the Buddha's "
+             "own candid admission, the direct motivation for "
+             "instituting the new teaching"),
+        ("dhammādāsa", "&ldquo;the mirror of the teaching&rdquo; "
+             "&mdash; this discourse's own newly introduced term, a "
+             "self-administered confirmation tool"),
+        ("khīṇanirayomhi...sotāpannohamasmi avinipātadhammo niyato "
+         "sambodhiparāyaṇo", "&ldquo;I've finished with rebirth in "
+             "hell&hellip;I am a stream-enterer!&hellip;destined "
+             "for awakening&rdquo; &mdash; the exact self-"
+             "declaration formula this new teaching licenses"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.8:1.1-2.8"),
+        ("p", "&sect;2", "sn55.8:3.1-3.4"),
+        ("p", "&sect;3", "sn55.8:4.1-4.4"),
+        ("p", "&sect;4", "sn55.8:5.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What four distinct attainments does the Buddha name for the four deceased followers?",
+         "opts": ["Arahantship (the monk Sāḷha), non-return (the nun Nandā), once-return (the layman Sudatta), and stream-entry (the laywoman Sujātā)", "All four are declared to have attained full arahantship equally", "All four are declared to have attained only stream-entry", "The Buddha declines to answer for any of them"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same fourfold hierarchy of noble attainment met throughout Book V."},
+        {"q": "What reason does the Buddha give for instituting \"the mirror of the teaching\"?",
+         "opts": ["Being asked about each individual death \"each and every time\" would be a bother for him", "He wishes to test whether Ānanda has understood the four factors correctly", "A rule newly established by the monastic community requires it", "He wants to stop teaching about rebirth entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a rare, candid personal admission, not a doctrinal or disciplinary reason."},
+        {"q": "What is \"the mirror of the teaching\" (dhammādāsa), in its own actual content?",
+         "opts": ["The identical four factors of stream-entry already given in full at SN 55.2, now framed as a self-administered tool", "An entirely new, previously untaught set of qualities", "A physical mirror used in a specific meditation ritual", "A synonym for the noble eightfold path alone"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same formula, given a new name and a new practical purpose."},
+    ],
+    marginalia=[
+        ("Four names, four distinct fates", [
+            "arahant, non-returner, once-returner, stream-enterer —",
+            "each named precisely, not left vague"
+        ]),
+        ("A bother, named honestly", [
+            "\"that would be a bother for me,\" the Buddha says —",
+            "candid, not evasive"
+        ]),
+        ("A mirror, not a new formula", [
+            "the same four factors, given a new name —",
+            "now a tool disciples can use themselves"
+        ]),
+        ("From asking the Buddha to knowing directly", [
+            "no longer needing to inquire each time —",
+            "the mirror answers for itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.8/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.7.html\">SN 55.7 &middot; The People of "
+        "Bamboo Gate</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.9 — Dutiyagiñjakāvasathasutta ("In the Brick Hall, 2nd")
+# Confirmed by direct reading: Ānanda asks about four more deceased
+# followers (paired male/female mendicants and lay followers, all
+# named "Asoka"/"Asokā"), and the discourse explicitly cross-
+# references SN 55.8 for its own full explanation, giving only the
+# first individual's own attainment before eliding the rest.
+# --------------------------------------------------------------------------- #
+page(
+    55, 9, "Dutiyagiñjakāvasatha", "In the Brick Hall (2nd)",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.9 — In the Brick Hall (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyagiñjakāvasathasutta &mdash; four more deceased "
+        "followers named Asoka/Asokā, cross-referenced directly to "
+        "SN 55.8. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.8's own setting at Ñātika"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A rebirth inquiry for four named individuals, "
+                 "explicitly cross-referenced to SN 55.8"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; a second "
+                         "instance of the Brick Hall inquiry, "
+                         "explicitly pointing back to SN 55.8's own "
+                         "full account rather than repeating it"),
+    ],
+    why=(
+        "Confirmed by direct reading, Ānanda repeats the same "
+        "pattern from SN 55.8 with four newly named deceased "
+        "followers &mdash; a monk and a nun each named Asoka/Asokā, "
+        "and a layman and laywoman of the same names &mdash; but "
+        "this discourse's own English source explicitly notes "
+        "&ldquo;all is explained as in SN 55.8,&rdquo; confirming by "
+        "direct comparison that the underlying content (the mirror "
+        "of the teaching, and the fourfold hierarchy of attainment) "
+        "is identical, not merely similar."
+    ),
+    guide=[
+        ("Four names, one shared root", [
+            "Confirmed by direct reading, all four deceased "
+            "individuals share the name Asoka (masculine) or Asokā "
+            "(feminine) &mdash; literally &ldquo;sorrowless&rdquo; "
+            "&mdash; a detail this project notes without further "
+            "comment, since the discourse itself gives no "
+            "explanation for the shared name.",
+        ]),
+        ("A direct cross-reference, confirmed by this project's own comparison", [
+            "This project's own direct comparison: rather than "
+            "restating the mirror of the teaching and its own "
+            "fourfold hierarchy a second time, this discourse's own "
+            "English source states plainly, &ldquo;(And all is "
+            "explained as in SN 55.8),&rdquo; confirming this "
+            "project's own established pattern of honest cross-"
+            "reference rather than silent duplication.",
+        ]),
+    ],
+    terms=[
+        ("bhikkhu asoko kālaṅkato", "&ldquo;the monk named Asoka "
+             "has passed away&rdquo; &mdash; the first of this "
+             "discourse's own four named individuals"),
+        ("bhikkhunī asokā", "&ldquo;the nun named Asokā&rdquo; "
+             "&mdash; the feminine form of the same name, the "
+             "second individual"),
+        ("(and all is explained as in SN 55.8)", "the English "
+             "source's own explicit cross-reference, confirming "
+             "identical underlying content rather than a new "
+             "teaching"),
+        ("ayaṁ so, ānanda, dhammādāso", "&ldquo;this is that mirror "
+             "of the teaching&rdquo; &mdash; the closing formula, "
+             "identical to SN 55.8's own"),
+        ("sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo",
+             "&ldquo;I am a stream-enterer!&hellip;destined for "
+             "awakening&rdquo; &mdash; the self-declaration formula, "
+             "unchanged from SN 55.8"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "cross-reference to SN 55.8. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.9:1.1-2.2"),
+        ("p", "&sect;2", "sn55.9:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What do all four deceased individuals in this discourse share?",
+         "opts": ["The same name, Asoka (masculine) or Asokā (feminine), meaning \"sorrowless\"", "They were all members of the same family", "They all died on the same day", "They were all ordained by the same teacher"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — noted by this project without further explanation, since none is given in the source."},
+        {"q": "How does this discourse's own English source handle repeating SN 55.8's own content?",
+         "opts": ["It explicitly cross-references SN 55.8 (\"all is explained as in SN 55.8\") rather than restating it in full", "It restates the entire teaching a second time, word for word", "It gives an entirely different explanation, contradicting SN 55.8", "It omits any explanation at all, leaving the question unanswered"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an explicit, honest cross-reference."},
+        {"q": "What does this discourse's own closing formula confirm?",
+         "opts": ["The identical mirror-of-the-teaching self-declaration already given at SN 55.8", "A new, expanded version of the self-declaration formula", "That the mirror of the teaching applies only to monastics, not lay followers", "That this discourse closes the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — unchanged from SN 55.8's own closing words."},
+    ],
+    marginalia=[
+        ("Four names, one shared root", [
+            "Asoka, Asokā, again and again —",
+            "\"sorrowless,\" left unexplained"
+        ]),
+        ("A cross-reference, stated honestly", [
+            "\"as in SN 55.8\" — no silent repeat —",
+            "the same content, plainly acknowledged"
+        ]),
+        ("The mirror, used a second time", [
+            "the same formula, a new set of names —",
+            "confirming its own reusability"
+        ]),
+        ("Ninth of ten, the vagga nears its own close", [
+            "one more Brick Hall discourse remains —",
+            "before Veḷudvāravagga's own final page"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.9/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.8.html\">SN 55.8 &middot; In the Brick "
+        "Hall (1st)</a> &mdash; this project's own full translation "
+        "of the account this discourse cross-references.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.10 — Tatiyagiñjakāvasathasutta ("In the Brick Hall, 3rd")
+# Confirmed by direct reading of the root Pali colophon: closes
+# Vagga 1 (Veḷudvāravaggo paṭhamo, "the Bamboo-Gate chapter, first"),
+# confirmed by the uddāna to match this project's own SN 55.1-10
+# exactly (including the pre-existing SN 55.1). Ānanda asks about
+# eight named laymen at once; the Buddha answers, then gives
+# statistics for the wider community at Ñātika -- over fifty
+# non-returners, ninety once-returners, five hundred stream-enterers
+# -- before explicitly restating why "the mirror of the teaching"
+# was instituted, and giving its own full content once more.
+# --------------------------------------------------------------------------- #
+page(
+    55, 10, "Tatiyagiñjakāvasatha", "In the Brick Hall (3rd)",
+    vagga="Veḷudvāravagga",
+    meta_title="SN 55.10 — In the Brick Hall (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyagiñjakāvasathasutta &mdash; over five hundred lay "
+        "followers at Ñātika confirmed as noble disciples, closing "
+        "Vagga 1. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, continuing from SN 55.8-9"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A rebirth inquiry for eight named laymen, "
+                 "community-wide statistics, then the mirror of the "
+                 "teaching restated in full"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Vagga 1 (10 discourses), "
+                         "confirmed by direct reading of the "
+                         "colophon and uddāna, with a striking "
+                         "community-wide census of over 640 named "
+                         "and unnamed noble disciples at Ñātika"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon "
+        "(&ldquo;Veḷudvāravaggo paṭhamo&rdquo;) and uddāna, this "
+        "discourse closes Vagga 1 at ten discourses, matching this "
+        "project's own SN 55.1-10 exactly. Ānanda asks about eight "
+        "named laymen at once; the Buddha answers that all eight "
+        "ended the five lower fetters and became non-returners, then "
+        "adds striking community-wide statistics: over fifty further "
+        "non-returners, more than ninety once-returners, and more "
+        "than five hundred stream-enterers, all at this one "
+        "location."
+    ),
+    guide=[
+        ("Eight names, one shared attainment", [
+            "Confirmed by direct reading, Ānanda names eight laymen "
+            "at once &mdash; Kakkaṭa, Kaḷibha, Nikata, Kaṭissaha, "
+            "Tuṭṭha, Santuṭṭha, Bhadda, and Subhadda &mdash; and the "
+            "Buddha confirms all eight share the identical "
+            "attainment: the five lower fetters ended, reborn "
+            "spontaneously as non-returners.",
+        ]),
+        ("A community-wide census", [
+            "Confirmed by direct reading, the Buddha then extends "
+            "far beyond the eight named individuals: &ldquo;over "
+            "fifty laymen in Ñātika&rdquo; as non-returners, "
+            "&ldquo;more than ninety&rdquo; as once-returners, and "
+            "&ldquo;more than five hundred&rdquo; as stream-enterers "
+            "&mdash; a striking numerical claim about the density of "
+            "noble attainment in a single lay community.",
+        ]),
+        ("The burden restated, and the mirror given in full once more", [
+            "Confirmed by direct reading, the Buddha restates his "
+            "own reasoning from SN 55.8 almost verbatim &mdash; "
+            "being asked &ldquo;each and every time someone passes "
+            "away&hellip;would be a bother for me&rdquo; &mdash; "
+            "before giving the mirror of the teaching's own full "
+            "content once more: the four factors of stream-entry, "
+            "closing both this discourse and the entire vagga.",
+        ]),
+        ("An untranslated closing, reported honestly", [
+            "This project's own direct comparison: the root Pali's "
+            "own closing colophon and ten-item uddāna are both left "
+            "as empty strings in the consulted English source, "
+            "matching the same pattern already confirmed at SN "
+            "54.10 &mdash; genuinely untranslated, not filled in by "
+            "this project.",
+        ]),
+    ],
+    terms=[
+        ("pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā "
+         "opapātikā", "&ldquo;with the ending of the five lower "
+             "fetters&hellip;reborn spontaneously&rdquo; &mdash; "
+             "the shared attainment of all eight named laymen"),
+        ("atirekaṁ paññāsamattā ñātike upāsakā kālaṅkatā", "&ldquo;"
+             "over fifty laymen in Ñātika have passed away&rdquo; "
+             "&mdash; the first figure in the community-wide census"),
+        ("atirekāni pañcamattāni upāsakasatāni ñātike upāsakā "
+         "kālaṅkatā", "&ldquo;more than five hundred laymen in "
+             "Ñātika&rdquo; &mdash; the census's own largest figure, "
+             "for stream-enterers alone"),
+        ("na kho panetaṁ, ānanda, acchariyaṁ yaṁ manussabhūto "
+         "kālaṁ kareyya", "&ldquo;it's no wonder that a human being "
+             "should pass away&rdquo; &mdash; the Buddha's own "
+             "framing, before restating why the mirror was "
+             "instituted"),
+        ("ayaṁ so, ānanda, dhammādāso dhammapariyāyo", "&ldquo;this "
+             "is that mirror of the teaching&rdquo; &mdash; closing "
+             "both this discourse and Vagga 1 itself"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source; the closing colophon and uddāna "
+        "themselves are left untranslated in the source, matching "
+        "the pattern already confirmed at SN 54.10. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.10:1.1-2.9"),
+        ("p", "The community-wide census", "sn55.10:3.1-3.3"),
+        ("p", "&sect;2", "sn55.10:4.1-4.4"),
+        ("p", "The mirror, given in full once more", "sn55.10:5.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What attainment do all eight named laymen share, according to the Buddha's own answer?",
+         "opts": ["The five lower fetters ended, reborn spontaneously as non-returners", "Full arahantship", "Stream-entry only", "Rebirth in an unspecified realm, with no attainment confirmed"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an identical attainment shared by all eight."},
+        {"q": "What does the Buddha's own community-wide census claim about Ñātika?",
+         "opts": ["Over fifty non-returners, more than ninety once-returners, and more than five hundred stream-enterers all lived (and died) there", "Only the eight named laymen achieved any noble attainment", "The entire population of Ñātika achieved full arahantship", "No further attainments beyond the eight named individuals are mentioned"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a striking numerical claim extending far beyond the eight named individuals."},
+        {"q": "What does this project's own direct comparison confirm about this discourse's own closing colophon and uddāna?",
+         "opts": ["Both are present in the root Pali (confirming Vagga 1's own ten discourses) but left untranslated in the consulted English source, matching SN 54.10's own pattern", "Both are fully translated, listing all ten titles in English", "The root Pali itself lacks a closing colophon", "The uddāna lists only nine titles, contradicting this project's own count"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, reported honestly rather than filled in."},
+    ],
+    marginalia=[
+        ("Eight names, one shared fate", [
+            "Kakkaṭa, Kaḷibha, and six more —",
+            "all non-returners, confirmed together"
+        ]),
+        ("A census beyond the named", [
+            "fifty, ninety, five hundred —",
+            "one village, remarkably full of attainment"
+        ]),
+        ("A burden restated, a solution repeated", [
+            "\"it's no wonder a human should pass away\" —",
+            "the mirror given once more, in full"
+        ]),
+        ("Tenth of ten, the vagga closes", [
+            "the uddāna names them all, in the Pali alone —",
+            "the English source leaves it untranslated"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.9.html\">SN 55.9 &middot; In the Brick "
+        "Hall (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following vaggas are still in "
+        "preparation.",
     ],
 )
