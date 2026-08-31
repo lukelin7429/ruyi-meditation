@@ -51068,3 +51068,125 @@ page(
         "namesake.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.24 — Suddhikasutta ("Plain Version")
+# Confirmed by direct reading: this saṃyutta's own barest discourse
+# yet — the four bases named, with no outcome, no method, and no
+# results stated at all.
+# --------------------------------------------------------------------------- #
+page(
+    51, 24, "Suddhika", "Plain Version",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.24 — Plain Version | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta &mdash; the four bases of psychic power "
+        "named with no elaboration at all, the barest statement in "
+        "this saṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single bare list, with no stated outcome"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf; &mdash; confirmed by direct "
+                         "reading to be this saṃyutta's own barest "
+                         "discourse, naming the four bases with no "
+                         "outcome stated at all"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own root "
+        "Pāli title, &ldquo;Suddhikasutta&rdquo; (&ldquo;plain "
+        "version&rdquo;), describes its own content precisely: the "
+        "four bases are simply named, without even the arahantship "
+        "outcome that SN 51.18 and SN 51.23 both kept."
+    ),
+    guide=[
+        ("The bare list, and nothing more", [
+            "Confirmed by direct reading, this discourse stops after "
+            "naming the four bases &mdash; enthusiasm, energy, "
+            "mental development, inquiry, each with active effort "
+            "&mdash; without stating any outcome, method, or result "
+            "at all, making it the shortest and least elaborated "
+            "discourse in this saṃyutta so far.",
+        ]),
+        ("A title that names its own function", [
+            "This project's own observation: unlike most discourses "
+            "in this saṃyutta, whose titles name a person, place, or "
+            "simile, this discourse's own title directly describes "
+            "its own literary function &mdash; a bare, unadorned "
+            "restatement of the list itself, likely serving as a "
+            "reference point for the more elaborate discourses "
+            "surrounding it.",
+        ]),
+    ],
+    terms=[
+        ("suddhika", "&ldquo;plain version&rdquo; &mdash; this "
+             "discourse's own root Pāli title, describing its own "
+             "bare, unelaborated content"),
+        ("cattāro iddhipādā", "&ldquo;these four bases of psychic "
+             "power&rdquo; &mdash; the discourse's own entire "
+             "content, without further elaboration"),
+        ("chandasamādhipadhānasaṅkhārasamannāgataṁ", "&ldquo;"
+             "immersion due to enthusiasm, and active effort&rdquo; "
+             "&mdash; the first basis, named without the detailed "
+             "method given at SN 51.11 or defined at SN 51.13"),
+        ("vīmaṁsāsamādhi", "&ldquo;immersion due to inquiry&rdquo; "
+             "&mdash; the fourth and final basis, closing the "
+             "discourse's own bare list"),
+        ("ime cattāro iddhipādā", "&ldquo;these are the four bases "
+             "of psychic power&rdquo; &mdash; the discourse's own "
+             "closing line, ending without any stated outcome"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.24:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root Pāli title, \"Suddhikasutta,\" mean, and how does it describe the discourse's own content?",
+         "opts": ["\"Plain version\" — an accurate description of its bare, unelaborated content", "\"The purified one\" — referring to an arahant mentioned in the text", "\"The cleansing\" — a metaphor for removing defilements", "\"Beginner's version\" — a simplified teaching meant only for new mendicants"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: the title precisely matches the discourse's own bare, unadorned content."},
+        {"q": "How does this discourse differ from SN 51.18 and SN 51.23, both of which also gave a bare four-basis list?",
+         "opts": ["It stops after naming the four bases, without even stating the arahantship outcome those two discourses both kept", "It adds an entirely new fifth basis not found in either of those discourses", "It is actually longer than both of those discourses combined", "It replaces the four bases with a completely different list of qualities"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: this discourse omits even the sole arahantship outcome SN 51.18 and SN 51.23 both retained."},
+        {"q": "What does this project's own observation suggest about this discourse's own likely function?",
+         "opts": ["A bare reference point for the list itself, likely supporting the more elaborate discourses around it", "A test administered to mendicants before ordination", "A later scribal addition not part of the original collection", "A summary composed specifically for lay audiences"],
+         "correct": 0,
+         "expl": "This project's own reading of the title's own descriptive function, not confirmed by any external source."},
+    ],
+    marginalia=[
+        ("Nothing added, nothing explained", [
+            "four bases named, then silence —",
+            "the barest statement in this saṃyutta"
+        ]),
+        ("A title that describes itself", [
+            "\"plain version,\" and nothing more is needed —",
+            "the name matches the content exactly"
+        ]),
+        ("Not even the ending kept", [
+            "SN 51.18 and 51.23 both closed on arahantship —",
+            "this one stops one step short"
+        ]),
+        ("A list, standing alone", [
+            "enthusiasm, energy, mind, inquiry —",
+            "offered without a single word of comment"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.23.html\">SN 51.23 &middot; A Mendicant</a> "
+        "&mdash; the previous discourse, giving this same list with "
+        "an arahantship outcome added.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
