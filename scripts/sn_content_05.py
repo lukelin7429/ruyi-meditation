@@ -77732,3 +77732,1204 @@ page(
         "Fingernail</a> &mdash; this vagga's own opening discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 56.61 — Aññatrasutta ("Not Human")
+# Confirmed by direct reading: opens Vagga 7 by reusing SN 56.51's
+# own fingernail-dirt simile, now applied to a new claim -- beings
+# reborn as humans are as rare as that pinch of dirt against the
+# whole earth.
+# --------------------------------------------------------------------------- #
+page(
+    56, 61, "Aññatra", "Not Human",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.61 — Not Human | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññatrasutta &mdash; opens Vagga 7, reusing SN 56.51's "
+        "own fingernail simile to measure how rare human rebirth "
+        "is. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.60's own setting"),
+        ("Speaker", "The Buddha, physically demonstrating a "
+                     "comparison, then addressing the mendicants "
+                     "directly"),
+        ("Form", "The identical physical demonstration already met "
+                 "at SN 56.51, now applied to a new claim"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens Vagga 7, the first of ten discourses "
+                         "reusing one simile with ten different "
+                         "applications"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse reuses SN "
+        "56.51's own exact fingernail-dirt demonstration, but "
+        "applies it to a new claim rather than the &ldquo;at most "
+        "seven more lives&rdquo; formula of Vagga 6: sentient beings "
+        "reborn as humans are as few as that pinch of dirt, while "
+        "those reborn otherwise are as many as the whole earth "
+        "&mdash; because they have not seen the four noble truths."
+    ),
+    guide=[
+        ("A familiar image, a genuinely new claim", [
+            "This project's own direct comparison against SN 56.51: "
+            "the physical demonstration (dirt on the Buddha's own "
+            "fingernail against the whole earth) is repeated word "
+            "for word, but the comparison's own target shifts "
+            "entirely &mdash; from a stream-enterer's own remaining "
+            "suffering to the sheer rarity of human rebirth itself "
+            "among all possible rebirths.",
+        ]),
+        ("A vagga named for a topic not yet introduced", [
+            "This project's own honest observation: this vagga's "
+            "own name, &ldquo;Paṭhamaāmakadhaññapeyyālavagga&rdquo; "
+            "(&ldquo;First Abbreviated Texts on Raw Grain&rdquo;), "
+            "does not match any content in SN 56.61-70 themselves "
+            "&mdash; the raw-grain topic only appears later, at SN "
+            "56.84 in Vagga 9 &mdash; suggesting this name may label "
+            "an entire four-vagga block (Vaggas 7-10) by its own "
+            "most distinctive member, a convention this project "
+            "notes without claiming certainty about its own origin.",
+        ]),
+    ],
+    terms=[
+        ("parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā", "&ldquo;picking "
+             "up a little bit of dirt on his fingernail&rdquo; "
+             "&mdash; the identical physical act already met at SN "
+             "56.51"),
+        ("appamattakā te sattā ye manussesu paccājāyanti", "&ldquo;"
+             "the sentient beings reborn as humans are few&rdquo; "
+             "&mdash; this discourse's own new claim, replacing SN "
+             "56.51's own stream-enterer application"),
+        ("aññatra manussehi paccājāyanti", "&ldquo;[reborn] other "
+             "than as humans&rdquo; &mdash; the vast majority "
+             "category giving this discourse its own title"),
+        ("adiṭṭhattā, bhikkhave, catunnaṁ ariyasaccānaṁ", "&ldquo;"
+             "because they haven't seen the four noble truths&rdquo; "
+             "&mdash; this discourse's own stated cause"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.61:1.1-1.5"),
+        ("p", "&sect;2", "sn56.61:2.1-2.5"),
+        ("p", "&sect;3", "sn56.61:3.1"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make using SN 56.51's own fingernail-dirt demonstration?",
+         "opts": ["Sentient beings reborn as humans are as few as that pinch of dirt, while those reborn otherwise are as many as the whole earth", "The identical \"at most seven more lives\" claim already made at SN 56.51", "A claim about the size of the physical universe", "A claim denying that rebirth of any kind occurs"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same demonstration, a genuinely new application."},
+        {"q": "What does this project's own honest observation note about this vagga's own name?",
+         "opts": ["The name references \"raw grain,\" a topic that doesn't appear until SN 56.84 in a later vagga, suggesting it may label a larger four-vagga block", "The name accurately describes this vagga's own content in full", "The name is a scribal error with no meaningful explanation", "The name was invented by this project itself, not found in the source"],
+         "correct": 0,
+         "expl": "This project's own honest flag of an apparent mismatch between the vagga's own name and its own content."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The first", "The second", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Paṭhamaṁ\" (\"first\")."},
+    ],
+    marginalia=[
+        ("A familiar demonstration, reused", [
+            "the same dirt, the same fingernail —",
+            "SN 56.51's own image, applied anew"
+        ]),
+        ("How rare is human birth", [
+            "as rare as that pinch of dirt —",
+            "against the whole earth of other rebirths"
+        ]),
+        ("A puzzling vagga name", [
+            "\"raw grain\" — a topic still ten discourses away —",
+            "this project notes the mismatch honestly"
+        ]),
+        ("Opening Vagga 7", [
+            "ten discourses, one simile, ten applications —",
+            "this saṃyutta's own next systematic stretch"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.61/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.60.html\">SN 56.60 &middot; A Mountain "
+        "(2nd)</a> &mdash; the closing discourse of the previous "
+        "vagga.",
+        "<a href=\"sn-56.51.html\">SN 56.51 &middot; A "
+        "Fingernail</a> &mdash; this project's own earlier occurrence "
+        "of the identical physical demonstration.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.62 — Paccantasutta ("In the Borderlands")
+# Confirmed by direct reading: the fingernail-dirt demonstration
+# given in full once more (not yet elided), applied to the rarity of
+# rebirth in central lands versus border regions.
+# --------------------------------------------------------------------------- #
+page(
+    56, 62, "Paccanta", "In the Borderlands",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.62 — In the Borderlands | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paccantasutta &mdash; rebirth in central lands is as "
+        "rare as a pinch of dirt against the whole earth. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.61's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The fingernail-dirt demonstration given in full "
+                 "once more, then a new application, partly elided"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of ten "
+                         "discourses, this vagga's own last "
+                         "discourse to give the fingernail simile in "
+                         "full before it is elided from SN 56.63 "
+                         "onward"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse repeats the "
+        "fingernail-dirt demonstration in full once more, applying "
+        "it to a new claim: sentient beings reborn in central "
+        "countries are as few as that pinch of dirt, while those "
+        "reborn in the borderlands, among uneducated foreigners, are "
+        "as many as the whole earth."
+    ),
+    guide=[
+        ("The last full statement before elision sets in", [
+            "This project's own reading, confirmed by direct "
+            "comparison against SN 56.63 onward: this discourse is "
+            "the last in this vagga to spell out the fingernail "
+            "demonstration in full &mdash; every discourse from SN "
+            "56.63 onward opens directly with an elision mark, "
+            "assuming the reader already holds the image from SN "
+            "56.61-62.",
+        ]),
+    ],
+    terms=[
+        ("majjhimesu janapadesu paccājāyanti", "&ldquo;reborn in "
+             "central countries&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("paccantimesu janapadesu...aviññātāresu milakkhesu",
+             "&ldquo;in the borderlands, among uneducated "
+             "foreigners&rdquo; &mdash; the vast majority category, "
+             "matching the whole earth, giving this discourse its "
+             "own title"),
+        ("milakkha", "&ldquo;foreigner, barbarian&rdquo; &mdash; a "
+             "term this project notes reflects the geographic and "
+             "cultural center-periphery framing of the ancient "
+             "Gangetic heartland, not a claim this project itself "
+             "endorses"),
+        ("…", "the elision marking, standing in for the causal "
+             "explanation (not seeing the four truths) already given "
+             "in full at SN 56.61"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision for the causal explanation. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.62:1.1-1.5"),
+        ("p", "&sect;2", "sn56.62:2.1"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about rebirth in central lands?",
+         "opts": ["It is as rare as the pinch of dirt, while rebirth in the borderlands is as common as the whole earth", "Central lands and borderlands are equally common places of rebirth", "Rebirth in the borderlands is rarer than in central lands, the reverse of this discourse's own actual claim", "The discourse makes no claim about geographic rebirth at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching the pattern already set at SN 56.61."},
+        {"q": "What does this project's own reading identify as distinctive about this discourse's own position in the vagga?",
+         "opts": ["It is the last discourse in this vagga to give the fingernail demonstration in full before elision sets in from SN 56.63 onward", "It is the only discourse in this vagga to use the fingernail image at all", "It is the vagga's own closing discourse", "It introduces an entirely different physical demonstration"],
+         "correct": 0,
+         "expl": "This project's own direct comparison confirming a structural transition point within the vagga."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The second", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Dutiyaṁ\" (\"second\")."},
+    ],
+    marginalia=[
+        ("The last full telling", [
+            "the fingernail demonstration, spelled out once more —",
+            "elision begins with the very next discourse"
+        ]),
+        ("Central lands, rare like dirt", [
+            "borderlands, vast like the earth —",
+            "the same comparative structure as SN 56.61"
+        ]),
+        ("A term noted, not endorsed", [
+            "\"milakkha\" — \"foreigner\" —",
+            "a period framing, flagged rather than adopted"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "wisdom's own noble eye follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.61.html\">SN 56.61 &middot; Not Human</a> "
+        "&mdash; the previous discourse, this vagga's own opening "
+        "application of the fingernail simile.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.63 — Paññāsutta ("Wisdom")
+# Confirmed by direct reading: this vagga's own first fully elided
+# discourse -- the fingernail demonstration itself no longer spelled
+# out, only the application, comparing the rarity of noble wisdom
+# to ignorance's own prevalence.
+# --------------------------------------------------------------------------- #
+page(
+    56, 63, "Paññā", "Wisdom",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.63 — Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paññāsutta &mdash; the noble eye of wisdom is as rare "
+        "as the fingernail's pinch of dirt; ignorance as common as "
+        "the earth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.62's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "itself assumed rather than restated"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the third of ten "
+                         "discourses, this vagga's own first fully "
+                         "elided instance"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings endowed with &ldquo;the noble eye of "
+        "wisdom&rdquo; to the rare pinch of dirt, and those "
+        "&ldquo;ignorant and confused&rdquo; to the vast earth "
+        "&mdash; the fingernail demonstration itself no longer "
+        "spelled out, assumed already established by SN 56.61-62."
+    ),
+    guide=[
+        ("Wisdom singled out among this vagga's own ten topics", [
+            "This project's own reading: unlike this vagga's own "
+            "other nine topics (rebirth as human, geography, "
+            "sobriety, birth-medium, filial and social respect), "
+            "this discourse alone concerns an inner quality directly "
+            "&mdash; the &ldquo;noble eye of wisdom&rdquo; "
+            "(ariyapaññācakkhu) &mdash; rather than an external "
+            "circumstance or observable behavior.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pana ariyena paññācakkhunā samannāgatā",
+             "&ldquo;the sentient beings who have the noble eye of "
+             "wisdom are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("ariyena paññācakkhunā", "&ldquo;the noble eye of "
+             "wisdom&rdquo; &mdash; a term this project notes "
+             "elsewhere in the canon names direct insight into the "
+             "four truths themselves"),
+        ("avijjāgatā sammuḷhā", "&ldquo;ignorant and confused&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.63:1.1"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about the noble eye of wisdom?",
+         "opts": ["Those who possess it are few, as rare as the pinch of dirt; those ignorant and confused are many, as common as the earth", "Wisdom is equally distributed among all sentient beings", "No sentient being has ever possessed the noble eye of wisdom", "The noble eye of wisdom is more common than ignorance"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring comparative structure."},
+        {"q": "How does this discourse's own topic differ from most of this vagga's own others, per this project's own reading?",
+         "opts": ["It concerns an inner quality (wisdom) directly, rather than an external circumstance or observable behavior", "It is the only discourse in this vagga concerning any form of respect", "It repeats an identical topic to SN 56.61", "It is the only discourse addressed to a named individual"],
+         "correct": 0,
+         "expl": "This project's own reading distinguishing this discourse's own inward focus from the vagga's own other topics."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The third", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Tatiyaṁ\" (\"third\")."},
+    ],
+    marginalia=[
+        ("Elision begins", [
+            "the fingernail image assumed, not restated —",
+            "this vagga's own first fully compressed discourse"
+        ]),
+        ("An inner quality, singled out", [
+            "wisdom, not circumstance or behavior —",
+            "distinct among this vagga's own ten topics"
+        ]),
+        ("As rare as dirt, as common as earth", [
+            "wisdom scarce, ignorance abundant —",
+            "the same structure, once more"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "sobriety follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.63/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.62.html\">SN 56.62 &middot; In the "
+        "Borderlands</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.64 — Surāmerayasutta ("Beer and Wine")
+# Confirmed by direct reading: applies the same elided formula to
+# abstinence from intoxicants -- the fifth precept, framed here in
+# terms of rarity rather than as a rule.
+# --------------------------------------------------------------------------- #
+page(
+    56, 64, "Surāmeraya", "Beer and Wine",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.64 — Beer and Wine | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Surāmerayasutta &mdash; those who refrain from "
+        "intoxicants are as rare as the fingernail's pinch of dirt. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.63's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fourth "
+                         "of ten discourses, recasting the fifth "
+                         "precept as a claim about rarity rather than "
+                         "a prescriptive rule"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from beer, wine, and liquor "
+        "intoxicants to the rare pinch of dirt, and those who do not "
+        "refrain to the vast earth &mdash; the same abstention "
+        "already familiar from the fifth of the five precepts, here "
+        "framed descriptively rather than as direct instruction."
+    ),
+    guide=[
+        ("A precept recast as an observation", [
+            "This project's own reading: rather than instructing "
+            "mendicants or lay followers to abstain (as the fifth "
+            "precept itself does elsewhere in the canon), this "
+            "discourse simply observes how rare such abstinence "
+            "already is &mdash; a descriptive claim about prevalence "
+            "rather than a prescriptive rule.",
+        ]),
+    ],
+    terms=[
+        ("surāmerayamajjappamādaṭṭhānā paṭiviratā", "&ldquo;refrain "
+             "from beer, wine, and liquor intoxicants&rdquo; "
+             "&mdash; the rare category, matching this vagga's own "
+             "recurring fifth precept"),
+        ("surā", "&ldquo;beer, spirits&rdquo; &mdash; distilled or "
+             "brewed intoxicants"),
+        ("meraya", "&ldquo;wine, fermented drink&rdquo; &mdash; the "
+             "second named category of intoxicant"),
+        ("majjappamādaṭṭhānā", "&ldquo;intoxicants that are a basis "
+             "for negligence&rdquo; &mdash; the broader category "
+             "encompassing both named drinks"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.64:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from intoxicants?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Refraining from intoxicants is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring comparative structure."},
+        {"q": "How does this project characterize this discourse's own framing of the fifth precept?",
+         "opts": ["Descriptive — observing how rare such abstinence already is, rather than prescriptively instructing it", "Purely prescriptive, with no descriptive element at all", "A denial that the fifth precept has any value", "An expansion of the precept to cover foods as well as drinks"],
+         "correct": 0,
+         "expl": "This project's own reading of the discourse's own observational rather than instructive tone."},
+        {"q": "What two categories of intoxicant does this discourse name specifically?",
+         "opts": ["Surā (beer, spirits) and meraya (wine, fermented drink)", "Tea and coffee", "Opium and cannabis", "Only a single, undifferentiated category, with no two terms distinguished"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the two specific terms making up this discourse's own title."},
+    ],
+    marginalia=[
+        ("A precept, observed rather than instructed", [
+            "not a command here, but a claim about rarity —",
+            "how uncommon such restraint already is"
+        ]),
+        ("Two named drinks", [
+            "surā and meraya —",
+            "beer and wine, specifically named"
+        ]),
+        ("The same rare/common structure", [
+            "abstainers scarce, indulgers abundant —",
+            "this vagga's own formula, once more"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "birth in water follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.64/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.63.html\">SN 56.63 &middot; Wisdom</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.65 — Odakasutta ("Born in Water")
+# Confirmed by direct reading: applies the elided formula to modes of
+# birth -- land-born beings are rare, water-born beings innumerable.
+# --------------------------------------------------------------------------- #
+page(
+    56, 65, "Odaka", "Born in Water",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.65 — Born in Water | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Odakasutta &mdash; land-born beings are as rare as the "
+        "fingernail's pinch of dirt against the water-born multitude. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.64's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fifth of ten "
+                         "discourses, this vagga's own only topic "
+                         "concerning biological mode of birth rather "
+                         "than moral or social conduct"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "beings born on land to the rare pinch of dirt, and those "
+        "born in water to the vast earth &mdash; echoing this "
+        "project's own earlier encounter with the ocean's own "
+        "innumerable small creatures at SN 56.36, though this "
+        "discourse's own comparison is narrower, concerning birth "
+        "location rather than the scale of the plane of loss."
+    ),
+    guide=[
+        ("A biological topic, distinct from this vagga's own others", [
+            "This project's own reading: unlike this vagga's own "
+            "surrounding topics (moral abstinence, filial and social "
+            "respect), this discourse alone concerns a purely "
+            "biological classification &mdash; where a being is "
+            "born &mdash; without any explicit moral or spiritual "
+            "content of its own, though the underlying point about "
+            "the sheer statistical rarity of favorable rebirth "
+            "remains consistent with this vagga's own other nine "
+            "discourses.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye thalajā", "&ldquo;the sentient beings "
+             "born on land are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("thalaja", "&ldquo;land-born&rdquo; &mdash; literally "
+             "&ldquo;arisen from dry ground&rdquo;"),
+        ("udakajā", "&ldquo;born in water&rdquo; &mdash; the vast "
+             "majority category, matching the whole earth, giving "
+             "this discourse its own title"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.65:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse compare using the fingernail-dirt demonstration?",
+         "opts": ["Land-born beings (rare, like the dirt) against water-born beings (vast, like the earth)", "Human beings against animal beings", "Beings born in the morning against beings born at night", "Male beings against female beings"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a comparison of birth location, not species or gender."},
+        {"q": "How does this discourse's own topic differ from most of this vagga's own others, per this project's own reading?",
+         "opts": ["It concerns a purely biological classification (mode of birth) rather than moral or social conduct", "It is the only discourse in this vagga mentioning water at all", "It repeats an identical claim to SN 56.36", "It is addressed to a named individual rather than the mendicants generally"],
+         "correct": 0,
+         "expl": "This project's own reading distinguishing this discourse's own biological focus from the vagga's own other topics."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fifth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Pañcamaṁ\" (\"fifth\")."},
+    ],
+    marginalia=[
+        ("Land-born, rare like dirt", [
+            "water-born, vast like the earth —",
+            "a biological classification, not a moral one"
+        ]),
+        ("An echo of SN 56.36", [
+            "the ocean's own innumerable creatures, met before —",
+            "narrower here: birth location specifically"
+        ]),
+        ("The vagga's own midpoint", [
+            "five discourses given, five remain —",
+            "the same structure holding throughout"
+        ]),
+        ("Fifth of ten", [
+            "respect for mother follows next —",
+            "this vagga's own turn toward filial and social conduct"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.65/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.64.html\">SN 56.64 &middot; Beer and "
+        "Wine</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.36.html\">SN 56.36 &middot; Living "
+        "Creatures</a> &mdash; this project's own earlier, related "
+        "comparison of the ocean's own innumerable creatures.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.66 — Matteyyasutta ("Respect Mother")
+# Confirmed by direct reading: opens this vagga's own run of four
+# filial and social respect topics -- those who respect their
+# mothers are rare, those who don't are many.
+# --------------------------------------------------------------------------- #
+page(
+    56, 66, "Matteyya", "Respect Mother",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.66 — Respect Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Matteyyasutta &mdash; those who respect their mothers "
+        "are as rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.65's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the sixth of "
+                         "ten discourses, opening a run of four "
+                         "consecutive discourses on filial and social "
+                         "respect"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who respect their mothers to the rare "
+        "pinch of dirt, and those who don't to the vast earth "
+        "&mdash; opening a consecutive run of four discourses (SN "
+        "56.66-69) applying the identical formula to respect for "
+        "mother, father, ascetics, and brahmins in turn."
+    ),
+    guide=[
+        ("A four-part sequence of respect", [
+            "This project's own reading ahead, confirmed by this "
+            "vagga's own closing uddāna at SN 56.70: SN 56.66-69 "
+            "form a deliberate sequence moving outward &mdash; from "
+            "the family (mother, then father) to the wider religious "
+            "community (ascetics, then brahmins) &mdash; before SN "
+            "56.70 closes the vagga with respect for elders "
+            "generally.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye matteyyā", "&ldquo;the sentient beings "
+             "who respect their mothers are few&rdquo; &mdash; the "
+             "rare category, matching the tiny pinch of dirt"),
+        ("matteyya", "&ldquo;one who respects their mother, filial "
+             "toward one's mother&rdquo; &mdash; the term giving "
+             "this discourse its own title"),
+        ("amatteyyā", "&ldquo;those who don't [respect their "
+             "mothers]&rdquo; &mdash; the vast majority category, "
+             "matching the whole earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.66:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who respect their mothers?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't are many, as common as the earth", "They are the vast majority of sentient beings", "The discourse makes no claim about their relative numbers", "Respecting one's mother is claimed to be universal among humans specifically"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring comparative structure."},
+        {"q": "What four-part sequence does this discourse open, per this project's own reading ahead?",
+         "opts": ["Respect for mother, father, ascetics, and brahmins in turn (SN 56.66-69), moving from family outward to religious community", "A sequence of four unrelated topics with no discernible order", "A sequence naming four different animals", "A sequence of four discourses about four different kings"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading ahead and by this vagga's own closing uddāna at SN 56.70."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The sixth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Chaṭṭhaṁ\" (\"sixth\")."},
+    ],
+    marginalia=[
+        ("A turn toward respect", [
+            "mother, then father, then wider community —",
+            "this vagga's own final four-part sequence begins"
+        ]),
+        ("Rare, once again", [
+            "those who respect their mothers, as rare as dirt —",
+            "the same comparative structure, a new topic"
+        ]),
+        ("Moving from family outward", [
+            "mother and father first —",
+            "ascetics and brahmins to follow"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "respect for father follows immediately next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.65.html\">SN 56.65 &middot; Born in "
+        "Water</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.67 — Petteyyasutta ("Respect Father")
+# Confirmed by direct reading: companion to SN 56.66, the identical
+# formula applied to respect for one's father.
+# --------------------------------------------------------------------------- #
+page(
+    56, 67, "Petteyya", "Respect Father",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.67 — Respect Father | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Petteyyasutta &mdash; those who respect their fathers "
+        "are as rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.66's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the seventh of ten "
+                         "discourses, this vagga's own second "
+                         "discourse on filial respect, mirroring SN "
+                         "56.66"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.66, this "
+        "discourse repeats the identical structure exactly, "
+        "substituting respect for one's father (petteyya) for "
+        "respect for one's mother (matteyya) &mdash; the two "
+        "discourses together forming this vagga's own complete "
+        "statement on filial respect before turning to religious "
+        "respect at SN 56.68-69."
+    ),
+    guide=[
+        ("An exact mirror of SN 56.66", [
+            "This project's own word-for-word comparison confirms "
+            "this discourse differs from SN 56.66 only in the single "
+            "substituted term &mdash; &ldquo;petteyya&rdquo; "
+            "(&ldquo;respecting one's father&rdquo;) replacing "
+            "&ldquo;matteyya&rdquo; (&ldquo;respecting one's "
+            "mother&rdquo;) &mdash; everything else, including the "
+            "elision back to SN 56.61-62, held identical.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye petteyyā", "&ldquo;the sentient beings "
+             "who respect their fathers are few&rdquo; &mdash; the "
+             "rare category, matching the tiny pinch of dirt"),
+        ("petteyya", "&ldquo;one who respects their father, filial "
+             "toward one's father&rdquo; &mdash; the term giving "
+             "this discourse its own title, mirroring SN 56.66's own "
+             "\"matteyya\""),
+        ("apetteyyā", "&ldquo;those who don't [respect their "
+             "fathers]&rdquo; &mdash; the vast majority category, "
+             "matching the whole earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.67:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 56.66, per this project's own word-for-word comparison?",
+         "opts": ["An exact mirror, substituting \"petteyya\" (respect for father) for \"matteyya\" (respect for mother), otherwise identical", "An entirely unrelated discourse sharing no structure", "A direct contradiction of SN 56.66's own claim", "A discourse that denies fathers deserve any respect"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a single-term substitution, everything else identical."},
+        {"q": "What two-discourse unit does this discourse complete, per this project's own reading?",
+         "opts": ["This vagga's own complete statement on filial respect (mother and father), before turning to religious respect at SN 56.68-69", "The vagga's own entire ten-discourse sequence", "A pairing with SN 56.61, not SN 56.66", "No unit; this discourse stands entirely alone"],
+         "correct": 0,
+         "expl": "This project's own reading of a deliberate family-to-community progression across this vagga's own final four discourses."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The seventh", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Sattamaṁ\" (\"seventh\")."},
+    ],
+    marginalia=[
+        ("One term swapped", [
+            "\"petteyya\" replaces \"matteyya\" —",
+            "otherwise identical to SN 56.66"
+        ]),
+        ("Filial respect, completed", [
+            "mother then father, both addressed —",
+            "religious respect follows next"
+        ]),
+        ("The same rarity claim", [
+            "respect for father, as rare as dirt —",
+            "this vagga's own recurring formula, once more"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "respect for ascetics follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.67/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.66.html\">SN 56.66 &middot; Respect "
+        "Mother</a> &mdash; the previous discourse, this discourse's "
+        "own exact structural mirror.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.68 — Sāmaññasutta ("Respect Ascetics")
+# Confirmed by direct reading: turns from family respect (SN 56.66-
+# 67) to religious respect, applying the identical formula to
+# respect for ascetics.
+# --------------------------------------------------------------------------- #
+page(
+    56, 68, "Sāmañña", "Respect Ascetics",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.68 — Respect Ascetics | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sāmaññasutta &mdash; those who respect ascetics are as "
+        "rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.67's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the eighth of ten "
+                         "discourses, turning from family respect to "
+                         "religious respect"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who respect ascetics to the rare pinch of "
+        "dirt, and those who don't to the vast earth &mdash; turning "
+        "this vagga's own four-discourse respect sequence from "
+        "family (SN 56.66-67) to the wider religious community, "
+        "beginning with ascetics generally before naming brahmins "
+        "specifically at SN 56.69."
+    ),
+    guide=[
+        ("A wider, less exclusive category than \"brahmin\"", [
+            "This project's own reading: &ldquo;samaṇa&rdquo; "
+            "(&ldquo;ascetic&rdquo;) is a broader term than "
+            "&ldquo;brahmin,&rdquo; already this project's own "
+            "familiar pairing throughout this saṃyutta (&ldquo;"
+            "samaṇā vā brāhmaṇā vā&rdquo;) &mdash; here split into "
+            "its own two component terms across two adjacent "
+            "discourses, this one and SN 56.69.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye sāmaññā", "&ldquo;the sentient beings "
+             "who respect ascetics are few&rdquo; &mdash; the rare "
+             "category, matching the tiny pinch of dirt"),
+        ("sāmañña", "&ldquo;respecting ascetics&rdquo; &mdash; the "
+             "term giving this discourse its own title, derived from "
+             "&ldquo;samaṇa&rdquo; (ascetic)"),
+        ("asāmaññā", "&ldquo;those who don't [respect "
+             "ascetics]&rdquo; &mdash; the vast majority category, "
+             "matching the whole earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("aṭṭhamaṁ", "&ldquo;the eighth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.68:1.1"),
+    ],
+    quiz=[
+        {"q": "What turn does this discourse mark within this vagga's own four-discourse respect sequence, per this project's own reading?",
+         "opts": ["From family respect (SN 56.66-67) to the wider religious community, beginning with ascetics generally", "A return to family respect after a brief digression", "The vagga's own opening topic, before family respect was introduced", "No turn at all; the topic remains unchanged from SN 56.67"],
+         "correct": 0,
+         "expl": "This project's own reading of a deliberate progression from family to religious community."},
+        {"q": "What does this project's own reading note about \"samaṇa\" as a category?",
+         "opts": ["A broader term than \"brahmin,\" already familiar from this saṃyutta's own recurring \"samaṇā vā brāhmaṇā vā\" pairing", "A term identical in meaning to \"brahmin\"", "A term this project encounters for the first time in this discourse", "A term referring exclusively to a specific named individual"],
+         "correct": 0,
+         "expl": "This project's own cross-reference to a familiar pairing, now split across two adjacent discourses."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The eighth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Aṭṭhamaṁ\" (\"eighth\")."},
+    ],
+    marginalia=[
+        ("From family to community", [
+            "mother and father addressed —",
+            "now the wider religious community begins"
+        ]),
+        ("A familiar pairing, split in two", [
+            "\"samaṇā vā brāhmaṇā vā\" — met throughout this saṃyutta —",
+            "here divided across two adjacent discourses"
+        ]),
+        ("Respect for ascetics, rare as dirt", [
+            "the same comparative structure —",
+            "brahmins to follow immediately next"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "respect for brahmins follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.68/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.67.html\">SN 56.67 &middot; Respect "
+        "Father</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.69 — Brahmaññasutta ("Respect Brahmins")
+# Confirmed by direct reading: companion to SN 56.68, completing the
+# "samaṇā vā brāhmaṇā vā" pairing by applying the identical formula
+# to respect for brahmins specifically.
+# --------------------------------------------------------------------------- #
+page(
+    56, 69, "Brahmañña", "Respect Brahmins",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.69 — Respect Brahmins | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Brahmaññasutta &mdash; those who respect brahmins are "
+        "as rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.68's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the ninth of ten "
+                         "discourses, completing the &ldquo;samaṇā vā "
+                         "brāhmaṇā vā&rdquo; pairing begun at SN "
+                         "56.68"),
+    ],
+    why=(
+        "Confirmed by direct comparison against SN 56.68, this "
+        "discourse repeats the identical structure exactly, "
+        "substituting respect for brahmins (brahmañña) for respect "
+        "for ascetics (sāmañña) &mdash; completing this vagga's own "
+        "four-part respect sequence before SN 56.70 closes the "
+        "vagga with respect for elders generally."
+    ),
+    guide=[
+        ("An exact mirror of SN 56.68", [
+            "This project's own word-for-word comparison confirms "
+            "this discourse differs from SN 56.68 only in the single "
+            "substituted term, completing the &ldquo;samaṇa/"
+            "brāhmaṇa&rdquo; pairing already familiar from elsewhere "
+            "in this saṃyutta &mdash; each half now given its own "
+            "dedicated discourse.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye brahmaññā", "&ldquo;the sentient "
+             "beings who respect brahmins are few&rdquo; &mdash; the "
+             "rare category, matching the tiny pinch of dirt"),
+        ("brahmañña", "&ldquo;respecting brahmins&rdquo; &mdash; the "
+             "term giving this discourse its own title, mirroring SN "
+             "56.68's own \"sāmañña\""),
+        ("abrahmaññā", "&ldquo;those who don't [respect "
+             "brahmins]&rdquo; &mdash; the vast majority category, "
+             "matching the whole earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.69:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 56.68, per this project's own word-for-word comparison?",
+         "opts": ["An exact mirror, substituting \"brahmañña\" (respect for brahmins) for \"sāmañña\" (respect for ascetics), otherwise identical", "An entirely unrelated discourse sharing no structure", "A direct contradiction of SN 56.68's own claim", "A discourse denying brahmins deserve any respect"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a single-term substitution, everything else identical."},
+        {"q": "What pairing does this discourse complete, per this project's own reading?",
+         "opts": ["The \"samaṇā vā brāhmaṇā vā\" pairing already familiar from elsewhere in this saṃyutta, each half now given its own dedicated discourse", "A pairing with SN 56.61 specifically", "No pairing at all; the discourse is entirely standalone", "A pairing with the four noble truths themselves"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — completing the two-term split begun at SN 56.68."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Navamaṁ\" (\"ninth\")."},
+    ],
+    marginalia=[
+        ("One term swapped again", [
+            "\"brahmañña\" replaces \"sāmañña\" —",
+            "otherwise identical to SN 56.68"
+        ]),
+        ("A familiar pairing, completed", [
+            "\"samaṇā vā brāhmaṇā vā\" — each half its own discourse —",
+            "the four-part respect sequence nearly done"
+        ]),
+        ("Respect for brahmins, rare as dirt", [
+            "the same comparative structure, once more —",
+            "elders in general close the sequence next"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "closing it next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.69/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.68.html\">SN 56.68 &middot; Respect "
+        "Ascetics</a> &mdash; the previous discourse, this "
+        "discourse's own exact structural mirror.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.70 — Pacāyikasutta ("Honor the Elders")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 7 ("Paṭhamaāmakadhaññapeyyālavaggo
+# sattamo"), ten discourses (SN 56.61-70), with its own closing
+# uddāna confirmed to match exactly. Widens this vagga's own respect
+# sequence from named categories to family elders generally.
+# --------------------------------------------------------------------------- #
+page(
+    56, 70, "Pacāyika", "Honor the Elders",
+    vagga="Paṭhamaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.70 — Honor the Elders | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pacāyikasutta &mdash; the closing discourse of Vagga 7, "
+        "on honoring elders in the family. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.69's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, then this vagga's own "
+                 "closing colophon and uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "confirmed by direct reading of the root "
+                         "colophon as the close of Vagga 7, ten "
+                         "discourses, widening the respect sequence "
+                         "to family elders generally"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 7 (&ldquo;"
+        "Paṭhamaāmakadhaññapeyyālavaggo sattamo&rdquo;) by comparing "
+        "sentient beings who honor the elders in their own family to "
+        "the rare pinch of dirt, and those who don't to the vast "
+        "earth &mdash; widening this vagga's own four-part respect "
+        "sequence (mother, father, ascetics, brahmins) from named "
+        "categories to family elders generally."
+    ),
+    guide=[
+        ("A generalizing close", [
+            "This project's own reading: where SN 56.66-69 each "
+            "named a specific category owed respect, this closing "
+            "discourse widens the claim to &ldquo;jeṭṭhāpacāyino&rdquo; "
+            "(&ldquo;those who honor elders&rdquo;) generally within "
+            "the family &mdash; a fitting close to the sequence, "
+            "moving from specific instances to the underlying "
+            "principle.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.61-70", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;Not human, borderlands, wisdom; beer, "
+            "wine, water; respect for mother and father too; ascetics "
+            "and honoring brahmins&rdquo;) lists exactly ten titles, "
+            "matching this project's own SN 56.61 through SN 56.70 "
+            "precisely.",
+        ]),
+        ("A name still not explained by its own content", [
+            "This project's own honest observation, carried forward "
+            "from SN 56.61: even at this vagga's own close, no "
+            "discourse in SN 56.61-70 has mentioned raw grain "
+            "(āmakadhañña) &mdash; the vagga's own name remains "
+            "unexplained by its own content, supporting this "
+            "project's own hypothesis that the name labels a larger "
+            "block (Vaggas 7-10) rather than this vagga specifically.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye kule jeṭṭhāpacāyino", "&ldquo;the "
+             "sentient beings who honor the elders in the family are "
+             "few&rdquo; &mdash; the rare category, matching the "
+             "tiny pinch of dirt"),
+        ("jeṭṭhāpacāyī", "&ldquo;one who honors elders&rdquo; "
+             "&mdash; the generalizing term giving this discourse "
+             "its own title, widening SN 56.66-69's own four named "
+             "categories"),
+        ("ajeṭṭhāpacāyino", "&ldquo;those who don't [honor "
+             "elders]&rdquo; &mdash; the vast majority category, "
+             "matching the whole earth"),
+        ("dasamaṁ. paṭhamaāmakadhaññapeyyālavaggo sattamo", "&ldquo;"
+             "tenth. the seventh vagga [ends]&rdquo; &mdash; the "
+             "root colophon's own vagga-closing marker"),
+        ("aññatra paccantaṁ paññā, surāmerayaodakā; matteyya "
+         "petteyyā cāpi, sāmaññaṁ brahmapacāyikanti", "the closing "
+             "uddāna's own ten titles, confirmed by direct reading "
+             "to match SN 56.61 through SN 56.70 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. The vagga-closing colophon and uddāna verse are "
+        "left untranslated in the consulted English source, as at "
+        "several earlier vagga closes throughout this project's own "
+        "work. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.70:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 7 (\"Paṭhamaāmakadhaññapeyyālavaggo sattamo\"), ten discourses (SN 56.61-70)", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 8, not Vagga 7"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "How does this discourse widen SN 56.66-69's own respect sequence, per this project's own reading?",
+         "opts": ["From four specific named categories (mother, father, ascetics, brahmins) to family elders generally", "It narrows the sequence to only fathers, excluding the other three categories", "It denies that any of the four earlier categories deserve respect", "It introduces an entirely unrelated fifth named category"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a generalizing close to the specific instances given before it."},
+        {"q": "What does this project's own honest observation confirm at this vagga's own close?",
+         "opts": ["No discourse in SN 56.61-70 has mentioned raw grain, leaving the vagga's own name still unexplained by its own content", "The vagga's own name is fully explained by SN 56.70's own content", "Raw grain was mentioned once, at SN 56.65", "The vagga's own name was a scribal error later corrected"],
+         "correct": 0,
+         "expl": "This project's own honest, carried-forward observation about an apparent naming mismatch."},
+    ],
+    marginalia=[
+        ("From specific to general", [
+            "mother, father, ascetics, brahmins —",
+            "now elders generally, closing the sequence"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Paṭhamaāmakadhaññapeyyālavaggo sattamo\" — the seventh vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("A name still unexplained", [
+            "no raw grain in sight, even at this vagga's own close —",
+            "the puzzle noted at SN 56.61 remains open"
+        ]),
+        ("Vagga 7 complete, four more to come", [
+            "the second raw-grain-named vagga follows next —",
+            "this saṃyutta's own final stretch continues"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.70/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.69.html\">SN 56.69 &middot; Respect "
+        "Brahmins</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.61.html\">SN 56.61 &middot; Not Human</a> "
+        "&mdash; this vagga's own opening discourse.",
+    ],
+)
