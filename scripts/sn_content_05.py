@@ -50026,3 +50026,145 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.17 — Dutiyasamaṇabrāhmaṇasutta ("Ascetics and Brahmins, 2nd")
+# Confirmed by direct reading: the promised companion to SN 51.16,
+# distinguished by naming psychic power (iddhi) itself in full
+# detail, rather than SN 51.16's own bare "mighty and powerful."
+# --------------------------------------------------------------------------- #
+page(
+    51, 17, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    vagga="Pāsādakampanavagga",
+    meta_title="SN 51.17 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta &mdash; every ascetic or "
+        "brahmin who wields the various kinds of psychic power, in "
+        "any era, owes it to the four bases. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, general, universally scoped statement, "
+                 "now specifying psychic power itself in full detail"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; confirmed "
+                         "directly as the promised companion to SN "
+                         "51.16, distinguished by spelling out "
+                         "psychic power itself rather than power in "
+                         "general"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse resolves the "
+        "question SN 51.16's own title left open: this project's "
+        "own comparison shows the &ldquo;second&rdquo; discourse "
+        "differs from the &ldquo;first&rdquo; by naming, in full "
+        "detail, the various kinds of psychic power itself &mdash; "
+        "multiplying the body, passing through walls, flying, "
+        "touching sun and moon &mdash; where SN 51.16 spoke only of "
+        "being generically &ldquo;mighty and powerful.&rdquo;"
+    ),
+    guide=[
+        ("The promised pair, now distinguished", [
+            "This project's own observation, confirmed directly by "
+            "comparing the two texts: SN 51.16's own &ldquo;mighty "
+            "and powerful&rdquo; is replaced here with the specific, "
+            "detailed list of psychic feats already given in full at "
+            "SN 51.11 &mdash; multiplying oneself, materializing and "
+            "dematerializing, passing through solid matter, walking "
+            "on water, flying, touching sun and moon, reaching the "
+            "Brahmā realm bodily.",
+        ]),
+        ("Still universally scoped, still unelaborated in method", [
+            "Confirmed by direct reading, the discourse keeps SN "
+            "51.16's own universal scope &mdash; &ldquo;all the "
+            "ascetics and brahmins in the past, future, or "
+            "present&rdquo; &mdash; and its own bare list of the "
+            "four bases, without repeating the detailed method given "
+            "at SN 51.11 or SN 51.13.",
+        ]),
+        ("A pair now complete", [
+            "This project's own observation: with this discourse, "
+            "the pair SN 51.16 has promised its own title is now "
+            "complete &mdash; general mightiness first, specific "
+            "psychic power second, both traced to the same four "
+            "bases regardless of tradition or era.",
+        ]),
+    ],
+    terms=[
+        ("dutiya", "&ldquo;second&rdquo; &mdash; the discourse's own "
+             "root Pāli title, confirming it as SN 51.16's own "
+             "promised companion"),
+        ("anekavihitaṁ iddhividhaṁ paccanubhonti", "&ldquo;wield the "
+             "various kinds of psychic power&rdquo; &mdash; the "
+             "discourse's own more specific criterion, replacing SN "
+             "51.16's own generic &ldquo;mighty and powerful&rdquo;"),
+        ("ekopi hutvā bahudhā hoti", "&ldquo;multiplying themselves "
+             "and becoming one again&rdquo; &mdash; the first item "
+             "in the detailed list this discourse now spells out"),
+        ("yāva brahmalokāpi kāyena vasaṁ vatteti", "&ldquo;"
+             "controlling their body as far as the realm of "
+             "divinity&rdquo; &mdash; the list's own final, most "
+             "extreme item, kept in full here as in SN 51.11"),
+        ("samaṇabrāhmaṇā", "&ldquo;ascetics and brahmins&rdquo; "
+             "&mdash; the same deliberately broad category as SN "
+             "51.16, unchanged across both discourses of the pair"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.17:1.1"),
+        ("p", "&sect;2", "sn51.17:2.1"),
+        ("p", "&sect;3", "sn51.17:3.1-3.2"),
+        ("p", "&sect;4", "sn51.17:4.1-4.6"),
+        ("p", "&sect;5", "sn51.17:5.1"),
+        ("p", "&sect;6", "sn51.17:6.1-6.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from SN 51.16, according to this project's own comparison?",
+         "opts": ["It names psychic power itself in full detail, rather than SN 51.16's generic 'mighty and powerful'", "It restricts the claim to Buddhist mendicants only, unlike SN 51.16's broader scope", "It denies that non-Buddhist ascetics can develop the four bases", "It adds a fifth basis not found in SN 51.16"],
+         "correct": 0,
+         "expl": "SN 51.16's bare \"mighty and powerful\" becomes here the specific list: multiplying the body, passing through walls, flying, touching sun and moon."},
+        {"q": "What confirms this discourse as SN 51.16's own promised companion?",
+         "opts": ["Its own root Pāli title, Dutiyasamaṇabrāhmaṇasutta — 'second,' directly following SN 51.16's 'first'", "A cross-reference within the discourse's own text naming SN 51.16 explicitly", "Its position immediately after SN 51.16 in every printed edition of the canon", "A colophon at the end of the discourse naming it a sequel"],
+         "correct": 0,
+         "expl": "\"Dutiya\" (\"second\") in the discourse's own root title, directly paired with SN 51.16's own \"paṭhama\" (\"first\")."},
+        {"q": "Does this discourse repeat the detailed method for developing each basis?",
+         "opts": ["No — it gives only the bare list of four, as SN 51.16 did, without repeating the method given at SN 51.11 or SN 51.13", "Yes — it gives the fullest method of any discourse in this saṃyutta", "It gives a partial method, covering only the first two bases", "It replaces the method with a completely different set of instructions"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: only the bare list of four, assuming the reader already knows the method."},
+    ],
+    marginalia=[
+        ("A promise kept", [
+            "\"first\" named its own sequel —",
+            "here, at last, the second discourse"
+        ]),
+        ("Naming the power itself", [
+            "not just \"mighty,\" but precisely how —",
+            "walking through walls, touching the sun"
+        ]),
+        ("Same source, sharper focus", [
+            "the same four bases, the same universal scope —",
+            "only the description of power itself grows specific"
+        ]),
+        ("A pair, now complete", [
+            "generic power, then its detailed form —",
+            "SN 51.16 and 51.17, closing the set"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.16.html\">SN 51.16 &middot; Ascetics and "
+        "Brahmins (1st)</a> &mdash; the previous discourse, this "
+        "discourse's own promised companion.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
