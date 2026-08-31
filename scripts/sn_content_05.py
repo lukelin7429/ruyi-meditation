@@ -53562,3 +53562,135 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.4 — Paṭhamakaṇḍakīsutta ("At Thorny Wood, 1st")
+# Confirmed by direct reading: three great disciples together --
+# Anuruddha, Sāriputta, and Moggallāna -- at Sāketa. Sāriputta asks
+# Anuruddha what a trainee (sekha) mendicant should practice; the
+# answer uses the same plain satipaṭṭhāna formula met at SN 52.2-3.
+# Its own "1st" promises a companion discourse.
+# --------------------------------------------------------------------------- #
+page(
+    52, 4, "Paṭhamakaṇḍakī", "At Thorny Wood (1st)",
+    vagga="Rahogatavagga",
+    meta_title="SN 52.4 — At Thorny Wood (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamakaṇḍakīsutta &mdash; Sāriputta asks Anuruddha "
+        "what a trainee mendicant should practice, with all three "
+        "great disciples gathered together. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Thorny Wood, near Sāketa"),
+        ("Speakers", "Venerables Sāriputta and Anuruddha, with "
+                     "Mahāmoggallāna present"),
+        ("Form", "A direct question from one great disciple to "
+                 "another, with a third present"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; a rare "
+                         "gathering of three of the Buddha's own "
+                         "chief disciples together, and its own "
+                         "title promises a companion discourse"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse brings together "
+        "three of the Buddha's own great disciples at once &mdash; "
+        "Anuruddha, Sāriputta, and Moggallāna, all staying near "
+        "Sāketa in the Thorny Wood &mdash; with Sāriputta directly "
+        "asking Anuruddha what a trainee (sekha) mendicant, one who "
+        "has not yet reached arahantship, should practice."
+    ),
+    guide=[
+        ("Three great disciples, one setting", [
+            "Confirmed by direct reading, this discourse's own "
+            "opening names all three venerables together &mdash; "
+            "Sāriputta and Moggallāna coming out of retreat in the "
+            "late afternoon specifically to visit Anuruddha, a rare "
+            "gathering this project has not yet met in this exact "
+            "combination.",
+        ]),
+        ("A question about the trainee's own practice", [
+            "Confirmed by direct reading, Sāriputta's own question "
+            "is specific: not what the arahant Anuruddha himself has "
+            "attained, but what a &ldquo;trainee mendicant&rdquo; "
+            "(sekha) &mdash; someone still on the path, not yet "
+            "fully awakened &mdash; should &ldquo;enter and remain "
+            "in.&rdquo;",
+        ]),
+        ("The same plain formula, now for the trainee specifically", [
+            "This project's own comparison: Anuruddha's own answer "
+            "uses the same plain satipaṭṭhāna formula already met at "
+            "SN 52.2-3, now explicitly framed as advice for the "
+            "trainee rather than a report of his own personal "
+            "attainment.",
+        ]),
+    ],
+    terms=[
+        ("sekho bhikkhu", "&ldquo;a trainee mendicant&rdquo; "
+             "&mdash; one who has entered the path but not yet "
+             "reached arahantship, Sāriputta's own specific subject"),
+        ("kismiṁ dhamme samādāya vattitabbaṁ", "&ldquo;what things "
+             "should a trainee mendicant enter and remain in?&rdquo; "
+             "&mdash; Sāriputta's own precise question"),
+        ("kāye kāyānupassī viharati", "&ldquo;meditates by observing "
+             "an aspect of the body&rdquo; &mdash; the same plain "
+             "formula already met at SN 52.2-3"),
+        ("paṭhama", "&ldquo;first&rdquo; &mdash; this discourse's "
+             "own root Pāli title, marking it as one of a pair"),
+        ("Kaṇḍakīvana", "&ldquo;Thorny Wood&rdquo; &mdash; the "
+             "specific grove near Sāketa where all three venerables "
+             "were staying"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.4:1.1-1.4"),
+        ("p", "&sect;2", "sn52.4:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "Which three venerables are named together in this discourse's own opening?",
+         "opts": ["Anuruddha, Sāriputta, and Mahāmoggallāna", "Anuruddha, Ānanda, and the Buddha himself", "Sāriputta, Moggallāna, and a group of unnamed mendicants only", "Anuruddha alone, with the other two only mentioned in passing"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: all three staying together near Sāketa in the Thorny Wood."},
+        {"q": "What specifically does Sāriputta ask Anuruddha about?",
+         "opts": ["What a trainee mendicant (sekha), not yet an arahant, should enter and remain in", "What Anuruddha himself personally attained to become an arahant", "Whether Moggallāna's own psychic power is genuine", "How many mendicants live in the Thorny Wood"],
+         "correct": 0,
+         "expl": "\"What things should a trainee mendicant enter and remain in?\" — a question about the sekha's own practice specifically."},
+        {"q": "Which formula does Anuruddha's own answer use, according to this project's own comparison?",
+         "opts": ["The same plain formula already met at SN 52.2-3", "SN 52.1's own fuller formula with the fivefold perception-wish list", "An entirely new formula not found anywhere else in this vagga", "No specific formula — only a general recommendation to meditate"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: the same plain \"observing an aspect of...\" formula."},
+    ],
+    marginalia=[
+        ("A rare gathering", [
+            "three great disciples, one grove —",
+            "Sāriputta and Moggallāna seek Anuruddha out"
+        ]),
+        ("A question for the trainee", [
+            "not what Anuruddha himself attained —",
+            "what one still on the path should practice"
+        ]),
+        ("The familiar answer, newly framed", [
+            "the same four foundations as before —",
+            "now offered as guidance, not autobiography"
+        ]),
+        ("A title that promises more", [
+            "\"first,\" the root title notes —",
+            "a second Thorny-Wood discourse still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.3.html\">SN 52.3 &middot; On the Bank of "
+        "the Sutanu</a> &mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
