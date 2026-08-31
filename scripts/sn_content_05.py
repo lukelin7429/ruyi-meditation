@@ -52782,3 +52782,149 @@ page_range(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# 7. Esanāvagga — Searches (SN 51.67-76)
+# Confirmed by direct bilara-data reading: this ten-discourse vagga
+# is a single merged file carrying no independent content -- the
+# explicit cross-reference "(Tell in full as in the chapter on
+# searches at SN 45.161-170)"; Pāli root "(Esanāvaggo
+# vitthāretabbo.)" Confirmed by its own closing uddāna's own ten
+# items (searches, discriminations, defilements, states of
+# existence, three kinds of suffering, barrenness, stains, troubles,
+# feelings, craving, thirst) to match this project's own
+# already-completed SN 45.161-170.
+# --------------------------------------------------------------------------- #
+page_range(
+    51, 67, 76, "Esanā", "Searches",
+    vagga="Esanāvagga",
+    meta_title="SN 51.67–76 — Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 51.67–76 — ten discourses on searches, defilements, and "
+        "craving, cross-referenced directly to this project's own "
+        "already-completed chapter at SN 45.161–170. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, carrying no independent content "
+                 "beyond an explicit cross-reference"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, structurally confirmed to "
+                         "represent ten discourses reusing already-"
+                         "translated content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file carries no "
+        "independent content of its own: it instructs the reader to "
+        "&ldquo;tell in full as in the chapter on searches at SN "
+        "45.161&ndash;170&rdquo; &mdash; this project's own already-"
+        "completed vagga from the Maggasaṃyutta &mdash; rather than "
+        "repeating its own ten themes a second time in this book."
+    ),
+    guide=[
+        ("A direct cross-reference, continuing this project's own established pattern", [
+            "This project's own comparison: as with the Diligence "
+            "and Hard-Work vaggas immediately preceding it (SN "
+            "51.45-54 and SN 51.55-66), this vagga simply points "
+            "back to an already-translated chapter (here, SN "
+            "45.161-170) rather than rewriting its own content "
+            "&mdash; the same compression pattern, now applied to "
+            "the &ldquo;searches&rdquo; (esanā) chapter.",
+        ]),
+        ("Ten themes, not similes this time", [
+            "Confirmed by direct reading of this file's own closing "
+            "uddāna, this vagga's own ten items name mental "
+            "qualities and afflictions directly &mdash; searches, "
+            "discriminations, defilements, states of existence, "
+            "three kinds of suffering, barrenness, stains, troubles, "
+            "feelings, craving, and thirst &mdash; rather than the "
+            "external similes (rivers, iron balls, hard work) used "
+            "by the vaggas immediately before it.",
+        ]),
+        ("A shift in kind, not in structure", [
+            "This project's own observation: though this vagga's own "
+            "ten items name abstract afflictions rather than "
+            "concrete images, the underlying structure &mdash; one "
+            "cross-reference instruction standing in for ten full "
+            "discourses &mdash; remains identical to every other "
+            "peyyāla vagga this project has confirmed in this "
+            "saṃyutta so far.",
+        ]),
+    ],
+    terms=[
+        ("Esanāvaggo vitthāretabbo", "&ldquo;the Searches chapter "
+             "is to be elaborated in full&rdquo; &mdash; this file's "
+             "own entire root Pāli content, a bare cross-reference "
+             "instruction"),
+        ("esanā", "&ldquo;searches&rdquo; &mdash; this vagga's own "
+             "governing theme and its own first item, shared with "
+             "this project's own already-completed SN 45.161-170"),
+        ("āsavo...bhavo ca dukkhatā tisso", "&ldquo;defilements... "
+             "states of existence, three kinds of suffering&rdquo; "
+             "&mdash; the uddāna's own middle group of afflictions"),
+        ("khilaṁ malañca nīgho ca", "&ldquo;barrenness, stains, and "
+             "troubles&rdquo; &mdash; three further afflictions "
+             "named in the uddāna's own third line"),
+        ("vedanā taṇhā tasinā", "&ldquo;feelings, craving, and "
+             "thirst&rdquo; &mdash; the uddāna's own closing three "
+             "items"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.67-76:1.1"),
+        ("p", "Uddāna", "sn51.67-76:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this file instruct the reader to do, rather than rewriting the searches teaching a second time?",
+         "opts": ["Tell it in full as in the chapter on searches at SN 45.161–170, this project's own already-completed vagga", "Skip this vagga entirely and move on to the next", "Consult an unrelated saṃyutta not yet translated by this project", "Compose an entirely new set of themes"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed chapter."},
+        {"q": "How does this vagga's own ten items differ in kind from the vaggas immediately before it (Diligence and Hard Work)?",
+         "opts": ["They name mental qualities and afflictions directly, rather than the external similes (rivers, iron balls) used before", "They are exactly the same ten items, simply repeated under a new title", "This vagga has no uddāna at all, unlike the two before it", "This vagga names twenty items instead of ten"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: searches, defilements, states of existence, suffering, craving, and other afflictions, not concrete similes."},
+        {"q": "What does this project's own observation say about the underlying structure despite this shift in content type?",
+         "opts": ["The structure remains identical — one cross-reference instruction standing in for ten full discourses, matching every other peyyāla vagga confirmed so far", "The structure is completely different, requiring a new page format", "This vagga breaks the established pattern by including full content", "The change in content type means this vagga cannot be verified against SN 45"],
+         "correct": 0,
+         "expl": "This project's own confirmation: content type changes, but the compression structure stays the same."},
+    ],
+    marginalia=[
+        ("A cross-reference, not new content", [
+            "\"tell in full as in SN 45.161–170\" —",
+            "the third such compression in a row"
+        ]),
+        ("Afflictions, not images this time", [
+            "no rivers or iron balls in this uddāna —",
+            "searches, defilements, craving, thirst"
+        ]),
+        ("The same shape, different substance", [
+            "concrete similes give way to abstract terms —",
+            "the compression pattern holds regardless"
+        ]),
+        ("A third peyyāla vagga in a row", [
+            "Diligence, Hard Work, now Searches —",
+            "each one pointing back rather than repeating"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.67-76/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.55-66.html\">SN 51.55&ndash;66 &middot; "
+        "Hard Work</a> &mdash; the previous discourse, closing "
+        "Vagga 6.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
