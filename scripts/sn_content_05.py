@@ -50791,3 +50791,158 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 51.22 — Ayoguḷasutta ("The Iron Ball")
+# Confirmed by direct reading: this vagga's own namesake discourse.
+# Ānanda asks whether the Buddha has personally traveled to the
+# Brahmā realm bodily, not just mentally; the Buddha explains the
+# mind-body technique behind this with two similes — a heated iron
+# ball becoming lighter and more workable, and a tuft of cotton-wool
+# lifted by the wind.
+# --------------------------------------------------------------------------- #
+page(
+    51, 22, "Ayoguḷa", "The Iron Ball",
+    vagga="Ayoguḷavagga",
+    meta_title="SN 51.22 — The Iron Ball | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ayoguḷasutta &mdash; the Buddha explains, with the "
+        "simile of a heated iron ball, how the body itself becomes "
+        "light enough to travel by psychic power. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A question-and-answer exchange, followed by two "
+                 "vivid similes"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; this vagga's own namesake "
+                         "discourse, confirmed directly by its own "
+                         "title and content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this is the discourse this "
+        "vagga is named for: Ānanda directly asks the Buddha whether "
+        "he has personally traveled to the Brahmā realm not only "
+        "with a mind-made body but with this very physical body, and "
+        "the Buddha's own answer &mdash; confirmed with his own "
+        "explicit &ldquo;I do, Ānanda&rdquo; twice over &mdash; "
+        "leads into a technical account of how the body itself "
+        "becomes light enough to do so."
+    ),
+    guide=[
+        ("A direct question, a direct answer", [
+            "Confirmed by direct reading, Ānanda's own question is "
+            "unusually pointed for this saṃyutta: not a general "
+            "teaching request, but whether the Buddha himself has "
+            "&ldquo;personal experience&rdquo; of traveling bodily "
+            "&mdash; and the Buddha answers plainly, &ldquo;I do, "
+            "Ānanda,&rdquo; both for the mind-made body and for "
+            "&ldquo;this body made up of the four principal "
+            "states.&rdquo;",
+        ]),
+        ("Submerging body in mind, and mind in body", [
+            "Confirmed by direct reading, the Buddha's own technical "
+            "account describes &ldquo;submerging his body in his "
+            "mind and his mind in his body,&rdquo; meditating "
+            "&ldquo;after sinking into a perception of bliss and "
+            "lightness in the body&rdquo; &mdash; at which point the "
+            "body itself becomes &ldquo;lighter, softer, more "
+            "workable, and more radiant.&rdquo;",
+        ]),
+        ("The vagga's own namesake simile", [
+            "Confirmed by direct reading, the discourse's own "
+            "central image gives this vagga its name: &ldquo;suppose "
+            "there was an iron ball that had been heated all "
+            "day&rdquo; &mdash; it too becomes &ldquo;lighter, "
+            "softer, more workable, and more radiant,&rdquo; the "
+            "same four qualities named for the meditator's own body.",
+        ]),
+        ("A second simile: cotton-wool on the wind", [
+            "Confirmed by direct reading, the discourse adds a "
+            "second image for the body's own rising into the air: "
+            "&ldquo;a light tuft of cotton-wool or kapok. Taken up "
+            "by the wind, it would easily rise up from the "
+            "ground&rdquo; &mdash; explaining, through two contrasting "
+            "similes, both the body's changed quality (the iron "
+            "ball) and its actual motion (the cotton-wool).",
+        ]),
+    ],
+    terms=[
+        ("manomayena kāyena", "&ldquo;with a mind-made body&rdquo; "
+             "&mdash; the first of the two forms of travel Ānanda "
+             "asks about"),
+        ("imināva cātumahābhūtikena kāyena", "&ldquo;with this body "
+             "made up of the four principal states&rdquo; &mdash; "
+             "the second, this project's own confirmation that the "
+             "Buddha claims literal, physical bodily travel"),
+        ("kāyaṁ citte samodhāneti, cittañca kāye", "&ldquo;"
+             "submerges his body in his mind and his mind in his "
+             "body&rdquo; &mdash; the discourse's own technical "
+             "phrase for the underlying mind-body technique"),
+        ("sukhasaññañca lahusaññañca kāyasmiṁ okkamitvā", "&ldquo;"
+             "sinking into a perception of bliss and lightness in "
+             "the body&rdquo; &mdash; the discourse's own specific "
+             "meditative perception said to cause this change"),
+        ("ayoguḷo", "&ldquo;an iron ball&rdquo; &mdash; the "
+             "discourse's own central simile, giving this vagga its "
+             "name"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.22:1.1-1.6"),
+        ("p", "&sect;2", "sn51.22:2.1-2.2"),
+        ("p", "&sect;3", "sn51.22:3.1-3.2"),
+        ("p", "&sect;4", "sn51.22:4.1-4.3"),
+        ("p", "&sect;5", "sn51.22:5.1-5.3"),
+        ("p", "&sect;6", "sn51.22:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda specifically ask the Buddha in this discourse?",
+         "opts": ["Whether he has personally traveled to the Brahmā realm not just with a mind-made body but with his own physical body", "Whether psychic power can be taught to laypeople as well as mendicants", "Whether the four bases of psychic power can be developed without a teacher", "Whether the Buddha regrets teaching psychic power to Moggallāna"],
+         "correct": 0,
+         "expl": "\"Do you have personal experience of having gone to the realm of divinity by psychic power with this body made up of the four principal states?\""},
+        {"q": "What technique does the Buddha describe as underlying this ability?",
+         "opts": ["Submerging body in mind and mind in body, meditating after sinking into a perception of bliss and lightness in the body", "Fasting for extended periods before attempting psychic travel", "Reciting a specific mantra passed down only to senior mendicants", "Physical exercises designed to strengthen the body over many years"],
+         "correct": 0,
+         "expl": "\"Submerges his body in his mind and his mind in his body. He meditates after sinking into a perception of bliss and lightness in the body.\""},
+        {"q": "What does the iron-ball simile illustrate, and what does the cotton-wool simile add?",
+         "opts": ["The iron ball illustrates the body's changed quality (lighter, softer, more workable, more radiant); the cotton-wool illustrates the body's actual rising into the air", "Both similes illustrate exactly the same point, repeated for emphasis only", "The iron ball illustrates danger; the cotton-wool illustrates safety", "The iron ball is about mental qualities; the cotton-wool is about physical qualities, with no connection between the two"],
+         "correct": 0,
+         "expl": "Two contrasting images: one for the body's changed quality, one for its actual motion upward."},
+    ],
+    marginalia=[
+        ("A pointed question", [
+            "not a teaching request, but a direct question —",
+            "\"do you have personal experience of this?\""
+        ]),
+        ("Body sunk into mind", [
+            "and mind sunk into body in turn —",
+            "the two no longer held apart"
+        ]),
+        ("Heated all day, made light", [
+            "an iron ball loses its heaviness in the fire —",
+            "the body loses its heaviness the same way"
+        ]),
+        ("Cotton-wool on the wind", [
+            "no effort needed to rise, only lightness —",
+            "the second image completes the first"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.22/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.21.html\">SN 51.21 &middot; The Path</a> "
+        "&mdash; the previous discourse, opening this vagga.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
