@@ -78933,3 +78933,1181 @@ page(
         "&mdash; this vagga's own opening discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 56.71 — Pāṇātipātasutta ("Killing Living Creatures")
+# Confirmed by direct reading: opens Vagga 8, reusing the fingernail-
+# dirt formula for the first of the ten courses of unwholesome
+# action -- refraining from killing.
+# --------------------------------------------------------------------------- #
+page(
+    56, 71, "Pāṇātipāta", "Killing Living Creatures",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.71 — Killing Living Creatures | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pāṇātipātasutta &mdash; those who refrain from killing "
+        "are as rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.70's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; opens Vagga "
+                         "8, the first of seven discourses applying "
+                         "this formula to the classical ten courses "
+                         "of unwholesome action"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from killing living creatures "
+        "to the rare pinch of dirt, and those who don't refrain to "
+        "the vast earth &mdash; opening Vagga 8's own run of seven "
+        "discourses (SN 56.71-77) built on the first seven of the "
+        "traditional ten courses of unwholesome action, the three "
+        "bodily and four verbal kinds."
+    ),
+    guide=[
+        ("The ten courses of action, seven of ten given here", [
+            "This project's own reading ahead: SN 56.71-77 restate, "
+            "in order, the three bodily unwholesome actions "
+            "(killing, stealing, sexual misconduct) and the four "
+            "verbal ones (lying, divisive speech, harsh speech, "
+            "idle chatter) &mdash; the classical list's own final "
+            "three, mental actions (covetousness, ill will, wrong "
+            "view), are notably absent from this vagga, since they "
+            "cannot be framed as something one \"refrains from\" in "
+            "quite the same behavioral sense.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pāṇātipātā paṭiviratā", "&ldquo;the "
+             "sentient beings who refrain from killing living "
+             "creatures are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("pāṇātipāta", "&ldquo;killing living creatures&rdquo; "
+             "&mdash; the first of the ten courses of unwholesome "
+             "action, and the first of the five precepts"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("paṭhamaṁ", "&ldquo;the first&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.71:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from killing living creatures?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Refraining from killing is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching the formula already established in Vagga 7."},
+        {"q": "What does this project's own reading ahead confirm about SN 56.71-77 as a group?",
+         "opts": ["They restate the first seven of the traditional ten courses of unwholesome action — three bodily, four verbal — omitting the three mental ones", "They restate all ten courses of unwholesome action in full", "They concern only bodily actions, with no verbal actions included", "They are unrelated to the traditional ten courses of action"],
+         "correct": 0,
+         "expl": "This project's own reading ahead across this vagga's own opening seven discourses."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The first", "The second", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Paṭhamaṁ\" (\"first\")."},
+    ],
+    marginalia=[
+        ("A familiar formula, a new subject", [
+            "the fingernail demonstration, assumed once more —",
+            "now applied to the ten courses of action"
+        ]),
+        ("Refraining from killing, rare as dirt", [
+            "the first precept, framed as scarcity —",
+            "not a command, but an observation"
+        ]),
+        ("Seven of ten courses, not all ten", [
+            "bodily and verbal actions, not the three mental ones —",
+            "this project's own count ahead"
+        ]),
+        ("Opening Vagga 8", [
+            "ten more discourses, one formula —",
+            "the second raw-grain-named vagga begins"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.71/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.70.html\">SN 56.70 &middot; Honor the "
+        "Elders</a> &mdash; the closing discourse of the previous "
+        "vagga.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.72 — Adinnādānasutta ("Stealing")
+# Confirmed by direct reading: the second of the ten courses of
+# unwholesome action, applying the identical formula to refraining
+# from stealing.
+# --------------------------------------------------------------------------- #
+page(
+    56, 72, "Adinnādāna", "Stealing",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.72 — Stealing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Adinnādānasutta &mdash; those who refrain from stealing "
+        "are as rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.71's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of ten "
+                         "discourses, the second of the three bodily "
+                         "courses of unwholesome action"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from stealing to the rare "
+        "pinch of dirt, and those who don't refrain to the vast "
+        "earth &mdash; the second of the ten courses of unwholesome "
+        "action, and the second of the five precepts."
+    ),
+    guide=[
+        ("The second of three bodily actions", [
+            "This project's own reading: following SN 56.71's own "
+            "killing, this discourse takes up stealing "
+            "(adinnādāna, literally &ldquo;taking what is not "
+            "given&rdquo;), the second of the three bodily courses of "
+            "unwholesome action this vagga's own opening sequence "
+            "addresses.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye adinnādānā paṭiviratā", "&ldquo;the "
+             "sentient beings who refrain from stealing are "
+             "few&rdquo; &mdash; the rare category, matching the tiny "
+             "pinch of dirt"),
+        ("adinnādāna", "&ldquo;taking what is not given, "
+             "stealing&rdquo; &mdash; literally &ldquo;taking of "
+             "the not-given,&rdquo; the second of the ten courses of "
+             "unwholesome action"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("dutiyaṁ", "&ldquo;the second&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.72:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from stealing?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Stealing is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What does \"adinnādāna\" literally mean?",
+         "opts": ["Taking what is not given", "Speaking falsely", "Harming a living creature", "Engaging in sexual misconduct"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the term's own literal construction."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The second", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Dutiyaṁ\" (\"second\")."},
+    ],
+    marginalia=[
+        ("Taking what is not given", [
+            "\"adinnādāna\" — literally \"not-given-taking\" —",
+            "the second of the ten courses of action"
+        ]),
+        ("Rare, once again", [
+            "those who refrain, as rare as dirt —",
+            "the same comparative structure, a new topic"
+        ]),
+        ("Three bodily actions, in sequence", [
+            "killing, now stealing —",
+            "sexual misconduct follows next"
+        ]),
+        ("Second of ten", [
+            "eight discourses remain in this vagga —",
+            "sexual misconduct follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.72/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.71.html\">SN 56.71 &middot; Killing Living "
+        "Creatures</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.73 — Kāmesumicchācārasutta ("Sexual Misconduct")
+# Confirmed by direct reading: the third and final bodily course of
+# unwholesome action, closing this vagga's own bodily triad before
+# turning to the four verbal courses.
+# --------------------------------------------------------------------------- #
+page(
+    56, 73, "Kāmesumicchācāra", "Sexual Misconduct",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.73 — Sexual Misconduct | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kāmesumicchācārasutta &mdash; those who refrain from "
+        "sexual misconduct are as rare as the fingernail's pinch of "
+        "dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.72's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the third of ten "
+                         "discourses, closing this vagga's own bodily "
+                         "triad before turning to speech"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from sexual misconduct to the "
+        "rare pinch of dirt, and those who don't refrain to the vast "
+        "earth &mdash; the third and final of the three bodily "
+        "courses of unwholesome action, closing that triad before "
+        "this vagga's own next four discourses turn to speech."
+    ),
+    guide=[
+        ("Closing the bodily triad", [
+            "This project's own reading: with killing (SN 56.71), "
+            "stealing (SN 56.72), and now sexual misconduct "
+            "addressed, this vagga's own three bodily courses of "
+            "unwholesome action are complete &mdash; SN 56.74 will "
+            "turn to the first of four verbal courses.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye kāmesumicchācārā paṭiviratā", "&ldquo;"
+             "the sentient beings who refrain from sexual "
+             "misconduct are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("kāmesumicchācāra", "&ldquo;sexual misconduct&rdquo; "
+             "&mdash; literally &ldquo;wrong conduct regarding "
+             "sensual pleasures,&rdquo; the third of the ten courses "
+             "of unwholesome action"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("tatiyaṁ", "&ldquo;the third&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.73:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from sexual misconduct?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Sexual misconduct is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What does this discourse complete, per this project's own reading?",
+         "opts": ["This vagga's own triad of bodily courses of unwholesome action (killing, stealing, sexual misconduct)", "The entire ten courses of unwholesome action", "This vagga's own full ten-discourse sequence", "A pairing with SN 56.61 specifically"],
+         "correct": 0,
+         "expl": "This project's own reading confirming the close of a three-part bodily sequence."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The third", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Tatiyaṁ\" (\"third\")."},
+    ],
+    marginalia=[
+        ("The bodily triad, complete", [
+            "killing, stealing, now sexual misconduct —",
+            "three of ten courses of action addressed"
+        ]),
+        ("Turning next to speech", [
+            "four verbal courses still to come —",
+            "beginning with SN 56.74's own lying"
+        ]),
+        ("The same rarity claim", [
+            "restraint scarce, misconduct common —",
+            "this vagga's own recurring formula, once more"
+        ]),
+        ("Third of ten", [
+            "seven discourses remain in this vagga —",
+            "lying follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.73/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.72.html\">SN 56.72 &middot; Stealing</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.74 — Musāvādasutta ("Lying")
+# Confirmed by direct reading: opens this vagga's own four verbal
+# courses of unwholesome action -- refraining from lying.
+# --------------------------------------------------------------------------- #
+page(
+    56, 74, "Musāvāda", "Lying",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.74 — Lying | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Musāvādasutta &mdash; those who refrain from lying are "
+        "as rare as the fingernail's pinch of dirt. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.73's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fourth of ten "
+                         "discourses, opening this vagga's own four "
+                         "verbal courses of unwholesome action"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from lying to the rare pinch of "
+        "dirt, and those who don't refrain to the vast earth "
+        "&mdash; the first of four verbal courses of unwholesome "
+        "action this vagga's own discourses now take up in "
+        "sequence (SN 56.74-77)."
+    ),
+    guide=[
+        ("Four verbal actions, in the traditional order", [
+            "This project's own reading: lying, divisive speech, "
+            "harsh speech, and idle chatter follow in the same order "
+            "this project recognizes as standard across the wider "
+            "canon's own listings of the ten courses of unwholesome "
+            "action &mdash; each already familiar from this "
+            "project's own earlier work, here recast as claims about "
+            "rarity.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye musāvādā paṭiviratā", "&ldquo;the "
+             "sentient beings who refrain from lying are few&rdquo; "
+             "&mdash; the rare category, matching the tiny pinch of "
+             "dirt"),
+        ("musāvāda", "&ldquo;false speech, lying&rdquo; &mdash; the "
+             "fourth of the ten courses of unwholesome action, and "
+             "the first of the four verbal ones"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("catutthaṁ", "&ldquo;the fourth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.74:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from lying?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Lying is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What four-discourse sequence does this discourse open, per this project's own reading?",
+         "opts": ["The four verbal courses of unwholesome action (lying, divisive speech, harsh speech, idle chatter), SN 56.74-77", "A sequence of four discourses about four different animals", "A sequence naming four kings", "No sequence; the discourse stands entirely alone"],
+         "correct": 0,
+         "expl": "This project's own reading of the traditional ordering across four adjacent discourses."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fourth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Catutthaṁ\" (\"fourth\")."},
+    ],
+    marginalia=[
+        ("From body to speech", [
+            "the bodily triad complete —",
+            "four verbal courses begin here"
+        ]),
+        ("Lying, rare as dirt", [
+            "the same comparative structure —",
+            "divisive speech follows next"
+        ]),
+        ("A traditional order, followed here", [
+            "lying, divisive, harsh, idle —",
+            "the standard sequence across the wider canon"
+        ]),
+        ("Fourth of ten", [
+            "six discourses remain in this vagga —",
+            "divisive speech follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.74/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.73.html\">SN 56.73 &middot; Sexual "
+        "Misconduct</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.75 — Pesuññasutta ("Divisive Speech")
+# Confirmed by direct reading: the second verbal course of
+# unwholesome action, applying the identical formula.
+# --------------------------------------------------------------------------- #
+page(
+    56, 75, "Pesuñña", "Divisive Speech",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.75 — Divisive Speech | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pesuññasutta &mdash; those who refrain from divisive "
+        "speech are as rare as the fingernail's pinch of dirt. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.74's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the fifth of ten "
+                         "discourses, the second of four verbal "
+                         "courses of unwholesome action"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from divisive speech to the "
+        "rare pinch of dirt, and those who don't refrain to the vast "
+        "earth &mdash; the second of the four verbal courses this "
+        "vagga's own sequence addresses."
+    ),
+    guide=[
+        ("Speech that fractures relationships", [
+            "This project's own reading: &ldquo;pesuñña&rdquo; "
+            "(&ldquo;divisive speech, backbiting&rdquo;) names "
+            "speech deliberately aimed at breaking apart friendships "
+            "or communities &mdash; a category this project notes is "
+            "distinct in kind from lying's own simple falsehood, "
+            "concerning speech's own relational damage rather than "
+            "truth-value alone.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pisuṇāya vācāya paṭiviratā", "&ldquo;"
+             "the sentient beings who refrain from backbiting are "
+             "few&rdquo; &mdash; the rare category, matching the "
+             "tiny pinch of dirt"),
+        ("pesuñña", "&ldquo;divisive speech, backbiting&rdquo; "
+             "&mdash; speech deliberately aimed at breaking apart "
+             "friendships or communities, the fifth of the ten "
+             "courses of unwholesome action"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("pañcamaṁ", "&ldquo;the fifth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.75:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from divisive speech?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Divisive speech is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "How does this project's own reading distinguish \"pesuñña\" from lying?",
+         "opts": ["It concerns speech's own relational damage — deliberately breaking apart friendships or communities — rather than truth-value alone", "The two terms are treated as exact synonyms with no distinction", "\"Pesuñña\" refers exclusively to written communication", "\"Pesuñña\" is a subset of stealing, not a form of speech at all"],
+         "correct": 0,
+         "expl": "This project's own reading of a category distinct in kind from simple falsehood."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The fifth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Pañcamaṁ\" (\"fifth\")."},
+    ],
+    marginalia=[
+        ("Speech that breaks bonds", [
+            "\"pesuñña\" — deliberately divisive —",
+            "distinct from simple falsehood"
+        ]),
+        ("Rare, once again", [
+            "those who refrain, as rare as dirt —",
+            "the same comparative structure, a new topic"
+        ]),
+        ("Second of four verbal courses", [
+            "lying addressed, now divisive speech —",
+            "harsh speech follows next"
+        ]),
+        ("Fifth of ten", [
+            "the vagga's own midpoint reached —",
+            "harsh speech follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.75/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.74.html\">SN 56.74 &middot; Lying</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.76 — Pharusavācāsutta ("Harsh Speech")
+# Confirmed by direct reading: the third verbal course of
+# unwholesome action.
+# --------------------------------------------------------------------------- #
+page(
+    56, 76, "Pharusavācā", "Harsh Speech",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.76 — Harsh Speech | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pharusavācāsutta &mdash; those who refrain from harsh "
+        "speech are as rare as the fingernail's pinch of dirt. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.75's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the sixth of ten "
+                         "discourses, the third of four verbal "
+                         "courses of unwholesome action"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from harsh speech to the rare "
+        "pinch of dirt, and those who don't refrain to the vast "
+        "earth &mdash; the third of the four verbal courses this "
+        "vagga's own sequence addresses."
+    ),
+    guide=[
+        ("Cruelty in manner, not only content", [
+            "This project's own reading: &ldquo;pharusavācā&rdquo; "
+            "(&ldquo;harsh speech&rdquo;) concerns speech's own tone "
+            "and delivery &mdash; abusive, cutting words &mdash; a "
+            "category this project notes is distinct from divisive "
+            "speech's own relational aim, even though both cause "
+            "harm through the same medium.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye pharusāya vācāya paṭiviratā", "&ldquo;"
+             "the sentient beings who refrain from harsh speech are "
+             "few&rdquo; &mdash; the rare category, matching the "
+             "tiny pinch of dirt"),
+        ("pharusavācā", "&ldquo;harsh speech&rdquo; &mdash; abusive "
+             "or cutting words, the sixth of the ten courses of "
+             "unwholesome action"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("chaṭṭhaṁ", "&ldquo;the sixth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.76:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from harsh speech?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Harsh speech is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "How does this project's own reading distinguish harsh speech from divisive speech?",
+         "opts": ["Harsh speech concerns tone and delivery (abusive, cutting words), while divisive speech concerns its own relational aim of breaking apart bonds", "The two terms are treated as exact synonyms with no distinction", "Harsh speech refers exclusively to written communication", "Harsh speech is a subset of lying, not its own distinct category"],
+         "correct": 0,
+         "expl": "This project's own reading distinguishing two related but distinct verbal categories."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The sixth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Chaṭṭhaṁ\" (\"sixth\")."},
+    ],
+    marginalia=[
+        ("Cruelty in tone", [
+            "\"pharusavācā\" — abusive, cutting words —",
+            "distinct from divisive speech's own relational aim"
+        ]),
+        ("Rare, once again", [
+            "those who refrain, as rare as dirt —",
+            "the same comparative structure, a new topic"
+        ]),
+        ("Third of four verbal courses", [
+            "lying and divisive speech addressed —",
+            "idle chatter follows next"
+        ]),
+        ("Sixth of ten", [
+            "four discourses remain in this vagga —",
+            "idle chatter follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.76/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.75.html\">SN 56.75 &middot; Divisive "
+        "Speech</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.77 — Samphappalāpasutta ("Nonsense")
+# Confirmed by direct reading: the fourth and final verbal course of
+# unwholesome action, closing this vagga's own verbal sequence before
+# turning to precept-observance topics at SN 56.78.
+# --------------------------------------------------------------------------- #
+page(
+    56, 77, "Samphappalāpa", "Nonsense",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.77 — Nonsense | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samphappalāpasutta &mdash; those who refrain from "
+        "talking nonsense are as rare as the fingernail's pinch of "
+        "dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.76's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the seventh "
+                         "of ten discourses, closing this vagga's own "
+                         "run through all seven applicable courses of "
+                         "unwholesome action"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from talking nonsense to the "
+        "rare pinch of dirt, and those who don't refrain to the vast "
+        "earth &mdash; the fourth and final verbal course, closing "
+        "this vagga's own complete run through seven of the ten "
+        "courses of unwholesome action (SN 56.71-77) before turning "
+        "to precept-observance topics at SN 56.78."
+    ),
+    guide=[
+        ("The seven courses, now complete", [
+            "This project's own final accounting: with talking "
+            "nonsense addressed, SN 56.71-77 has restated all three "
+            "bodily and all four verbal courses of unwholesome "
+            "action, the classical seven that this saṃyutta's own "
+            "wider tradition treats as directly observable in "
+            "conduct &mdash; the remaining three (covetousness, ill "
+            "will, wrong view) belong to the mind rather than "
+            "outward behavior, and this project notes their absence "
+            "is consistent rather than an oversight.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye samphappalāpā paṭiviratā", "&ldquo;the "
+             "sentient beings who refrain from talking nonsense are "
+             "few&rdquo; &mdash; the rare category, matching the "
+             "tiny pinch of dirt"),
+        ("samphappalāpa", "&ldquo;talking nonsense, idle "
+             "chatter&rdquo; &mdash; the seventh of the ten courses "
+             "of unwholesome action, and the fourth verbal one"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("sattamaṁ", "&ldquo;the seventh&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.77:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from talking nonsense?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Talking nonsense is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What does this project's own final accounting confirm about SN 56.71-77?",
+         "opts": ["All three bodily and all four verbal courses of unwholesome action are complete, with the three mental ones consistently absent", "All ten courses of unwholesome action, including the mental three, are covered", "Only the bodily courses are addressed, with no verbal ones included", "The sequence is incomplete, missing at least one bodily course"],
+         "correct": 0,
+         "expl": "This project's own count confirming a complete, consistent seven-part sequence."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The seventh", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Sattamaṁ\" (\"seventh\")."},
+    ],
+    marginalia=[
+        ("Seven courses, complete", [
+            "three bodily, four verbal, all addressed —",
+            "the mental three consistently left out"
+        ]),
+        ("Idle chatter, rare as dirt", [
+            "the same comparative structure —",
+            "closing this vagga's own verbal sequence"
+        ]),
+        ("A shift in topic ahead", [
+            "precept-observance items follow next —",
+            "seeds, food timing, adornment"
+        ]),
+        ("Seventh of ten", [
+            "three discourses remain in this vagga —",
+            "plants and seeds follow next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.77/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.76.html\">SN 56.76 &middot; Harsh "
+        "Speech</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.78 — Bījagāmasutta ("Plants")
+# Confirmed by direct reading: shifts from the seven courses of
+# unwholesome action to precept-observance items, beginning with
+# refraining from injuring plants and seeds -- the first appearance
+# of the "seed/grain" theme that gives this four-vagga block its
+# own name.
+# --------------------------------------------------------------------------- #
+page(
+    56, 78, "Bījagāma", "Plants",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.78 — Plants | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bījagāmasutta &mdash; those who refrain from injuring "
+        "plants and seeds are as rare as the fingernail's pinch of "
+        "dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.77's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "eighth of ten discourses, its own topic "
+                         "(seeds and plants) offering the first "
+                         "partial explanation for this four-vagga "
+                         "block's own \"raw grain\" name"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from injuring plants and seeds "
+        "to the rare pinch of dirt, and those who don't refrain to "
+        "the vast earth &mdash; shifting from the seven courses of "
+        "unwholesome action (SN 56.71-77) to a monastic "
+        "precept-observance item, and offering this project's own "
+        "first partial explanation for the puzzling &ldquo;raw "
+        "grain&rdquo; block name first noted at SN 56.61."
+    ),
+    guide=[
+        ("A partial answer to an open puzzle", [
+            "This project's own updated reading: &ldquo;bīja&rdquo; "
+            "(&ldquo;seed&rdquo;) is the same root found in "
+            "&ldquo;āmakadhañña&rdquo; (&ldquo;raw grain&rdquo;), "
+            "the term naming this entire four-vagga block "
+            "&mdash; this discourse's own topic, together with SN "
+            "56.84's own dedicated raw-grain discourse still ahead "
+            "in Vagga 9, suggests the block's own name derives from "
+            "a shared plant/seed/grain thread running through "
+            "Vaggas 8-9 specifically, though Vagga 7's own content "
+            "(filial and social respect) still does not fit this "
+            "explanation, and this project continues to flag the "
+            "puzzle as only partially resolved.",
+        ]),
+        ("A shift from ethical conduct to monastic observance", [
+            "This project's own reading: unlike SN 56.71-77's own "
+            "ethical courses of action, refraining from injuring "
+            "plants and seeds is more specifically a monastic "
+            "training rule, one this project recognizes elsewhere in "
+            "the canon among items observed particularly by "
+            "mendicants and precept-keeping lay followers.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye bījagāmabhūtagāmasamārambhā "
+         "paṭiviratā", "&ldquo;the sentient beings who refrain from "
+             "injuring plants and seeds are few&rdquo; &mdash; the "
+             "rare category, matching the tiny pinch of dirt"),
+        ("bīja", "&ldquo;seed&rdquo; &mdash; sharing its own root "
+             "with &ldquo;āmakadhañña&rdquo; (&ldquo;raw "
+             "grain&rdquo;), the term naming this four-vagga block"),
+        ("bhūtagāma", "&ldquo;plant life, vegetation&rdquo; "
+             "&mdash; paired with &ldquo;bīja&rdquo; to cover both "
+             "seeds and growing plants"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.78:1.1"),
+    ],
+    quiz=[
+        {"q": "What partial explanation does this project's own reading offer for the \"raw grain\" block name, first noted as puzzling at SN 56.61?",
+         "opts": ["\"Bīja\" (seed), this discourse's own topic, shares its own root with \"āmakadhañña\" (raw grain), suggesting a shared plant/seed/grain thread through Vaggas 8-9", "The name is now fully and completely explained with no remaining puzzle", "This discourse denies any connection between its own topic and the block's own name", "The explanation involves an entirely different word with no shared root"],
+         "correct": 0,
+         "expl": "This project's own updated, still partial reading — Vagga 7's own content still doesn't fit the explanation."},
+        {"q": "How does this project characterize this discourse's own topic compared to SN 56.71-77?",
+         "opts": ["A monastic training rule (refraining from injuring plants and seeds) rather than one of the ethical courses of unwholesome action", "An identical restatement of SN 56.71's own killing precept", "A topic entirely unrelated to conduct of any kind", "A rule applying exclusively to laypeople, never to mendicants"],
+         "correct": 0,
+         "expl": "This project's own reading of a shift from ethical conduct to monastic observance."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The eighth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order, following SN 56.77."},
+    ],
+    marginalia=[
+        ("A puzzle, partly solved", [
+            "\"bīja\" — seed — shares its own root with \"raw grain\" —",
+            "still not a full explanation for Vagga 7"
+        ]),
+        ("From ethics to observance", [
+            "the seven courses of action complete —",
+            "monastic precept-items begin here"
+        ]),
+        ("Plants and seeds, rare restraint", [
+            "the same comparative structure —",
+            "food timing follows next"
+        ]),
+        ("Eighth of ten", [
+            "two discourses remain in this vagga —",
+            "eating at the wrong time follows next"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.78/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.77.html\">SN 56.77 &middot; Nonsense</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"sn-56.61.html\">SN 56.61 &middot; Not Human</a> "
+        "&mdash; this project's own first flag of the \"raw grain\" "
+        "naming puzzle this discourse partly addresses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.79 — Vikālabhojanasutta ("Food at the Wrong Time")
+# Confirmed by direct reading: continues this vagga's own turn to
+# monastic precept-observance items -- refraining from eating at the
+# wrong time.
+# --------------------------------------------------------------------------- #
+page(
+    56, 79, "Vikālabhojana", "Food at the Wrong Time",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.79 — Food at the Wrong Time | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vikālabhojanasutta &mdash; those who refrain from "
+        "eating at the wrong time are as rare as the fingernail's "
+        "pinch of dirt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.78's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, the fingernail demonstration "
+                 "assumed"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the ninth of ten "
+                         "discourses, a recognizable item among the "
+                         "eight precepts observed on uposatha days"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse compares "
+        "sentient beings who refrain from eating at the wrong time "
+        "to the rare pinch of dirt, and those who don't refrain to "
+        "the vast earth &mdash; a monastic training rule this "
+        "project recognizes elsewhere in the canon as one of the "
+        "eight precepts observed by lay followers on uposatha days, "
+        "and as standard practice for ordained mendicants."
+    ),
+    guide=[
+        ("A recognizable precept, reframed as rarity", [
+            "This project's own reading: &ldquo;vikālabhojana&rdquo; "
+            "(&ldquo;eating at the wrong time,&rdquo; conventionally "
+            "meaning after midday) names a training rule this "
+            "project recognizes elsewhere as one of the standard "
+            "eight precepts &mdash; here, as throughout this vagga, "
+            "recast not as an instruction but as an observation "
+            "about how rarely it is actually kept.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye vikālabhojanā paṭiviratā", "&ldquo;the "
+             "sentient beings who refrain from food at the wrong "
+             "time are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("vikālabhojana", "&ldquo;eating at the wrong time&rdquo; "
+             "&mdash; conventionally, eating after midday, one of "
+             "the eight precepts observed on uposatha days"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("…", "the elision marking, standing in for the fingernail "
+             "demonstration already given in full at SN 56.61-62"),
+        ("navamaṁ", "&ldquo;the ninth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 56.61's own full statement. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.79:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about those who refrain from eating at the wrong time?",
+         "opts": ["They are few, as rare as the pinch of dirt; those who don't refrain are many, as common as the earth", "They are the vast majority of all sentient beings", "The discourse makes no claim about their relative numbers", "Eating at the wrong time is claimed to be impossible for any being"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — matching this vagga's own recurring formula."},
+        {"q": "What does this project's own reading identify \"vikālabhojana\" as?",
+         "opts": ["One of the eight precepts observed on uposatha days, and standard practice for ordained mendicants", "A rule found nowhere else in the wider canon", "A precept applying exclusively to laypeople, never to mendicants", "A dietary restriction concerning specific foods rather than timing"],
+         "correct": 0,
+         "expl": "This project's own cross-reference to a recognizable precept item."},
+        {"q": "What position does this discourse occupy in this vagga's own ten-discourse sequence?",
+         "opts": ["The ninth", "The first", "The final, tenth", "It stands outside the vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Navamaṁ\" (\"ninth\")."},
+    ],
+    marginalia=[
+        ("A familiar precept, recast", [
+            "eating after midday — one of the eight precepts —",
+            "here framed as a claim about rarity"
+        ]),
+        ("Rare, once again", [
+            "restraint scarce, indulgence common —",
+            "this vagga's own recurring formula, once more"
+        ]),
+        ("Ninth of ten", [
+            "one discourse remains in this vagga —",
+            "closing it next"
+        ]),
+        ("Nearing this vagga's own close", [
+            "adornment and perfume still to come —",
+            "the final item in this ten-part sequence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.79/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.78.html\">SN 56.78 &middot; Plants</a> "
+        "&mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 56.80 — Gandhavilepanasutta ("Perfumes and Makeup")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 8 ("Dutiyaāmakadhaññapeyyālavaggo aṭṭhamo"),
+# ten discourses (SN 56.71-80), with its own closing uddāna confirmed
+# to match exactly.
+# --------------------------------------------------------------------------- #
+page(
+    56, 80, "Gandhavilepana", "Perfumes and Makeup",
+    vagga="Dutiyaāmakadhaññapeyyālavagga",
+    meta_title="SN 56.80 — Perfumes and Makeup | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gandhavilepanasutta &mdash; the closing discourse of "
+        "Vagga 8, on refraining from garlands, perfumes, and "
+        "adornment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "56.79's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single elided line, then this vagga's own "
+                 "closing colophon and uddāna"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "confirmed by direct reading of the root "
+                         "colophon as the close of Vagga 8, ten "
+                         "discourses"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes Vagga 8 (&ldquo;Dutiyaāmakadhaññapeyyāla"
+        "vaggo aṭṭhamo&rdquo;) by comparing sentient beings who "
+        "refrain from wearing garlands, perfumes, and cosmetics to "
+        "the rare pinch of dirt, and those who don't refrain to the "
+        "vast earth &mdash; the final item among the precept-"
+        "observance topics begun at SN 56.78, and this vagga's own "
+        "tenth discourse."
+    ),
+    guide=[
+        ("Closing a recognizable eight-precept item", [
+            "This project's own reading: &ldquo;mālāgandhavilepana"
+            "dhāraṇamaṇḍanavibhūsanaṭṭhānā&rdquo; (&ldquo;wearing "
+            "garlands, perfumes, cosmetics, and jewelry&rdquo;) "
+            "names another of the standard eight precepts, closing "
+            "the run begun with SN 56.78's own plants and seeds and "
+            "SN 56.79's own eating at the wrong time.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 56.71-80", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;Killing, stealing, sexual misconduct; "
+            "lying and divisive speech; harsh speech and nonsense; "
+            "plants, wrong time, and perfume&rdquo;) lists exactly "
+            "ten titles, matching this project's own SN 56.71 "
+            "through SN 56.80 precisely.",
+        ]),
+    ],
+    terms=[
+        ("appakā te sattā ye mālāgandhavilepanadhāraṇamaṇḍana"
+         "vibhūsanaṭṭhānā paṭiviratā", "&ldquo;the sentient beings "
+             "who refrain from garlands, perfumes, cosmetics, and "
+             "jewelry are few&rdquo; &mdash; the rare category, "
+             "matching the tiny pinch of dirt"),
+        ("mālāgandhavilepana", "&ldquo;garlands, scents, and "
+             "makeup&rdquo; &mdash; the compound term giving this "
+             "discourse its own title"),
+        ("dasamaṁ. dutiyaāmakadhaññapeyyālavaggo aṭṭhamo", "&ldquo;"
+             "tenth. the eighth vagga [ends]&rdquo; &mdash; the root "
+             "colophon's own vagga-closing marker"),
+        ("appaṭiviratā", "&ldquo;those who don't refrain&rdquo; "
+             "&mdash; the vast majority category, matching the whole "
+             "earth"),
+        ("pāṇaṁ adinnaṁ kāmesu, musāvādañca pesuññaṁ; pharusaṁ "
+         "samphappalāpaṁ, bījañca vikālaṁ gandhanti", "the closing "
+             "uddāna's own ten titles, confirmed by direct reading "
+             "to match SN 56.71 through SN 56.80 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision. The vagga-closing colophon and uddāna verse are "
+        "left untranslated in the consulted English source, as at "
+        "several earlier vagga closes throughout this project's own "
+        "work. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn56.80:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 8 (\"Dutiyaāmakadhaññapeyyālavaggo aṭṭhamo\"), ten discourses (SN 56.71-80)", "It closes the entire Saccasaṃyutta, all 131 discourses", "It is this saṃyutta's own opening discourse", "It belongs to Vagga 9, not Vagga 8"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "What precept item does this discourse name?",
+         "opts": ["Refraining from wearing garlands, perfumes, cosmetics, and jewelry", "Refraining from injuring plants and seeds, already treated at SN 56.78", "Refraining from eating at the wrong time, already treated at SN 56.79", "An entirely new item unrelated to any precept"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the final item in this vagga's own three-part precept-observance sequence."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 56.71-80?",
+         "opts": ["Its own ten listed titles match this project's own ten discourses exactly", "It lists only nine titles, contradicting this project's own count of ten", "It lists titles from an entirely different vagga", "The uddāna gives entirely different terms from this project's own ten discourses"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure."},
+    ],
+    marginalia=[
+        ("Adornment, rare restraint", [
+            "garlands, perfumes, cosmetics, jewelry —",
+            "the final precept item in this vagga's own sequence"
+        ]),
+        ("Ten discourses, confirmed by the colophon", [
+            "\"Dutiyaāmakadhaññapeyyālavaggo aṭṭhamo\" — the eighth vagga ends —",
+            "the uddāna's own ten titles match exactly"
+        ]),
+        ("Seven courses, three precepts", [
+            "killing through nonsense, then plants, timing, adornment —",
+            "this vagga's own own two-part internal structure"
+        ]),
+        ("Vagga 8 complete, three more to come", [
+            "the third raw-grain-named vagga follows next —",
+            "where the raw grain itself finally appears"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn56.80/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-56.79.html\">SN 56.79 &middot; Food at the "
+        "Wrong Time</a> &mdash; the previous discourse.",
+        "<a href=\"sn-56.71.html\">SN 56.71 &middot; Killing Living "
+        "Creatures</a> &mdash; this vagga's own opening discourse.",
+    ],
+)
