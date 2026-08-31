@@ -68629,3 +68629,1616 @@ page(
         "this saṃyutta's own final vagga is still in preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Mahāpaññavagga ("Great Wisdom"), SN 55.62-74 -- confirmed by direct
+# reading of SN 55.74's own closing line ("The Linked Discourses on
+# Stream-Entry, the eleventh section") to be this saṃyutta's own
+# seventh and final vagga, thirteen discourses, closing the entire
+# Sotāpattisaṃyutta at 74 discourses total (10+10+10+10+10+11+13),
+# confirmed as Book V's own eleventh saṃyutta.
+#
+# SN 55.62 — Mahāpaññāsutta ("Great Wisdom")
+# Confirmed by direct reading: opens this vagga's own thirteen-part
+# catalog of wisdom's own distinct qualities, each attributed to the
+# identical four causal conditions already met throughout SN
+# 55.55-61.
+# --------------------------------------------------------------------------- #
+page(
+    55, 62, "Mahāpaññā", "Great Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.62 — Great Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahāpaññāsutta &mdash; the four causal conditions "
+        "leading to great wisdom, opening this saṃyutta's own final "
+        "vagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.61's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single, bare statement of the four causal "
+                 "conditions"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; "
+                         "opens this saṃyutta's own final vagga, a "
+                         "thirteen-part catalog naming distinct "
+                         "qualities of wisdom, all produced by the "
+                         "identical four conditions"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens a "
+        "thirteen-discourse catalog (SN 55.62-74) naming distinct "
+        "qualities of wisdom in turn &mdash; great, widespread, "
+        "abundant, deep, and so on through penetrating &mdash; each "
+        "attributed to the identical four causal conditions already "
+        "confirmed throughout SN 55.55-61: associating with true "
+        "persons, listening to the true teaching, rational "
+        "application of mind, and practicing in line with the "
+        "teaching."
+    ),
+    guide=[
+        ("A catalog of qualities, one formula", [
+            "This project's own direct comparison across the "
+            "thirteen discourses of this vagga: only the named "
+            "quality of wisdom changes from discourse to discourse "
+            "&mdash; the causal conditions themselves remain fixed "
+            "throughout, confirming this vagga's own structure as a "
+            "systematic exploration of wisdom's own many facets "
+            "rather than thirteen genuinely distinct teachings.",
+        ]),
+        ("\"Great,\" the first and broadest term", [
+            "Confirmed by direct reading, &ldquo;mahāpaññā&rdquo; "
+            "(&ldquo;great wisdom&rdquo;) opens the sequence with "
+            "the most general possible descriptor, before the "
+            "following twelve discourses each specify a more "
+            "particular quality &mdash; breadth, depth, speed, "
+            "sharpness, and so on.",
+        ]),
+    ],
+    terms=[
+        ("mahāpaññatāya saṁvattanti", "&ldquo;lead to great "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result, opening the thirteen-part catalog"),
+        ("mahāpaññā", "&ldquo;great wisdom&rdquo; &mdash; the "
+             "broadest, most general term in this vagga's own "
+             "catalog of thirteen distinct wisdom-qualities"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first of the four causal "
+             "conditions, unchanged throughout this vagga"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth and final "
+             "condition"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.62:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What structure does SN 55.62-74 share across all thirteen discourses?",
+         "opts": ["The identical four causal conditions, with only the named quality of wisdom changing from discourse to discourse", "Thirteen entirely unrelated teachings with no shared structure", "A different causal formula for each of the thirteen discourses", "A single discourse repeated exactly thirteen times with no variation at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison across the vagga's own thirteen discourses."},
+        {"q": "What role does \"great wisdom\" (mahāpaññā) play as this vagga's own opening term?",
+         "opts": ["The broadest, most general descriptor, before the following discourses specify more particular qualities", "The narrowest, most specific term in the entire catalog", "An unrelated quality with no connection to the rest of the vagga", "The final and most advanced quality in the sequence"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a general opening term, refined by the twelve discourses that follow."},
+        {"q": "What does this discourse's own opening confirm about this saṃyutta's own final vagga?",
+         "opts": ["It is a systematic, thirteen-part exploration of wisdom's own many facets, all produced by the same four conditions", "It abandons the causal-conditions formula entirely", "It focuses exclusively on ethical conduct, not wisdom", "It contains no relationship to the material already covered in SN 55.55-61"],
+         "correct": 0,
+         "expl": "This project's own reading of the vagga's own overall design."},
+    ],
+    marginalia=[
+        ("A catalog begins", [
+            "great wisdom, first and broadest —",
+            "twelve more distinct qualities to follow"
+        ]),
+        ("One formula, many facets", [
+            "the same four conditions throughout —",
+            "only the named quality changes"
+        ]),
+        ("The saṃyutta's own final vagga", [
+            "thirteen discourses, closing at seventy-four —",
+            "the last stretch of this long translation"
+        ]),
+        ("Breadth, depth, speed, sharpness ahead", [
+            "each discourse naming one more facet —",
+            "wisdom explored from every angle"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.62/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.61.html\">SN 55.61 &middot; The Increase "
+        "of Wisdom</a> &mdash; the previous discourse, closing "
+        "Vagga 6.",
+        "<a href=\"sn-55.55.html\">SN 55.55 &middot; The Fruit of "
+        "Stream-Entry</a> &mdash; this project's own full "
+        "translation of the four causal conditions this entire "
+        "vagga applies.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.63 — Puthupaññāsutta ("Widespread Wisdom")
+# Confirmed by direct reading: the second discourse in this vagga's
+# own catalog, naming wisdom's own breadth of range rather than its
+# depth or intensity.
+# --------------------------------------------------------------------------- #
+page(
+    55, 63, "Puthupaññā", "Widespread Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.63 — Widespread Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to widespread wisdom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.62's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the second of "
+                         "thirteen discourses in this vagga's own "
+                         "catalog, naming wisdom's own breadth of "
+                         "range"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;puthupaññā&rdquo; (&ldquo;widespread wisdom&rdquo;) "
+        "as the result of the identical four conditions already met "
+        "at SN 55.62 &mdash; wisdom characterized by its own breadth "
+        "of range rather than its own depth, speed, or intensity."
+    ),
+    guide=[
+        ("Breadth, distinct from depth", [
+            "This project's own reading of the distinction between "
+            "this discourse and SN 55.65's own &ldquo;deep "
+            "wisdom&rdquo; further ahead in this vagga: &ldquo;"
+            "puthu&rdquo; (&ldquo;wide, extensive&rdquo;) names "
+            "wisdom's own horizontal range across many subjects, a "
+            "genuinely different quality from vertical penetration "
+            "into a single subject.",
+        ]),
+    ],
+    terms=[
+        ("puthupaññatāya saṁvattanti", "&ldquo;lead to widespread "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("puthu", "&ldquo;wide, extensive, widespread&rdquo; "
+             "&mdash; this discourse's own key term, naming "
+             "breadth of range rather than depth"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62 and SN 55.55"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, likewise "
+             "assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.63:1.1"),
+    ],
+    quiz=[
+        {"q": "What quality of wisdom does this discourse name?",
+         "opts": ["Widespread wisdom — breadth of range", "Deep wisdom, as at SN 55.65", "Fast wisdom, as at SN 55.69", "Sharp wisdom, as at SN 55.73"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own specific quality, horizontal breadth rather than depth."},
+        {"q": "How does \"puthu\" (\"wide\") differ conceptually from \"deep,\" per this project's own reading?",
+         "opts": ["It names horizontal range across many subjects, distinct from vertical penetration into one", "The two terms are exact synonyms with no meaningful difference", "\"Puthu\" refers only to physical width, unrelated to wisdom", "\"Deep\" is a subset of \"puthu,\" not a distinct quality"],
+         "correct": 0,
+         "expl": "This project's own conceptual distinction between two different dimensions of wisdom named in this vagga."},
+        {"q": "What remains unchanged from SN 55.62?",
+         "opts": ["The four causal conditions, assumed identical though elided here", "The specific named quality, which stays \"great\"", "Nothing; the two discourses are unrelated", "Only the discourse's own title format"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same underlying causal formula throughout this vagga."},
+    ],
+    marginalia=[
+        ("Breadth, not depth", [
+            "\"puthu\" — wide, extensive —",
+            "a horizontal quality, not vertical"
+        ]),
+        ("Second of thirteen", [
+            "great wisdom first, now widespread wisdom —",
+            "each discourse naming one more facet"
+        ]),
+        ("The same four conditions, unstated but assumed", [
+            "\"…\" standing in for SN 55.62's own formula —",
+            "nothing genuinely new added"
+        ]),
+        ("A catalog, not a repetition", [
+            "each term genuinely distinct in meaning —",
+            "not simply the same claim restated"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.63/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.62.html\">SN 55.62 &middot; Great "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.64 — Vipulapaññāsutta ("Abundant Wisdom")
+# Confirmed by direct reading: the third discourse in this vagga's
+# own catalog, naming wisdom's own fullness or abundance.
+# --------------------------------------------------------------------------- #
+page(
+    55, 64, "Vipulapaññā", "Abundant Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.64 — Abundant Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to abundant wisdom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.63's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the third of "
+                         "thirteen discourses, naming wisdom's own "
+                         "fullness or abundance"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;vipulapaññā&rdquo; (&ldquo;abundant wisdom&rdquo;) "
+        "as the result of the identical four conditions &mdash; a "
+        "term for fullness or plenitude, distinct from SN 55.63's "
+        "own &ldquo;widespread&rdquo; range and SN 55.62's own "
+        "unqualified &ldquo;great.&rdquo;"
+    ),
+    guide=[
+        ("Fullness, a third distinct nuance", [
+            "This project's own reading: &ldquo;vipula&rdquo; "
+            "(&ldquo;full, abundant, plentiful&rdquo;) suggests a "
+            "quality of internal fullness or capacity, distinct "
+            "from SN 55.63's own spatial &ldquo;wide&rdquo; and SN "
+            "55.62's own general &ldquo;great&rdquo; &mdash; each "
+            "term in this catalog contributing a genuinely "
+            "different shade of meaning.",
+        ]),
+    ],
+    terms=[
+        ("vipulapaññatāya saṁvattanti", "&ldquo;lead to abundant "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("vipula", "&ldquo;full, abundant, plentiful&rdquo; "
+             "&mdash; this discourse's own key term, naming an "
+             "internal fullness or capacity"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "likewise assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.64:1.1"),
+    ],
+    quiz=[
+        {"q": "What quality of wisdom does this discourse name?",
+         "opts": ["Abundant wisdom — fullness or plenitude", "Widespread wisdom, as at SN 55.63", "Deep wisdom, as at SN 55.65", "Laughing wisdom, as at SN 55.71"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own specific quality."},
+        {"q": "How does \"vipula\" differ from SN 55.63's own \"puthu,\" per this project's own reading?",
+         "opts": ["It suggests internal fullness or capacity, distinct from spatial breadth", "The two terms are exact synonyms", "\"Vipula\" refers only to physical size", "\"Puthu\" is a subset of \"vipula\""],
+         "correct": 0,
+         "expl": "This project's own reading of the distinct nuance each catalog term contributes."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The third, following \"great\" and \"widespread\"", "The first discourse in the catalog", "The final discourse, closing the vagga", "It stands outside the catalog entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("Fullness, a third shade of meaning", [
+            "\"vipula\" — full, plentiful, abundant —",
+            "distinct from breadth and from mere greatness"
+        ]),
+        ("Third of thirteen", [
+            "great, widespread, now abundant —",
+            "each term genuinely its own"
+        ]),
+        ("The same conditions, compressed again", [
+            "\"…\" standing in for SN 55.62's own formula —",
+            "nothing genuinely new added"
+        ]),
+        ("A catalog building steadily", [
+            "ten more qualities of wisdom to come —",
+            "each discourse adding its own facet"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.64/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.63.html\">SN 55.63 &middot; Widespread "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.65 — Gambhīrapaññāsutta ("Deep Wisdom")
+# Confirmed by direct reading: the fourth discourse, naming
+# depth -- the vertical counterpart to SN 55.63's own horizontal
+# breadth.
+# --------------------------------------------------------------------------- #
+page(
+    55, 65, "Gambhīrapaññā", "Deep Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.65 — Deep Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to deep wisdom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.64's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fourth "
+                         "of thirteen discourses, naming depth as "
+                         "the vertical counterpart to SN 55.63's own "
+                         "horizontal breadth"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;gambhīrapaññā&rdquo; (&ldquo;deep wisdom&rdquo;) as "
+        "the result of the identical four conditions &mdash; the "
+        "same term this project has already met describing the "
+        "Buddha's own discourses at SN 55.53, there declined by "
+        "Dhammadinna's own group as too difficult for their own "
+        "household life."
+    ),
+    guide=[
+        ("A term already met, now applied to wisdom itself", [
+            "This project's own direct cross-reference: "
+            "&ldquo;gambhīra&rdquo; (&ldquo;deep, profound&rdquo;) "
+            "already described the Buddha's own &ldquo;deep, "
+            "profound, transcendent&rdquo; discourses on emptiness "
+            "at SN 55.53 &mdash; here the same term describes a "
+            "quality of wisdom itself, rather than a category of "
+            "teaching.",
+        ]),
+        ("The vertical counterpart to breadth", [
+            "This project's own reading: where SN 55.63's own "
+            "&ldquo;puthu&rdquo; named wisdom's own horizontal "
+            "range, &ldquo;gambhīra&rdquo; names vertical "
+            "penetration &mdash; depth into a single subject rather "
+            "than range across many.",
+        ]),
+    ],
+    terms=[
+        ("gambhīrapaññatāya saṁvattanti", "&ldquo;lead to deep "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("gambhīra", "&ldquo;deep, profound&rdquo; &mdash; already "
+             "met at SN 55.53 describing the Buddha's own discourses "
+             "on emptiness, here applied to wisdom itself"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, likewise "
+             "assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.65:1.1"),
+    ],
+    quiz=[
+        {"q": "Where else has this project already met the term \"gambhīra\" (\"deep\") in this saṃyutta?",
+         "opts": ["SN 55.53, describing the Buddha's own \"deep, profound, transcendent\" discourses on emptiness", "SN 55.2, this saṃyutta's own opening discourse", "Nowhere else; this is a genuinely new term", "SN 55.28, describing dependent origination"],
+         "correct": 0,
+         "expl": "Confirmed by direct cross-reference — the same word, now applied to wisdom rather than a category of teaching."},
+        {"q": "How does \"deep\" relate conceptually to SN 55.63's own \"widespread,\" per this project's own reading?",
+         "opts": ["It names vertical penetration into a single subject, the counterpart to horizontal range across many", "The two terms are exact synonyms", "\"Deep\" contradicts \"widespread,\" making both claims false", "\"Widespread\" is a subset of \"deep\""],
+         "correct": 0,
+         "expl": "This project's own reading of two complementary dimensions of wisdom named in this vagga."},
+        {"q": "What remains unchanged from SN 55.62-64?",
+         "opts": ["The four causal conditions, assumed identical though elided here", "The specific named quality, which stays the same throughout", "Nothing; each discourse is entirely unrelated", "Only the discourse's own title format"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the same underlying causal formula throughout this vagga."},
+    ],
+    marginalia=[
+        ("A word recognized from elsewhere", [
+            "\"gambhīra\" — already met describing emptiness itself —",
+            "now naming a quality of wisdom directly"
+        ]),
+        ("Depth, the counterpart to breadth", [
+            "vertical penetration, not horizontal range —",
+            "SN 55.63's own complement"
+        ]),
+        ("Fourth of thirteen", [
+            "great, widespread, abundant, now deep —",
+            "the catalog continues"
+        ]),
+        ("A term with real weight", [
+            "not merely decorative repetition —",
+            "each word carrying its own history in this saṃyutta"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.65/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.64.html\">SN 55.64 &middot; Abundant "
+        "Wisdom</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.53.html\">SN 55.53 &middot; With "
+        "Dhammadinna</a> &mdash; this project's own earlier use of "
+        "the same term, there describing the Buddha's own discourses "
+        "on emptiness.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.66 — Appamattapaññāsutta ("Extraordinary Wisdom")
+# Confirmed by direct reading: the fifth discourse, naming wisdom
+# beyond ordinary measure -- confirmed by direct comparison not to
+# share its own root with "appamāda" (diligence), a genuinely
+# different word this project takes care not to conflate.
+# --------------------------------------------------------------------------- #
+page(
+    55, 66, "Appamattapaññā", "Extraordinary Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.66 — Extraordinary Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to wisdom beyond ordinary measure. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.65's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the fifth "
+                         "of thirteen discourses, its own term "
+                         "confirmed by direct comparison not to "
+                         "share a root with \"diligence\" despite a "
+                         "superficial resemblance"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;appamattapaññā&rdquo; as the result of the identical "
+        "four conditions. This project confirms by direct comparison "
+        "that &ldquo;appamatta&rdquo; here (&ldquo;unmeasured, "
+        "beyond measure&rdquo;) is a genuinely different word from "
+        "the &ldquo;appamāda&rdquo; (&ldquo;diligence&rdquo;) met "
+        "throughout this project's own earlier work, despite a "
+        "superficial visual resemblance."
+    ),
+    guide=[
+        ("A word confirmed distinct from \"diligence\"", [
+            "This project's own careful direct comparison: "
+            "&ldquo;appamatta&rdquo; (from &ldquo;a-&rdquo; "
+            "negating &ldquo;pamāṇa,&rdquo; &ldquo;measure&rdquo;) "
+            "means &ldquo;unmeasured, immeasurable,&rdquo; genuinely "
+            "distinct from &ldquo;appamāda&rdquo; (&ldquo;a-&rdquo; "
+            "negating &ldquo;pamāda,&rdquo; &ldquo;negligence"
+            "&rdquo;) &mdash; two different words this project takes "
+            "care not to conflate despite their own superficial "
+            "resemblance.",
+        ]),
+    ],
+    terms=[
+        ("appamattapaññatāya saṁvattanti", "&ldquo;lead to "
+             "extraordinary wisdom&rdquo; &mdash; this discourse's "
+             "own specific result"),
+        ("appamatta", "&ldquo;unmeasured, immeasurable&rdquo; "
+             "&mdash; confirmed by direct comparison to be distinct "
+             "from &ldquo;appamāda&rdquo; (&ldquo;diligence&rdquo;), "
+             "despite the visual resemblance"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "likewise assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.66:1.1"),
+    ],
+    quiz=[
+        {"q": "What does this project's own direct comparison confirm about \"appamatta\" in this discourse's own title?",
+         "opts": ["It means \"unmeasured, immeasurable,\" a genuinely different word from \"appamāda\" (\"diligence\") despite superficial resemblance", "It is the identical word as \"appamāda,\" simply spelled differently", "It has no established meaning in Pali", "It refers specifically to a type of meditation posture"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a careful distinction this project takes care not to conflate."},
+        {"q": "What quality of wisdom does this discourse name?",
+         "opts": ["Extraordinary wisdom — beyond ordinary measure", "Diligent wisdom, unrelated to this vagga's own catalog", "Sharp wisdom, as at SN 55.73", "Laughing wisdom, as at SN 55.71"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own specific quality."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The fifth, following great, widespread, abundant, and deep", "The first discourse in the catalog", "The final discourse, closing the vagga", "It stands outside the catalog entirely"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("A word, carefully distinguished", [
+            "\"appamatta,\" unmeasured — not \"appamāda,\" diligent —",
+            "confirmed by direct comparison, not assumed"
+        ]),
+        ("Beyond ordinary measure", [
+            "not merely great, but immeasurable —",
+            "a fifth distinct shade of meaning"
+        ]),
+        ("Fifth of thirteen", [
+            "the catalog's own halfway point approaching —",
+            "eight more qualities to come"
+        ]),
+        ("Precision, even in a brief page", [
+            "a single word's own etymology, checked carefully —",
+            "not glossed over despite the discourse's own brevity"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.66/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.65.html\">SN 55.65 &middot; Deep "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.67 — Bhūripaññāsutta ("Vast Wisdom")
+# Confirmed by direct reading: the sixth discourse, using a term
+# traditionally associated with the earth's own vastness.
+# --------------------------------------------------------------------------- #
+page(
+    55, 67, "Bhūripaññā", "Vast Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.67 — Vast Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to vast wisdom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.66's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the sixth of "
+                         "thirteen discourses, using a term "
+                         "traditionally associated with the earth's "
+                         "own vastness"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;bhūripaññā&rdquo; (&ldquo;vast wisdom&rdquo;) as the "
+        "result of the identical four conditions &mdash; "
+        "&ldquo;bhūri&rdquo; carrying a traditional association with "
+        "the earth's own vastness, a term this project notes is "
+        "widely used elsewhere in the canon as an epithet for the "
+        "Buddha's own wisdom specifically."
+    ),
+    guide=[
+        ("A term with its own traditional weight", [
+            "This project's own background observation: &ldquo;"
+            "bhūri&rdquo; is a term frequently applied in the wider "
+            "canon as a standing epithet for the Buddha's own "
+            "wisdom &mdash; its own presence in this vagga's own "
+            "catalog situates ordinary wisdom's own possible "
+            "development alongside vocabulary otherwise reserved "
+            "for describing the Buddha himself, though this "
+            "discourse itself makes no such explicit comparison.",
+        ]),
+    ],
+    terms=[
+        ("bhūripaññatāya saṁvattanti", "&ldquo;lead to vast "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("bhūri", "&ldquo;vast, abundant&rdquo; &mdash; a term "
+             "carrying a traditional association with the earth's "
+             "own vastness, widely used elsewhere in the canon as an "
+             "epithet for the Buddha's own wisdom"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, likewise "
+             "assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.67:1.1"),
+    ],
+    quiz=[
+        {"q": "What traditional association does this project note for the term \"bhūri\"?",
+         "opts": ["A connection to the earth's own vastness, and frequent use elsewhere in the canon as an epithet for the Buddha's own wisdom", "No particular tradition; it is a rare and unattested term", "An exclusive association with lay followers, never applied to the Buddha", "A connection to water rather than earth"],
+         "correct": 0,
+         "expl": "This project's own background observation about a term with recognized canonical weight."},
+        {"q": "Does this discourse itself explicitly compare ordinary wisdom to the Buddha's own?",
+         "opts": ["No — this project notes the vocabulary's own association, without the discourse itself making such a comparison", "Yes, the discourse explicitly states this wisdom equals the Buddha's own", "Yes, but only to deny any such connection is possible", "The discourse is entirely about the Buddha's own biography"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — an observation about the vocabulary, not a claim the text itself makes."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The sixth", "The first", "The final, thirteenth", "It stands outside the catalog"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("A word with its own weight", [
+            "\"bhūri\" — often the Buddha's own epithet —",
+            "here applied to wisdom's own possible development"
+        ]),
+        ("Vastness, like the earth itself", [
+            "a traditional association, noted honestly —",
+            "not a claim this discourse itself makes explicit"
+        ]),
+        ("Sixth of thirteen", [
+            "past the halfway point of this vagga's own catalog —",
+            "seven qualities remain"
+        ]),
+        ("Ordinary wisdom, extraordinary vocabulary", [
+            "borrowed language, applied to a general teaching —",
+            "worth noting, not overstating"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.67/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.66.html\">SN 55.66 &middot; Extraordinary "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.68 — Paññābāhullasutta ("Much Wisdom")
+# Confirmed by direct reading: the seventh discourse, its own title
+# built differently from its own twelve companions -- "abundance of
+# wisdom" rather than "wisdom" qualified by an adjective.
+# --------------------------------------------------------------------------- #
+page(
+    55, 68, "Paññābāhulla", "Much Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.68 — Much Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to an abundance of wisdom. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.67's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the seventh of "
+                         "thirteen discourses, its own title built "
+                         "with a genuinely different grammatical "
+                         "pattern from its own companions"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse's own title, "
+        "&ldquo;paññābāhulla&rdquo; (&ldquo;abundance of "
+        "wisdom&rdquo;), is built differently from the twelve "
+        "adjective-plus-paññā compounds surrounding it in this "
+        "vagga (mahāpaññā, puthupaññā, and so on): &ldquo;"
+        "bāhulla&rdquo; itself means &ldquo;abundance, "
+        "muchness,&rdquo; making this discourse's own name "
+        "structurally a quantity of wisdom rather than a quality of "
+        "wisdom qualified by an adjective."
+    ),
+    guide=[
+        ("A genuinely different grammatical pattern", [
+            "This project's own direct comparison across this "
+            "vagga's own thirteen titles: most name a quality "
+            "(great, deep, vast) attached to &ldquo;paññā&rdquo; "
+            "directly; this discourse's own title instead uses "
+            "&ldquo;bāhulla&rdquo; (&ldquo;abundance&rdquo;) as its "
+            "own noun, with wisdom as what is abundant &mdash; a "
+            "structurally distinct formation this project reports "
+            "honestly rather than treating as identical to its own "
+            "companions.",
+        ]),
+    ],
+    terms=[
+        ("paññābāhullāya saṁvattanti", "&ldquo;lead to much "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("bāhulla", "&ldquo;abundance, muchness&rdquo; &mdash; a "
+             "noun, not an adjective, making this discourse's own "
+             "title structurally distinct from its own twelve "
+             "companions in this vagga"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "likewise assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.68:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's own title differ grammatically from its own twelve companions in this vagga?",
+         "opts": ["It uses \"bāhulla\" (\"abundance\") as its own noun, naming a quantity of wisdom rather than a quality qualified by an adjective", "It is grammatically identical to every other discourse in this vagga", "It uses no reference to wisdom at all", "It is the only discourse in this vagga written in verse"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — a structurally distinct title pattern, reported honestly."},
+        {"q": "What does \"bāhulla\" mean?",
+         "opts": ["Abundance, muchness", "Sharpness", "Speed", "Depth"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a quantity term, distinct from the quality-adjectives used elsewhere in this vagga."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The seventh", "The first", "The final, thirteenth", "It stands outside the catalog"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("A different grammar, noticed directly", [
+            "not \"great wisdom\" but \"abundance of wisdom\" —",
+            "a noun where its companions use adjectives"
+        ]),
+        ("Quantity, not quality", [
+            "\"bāhulla\" names how much, not what kind —",
+            "a structurally distinct entry in this catalog"
+        ]),
+        ("Seventh of thirteen", [
+            "past the midpoint, six qualities remain —",
+            "the catalog's own second half begins"
+        ]),
+        ("A small grammatical fact, reported honestly", [
+            "not smoothed over for the sake of uniformity —",
+            "this project's own attention to detail, even here"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.68/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.67.html\">SN 55.67 &middot; Vast "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.69 — Sīghapaññāsutta ("Fast Wisdom")
+# Confirmed by direct reading: the eighth discourse, this vagga's
+# own catalog turning here from qualities of scale (great, wide,
+# abundant, deep, vast, much) to qualities of speed and manner.
+# --------------------------------------------------------------------------- #
+page(
+    55, 69, "Sīghapaññā", "Fast Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.69 — Fast Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to fast wisdom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.68's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; the eighth "
+                         "of thirteen discourses, marking this "
+                         "vagga's own turn from qualities of scale "
+                         "to qualities of speed and manner"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;sīghapaññā&rdquo; (&ldquo;fast wisdom&rdquo;) as the "
+        "result of the identical four conditions &mdash; marking a "
+        "shift in this vagga's own catalog, from the six preceding "
+        "terms describing wisdom's own scale (great, wide, "
+        "abundant, deep, vast, much) to terms describing its own "
+        "manner and speed."
+    ),
+    guide=[
+        ("A turn from scale to manner", [
+            "This project's own direct comparison across the "
+            "vagga's own thirteen titles: SN 55.62-68 each named a "
+            "dimension of wisdom's own scale or magnitude; this "
+            "discourse, together with the four that follow "
+            "(fast, light, laughing, swift, sharp), instead "
+            "characterizes how wisdom operates rather than how "
+            "large it is.",
+        ]),
+    ],
+    terms=[
+        ("sīghapaññatāya saṁvattanti", "&ldquo;lead to fast "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("sīgha", "&ldquo;fast, quick&rdquo; &mdash; this "
+             "discourse's own key term, the first in this vagga's "
+             "own catalog to describe manner rather than scale"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here"),
+        ("dhammānudhammappaṭipatti", "&ldquo;practicing in line "
+             "with the teaching&rdquo; &mdash; the fourth condition, "
+             "likewise assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.69:1.1"),
+    ],
+    quiz=[
+        {"q": "What shift does this discourse mark within this vagga's own catalog?",
+         "opts": ["A turn from terms describing wisdom's own scale (great, wide, abundant, deep, vast, much) to terms describing its own manner and speed", "A shift away from wisdom entirely to an unrelated topic", "A reversal, denying the six prior discourses' own claims", "No shift at all; the term is identical in meaning to \"great\""],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison across the vagga's own thirteen titles."},
+        {"q": "What quality does \"sīgha\" name?",
+         "opts": ["Fast, quick", "Slow, deliberate", "Wide, extensive", "Deep, profound"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a term of speed, distinct from the preceding scale-terms."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The eighth", "The first", "The final, thirteenth", "It stands outside the catalog"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("A turn in the catalog", [
+            "scale gives way to manner —",
+            "how wisdom moves, not merely how large it is"
+        ]),
+        ("Speed, named directly", [
+            "\"sīgha\" — fast, quick —",
+            "the first of five terms describing manner"
+        ]),
+        ("Eighth of thirteen", [
+            "five qualities remain —",
+            "fast, light, laughing, swift, sharp still to come"
+        ]),
+        ("A catalog with its own internal structure", [
+            "not a random list, but two distinct groups —",
+            "scale first, then manner"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.69/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.68.html\">SN 55.68 &middot; Much "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.70 — Lahupaññāsutta ("Light Wisdom")
+# Confirmed by direct reading: the ninth discourse, naming wisdom's
+# own lightness or agility, distinct from mere speed.
+# --------------------------------------------------------------------------- #
+page(
+    55, 70, "Lahupaññā", "Light Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.70 — Light Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to light, agile wisdom. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.69's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the ninth of "
+                         "thirteen discourses, naming wisdom's own "
+                         "lightness or agility, distinct from mere "
+                         "speed"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;lahupaññā&rdquo; (&ldquo;light wisdom&rdquo;) as the "
+        "result of the identical four conditions &mdash; "
+        "&ldquo;lahu&rdquo; naming lightness or agility, a quality "
+        "genuinely distinct from SN 55.69's own &ldquo;fast,&rdquo; "
+        "even though both describe wisdom's own manner of operation."
+    ),
+    guide=[
+        ("Lightness, distinct from speed", [
+            "This project's own reading of the distinction from SN "
+            "55.69: &ldquo;lahu&rdquo; (&ldquo;light, "
+            "agile&rdquo;) describes an unencumbered quality "
+            "&mdash; wisdom free of heaviness or obstruction "
+            "&mdash; rather than SN 55.69's own emphasis on velocity "
+            "specifically, a subtle but genuine difference between "
+            "two adjacent terms in this catalog.",
+        ]),
+    ],
+    terms=[
+        ("lahupaññatāya saṁvattanti", "&ldquo;lead to light "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("lahu", "&ldquo;light, agile, unencumbered&rdquo; "
+             "&mdash; distinct from SN 55.69's own \"sīgha\" "
+             "(\"fast\"), naming freedom from heaviness rather than "
+             "velocity"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, likewise "
+             "assumed here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.70:1.1"),
+    ],
+    quiz=[
+        {"q": "How does \"lahu\" (\"light\") differ from SN 55.69's own \"sīgha\" (\"fast\"), per this project's own reading?",
+         "opts": ["It names freedom from heaviness or obstruction, rather than velocity specifically", "The two terms are exact synonyms with no distinction", "\"Lahu\" refers only to physical body weight", "\"Sīgha\" is a subset of \"lahu\""],
+         "correct": 0,
+         "expl": "This project's own reading of a subtle but genuine distinction between two adjacent catalog terms."},
+        {"q": "What quality of wisdom does this discourse name?",
+         "opts": ["Light, agile wisdom", "Deep wisdom, as at SN 55.65", "Vast wisdom, as at SN 55.67", "Abundant wisdom, as at SN 55.64"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own specific quality."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The ninth", "The first", "The final, thirteenth", "It stands outside the catalog"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the sequence's own order."},
+    ],
+    marginalia=[
+        ("Light, not merely fast", [
+            "\"lahu\" — unencumbered, agile —",
+            "a subtle shift from SN 55.69's own \"sīgha\""
+        ]),
+        ("Freedom from heaviness", [
+            "not velocity alone —",
+            "wisdom moving without obstruction"
+        ]),
+        ("Ninth of thirteen", [
+            "four qualities remain —",
+            "laughing, swift, sharp, penetrating still ahead"
+        ]),
+        ("Two neighboring terms, genuinely distinct", [
+            "fast and light, easily conflated —",
+            "kept separate here on purpose"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.70/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.69.html\">SN 55.69 &middot; Fast "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.71 — Hāsapaññāsutta ("Laughing Wisdom")
+# Confirmed by direct comparison: this term is not new to this
+# vagga's own catalog -- "hāsapaññā" already appeared paired with
+# "javanapaññā" (SN 55.72's own term) as one of the arahant's own
+# distinguishing qualities in the sevenfold typology at SN 55.24.
+# --------------------------------------------------------------------------- #
+page(
+    55, 71, "Hāsapaññā", "Laughing Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.71 — Laughing Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to laughing wisdom, already met describing "
+        "arahants at SN 55.24. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.70's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "tenth of thirteen discourses, its own term "
+                         "already met by this project describing "
+                         "arahants specifically at SN 55.24"),
+    ],
+    why=(
+        "Confirmed by direct comparison, &ldquo;hāsapaññā&rdquo; "
+        "(&ldquo;laughing wisdom&rdquo;) is not new vocabulary: this "
+        "project already met it at SN 55.24's own sevenfold "
+        "typology, there paired with &ldquo;javanapaññā&rdquo; "
+        "(&ldquo;swift wisdom,&rdquo; this vagga's own SN 55.72) as "
+        "one of the qualities distinguishing an arahant, endowed "
+        "with freedom, from the lesser attainments described "
+        "alongside it."
+    ),
+    guide=[
+        ("A term recognized from the Sarakāni controversy", [
+            "This project's own direct cross-reference: at SN "
+            "55.24, &ldquo;laughing wisdom and swift wisdom, and "
+            "are endowed with freedom&rdquo; distinguished the "
+            "first, highest category (the arahant) in the sevenfold "
+            "typology defending Sarakāni's own posthumous "
+            "declaration &mdash; here, the identical pair of terms "
+            "(hāsa, javana) each receive their own dedicated "
+            "discourse in this vagga's own catalog.",
+        ]),
+        ("A quality of readiness, not literal laughter", [
+            "This project's own reading: &ldquo;hāsa&rdquo; "
+            "(&ldquo;laughter, mirth&rdquo;) applied to wisdom "
+            "suggests a quality of ready, unforced responsiveness "
+            "&mdash; wisdom that arises easily, without strain "
+            "&mdash; rather than literal amusement.",
+        ]),
+    ],
+    terms=[
+        ("hāsapaññatāya saṁvattanti", "&ldquo;lead to laughing "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("hāsapaññā ca javanapaññā ca, vimuttiyā ca samannāgato",
+             "&ldquo;laughing wisdom and swift wisdom, and are "
+             "endowed with freedom&rdquo; &mdash; the identical pair "
+             "of terms already met at SN 55.24, there distinguishing "
+             "the arahant"),
+        ("hāsa", "&ldquo;laughter, mirth&rdquo; &mdash; here "
+             "suggesting a quality of ready, unforced responsiveness "
+             "rather than literal amusement"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("sappurisasaṁsevo", "&ldquo;associating with true "
+             "persons&rdquo; &mdash; the first condition, assumed "
+             "here"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.71:1.1"),
+    ],
+    quiz=[
+        {"q": "Where has this project already encountered the term \"hāsapaññā\" in this saṃyutta?",
+         "opts": ["SN 55.24, where it paired with \"javanapaññā\" to distinguish an arahant in the sevenfold typology defending Sarakāni's own declaration", "Nowhere else; this is a genuinely new term", "SN 55.2, this saṃyutta's own opening discourse", "SN 55.53, describing the Buddha's own discourses on emptiness"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — the identical term already met at the Sarakāni controversy."},
+        {"q": "What does this project's own reading suggest \"hāsa\" (\"laughter\") means when applied to wisdom?",
+         "opts": ["A quality of ready, unforced responsiveness, rather than literal amusement", "Literal, audible laughter accompanying insight", "A term unrelated to any positive quality", "Mockery directed at those who lack wisdom"],
+         "correct": 0,
+         "expl": "This project's own interpretive reading of a term describing manner of operation, like SN 55.69-70's own terms."},
+        {"q": "What does this discourse's own companion term, \"javana\" (\"swift\"), appear as in this vagga?",
+         "opts": ["SN 55.72, this vagga's own next discourse", "It never appears again in this vagga", "SN 55.62, this vagga's own opening discourse", "It appears only at SN 55.24, never in this vagga"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the same pair from SN 55.24 each receiving its own discourse here."},
+    ],
+    marginalia=[
+        ("A term recognized from Sarakāni's own defense", [
+            "\"hāsapaññā\" — already met at SN 55.24 —",
+            "there distinguishing the arahant specifically"
+        ]),
+        ("Not literal laughter", [
+            "a readiness, an ease of response —",
+            "wisdom arising without strain"
+        ]),
+        ("Its own partner term follows next", [
+            "\"javanapaññā,\" paired with this one at SN 55.24 —",
+            "now given its own discourse, SN 55.72"
+        ]),
+        ("Tenth of thirteen", [
+            "three qualities remain in this catalog —",
+            "swift, sharp, penetrating still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.71/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.70.html\">SN 55.70 &middot; Light "
+        "Wisdom</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.24.html\">SN 55.24 &middot; About "
+        "Sarakāni (1st)</a> &mdash; this project's own earlier "
+        "occurrence of this identical term, there distinguishing "
+        "an arahant.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.72 — Javanapaññāsutta ("Swift Wisdom")
+# Confirmed by direct reading: the eleventh discourse, this vagga's
+# own root text itself marking it "Ekādasamaṁ" ("the eleventh").
+# --------------------------------------------------------------------------- #
+page(
+    55, 72, "Javanapaññā", "Swift Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.72 — Swift Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to swift wisdom, already met describing "
+        "arahants at SN 55.24. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.71's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; the "
+                         "eleventh of thirteen discourses, its own "
+                         "term already met by this project describing "
+                         "arahants specifically at SN 55.24"),
+    ],
+    why=(
+        "Confirmed by direct comparison, &ldquo;javanapaññā&rdquo; "
+        "(&ldquo;swift wisdom&rdquo;) is this discourse's own "
+        "completion of the identical pair already met at SN 55.24 "
+        "&mdash; there paired with &ldquo;hāsapaññā&rdquo; (SN "
+        "55.71's own term) as one of the qualities distinguishing an "
+        "arahant, endowed with freedom."
+    ),
+    guide=[
+        ("Completing a pair from the Sarakāni controversy", [
+            "This project's own direct cross-reference: SN 55.71 "
+            "gave &ldquo;hāsapaññā&rdquo; its own dedicated "
+            "discourse; this discourse now does the same for its own "
+            "paired term, &ldquo;javanapaññā&rdquo; &mdash; together "
+            "completing, across two separate discourses, the "
+            "identical two-term phrase that at SN 55.24 described "
+            "the arahant in a single breath.",
+        ]),
+        ("Swiftness of insight, not physical speed", [
+            "This project's own reading: &ldquo;javana&rdquo; "
+            "(&ldquo;swift, quick-moving&rdquo;) shares its own root "
+            "with the Abhidhamma's own technical term for the "
+            "impulsion phase of cognitive process &mdash; a "
+            "connection this project notes without overclaiming a "
+            "direct citation in this discourse itself.",
+        ]),
+    ],
+    terms=[
+        ("javanapaññatāya saṁvattanti", "&ldquo;lead to swift "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("javana", "&ldquo;swift, quick-moving&rdquo; &mdash; a root "
+             "this project notes is shared with the Abhidhamma's own "
+             "technical term for cognitive impulsion, without "
+             "overclaiming a direct citation here"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("saddhammassavanaṁ", "&ldquo;listening to the true "
+             "teaching&rdquo; &mdash; the second condition, assumed "
+             "here"),
+        ("Ekādasamaṁ", "&ldquo;the eleventh&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.72:1.1"),
+    ],
+    quiz=[
+        {"q": "What pair of terms does this discourse complete, together with SN 55.71?",
+         "opts": ["The identical two-term phrase (\"hāsapaññā ca javanapaññā ca\") that described the arahant at SN 55.24", "An entirely unrelated pair never mentioned elsewhere", "A pair first introduced at SN 55.62", "A pair describing stream-entrants specifically, not arahants"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison — two discourses here separately unpack one phrase from SN 55.24."},
+        {"q": "What technical connection does this project note for the term \"javana\"?",
+         "opts": ["A shared root with the Abhidhamma's own term for the impulsion phase of cognitive process", "No technical connection of any kind", "A connection to physical athletic training", "A connection exclusive to later Mahayana Abhidharma, absent from Theravada sources"],
+         "correct": 0,
+         "expl": "This project's own noted connection, offered without overclaiming a direct citation in the discourse."},
+        {"q": "How does this discourse's own root text confirm its position in the sequence?",
+         "opts": ["Directly, with its own closing word \"Ekādasamaṁ\" (\"the eleventh\")", "It gives no numerical indication at all", "Only indirectly, through the English translation alone", "By cross-reference to SN 55.24"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker, read rather than assumed."},
+    ],
+    marginalia=[
+        ("A pair, split across two discourses", [
+            "\"hāsapaññā\" at SN 55.71 —",
+            "\"javanapaññā\" completes the pair here"
+        ]),
+        ("A root shared with Abhidhamma", [
+            "\"javana\" — the impulsion phase of mind —",
+            "noted, not overclaimed"
+        ]),
+        ("The text names its own place", [
+            "\"Ekādasamaṁ\" — the eleventh —",
+            "confirmed directly, not assumed"
+        ]),
+        ("Eleventh of thirteen", [
+            "two qualities remain —",
+            "sharp and penetrating still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.72/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.71.html\">SN 55.71 &middot; Laughing "
+        "Wisdom</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.24.html\">SN 55.24 &middot; About "
+        "Sarakāni (1st)</a> &mdash; this project's own earlier "
+        "occurrence of this identical term, there distinguishing "
+        "an arahant.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.73 — Tikkhapaññāsutta ("Sharp Wisdom")
+# Confirmed by direct reading: the twelfth discourse, its own root
+# text marking it "Dvādasamaṁ" ("the twelfth").
+# --------------------------------------------------------------------------- #
+page(
+    55, 73, "Tikkhapaññā", "Sharp Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.73 — Sharp Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse &mdash; the same four causal conditions, "
+        "now attributed to sharp wisdom, one discourse from this "
+        "vagga's own close. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.72's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "A single compressed sentence, cross-referencing SN "
+                 "55.62's own structure"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; the twelfth of "
+                         "thirteen discourses, one before this "
+                         "vagga's and this saṃyutta's own close"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse names "
+        "&ldquo;tikkhapaññā&rdquo; (&ldquo;sharp wisdom&rdquo;) as "
+        "the result of the identical four conditions &mdash; "
+        "&ldquo;tikkha&rdquo; describing a cutting keenness, distinct "
+        "from this catalog's own terms for scale, speed, or "
+        "lightness."
+    ),
+    guide=[
+        ("Sharpness as a distinct quality", [
+            "This project's own reading: &ldquo;tikkha&rdquo; "
+            "(&ldquo;sharp, keen, penetrating in a cutting "
+            "sense&rdquo;) names a quality of incisiveness &mdash; "
+            "wisdom that cuts cleanly through its object &mdash; "
+            "distinct from this vagga's own preceding terms for "
+            "scale (great, wide, deep) or manner (fast, light, "
+            "laughing, swift).",
+        ]),
+        ("One discourse from the close", [
+            "This project's own direct check of the surrounding "
+            "root text confirms only one discourse, SN 55.74, "
+            "remains after this one &mdash; closing both this vagga "
+            "and the entire Sotāpattisaṃyutta at its own seventy-four "
+            "discourses.",
+        ]),
+    ],
+    terms=[
+        ("tikkhapaññatāya saṁvattanti", "&ldquo;lead to sharp "
+             "wisdom&rdquo; &mdash; this discourse's own specific "
+             "result"),
+        ("tikkha", "&ldquo;sharp, keen&rdquo; &mdash; naming a "
+             "cutting incisiveness, distinct from this vagga's own "
+             "terms for scale, speed, or lightness"),
+        ("…", "the elision marking, standing in for the complete "
+             "four-condition formula already given in full at SN "
+             "55.62"),
+        ("yonisomanasikāro", "&ldquo;rational application of "
+             "mind&rdquo; &mdash; the third condition, assumed "
+             "here"),
+        ("Dvādasamaṁ", "&ldquo;the twelfth&rdquo; &mdash; this "
+             "discourse's own root text confirming its own position "
+             "directly, read rather than assumed"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself preserves the "
+        "elision back to SN 55.62. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.73:1.1"),
+    ],
+    quiz=[
+        {"q": "What quality does \"tikkha\" (\"sharp\") name, per this project's own reading?",
+         "opts": ["A cutting incisiveness, distinct from this vagga's own terms for scale, speed, or lightness", "Exactly the same quality already named by \"lahu\" at SN 55.70", "A term describing physical weaponry rather than wisdom", "A term found nowhere else in this vagga's own catalog of thirteen"],
+         "correct": 0,
+         "expl": "This project's own reading of a distinct term within the vagga's own thirteen-part catalog."},
+        {"q": "How many discourses remain in this saṃyutta after this one, per this project's own direct check?",
+         "opts": ["One — SN 55.74, closing both this vagga and the entire Sotāpattisaṃyutta", "None; this is the final discourse", "Twelve more discourses remain", "This project could not determine the remaining count"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the surrounding root text — only SN 55.74 remains."},
+        {"q": "What position does this discourse occupy in the thirteen-part catalog?",
+         "opts": ["The twelfth", "The first", "The final, thirteenth", "It stands outside the catalog"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root text's own closing marker \"Dvādasamaṁ.\""},
+    ],
+    marginalia=[
+        ("A cutting keenness", [
+            "\"tikkha\" — sharp, incisive —",
+            "distinct from scale, speed, or lightness"
+        ]),
+        ("Twelfth of thirteen", [
+            "one discourse remains —",
+            "this vagga's and this saṃyutta's own close is near"
+        ]),
+        ("The text names its own place", [
+            "\"Dvādasamaṁ\" — the twelfth —",
+            "confirmed directly, not assumed"
+        ]),
+        ("Approaching a threshold", [
+            "seventy-four discourses, almost complete —",
+            "the largest saṃyutta this project has yet undertaken"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.73/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.72.html\">SN 55.72 &middot; Swift "
+        "Wisdom</a> &mdash; the previous discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 55.74 — Nibbedhikapaññāsutta ("Penetrating Wisdom")
+# Confirmed by direct reading of its own root colophon: this
+# discourse closes Vagga 7 ("Mahāpaññavaggo sattamo"), the entire
+# Sotāpattisaṃyutta ("Sotāpattisaṁyuttaṁ ekādasamaṁ" -- confirming
+# Book V's own eleventh saṃyutta, 74 discourses across 7 vaggas), and
+# gives the full thirteen-title uddāna for this vagga.
+# --------------------------------------------------------------------------- #
+page(
+    55, 74, "Nibbedhikapaññā", "Penetrating Wisdom",
+    vagga="Mahāpaññavagga",
+    meta_title="SN 55.74 — Penetrating Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nibbedhikapaññāsutta &mdash; the closing discourse of "
+        "the entire Sotāpattisaṃyutta, all 74 discourses across 7 "
+        "vaggas. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "55.73's own setting"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The full four-condition formula given once more "
+                 "in full, then the vagga's own closing colophon and "
+                 "thirteen-title uddāna, then the saṃyutta's own "
+                 "closing line"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of the "
+                         "root colophon as the close of both Vagga 7 "
+                         "and the entire Sotāpattisaṃyutta (74 "
+                         "discourses, 7 vaggas), Book V's own "
+                         "eleventh saṃyutta"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes three things at once: Vagga 7 (&ldquo;"
+        "Mahāpaññavaggo sattamo&rdquo;), the entire Sotāpattisaṃyutta "
+        "(&ldquo;Sotāpattisaṁyuttaṁ ekādasamaṁ&rdquo; &mdash; "
+        "confirming this project's own expected structure of 74 "
+        "discourses across 7 vaggas, and confirming this saṃyutta as "
+        "Book V's own eleventh, directly following SN 54, already "
+        "confirmed complete by this project), and this vagga's own "
+        "thirteen-term catalog begun at SN 55.62, closing with "
+        "&ldquo;nibbedhikapaññā&rdquo; (&ldquo;penetrating "
+        "wisdom&rdquo;), attributed one final time to the identical "
+        "four conditions given in full."
+    ),
+    guide=[
+        ("The formula, given in full one final time", [
+            "Confirmed by direct reading, this discourse states the "
+            "complete four-condition formula in full &mdash; "
+            "associating with true persons, listening to the true "
+            "teaching, rational application of mind, and practicing "
+            "in line with the teaching &mdash; exactly as first given "
+            "at this vagga's own opening discourse, SN 55.62, now "
+            "closing the vagga as well.",
+        ]),
+        ("The close of Vagga 7 and of the entire saṃyutta", [
+            "Confirmed by direct reading of the root Pali colophon "
+            "(not assumed): &ldquo;Terasamaṁ. Mahāpaññavaggo "
+            "sattamo.&rdquo; (&ldquo;Thirteenth. The seventh vagga, "
+            "Great Wisdom, [ends].&rdquo;), followed immediately by "
+            "&ldquo;Sotāpattisaṁyuttaṁ ekādasamaṁ&rdquo; (&ldquo;The "
+            "Sotāpattisaṃyutta is the eleventh [section].&rdquo;) "
+            "&mdash; confirming this project's own expected "
+            "structure of 74 discourses across 7 vaggas, and "
+            "confirming this saṃyutta as Book V's own eleventh."],
+         ),
+        ("A thirteen-title uddāna, confirmed against this project's own SN 55.62-74", [
+            "Confirmed by direct reading, this vagga's own closing "
+            "uddāna (&ldquo;Great, wide, abundant, deep; unremitting, "
+            "vast, abundance; fast, light, laughing, swift; sharp "
+            "and penetrating&rdquo;) lists exactly thirteen titles, "
+            "matching this project's own SN 55.62 through SN 55.74 "
+            "precisely &mdash; including this project's own earlier "
+            "observed two-part grouping (scale, then manner), now "
+            "confirmed directly by the root text's own ordering.",
+        ]),
+    ],
+    terms=[
+        ("nibbedhikapaññatāya saṁvattanti", "&ldquo;lead to "
+             "penetrating wisdom&rdquo; &mdash; this discourse's own "
+             "final, thirteenth result"),
+        ("sappurisasaṁsevo, saddhammassavanaṁ, yonisomanasikāro, "
+         "dhammānudhammappaṭipatti", "the complete four-condition "
+             "formula, given in full one final time: associating "
+             "with true persons, listening to the true teaching, "
+             "rational application of mind, and practicing in line "
+             "with the teaching"),
+        ("terasamaṁ. mahāpaññavaggo sattamo", "&ldquo;thirteenth. the "
+             "seventh vagga, Great Wisdom [ends]&rdquo; &mdash; the "
+             "root colophon's own vagga-closing marker"),
+        ("sotāpattisaṁyuttaṁ ekādasamaṁ", "&ldquo;the "
+             "Sotāpattisaṃyutta is the eleventh [section]&rdquo; "
+             "&mdash; the root colophon's own confirmation that this "
+             "discourse closes the entire saṃyutta, Book V's own "
+             "eleventh"),
+        ("mahā puthu vipula gambhīraṁ...tikkha nibbedhikāya cāti",
+             "the closing uddāna's own thirteen titles, confirmed by "
+             "direct reading to match SN 55.62 through SN 55.74 "
+             "exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including its own closing line. "
+        "The vagga-closing colophon and uddāna verse are left "
+        "untranslated in the consulted English source, as at several "
+        "earlier vagga and saṃyutta closes throughout this project's "
+        "own work. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn55.74:1.1-1.4"),
+        ("p", "Closing", "sn55.74:1.5-2.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 7 (13 discourses) and the entire Sotāpattisaṃyutta (74 discourses, 7 vaggas), as Book V's own eleventh saṃyutta", "It closes only Vagga 7, with several more discourses still to come in the saṃyutta", "It is the saṃyutta's own opening discourse, not its close", "It belongs to an entirely separate saṃyutta from SN 55.1-73"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "What four conditions does this discourse restate in full, attributing penetrating wisdom to them?",
+         "opts": ["Associating with true persons, listening to the true teaching, rational application of mind, and practicing in line with the teaching", "The four jhānas, already fully treated in SN 53", "The four satipaṭṭhānas, an entirely different saṃyutta's own topic", "The four right efforts, unrelated to this vagga's own catalog"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the identical formula first given in full at this vagga's own opening, SN 55.62."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 55.62-74?",
+         "opts": ["Its own thirteen listed titles match this project's own thirteen discourses exactly, confirming this project's own earlier observed two-part grouping by scale and by manner", "It lists only twelve titles, contradicting this project's own count of thirteen", "It lists titles from an entirely different vagga", "The uddāna gives entirely different terms from this project's own thirteen discourses"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure and its own noted grouping."},
+    ],
+    marginalia=[
+        ("The formula, once more in full", [
+            "the same four conditions that opened this vagga —",
+            "now close it as well"
+        ]),
+        ("Thirteen titles, confirmed directly", [
+            "great to penetrating, the whole catalog —",
+            "matching this project's own count exactly"
+        ]),
+        ("Book V's own eleventh saṃyutta, complete", [
+            "seventy-four discourses, seven vaggas —",
+            "the largest saṃyutta this project has undertaken"
+        ]),
+        ("A close, not an ending", [
+            "Sotāpattisaṃyutta done —",
+            "the next saṃyutta in this book still ahead"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn55.74/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-55.73.html\">SN 55.73 &middot; Sharp "
+        "Wisdom</a> &mdash; the previous discourse.",
+        "<a href=\"sn-55.62.html\">SN 55.62 &middot; Great "
+        "Wisdom</a> &mdash; this vagga's own opening discourse, "
+        "giving the same four-condition formula this discourse "
+        "closes with.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Sotāpattisaṃyutta is now complete; the next saṃyutta in "
+        "this book is still in preparation.",
+    ],
+)
