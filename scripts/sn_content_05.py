@@ -54587,3 +54587,158 @@ page(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.11 — Kappasahassasutta ("A Thousand Eons")
+# Opens Vagga 2. Confirmed by direct reading of the root Pāli, this
+# vagga's own bare Pāli name is simply "Dutiyavagga" ("the second
+# chapter"), where the consulted English edition gives it its own
+# descriptive header "2. A Thousand" -- a naming variant reported
+# honestly, not silently harmonized. This discourse repeats SN
+# 52.3/52.6's own "great direct knowledge" question format, closing
+# with a new claim: recollecting a thousand eons. Given this vagga's
+# own remaining titles (Iddhividha, Dibbasota, Cetopariya, Ṭhāna,
+# Kammasamādāna, Sabbatthagāminī, Nānādhātu, Nānādhimutti,
+# Indriyaparopariyatti, Jhānādi, Pubbenivāsa, Dibbacakkhu,
+# Āsavakkhaya), this vagga appears to walk through Anuruddha's own
+# catalog of higher knowledges one by one -- confirmed discourse by
+# discourse as each is read, not assumed from the title list alone.
+# --------------------------------------------------------------------------- #
+page(
+    52, 11, "Kappasahassa", "A Thousand Eons",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.11 — A Thousand Eons | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kappasahassasutta, opening Vagga 2 &mdash; Anuruddha "
+        "recollects a thousand eons through the four kinds of "
+        "mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Jeta's Grove, Anāthapiṇḍika's Monastery, near "
+                    "Sāvatthī"),
+        ("Speakers", "Several mendicants and Venerable Anuruddha"),
+        ("Form", "A direct question and a first-person answer, "
+                 "opening a new vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf; &mdash; opens "
+                         "Vagga 2, whose own remaining titles suggest "
+                         "a systematic walk through Anuruddha's own "
+                         "catalog of higher knowledges"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse opens Vagga 2 "
+        "by repeating the &ldquo;great direct knowledge&rdquo; "
+        "question format already met at SN 52.3 and SN 52.6, closing "
+        "with a new claim: through the four kinds of mindfulness "
+        "meditation, Anuruddha &ldquo;recollects a thousand "
+        "eons&rdquo; &mdash; and this project's own preview of the "
+        "vagga's own remaining titles (psychic power, clairaudience, "
+        "mind-reading, past lives, clairvoyance, the ending of "
+        "defilements) suggests this vagga systematically works "
+        "through the classic higher knowledges one by one."
+    ),
+    guide=[
+        ("A vagga name that differs between languages", [
+            "This project's own honest observation: this vagga's own "
+            "root Pāli name is simply &ldquo;Dutiyavagga&rdquo; "
+            "(&ldquo;the second chapter&rdquo;), a bare ordinal "
+            "matching Vagga 1's own eventual root colophon; the "
+            "consulted English edition instead gives it the "
+            "descriptive header &ldquo;2. A Thousand,&rdquo; likely "
+            "drawn from this opening discourse's own content rather "
+            "than the source text's own title.",
+        ]),
+        ("The same question, a new claim", [
+            "Confirmed by direct reading, several mendicants ask "
+            "Anuruddha the same question already met at SN 52.3 and "
+            "SN 52.6 &mdash; what he developed to attain great "
+            "direct knowledge &mdash; and his own answer closes with "
+            "a claim distinct from either earlier discourse: "
+            "recollecting a thousand eons, rather than the "
+            "threefold lower/middle/higher discernment or the "
+            "thousandfold galaxy.",
+        ]),
+        ("A vagga that may catalog the higher knowledges systematically", [
+            "This project's own preview, not yet confirmed "
+            "discourse by discourse: the remaining titles of this "
+            "vagga &mdash; Iddhividha (psychic power), Dibbasota "
+            "(clairaudience), Cetopariya (mind-reading), "
+            "Pubbenivāsa (past lives), Dibbacakkhu (clairvoyance), "
+            "and Āsavakkhaya (the ending of defilements) &mdash; "
+            "match the classic sixfold list of higher knowledges "
+            "this project has already met in full at SN 51.11; this "
+            "vagga may present each one as Anuruddha's own personal "
+            "attainment in turn, to be confirmed as each discourse "
+            "is directly read.",
+        ]),
+    ],
+    terms=[
+        ("kappasahassa", "&ldquo;a thousand eons&rdquo; &mdash; "
+             "this discourse's own specific claimed span of "
+             "recollection, and the source of its own title"),
+        ("Dutiyavagga", "&ldquo;the second chapter&rdquo; &mdash; "
+             "this vagga's own bare root Pāli name, confirmed by "
+             "direct reading to differ from the consulted English "
+             "edition's own descriptive header"),
+        ("mahābhiññatā", "&ldquo;great direct knowledge&rdquo; "
+             "&mdash; the same attainment named at SN 52.3 and SN "
+             "52.6, here asked about a third time"),
+        ("kāye kāyānupassī viharāmi", "&ldquo;I meditate observing "
+             "an aspect of the body&rdquo; &mdash; the same plain "
+             "formula given throughout this saṃyutta"),
+        ("paṭhama", "&ldquo;first&rdquo; &mdash; this discourse's "
+             "own closing ordinal, confirming its own position as "
+             "Vagga 2's own opening discourse"),
+    ],
+    text_intro=("The complete discourse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.11:1.1-1.2"),
+        ("p", "&sect;2", "sn52.11:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "What does this project's own honest observation find about this vagga's own name?",
+         "opts": ["Its root Pāli name is simply \"Dutiyavagga\" (\"the second chapter\"), while the consulted English edition gives it the descriptive header \"A Thousand\"", "The root Pāli and English titles are identical in every respect", "This vagga has no name at all in either language", "The English title is a direct, literal translation of the Pāli name"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a genuine naming variant between the source languages, reported honestly."},
+        {"q": "What new claim does Anuruddha make in this discourse, distinct from SN 52.3 and SN 52.6?",
+         "opts": ["Recollecting a thousand eons", "Knowing the lower, middle, and higher principle as such", "Directly knowing the thousandfold galaxy", "Reading the minds of every mendicant present"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: a claim distinct from either of the two earlier \"great direct knowledge\" discourses."},
+        {"q": "What does this project's own preview suggest about this vagga's own remaining discourses, without yet confirming it?",
+         "opts": ["That the vagga may systematically walk through the classic sixfold list of higher knowledges already met at SN 51.11, one by one", "That every remaining discourse in this vagga will be identical in content to this one", "That this vagga contains no further discourses about Anuruddha specifically", "That the vagga's own titles bear no relation to any teaching found elsewhere in the canon"],
+         "correct": 0,
+         "expl": "A preview based on the vagga's own title list, explicitly not yet confirmed discourse by discourse."},
+    ],
+    marginalia=[
+        ("Two names, one chapter", [
+            "the Pāli simply says \"the second\" —",
+            "the English calls it \"A Thousand\" instead"
+        ]),
+        ("A third telling of the same question", [
+            "SN 52.3, then 52.6, now 52.11 —",
+            "great direct knowledge, asked a third time"
+        ]),
+        ("A thousand eons recalled", [
+            "not a galaxy this time, not tiers of principle —",
+            "a thousand eons, remembered directly"
+        ]),
+        ("A catalog, perhaps, still to be confirmed", [
+            "psychic power, clairaudience, mind-reading ahead —",
+            "each one to be checked, not assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.10.html\">SN 52.10 &middot; Gravely Ill</a> "
+        "&mdash; the previous discourse, closing Vagga 1.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
