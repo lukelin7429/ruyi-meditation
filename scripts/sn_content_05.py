@@ -52928,3 +52928,170 @@ page_range(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# 8. Oghavagga — Floods, Etc. (SN 51.77-86)
+# Confirmed by direct bilara-data reading: this is the FINAL vagga of
+# the entire Iddhipādasaṃyutta (SN 51). Its own closing colophon
+# reads "Oghavaggo aṭṭhamo" ("Vagga 8, the Floods chapter") followed
+# immediately by "Iddhipādasaṁyuttaṁ sattamaṁ" ("The Linked
+# Discourses on the Bases of Psychic Power is the seventh [book-VII
+# saṃyutta]") -- confirming this single file closes SN 51 in its
+# entirety. Unlike the bare cross-references of Vaggas 5-7, this
+# discourse spells out its own first full worked example (the five
+# higher fetters) before cross-referencing SN 45.171-180 for the
+# remaining nine variants, confirmed by the closing uddāna's own ten
+# items to span SN 51.77 through SN 51.86.
+# --------------------------------------------------------------------------- #
+page_range(
+    51, 77, 86, "Oghādi", "Floods, Etc.",
+    vagga="Oghavagga",
+    meta_title="SN 51.77–86 — Floods, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 51.77–86 — the five higher fetters, and the final "
+        "discourse closing the entire Iddhipādasaṃyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "One full worked example (the five higher fetters), "
+                 "then a cross-reference for the remaining nine "
+                 "discourses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; the final discourse of the entire "
+                         "Iddhipādasaṃyutta, confirmed directly by "
+                         "its own closing colophon"),
+    ],
+    why=(
+        "Confirmed by direct reading of this file's own closing "
+        "lines &mdash; &ldquo;Oghavaggo aṭṭhamo&rdquo; (&ldquo;Vagga "
+        "8, the Floods chapter&rdquo;) followed immediately by "
+        "&ldquo;Iddhipādasaṁyuttaṁ sattamaṁ&rdquo; (&ldquo;the "
+        "Linked Discourses on the Bases of Psychic Power is the "
+        "seventh [book-VII saṃyutta]&rdquo;) &mdash; this single "
+        "file closes SN 51 in its entirety, completing this "
+        "project's own translation of the Iddhipādasaṃyutta from its "
+        "own first discourse at SN 51.1 through this, its own last."
+    ),
+    guide=[
+        ("The five higher fetters, spelled out in full", [
+            "Confirmed by direct reading, unlike Vaggas 5 through 7's "
+            "own bare cross-references, this discourse gives its own "
+            "first worked example in full: the five higher fetters "
+            "(uddhambhāgiyāni saṁyojanāni) &mdash; desire for "
+            "rebirth in the realm of luminous form, desire for "
+            "rebirth in the formless realm, conceit, restlessness, "
+            "and ignorance &mdash; with the four bases named as the "
+            "means for their &ldquo;direct knowledge, complete "
+            "understanding, finishing, and giving up.&rdquo;",
+        ]),
+        ("A cross-reference for the remaining nine", [
+            "Confirmed by direct reading, after this one full "
+            "example the file instructs: &ldquo;tell in full as in "
+            "the Linked Discourses on the Path at SN "
+            "45.171&ndash;180&rdquo; &mdash; this project's own "
+            "already-completed final vagga of the Maggasaṃyutta, "
+            "covering floods, yokes, grasping, ties, underlying "
+            "tendencies, kinds of sensual stimulation, hindrances, "
+            "aggregates, and the higher and lower fetters.",
+        ]),
+        ("The saṃyutta's own end, confirmed directly", [
+            "This project's own confirmation: the phrase &ldquo;"
+            "Iddhipādasaṁyuttaṁ sattamaṁ&rdquo; closes not just this "
+            "vagga but this entire saṃyutta, marking it as the "
+            "seventh saṃyutta within its own book &mdash; completing "
+            "this project's own translation of every discourse from "
+            "SN 51.1 (&ldquo;The Path,&rdquo; opening with Chanda) "
+            "through this discourse, SN 51.86, its own genuine final "
+            "line.",
+        ]),
+        ("A structure this project has now traced in full", [
+            "This project's own summary: eight vaggas in total "
+            "&mdash; Vagga 1 (10 discourses), Vagga 2 (10), Vagga 3 "
+            "(12), Vagga 4 (12), Vagga 5 (10), Vagga 6 (12), Vagga 7 "
+            "(10), and Vagga 8 (10) &mdash; confirmed discourse by "
+            "discourse and colophon by colophon, not assumed from "
+            "any external outline.",
+        ]),
+    ],
+    terms=[
+        ("uddhambhāgiyāni saṁyojanāni", "&ldquo;the five higher "
+             "fetters&rdquo; &mdash; desire for the form realm, "
+             "desire for the formless realm, conceit, restlessness, "
+             "and ignorance, this discourse's own opening example"),
+        ("abhiññāya pariññāya parikkhayāya pahānāya", "&ldquo;for "
+             "the direct knowledge, complete understanding, "
+             "finishing, and giving up&rdquo; &mdash; the fourfold "
+             "purpose named for developing the four bases against "
+             "these fetters"),
+        ("Yathā maggasaṁyuttaṁ tathā vitthāretabbaṁ", "&ldquo;tell "
+             "in full as in the Linked Discourses on the Path&rdquo; "
+             "&mdash; the cross-reference instruction for the "
+             "remaining nine discourses"),
+        ("Oghavaggo aṭṭhamo", "&ldquo;Vagga 8, the Floods "
+             "chapter&rdquo; &mdash; this file's own vagga-closing "
+             "colophon"),
+        ("Iddhipādasaṁyuttaṁ sattamaṁ", "&ldquo;the Linked "
+             "Discourses on the Bases of Psychic Power is the "
+             "seventh&rdquo; &mdash; the saṃyutta's own final "
+             "closing line, confirmed by this project to end SN 51 "
+             "in its entirety"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.77-86:1.1-1.12"),
+        ("p", "Uddāna", "sn51.77-86:2.1-2.4"),
+        ("p", "Closing", "sn51.77-86:2.5"),
+    ],
+    quiz=[
+        {"q": "What confirms that this discourse closes the entire Iddhipādasaṃyutta, not just this one vagga?",
+         "opts": ["Its own closing line \"Iddhipādasaṁyuttaṁ sattamaṁ,\" naming the whole saṃyutta as complete, following the vagga's own \"Oghavaggo aṭṭhamo\" colophon", "A note from the translator stating this is the last discourse", "This project's own assumption based on the file naming convention alone", "The absence of any further files in the bilara-data directory"],
+         "correct": 0,
+         "expl": "Confirmed directly by the text's own two-tiered closing colophon: vagga close, then saṃyutta close."},
+        {"q": "What does this discourse give in full, unlike the bare cross-references of Vaggas 5-7?",
+         "opts": ["The five higher fetters, spelled out by name, with the four bases named as the means for their direct knowledge, understanding, finishing, and giving up", "The entire sixfold list of higher knowledges, repeated one final time", "A biographical account of the Buddha's own final days", "A list of every mendicant present at this final teaching"],
+         "correct": 0,
+         "expl": "One full worked example before the cross-reference for the remaining nine variants."},
+        {"q": "According to this project's own summary, how many vaggas does SN 51 contain in total, and how many discourses each?",
+         "opts": ["Eight vaggas: 10, 10, 12, 12, 10, 12, 10, and 10 discourses respectively", "Exactly ten vaggas of ten discourses each, with no variation", "Five vaggas, matching the five higher fetters named in this final discourse", "The exact count was never confirmed and remains an open question"],
+         "correct": 0,
+         "expl": "Confirmed discourse by discourse and colophon by colophon across this project's own full translation."},
+    ],
+    marginalia=[
+        ("One last full example", [
+            "not another bare cross-reference —",
+            "the five higher fetters, named in full"
+        ]),
+        ("Nine more, pointed to rather than repeated", [
+            "\"as in the Linked Discourses on the Path\" —",
+            "this project's own earlier work, reused one final time"
+        ]),
+        ("The saṃyutta's own last word", [
+            "\"Iddhipādasaṁyuttaṁ sattamaṁ\" —",
+            "not just a vagga's close, but the whole book's own"
+        ]),
+        ("Eight vaggas, traced start to finish", [
+            "10, 10, 12, 12, 10, 12, 10, 10 —",
+            "confirmed one colophon at a time, never assumed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.77-86/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.67-76.html\">SN 51.67&ndash;76 &middot; "
+        "Searches</a> &mdash; the previous discourse, closing "
+        "Vagga 7.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this project's own translation of the Iddhipādasaṃyutta is "
+        "now complete; the following saṃyuttas of Book V are still "
+        "in preparation.",
+    ],
+)
