@@ -59727,3 +59727,567 @@ page(
         "the identical chain, given there in full by both sources.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.17 — Saṁyojanappahānasutta ("Giving Up the Fetters")
+# Confirmed by direct reading: an extremely brief, single-sentence
+# discourse, the first of a four-item series (SN 54.17-20) each
+# naming a distinct benefit of mindfulness of breathing, compressed
+# via "…pe…" and later restated in full together at this vagga's own
+# closing discourse, SN 54.20.
+# --------------------------------------------------------------------------- #
+page(
+    54, 17, "Saṁyojanappahāna", "Giving Up the Fetters",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.17 — Giving Up the Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁyojanappahānasutta &mdash; mindfulness of breathing "
+        "leads to giving up the fetters, the first of a four-item "
+        "closing series. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.16's own setting"),
+        ("Speaker", "The Buddha (implied)"),
+        ("Form", "A single compressed sentence, the first of a "
+                 "four-item series closing this vagga"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, opening a four-item series "
+                         "of named benefits that SN 54.20 restates "
+                         "together in full"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse states a single "
+        "claim, compressed via &ldquo;…pe…&rdquo;: mindfulness of "
+        "breathing, developed and cultivated, &ldquo;leads to giving "
+        "up the fetters&rdquo; (saṁyojanappahāna) &mdash; the first "
+        "of four named benefits this project has confirmed form a "
+        "single series, continuing through SN 54.18 and SN 54.19 "
+        "before all four are restated together in full at this "
+        "vagga's own closing discourse, SN 54.20."
+    ),
+    guide=[
+        ("The first of a four-item series", [
+            "This project's own direct confirmation, from reading "
+            "ahead to SN 54.20's own closing uddāna: this discourse "
+            "opens a series of four named benefits &mdash; giving "
+            "up the fetters, uprooting the underlying tendencies, "
+            "completely understanding the course of time, and "
+            "ending the defilements &mdash; each stated separately "
+            "and briefly here, then restated together with the full "
+            "formula at SN 54.20.",
+        ]),
+        ("The ten fetters, not spelled out here", [
+            "This discourse's own compressed claim does not itself "
+            "enumerate the ten fetters (saṁyojana) traditionally "
+            "bound to the four stages of awakening; only the bare "
+            "claim that mindfulness of breathing leads to their "
+            "abandonment is given, with no further detail in this "
+            "file.",
+        ]),
+    ],
+    terms=[
+        ("ānāpānassatisamādhi bhāvito bahulīkato", "&ldquo;"
+             "immersion due to mindfulness of breathing, developed "
+             "and cultivated&rdquo; &mdash; the recurring cause "
+             "named across this entire four-item series"),
+        ("saṁyojanappahāna", "&ldquo;giving up the fetters&rdquo; "
+             "&mdash; this discourse's own named benefit, the first "
+             "of four in this series"),
+        ("saṁyojana", "&ldquo;fetter&rdquo; &mdash; one of the ten "
+             "traditional bonds tying beings to continued "
+             "existence, not itself enumerated in this brief "
+             "discourse"),
+        ("…pe…", "the elision marking, standing in for the full "
+             "formula given in complete form only at this series' "
+             "own closing discourse, SN 54.20"),
+        ("sattamaṁ", "&ldquo;seventh&rdquo; &mdash; this discourse's "
+             "own closing ordinal, confirming its position as the "
+             "seventh discourse of Vagga 2"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.17:1.1"),
+    ],
+    quiz=[
+        {"q": "What benefit does this discourse claim mindfulness of breathing leads to?",
+         "opts": ["Giving up the fetters (saṁyojanappahāna)", "Uprooting the underlying tendencies", "Completely understanding the course of time", "Ending the defilements"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own single, named claim."},
+        {"q": "What does this project's own confirmation, from reading ahead to SN 54.20, establish about this discourse?",
+         "opts": ["It opens a four-item series of named benefits, later restated together in full at SN 54.20", "It is an isolated discourse with no connection to any other discourse in this saṃyutta", "It contradicts the benefit named at SN 54.18", "It closes the entire saṃyutta on its own"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of SN 54.20's own closing formula, which restates all four benefits together."},
+        {"q": "Does this discourse itself enumerate the ten traditional fetters?",
+         "opts": ["No — only the bare claim that mindfulness of breathing leads to giving them up is given, with no further detail", "Yes, all ten are listed by name in this discourse", "Only five of the ten are named", "The discourse denies that fetters exist at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a bare claim, without enumeration."},
+    ],
+    marginalia=[
+        ("A series begins, briefly", [
+            "one claim, compressed to a single line —",
+            "three more will follow before the whole is restated"
+        ]),
+        ("Fetters, named but not listed", [
+            "the claim given, the detail assumed —",
+            "the traditional ten left unspoken here"
+        ]),
+        ("Seventh of this vagga's own ten", [
+            "sattamaṁ, the colophon confirms —",
+            "three discourses remain before the close"
+        ]),
+        ("A benefit among several", [
+            "not the only fruit of this practice —",
+            "three companions still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.17/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.16.html\">SN 54.16 &middot; Several "
+        "Mendicants (2nd)</a> &mdash; the previous discourse.",
+        "<a href=\"sn-54.20.html\">SN 54.20 &middot; The Ending of "
+        "Defilements</a> &mdash; this series' own closing discourse, "
+        "restating all four benefits together with the full formula.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.18 — Anusayasamugghātasutta ("Uprooting the Tendencies")
+# Confirmed by direct reading: the second of the four-item series
+# opened at SN 54.17, equally brief and compressed.
+# --------------------------------------------------------------------------- #
+page(
+    54, 18, "Anusayasamugghāta", "Uprooting the Tendencies",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.18 — Uprooting the Tendencies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anusayasamugghātasutta &mdash; mindfulness of breathing "
+        "leads to uprooting the underlying tendencies, second in a "
+        "four-item series. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.17's own setting"),
+        ("Speaker", "The Buddha (implied)"),
+        ("Form", "A single compressed sentence, the second of a "
+                 "four-item series"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, continuing the series opened "
+                         "at SN 54.17"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse continues the "
+        "four-item series opened at SN 54.17: mindfulness of "
+        "breathing, developed and cultivated, &ldquo;leads to "
+        "uprooting the underlying tendencies&rdquo; "
+        "(anusayasamugghāta) &mdash; the second of four named "
+        "benefits, again compressed via &ldquo;…pe…&rdquo; and later "
+        "restated in full at SN 54.20."
+    ),
+    guide=[
+        ("The anusaya, familiar from elsewhere in the canon", [
+            "This project's own background note: the "
+            "&ldquo;underlying tendencies&rdquo; (anusaya) are a "
+            "classic sevenfold list of latent defilements &mdash; "
+            "sensual desire, hostility, views, doubt, conceit, "
+            "desire to be reborn, and ignorance &mdash; not "
+            "themselves enumerated in this brief discourse, which "
+            "states only the bare claim that mindfulness of "
+            "breathing uproots them.",
+        ]),
+        ("Uprooting, not merely giving up", [
+            "This project's own direct comparison: where SN 54.17's "
+            "own claim used &ldquo;giving up&rdquo; "
+            "(pahāna), this discourse's own verb is stronger "
+            "&mdash; &ldquo;uprooting&rdquo; (samugghāta) &mdash; "
+            "matching the same distinction between temporary "
+            "suppression and permanent removal already confirmed at "
+            "SN 54.12's own treatment of the five hindrances.",
+        ]),
+    ],
+    terms=[
+        ("ānāpānassatisamādhi bhāvito bahulīkato", "&ldquo;"
+             "immersion due to mindfulness of breathing, developed "
+             "and cultivated&rdquo; &mdash; the recurring cause "
+             "named across this entire four-item series"),
+        ("anusayasamugghāta", "&ldquo;uprooting the underlying "
+             "tendencies&rdquo; &mdash; this discourse's own named "
+             "benefit, the second of four in this series"),
+        ("anusaya", "&ldquo;underlying tendency&rdquo; &mdash; the "
+             "classic sevenfold list of latent defilements, not "
+             "itself enumerated in this brief discourse"),
+        ("samugghāta", "&ldquo;uprooting&rdquo; &mdash; a stronger "
+             "term than SN 54.17's own &ldquo;giving up,&rdquo; "
+             "implying permanent removal rather than temporary "
+             "suppression"),
+        ("aṭṭhamaṁ", "&ldquo;eighth&rdquo; &mdash; this discourse's "
+             "own closing ordinal, confirming its position as the "
+             "eighth discourse of Vagga 2"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.18:1.1"),
+    ],
+    quiz=[
+        {"q": "What benefit does this discourse claim mindfulness of breathing leads to?",
+         "opts": ["Uprooting the underlying tendencies (anusayasamugghāta)", "Giving up the fetters, as at SN 54.17", "Completely understanding the course of time", "Ending the defilements"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own single, named claim."},
+        {"q": "How does this discourse's own verb differ from SN 54.17's own, per this project's own comparison?",
+         "opts": ["\"Uprooting\" (samugghāta) is stronger than SN 54.17's own \"giving up\" (pahāna), implying permanent removal rather than temporary suppression", "The two verbs are exact synonyms with no meaningful difference", "This discourse's own verb is weaker, implying only partial removal", "SN 54.17 uses the stronger term, and this discourse the weaker one"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison, matching the pahāna/samugghāta distinction already noted at SN 54.12."},
+        {"q": "What are the \"underlying tendencies\" (anusaya), as background to this discourse's own claim?",
+         "opts": ["A classic sevenfold list of latent defilements — sensual desire, hostility, views, doubt, conceit, desire to be reborn, and ignorance", "A synonym for the five hindrances already treated at SN 54.12", "A list unique to this discourse, found nowhere else in the canon", "The four satipaṭṭhānas under another name"],
+         "correct": 0,
+         "expl": "This project's own background note — not enumerated in this brief discourse itself."},
+    ],
+    marginalia=[
+        ("A second claim, the same brevity", [
+            "one line, compressed —",
+            "the series continues"
+        ]),
+        ("Uprooted, not merely set aside", [
+            "samugghāta, a stronger word than SN 54.17's own —",
+            "permanent removal, not temporary calm"
+        ]),
+        ("Seven tendencies, unnamed here", [
+            "desire, hostility, views, doubt, conceit —",
+            "the list assumed, not spelled out"
+        ]),
+        ("Eighth of this vagga's own ten", [
+            "aṭṭhamaṁ, the colophon confirms —",
+            "two discourses remain before the close"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.18/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.17.html\">SN 54.17 &middot; Giving Up the "
+        "Fetters</a> &mdash; the previous discourse.",
+        "<a href=\"sn-54.20.html\">SN 54.20 &middot; The Ending of "
+        "Defilements</a> &mdash; this series' own closing discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.19 — Addhānapariññāsutta ("Completely Understanding the
+# Course of Time")
+# Confirmed by direct reading: the third of the four-item series
+# opened at SN 54.17, equally brief and compressed.
+# --------------------------------------------------------------------------- #
+page(
+    54, 19, "Addhānapariññā", "Completely Understanding the Course of Time",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.19 — Completely Understanding the Course of Time | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Addhānapariññāsutta &mdash; mindfulness of breathing "
+        "leads to completely understanding the course of time, "
+        "third in a four-item series. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.18's own setting"),
+        ("Speaker", "The Buddha (implied)"),
+        ("Form", "A single compressed sentence, the third of a "
+                 "four-item series"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf; &mdash; brief in its "
+                         "own written form, but its own claim "
+                         "(&ldquo;the course of time&rdquo;) is the "
+                         "most distinctive and least self-"
+                         "explanatory of the four benefits in this "
+                         "series"),
+    ],
+    why=(
+        "Confirmed by direct reading, this discourse continues the "
+        "four-item series opened at SN 54.17: mindfulness of "
+        "breathing, developed and cultivated, &ldquo;leads to "
+        "completely understanding the course of time&rdquo; "
+        "(addhānapariññā) &mdash; the third of four named benefits, "
+        "and, confirmed by this project's own direct comparison, "
+        "the least self-explanatory claim in this series, given no "
+        "further gloss anywhere in this saṃyutta."
+    ),
+    guide=[
+        ("\"Addhāna\": time, or a journey through it", [
+            "This project's own honest observation: "
+            "&ldquo;addhāna&rdquo; can mean either &ldquo;time&rdquo; "
+            "or a long &ldquo;journey&rdquo;/&ldquo;road,&rdquo; and "
+            "&ldquo;the course of time&rdquo; here most plausibly "
+            "points to full understanding of one's own passage "
+            "through saṁsāra &mdash; but this discourse itself gives "
+            "no further explanation, and this project has not traced "
+            "a fuller gloss elsewhere in this saṃyutta.",
+        ]),
+        ("The least self-explanatory of the four", [
+            "This project's own direct comparison: unlike "
+            "&ldquo;giving up the fetters&rdquo; or &ldquo;uprooting "
+            "the tendencies,&rdquo; whose own traditional referents "
+            "(saṁyojana, anusaya) are well-established doctrinal "
+            "lists, &ldquo;completely understanding the course of "
+            "time&rdquo; is not tied to any other list this project "
+            "has already translated, making it this series' own "
+            "most distinctive claim.",
+        ]),
+    ],
+    terms=[
+        ("ānāpānassatisamādhi bhāvito bahulīkato", "&ldquo;"
+             "immersion due to mindfulness of breathing, developed "
+             "and cultivated&rdquo; &mdash; the recurring cause "
+             "named across this entire four-item series"),
+        ("addhānapariññā", "&ldquo;completely understanding the "
+             "course of time&rdquo; &mdash; this discourse's own "
+             "named benefit, the third of four in this series"),
+        ("addhāna", "&ldquo;time,&rdquo; or a long &ldquo;journey"
+             "&rdquo;/&ldquo;road&rdquo; &mdash; a genuinely "
+             "ambiguous term, not further glossed in this brief "
+             "discourse"),
+        ("pariññā", "&ldquo;complete understanding&rdquo; &mdash; a "
+             "technical term for the fullest, most direct kind of "
+             "insight, distinct from mere intellectual knowledge"),
+        ("navamaṁ", "&ldquo;ninth&rdquo; &mdash; this discourse's "
+             "own closing ordinal, confirming its position as the "
+             "ninth discourse of Vagga 2"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.19:1.1"),
+    ],
+    quiz=[
+        {"q": "What benefit does this discourse claim mindfulness of breathing leads to?",
+         "opts": ["Completely understanding the course of time (addhānapariññā)", "Giving up the fetters, as at SN 54.17", "Uprooting the underlying tendencies, as at SN 54.18", "Ending the defilements"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own single, named claim."},
+        {"q": "What does this project's own honest observation note about the term \"addhāna\"?",
+         "opts": ["It can mean either \"time\" or a long \"journey\"/\"road\", most plausibly pointing to understanding one's own passage through saṁsāra, though not further explained here", "It has one single, unambiguous meaning confirmed directly by this discourse", "It is a technical term this project has already fully defined at an earlier discourse", "It refers specifically to the length of a single meditation session"],
+         "correct": 0,
+         "expl": "Confirmed honestly — a genuinely ambiguous term, given no further gloss in this saṃyutta."},
+        {"q": "How does this discourse's own claim compare to SN 54.17 and SN 54.18's own claims, per this project's own comparison?",
+         "opts": ["It is the least self-explanatory of the four, not tied to any other doctrinal list already translated by this project", "It is the most straightforward and clearly defined of the four claims", "It directly contradicts the claims made at SN 54.17 and SN 54.18", "It is identical in meaning to SN 54.18's own claim"],
+         "correct": 0,
+         "expl": "This project's own direct comparison across the series' own four claims."},
+    ],
+    marginalia=[
+        ("A third claim, the most puzzling", [
+            "\"the course of time\" — time, or a journey? —",
+            "no further gloss offered here"
+        ]),
+        ("Not tied to a list already known", [
+            "unlike fetters or tendencies, both familiar —",
+            "this claim stands on its own"
+        ]),
+        ("Complete understanding, a technical term", [
+            "pariññā, not mere knowing —",
+            "the fullest, most direct insight"
+        ]),
+        ("Ninth of this vagga's own ten", [
+            "navamaṁ, the colophon confirms —",
+            "one discourse remains before the close"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.19/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.18.html\">SN 54.18 &middot; Uprooting the "
+        "Tendencies</a> &mdash; the previous discourse.",
+        "<a href=\"sn-54.20.html\">SN 54.20 &middot; The Ending of "
+        "Defilements</a> &mdash; this series' own closing discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 54.20 — Āsavakkhayasutta ("The Ending of Defilements")
+# Confirmed by direct reading of the root Pali colophon: closes both
+# Vagga 2 (Dutiyo vaggo) and the entire Ānāpānasaṃyutta itself
+# ("Ānāpānasaṁyuttaṁ dasamaṁ" -- "the Ānāpānasaṃyutta is the tenth
+# [section]"), confirming this project's own expected structure of
+# 20 discourses across 2 vaggas (10+10), and Book V's own tenth
+# saṃyutta. This discourse restates all four benefits named
+# separately at SN 54.17-19 -- giving up the fetters, uprooting the
+# underlying tendencies, completely understanding the course of
+# time -- together with its own fourth and final benefit, the ending
+# of defilements, all attributed to the identical sixteen-step
+# formula given in full once more.
+# --------------------------------------------------------------------------- #
+page(
+    54, 20, "Āsavakkhaya", "The Ending of Defilements",
+    vagga="Dutiyavagga",
+    meta_title="SN 54.20 — The Ending of Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavakkhayasutta &mdash; the closing discourse of the "
+        "entire Ānāpānasaṃyutta, restating all four benefits of "
+        "mindfulness of breathing together. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not given &mdash; continuing directly from SN "
+                     "54.19's own setting"),
+        ("Speaker", "The Buddha (implied)"),
+        ("Form", "All four benefits of the closing series restated "
+                 "together, then the full formula, then the "
+                 "saṃyutta's own closing colophon and uddāna"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of the "
+                         "root colophon as the close of both Vagga 2 "
+                         "and the entire Ānāpānasaṃyutta (20 "
+                         "discourses, 2 vaggas), Book V's own tenth "
+                         "saṃyutta"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes three things at once: Vagga 2 (&ldquo;"
+        "Dutiyo vaggo&rdquo;), the entire Ānāpānasaṃyutta (&ldquo;"
+        "Ānāpānasaṁyuttaṁ dasamaṁ&rdquo; &mdash; confirming this "
+        "project's own expected structure of 20 discourses across 2 "
+        "vaggas), and this four-item series begun at SN 54.17: "
+        "giving up the fetters, uprooting the underlying tendencies, "
+        "completely understanding the course of time, and &mdash; "
+        "this discourse's own fourth and final claim &mdash; ending "
+        "the defilements, all restated together and attributed to "
+        "the identical sixteen-step formula given in full once more."
+    ),
+    guide=[
+        ("Four benefits, gathered together", [
+            "Confirmed by direct reading, this discourse restates "
+            "all four benefits named separately across SN 54.17-19 "
+            "&mdash; giving up the fetters, uprooting the underlying "
+            "tendencies, completely understanding the course of "
+            "time &mdash; adding its own fourth and final claim, "
+            "ending the defilements (āsavakkhaya), the traditional "
+            "mark of arahantship already met throughout this "
+            "project's own SN 51 and SN 52 work.",
+        ]),
+        ("The formula, given in full once more", [
+            "Confirmed by direct reading, this discourse states the "
+            "complete sixteen-step formula's own opening and closing "
+            "steps once more before attributing all four benefits to "
+            "it &mdash; the same formula given in full at this "
+            "saṃyutta's own opening discourse, SN 54.1, now closing "
+            "the saṃyutta as well.",
+        ]),
+        ("The close of Vagga 2 and of the entire saṃyutta", [
+            "Confirmed by direct reading of the root Pali colophon "
+            "(not assumed): &ldquo;Dasamaṁ. Dutiyo vaggo.&rdquo; "
+            "(&ldquo;Tenth. The second vagga [ends].&rdquo;), "
+            "followed immediately by &ldquo;Ānāpānasaṁyuttaṁ "
+            "dasamaṁ&rdquo; (&ldquo;The Ānāpānasaṃyutta is the tenth "
+            "[section].&rdquo;) &mdash; confirming this project's "
+            "own expected structure of 20 discourses across 2 "
+            "vaggas (10+10), and confirming this saṃyutta as Book "
+            "V's own tenth, directly following SN 53 (Jhānasaṃyutta, "
+            "the ninth), already confirmed complete by this project.",
+        ]),
+        ("A ten-title uddāna, confirmed against this project's own SN 54.11-20", [
+            "Confirmed by direct reading, this discourse's own "
+            "closing uddāna (&ldquo;Icchānaṅgala, Kaṅkheyya, two "
+            "more with Ānanda; mendicants, fetters and tendencies, "
+            "course of time and ending of defilements&rdquo;) lists "
+            "exactly ten titles, matching this project's own SN "
+            "54.11 through SN 54.20 precisely.",
+        ]),
+    ],
+    terms=[
+        ("āsavānaṁ khayāya saṁvattati", "&ldquo;leads to the ending "
+             "of defilements&rdquo; &mdash; this discourse's own "
+             "fourth and final benefit, the traditional mark of "
+             "arahantship"),
+        ("saṁyojanappahānāya...anusayasamugghātāya...addhānapariññāya",
+             "&ldquo;giving up the fetters...uprooting the "
+             "underlying tendencies...completely understanding the "
+             "course of time&rdquo; &mdash; the three prior "
+             "benefits from SN 54.17-19, restated here together"),
+        ("dasamaṁ. dutiyo vaggo", "&ldquo;tenth. the second vagga "
+             "[ends]&rdquo; &mdash; the root colophon's own "
+             "vagga-closing marker"),
+        ("ānāpānasaṁyuttaṁ dasamaṁ", "&ldquo;the Ānāpānasaṃyutta is "
+             "the tenth [section]&rdquo; &mdash; the root colophon's "
+             "own confirmation that this discourse closes the "
+             "entire saṃyutta, Book V's own tenth"),
+        ("icchānaṅgalaṁ kaṅkheyyaṁ, ānandā apare duve; bhikkhū "
+         "saṁyojanānusayā, addhānaṁ āsavakkhayanti", "the closing "
+             "uddāna's own ten titles, confirmed by direct reading "
+             "to match SN 54.11 through SN 54.20 exactly"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including its own closing line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.20:1.1-1.5"),
+        ("p", "The formula", "sn54.20:1.6-1.7"),
+        ("p", "&sect;2", "sn54.20:1.8-1.11"),
+        ("p", "Closing", "sn54.20:2.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 2 (10 discourses) and the entire Ānāpānasaṃyutta (20 discourses, 2 vaggas), as Book V's own tenth saṃyutta", "It closes only Vagga 2, with several more discourses still to come in the saṃyutta", "It is the saṃyutta's own opening discourse, not its close", "It belongs to an entirely separate saṃyutta from SN 54.1-19"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "What four benefits does this discourse restate together, attributing all of them to the same formula?",
+         "opts": ["Giving up the fetters, uprooting the underlying tendencies, completely understanding the course of time, and ending the defilements", "The four jhānas, already fully treated in SN 53", "The four satipaṭṭhānas, already fully treated at SN 54.1", "The four right efforts, already treated in an earlier saṃyutta of this book"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — the three prior claims from SN 54.17-19, plus this discourse's own fourth."},
+        {"q": "What does this discourse's own closing uddāna confirm about this project's own SN 54.11-20?",
+         "opts": ["Its own ten listed titles match this project's own ten discourses (SN 54.11 through SN 54.20) exactly", "It lists only nine titles, contradicting this project's own count of ten", "It lists titles from an entirely different saṃyutta", "The uddāna is left untranslated in the consulted English source, as at SN 54.10"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — a clean, exact match to this project's own tracked structure."},
+    ],
+    marginalia=[
+        ("Four benefits, gathered as one", [
+            "fetters given up, tendencies uprooted —",
+            "time understood, defilements ended"
+        ]),
+        ("The formula, once more in full", [
+            "the same sixteen steps that opened this saṃyutta —",
+            "now close it as well"
+        ]),
+        ("Ten discourses, twice over", [
+            "Vagga 1's own ten, now Vagga 2's own ten —",
+            "twenty in all, confirmed by the colophon"
+        ]),
+        ("Book V's own tenth saṃyutta, complete", [
+            "Jhānasaṃyutta the ninth, now Ānāpānasaṃyutta the tenth —",
+            "each closing cleanly, one after the other"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.20/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.19.html\">SN 54.19 &middot; Completely "
+        "Understanding the Course of Time</a> &mdash; the previous "
+        "discourse, the third of this closing series' own four "
+        "benefits.",
+        "<a href=\"sn-54.1.html\">SN 54.1 &middot; One Thing</a> "
+        "&mdash; this saṃyutta's own opening discourse, giving the "
+        "same sixteen-step formula this discourse closes with.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "the Ānāpānasaṃyutta is now complete; the next saṃyutta in "
+        "this book is still in preparation.",
+    ],
+)
