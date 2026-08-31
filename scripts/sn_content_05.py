@@ -58580,3 +58580,190 @@ page(
         "Lamp</a> &mdash; the previous discourse.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 54.10 — Kimilasutta ("With Kimbila")
+# Confirmed by direct reading of the root Pali colophon and uddāna:
+# closes Vagga 1 (Ekadhammavaggo paṭhamo, "the One-Thing chapter,
+# the first") at exactly ten discourses, its own uddāna listing all
+# ten titles in order and matching this project's own count exactly.
+# The vagga's own most explicit discourse: after Kimbila's own
+# threefold silence prompts Ānanda to ask the Buddha to teach
+# directly, the Buddha gives the full sixteen-step formula with an
+# explicit "why is that?" justification tying each tetrad to its own
+# satipaṭṭhāna, closing with a new crossroads simile not met
+# elsewhere in this saṃyutta. Confirmed by direct comparison: the
+# consulted English source leaves the closing colophon and uddāna
+# themselves untranslated (empty strings), though present in the
+# root Pali -- reported honestly, not filled in.
+# --------------------------------------------------------------------------- #
+page(
+    54, 10, "Kimila", "With Kimbila",
+    vagga="Ekadhammavagga",
+    meta_title="SN 54.10 — With Kimbila | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kimilasutta &mdash; the Buddha's own most explicit "
+        "mapping of the sixteen-step formula onto the four "
+        "satipaṭṭhānas, closing Vagga 1. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Kimbilā, the Freshwater Mangrove Wood"),
+        ("Speakers", "The Buddha, Venerable Kimbila, and Venerable "
+                     "Ānanda"),
+        ("Form", "A narrative opening (Kimbila's own threefold "
+                 "silence), then the formula with explicit "
+                 "reasoning, then a new closing simile"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; closes Vagga 1 at exactly ten "
+                         "discourses, confirmed by the vagga's own "
+                         "colophon and uddāna, with the saṃyutta's "
+                         "own most explicit tetrad-by-tetrad "
+                         "justification"),
+    ],
+    why=(
+        "Confirmed by direct reading of the root Pali colophon "
+        "(&ldquo;Ekadhammavaggo paṭhamo&rdquo;) and its own uddāna, "
+        "this discourse closes Vagga 1 at exactly ten discourses, "
+        "matching this project's own count precisely. It is also "
+        "this vagga's own most explicit treatment of the formula: "
+        "after Kimbila keeps silent three times when the Buddha asks "
+        "him directly how the practice is developed, Ānanda "
+        "intervenes and the Buddha teaches Ānanda instead, giving "
+        "each tetrad with an explicit &ldquo;why is that?&rdquo; "
+        "justification tying it to its own satipaṭṭhāna, and closing "
+        "with a crossroads simile not met elsewhere in this book."
+    ),
+    guide=[
+        ("Kimbila's own silence, and Ānanda's own intervention", [
+            "Confirmed by direct reading, when the Buddha asks "
+            "Kimbila directly how mindfulness of breathing is "
+            "developed, Kimbila says nothing &mdash; not once, but "
+            "three times in succession. Only then does Ānanda step "
+            "in: &ldquo;now is the time&hellip;let the Buddha speak "
+            "on immersion due to mindfulness of breathing. The "
+            "mendicants will listen and remember it.&rdquo; The "
+            "Buddha then teaches Ānanda directly, without further "
+            "comment on Kimbila's own silence.",
+        ]),
+        ("Each tetrad, explicitly justified", [
+            "Confirmed by direct reading, this is the only discourse "
+            "in this vagga to give an explicit reason for each "
+            "tetrad's own mapping onto a satipaṭṭhāna: the body "
+            "tetrad, &ldquo;because the breath is a certain aspect "
+            "of the body&rdquo;; the feeling tetrad, because "
+            "&ldquo;careful application of mind to the in-breaths "
+            "and out-breaths is a certain aspect of feelings&rdquo;; "
+            "the mind tetrad, because &ldquo;there is no development "
+            "of immersion due to mindfulness of breathing for "
+            "someone who is unmindful and lacks awareness&rdquo;; "
+            "and the principles tetrad, closing with the giving up "
+            "of covetousness and displeasure &ldquo;seen with "
+            "wisdom.&rdquo;",
+        ]),
+        ("A new simile: sand at the crossroads", [
+            "Confirmed by direct reading, this discourse closes with "
+            "a simile not met elsewhere in this saṃyutta: a cart or "
+            "chariot approaching from any of the four "
+            "directions &mdash; east, west, north, or south &mdash; "
+            "destroys a heap of sand at the crossroads just the "
+            "same; likewise, meditating by observing any of the four "
+            "satipaṭṭhānas equally destroys unskillful qualities, "
+            "regardless of which one is used as the entry point.",
+        ]),
+        ("An untranslated closing, reported honestly", [
+            "This project's own direct comparison: the root Pali's "
+            "own closing colophon (&ldquo;Dasamaṁ. Ekadhammavaggo "
+            "paṭhamo&rdquo;) and its own ten-item uddāna (naming "
+            "every discourse of this vagga by title, confirmed to "
+            "match this project's own SN 54.1-10 exactly) are both "
+            "left as empty strings in the consulted English source "
+            "&mdash; genuinely untranslated, not merely omitted by "
+            "this project.",
+        ]),
+    ],
+    terms=[
+        ("evaṁ vutte, āyasmā kimilo tuṇhī ahosi", "&ldquo;when he "
+             "said this, Kimbila kept silent&rdquo; &mdash; repeated "
+             "three times, this discourse's own distinctive opening"),
+        ("etassa, bhagavā, kālo", "&ldquo;now is the time, Blessed "
+             "One!&rdquo; &mdash; Ānanda's own intervention, "
+             "requesting the Buddha teach directly"),
+        ("kāyaññatarāhaṁ, ānanda, etaṁ vadāmi yadidaṁ—"
+         "assāsapassāsaṁ", "&ldquo;because the breath is a certain "
+             "aspect of the body, I say&rdquo; &mdash; the explicit "
+             "justification for mapping the first tetrad onto "
+             "body-contemplation"),
+        ("nāhaṁ, ānanda, muṭṭhassatissa asampajānassa "
+         "ānāpānassatisamādhibhāvanaṁ vadāmi", "&ldquo;there is no "
+             "development of immersion due to mindfulness of "
+             "breathing for someone who is unmindful and lacks "
+             "awareness, I say&rdquo; &mdash; the justification for "
+             "the mind tetrad"),
+        ("catumahāpathe mahāpaṁsupuñjo", "&ldquo;a large heap of "
+             "sand at the crossroads&rdquo; &mdash; this discourse's "
+             "own closing simile, unique to this vagga's own final "
+             "page"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, which itself leaves the closing "
+        "colophon and uddāna untranslated. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn54.10:1.1-1.4"),
+        ("p", "&sect;2", "sn54.10:2.1-2.5"),
+        ("p", "&sect;3", "sn54.10:3.1-3.3"),
+        ("p", "&sect;4", "sn54.10:4.1-4.8"),
+        ("p", "Body tetrad", "sn54.10:5.1-5.8"),
+        ("p", "Feeling tetrad", "sn54.10:6.1-6.8"),
+        ("p", "Mind tetrad", "sn54.10:7.1-7.8"),
+        ("p", "Principles tetrad", "sn54.10:8.1-8.7"),
+        ("p", "The crossroads simile", "sn54.10:9.1-9.9"),
+    ],
+    quiz=[
+        {"q": "What happens when the Buddha first asks Kimbila directly how mindfulness of breathing is developed?",
+         "opts": ["Kimbila says nothing — three times in succession, until Ānanda intervenes and asks the Buddha to teach directly", "Kimbila answers immediately and correctly", "Kimbila gives an incorrect answer that the Buddha then corrects", "Kimbila asks the Buddha to explain the question further"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading: threefold silence, then Ānanda's own intervention."},
+        {"q": "What reason does the Buddha give for why the first tetrad maps onto body-contemplation?",
+         "opts": ["\"Because the breath is a certain aspect of the body, I say\" — an explicit justification unique to this discourse", "No reason is given anywhere in this discourse", "Because the body is impermanent, unlike the breath", "Because the Buddha's own previous students requested this specific mapping"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading — this discourse's own distinctive, explicit tetrad-by-tetrad justification."},
+        {"q": "What does this project's own direct comparison confirm about this discourse's own closing colophon and uddāna?",
+         "opts": ["Both are present in the root Pali (confirming ten discourses in Vagga 1) but left untranslated — empty strings — in the consulted English source", "Both are fully translated into English, matching the root Pali exactly", "The root Pali itself lacks any closing colophon", "The uddāna lists only nine discourses, contradicting this project's own count"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison between the two sources, reported honestly rather than filled in."},
+    ],
+    marginalia=[
+        ("Silence, three times over", [
+            "asked directly, Kimbila says nothing —",
+            "until Ānanda speaks for the moment"
+        ]),
+        ("Each tetrad, its own reason given", [
+            "\"because the breath is a certain aspect of the body\" —",
+            "no other discourse in this vagga explains so plainly"
+        ]),
+        ("A heap of sand, four directions", [
+            "east, west, north, or south, it falls the same —",
+            "any of the four foundations, the same result"
+        ]),
+        ("Tenth of ten, the vagga closes", [
+            "the uddāna names them all, in the Pali alone —",
+            "the English source leaves it untranslated"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn54.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-54.9.html\">SN 54.9 &middot; At Vesālī</a> "
+        "&mdash; the previous discourse.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
