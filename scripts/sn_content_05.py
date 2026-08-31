@@ -52488,3 +52488,156 @@ page_range(
         "preparation.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# 5. Appamādavagga — Diligence (SN 51.45-54)
+# Confirmed by direct bilara-data reading: like SN 46.89-98, this
+# entire ten-discourse vagga is a single merged file carrying no
+# independent content -- just the explicit cross-reference "(Tell in
+# full as in the chapter on diligence at SN 45.139-148)"; Pāli root
+# "(Appamādavaggo vitthāretabbo.)" ("the Diligence chapter is to be
+# elaborated in full"). Confirmed by its own closing uddāna to list
+# the same ten similes (Realized One, footprint, roof peak, root,
+# heartwood, [jasmine], monarch, sun, moon, cloth) as SN 45.139-148
+# and SN 46.89-98. NOTE a genuine textual variant, confirmed by
+# direct comparison, not resolved: this file's own English gives the
+# sixth simile as "jasmine," where SN 46.89-98's own English gave the
+# same Pāli word (vassikaṁ) as "rainy season" -- reported honestly as
+# a translation variant, not silently harmonized.
+# --------------------------------------------------------------------------- #
+page_range(
+    51, 45, 54, "Appamāda", "Diligence",
+    vagga="Appamādavagga",
+    meta_title="SN 51.45–54 — Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "SN 51.45–54 — ten discourses on diligence, cross-referenced "
+        "directly to this project's own already-completed "
+        "Appamādapeyyālavagga from the Maggasaṃyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speaker", "The Buddha, addressing the mendicants directly"),
+        ("Form", "Ten discourses compressed into a single "
+                 "bilara-data file, carrying no independent content "
+                 "beyond an explicit cross-reference"),
+        ("Length", "&lt;1 minute to read, per the source's own "
+                   "actual content"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf; &mdash; brief in its own "
+                         "written form, structurally confirmed to "
+                         "represent ten discourses reusing already-"
+                         "translated content"),
+    ],
+    why=(
+        "Confirmed by direct reading, this file carries no "
+        "independent content of its own: it instructs the reader to "
+        "&ldquo;tell in full as in the chapter on diligence at SN "
+        "45.139&ndash;148&rdquo; &mdash; this project's own already-"
+        "completed Appamādapeyyālavagga &mdash; rather than repeating "
+        "the ten similes (the Realized One, a footprint, a roof's "
+        "peak, and others) a third time in this book."
+    ),
+    guide=[
+        ("A direct cross-reference, confirmed a second time in this book", [
+            "This project's own comparison: this is the second time "
+            "in this book a saṃyutta's own diligence vagga has "
+            "pointed back to SN 45.139-148 rather than rewriting its "
+            "own content &mdash; the first being SN 46.89-98 &mdash; "
+            "confirming the same compression pattern now applies to "
+            "the four bases of psychic power as well.",
+        ]),
+        ("A genuine textual variant, reported honestly", [
+            "Confirmed by direct comparison, not resolved: this "
+            "file's own English gives the sixth of the ten similes "
+            "as &ldquo;jasmine,&rdquo; where this project's own "
+            "earlier reading of SN 46.89-98 found the identical Pāli "
+            "word (vassikaṁ) translated there as &ldquo;rainy "
+            "season&rdquo; &mdash; a genuine cross-saṃyutta "
+            "translation variant for the same term, reported here "
+            "rather than silently harmonized.",
+        ]),
+        ("Ten discourses, confirmed by the closing uddāna", [
+            "Confirmed by direct reading of this file's own closing "
+            "uddāna (&ldquo;the Realized One, footprint, roof peak, "
+            "roots, heartwood, jasmine, monarch, sun and moon, and "
+            "cloth is the tenth&rdquo;), this single file's own ten "
+            "listed similes confirm it spans exactly ten discourses, "
+            "SN 51.45 through SN 51.54.",
+        ]),
+    ],
+    terms=[
+        ("Appamādavaggo vitthāretabbo", "&ldquo;the Diligence "
+             "chapter is to be elaborated in full&rdquo; &mdash; this "
+             "file's own entire root Pāli content, a bare "
+             "cross-reference instruction"),
+        ("vassikaṁ", "the sixth of the ten similes, given here in "
+             "English as &ldquo;jasmine&rdquo; &mdash; confirmed by "
+             "this project's own comparison to differ from &ldquo;"
+             "rainy season,&rdquo; the same Pāli word's own "
+             "translation at SN 46.89-98"),
+        ("tathāgataṁ padaṁ kūṭaṁ", "&ldquo;the Realized One, "
+             "footprint, roof peak&rdquo; &mdash; the uddāna's own "
+             "opening three similes, matching this project's own "
+             "already-completed SN 45.139-148"),
+        ("mūlaṁ sāro ca vassikaṁ", "&ldquo;roots, heartwood, "
+             "jasmine&rdquo; &mdash; the uddāna's own next three "
+             "similes"),
+        ("rājā candimasūriyā...vatthena dasamaṁ", "&ldquo;monarch, "
+             "sun and moon, and cloth is the tenth&rdquo; &mdash; "
+             "the uddāna's own closing four similes, confirming ten "
+             "discourses total"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn51.45-54:1.1"),
+        ("p", "Uddāna", "sn51.45-54:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this file instruct the reader to do, rather than rewriting the diligence teaching a third time?",
+         "opts": ["Tell it in full as in the chapter on diligence at SN 45.139–148, this project's own already-completed vagga", "Skip this vagga entirely and move on to the next", "Consult a different, unrelated saṃyutta for the content", "Translate the passage into Pāli from a lost English original"],
+         "correct": 0,
+         "expl": "A direct cross-reference to this project's own already-completed Appamādapeyyālavagga."},
+        {"q": "What genuine textual variant does this project's own comparison report, without resolving it?",
+         "opts": ["The same Pāli word (vassikaṁ) is translated \"jasmine\" here but \"rainy season\" at SN 46.89-98", "This file omits the Realized One simile found in every other version", "This file lists eleven similes instead of ten", "This file names a completely different set of similes unrelated to SN 45 or SN 46"],
+         "correct": 0,
+         "expl": "Reported honestly as a cross-saṃyutta translation variant, not silently harmonized."},
+        {"q": "How many discourses does this single merged file's own closing uddāna confirm it spans?",
+         "opts": ["Ten, matching SN 51.45 through SN 51.54", "Twelve, matching the count of the previous vagga", "Only one, this file covers just SN 51.45", "The uddāna does not specify an exact count"],
+         "correct": 0,
+         "expl": "Ten similes, ten discourses, confirmed directly by the uddāna's own closing line."},
+    ],
+    marginalia=[
+        ("A cross-reference, not new content", [
+            "\"tell in full as in SN 45.139–148\" —",
+            "the second time this book reuses this vagga"
+        ]),
+        ("Jasmine, or the rainy season?", [
+            "the same word, two different renderings —",
+            "reported honestly, not smoothed over"
+        ]),
+        ("Ten similes, counted precisely", [
+            "footprint, roof peak, roots, heartwood —",
+            "the uddāna itself confirms the full count"
+        ]),
+        ("Brevity earned by prior work", [
+            "no need to translate the similes again —",
+            "this project already did, at SN 45"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn51.45-54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-51.33-44.html\">SN 51.33&ndash;44 &middot; The "
+        "Ganges River, Etc.</a> &mdash; the previous discourse, "
+        "closing Vagga 4.",
+        "<a href=\"index.html\">Saṃyutta Nikāya index</a> &mdash; "
+        "this saṃyutta's own following discourses are still in "
+        "preparation.",
+    ],
+)
