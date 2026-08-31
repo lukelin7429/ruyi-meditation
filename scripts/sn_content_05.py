@@ -56335,3 +56335,152 @@ page(
         "clairvoyance's own fuller account.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# SN 52.24 — Āsavakkhayasutta ("The Ending of Defilements")
+# Confirmed by direct reading of the root Pali colophon: the
+# fourteenth and final discourse of Vagga 2 ("Cuddasamaṁ. Dutiyo
+# vaggo."), and simultaneously the closing discourse of the entire
+# Anuruddhasaṃyutta ("Anuruddhasaṁyuttaṁ aṭṭhamaṁ" -- "the Linked
+# Discourses with Anuruddha, the eighth section"), confirming the
+# saṃyutta's own total of 24 discourses across 2 vaggas (10+14).
+# The tenth and final of the ten Tathāgata powers, simultaneously
+# the sixth and final of the classic sixfold higher knowledges.
+# --------------------------------------------------------------------------- #
+page(
+    52, 24, "Āsavakkhaya", "The Ending of Defilements",
+    vagga="Dutiyavagga",
+    meta_title="SN 52.24 — The Ending of Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavakkhayasutta &mdash; Anuruddha attributes the "
+        "ending of defilements to the four kinds of mindfulness "
+        "meditation, closing the Anuruddhasaṃyutta. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī (by continuation from SN 52.11)"),
+        ("Speaker", "Venerable Anuruddha"),
+        ("Form", "A single elided sentence, plus the vagga's and "
+                 "saṃyutta's own closing colophon"),
+        ("Length", "&lt;1 minute to read"),
+        ("Northern parallel", "No individual parallel confirmed by "
+                              "this project's own check"),
+        ("Significance", "&starf;&starf;&starf;&starf;&starf; "
+                         "&mdash; confirmed by direct reading of the "
+                         "root colophon as the close of both Vagga 2 "
+                         "and the entire Anuruddhasaṃyutta (24 "
+                         "discourses, 2 vaggas), and the tenth and "
+                         "final Tathāgata power / sixth and final "
+                         "higher knowledge at once"),
+    ],
+    why=(
+        "Confirmed by direct reading of its own root colophon, this "
+        "discourse closes three things at once: Vagga 2 "
+        "(&ldquo;Cuddasamaṁ&rdquo; &mdash; the fourteenth), the "
+        "entire Anuruddhasaṃyutta (&ldquo;Anuruddhasaṁyuttaṁ "
+        "aṭṭhamaṁ&rdquo; &mdash; confirming this project's own "
+        "expected structure of 24 discourses across 2 vaggas), and "
+        "&mdash; per this project's own confirmed convergence "
+        "starting at SN 52.22 &mdash; the tenth and final of the ten "
+        "Tathāgata powers, simultaneously the sixth and final of the "
+        "classic sixfold higher knowledges already given in full at "
+        "SN 51.11: the ending of defilements, the traditional mark "
+        "of full awakening."
+    ),
+    guide=[
+        ("The close of both traditional lists at once", [
+            "Confirmed by this project's own cross-reference since "
+            "SN 52.22: this discourse is simultaneously the tenth "
+            "Tathāgata power and the sixth higher knowledge &mdash; "
+            "&ldquo;the undefiled freedom of heart and freedom by "
+            "wisdom&rdquo; realized &ldquo;in this very life,&rdquo; "
+            "the classic culmination both lists converge on, "
+            "matching the arahant formula already met throughout "
+            "SN51 (khīṇāsavo vusitavā&hellip;sammadaññāvimutto).",
+        ]),
+        ("The close of Vagga 2 and of the entire saṃyutta", [
+            "Confirmed by direct reading of the root Pali colophon "
+            "(not assumed): &ldquo;Cuddasamaṁ. Dutiyo vaggo&rdquo; "
+            "(&ldquo;Fourteenth. The second vagga [ends].&rdquo;), "
+            "followed immediately by &ldquo;Anuruddhasaṁyuttaṁ "
+            "aṭṭhamaṁ&rdquo; (&ldquo;The Linked Discourses with "
+            "Anuruddha are the eighth [section].&rdquo;) &mdash; "
+            "confirming this project's own expected structure of 24 "
+            "discourses across 2 vaggas (10+14), and Anuruddha's own "
+            "saṃyutta as the eighth section of Book V.",
+        ]),
+    ],
+    terms=[
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ",
+             "&ldquo;the undefiled freedom of heart and freedom by "
+             "wisdom&hellip;due to the ending of defilements&rdquo; "
+             "&mdash; the tenth and final Tathāgata power, and the "
+             "sixth and final higher knowledge, at once"),
+        ("diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja "
+             "viharāmi", "&ldquo;I live having realized it with my "
+             "own insight, in this very life&rdquo; &mdash; the "
+             "classic arahant-formula phrasing, matching SN51's own "
+             "khīṇāsavo vusitavā&hellip;sammadaññāvimutto"),
+        ("cuddasamaṁ", "&ldquo;fourteenth&rdquo; &mdash; confirming "
+             "this discourse's own position as Vagga 2's own final "
+             "discourse"),
+        ("dutiyo vaggo", "&ldquo;the second vagga [ends]&rdquo; "
+             "&mdash; the root colophon's own vagga-closing marker"),
+        ("anuruddhasaṁyuttaṁ aṭṭhamaṁ", "&ldquo;the Linked "
+             "Discourses with Anuruddha are the eighth [section]"
+             "&rdquo; &mdash; the root colophon's own confirmation "
+             "that this discourse closes the entire saṃyutta"),
+    ],
+    text_intro=("Every genuinely translated fragment given in the "
+        "consulted English source, including its own closing line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn52.24:1.1"),
+        ("p", "Closing", "sn52.24:2.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's own root colophon confirm, according to this project's own direct reading?",
+         "opts": ["It closes Vagga 2 (14 discourses) and the entire Anuruddhasaṃyutta (24 discourses, 2 vaggas), as the saṃyutta's own eighth section of Book V", "It closes only Vagga 2, with several more discourses still to come in the saṃyutta", "It is the saṃyutta's own opening discourse, not its close", "It belongs to an entirely separate saṃyutta from SN 52.1-23"],
+         "correct": 0,
+         "expl": "Confirmed by direct reading of the root Pali colophon, not assumed in advance."},
+        {"q": "What position does this discourse's own claim occupy in the two traditional lists this project has tracked since SN 52.15?",
+         "opts": ["The tenth and final Tathāgata power, simultaneously the sixth and final higher knowledge", "Only the tenth Tathāgata power, with no place in the sixfold list", "The first item of a third, previously untracked list", "An item excluded from both traditional lists"],
+         "correct": 0,
+         "expl": "Confirmed by this project's own cross-reference, continuing the convergence first confirmed at SN 52.22."},
+        {"q": "How does this discourse's own phrasing relate to the arahant formula already met throughout SN51?",
+         "opts": ["It matches it closely — freedom of heart and by wisdom, realized in this very life, through one's own insight", "It denies that such freedom can be realized in this very life", "It describes a lesser attainment than the SN51 arahant formula", "It has no relationship to the SN51 material at all"],
+         "correct": 0,
+         "expl": "Confirmed by direct comparison: khīṇāsavo vusitavā…sammadaññāvimutto, the same culminating claim."},
+    ],
+    marginalia=[
+        ("Both lists close here, together", [
+            "the tenth power, the sixth knowledge —",
+            "one final freedom, two traditional names"
+        ]),
+        ("Fourteenth, and the vagga ends", [
+            "cuddasamaṁ, dutiyo vaggo —",
+            "the colophon confirms it directly"
+        ]),
+        ("Eighth section of the Great Book", [
+            "Anuruddhasaṁyuttaṁ aṭṭhamaṁ —",
+            "twenty-four discourses, now complete"
+        ]),
+        ("Freedom of heart, freedom by wisdom", [
+            "not promised, but realized —",
+            "in this very life, by one's own insight"
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn52.24/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with "
+        "Pāli alongside, segment by segment."
+        % SC,
+        "<a href=\"sn-52.23.html\">SN 52.23 &middot; Clairvoyance</a> "
+        "&mdash; the previous discourse, the ninth of the ten "
+        "Tathāgata powers.",
+        "<a href=\"sn-51.11.html\">SN 51.11 &middot; Before</a> "
+        "&mdash; this project's own full translation of the "
+        "sixfold higher knowledges, including the ending of "
+        "defilements.",
+    ],
+)
