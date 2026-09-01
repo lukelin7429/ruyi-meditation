@@ -1,0 +1,259 @@
+---
+layout: default
+title: Fahua Xuanyi
+permalink: /sutras/fahua-xuanyi/
+excerpt: A plain-English study entrance to Zhiyi's Fahua Xuanyi, his account of the Lotus Sūtra's own doctrinal architecture — Name, Essence, Cardinal Doctrine, Function, and Teaching — organized fascicle by fascicle.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .fxy{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fxy *{box-sizing:border-box;}
+  .fxy-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .fxy [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .fxy [data-rv].in{opacity:1;transform:none;}
+  .fxy-hero{background:linear-gradient(155deg,#2f6d5e 0%,#254f45 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .fxy-hero::after{content:"妙法蓮華經玄義";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:82px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .fxy-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .fxy-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .fxy-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .fxy-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .fxy h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6.2vw,62px);line-height:1.08;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .fxy-hero p{max-width:720px;color:#edf4ef;font-size:19px;line-height:1.7;}
+  .fxy-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .fxy-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .fxy-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .fxy-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .fxy-intro{background:var(--cream);padding:64px 0 42px;}
+  .fxy-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.fxy-grid{grid-template-columns:1.15fr .85fr;}}
+  .fxy-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .fxy-panel h2,.fxy-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(28px,4vw,40px);line-height:1.14;color:var(--ink);margin:0 0 14px;}
+  .fxy-panel p,.fxy-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .fxy-panel ul{padding-left:20px;margin:0;}
+  .fxy-stats{display:grid;gap:12px;margin-top:18px;}
+  .fxy-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .fxy-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .fxy-section{padding:70px 0;background:#fff;}
+  .fxy-section-head{max-width:720px;margin-bottom:28px;}
+  .fxy-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(4,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:122px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .fxy-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.fxy-featured{grid-template-columns:repeat(2,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .fxy [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="fxy">
+  <section class="fxy-hero">
+    <div class="fxy-hero-in">
+      <nav class="fxy-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Fahua Xuanyi</nav>
+      <div class="fxy-eyebrow" data-rv>Zhiyi · Tiantai · 妙法蓮華經玄義</div>
+      <h1 data-rv style="transition-delay:.06s">The Whole Sūtra, in Five Sections.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Fahua Xuanyi</em> ("Profound Meaning of the Lotus Sūtra") is Zhiyi's account of the sūtra's own doctrinal architecture — not a line-by-line gloss, as the <em>Fahua Wenju</em> is, but a system built entirely around his own fivefold scheme: Explaining the Name, Clarifying the Essence, Clarifying the Cardinal Doctrine, Discussing the Function, and Classifying the Teachings. Together with the <em>Fahua Wenju</em> and the <em>Mohe Zhiguan</em>, it forms the "Tiantai Three Great Works on the Lotus." Ru-Yi's own translation of all ten fascicles is now complete — this page is the entrance for reading it fascicle by fascicle.</p>
+      <div class="fxy-actions" data-rv style="transition-delay:.18s">
+        <a class="fxy-btn primary" href="#fascicles">Browse all 10 fascicles →</a>
+        <a class="fxy-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="fxy-intro">
+    <div class="fxy-wrap fxy-grid">
+      <div class="fxy-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>Zhiyi delivered this treatise as oral lectures, recorded and edited by his disciple Guanding into the ten-fascicle text preserved in the Taishō canon. Unlike the <em>Fahua Wenju</em>, it never proceeds sequentially through the sūtra's own chapters at all — it is organized entirely around Zhiyi's fivefold scheme, applied first in brief outline through his own "sevenfold common exposition," then unfolded at enormous length, above all in Explaining the Name through the doctrine of the "ten wondrous aspects" of the trace gate and the origin gate, which alone occupies roughly three-quarters of the entire treatise. Scriptural citations throughout are short, usually a single phrase, functioning as proof-texts embedded within a continuous, tightly argued philosophical exposition — this translation follows the source's own paragraph breaks rather than pairing sentence by sentence, the closer fit for continuous argument rather than verse-by-verse commentary.</p>
+        <p>This site already carries Ru-Yi's own translation of the <a href="{{ '/sutras/lotus-sutra/' | relative_url }}">Lotus Sūtra</a> itself, and its direct sibling, the <a href="{{ '/sutras/fahua-wenju/' | relative_url }}">Fahua Wenju</a>, Zhiyi's line-by-line commentary on that same sūtra. Terminology here is kept consistent with both, and with this site's other Zhiyi/Tiantai translations — the <a href="{{ '/sutras/mohe-zhiguan/' | relative_url }}">Mohe Zhiguan</a>, the <a href="{{ '/sutras/shi-chan-boluomi/' | relative_url }}">Shi Chan Boluomi Cidi Famen</a>, and the <a href="{{ '/sutras/xiao-zhiguan-jiangyi/' | relative_url }}">Xiao Zhiguan Jiangyi</a> — and with the <a href="{{ '/sutras/jiaoguan-gangzong/' | relative_url }}">Jiaoguan Gangzong</a>, which cites the <em>Fahua Xuanyi</em> itself repeatedly as an authority.</p>
+      </div>
+      <div class="fxy-panel" data-rv style="transition-delay:.08s">
+        <h2>What each fascicle page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation, paired by paragraph.</li>
+          <li>Reading notes explaining the fivefold scheme, the ten wondrous aspects, and difficult passages as they first appear.</li>
+          <li>A running glossary so terminology stays consistent from fascicle 1 onward.</li>
+        </ul>
+        <div class="fxy-stats">
+          <div class="fxy-stat"><b>10</b> fascicles in the Chinese text</div>
+          <div class="fxy-stat"><b>10</b> fascicles complete — translation finished</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="fxy-section" id="fascicles">
+    <div class="fxy-wrap">
+      <div class="fxy-section-head" data-rv>
+        <h2>Read by Fascicle</h2>
+        <p>All 10 fascicles are complete, linking to Ru-Yi's own translation. Use this as the table of contents for the whole treatise.</p>
+      </div>
+
+      <div class="fxy-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Fascicle 1 · The treatise opens</span>
+          <h3>Six Similes for One Flower</h3>
+          <p>Guanding's account of how the text was transmitted, Zhiyi's own Preface and Guanding's private preface on the six similes of the lotus flower, the sevenfold common exposition applied in brief to Name, Essence, Cardinal Doctrine, Function, and Teaching, the four siddhāntas, and the opening critique of earlier masters' readings of "wondrous."</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">Fascicle 2 · "Three thousand in a thought," seeded</span>
+          <h3>The Nine Realms in One</h3>
+          <p>Zhiyi's own positive account of "wondrous" through six senses of cause and fruit, the ten suchnesses across the ten dharma-realms — the seed of "three thousand realms in a single thought" — the threefold division into the dharmas of sentient beings, of the Buddha, and of mind, and the opening of the ten wondrous aspects of the trace gate.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.12s">
+          <span class="tag">Fascicle 3 · Object and wisdom</span>
+          <h3>How the Six Objects Combine</h3>
+          <p>How the six objects of contemplation open into and combine with one another, closing the wondrous of the object; the wondrous of wisdom in its entirety; and the wondrous of practice's opening enumeration schemes and the distinct teaching's precept holy practice.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.18s">
+          <span class="tag">Fascicle 4 · The Medicinal Herbs stages</span>
+          <h3>One Rain, Six Stages</h3>
+          <p>Closing the wondrous of practice through the concentration and wisdom holy practices and the perfect teaching's five practices, then opening the wondrous of stage through five of its six "Medicinal Herbs" stages: the human and heavenly vehicle, the two vehicles, the Tripiṭaka bodhisattva, and the shared and distinct teachings.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.24s">
+          <span class="tag">Fascicle 5 · Stage and the three tracks</span>
+          <h3>The Perfect Teaching's Stage and the Three Tracks</h3>
+          <p>The perfect teaching's own stage, closing the wondrous of stage, followed by the wondrous of the three tracks in its entirety.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.3s">
+          <span class="tag">Fascicle 6 · The trace gate nears its close</span>
+          <h3>Sympathetic Response, Spiritual Powers, Teaching, and the Retinue</h3>
+          <p>The wondrous of sympathetic response, spiritual powers, teaching the Dharma, and the retinue, closed in full, with the wondrous of merit and benefit begun.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.36s">
+          <span class="tag">Fascicle 7 · From trace to origin</span>
+          <h3>The Origin Gate and the Lotus Flower</h3>
+          <p>The trace gate's ten wondrous aspects completed; the origin gate's own ten wondrous aspects opened and closed in full; and the lotus-flower exposition that closes the particular name, "wondrous dharma lotus flower," within Explaining the Name.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.42s">
+          <span class="tag">Fascicle 8 · The real mark</span>
+          <h3>The Real Mark and the Sixteen Gates</h3>
+          <p>Closing Explaining the Name through the word "sūtra" itself, then Clarifying the Essence: the real mark as the sūtra's one essence, distinguishing the false, one dharma under many names, and the Tripiṭaka, shared, and distinct teachings' gates that enter it.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.48s">
+          <span class="tag">Fascicle 9 · Coarse and wondrous, judged in full</span>
+          <h3>The Real Mark in Every Sūtra and Practice</h3>
+          <p>The perfect teaching's gate distinguished from the distinct teaching's, coarse and wondrous judged across all sixteen gates, and the real mark established as the essence of every sūtra and every practice.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.54s">
+          <span class="tag">Fascicle 10 · The treatise concludes</span>
+          <h3>Classifying the Teachings</h3>
+          <p>The treatise's final fascicle: closing Clarifying the Essence and Clarifying the Cardinal Doctrine, then establishing the Five Periods and Four Teachings in Classifying the Teachings, completing the entire ten-fascicle treatise.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        {% for i in (1..10) %}
+        {% assign padded = i | prepend: '00' | slice: -3, 3 %}
+        {% if i == 1 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-001/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The six similes of the lotus flower and the sevenfold common exposition, covered by scroll 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 2 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-002/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The ten suchnesses and ten dharma-realms, and the trace gate's wondrous aspects open, covered by scroll 2 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 3 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-003/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The wondrous of the object closes, and the wondrous of wisdom and practice open, covered by scroll 3 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 4 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-004/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The wondrous of practice closes, and the wondrous of stage opens through the Medicinal Herbs scheme, covered by scroll 4 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 5 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-005/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The perfect teaching's stage, and the wondrous of the three tracks in full, covered by scroll 5 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 6 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-006/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Sympathetic response, spiritual powers, teaching, and the retinue, covered by scroll 6 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 7 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-007/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The trace gate closes, the origin gate opens and closes, and the lotus-flower exposition, covered by scroll 7 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 8 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-008/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Explaining the Name closes, and Clarifying the Essence opens with the real mark, covered by scroll 8 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% elsif i == 9 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-009/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Coarse and wondrous judged across the sixteen gates, covered by scroll 9 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% else %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/fahua-xuanyi/fascicle-010/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Clarifying the Cardinal Doctrine closes, and Classifying the Teachings completes the treatise, covered by scroll 10 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">妙法蓮華經玄義</span>.</span>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="fxy-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="fxy-wrap">
+      <div class="fxy-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent as the fascicles grow. See the <a href="{{ '/sutras/fahua-xuanyi/translation-notes/' | relative_url }}">full translation notes</a> for the complete, fascicle-by-fascicle glossary, and also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>名 / 體 / 宗 / 用 / 教 — the five sections</b><span>Explaining the Name, Clarifying the Essence, Clarifying the Cardinal Doctrine, Discussing the Function, and Classifying the Teachings — the fivefold scheme that gives this treatise its entire structure. Explaining the Name alone occupies roughly three-quarters of the whole work.</span></div>
+        <div class="term"><b>七番共解 — the sevenfold common exposition</b><span>Zhiyi's own method, applied to all five sections at once before each is unfolded separately: marking the section, citing proof-texts, showing its arising in sequence, opening and combining it with other schemes, resolving doubts, the contemplation of mind, and reconciling it with other terms.</span></div>
+        <div class="term"><b>十妙 — the ten wondrous aspects</b><span>Object, wisdom, practice, stage, the three tracks, sympathetic response, spiritual powers, teaching the Dharma, the retinue, and merit and benefit — applied once to the trace gate (chapters 1–14 of the sūtra) and once to the origin gate (chapters 15–28), the doctrinal heart of Explaining the Name.</span></div>
+        <div class="term"><b>迹門 / 本門 — the trace gate and the origin gate</b><span>The same division this site's <a href="/sutras/fahua-wenju/">Fahua Wenju</a> translation uses: chapters 1–14 concern the Buddha's trace within this one lifetime; chapters 15–28 concern his origin, awakened since a time immeasurably long past.</span></div>
+        <div class="term"><b>十如是 / 十法界 / 一念三千 — the ten suchnesses, the ten dharma-realms, and three thousand realms in a single thought</b><span>Fascicle 2's doctrine of the ten suchnesses applied across the ten dharma-realms is the direct seed of "three thousand realms in a single thought," worked out at full length in the <a href="/sutras/mohe-zhiguan/">Mohe Zhiguan</a>.</span></div>
+        <div class="term"><b>四悉檀 — the four siddhāntas</b><span>The mundane, the individual, the therapeutic, and the ultimate-meaning siddhānta, following the <em>Fahua Wenju</em>'s own phrasing as this treatise's closer sibling.</span></div>
+        <div class="term"><b>三藏教 / 通教 / 別教 / 圓教 — the four teachings</b><span>The Tripiṭaka teaching, the shared teaching, the distinct teaching, and the perfect teaching — the classification scheme this treatise's own final fascicle establishes in full, alongside the Five Periods.</span></div>
+        <div class="term"><b>實相 — the real mark</b><span>Clarifying the Essence's own central term: the single true reality underlying every apparent name, distinguished from what is false and shown to be the essence not merely of this sūtra, but of every sūtra and every practice.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
