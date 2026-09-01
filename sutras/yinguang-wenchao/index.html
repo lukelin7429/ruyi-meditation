@@ -1,0 +1,223 @@
+---
+layout: default
+title: Wenchao Jinghualu
+permalink: /sutras/yinguang-wenchao/
+excerpt: A bilingual translation of selected chapters from the Wenchao Jinghualu (印光法師文鈔菁華錄), Li Jingtong's 1952 anthology of Master Yinguang's letters and prefaces — the essential digest of the thirteenth patriarch of Pure Land Buddhism, three of its ten chapters translated so far.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .asc{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .asc *{box-sizing:border-box;}
+  .asc-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .asc [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .asc [data-rv].in{opacity:1;transform:none;}
+  .asc-hero{background:linear-gradient(155deg,#8c2f12 0%,#5c1e0c 45%,#251f1a 100%);color:#fff;overflow:hidden;position:relative;}
+  .asc-hero::after{content:"文鈔";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.07);letter-spacing:.06em;white-space:nowrap;}
+  .asc-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .asc-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .asc-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .asc-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .asc h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:17ch;}
+  .asc-hero p{max-width:720px;color:#f3ece3;font-size:19px;line-height:1.7;}
+  .asc-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .asc-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .asc-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .asc-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .asc-intro{background:var(--cream);padding:64px 0 42px;}
+  .asc-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.asc-grid{grid-template-columns:1.15fr .85fr;}}
+  .asc-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .asc-panel h2,.asc-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .asc-panel p,.asc-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .asc-panel ul{padding-left:20px;margin:0;}
+  .asc-stats{display:grid;gap:12px;margin-top:18px;}
+  .asc-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .asc-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .asc-section{padding:70px 0;background:#fff;}
+  .asc-section-head{max-width:720px;margin-bottom:28px;}
+  .asc-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+
+  .ch-grid{display:grid;grid-template-columns:1fr;gap:14px;}
+  @media(min-width:640px){.ch-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .ch-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:20px;}
+  .ch-card.pending{opacity:.55;background:linear-gradient(180deg,#fff,#f7f3ec);}
+  .ch-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .ch-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:20px;color:var(--ink);margin:6px 0 8px;line-height:1.3;}
+  .ch-desc{font-size:15px;color:var(--muted);line-height:1.55;}
+  .ch-parts{margin-top:10px;font-size:12.5px;font-weight:700;color:var(--terra-deep);letter-spacing:.03em;}
+
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:10px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid #e0c9a8;border-radius:8px;background:linear-gradient(180deg,#fff,#fdf7ef);padding:14px 16px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#c98a4c;text-decoration:none;}
+  .vol-num{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:16.5px;color:var(--ink);margin-top:5px;line-height:1.3;}
+
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .asc [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="asc">
+  <section class="asc-hero">
+    <div class="asc-hero-in">
+      <nav class="asc-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Wenchao Jinghualu</nav>
+      <div class="asc-eyebrow" data-rv>Yinguang · 1862–1940 · 印光法師文鈔菁華錄</div>
+      <h1 data-rv style="transition-delay:.06s">The Wenchao Jinghualu.</h1>
+      <p data-rv style="transition-delay:.12s">Yinguang, the thirteenth patriarch of Chinese Pure Land Buddhism, left behind no formal treatise of his own — only a vast correspondence of letters, prefaces, and occasional writings, spanning several decades and gathered, after his death, into the <em>Wenchao</em> ("Collected Writings"), one of the most widely circulated bodies of modern Chinese Buddhist prose. In 1952, the lay disciple Li Jingtong distilled this correspondence into the <em>Jinghualu</em> ("Record of the Essential Radiance") — 333 passages across ten thematic chapters, prefaced by Yuanying, whose own commentary on the Śūraṅgama Sūtra is elsewhere on this site. This collection translates selected chapters of that anthology into English, each quoted passage matched to its original letter or preface.</p>
+      <div class="asc-actions" data-rv style="transition-delay:.18s">
+        <a class="asc-btn primary" href="#parts">Browse the chapters translated so far →</a>
+        <a class="asc-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-intro">
+    <div class="asc-wrap asc-grid">
+      <div class="asc-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>Unlike a sūtra or a single commentary, the <em>Wenchao</em> has no continuous argument of its own — it is a lifetime of individual letters, each written to answer one particular correspondent's own question or doubt. The <em>Jinghualu</em>'s own achievement was to select, from across the three compilations of that correspondence (正編, 續編, 三編— the Correct, Continued, and Third Compilations), the passages that speak most directly to a general reader, organizing them by theme rather than by date. Each entry on this collection's pages carries its own citation, naming the specific letter or preface it is drawn from and which compilation it belongs to, so a reader can trace any passage back to its original occasion.</p>
+        <p>This is not yet the complete <em>Jinghualu</em> — only three of its ten chapters are translated so far, chosen to open with the chapters most directly relevant to a reader new to Pure Land practice: why the tradition holds this path in such high regard, what genuine faith and vow actually require, and how to face death itself, both one's own and a loved one's.</p>
+      </div>
+      <div class="asc-panel" data-rv style="transition-delay:.08s">
+        <h2>What each page includes</h2>
+        <ul>
+          <li>Every passage's Chinese source text, beside a complete English translation.</li>
+          <li>A citation for each passage, naming its source letter or preface and which of the three compilations it belongs to.</li>
+          <li>Translator's notes identifying figures, texts, and images a reader might not recognize, and cross-referencing this site's other Pure Land translations.</li>
+        </ul>
+        <div class="asc-stats">
+          <div class="asc-stat"><b>3</b> of 10 chapters translated</div>
+          <div class="asc-stat"><b>79</b> passages translated in full so far, of 333 in the complete anthology</div>
+          <div class="asc-stat"><b>1952</b> the Jinghualu's own compilation date, edited by Li Jingtong</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="structure">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>The Anthology's Ten Chapters</h2>
+        <p>Li Jingtong's own organization, carried across from the original 1952 edition. Chapters already translated are linked below; the remaining seven are listed for reference and may be added to this collection later.</p>
+      </div>
+      <div class="ch-grid">
+        <div class="ch-card" data-rv>
+          <div class="ch-num">Chapter 1 · 讚淨土超勝</div>
+          <div class="ch-zh">Praising the Pure Land's Superiority</div>
+          <div class="ch-desc">Eighteen passages arguing that the Pure Land is the destination every school of Buddhism ultimately returns to, closing with a compressed history of Pure Land practice in China from Huiyuan's Lotus Society onward.</div>
+          <div class="ch-parts">Translated · 18 passages</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.05s">
+          <div class="ch-num">Chapter 2 · 誡信願真切</div>
+          <div class="ch-zh">Admonishing True Faith and Sincere Vow</div>
+          <div class="ch-desc">Thirty-four passages in three groups: demonstrating what genuine faith and vow require, dispelling common doubts, and exhorting a complete, undivided aspiration.</div>
+          <div class="ch-parts">Translated · 34 passages</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.1s">
+          <div class="ch-num">Chapter 3 · 示修持方法</div>
+          <div class="ch-zh">Demonstrating Methods of Practice</div>
+          <div class="ch-desc">Six sub-sections on buddha-recollection technique, Avalokiteśvara practice, correcting habitual faults, cultivating virtue, comparative method, and encouragement.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.15s">
+          <div class="ch-num">Chapter 4 · 論生死事大</div>
+          <div class="ch-zh">Discussing the Magnitude of Life and Death</div>
+          <div class="ch-desc">Twenty-seven passages on impermanence, exclusive reliance on the Buddha's own power, and the full practical instruction for deathbed care — closing with the "Three Great Essentials at the End of Life."</div>
+          <div class="ch-parts">Translated · 27 passages</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.2s">
+          <div class="ch-num">Chapter 5 · 勉居心誠敬</div>
+          <div class="ch-zh">Encouraging Sincerity and Reverence</div>
+          <div class="ch-desc">On the disposition of mind Yinguang held as prerequisite to any genuine practice at all.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.25s">
+          <div class="ch-num">Chapter 6 · 勸注重因果</div>
+          <div class="ch-zh">Urging Attention to Cause and Effect</div>
+          <div class="ch-desc">Two sub-sections on karmic principle and the importance of abstaining from killing.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.3s">
+          <div class="ch-num">Chapter 7 · 分禪淨界限</div>
+          <div class="ch-zh">Distinguishing the Boundary Between Chan and Pure Land</div>
+          <div class="ch-desc">Where the two traditions genuinely differ, and where their apparent conflict dissolves on closer inspection.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.35s">
+          <div class="ch-num">Chapter 8 · 釋普通疑惑</div>
+          <div class="ch-zh">Resolving Common Doubts</div>
+          <div class="ch-desc">A further set of frequently raised objections, addressed in Yinguang's characteristic question-and-answer style.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.4s">
+          <div class="ch-num">Chapter 9 · 諭在家善信</div>
+          <div class="ch-zh">Guidance for Lay Practitioners</div>
+          <div class="ch-desc">Instruction addressed specifically to householders balancing family and worldly duty with practice.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+        <div class="ch-card pending" data-rv style="transition-delay:.45s;grid-column:1/-1;">
+          <div class="ch-num">Chapter 10 · 標應讀典籍</div>
+          <div class="ch-zh">Recommending Essential Texts</div>
+          <div class="ch-desc">Yinguang's own reading list for students of the Pure Land tradition, with an appendix on the merit of printing and distributing scripture.</div>
+          <div class="ch-parts">Not yet translated</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="parts" style="background:var(--cream);">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Read the Translated Chapters</h2>
+        <p>Each page links to the full bilingual text, with every passage's own citation.</p>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card" href="{{ '/sutras/yinguang-wenchao/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Chapter 1</span>
+          <span class="vol-title">Praising the Pure Land's Superiority</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/yinguang-wenchao/part-02/' | relative_url }}" data-rv>
+          <span class="vol-num">Chapter 2</span>
+          <span class="vol-title">Admonishing True Faith and Sincere Vow</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/yinguang-wenchao/part-03/' | relative_url }}" data-rv>
+          <span class="vol-num">Chapter 4</span>
+          <span class="vol-title">Discussing the Magnitude of Life and Death</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="notes" style="background:#fff;">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent across the chapters translated so far, and cross-referenced with this site's existing Pure Land vocabulary. See the <a href="{{ '/sutras/yinguang-wenchao/translation-notes/' | relative_url }}">full translation notes</a> for source details and the complete list of figures and texts cited, and also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>信願行 — faith, vow, practice</b><span>Ouyi Zhixu's own framework, which Yinguang quotes directly and treats as settled doctrine — see the <a href="{{ '/sutras/amituo-yaojie/' | relative_url }}">Amituo Yaojie</a>.</span></div>
+        <div class="term"><b>帶業往生 — reborn carrying karma along</b><span>Rebirth in the common-dwelling land while affliction remains unsevered — the promise that makes the practice accessible to ordinary practitioners.</span></div>
+        <div class="term"><b>自力 / 他力 — self-power / other-power</b><span>The central distinction this anthology returns to constantly: paths depending on one's own cultivated realization versus reliance on Amitābha's vow-power.</span></div>
+        <div class="term"><b>正編 / 續編 / 三編 — the Correct / Continued / Third Compilations</b><span>The three successive published collections of Yinguang's correspondence the Jinghualu draws from, cited on every entry.</span></div>
+        <div class="term"><b>臨終三大要 — the Three Great Essentials at the End of Life</b><span>Yinguang's own standalone deathbed-care instruction, closing Chapter 4 of this collection.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
