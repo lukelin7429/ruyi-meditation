@@ -11,10 +11,10 @@
 # ─────────────────────────────────────────────────────────────
 
 abhidharma:
-  # Live works on /abhidharma/. Currently: Abhidharmakośa — the structure
-  # page (nine chapters, thirty fascicle links) is live; fascicle-by-fascicle
-  # English translation has not started yet (all link to CBETA for now).
-  live_texts: 1
+  # Live works on /abhidharma/. Abhidharmakośa: all 30 fascicles translated
+  # and complete. Mahāvibhāṣā Śāstra: translation underway fascicle by
+  # fascicle (1 of 200 done as of 2026-09-02); the rest link to CBETA.
+  live_texts: 2
 
 sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
