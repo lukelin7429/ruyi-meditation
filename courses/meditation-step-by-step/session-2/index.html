@@ -1,0 +1,213 @@
+---
+layout: default
+title: "Session 2 · Working with a Wandering Mind (Meditation, Step by Step)"
+permalink: /courses/meditation-step-by-step/session-2/
+excerpt: Session 2 of Meditation, Step by Step — the noting technique, a sharper tool than "just watch the breath," and a week of practice logging what actually pulls the mind away.
+---
+
+<style>
+  .ms{--gold:#e3b765;--gold-deep:#c69642;--indigo:#27384d;--indigo-mid:#33475f;--indigo-deep:#141d28;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#22303f;--ink-soft:#5d6b78;--line:#e6ded0;--line-cool:#dde3ea;}
+  .ms *{box-sizing:border-box;}
+  .ms-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .ms-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ms-crumb .ms-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ms-crumb a{color:var(--gold-deep);text-decoration:none;}
+  .ms-crumb a:hover{text-decoration:underline;}
+
+  .ms-hero{background:linear-gradient(158deg,#33475f 0%,#27384d 46%,#141d28 100%);color:#fff;}
+  .ms-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ms-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ms-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ms-hero .subt{font-style:italic;font-size:18px;color:#e9edf3;}
+  .ms-hero .rd{margin-top:22px;font-size:14px;color:#cbd6e0;}
+  .ms-hero .rd b{color:var(--gold);}
+
+  .ms-body{background:#fff;padding:44px 0 24px;}
+  .ms-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ms-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ms-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);}
+  .ms-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ms-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ms-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  .ms-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--indigo);}
+
+  .ms-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ms-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .ms-take ul{margin:0;padding-left:20px;}
+  .ms-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .ms-take li b{color:var(--gold-deep);}
+
+  /* guided script */
+  .ms-script{border:1px solid var(--line);border-radius:16px;overflow:hidden;margin:22px 0;background:var(--indigo-deep);}
+  .ms-script-lbl{color:var(--gold);font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;padding:16px 22px 4px;}
+  .ms-script p{color:#e9edf3;padding:0 22px;margin:0 0 16px;font-size:16px;line-height:1.7;}
+  .ms-script p:last-child{padding-bottom:22px;}
+  .ms-script b{color:var(--gold);}
+
+  /* practice log */
+  .ms-log{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:18px 0;}
+  .ms-log-row{display:grid;grid-template-columns:80px 1fr 1fr;gap:0;border-bottom:1px solid var(--line);}
+  .ms-log-row:last-child{border-bottom:none;}
+  .ms-log-row.h{background:var(--indigo);color:var(--gold);font-weight:700;font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;}
+  .ms-log-row div{padding:12px 16px;font-size:14.5px;color:var(--ink);}
+  .ms-log-row.h div{color:var(--gold);}
+  .ms-log-row:not(.h):nth-child(even){background:var(--cream);}
+
+  /* obstacles accordion */
+  .ms-faq{margin:18px 0;}
+  .ms-q{border:1px solid var(--line);border-radius:14px;background:#fff;margin-bottom:14px;overflow:hidden;}
+  .ms-q summary{list-style:none;cursor:pointer;padding:18px 22px;display:flex;align-items:center;justify-content:space-between;gap:16px;
+    font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .ms-q summary::-webkit-details-marker{display:none;}
+  .ms-q summary .plus{flex:0 0 auto;width:24px;height:24px;border-radius:50%;border:1.5px solid var(--gold-deep);position:relative;transition:transform .3s;}
+  .ms-q summary .plus::before,.ms-q summary .plus::after{content:"";position:absolute;background:var(--gold-deep);left:50%;top:50%;transform:translate(-50%,-50%);}
+  .ms-q summary .plus::before{width:11px;height:1.6px;}
+  .ms-q summary .plus::after{width:1.6px;height:11px;transition:transform .3s;}
+  .ms-q[open] summary .plus::after{transform:translate(-50%,-50%) scaleY(0);}
+  .ms-q .a{padding:0 22px 20px;font-size:15.5px;line-height:1.65;color:var(--ink-soft);}
+  .ms-q .a p{margin:0;}
+
+  .ms-refl{counter-reset:r;list-style:none;padding:0;margin:18px 0;}
+  .ms-refl li{counter-increment:r;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .ms-refl li:last-child{border-bottom:none;}
+  .ms-refl li::before{content:counter(r);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--gold-deep);font-size:15px;}
+
+  .ms-next{background:var(--indigo-deep);color:#e9edf3;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .ms-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ms-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .ms-next p{color:#cbd6e0;font-size:15.5px;line-height:1.65;margin:0;}
+
+  .ms-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ms-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ms-btn.primary{background:linear-gradient(158deg,#33475f,#27384d);color:#fff;box-shadow:0 12px 26px -14px rgba(39,56,77,.7);}
+  .ms-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(39,56,77,.8);text-decoration:none;}
+  .ms-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .ms-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ms .ms-crumb,.ms-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .ms-hero{background:none;color:#000;padding:0;}
+    .ms-hero-in{padding:0 0 12px;}
+    .ms-eyebrow,.ms-hero .subt,.ms-hero .rd{color:#444;}
+    .ms-hero h1{color:#000;}
+    .ms-body{padding:0;}
+    .ms-body p,.ms-body h3,.ms-part h2,.ms-take li,.ms-refl li{color:#000;}
+    .ms-quote,.ms-take,.ms-q{background:#fff !important;border:1px solid #bbb;}
+    .ms-script{background:#fff !important;border:1px solid #bbb;}
+    .ms-script p{color:#000;}
+    .ms-next{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ms-next h3,.ms-next p,.ms-next .l{color:#000;}
+    .ms{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ms">
+
+  <nav class="ms-crumb"><div class="ms-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/meditation-step-by-step/' | relative_url }}">Meditation, Step by Step</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="ms-hero">
+    <div class="ms-hero-in">
+      <div class="ms-eyebrow">Session 2 · The first real technique this course adds</div>
+      <h1>Working with a Wandering Mind</h1>
+      <div class="subt">The noting technique — a sharper tool than "just watch the breath"</div>
+      <div class="rd"><b>Before class:</b> Complete Session 1 first — this session assumes the daily sit is at least starting to hold, even if imperfectly.</div>
+    </div>
+  </section>
+
+  <div class="ms-body">
+    <div class="ms-wrap">
+
+      <!-- PART 1 -->
+      <div class="ms-part"><div class="pn">Part 1</div><h2>Teaching</h2></div>
+
+      <h3>The instruction that isn't actually an instruction</h3>
+      <p>"Just watch the breath" is the most common meditation instruction in the world, and it is also, on its own, incomplete. It tells you where to place attention. It says nothing at all about what to actually <em>do</em> the moment attention leaves — and attention always leaves. Within seconds, usually. This is not a personal failing and it is not a sign you're bad at this; it is simply what an untrained mind does, every time, for everyone who has ever sat down to practice. What separates a frustrating sit from a workable one is not a mind that doesn't wander — no such mind is on offer — but having something concrete to do the instant you notice that it has.</p>
+
+      <h3>Noting: giving the wandering a name</h3>
+      <p>The tool for this is called <strong>noting</strong> (sometimes "labeling"): the moment you notice the mind has left the breath, silently name what it's doing, in one or two words, and then return. <em>Thinking.</em> <em>Planning.</em> <em>Remembering.</em> <em>Itching.</em> <em>Worrying.</em> Not a story about it, not a judgment of it — just a plain, quiet label, the way you might name a passing car without following it down the street. Then the attention comes back to the breath, until the next time it leaves, at which point you note again.</p>
+      <p>This has old roots. Naming what arises, moment to moment, without following it, sits at the very center of satipatthāna — the four foundations of mindfulness — and versions of this exact noting method are still taught today in the Burmese vipassanā lineage associated with Mahāsi Sayadaw, among others. You do not need to know any of that history for it to work. It's included here only so you know this isn't an invented shortcut — it's one of the oldest, most tested tools in the tradition.</p>
+
+      <h3>Why noting beats "just try to focus"</h3>
+      <p>"Just watch the breath" leaves you with only one move when you wander: silently scold yourself and drag attention back by force. That works, sort of, but it turns every sit into a small contest with yourself, and it teaches the mind to associate wandering with failure. Noting reframes the entire event. The wandering itself becomes the object of practice, not an interruption to it — you're not failing to watch the breath, you're succeeding at noticing a thought. Every single distraction becomes something to correctly identify rather than something to be ashamed of. Over a week of practice, most people notice the emotional temperature of their sits change first, before anything about concentration does: less self-criticism, more plain observation.</p>
+
+      <div class="ms-quote">You are not trying to have no thoughts. You are training the moment of noticing — and that moment is the entire practice.</div>
+
+      <div class="ms-take">
+        <b class="h">Three ideas to carry out of today</b>
+        <ul>
+          <li><b>Wandering isn't the problem.</b> Not noticing that you've wandered is the actual problem — and that's exactly what noting trains.</li>
+          <li><b>One or two words, no story.</b> "Thinking" is enough. You don't need to know what you were thinking about, or why, or what it means.</li>
+          <li><b>Distraction becomes material.</b> Every time the mind wanders, you get another rep. A wandering-heavy sit is not a bad sit for this practice — it's a sit with a lot of practice reps in it.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ms-part"><div class="pn">Part 2</div><h2>Guided Instructions<span class="rf">Ten minutes, with noting</span></h2></div>
+      <p>Same posture and breath as Begin to Meditate. The only thing that changes this week is what you do the moment you notice you've left the breath.</p>
+
+      <div class="ms-script">
+        <div class="ms-script-lbl">Ten Minutes, With Noting</div>
+        <p>Take your posture. Settle with one slow breath, a little longer on the way out.</p>
+        <p>Rest your attention on the breath, wherever you feel it most clearly — the nostrils, the chest, the belly. Just that, for now.</p>
+        <p>At some point — probably soon — you'll notice you're no longer with the breath. You're somewhere else: a plan, a memory, a sound, an itch. The instant you notice this, silently name it. <b>One word is enough:</b> "thinking," "remembering," "hearing," "itching."</p>
+        <p>Then let the label go, and come back to the breath. Not with force — just the way you'd glance at something and then look away again.</p>
+        <p>Repeat this for the rest of the sit: breath, wander, note, return. If you lose count of how many times you've noted, that's completely fine — the noting itself is the practice, not a tally.</p>
+        <p>When the timer sounds, take one more breath before you open your eyes. <b>However many times you noted, that was a full sit.</b></p>
+      </div>
+
+      <!-- PART 3 -->
+      <div class="ms-part"><div class="pn">Part 3</div><h2>This Week's Practice<span class="rf">Sit daily, and log what pulled you away</span></h2></div>
+      <p>Same daily sit as last week — ten minutes if you can, two if that's genuinely all you have, using the two-minute sit from Session 1 with noting added in. This week's log adds one thing: instead of just "how it went," note the single word that came up most often.</p>
+
+      <div class="ms-log">
+        <div class="ms-log-row h"><div>Day</div><div>Length</div><div>Most frequent note</div></div>
+        <div class="ms-log-row"><div>Mon</div><div>10 min</div><div>planning</div></div>
+        <div class="ms-log-row"><div>Tue</div><div>2 min</div><div>hearing</div></div>
+        <div class="ms-log-row"><div>Wed</div><div>—</div><div>missed</div></div>
+        <div class="ms-log-row"><div>Thu</div><div>10 min</div><div>remembering</div></div>
+      </div>
+      <p style="font-size:15px;color:var(--ink-soft);"><em>You're not looking for a sit with fewer notes. A sit with a hundred quiet, unbothered notes is every bit as good as one with five — the log is tracking what kind of wandering shows up most, not how much of it there is.</em></p>
+
+      <!-- PART 4 -->
+      <div class="ms-part"><div class="pn">Part 4</div><h2>Common Obstacles</h2></div>
+      <div class="ms-faq">
+        <details class="ms-q"><summary>I can't tell what to call it. It's not really "thinking" or "planning" — it's just a vague pull. <span class="plus"></span></summary><div class="a"><p>Then "pulling" or "wandering" is a perfectly good label. The exact word matters far less than the act of pausing to name something at all — that pause is what's doing the actual work.</p></div></details>
+        <details class="ms-q"><summary>Noting is starting to feel like its own distraction — I'm thinking about the label more than the breath. <span class="plus"></span></summary><div class="a"><p>Very common early on. Keep the note as short and quiet as possible — closer to a mental nod than a spoken word. If it still feels heavy, note less often on purpose: only the strongest pulls, not every flicker. The technique should feel lighter with practice, not heavier.</p></div></details>
+        <details class="ms-q"><summary>I forget to note entirely and just resurface five minutes later. <span class="plus"></span></summary><div class="a"><p>That's not a failed sit — the moment you resurface and notice is itself a note, just a delayed one. Label it "wandering" or "lost" right then, and return. The gap gets shorter with practice; it doesn't need to start short.</p></div></details>
+        <details class="ms-q"><summary>Should I note emotions the same way as thoughts? <span class="plus"></span></summary><div class="a"><p>Yes — "worrying," "annoyed," "excited" work exactly the same way as "thinking" or "planning." This week, keep it simple with a single word for whatever arises, thought or feeling alike. Session 4 comes back to feeling-tone specifically, in more depth.</p></div></details>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="ms-part"><div class="pn">Part 5</div><h2>Reflection</h2></div>
+      <p>At the end of the week, look back over your log and sit with these — no need to write pages, a line or two each is enough.</p>
+      <ol class="ms-refl">
+        <li>What word showed up most often across the week? Does it surprise you, or does it match what you already suspected about your own mind?</li>
+        <li>Did naming the wandering change how it felt to notice it — calmer, more neutral, less like a failure?</li>
+        <li>Was there a day the noting felt effortless, and a day it felt clumsy or forced? What was different about those two days?</li>
+        <li>Compared to last week's two-minute rule, does having something to <em>do</em> with a wandering mind change how you feel about sitting down in the first place?</li>
+      </ol>
+
+      <!-- NEXT -->
+      <div class="ms-next">
+        <div class="l">Looking ahead</div>
+        <h3>Session 3 — The Body as Ground</h3>
+        <p>With noting in hand, Session 3 turns to the first of the traditional foundations of mindfulness in full: the body itself. Where this week trained the moment of noticing, Session 3 gives attention a steadier home to return to between notes — a body scan you can rest in rather than only a breath to watch.</p>
+      </div>
+
+      <div class="ms-foot">
+        <a class="ms-btn ghost" href="{{ '/courses/meditation-step-by-step/session-1/' | relative_url }}">← Session 1</a>
+        <button type="button" class="ms-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+        <a class="ms-btn ghost" href="{{ '/courses/meditation-step-by-step/' | relative_url }}">Course overview →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
