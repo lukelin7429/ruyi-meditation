@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Mahāvibhāṣā Śāstra
+title: "Mahāvibhāṣā Śāstra"
 permalink: /abhidharma/mahavibhasa/
-excerpt: A plain-English study entrance to the Abhidharma-mahāvibhāṣā-śāstra (大毘婆沙論), the two-hundred-fascicle Sarvāstivāda encyclopedia compiled at the council of Kashmir, translated from Xuánzàng's Chinese.
+excerpt: "A plain-English study entrance to the Abhidharma-mahāvibhāṣā-śāstra (大毘婆沙論), the two-hundred-fascicle Sarvāstivāda encyclopedia compiled at the council of Kashmir, translated from Xuánzàng's Chinese."
 ---
 
 <script>document.documentElement.classList.add('js');</script>
@@ -178,6 +178,12 @@ excerpt: A plain-English study entrance to the Abhidharma-mahāvibhāṣā-śās
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Complete: the treatise's prose preface — authorship, the three baskets, why the treatise was composed, Abhidharma's own definition, and a dozen masters' etymologies.</span>
+        </a>
+        {% elsif i == 2 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/abhidharma/mahavibhasa/fascicle-002/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Complete: the Miscellaneous Chapter opens with "supreme mundane dharma" — some twenty reasons for its priority, the eight chapters' hidden causal logic, and named masters' rival definitions.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T27n1545_{{ padded }}" target="_blank" rel="noopener" data-rv>
