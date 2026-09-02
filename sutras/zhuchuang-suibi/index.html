@@ -1,0 +1,890 @@
+---
+layout: default
+title: Zhuchuang Suibi — Notes Beside the Bamboo Window
+permalink: /sutras/zhuchuang-suibi/
+excerpt: A complete bilingual translation of Yunqi Zhuhong's Zhuchuang Suibi (竹窗隨筆) — the eighth Pure Land patriarch's own miscellany of short notes and essays, 398 entries across three collections written late in life, on Chan and Pure Land practice, Confucian-Buddhist relations, vinaya and monastic discipline, contemporary customs, and the karma stories he thought worth recording.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .zcs{--terra:#8c5a2b;--terra-deep:#6b4420;--gold:#c99a3f;--jade:#4a6d5c;--cream:#faf6ec;--ink:#241f1a;--muted:#6b625a;--line:#e8ddc9;}
+  .zcs *{box-sizing:border-box;}
+  .zcs-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .zcs [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .zcs [data-rv].in{opacity:1;transform:none;}
+  .zcs-hero{background:linear-gradient(155deg,#6b5122 0%,#453419 45%,#1a1712 100%);color:#fff;overflow:hidden;position:relative;}
+  .zcs-hero::after{content:"隨筆";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .zcs-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .zcs-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .zcs-bread a{color:#e3bf72;text-decoration:none;border-bottom:1px solid rgba(227,191,114,.45);}
+  .zcs-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#e3bf72;font-weight:700;}
+  .zcs h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6.2vw,62px);line-height:1.08;color:#fff;margin:14px 0 18px;max-width:17ch;}
+  .zcs-hero p{max-width:720px;color:#f0eae0;font-size:19px;line-height:1.7;}
+  .zcs-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .zcs-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .zcs-btn.primary{background:#e3bf72;color:#241f1a;border-color:#e3bf72;}
+  .zcs-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .zcs-intro{background:var(--cream);padding:64px 0 42px;}
+  .zcs-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.zcs-grid{grid-template-columns:1.15fr .85fr;}}
+  .zcs-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .zcs-panel h2,.zcs-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(28px,4vw,38px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .zcs-panel p,.zcs-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .zcs-panel ul{padding-left:20px;margin:0;}
+  .zcs-stats{display:grid;gap:12px;margin-top:18px;}
+  .zcs-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .zcs-stat b{font-family:'Playfair Display',Georgia,serif;font-size:26px;color:var(--terra);margin-right:6px;}
+  .zcs-section{padding:64px 0;background:#fff;}
+  .zcs-section-head{max-width:720px;margin-bottom:28px;}
+  .zcs-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+
+  .coll-head{margin:44px 0 14px;padding-top:28px;border-top:1px solid var(--line);}
+  .coll-head:first-child{margin-top:0;padding-top:0;border-top:0;}
+  .coll-head h3{font-family:'Playfair Display',Georgia,serif;font-size:26px;color:var(--ink);margin:0 0 4px;display:inline;}
+  .coll-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:18px;color:var(--muted);margin-left:8px;}
+  .coll-meta{display:block;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;color:var(--terra-deep);margin-top:6px;}
+  .coll-note{font-size:15px;color:var(--muted);margin-top:8px;max-width:640px;}
+
+  .batch{margin-top:22px;}
+  .batch-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:6px;margin-bottom:10px;}
+  .batch-head:hover{border-color:#c9a876;}
+  .batch-range{font-family:'Playfair Display',Georgia,serif;font-size:16px;color:var(--ink);}
+  .batch-goto{font-size:12.5px;color:var(--terra-deep);font-weight:700;white-space:nowrap;}
+  .entry-chips{display:flex;flex-wrap:wrap;gap:7px;}
+  .entry-chip{display:inline-flex;align-items:baseline;gap:5px;border:1px solid var(--line);border-radius:5px;padding:5px 9px;text-decoration:none;background:#fffdf8;font-size:13.5px;color:var(--ink);}
+  .entry-chip:hover{border-color:#c9a876;background:#fff8ea;text-decoration:none;}
+  .ec-num{font-size:11px;color:var(--terra-deep);font-weight:800;}
+  .ec-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;}
+
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .zcs [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="zcs">
+  <section class="zcs-hero">
+    <div class="zcs-hero-in">
+      <nav class="zcs-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Zhuchuang Suibi</nav>
+      <div class="zcs-eyebrow" data-rv>Yunqi Zhuhong · Ming dynasty · 竹窗隨筆</div>
+      <h1 data-rv style="transition-delay:.06s">Notes Beside the Bamboo Window.</h1>
+      <p data-rv style="transition-delay:.12s">Yunqi Zhuhong (雲棲袾宏, 1535–1615), the eighth patriarch of Chinese Pure Land Buddhism, kept no formal treatise's discipline in these pages — only a monk's own running notebook, entry by entry, written late in life at his hermitage on Mount Yunqi. Across three collections he takes up whatever crossed his attention: the old quarrel between Chan and Pure Land practice, Confucian scholars' objections to Buddhism and his own replies, lapses in vinaya discipline he witnessed firsthand, the customs and superstitions of his own time, and the karma stories — of retribution, of restraint, of a single act of mercy weighed against a life of harm — that he judged worth setting down. This collection translates all 398 entries in full, in the source text's own order.</p>
+      <div class="zcs-actions" data-rv style="transition-delay:.18s">
+        <a class="zcs-btn primary" href="#entries">Browse the three collections →</a>
+        <a class="zcs-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="zcs-intro">
+    <div class="zcs-wrap zcs-grid">
+      <div class="zcs-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>Zhuhong wrote the <em>Zhuchuang Suibi</em> in three separate collections (初筆, 二筆, 三筆) over the last years of his life, never revising them into a single continuous work — each entry stands on its own, numbered only within its own collection. Entries run from a few sentences to several pages; the First Collection's are the longest and most sustained, and entries grow shorter as the Second and Third Collections go on, several of the Third Collection's pages holding only a single entry. This site groups them into batches of consecutive entries per page, following the order Zhuhong himself gave them, and links every individual entry below directly to its place on the page.</p>
+        <p>A handful of entries in the Second Collection appear in the source not as separate numbered pieces but as companion notes folded into the entry just before them; those are read as part of their parent entry's page rather than linked separately here, matching how the source text itself presents them.</p>
+      </div>
+      <div class="zcs-panel" data-rv style="transition-delay:.08s">
+        <h2>What each page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation, entry by entry, in a running batch of consecutive numbers.</li>
+          <li>A reading note closing each entry, drawn from the Huazang Study Group's commentary — original commentary informed by, not translated from, any single classical source.</li>
+          <li>The source's own homiletic "淨語" sections, where present, omitted in favor of the discursive entries proper.</li>
+          <li>A closing note on each collection's own final entry, marking where Zhuhong's own printing colophon ends the text.</li>
+        </ul>
+        <div class="zcs-stats">
+          <div class="zcs-stat"><b>398</b> of 398 entries translated — complete</div>
+          <div class="zcs-stat"><b>3</b> collections across 68 pages</div>
+          <div class="zcs-stat"><b>132 · 141 · 125</b> entries in the First, Second, and Third Collections</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="zcs-section" id="entries" style="background:var(--cream);">
+    <div class="zcs-wrap">
+      <div class="zcs-section-head" data-rv>
+        <h2>Read by Collection and Entry</h2>
+        <p>All 398 entries are translated. Each batch heading links to the full page; each entry chip links directly to that entry within it.</p>
+      </div>
+      <div class="coll-head" data-rv>
+        <h3>First Collection <span class="coll-zh">初筆</span></h3>
+        <span class="coll-meta">132 entries · 5 pages</span>
+        <p class="coll-note">Written first, and largest — thirty-two entries longer on average than either collection that follows.</p>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="first-collection-01/"><span class="batch-range">Entries 1–25</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="first-collection-01/#entry-1" title="The Monk Wúwéi"><span class="ec-num">1</span><span class="ec-zh">僧無為</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-2" title="A Life Lasts No Longer Than a Breath"><span class="ec-num">2</span><span class="ec-zh">人命呼吸間</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-3" title="Old Writings and New"><span class="ec-num">3</span><span class="ec-zh">古今著述</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-4" title="On Reconciling Chan and Confucianism"><span class="ec-num">4</span><span class="ec-zh">儒釋和會</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-5" title="The Merit of a Repentance Rite"><span class="ec-num">5</span><span class="ec-zh">禮懺功德</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-6" title="Crabs, Clams, and the Question of Feeling"><span class="ec-num">6</span><span class="ec-zh">螯蠣充口</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-7" title="The Yellow Dog at the Eastern Gate"><span class="ec-num">7</span><span class="ec-zh">東門黃犬</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-8" title="Killing on a Parent&#x27;s Behalf"><span class="ec-num">8</span><span class="ec-zh">為父母殺生</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-9" title="A Deer Promised for a Name on the List"><span class="ec-num">9</span><span class="ec-zh">鹿祀求名</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-10" title="An Analogy for the Mind"><span class="ec-num">10</span><span class="ec-zh">心喻</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-11" title="Changing One&#x27;s Bones"><span class="ec-num">11</span><span class="ec-zh">換骨</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-12" title="Guifeng&#x27;s &quot;Only Heze Grasped the Pearl Itself&quot;"><span class="ec-num">12</span><span class="ec-zh">洪州不得珠體</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-13" title="My Grave"><span class="ec-num">13</span><span class="ec-zh">墳墓</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-14" title="Bodhisattvas and Saving the Living"><span class="ec-num">14</span><span class="ec-zh">菩薩度生</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-15" title="After Awakening"><span class="ec-num">15</span><span class="ec-zh">悟後</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-16" title="The Two Lecture-Masters Fú and Liángsuì"><span class="ec-num">16</span><span class="ec-zh">孚遂二座主</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-17" title="Genuine Awakening"><span class="ec-num">17</span><span class="ec-zh">實悟</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-18" title="Do Parents Bow Back to a Child Who Has Left Home?"><span class="ec-num">18</span><span class="ec-zh">出家父母反拜</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-19" title="Foolish in Life, Wise in Death"><span class="ec-num">19</span><span class="ec-zh">生愚死智</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-20" title="A Book on Nourishing Old Age"><span class="ec-num">20</span><span class="ec-zh">養老書</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-21" title="Sacrificing to the Gods Without Animal Offerings"><span class="ec-num">21</span><span class="ec-zh">祀神不用牲</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-22" title="What People Delight In"><span class="ec-num">22</span><span class="ec-zh">好樂</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-23" title="Worldly Wisdom Must Still Be Awakened"><span class="ec-num">23</span><span class="ec-zh">世智當悟</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-24" title="The Moment Must Not Be Let Slip"><span class="ec-num">24</span><span class="ec-zh">時不可蹉</span></a>
+          <a class="entry-chip" href="first-collection-01/#entry-25" title="A Ghost&#x27;s Reverence for Buddha-Recitation"><span class="ec-num">25</span><span class="ec-zh">念佛鬼敬</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="first-collection-02/"><span class="batch-range">Entries 26–50</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="first-collection-02/#entry-26" title="Ghosts and Spirits"><span class="ec-num">26</span><span class="ec-zh">鬼神</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-27" title="Love and Hate"><span class="ec-num">27</span><span class="ec-zh">憎愛</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-28" title="The Avataṃsaka Is Not Inferior to the Gèn Hexagram"><span class="ec-num">28</span><span class="ec-zh">華嚴不如艮卦</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-29" title="Han Xin of Huaiyin"><span class="ec-num">29</span><span class="ec-zh">韓淮陰</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-30" title="Miscellaneous Remarks on Sutra-Chanting"><span class="ec-num">30</span><span class="ec-zh">誦經雜話</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-31" title="An Even Mind Delivers the Dead"><span class="ec-num">31</span><span class="ec-zh">平心薦亡</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-32" title="Facing One&#x27;s Circumstances"><span class="ec-num">32</span><span class="ec-zh">對境</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-33" title="Removing Obstructions"><span class="ec-num">33</span><span class="ec-zh">去障</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-34" title="Two Guests at a Game of Go"><span class="ec-num">34</span><span class="ec-zh">二客對弈</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-35" title="Cultivation Through Contemplation"><span class="ec-num">35</span><span class="ec-zh">思惟修</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-36" title="A Friend Who Speaks Frankly"><span class="ec-num">36</span><span class="ec-zh">諍友</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-37" title="Drums and Music"><span class="ec-num">37</span><span class="ec-zh">鼓樂</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-38" title="The Sutras Must Be Read"><span class="ec-num">38</span><span class="ec-zh">佛經不可不讀</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-39" title="Consort Xiao"><span class="ec-num">39</span><span class="ec-zh">蕭妃</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-40" title="Head Monk Tai"><span class="ec-num">40</span><span class="ec-zh">泰首座</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-41" title="Who Is the Master When Asleep and Dreamless?"><span class="ec-num">41</span><span class="ec-zh">睡著無夢時主人</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-42" title="Giving"><span class="ec-num">42</span><span class="ec-zh">布施</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-43" title="On &quot;Favoring Directness&quot; and &quot;Favoring Principle&quot;"><span class="ec-num">43</span><span class="ec-zh">尚直尚理編</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-44" title="Refraining from Killing"><span class="ec-num">44</span><span class="ec-zh">戒殺</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-45" title="Establishing a Monastic Community"><span class="ec-num">45</span><span class="ec-zh">建立叢林</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-46" title="Losing to Benefit Others"><span class="ec-num">46</span><span class="ec-zh">損己利人</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-47" title="Innate Knowing"><span class="ec-num">47</span><span class="ec-zh">良知</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-48" title="The Mind&#x27;s Vital Spirit Is Called Sagehood"><span class="ec-num">48</span><span class="ec-zh">心之精神是謂聖</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-49" title="Stillness and Response"><span class="ec-num">49</span><span class="ec-zh">寂感</span></a>
+          <a class="entry-chip" href="first-collection-02/#entry-50" title="Setting Aside One&#x27;s Own Talent"><span class="ec-num">50</span><span class="ec-zh">棄捨所長</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="first-collection-03/"><span class="batch-range">Entries 51–75</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="first-collection-03/#entry-51" title="Two Kinds of Rats"><span class="ec-num">51</span><span class="ec-zh">二種鼠</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-52" title="A Monastic Habit"><span class="ec-num">52</span><span class="ec-zh">僧習</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-53" title="Ancients and Moderns Do Not Measure Up to One Another"><span class="ec-num">53</span><span class="ec-zh">古今人不相及</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-54" title="A Rebuttal of &quot;Things Do Not Shift,&quot; Rebutted"><span class="ec-num">54</span><span class="ec-zh">物不遷論駁</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-55" title="The Blue Cliff Record"><span class="ec-num">55</span><span class="ec-zh">碧巖集</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-56" title="Doushuai Congyue and Zhang Wujin"><span class="ec-num">56</span><span class="ec-zh">兜率悅張無盡</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-57" title="Chan Question-and-Answer"><span class="ec-num">57</span><span class="ec-zh">宗門問答</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-58" title="Living Drunk and Dying in a Dream"><span class="ec-num">58</span><span class="ec-zh">醉生夢死</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-59" title="A Genuine Person of the Way Is Hard to Find"><span class="ec-num">59</span><span class="ec-zh">真道人難</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-60" title="Emptiness of the Very Emptying, Exhausted"><span class="ec-num">60</span><span class="ec-zh">空所空盡</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-61" title="A Separate Transmission Outside the Teachings"><span class="ec-num">61</span><span class="ec-zh">教外別傳</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-62" title="Manifesting Truth and Returning to the Source"><span class="ec-num">62</span><span class="ec-zh">發真歸元</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-63" title="Talk of the Way"><span class="ec-num">63</span><span class="ec-zh">道話</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-64" title="The King of Chu&#x27;s Lost Bow"><span class="ec-num">64</span><span class="ec-zh">楚失弓</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-65" title="Sutras and Teachings"><span class="ec-num">65</span><span class="ec-zh">經教</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-66" title="Recorded Sayings"><span class="ec-num">66</span><span class="ec-zh">語錄</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-67" title="Hearing Slander"><span class="ec-num">67</span><span class="ec-zh">聞謗</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-68" title="The Foolishness Within Foolishness"><span class="ec-num">68</span><span class="ec-zh">愚之愚</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-69" title="Settling Things in Advance"><span class="ec-num">69</span><span class="ec-zh">預了</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-70" title="Reading Widely"><span class="ec-num">70</span><span class="ec-zh">廣覽</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-71" title="Hunting for Other People&#x27;s Faults"><span class="ec-num">71</span><span class="ec-zh">求人過</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-72" title="Planning and Deciding"><span class="ec-num">72</span><span class="ec-zh">謀斷</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-73" title="Chan and Buddha-Recitation in Dispute"><span class="ec-num">73</span><span class="ec-zh">禪佛相爭</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-74" title="The Wuyi Mountains Painting"><span class="ec-num">74</span><span class="ec-zh">武夷圖</span></a>
+          <a class="entry-chip" href="first-collection-03/#entry-75" title="Discussing the Chan Tradition"><span class="ec-num">75</span><span class="ec-zh">談宗</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="first-collection-04/"><span class="batch-range">Entries 76–100</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="first-collection-04/#entry-76" title="Buddha-Recitation"><span class="ec-num">76</span><span class="ec-zh">念佛</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-77" title="The Monk Xingkong"><span class="ec-num">77</span><span class="ec-zh">僧性空</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-78" title="Wandering on Foot"><span class="ec-num">78</span><span class="ec-zh">行腳</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-79" title="The Marvelous Tenets Commentary"><span class="ec-num">79</span><span class="ec-zh">妙宗鈔</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-80" title="Hearing News of a Death"><span class="ec-num">80</span><span class="ec-zh">聞訃</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-81" title="Vegetarian Fasting"><span class="ec-num">81</span><span class="ec-zh">齋素</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-82" title="The Root of Saṃsāra"><span class="ec-num">82</span><span class="ec-zh">輪迴根本</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-83" title="Illness Is the True Medicine for Sentient Beings"><span class="ec-num">83</span><span class="ec-zh">病者眾生之良藥</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-84" title="The Snake Becoming a Dragon"><span class="ec-num">84</span><span class="ec-zh">蛇成龍</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-85" title="Fame and Fortune"><span class="ec-num">85</span><span class="ec-zh">名利</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-86" title="Right Mindfulness at the Moment of Death"><span class="ec-num">86</span><span class="ec-zh">臨終正念</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-87" title="The Fragrance of Flowers"><span class="ec-num">87</span><span class="ec-zh">花香</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-88" title="The Tale of the Man-Tiger"><span class="ec-num">88</span><span class="ec-zh">人虎傳</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-89" title="Each of the Six Realms Contains All Six Within It"><span class="ec-num">89</span><span class="ec-zh">六道互具</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-90" title="Wisdom"><span class="ec-num">90</span><span class="ec-zh">智慧</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-91" title="Outside Learning"><span class="ec-num">91</span><span class="ec-zh">外學</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-92" title="Master Lingyu"><span class="ec-num">92</span><span class="ec-zh">靈裕法師</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-93" title="Wandering on Foot, Settling on a Mountain"><span class="ec-num">93</span><span class="ec-zh">行腳住山</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-94" title="Was the Śūraṅgama Written by Fang Rong?"><span class="ec-num">94</span><span class="ec-zh">楞嚴房融所作</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-95" title="The Old Man at the Frontier"><span class="ec-num">95</span><span class="ec-zh">塞翁</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-96" title="Supernormal Powers"><span class="ec-num">96</span><span class="ec-zh">神通</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-97" title="Great and Eminent People"><span class="ec-num">97</span><span class="ec-zh">大豪貴人</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-98" title="Youtang&#x27;s &quot;Mountain Dwelling&quot; Poems"><span class="ec-num">98</span><span class="ec-zh">栯堂山居詩</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-99" title="The Color of the Mountains"><span class="ec-num">99</span><span class="ec-zh">山色</span></a>
+          <a class="entry-chip" href="first-collection-04/#entry-100" title="Dreaming of This Life"><span class="ec-num">100</span><span class="ec-zh">見生夢</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="first-collection-05/"><span class="batch-range">Entries 101–132</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="first-collection-05/#entry-101" title="The Monk and the Repentance Rite"><span class="ec-num">101</span><span class="ec-zh">禮懺僧</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-102" title="Nanyue&#x27;s Mahāyāna Cessation-and-Contemplation"><span class="ec-num">102</span><span class="ec-zh">南嶽止觀</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-103" title="Han Changli"><span class="ec-num">103</span><span class="ec-zh">韓昌黎</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-104" title="Alertness and Stillness"><span class="ec-num">104</span><span class="ec-zh">惺寂</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-105" title="The Origin of &quot;the Way&quot;"><span class="ec-num">105</span><span class="ec-zh">道原</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-106" title="Bodhisattvas No Longer Appear in Our Age"><span class="ec-num">106</span><span class="ec-zh">菩薩不現今時</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-107" title="The Tathāgata Does Not Directly Halt the Karma of Killing"><span class="ec-num">107</span><span class="ec-zh">如來不救殺業</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-108" title="Additions and Deletions to the Words of the Ancients"><span class="ec-num">108</span><span class="ec-zh">增減古人文字</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-109" title="The Parable of the Poisonous Snake"><span class="ec-num">109</span><span class="ec-zh">毒蛇喻</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-110" title="Caoxi&#x27;s &quot;Not Cutting Off the Hundred Thoughts&quot;"><span class="ec-num">110</span><span class="ec-zh">曹溪不斷思想</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-111" title="The Four Who Know"><span class="ec-num">111</span><span class="ec-zh">四知</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-112" title="The Four Great Elements and the Five Phases"><span class="ec-num">112</span><span class="ec-zh">四大五行</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-113" title="The World"><span class="ec-num">113</span><span class="ec-zh">世界</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-114" title="Years and Kalpas"><span class="ec-num">114</span><span class="ec-zh">年劫</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-115" title="Nothing Comes Before Wisdom in Studying the Way"><span class="ec-num">115</span><span class="ec-zh">學道莫先智</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-116" title="Amnesty Proclamations at Ritual Assemblies"><span class="ec-num">116</span><span class="ec-zh">道場放赦</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-117" title="The Liturgy for the Water-and-Land Rite"><span class="ec-num">117</span><span class="ec-zh">水陸儀文</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-118" title="Seeing a Monk&#x27;s Faults"><span class="ec-num">118</span><span class="ec-zh">見僧過</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-119" title="The Mind Is Not Located Inside the Body"><span class="ec-num">119</span><span class="ec-zh">心不在內</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-120" title="The Root of Birth and Death"><span class="ec-num">120</span><span class="ec-zh">生死根本</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-121" title="The Man of Qi"><span class="ec-num">121</span><span class="ec-zh">齊人</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-122" title="Utmost Sincerity Moves People"><span class="ec-num">122</span><span class="ec-zh">至誠感人</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-123" title="Drawing Close to a Genuine Spiritual Guide"><span class="ec-num">123</span><span class="ec-zh">親善知識</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-124" title="Buddha-Recitation Without Real Single-Mindedness"><span class="ec-num">124</span><span class="ec-zh">念佛不專一</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-125" title="Music and Performance"><span class="ec-num">125</span><span class="ec-zh">伎樂</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-126" title="The Body Is What One&#x27;s Parents Left Behind"><span class="ec-num">126</span><span class="ec-zh">身者父母遺體</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-127" title="Deceiving a Child with Rice Balls"><span class="ec-num">127</span><span class="ec-zh">丸餅誑兒</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-128" title="Sorrow and Joy"><span class="ec-num">128</span><span class="ec-zh">憂樂</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-129" title="Root and Source, Branch and Leaf"><span class="ec-num">129</span><span class="ec-zh">根原枝葉</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-130" title="Longing to See Mount Kunlun"><span class="ec-num">130</span><span class="ec-zh">想見崑崙</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-131" title="Refuting the Forgery &quot;Empty Truths in the Leisure of Chan&quot;"><span class="ec-num">131</span><span class="ec-zh">禪餘空諦辯偽</span></a>
+          <a class="entry-chip" href="first-collection-05/#entry-132" title="The Many Different Dharma-Gates"><span class="ec-num">132</span><span class="ec-zh">種種法門</span></a>
+        </div>
+      </div>
+
+      <div class="coll-head" data-rv>
+        <h3>Second Collection <span class="coll-zh">二筆</span></h3>
+        <span class="coll-meta">141 entries · 17 pages</span>
+        <p class="coll-note">Entries shorten steadily as the collection goes on, from thirty-entry batches down to clusters of three or four.</p>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-01/"><span class="batch-range">Entries 1–30</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-01/#entry-1" title="The Prajñā Mantra"><span class="ec-num">1</span><span class="ec-zh">般若咒</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-2" title="The Bodhisattva Rútóng"><span class="ec-num">2</span><span class="ec-zh">儒童菩薩</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-3" title="Linji"><span class="ec-num">3</span><span class="ec-zh">臨濟</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-4" title="Mount Yandang"><span class="ec-num">4</span><span class="ec-zh">雁蕩山</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-5" title="Regretting Not Having Become a Monk"><span class="ec-num">5</span><span class="ec-zh">悔不為僧</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-6" title="Turning the Buddha-Dharma into a Social Favor"><span class="ec-num">6</span><span class="ec-zh">佛法作人情</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-7" title="The Robe and Bowl of Huangmei"><span class="ec-num">7</span><span class="ec-zh">黃梅衣缽</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-8" title="Perfect Penetration Through the Ear-Faculty"><span class="ec-num">8</span><span class="ec-zh">耳根圓通</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-9" title="The Land of Ultimate Bliss"><span class="ec-num">9</span><span class="ec-zh">極樂世界</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-10" title="A Single Turning Word"><span class="ec-num">10</span><span class="ec-zh">一轉語</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-13" title="Instructor Zhu"><span class="ec-num">13</span><span class="ec-zh">朱學諭</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-14" title="The Original Body, Vairocana"><span class="ec-num">14</span><span class="ec-zh">本身盧舍那</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-15" title="Wearing Silk, Eating Meat"><span class="ec-num">15</span><span class="ec-zh">衣帛食肉</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-16" title="Attachment"><span class="ec-num">16</span><span class="ec-zh">執著</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-17" title="Loving Antiquity"><span class="ec-num">17</span><span class="ec-zh">好古</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-19" title="The Difficulty of Establishing a New Position"><span class="ec-num">19</span><span class="ec-zh">立義難</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-20" title="Not Performing Buddhist Rites"><span class="ec-num">20</span><span class="ec-zh">不作佛事</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-21" title="Bao"><span class="ec-num">21</span><span class="ec-zh">鮑</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-22" title="A Steep and Lofty Gate"><span class="ec-num">22</span><span class="ec-zh">門庭高峻</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-23" title="Demonic Possession"><span class="ec-num">23</span><span class="ec-zh">魔著</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-24" title="Seeking Teachers Requires a Discerning Eye"><span class="ec-num">24</span><span class="ec-zh">參方須具眼</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-25" title="A Human Body Is Hard to Obtain"><span class="ec-num">25</span><span class="ec-zh">人身難得</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-26" title="Nothing Resists a Person Truly Determined"><span class="ec-num">26</span><span class="ec-zh">事怕有心人</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-27" title="Only After Long Maturity Should One Emerge to Teach"><span class="ec-num">27</span><span class="ec-zh">老成然後出世</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-28" title="Carrying Forward the Patriarchal Lamp"><span class="ec-num">28</span><span class="ec-zh">繼祖傳燈</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-29" title="The Offense of Killing"><span class="ec-num">29</span><span class="ec-zh">殺罪</span></a>
+          <a class="entry-chip" href="second-collection-01/#entry-30" title="Chan Sayings Must Not Be Recklessly Imitated"><span class="ec-num">30</span><span class="ec-zh">宗門語不可亂擬</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-02/"><span class="batch-range">Entries 31–60</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-02/#entry-31" title="Reading the Ancients&#x27; Sayings, One Must Seek Their Own Effort"><span class="ec-num">31</span><span class="ec-zh">看語錄須求古人用心處</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-32" title="Night Vigor"><span class="ec-num">32</span><span class="ec-zh">夜氣</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-33" title="Foyin"><span class="ec-num">33</span><span class="ec-zh">佛印</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-34" title="Learning Prizes Focused Devotion"><span class="ec-num">34</span><span class="ec-zh">學貴精專</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-35" title="A Bodhisattva&#x27;s Compassion Surpasses the Śrāvaka&#x27;s"><span class="ec-num">35</span><span class="ec-zh">菩薩慈勝聲聞</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-36" title="The Chan Vehicle Does Not Accord with the Scriptural Teaching"><span class="ec-num">36</span><span class="ec-zh">宗乘不與教合</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-37" title="The Evening &quot;Release-from-Assembly&quot; Meal"><span class="ec-num">37</span><span class="ec-zh">放參飯</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-38" title="The Monks&#x27; Hall"><span class="ec-num">38</span><span class="ec-zh">僧堂</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-39" title="Forming a Society"><span class="ec-num">39</span><span class="ec-zh">結社會</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-40" title="The Lotus Society"><span class="ec-num">40</span><span class="ec-zh">蓮社</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-41" title="Mind and Courage"><span class="ec-num">41</span><span class="ec-zh">心膽</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-42" title="The Full Sacrifice for Confucius"><span class="ec-num">42</span><span class="ec-zh">太牢祀孔子</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-43" title="Confucians and Buddhists Trading Accusations"><span class="ec-num">43</span><span class="ec-zh">儒佛交非</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-44" title="Fondness for Reputation"><span class="ec-num">44</span><span class="ec-zh">好名</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-45" title="Emperor Wu of Liang"><span class="ec-num">45</span><span class="ec-zh">梁武帝</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-46" title="The &quot;King and Retinue&quot; Flower"><span class="ec-num">46</span><span class="ec-zh">王所花</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-47" title="This Way"><span class="ec-num">47</span><span class="ec-zh">此道</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-48" title="The Golden-Colored Body"><span class="ec-num">48</span><span class="ec-zh">金色身</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-49" title="How Difficult It Is, Even After Leaving Home, to Set the Mind at Rest"><span class="ec-num">49</span><span class="ec-zh">出家休心難</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-50" title="Silk"><span class="ec-num">50</span><span class="ec-zh">蠶絲</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-52" title="Lord Lü Wenzheng"><span class="ec-num">52</span><span class="ec-zh">呂文正公</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-53" title="There Is Neither Undeserved Luck nor Undeserved Injustice in Studying the Way"><span class="ec-num">53</span><span class="ec-zh">學道無倖屈</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-54" title="Writing Should Be Reserved for One&#x27;s Later Years"><span class="ec-num">54</span><span class="ec-zh">著述宜在晚年</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-55" title="Causes and Conditions"><span class="ec-num">55</span><span class="ec-zh">機緣</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-56" title="Prajñā"><span class="ec-num">56</span><span class="ec-zh">般若</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-59" title="Tiantai&#x27;s Cessation and Contemplation"><span class="ec-num">59</span><span class="ec-zh">天台止觀</span></a>
+          <a class="entry-chip" href="second-collection-02/#entry-60" title="Watching the Busy"><span class="ec-num">60</span><span class="ec-zh">看忙</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-03/"><span class="batch-range">Entries 61–71</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-03/#entry-61" title="Master Bianrong"><span class="ec-num">61</span><span class="ec-zh">辯融</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-62" title="Chan, Doctrinal Study, and Vinaya"><span class="ec-num">62</span><span class="ec-zh">禪講律</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-63" title="An Antique Falls into My Own Hands"><span class="ec-num">63</span><span class="ec-zh">古玩入吾手</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-64" title="Awakening to the Way Is Difficult; Doing Good Is Easy"><span class="ec-num">64</span><span class="ec-zh">悟道難，為善易</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-65" title="Weighing Approval Seriously"><span class="ec-num">65</span><span class="ec-zh">重許可</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-66" title="The Life-Release Pond"><span class="ec-num">66</span><span class="ec-zh">放生池</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-67" title="Cui Shen Seeks a Son"><span class="ec-num">67</span><span class="ec-zh">崔慎求子</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-68" title="Having No Son Is Not Worth Grieving Over"><span class="ec-num">68</span><span class="ec-zh">無子不足憂</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-69" title="Later Rebirths, First Note"><span class="ec-num">69</span><span class="ec-zh">後身一</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-70" title="Later Rebirths, Second Note"><span class="ec-num">70</span><span class="ec-zh">後身二</span></a>
+          <a class="entry-chip" href="second-collection-03/#entry-71" title="Later Rebirths, Third Note"><span class="ec-num">71</span><span class="ec-zh">後身三</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-04/"><span class="batch-range">Entries 72–80</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-04/#entry-72" title="Wang Jiefu"><span class="ec-num">72</span><span class="ec-zh">王介甫</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-73" title="Before Joy, Anger, Sorrow, and Delight Arise, First Note"><span class="ec-num">73</span><span class="ec-zh">喜怒哀樂未發一</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-74" title="Before Joy, Anger, Sorrow, and Delight Arise, Second Note"><span class="ec-num">74</span><span class="ec-zh">喜怒哀樂未發二</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-75" title="Master Zhongfeng&#x27;s Instruction to the Assembly"><span class="ec-num">75</span><span class="ec-zh">中峰示眾</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-76" title="Killing to Thank the Guardian Generals After a Daoist Ritual"><span class="ec-num">76</span><span class="ec-zh">醮事謝將殺生</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-77" title="Refraining from Killing During the Vegetarian Months"><span class="ec-num">77</span><span class="ec-zh">齋月戒殺</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-78" title="Refraining from Killing Extends Life"><span class="ec-num">78</span><span class="ec-zh">戒殺延壽</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-79" title="Lay Practitioners Who Attained Awakening in the Song and Yuan"><span class="ec-num">79</span><span class="ec-zh">宋元悟道居士</span></a>
+          <a class="entry-chip" href="second-collection-04/#entry-80" title="Sayings Without Ordinary Meaning"><span class="ec-num">80</span><span class="ec-zh">無義味語</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-05/"><span class="batch-range">Entries 81–86</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-05/#entry-81" title="The Faith Offerings of Donors Are Hard to Truly Deserve"><span class="ec-num">81</span><span class="ec-zh">信施難消</span></a>
+          <a class="entry-chip" href="second-collection-05/#entry-82" title="Knowing the Way, Yet Unable to Attain It"><span class="ec-num">82</span><span class="ec-zh">知道不能造</span></a>
+          <a class="entry-chip" href="second-collection-05/#entry-83" title="Keeping Far from Anything Bearing the Word &quot;Official&quot;"><span class="ec-num">83</span><span class="ec-zh">遠官字</span></a>
+          <a class="entry-chip" href="second-collection-05/#entry-84" title="The Mirror of Buddha-Recitation"><span class="ec-num">84</span><span class="ec-zh">念佛鏡</span></a>
+          <a class="entry-chip" href="second-collection-05/#entry-85" title="Investigative Buddha-Recitation"><span class="ec-num">85</span><span class="ec-zh">參究念佛</span></a>
+          <a class="entry-chip" href="second-collection-05/#entry-86" title="Investigate Urgently, Awaken Urgently"><span class="ec-num">86</span><span class="ec-zh">急參急悟</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-06/"><span class="batch-range">Entries 87–91</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-06/#entry-87" title="Explaining Chan Through Verse"><span class="ec-num">87</span><span class="ec-zh">解禪偈</span></a>
+          <a class="entry-chip" href="second-collection-06/#entry-88" title="Fan Jingren"><span class="ec-num">88</span><span class="ec-zh">范景仁</span></a>
+          <a class="entry-chip" href="second-collection-06/#entry-89" title="Custom"><span class="ec-num">89</span><span class="ec-zh">習俗</span></a>
+          <a class="entry-chip" href="second-collection-06/#entry-90" title="Wearying of Noise, Seeking Stillness"><span class="ec-num">90</span><span class="ec-zh">厭喧求靜</span></a>
+          <a class="entry-chip" href="second-collection-06/#entry-91" title="New Year&#x27;s Eve"><span class="ec-num">91</span><span class="ec-zh">除日</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-07/"><span class="batch-range">Entries 92–94</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-07/#entry-92" title="The Pure Land&#x27;s Difficulty of Belief, First Note"><span class="ec-num">92</span><span class="ec-zh">淨土難信之法一</span></a>
+          <a class="entry-chip" href="second-collection-07/#entry-93" title="The Pure Land&#x27;s Difficulty of Belief, Second Note"><span class="ec-num">93</span><span class="ec-zh">淨土難信之法二</span></a>
+          <a class="entry-chip" href="second-collection-07/#entry-94" title="The Pure Land&#x27;s Difficulty of Belief, Third Note"><span class="ec-num">94</span><span class="ec-zh">淨土難信之法三</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-08/"><span class="batch-range">Entries 95–99</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-08/#entry-95" title="Buddha-Recitation Does Not Hinder Chan Investigation"><span class="ec-num">95</span><span class="ec-zh">念佛不礙參禪</span></a>
+          <a class="entry-chip" href="second-collection-08/#entry-96" title="Refraining from Killing in Medical Practice"><span class="ec-num">96</span><span class="ec-zh">醫戒殺生</span></a>
+          <a class="entry-chip" href="second-collection-08/#entry-97" title="Testing"><span class="ec-num">97</span><span class="ec-zh">勘驗</span></a>
+          <a class="entry-chip" href="second-collection-08/#entry-98" title="The Ascetic of Baifa Temple"><span class="ec-num">98</span><span class="ec-zh">百法寺道者</span></a>
+          <a class="entry-chip" href="second-collection-08/#entry-99" title="Filial Piety That Transcends the World"><span class="ec-num">99</span><span class="ec-zh">出世間大孝</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-09/"><span class="batch-range">Entries 100–104</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-09/#entry-100" title="Mind Itself Is Buddha"><span class="ec-num">100</span><span class="ec-zh">即心即佛</span></a>
+          <a class="entry-chip" href="second-collection-09/#entry-101" title="Worldly Cleverness and Eloquence Can Be Lost"><span class="ec-num">101</span><span class="ec-zh">世智辯聰有失</span></a>
+          <a class="entry-chip" href="second-collection-09/#entry-102" title="Fondness for the Strange"><span class="ec-num">102</span><span class="ec-zh">好奇</span></a>
+          <a class="entry-chip" href="second-collection-09/#entry-103" title="The Message of Impermanence"><span class="ec-num">103</span><span class="ec-zh">無常信</span></a>
+          <a class="entry-chip" href="second-collection-09/#entry-104" title="Chan Investigation Is Not a Matter for This World"><span class="ec-num">104</span><span class="ec-zh">參禪非人世中事</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-10/"><span class="batch-range">Entries 105–110</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-10/#entry-105" title="Leaving the Household Life, First Note"><span class="ec-num">105</span><span class="ec-zh">出家一</span></a>
+          <a class="entry-chip" href="second-collection-10/#entry-106" title="Leaving the Household Life, Second Note"><span class="ec-num">106</span><span class="ec-zh">出家二</span></a>
+          <a class="entry-chip" href="second-collection-10/#entry-107" title="One Who Has Attained Awakening Should Especially Seek Rebirth in the Pure Land"><span class="ec-num">107</span><span class="ec-zh">得悟人正宜往生淨土</span></a>
+          <a class="entry-chip" href="second-collection-10/#entry-108" title="Chan Investigation"><span class="ec-num">108</span><span class="ec-zh">參禪</span></a>
+          <a class="entry-chip" href="second-collection-10/#entry-109" title="Master Yinzong"><span class="ec-num">109</span><span class="ec-zh">印宗法師</span></a>
+          <a class="entry-chip" href="second-collection-10/#entry-110" title="Staying Close to One&#x27;s Teacher"><span class="ec-num">110</span><span class="ec-zh">親師</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-11/"><span class="batch-range">Entries 111–115</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-11/#entry-111" title="The Flower Ornament Sutra Stands Alone Among All Scriptures"><span class="ec-num">111</span><span class="ec-zh">華嚴大藏一經</span></a>
+          <a class="entry-chip" href="second-collection-11/#entry-112" title="Layman Yuan&#x27;s Mother"><span class="ec-num">112</span><span class="ec-zh">袁母</span></a>
+          <a class="entry-chip" href="second-collection-11/#entry-113" title="Confucianism and Buddhism, Matched to Their Own Purpose"><span class="ec-num">113</span><span class="ec-zh">儒佛配合</span></a>
+          <a class="entry-chip" href="second-collection-11/#entry-114" title="Standing Meditation"><span class="ec-num">114</span><span class="ec-zh">立禪</span></a>
+          <a class="entry-chip" href="second-collection-11/#entry-115" title="Treatises and Commentaries"><span class="ec-num">115</span><span class="ec-zh">論疏</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-12/"><span class="batch-range">Entries 116–119</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-12/#entry-116" title="One Cannot Say the Pure Land Does Not Exist"><span class="ec-num">116</span><span class="ec-zh">淨土不可言無</span></a>
+          <a class="entry-chip" href="second-collection-12/#entry-117" title="A Pure Land Wherever One Goes"><span class="ec-num">117</span><span class="ec-zh">隨處淨土</span></a>
+          <a class="entry-chip" href="second-collection-12/#entry-118" title="Yin and Yang"><span class="ec-num">118</span><span class="ec-zh">陰陽</span></a>
+          <a class="entry-chip" href="second-collection-12/#entry-119" title="The Confusion of Rebirth and the Interval Between Lives"><span class="ec-num">119</span><span class="ec-zh">出胎隔陰之迷</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-13/"><span class="batch-range">Entries 120–123</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-13/#entry-120" title="Liu Daoyuan&#x27;s Disbelief in Buddhism"><span class="ec-num">120</span><span class="ec-zh">劉道原不信佛法</span></a>
+          <a class="entry-chip" href="second-collection-13/#entry-121" title="Transmitting the Buddha&#x27;s Mind-Seal"><span class="ec-num">121</span><span class="ec-zh">傳佛心印</span></a>
+          <a class="entry-chip" href="second-collection-13/#entry-122" title="Transmitting the Lamp"><span class="ec-num">122</span><span class="ec-zh">傳燈</span></a>
+          <a class="entry-chip" href="second-collection-13/#entry-123" title="The Golden Elixir"><span class="ec-num">123</span><span class="ec-zh">金丹</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-14/"><span class="batch-range">Entries 124–127</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-14/#entry-124" title="The Sutra of Forty-Two Sections and the Sutra of the Buddha&#x27;s Final Teaching"><span class="ec-num">124</span><span class="ec-zh">四十二章經遺教經</span></a>
+          <a class="entry-chip" href="second-collection-14/#entry-125" title="Great Awakening and Small Awakening"><span class="ec-num">125</span><span class="ec-zh">大悟小悟</span></a>
+          <a class="entry-chip" href="second-collection-14/#entry-126" title="Compassion Toward Those Below"><span class="ec-num">126</span><span class="ec-zh">憫下</span></a>
+          <a class="entry-chip" href="second-collection-14/#entry-127" title="Bodhisattva"><span class="ec-num">127</span><span class="ec-zh">菩薩</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-15/"><span class="batch-range">Entries 128–132</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-15/#entry-128" title="The Power of Vows"><span class="ec-num">128</span><span class="ec-zh">願力</span></a>
+          <a class="entry-chip" href="second-collection-15/#entry-129" title="Not Giving Rise to a Single Thought, First Note"><span class="ec-num">129</span><span class="ec-zh">不起念一</span></a>
+          <a class="entry-chip" href="second-collection-15/#entry-130" title="Not Giving Rise to a Single Thought, Second Note"><span class="ec-num">130</span><span class="ec-zh">不起念二</span></a>
+          <a class="entry-chip" href="second-collection-15/#entry-131" title="The Nine Grades of Rebirth"><span class="ec-num">131</span><span class="ec-zh">九品往生</span></a>
+          <a class="entry-chip" href="second-collection-15/#entry-132" title="A Thousand Monks Without a Single True Practitioner"><span class="ec-num">132</span><span class="ec-zh">千僧無一衲子</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-16/"><span class="batch-range">Entries 133–138</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-16/#entry-133" title="Treasuring Every Inch of Shadow"><span class="ec-num">133</span><span class="ec-zh">惜寸陰</span></a>
+          <a class="entry-chip" href="second-collection-16/#entry-134" title="Wannian Monastery"><span class="ec-num">134</span><span class="ec-zh">萬年寺</span></a>
+          <a class="entry-chip" href="second-collection-16/#entry-135" title="Wealth and Rank Hold People Fast"><span class="ec-num">135</span><span class="ec-zh">富貴留戀人</span></a>
+          <a class="entry-chip" href="second-collection-16/#entry-136" title="The Goose, &quot;Practitioner of the Way&quot;"><span class="ec-num">136</span><span class="ec-zh">鵝道人</span></a>
+          <a class="entry-chip" href="second-collection-16/#entry-137" title="Birthday"><span class="ec-num">137</span><span class="ec-zh">生日</span></a>
+          <a class="entry-chip" href="second-collection-16/#entry-138" title="Eating Meat Because of Illness"><span class="ec-num">138</span><span class="ec-zh">因病食肉</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="second-collection-17/"><span class="batch-range">Entries 139–141</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="second-collection-17/#entry-139" title="People&#x27;s Affliction: Each Clings to His Own View"><span class="ec-num">139</span><span class="ec-zh">人患各執所見</span></a>
+          <a class="entry-chip" href="second-collection-17/#entry-140" title="Junior Preceptor Yao, First Note"><span class="ec-num">140</span><span class="ec-zh">姚少師一</span></a>
+          <a class="entry-chip" href="second-collection-17/#entry-141" title="Junior Preceptor Yao, Second Note"><span class="ec-num">141</span><span class="ec-zh">姚少師二</span></a>
+        </div>
+      </div>
+
+      <div class="coll-head" data-rv>
+        <h3>Third Collection <span class="coll-zh">三筆</span></h3>
+        <span class="coll-meta">125 entries · 46 pages</span>
+        <p class="coll-note">The final collection — most entries short enough that a single page holds only one or two, closing with Zhuhong's own printing colophon.</p>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-01/"><span class="batch-range">Entries 1–4</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-01/#entry-1" title="Killing Living Beings Is the Greatest Evil in the Human World"><span class="ec-num">1</span><span class="ec-zh">殺生人世大惡</span></a>
+          <a class="entry-chip" href="third-collection-01/#entry-2" title="A Hundred Thousand Recitations of Amitābha&#x27;s Name, Day and Night"><span class="ec-num">2</span><span class="ec-zh">晝夜彌陀十萬聲</span></a>
+          <a class="entry-chip" href="third-collection-01/#entry-3" title="Only Once One&#x27;s Own Matter Is Settled Can One Teach Others"><span class="ec-num">3</span><span class="ec-zh">己事辦方可為人</span></a>
+          <a class="entry-chip" href="third-collection-01/#entry-4" title="Benefiting Oneself and Benefiting Others"><span class="ec-num">4</span><span class="ec-zh">自他二利</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-02/"><span class="batch-range">Entries 5–10</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-02/#entry-5" title="Killing Is Not Something a Human Being Should Do"><span class="ec-num">5</span><span class="ec-zh">殺生非人所為</span></a>
+          <a class="entry-chip" href="third-collection-02/#entry-6" title="Sacrificing an Ox to Heaven"><span class="ec-num">6</span><span class="ec-zh">祀天牛</span></a>
+          <a class="entry-chip" href="third-collection-02/#entry-7" title="Fuxi&#x27;s Hunting Net"><span class="ec-num">7</span><span class="ec-zh">伏羲氏網罟</span></a>
+          <a class="entry-chip" href="third-collection-02/#entry-8" title="Bathwater"><span class="ec-num">8</span><span class="ec-zh">浴水</span></a>
+          <a class="entry-chip" href="third-collection-02/#entry-9" title="Monks Ought to Be Frugal"><span class="ec-num">9</span><span class="ec-zh">僧宜節儉</span></a>
+          <a class="entry-chip" href="third-collection-02/#entry-10" title="Should Monks Bow to Their Parents"><span class="ec-num">10</span><span class="ec-zh">僧拜父母</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-03/"><span class="batch-range">Entries 11–14</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-03/#entry-11" title="Retreat for the Young"><span class="ec-num">11</span><span class="ec-zh">年少閉關</span></a>
+          <a class="entry-chip" href="third-collection-03/#entry-12" title="Traveling on Foot at Eighty"><span class="ec-num">12</span><span class="ec-zh">八旬行腳</span></a>
+          <a class="entry-chip" href="third-collection-03/#entry-13" title="Lecturing on the Chan School"><span class="ec-num">13</span><span class="ec-zh">講宗</span></a>
+          <a class="entry-chip" href="third-collection-03/#entry-14" title="Teaching People to Investigate Chan"><span class="ec-num">14</span><span class="ec-zh">教人參禪</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-04/"><span class="batch-range">Entries 15–17</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-04/#entry-15" title="The Treatises of Sengzhao"><span class="ec-num">15</span><span class="ec-zh">肇論</span></a>
+          <a class="entry-chip" href="third-collection-04/#entry-16" title="Commentaries and Treatises on the Flower Ornament Sutra"><span class="ec-num">16</span><span class="ec-zh">華嚴論疏</span></a>
+          <a class="entry-chip" href="third-collection-04/#entry-17" title="Assessing the Worthies of the Past"><span class="ec-num">17</span><span class="ec-zh">評議先賢</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-05/"><span class="batch-range">Entries 18–21</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-05/#entry-18" title="Visiting Famous Mountains, Yet Not Wishing for the Western Pure Land"><span class="ec-num">18</span><span class="ec-zh">遊名山不願西方</span></a>
+          <a class="entry-chip" href="third-collection-05/#entry-19" title="Improper Solicitation of Donations"><span class="ec-num">19</span><span class="ec-zh">非理募化</span></a>
+          <a class="entry-chip" href="third-collection-05/#entry-20" title="Recklessly Citing the Ancient Masters&#x27; Own Exchanges, First Note"><span class="ec-num">20</span><span class="ec-zh">妄拈古德機緣一</span></a>
+          <a class="entry-chip" href="third-collection-05/#entry-21" title="Second Note"><span class="ec-num">21</span><span class="ec-zh">妄拈古德機緣二</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-06/"><span class="batch-range">Entries 22–26</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-06/#entry-22" title="Plain Speech"><span class="ec-num">22</span><span class="ec-zh">直言</span></a>
+          <a class="entry-chip" href="third-collection-06/#entry-23" title="Outward Trace and Inner Reality"><span class="ec-num">23</span><span class="ec-zh">心跡</span></a>
+          <a class="entry-chip" href="third-collection-06/#entry-24" title="Monks Devoted to External Learning"><span class="ec-num">24</span><span class="ec-zh">僧務外學</span></a>
+          <a class="entry-chip" href="third-collection-06/#entry-25" title="Monks Devoted to Miscellaneous Arts, First Note"><span class="ec-num">25</span><span class="ec-zh">僧務雜術一</span></a>
+          <a class="entry-chip" href="third-collection-06/#entry-26" title="Monks Devoted to Miscellaneous Arts, Second Note"><span class="ec-num">26</span><span class="ec-zh">僧務雜術二</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-07/"><span class="batch-range">Entries 27–31</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-07/#entry-27" title="Old Zhou Liu"><span class="ec-num">27</span><span class="ec-zh">周柳翁</span></a>
+          <a class="entry-chip" href="third-collection-07/#entry-28" title="Feeding the Hungry Ghosts with Boiling Water"><span class="ec-num">28</span><span class="ec-zh">沸湯施食</span></a>
+          <a class="entry-chip" href="third-collection-07/#entry-29" title="Corporal Punishment"><span class="ec-num">29</span><span class="ec-zh">肉刑</span></a>
+          <a class="entry-chip" href="third-collection-07/#entry-30" title="Mind, Intention, Consciousness"><span class="ec-num">30</span><span class="ec-zh">心意識</span></a>
+          <a class="entry-chip" href="third-collection-07/#entry-31" title="Restraining the Mind"><span class="ec-num">31</span><span class="ec-zh">制心</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-08/"><span class="batch-range">Entries 32–37</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-08/#entry-32" title="The Relative Speed of Chan and Pure Land"><span class="ec-num">32</span><span class="ec-zh">禪宗淨土遲速</span></a>
+          <a class="entry-chip" href="third-collection-08/#entry-33" title="The Platform Sutra of the Sixth Patriarch"><span class="ec-num">33</span><span class="ec-zh">六祖壇經</span></a>
+          <a class="entry-chip" href="third-collection-08/#entry-34" title="Dwelling in the Mountains"><span class="ec-num">34</span><span class="ec-zh">居山</span></a>
+          <a class="entry-chip" href="third-collection-08/#entry-35" title="Buddha-Nature"><span class="ec-num">35</span><span class="ec-zh">佛性</span></a>
+          <a class="entry-chip" href="third-collection-08/#entry-36" title="Monks Keeping Servants"><span class="ec-num">36</span><span class="ec-zh">僧畜僮僕</span></a>
+          <a class="entry-chip" href="third-collection-08/#entry-37" title="Wen Wenshan"><span class="ec-num">37</span><span class="ec-zh">文文山</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-09/"><span class="batch-range">Entries 38–42</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-09/#entry-38" title="Four Categories of Leaving Home"><span class="ec-num">38</span><span class="ec-zh">出家四料簡</span></a>
+          <a class="entry-chip" href="third-collection-09/#entry-39" title="Time Must Not Be Wasted, First Note"><span class="ec-num">39</span><span class="ec-zh">時光不可空過一</span></a>
+          <a class="entry-chip" href="third-collection-09/#entry-40" title="Time Must Not Be Wasted, Second Note"><span class="ec-num">40</span><span class="ec-zh">時光不可空過二</span></a>
+          <a class="entry-chip" href="third-collection-09/#entry-41" title="A Vegetarian Meal for a Distinguished Guest"><span class="ec-num">41</span><span class="ec-zh">蔬食上賓</span></a>
+          <a class="entry-chip" href="third-collection-09/#entry-42" title="Li Zhuowu, First Note"><span class="ec-num">42</span><span class="ec-zh">李卓吾一</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-10/"><span class="batch-range">Entries 43–47</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-10/#entry-43" title="Li Zhuowu, Second Note"><span class="ec-num">43</span><span class="ec-zh">李卓吾二</span></a>
+          <a class="entry-chip" href="third-collection-10/#entry-44" title="The Doctrine of Nature, the Way, and Teaching in the Doctrine of the Mean"><span class="ec-num">44</span><span class="ec-zh">中庸性道教義</span></a>
+          <a class="entry-chip" href="third-collection-10/#entry-45" title="Zhao Qingxian"><span class="ec-num">45</span><span class="ec-zh">趙清獻</span></a>
+          <a class="entry-chip" href="third-collection-10/#entry-46" title="A Debt of Unfinished Sutra Recitation"><span class="ec-num">46</span><span class="ec-zh">經債</span></a>
+          <a class="entry-chip" href="third-collection-10/#entry-47" title="Life&#x27;s End in the Pure Land"><span class="ec-num">47</span><span class="ec-zh">淨土壽終</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-11/"><span class="batch-range">Entries 48–50</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-11/#entry-48" title="Longshu&#x27;s Rebirth"><span class="ec-num">48</span><span class="ec-zh">龍舒往生</span></a>
+          <a class="entry-chip" href="third-collection-11/#entry-49" title="Receiving the Bodhisattva Precepts Directly"><span class="ec-num">49</span><span class="ec-zh">直受菩薩戒</span></a>
+          <a class="entry-chip" href="third-collection-11/#entry-50" title="A Warning Against Cruel Punishment"><span class="ec-num">50</span><span class="ec-zh">刑戒</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-12/"><span class="batch-range">Entries 51–55</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-12/#entry-51" title="Not Wishing for the West, First Note"><span class="ec-num">51</span><span class="ec-zh">不願西方一</span></a>
+          <a class="entry-chip" href="third-collection-12/#entry-52" title="Second Note"><span class="ec-num">52</span><span class="ec-zh">不願西方二</span></a>
+          <a class="entry-chip" href="third-collection-12/#entry-53" title="Attendant Ping"><span class="ec-num">53</span><span class="ec-zh">平侍者</span></a>
+          <a class="entry-chip" href="third-collection-12/#entry-54" title="The Four Fruits"><span class="ec-num">54</span><span class="ec-zh">四果</span></a>
+          <a class="entry-chip" href="third-collection-12/#entry-55" title="The Sutra of the Buddha&#x27;s Final Teaching"><span class="ec-num">55</span><span class="ec-zh">遺教經</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-13/"><span class="batch-range">Entries 56–60</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-13/#entry-56" title="The Sutra of Forty-Two Sections, First Note"><span class="ec-num">56</span><span class="ec-zh">四十二章經一</span></a>
+          <a class="entry-chip" href="third-collection-13/#entry-57" title="Second Note"><span class="ec-num">57</span><span class="ec-zh">四十二章經二</span></a>
+          <a class="entry-chip" href="third-collection-13/#entry-58" title="The Five-Strip Robe"><span class="ec-num">58</span><span class="ec-zh">五條衣</span></a>
+          <a class="entry-chip" href="third-collection-13/#entry-59" title="Chan School &quot;Oral Secrets,&quot; First Note"><span class="ec-num">59</span><span class="ec-zh">禪門口訣一</span></a>
+          <a class="entry-chip" href="third-collection-13/#entry-60" title="Chan School &quot;Oral Secrets,&quot; Second Note"><span class="ec-num">60</span><span class="ec-zh">禪門口訣二</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-14/"><span class="batch-range">Entries 61–64</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-14/#entry-61" title="No Awakened Practitioners Seen Among Buddha-Reciters?"><span class="ec-num">61</span><span class="ec-zh">念佛不見悟人</span></a>
+          <a class="entry-chip" href="third-collection-14/#entry-62" title="Monks Ought to Be Filial to Their Parents"><span class="ec-num">62</span><span class="ec-zh">為僧宜孝父母</span></a>
+          <a class="entry-chip" href="third-collection-14/#entry-63" title="Thunder"><span class="ec-num">63</span><span class="ec-zh">雷霆</span></a>
+          <a class="entry-chip" href="third-collection-14/#entry-64" title="A Genuine Friend"><span class="ec-num">64</span><span class="ec-zh">真友</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-15/"><span class="batch-range">Entries 65–70</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-15/#entry-65" title="Learning Prizes Focused Concentration"><span class="ec-num">65</span><span class="ec-zh">學貴專精</span></a>
+          <a class="entry-chip" href="third-collection-15/#entry-66" title="Transmitting the Lamp"><span class="ec-num">66</span><span class="ec-zh">傳燈</span></a>
+          <a class="entry-chip" href="third-collection-15/#entry-67" title="Lord Liu, a True Bodhisattva Among Laypeople"><span class="ec-num">67</span><span class="ec-zh">劉公真菩薩人</span></a>
+          <a class="entry-chip" href="third-collection-15/#entry-68" title="Continuing the Treatise on the Origin of Teaching"><span class="ec-num">68</span><span class="ec-zh">續原教論</span></a>
+          <a class="entry-chip" href="third-collection-15/#entry-69" title="Three Worthy Women"><span class="ec-num">69</span><span class="ec-zh">三賢女</span></a>
+          <a class="entry-chip" href="third-collection-15/#entry-70" title="Masters of the Food-Offering Rite"><span class="ec-num">70</span><span class="ec-zh">施食師</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-16/"><span class="batch-range">Entries 71–74</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-16/#entry-71" title="Lecturing Dharma Masters"><span class="ec-num">71</span><span class="ec-zh">講法師</span></a>
+          <a class="entry-chip" href="third-collection-16/#entry-72" title="One Misstep, a Hundred Missteps"><span class="ec-num">72</span><span class="ec-zh">一蹉百蹉</span></a>
+          <a class="entry-chip" href="third-collection-16/#entry-73" title="Forbidding Slaughter"><span class="ec-num">73</span><span class="ec-zh">禁屠</span></a>
+          <a class="entry-chip" href="third-collection-16/#entry-74" title="Keeping Fish and Cranes as Pets"><span class="ec-num">74</span><span class="ec-zh">畜魚鶴</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-17/"><span class="batch-range">Entries 75–79</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-17/#entry-75" title="Only Today Am I Finally At Leisure"><span class="ec-num">75</span><span class="ec-zh">今日方閒</span></a>
+          <a class="entry-chip" href="third-collection-17/#entry-76" title="Entering the Womb"><span class="ec-num">76</span><span class="ec-zh">入胎</span></a>
+          <a class="entry-chip" href="third-collection-17/#entry-77" title="Protecting the Dharma"><span class="ec-num">77</span><span class="ec-zh">護法</span></a>
+          <a class="entry-chip" href="third-collection-17/#entry-78" title="Confucian Scholars Who Reject Buddhism"><span class="ec-num">78</span><span class="ec-zh">儒者闢佛</span></a>
+          <a class="entry-chip" href="third-collection-17/#entry-79" title="Laypeople Wearing Monastic Robes"><span class="ec-num">79</span><span class="ec-zh">居士搭衣</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-18/"><span class="batch-range">Entries 80–82</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-18/#entry-80" title="Past-Life Memory"><span class="ec-num">80</span><span class="ec-zh">宿命</span></a>
+          <a class="entry-chip" href="third-collection-18/#entry-81" title="Longans"><span class="ec-num">81</span><span class="ec-zh">龍眼</span></a>
+          <a class="entry-chip" href="third-collection-18/#entry-82" title="Alchemical Refining"><span class="ec-num">82</span><span class="ec-zh">燒煉</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-19/"><span class="batch-range">Entries 83–85</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-19/#entry-83" title="Nanyue&#x27;s Vow Text"><span class="ec-num">83</span><span class="ec-zh">南嶽誓願文</span></a>
+          <a class="entry-chip" href="third-collection-19/#entry-84" title="Tiantai&#x27;s Transmission of the Buddha-Mind-Seal"><span class="ec-num">84</span><span class="ec-zh">天台傳佛心印</span></a>
+          <a class="entry-chip" href="third-collection-19/#entry-85" title="The Water-and-Land Liturgy Text"><span class="ec-num">85</span><span class="ec-zh">水陸儀文</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-20/"><span class="batch-range">Entries 86–87</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-20/#entry-86" title="Teachers and Friends"><span class="ec-num">86</span><span class="ec-zh">師友</span></a>
+          <a class="entry-chip" href="third-collection-20/#entry-87" title="Pilgrimage to the Sea"><span class="ec-num">87</span><span class="ec-zh">朝海</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-21/"><span class="batch-range">Entry 88</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-21/#entry-88" title="Belittling the Western Pure Land"><span class="ec-num">88</span><span class="ec-zh">蔑視西方</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-22/"><span class="batch-range">Entries 89–90</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-22/#entry-89" title="Verse and Commentary on the Old Cases (Part One)"><span class="ec-num">89</span><span class="ec-zh">頌古拈古（一）</span></a>
+          <a class="entry-chip" href="third-collection-22/#entry-90" title="Verse and Commentary on the Old Cases (Part Two)"><span class="ec-num">90</span><span class="ec-zh">頌古拈古（二）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-23/"><span class="batch-range">Entries 91–92</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-23/#entry-91" title="On Continuing to Canonize Worthy Authors&#x27; Writings"><span class="ec-num">91</span><span class="ec-zh">續入藏諸賢著述</span></a>
+          <a class="entry-chip" href="third-collection-23/#entry-92" title="Nanyue and Tiantai on Their Own Attainment"><span class="ec-num">92</span><span class="ec-zh">南嶽天台自言</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-24/"><span class="batch-range">Entries 93–94</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-24/#entry-93" title="A Daoist&#x27;s Mockery of Buddhist Monks (Part One)"><span class="ec-num">93</span><span class="ec-zh">道譏釋（一）</span></a>
+          <a class="entry-chip" href="third-collection-24/#entry-94" title="A Daoist&#x27;s Mockery of Buddhist Monks (Part Two)"><span class="ec-num">94</span><span class="ec-zh">道譏釋（二）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-25/"><span class="batch-range">Entries 95–96</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-25/#entry-95" title="The True Benefit of Leaving Home"><span class="ec-num">95</span><span class="ec-zh">出家利益</span></a>
+          <a class="entry-chip" href="third-collection-25/#entry-96" title="Popular Vow-Making"><span class="ec-num">96</span><span class="ec-zh">世俗許願</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-26/"><span class="batch-range">Entries 97–98</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-26/#entry-97" title="The Great Filial Piety That Transcends the World"><span class="ec-num">97</span><span class="ec-zh">出世間大孝</span></a>
+          <a class="entry-chip" href="third-collection-26/#entry-98" title="On the Forged Sutra of Parents&#x27; Profound Kindness"><span class="ec-num">98</span><span class="ec-zh">偽造父母恩重經</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-27/"><span class="batch-range">Entries 99–101</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-27/#entry-99" title="Genuine Practice Does Not Depend on Ordination"><span class="ec-num">99</span><span class="ec-zh">修行不在出家</span></a>
+          <a class="entry-chip" href="third-collection-27/#entry-100" title="Calculating for Immortality"><span class="ec-num">100</span><span class="ec-zh">不朽計</span></a>
+          <a class="entry-chip" href="third-collection-27/#entry-101" title="Human Beings Should Not Eat the Flesh of Other Sentient Beings"><span class="ec-num">101</span><span class="ec-zh">人不宜食眾生肉</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-28/"><span class="batch-range">Entry 102</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-28/#entry-102" title="Three Hard Questions About the Pure Land"><span class="ec-num">102</span><span class="ec-zh">三難淨土</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-29/"><span class="batch-range">Entries 103–104</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-29/#entry-103" title="The &quot;Bean-Counting Buddha-Recitation&quot; Monk"><span class="ec-num">103</span><span class="ec-zh">念荳佛</span></a>
+          <a class="entry-chip" href="third-collection-29/#entry-104" title="The Zhen&#x27;gao"><span class="ec-num">104</span><span class="ec-zh">真誥</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-30/"><span class="batch-range">Entries 105–106</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-30/#entry-105" title="Retribution Witnessed in This Very Life (Part One)"><span class="ec-num">105</span><span class="ec-zh">現報（一）</span></a>
+          <a class="entry-chip" href="third-collection-30/#entry-106" title="Retribution Witnessed in This Very Life (Part Two)"><span class="ec-num">106</span><span class="ec-zh">現報（二）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-31/"><span class="batch-range">Entry 107</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-31/#entry-107" title="For the Buddha-Recitation Practitioner, Only One-Pointed, Undistracted Mind Matters"><span class="ec-num">107</span><span class="ec-zh">念佛人惟一心不亂</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-32/"><span class="batch-range">Entry 108</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-32/#entry-108" title="Cultivating Merit"><span class="ec-num">108</span><span class="ec-zh">修福</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-33/"><span class="batch-range">Entry 109</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-33/#entry-109" title="Trials of Testing"><span class="ec-num">109</span><span class="ec-zh">勘試</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-34/"><span class="batch-range">Entry 110</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-34/#entry-110" title="The Group of Six Monks"><span class="ec-num">110</span><span class="ec-zh">六群僧</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-35/"><span class="batch-range">Entries 111–112</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-35/#entry-111" title="Sutra-Reading Monks and the Discipline of the Training Period"><span class="ec-num">111</span><span class="ec-zh">簡藏鍊磨</span></a>
+          <a class="entry-chip" href="third-collection-35/#entry-112" title="The World as a Dream"><span class="ec-num">112</span><span class="ec-zh">世夢</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-36/"><span class="batch-range">Entry 113</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-36/#entry-113" title="Nature and Characteristics"><span class="ec-num">113</span><span class="ec-zh">性相</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-37/"><span class="batch-range">Entry 114</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-37/#entry-114" title="Dajian and Datong (Part One)"><span class="ec-num">114</span><span class="ec-zh">大鑑大通（一）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-38/"><span class="batch-range">Entry 115</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-38/#entry-115" title="Dajian and Datong (Part Two)"><span class="ec-num">115</span><span class="ec-zh">大鑑大通（二）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-39/"><span class="batch-range">Entry 116</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-39/#entry-116" title="Using Funds Donated to Feed Monks in Order to Build a Monastic Hall Instead"><span class="ec-num">116</span><span class="ec-zh">齋僧錢作僧堂</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-40/"><span class="batch-range">Entry 117</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-40/#entry-117" title="Perfect Penetration in the Śūraṅgama Sutra"><span class="ec-num">117</span><span class="ec-zh">楞嚴圓通</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-41/"><span class="batch-range">Entry 118</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-41/#entry-118" title="On Heaven (Part One)"><span class="ec-num">118</span><span class="ec-zh">天說（一）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-42/"><span class="batch-range">Entry 119</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-42/#entry-119" title="On Heaven (Part Two)"><span class="ec-num">119</span><span class="ec-zh">天說（二）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-43/"><span class="batch-range">Entry 120</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-43/#entry-120" title="On Heaven (Part Three)"><span class="ec-num">120</span><span class="ec-zh">天說（三）</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-44/"><span class="batch-range">Entry 121</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-44/#entry-121" title="Zhao Dingyu Becomes a Judge of Hell"><span class="ec-num">121</span><span class="ec-zh">趙定宇作閻王</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-45/"><span class="batch-range">Entries 122–123</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-45/#entry-122" title="Disciples Wearing Mourning Dress for a Teacher"><span class="ec-num">122</span><span class="ec-zh">弟子為師服</span></a>
+          <a class="entry-chip" href="third-collection-45/#entry-123" title="Baizhang&#x27;s Pure Rules"><span class="ec-num">123</span><span class="ec-zh">百丈清規</span></a>
+        </div>
+      </div>
+      <div class="batch">
+        <a class="batch-head" href="third-collection-46/"><span class="batch-range">Entries 124–125</span><span class="batch-goto">Read this batch →</span></a>
+        <div class="entry-chips">
+          <a class="entry-chip" href="third-collection-46/#entry-124" title="Retribution as a Boar"><span class="ec-num">124</span><span class="ec-zh">剛鬣報</span></a>
+          <a class="entry-chip" href="third-collection-46/#entry-125" title="Further Remarks on Heaven"><span class="ec-num">125</span><span class="ec-zh">天說餘</span></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="zcs-section" id="notes" style="background:#fff;">
+    <div class="zcs-wrap">
+      <div class="zcs-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>A few conventions kept consistent across all 398 entries. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>竹窗隨筆 — Zhuchuang Suibi, "Notes Beside the Bamboo Window"</b><span>The collection's own title, from Zhuhong's hermitage window at Yunqi Monastery near Hangzhou — the vantage from which these notes were written.</span></div>
+        <div class="term"><b>初筆 / 二筆 / 三筆 — First / Second / Third Collection</b><span>Zhuhong's own three-part division, kept as this site's three collections rather than merged into one continuous numbering.</span></div>
+        <div class="term"><b>淨語 — homiletic verse sections</b><span>Short devotional pieces interspersed in the source text; omitted here in favor of the discursive entries, which carry the collection's actual argument and narrative content.</span></div>
+        <div class="term"><b>Reading note — after the Huazang Study Group's commentary</b><span>This site's own original commentary on each entry, informed by later scholarship on Zhuhong and Ming-dynasty Buddhism rather than translated from any single classical sub-commentary.</span></div>
+        <div class="term"><b>慧命 — wisdom-life</b><span>A recurring term for a person's own capacity for spiritual insight and growth, distinct from physical life — invoked in the Third Collection's closing argument that killing damages the killer's wisdom-life regardless of the victim's fate.</span></div>
+        <div class="term"><b>The Huazang Study Group</b><span>華藏 — this site's own reading circle, whose original commentary supplies the reading notes throughout this collection, as it does elsewhere on this site.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
