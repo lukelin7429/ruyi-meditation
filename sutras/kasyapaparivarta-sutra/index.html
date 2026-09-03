@@ -1,0 +1,218 @@
+---
+layout: default
+title: Kāśyapaparivarta
+permalink: /sutras/kasyapaparivarta-sutra/
+excerpt: A plain-English study entrance to the Kāśyapaparivarta ("The Chapter of Kāśyapa"), 佛說摩訶衍寶嚴經, one of the oldest surviving Mahāyāna sūtras — the middle way of true observation, taught to Mahākāśyapa across nine pages, closing with a parable of five hundred confused monks and a monk the Buddha conjures to awaken them.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .asc{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .asc *{box-sizing:border-box;}
+  .asc-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .asc [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .asc [data-rv].in{opacity:1;transform:none;}
+  .asc-hero{background:linear-gradient(155deg,#2f6d5e 0%,#1c4038 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .asc-hero::after{content:"迦葉";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .asc-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .asc-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .asc-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .asc-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .asc h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:17ch;}
+  .asc-hero p{max-width:720px;color:#f3ece3;font-size:19px;line-height:1.7;}
+  .asc-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .asc-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .asc-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .asc-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .asc-intro{background:var(--cream);padding:64px 0 42px;}
+  .asc-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.asc-grid{grid-template-columns:1.15fr .85fr;}}
+  .asc-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .asc-panel h2,.asc-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .asc-panel p,.asc-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .asc-panel ul{padding-left:20px;margin:0;}
+  .asc-stats{display:grid;gap:12px;margin-top:18px;}
+  .asc-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .asc-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .asc-section{padding:70px 0;background:#fff;}
+  .asc-section-head{max-width:720px;margin-bottom:28px;}
+  .asc-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+
+  .ch-grid{display:grid;grid-template-columns:1fr;gap:14px;}
+  @media(min-width:640px){.ch-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .ch-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:20px;}
+  .ch-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .ch-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:22px;color:var(--ink);margin:6px 0 8px;line-height:1.2;}
+  .ch-desc{font-size:15px;color:var(--muted);line-height:1.55;}
+  .ch-parts{margin-top:10px;font-size:12.5px;font-weight:700;color:var(--terra-deep);letter-spacing:.03em;}
+
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:10px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid #b9d2c8;border-radius:8px;background:linear-gradient(180deg,#fff,#f5fbf8);padding:14px 16px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#7ea99a;text-decoration:none;}
+  .vol-num{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:16.5px;color:var(--ink);margin-top:5px;line-height:1.3;}
+
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .asc [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="asc">
+  <section class="asc-hero">
+    <div class="asc-hero-in">
+      <nav class="asc-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Kāśyapaparivarta</nav>
+      <div class="asc-eyebrow" data-rv>Translator unknown · Jin dynasty · 佛說摩訶衍寶嚴經</div>
+      <h1 data-rv style="transition-delay:.06s">Kāśyapaparivarta.</h1>
+      <p data-rv style="transition-delay:.12s">One of the oldest surviving Mahāyāna sūtras — quoted in Nāgārjuna's own circle, preserved in Sanskrit, Tibetan, and four separate Chinese translations, teaching a "middle way of true observation" that treats emptiness itself as something never to be seized as one more fixed view. The Buddha teaches it directly to his disciple Mahākāśyapa, moving from catalogues of bodhisattva conduct through a great chain of similes to the sūtra's philosophical core, then closes with a parable of five hundred confused monks awakened by a monk the Buddha conjures for the purpose. This collection translates the whole text across nine pages.</p>
+      <div class="asc-actions" data-rv style="transition-delay:.18s">
+        <a class="asc-btn primary" href="#parts">Browse the 9 parts →</a>
+        <a class="asc-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-intro">
+    <div class="asc-wrap asc-grid">
+      <div class="asc-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>This is a mid-length sūtra by the standards of this site — roughly 11,090 characters, close in scale to the <em>Śrīmālādevī Sūtra</em> — but it has no chapter divisions of its own the way that sūtra does. Instead it moves through long, unbroken runs of parallel "four dharmas" lists, an extended chain of similes, a dense philosophical core on the middle way, and a closing narrative parable, so this collection splits it at natural topic boundaries rather than at even intervals, grouping the long catalogues together and giving the philosophically dense middle section and the closing parable more room of their own.</p>
+        <p>No commentary on this sūtra by any premodern figure survives in any tradition. The modern scholar-monk Yin Shun (印順, 1906–2005) lectured on this very text, but as a living author's work it remains under Taiwan copyright until 2055 per this site's commentator-vetting rule, and is not used here. This collection's reading notes are Ru-Yi Meditation Center's own, offered honestly as such.</p>
+      </div>
+      <div class="asc-panel" data-rv style="transition-delay:.08s">
+        <h2>What each page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation, verified against the base text for full coverage.</li>
+          <li>Reading notes — Ru-Yi Meditation Center's own, since no ancient commentary on this sūtra survives.</li>
+          <li>Cross-references to this site's Madhyamaka corpus — the <em>Middle Treatise</em>, <em>Twelve Gate Treatise</em>, and <em>Hundred Treatise</em> — wherever this sūtra's own middle-way teaching anticipates their later, more systematic argument.</li>
+        </ul>
+        <div class="asc-stats">
+          <div class="asc-stat"><b>9</b> of 9 parts translated — complete</div>
+          <div class="asc-stat"><b>11,090+</b> Chinese characters of root text translated in full</div>
+          <div class="asc-stat"><b>T0351</b> the base text, one of four surviving Chinese translations</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="structure">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>The Sūtra's Own Structure</h2>
+        <p>The Buddha's teaching to Mahākāśyapa moves through five distinct registers in turn: catalogues of bodhisattva conduct in matched "four dharmas" lists (Parts 1–3), a great chain of similes for bodhisattva virtue (Part 4), the sūtra's philosophical core on the middle way of true observation (Parts 5–6), a warning against monastic hypocrisy built around the true nature of the mind and the fourfold typology of śramaṇa (Parts 7–8), and a closing narrative parable of confusion resolved through paradox (Part 9).</p>
+      </div>
+      <div class="ch-grid">
+        <div class="ch-card" data-rv>
+          <div class="ch-num">Parts 1–3</div>
+          <div class="ch-zh">Catalogues of the Bodhisattva Path</div>
+          <div class="ch-desc">A long run of matched "four dharmas" lists — what loses and what gains prajñāpāramitā, what a true bodhisattva does and does not do — culminating in the Thirty-Two Dharmas that earn the name "bodhisattva" outright.</div>
+          <div class="ch-parts">Parts 1–3 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.05s">
+          <div class="ch-num">Part 4</div>
+          <div class="ch-zh">The Elements, the Moon, the Lion, and the Lotus</div>
+          <div class="ch-desc">A great chain of similes for bodhisattva virtue drawn from earth, water, fire, wind, the moon, the sun, the lion, the elephant, the lotus, and the rivers running to the sea.</div>
+          <div class="ch-parts">Part 4 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.1s">
+          <div class="ch-num">Parts 5–6</div>
+          <div class="ch-zh">The Middle Way of True Observation</div>
+          <div class="ch-desc">The sūtra's philosophical core: avoiding the extremes of existence and non-existence, self and non-self; dependent origination forward and reverse; and why emptiness itself must never become one more fixed view to cling to.</div>
+          <div class="ch-parts">Parts 5–6 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.15s">
+          <div class="ch-num">Parts 7–8</div>
+          <div class="ch-zh">The True Nature of Mind, and Four Kinds of Śramaṇa</div>
+          <div class="ch-desc">A physician treating according to the actual illness; an extended investigation into what the mind actually is; and a warning against monastic hypocrisy built around four kinds of śramaṇa, only the last of which is genuine.</div>
+          <div class="ch-parts">Parts 7–8 · complete</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.2s">
+          <div class="ch-num">Part 9</div>
+          <div class="ch-zh">Five Hundred Monks, and a Monk the Buddha Conjures</div>
+          <div class="ch-desc">Verses on what it truly means to keep the precepts, the parable of five hundred confused monks brought to awakening by paradox, and the sūtra's closing praise of itself.</div>
+          <div class="ch-parts">Part 9 · complete</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="parts" style="background:var(--cream);">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>All nine parts are translated. Each links to the full bilingual text with reading notes.</p>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1</span>
+          <span class="vol-title">Losing and Gaining Prajñāpāramitā</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-02/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 2</span>
+          <span class="vol-title">Crookedness, Compliance, and the Bodhisattva's Path</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-03/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 3</span>
+          <span class="vol-title">The Thirty-Two Dharmas of a True Bodhisattva</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-04/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 4</span>
+          <span class="vol-title">The Elements, the Moon, the Lion, and the Lotus</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-05/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 5</span>
+          <span class="vol-title">The Middle Way of True Observation</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-06/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 6</span>
+          <span class="vol-title">Every Bodhisattva a True Child of the Buddha</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-07/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 7</span>
+          <span class="vol-title">The Physician, and the True Nature of Mind</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-08/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 8</span>
+          <span class="vol-title">Monks Who Flee Like Dogs, and Four Kinds of Śramaṇa</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/kasyapaparivarta-sutra/part-09/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 9</span>
+          <span class="vol-title">Five Hundred Monks, and a Monk the Buddha Conjures</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="notes" style="background:#fff;">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent across all nine parts. See the <a href="{{ '/sutras/kasyapaparivarta-sutra/translation-notes/' | relative_url }}">full translation notes</a> for the complete glossary, and also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>中道真實觀 — the middle way of true observation</b><span>This sūtra's own name for its central teaching, a clear ancestor of the "middle way" of this site's later Madhyamaka texts.</span></div>
+        <div class="term"><b>般若波羅蜜 — prajñāpāramitā</b><span>Kept as a loanword, matching this site's <em>Middle Treatise</em> and <em>Perfection of Wisdom</em> pages.</span></div>
+        <div class="term"><b>泥洹 / 般泥洹 — nirvāṇa / parinirvāṇa</b><span>An archaic transliteration common in early translations, rendered simply as "nirvāṇa" throughout.</span></div>
+        <div class="term"><b>三十七品道寶 — the thirty-seven factors of enlightenment</b><span>Matched to this site's <em>Madhyāntavibhāga</em> pages for the same standard list.</span></div>
+        <div class="term"><b>五分法身 — the fivefold dharma-body</b><span>Coined fresh for this collection: precept, concentration, wisdom, liberation, and the knowledge-and-vision of liberation.</span></div>
+        <div class="term"><b>沙門 — śramaṇa</b><span>Kept as a loanword; this sūtra's fourfold typology of śramaṇa is one of its most quoted passages.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
