@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Saṃdhinirmocana Sūtra Translation Notes"
+permalink: /sutras/samdhinirmocana-sutra/translation-notes/
+---
+
 # Saṃdhinirmocana Sūtra Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Saṃdhinirmocana Sūtra* (解深密經, Taishō T16, no. 676), translated into Chinese by Xuanzang. They exist so that the vocabulary of this sūtra stays consistent with the site's larger Yogācāra corpus, especially the *Cheng Weishi Lun* and the *Yogācārabhūmi Śāstra*.

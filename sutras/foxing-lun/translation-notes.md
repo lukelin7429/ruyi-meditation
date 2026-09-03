@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Treatise on Buddha Nature — Translation Notes"
+permalink: /sutras/foxing-lun/translation-notes/
+---
+
 # Treatise on Buddha Nature — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Foxing Lun* (佛性論, *Treatise on Buddha Nature*), Taishō T1610, attributed to Vasubandhu and translated into Chinese by Paramārtha (真諦) in the sixth century. They exist so that vocabulary stays consistent across all twenty-two parts.

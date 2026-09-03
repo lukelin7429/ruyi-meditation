@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Abhidharmakośa Translation Notes"
+permalink: /abhidharma/abhidharmakosa/translation-notes/
+---
+
 # Abhidharmakośa Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Abhidharmakośa* (阿毘達磨俱舍論, Taishō T1558, no. 1558, vol. 29). They exist so that terminology stays consistent across all thirty fascicles.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wenchao Jinghualu — Translation Notes"
+permalink: /sutras/yinguang-wenchao/translation-notes/
+---
+
 # Wenchao Jinghualu — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of selected chapters of the *Wenchao Jinghualu* (印光法師文鈔菁華錄), Li Jingtong's 1952 anthology of Master Yinguang's letters, prefaces, and occasional writings. They exist so that terminology stays consistent across the chapters translated so far, and so later chapters can inherit these renderings rather than re-coin them.

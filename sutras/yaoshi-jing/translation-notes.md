@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sūtra of the Fundamental Vows of the Medicine Buddha — Translation Notes"
+permalink: /sutras/yaoshi-jing/translation-notes/
+---
+
 # Sūtra of the Fundamental Vows of the Medicine Buddha — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Sūtra of the Fundamental Vows of Bhaiṣajyaguru, the Lapis-Lazuli-Radiance Tathāgata* (藥師琉璃光如來本願功德經, *Yaoshi Jing*), Taishō T0450, translated into Chinese by Xuanzang (玄奘) in 650 CE. They exist so that vocabulary stays consistent across all five parts, and so that terminology without precedent elsewhere on this site is recorded for any later text to inherit rather than re-coin.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Śrīmālādevī Siṃhanāda Sūtra — Translation Notes"
+permalink: /sutras/srimaladevi-sutra/translation-notes/
+---
+
 # Śrīmālādevī Siṃhanāda Sūtra — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Śrīmālādevī Siṃhanāda Sūtra* (勝鬘師子吼一乘大方便方廣經, "The Sūtra of Queen Śrīmālā's Lion's Roar on the One Vehicle, Great Skillful Means, and the Vaipulya"), Taishō T0353, translated into Chinese by Guṇabhadra (求那跋陀羅) of the Liu Song dynasty in 436 CE. They exist so that vocabulary stays consistent across all ten parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Śūraṅgama Sūtra Jiǎngyì (Master Yuanying's Commentary) Translation Notes"
+permalink: /sutras/surangama-sutra-jiangyi/translation-notes/
+---
+
 # Śūraṅgama Sūtra Jiǎngyì (Master Yuanying's Commentary) Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of Master Yuanying's (圓瑛法師) *Dà Fódǐng Shǒu Léngyán Jīng Jiǎngyì* (大佛頂首楞嚴經講義, "Lecture Notes on the Śūraṅgama Sūtra"). See the companion notes at [`sutras/surangama-sutra/translation-notes.md`](../surangama-sutra/translation-notes.md) for terminology shared with the bare-sūtra translation project.

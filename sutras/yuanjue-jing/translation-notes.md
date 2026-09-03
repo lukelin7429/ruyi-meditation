@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sūtra of Perfect Enlightenment — Translation Notes"
+permalink: /sutras/yuanjue-jing/translation-notes/
+---
+
 # Sūtra of Perfect Enlightenment — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Sūtra of Perfect Enlightenment* (大方廣圓覺修多羅了義經, *Yuanjue Jing*), Taishō T0842, translated into Chinese by Buddhatrāta at the White Horse Monastery, traditionally dated to around 693 CE. They exist so that vocabulary stays consistent across all twelve parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

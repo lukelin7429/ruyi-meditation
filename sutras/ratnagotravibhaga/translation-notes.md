@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ratnagotravibhāga — Translation Notes"
+permalink: /sutras/ratnagotravibhaga/translation-notes/
+---
+
 # Ratnagotravibhāga — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Ratnagotravibhāga* ("An Analysis of the Jewel Lineage"), translated into Chinese under the title *Jiujing Yisheng Baoxing Lun* (究竟一乘寶性論, "The Treatise on the Ultimate One Vehicle and the Jewel Nature"), Taishō T1611, translated by Ratnamati (勒那摩提) of the Northern Wei dynasty in 511 CE. They exist so that vocabulary stays consistent across every part of this large treatise, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheng Weishi Lun Translation Notes"
+permalink: /sutras/cheng-weishi-lun/translation-notes/
+---
+
 # Cheng Weishi Lun Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Cheng Weishi Lun* (成唯識論, Taishō T31, no. 1585). They exist so that terminology stays consistent across all ten fascicles, since this treatise builds a technical vocabulary in fascicle 1 that it relies on for the rest of the work.

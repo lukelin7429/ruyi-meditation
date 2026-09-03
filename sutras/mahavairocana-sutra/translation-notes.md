@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mahāvairocana Sūtra — Translation Notes"
+permalink: /sutras/mahavairocana-sutra/translation-notes/
+---
+
 # Mahāvairocana Sūtra — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Mahāvairocana Sūtra* (大毘盧遮那成佛神變加持經, "Sūtra of Mahāvairocana's Attainment of Buddhahood, Spiritual Transformation, and Empowerment"), Taishō T0848, translated into Chinese by Śubhakarasiṃha (善無畏) and his scribe Yixing (一行) in 724–725 CE. They exist so that vocabulary stays consistent across all eleven parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

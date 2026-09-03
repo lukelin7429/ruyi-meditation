@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Abhidharmasamuccaya Translation Notes"
+permalink: /sutras/abhidharmasamuccaya/translation-notes/
+---
+
 # Abhidharmasamuccaya Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Abhidharmasamuccaya* (大乘阿毘達磨集論, Taishō T1605), composed by Asaṅga and translated into Chinese by Xuánzàng. They exist so that vocabulary stays consistent across all fourteen-plus parts, and matches the site's larger Yogācāra corpus — especially the *Cheng Weishi Lun* (which shares the same fifty-one-factor system of mind) and the *Mahāyānasaṃgraha* (which shares the same author and translator).

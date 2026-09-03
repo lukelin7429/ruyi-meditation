@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Śūraṅgama Sūtra Translation Notes"
+permalink: /sutras/surangama-sutra/translation-notes/
+---
+
 # Śūraṅgama Sūtra Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經, Taishō T19, no. 945). They exist so that terminology stays consistent across all ten fascicles, and so that they stay consistent with the companion project translating Master Yuanying's (圓瑛法師) commentary — see [`sutras/surangama-sutra-jiangyi/translation-notes.md`](../surangama-sutra-jiangyi/translation-notes.md).

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mahaprajnaparamita Sastra Translation Notes"
+permalink: /sutras/mahaprajnaparamita-sastra/translation-notes/
+---
+
 # Mahaprajnaparamita Sastra Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the Mahaprajnaparamita Sastra.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Xiuxi Zhiguan Zuochan Fayao Jiangshu (Master Baojing's Commentary) Translation Notes"
+permalink: /sutras/xiao-zhiguan-jiangyi/translation-notes/
+---
+
 # Xiuxi Zhiguan Zuochan Fayao Jiangshu (Master Baojing's Commentary) Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of Master Baojing's (寶靜法師) *Xiūxí Zhǐguān Zuòchán Fǎyào Jiǎngshù* (修習止觀坐禪法要講述, "A Lecture Commentary on the Essentials of Practicing Calming and Insight for Sitting Meditation"). This is a vernacular commentary on Zhiyi's own short meditation manual, the *Tóngméng Zhǐguān* (童蒙止觀, "Calming and Insight for Beginners"), also known as the *Xiǎo Zhǐguān* (小止觀, "Lesser Calming and Insight"). See the companion notes at [`sutras/shi-chan-boluomi/translation-notes.md`](../shi-chan-boluomi/translation-notes.md) for the site's general approach to Zhiyi's meditation writings, and [`sutras/surangama-sutra-jiangyi/translation-notes.md`](../surangama-sutra-jiangyi/translation-notes.md) for the closest structural model — a modern master's clause-by-clause vernacular commentary on an earlier text, with no prior English translation of the commentary itself.

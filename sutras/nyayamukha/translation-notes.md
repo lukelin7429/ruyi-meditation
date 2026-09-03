@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nyāyamukha Translation Notes"
+permalink: /sutras/nyayamukha/translation-notes/
+---
+
 # Nyāyamukha Translation Notes
 
 These notes record terminology decisions for the Ru-Yi English translation of the *Nyāyamukha* (因明正理門論, *Yin Ming Zheng Li Men Lun*, "The Gate of Logic," Taishō T32, no. 1628), composed by Dignāga (陳那, styled 大域龍 in the Chinese sources) and translated into Chinese by Xuanzang.

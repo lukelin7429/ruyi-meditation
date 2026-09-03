@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Viṃśatikā Translation Notes"
+permalink: /sutras/vimsatika/translation-notes/
+---
+
 # Viṃśatikā Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Viṃśatikā* (唯識二十論, Taishō T31, no. 1590), composed by Vasubandhu and translated into Chinese by Xuánzàng. They exist so that the vocabulary of this treatise stays consistent with the site's larger Yogācāra corpus, especially the *Cheng Weishi Lun* and the *Mahāyānasaṃgraha*.

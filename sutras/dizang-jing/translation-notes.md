@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sūtra of Kṣitigarbha's Fundamental Vows — Translation Notes"
+permalink: /sutras/dizang-jing/translation-notes/
+---
+
 # Sūtra of Kṣitigarbha's Fundamental Vows — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Sūtra of Kṣitigarbha Bodhisattva's Fundamental Vows* (地藏菩薩本願經, *Dizang Jing*), Taishō T0412, translated into Chinese by Śikṣānanda of Khotan in the early 8th century. They exist so that vocabulary stays consistent across all six parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

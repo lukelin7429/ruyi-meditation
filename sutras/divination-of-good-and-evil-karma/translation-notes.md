@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sūtra on the Divination of the Effects of Good and Evil Karma — Translation Notes"
+permalink: /sutras/divination-of-good-and-evil-karma/translation-notes/
+---
+
 # Sūtra on the Divination of the Effects of Good and Evil Karma — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Sūtra on the Divination of the Effects of Good and Evil Karma* (占察善惡業報經, *Zhancha Jing*), Taishō T0839, translated into Chinese by Bodhidīpa (菩提燈) in the Sui dynasty. They exist so that vocabulary stays consistent across all six parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kāśyapaparivarta — Translation Notes"
+permalink: /sutras/kasyapaparivarta-sutra/translation-notes/
+---
+
 # Kāśyapaparivarta — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the Kāśyapaparivarta ("The Chapter of Kāśyapa"), translated into Chinese under the title *Fo Shuo Mohe Yan Baoyan Jing* (佛說摩訶衍寶嚴經, "The Sūtra of the Mahāyāna Jewel-Heap, Spoken by the Buddha"), also called *Da Jiaye Pin* (大迦葉品, "The Great Chapter of Kāśyapa"), Taishō T0351, an anonymous translation dated to the Jin dynasty. They exist so that vocabulary stays consistent across all nine parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

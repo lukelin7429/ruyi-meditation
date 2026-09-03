@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mohe Zhiguan Translation Notes"
+permalink: /sutras/mohe-zhiguan/translation-notes/
+---
+
 # Mohe Zhiguan Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Mohe Zhiguan* (摩訶止觀, "The Great Calming and Contemplation," Taishō T46, no. 1911). They exist so that terminology stays consistent across all ten fascicles, the way the running glossary already works for [`sutras/shi-chan-boluomi/translation-notes.md`](../shi-chan-boluomi/translation-notes.md) and this site's other translation projects.

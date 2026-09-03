@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Illuminating the Sacred Teaching — Translation Notes"
+permalink: /sutras/xianyang-shengjiao-lun/translation-notes/
+---
+
 # Illuminating the Sacred Teaching — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Xianyang shengjiao lun* (顯揚聖教論, Taishō T1602), composed by Asaṅga and translated into Chinese by Xuánzàng in twenty fascicles. They exist so that vocabulary stays consistent across all twenty fascicle pages, and matches the site's larger Yogācāra corpus — above all the *Treatise on the Stages of Yogic Practice* (瑜伽師地論), of which this treatise is Asaṅga's own digest, and the *Cheng Weishi Lun*, *Mahāyānasaṃgraha*, and *Abhidharmasamuccaya*.

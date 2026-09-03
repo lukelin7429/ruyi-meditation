@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mahāyānasaṃgraha Translation Notes"
+permalink: /sutras/mahayanasamgraha/translation-notes/
+---
+
 # Mahāyānasaṃgraha Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Mahāyānasaṃgraha* (攝大乘論, Taishō T31, no. 1594), composed by Asaṅga and translated into Chinese by Xuánzàng. They exist so that the vocabulary of this treatise stays consistent with the site's larger Yogācāra corpus, especially the *Cheng Weishi Lun* and the *Saṃdhinirmocana Sūtra*.

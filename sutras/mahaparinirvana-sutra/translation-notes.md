@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mahāparinirvāṇa Sūtra — Translation Notes"
+permalink: /sutras/mahaparinirvana-sutra/translation-notes/
+---
+
 # Mahāparinirvāṇa Sūtra — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Mahāparinirvāṇa Sūtra*, Northern Edition (大般涅槃經, Taishō T0374), translated into Chinese by Dharmakṣema (曇無讖) at the court of the Northern Liang in 421 CE. They exist so that vocabulary and citation practice stay consistent across all forty parts.

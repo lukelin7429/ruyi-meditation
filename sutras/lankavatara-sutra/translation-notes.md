@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Laṅkāvatāra Sūtra — Translation Notes"
+permalink: /sutras/lankavatara-sutra/translation-notes/
+---
+
 # Laṅkāvatāra Sūtra — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), Taishō T0670, translated into Chinese by Guṇabhadra (求那跋陀羅) in 443 CE. They exist so that vocabulary stays consistent across all fifty parts, and so that this sūtra's own terminology — much of it matched to the *Dasheng Qixin Lun* collection's precedent, some of it coined fresh here — is recorded for any later text in the same doctrinal lineage to inherit.

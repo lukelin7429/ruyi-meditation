@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Amituo Yaojie — Translation Notes"
+permalink: /sutras/amituo-yaojie/translation-notes/
+---
+
 # Amituo Yaojie — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of Ouyi Zhixu's *Amituo Yaojie* (阿彌陀經要解, Taishō T37, no. 1762), his 1647 commentary on the Amitābha Sūtra. They exist so that this commentary's terminology stays consistent across all ten parts, and so later translation projects on this site can inherit these renderings rather than re-coin them.

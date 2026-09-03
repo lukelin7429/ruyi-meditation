@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Treatise on the Sūtra of the Ten Grounds — Translation Notes"
+permalink: /sutras/dasabhumika-shastra/translation-notes/
+---
+
 # Treatise on the Sūtra of the Ten Grounds — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Daśabhūmikasūtra-śāstra* (十地經論, *Treatise on the Sūtra of the Ten Grounds*), Taishō T1522, Vasubandhu's commentary on the "Ten Grounds" chapter of the Avataṃsaka Sūtra, translated into Chinese by Bodhiruci and collaborators in the Northern Wei. They exist so that vocabulary — ten ground-names, a recurring fourfold-fruit structure, and a great deal of enumerated Yogācāra and Abhidharma terminology — stays consistent across all fifty-two parts, and so that this treatise's own vocabulary is recorded for any later Huayan-line text on this site to inherit rather than re-coin.

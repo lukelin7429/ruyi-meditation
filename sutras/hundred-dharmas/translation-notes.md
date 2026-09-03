@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Hundred Dharmas — Translation Notes"
+permalink: /sutras/hundred-dharmas/translation-notes/
+---
+
 # The Hundred Dharmas — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Hundred Dharmas* collection: the *Mahāyāna Treatise on the Hundred Dharmas That Clarify the Gate to the Teaching* (大乘百法明門論, Taishō T1614), the *Mahāyāna Five Aggregates Treatise* (大乘五蘊論, Taishō T1612), and the *Mahāyāna Extended Five Aggregates Treatise* (大乘廣五蘊論, Taishō T1613). They exist so that vocabulary stays consistent across all three parts, and matches the site's larger Yogācāra corpus — above all *Illuminating the Sacred Teaching* (顯揚聖教論), whose own translation notes supplied most of this collection's terminology before a single sentence of these three texts was translated.

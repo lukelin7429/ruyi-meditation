@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nyāyapraveśa Translation Notes"
+permalink: /sutras/nyayapravesa/translation-notes/
+---
+
 # Nyāyapraveśa Translation Notes
 
 These notes record terminology decisions for the Ru-Yi English translation of the *Nyāyapraveśa* (因明入正理論, *Yin Ming Ru Zheng Li Lun*, Taishō T32, no. 1630), composed by Śaṅkarasvāmin (商羯羅主) and translated into Chinese by Xuanzang. They exist so that the vocabulary of this new field — hetuvidyā, Buddhist logic — stays consistent across the whole page, since the treatise builds its technical apparatus in a tight, cumulative sequence and relies on it holding steady from one section to the next.

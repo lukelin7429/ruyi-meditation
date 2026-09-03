@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Madhyamakāvatāra Reading Notes — Terminology and Method Notes"
+permalink: /sutras/madhyamakavatara/translation-notes/
+---
+
 # Madhyamakāvatāra Reading Notes — Terminology and Method Notes
 
 These notes record recurring terminology and method decisions for Ru-Yi's reading-notes collection on Candrakīrti's *Madhyamakāvatāra* (入中論, "Entering the Middle Way"). They exist so that wording stays consistent across all eleven entries, which were written and published one at a time rather than all at once.

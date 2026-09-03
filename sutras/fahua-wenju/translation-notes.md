@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fahua Wenju Translation Notes"
+permalink: /sutras/fahua-wenju/translation-notes/
+---
+
 # Fahua Wenju Translation Notes
 
 Zhiyi's 《妙法蓮華經文句》(Taishō T1718) is his line-by-line commentary on the *Lotus Sūtra*, delivered as oral lectures and recorded by his disciple Guanding. Terminology in this project is kept consistent with this site's three other Zhiyi/Tiantai translations — the *Mohe Zhiguan*, the *Shi Chan Boluomi Cidi Famen*, and the *Xiao Zhiguan Jiangyi* — and with the *Jiaoguan Gangzong*, which quotes the *Wenju* itself as an authority. Sūtra-quote terminology (chapter titles, proper names, recurring phrases) follows this site's own *Lotus Sūtra* translation wherever the *Wenju* cites it.

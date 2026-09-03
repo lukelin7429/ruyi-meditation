@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Madhyāntavibhāga Translation Notes"
+permalink: /sutras/madhyantavibhaga/translation-notes/
+---
+
 # Madhyāntavibhāga Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Madhyāntavibhāga* (辯中邊論, Taishō T31, no. 1600), verses attributed to Maitreya with prose commentary by Vasubandhu, translated into Chinese by Xuánzàng. They exist so that the vocabulary of this treatise stays consistent with the site's larger Yogācāra corpus, especially the *Cheng Weishi Lun*, the *Mahāyānasaṃgraha*, and the *Viṃśatikā*.

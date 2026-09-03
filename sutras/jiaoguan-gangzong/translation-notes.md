@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jiaoguan Gangzong — Translation Notes"
+permalink: /sutras/jiaoguan-gangzong/translation-notes/
+---
+
 # Jiaoguan Gangzong — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of Ouyi Zhixu's *Jiaoguan Gangzong* (教觀綱宗, Taishō T46, no. 1939), with reading notes drawn throughout from Zhixu's own commentary, the *Jiaoguan Gangzong Shiyi* (教觀綱宗釋義, Xuzangjing X57, no. 974). They exist so that this treatise's dense classification vocabulary — much of it the very scaffolding the rest of Tiantai doctrine hangs on — stays consistent across all five parts, and so that later Tiantai texts on this site can inherit these renderings rather than re-coin them.

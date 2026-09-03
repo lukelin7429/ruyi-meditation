@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fahua Xuanyi Translation Notes"
+permalink: /sutras/fahua-xuanyi/translation-notes/
+---
+
 # Fahua Xuanyi Translation Notes
 
 Zhiyi's 《妙法蓮華經玄義》(Taishō T1716) is his own account of the *Lotus Sūtra*'s doctrinal architecture, delivered as oral lectures and recorded by his disciple Guanding. Together with the *Fahua Wenju* (line-by-line commentary on the sūtra's words) and the *Mohe Zhiguan* (a system of practice built from the sūtra's principles), it forms the "Tiantai Three Great Works on the Lotus." Terminology in this project is kept consistent with this site's other Zhiyi/Tiantai translations — the *Mohe Zhiguan*, the *Shi Chan Boluomi Cidi Famen*, the *Xiao Zhiguan Jiangyi*, and especially the *Fahua Wenju*, its direct sibling — and with the *Jiaoguan Gangzong*, which cites the *Fahua Xuanyi* itself repeatedly as an authority. Sūtra-quote terminology follows this site's own *Lotus Sūtra* translation wherever this text cites it.

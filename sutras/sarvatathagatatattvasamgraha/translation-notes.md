@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sarvatathāgatatattvasaṃgraha — Translation Notes"
+permalink: /sutras/sarvatathagatatattvasamgraha/translation-notes/
+---
+
 # Sarvatathāgatatattvasaṃgraha — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Sarvatathāgatatattvasaṃgraha* (金剛頂一切如來真實攝大乘現證大教王經, "Sūtra of the Vast King of Teachings, the Direct Realization of the Great Vehicle That Gathers In the Reality of Every Tathāgata"), Taishō T0865, translated into Chinese by Amoghavajra (不空) sometime after his return from Sri Lanka in 746 CE. They exist so that vocabulary stays consistent across all three parts, and so that terminology without precedent anywhere else on this site is recorded for any later text to inherit rather than re-coin.

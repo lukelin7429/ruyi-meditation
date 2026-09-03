@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Buddhacarita — Translation Notes"
+permalink: /sutras/buddhacarita/translation-notes/
+---
+
 # Buddhacarita — Translation Notes
 
 These notes record the translation decisions made for the Ru-Yi English translation of the *Buddhacarita* (佛所行讚), Taishō T0192, Aśvaghoṣa's Sanskrit court epic on the life of the Buddha, translated into Chinese by Dharmakṣema (曇無讖) in the early 5th century for the Northern Liang court. They exist so that vocabulary and convention stay consistent across all forty-three parts, and so that the reasoning behind this collection's departures from precedent (most notably its approach to reading notes) is recorded for later readers.

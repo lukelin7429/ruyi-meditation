@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shi Chan Boluomi Cidi Famen Translation Notes"
+permalink: /sutras/shi-chan-boluomi/translation-notes/
+---
+
 # Shi Chan Boluomi Cidi Famen Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Shi Chan Boluomi Cidi Famen* (釋禪波羅蜜次第法門, "Explaining the Sequential Dharma-Gates of Dhyāna-Pāramitā," Taishō T46, no. 1916). They exist so that terminology stays consistent across all ten fascicles, the way the running glossary already works for [`sutras/cheng-weishi-lun/translation-notes.md`](../cheng-weishi-lun/translation-notes.md) and the two Śūraṅgama projects.

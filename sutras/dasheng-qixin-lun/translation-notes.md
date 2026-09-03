@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Awakening of Faith in the Mahāyāna — Translation Notes"
+permalink: /sutras/dasheng-qixin-lun/translation-notes/
+---
+
 # Awakening of Faith in the Mahāyāna — Translation Notes
 
 These notes record recurring translation decisions for the Ru-Yi English translation of the *Dasheng Qixin Lun* (大乘起信論, *Awakening of Faith in the Mahāyāna*), Taishō T1666, attributed to Aśvaghoṣa and translated into Chinese by Paramārtha (真諦) in 553. They exist so that vocabulary stays consistent across all ten parts, and so that this treatise's own tathāgatagarbha-line terminology — much of it without precedent anywhere else on this site — is recorded for any later tathāgatagarbha-line text (the *Laṅkāvatāra*, the *Ratnagotravibhāga*, and so on) to inherit rather than re-coin.
