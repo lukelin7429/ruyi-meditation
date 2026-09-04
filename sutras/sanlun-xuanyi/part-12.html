@@ -1,0 +1,364 @@
+---
+layout: default
+title: "Sanlun Xuanyi, Part 12 — Why Three Treatises, Not Four"
+permalink: /sutras/sanlun-xuanyi/part-12/
+excerpt: Ru-Yi's bilingual translation continues Jizang's Sanlun Xuanyi (三論玄義) — three senses of refuting and expounding, why even fellow Buddhists get refuted, the eight reasons four treatises are still called three, four kinds of provisional truth spanning the whole canon, and Āryadeva's public debates against Nāgārjuna's hidden brush.
+---
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 16px;color:var(--ink);max-width:17ch;}
+  .fascicle-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:26px 0 10px;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;}
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:18px;line-height:1.9;margin:0;}
+  .translation p{color:var(--ink);font-size:16.5px;line-height:1.75;margin:0;}
+  .source p+p,.translation p+p{margin-top:12px;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+  .note-box.second{border-left-color:var(--jade);}
+  .ending-mark{text-align:center;color:var(--terra);letter-spacing:.8em;margin:28px 0 0;font-size:19px;}
+  .fascicle-pagenav{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-top:8px;padding-top:30px;border-top:1px solid var(--line);flex-wrap:wrap;}
+  .fascicle-pagenav a{text-decoration:none;color:var(--ink);}
+  .fascicle-pagenav .pn-label{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra);font-weight:800;margin-bottom:5px;}
+  .fascicle-pagenav .pn-title{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);}
+  .fascicle-pagenav .pn-prev{text-align:left;}
+  .fascicle-pagenav .pn-next{text-align:right;}
+  .fascicle-pagenav .pn-index{text-align:center;font-size:14px;color:var(--muted);align-self:center;}
+  .fascicle-pagenav .pn-index a{color:var(--terra-deep);border-bottom:1px solid rgba(184,67,28,.35);}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › <a href="{{ '/sutras/sanlun-xuanyi/' | relative_url }}">Sanlun Xuanyi</a> › Why Three Treatises, Not Four</nav>
+      <div class="fascicle-kicker">Part 12 of 14 · 三論玄義 · Complete</div>
+      <h1>Why Three Treatises, Not Four</h1>
+      <p>This part works through the machinery connecting the four treatises to one another: three distinct senses in which a treatise can be said to "refute" and "expound," the reasoning behind refuting even fellow Buddhists when their positions happen to coincide with the outsiders', and — at the heart of the part — eight separate reasons why four works are still called "the three treatises." It closes with the four kinds of provisional truth spanning the whole canon, and a vivid contrast between Āryadeva's public debates and Nāgārjuna's hidden brush.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T45, no. 1852, 三論玄義</span>
+        <span class="fascicle-pill">Jizang <span class="zh">(吉藏, 549–623)</span></span>
+        <span class="fascicle-pill">Reading notes: Ru-Yi, original</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <section class="fascicle-section">
+        <h2>1. Three Senses of "Refute" and "Expound"</h2>
+        <p>Jizang opens by distinguishing three distinct things that "refuting" and "expounding" can mean across this literature — breaking an opponent's sickness, expounding the Buddha's own teaching so that heresy collapses of itself, and a treatise-author's transmitting the Buddha's own act of refutation rather than asserting anything new on his own authority.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>次明四論破申不同門。所言破申者。凡有三義。一者破外人迷教之病故名為破。申佛二諦教門故名為申。二者申佛正教而邪迷自破。故名為申破耳。三者論主申明佛破故名申破。諸大乘經破眾生虛妄以顯一道。但末代鈍根不了如來破病顯道之意。四依菩薩還申明佛破故名申破。非是經中自立義。論中自明破也。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Next, making clear the different ways the four treatises refute and expound. As for what is meant by "refuting" and "expounding," there are, in all, three senses. First, breaking the outsiders' sickness of confusion about the teaching is called refuting; expounding the Buddha's own teaching-gate of the two truths is called expounding. Second, expounding the Buddha's own correct teaching in such a way that heresy and confusion collapse of themselves — this too is called "expounding-as-refuting." Third, the treatise-author expounding and setting forth the Buddha's own act of refutation — this too is called "expounding-refutation": the various Mahāyāna sūtras refute the empty falsehood of sentient beings in order to reveal the one way, but those of dull faculty in the final age fail to grasp the Tathāgata's own intent in refuting sickness to reveal the way — and so the bodhisattvas of the four kinds of reliance, in turn, expound and set forth this very refutation of the Buddha's own, which is why it is called "expounding-refutation." It is not that the treatise establishes some new doctrine of its own beyond what is in the sūtra; the treatise simply makes clear, in its own words, a refutation that was already the Buddha's.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>問何以知龍樹申佛破耶。答最後邪見品云。瞿曇大聖主。憐愍說是法。悉斷一切見。我今稽首禮。故知論主申明佛破。非自有破也。</p>
+            </div>
+            <div class="translation">
+              <p><strong>Question:</strong> How is it known that Nāgārjuna is expounding the Buddha's own refutation, rather than a refutation of his own devising? <strong>Answer:</strong> The final chapter, on wrong views, says: "Gautama, great and sagely lord, out of compassion taught this Dharma, cutting off every view entirely — I now bow my head in reverence before him." From this it is known that the treatise-author is expounding and setting forth the Buddha's own refutation, and does not possess any refutation of his own apart from this.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The closing verse cited here is the final verse of the <em><a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}">Mūlamadhyamakakārikā</a></em> itself, and Jizang's use of it as proof text is significant: Nāgārjuna's own last word in his own treatise is an act of homage attributing the refutation just completed entirely to the Buddha, not to himself — which is exactly the humility this treatise has been building toward since the "expounding-refutation" category was first named a few lines above. A treatise-author, on this account, never actually refutes anything on his own authority; he only ever makes visible a refutation the Buddha had already performed.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. Why the Treatise-Author Only Refutes, Never Establishes</h2>
+        <p>An obvious asymmetry follows: the sūtras themselves both establish positions and refute others, so why do the three treatises seem only ever to refute, never simply to establish a position outright? Jizang answers that in a degenerate age, confusion attaches itself equally to a sūtra's acts of establishing and of refuting alike — so both, in the end, require the same corrective treatment.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>問經中有立有破。論主何故一向破耶。答末世鈍根迷佛立破。並皆成病。是以論主須並破之。然後具得申如來立破。問論主申佛破得稱論主破。論主申佛立應名論主立耶。答亦得爾也。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><strong>Question:</strong> The sūtras contain both establishing and refuting — why does the treatise-author refute exclusively, in every case? <strong>Answer:</strong> Those of dull faculty in the final age are confused about both the Buddha's own acts of establishing and of refuting alike, and both become, for them, a sickness in equal measure. This is why the treatise-author must refute both together — and only then is he able to fully set forth the Tathāgata's own acts of establishing and refuting as they truly are. <strong>Question:</strong> Since the treatise-author's expounding the Buddha's own refutation may be called the treatise-author's own refutation, should the treatise-author's expounding the Buddha's own establishing likewise be named the treatise-author's own establishing? <strong>Answer:</strong> Yes, this too may properly be said.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. How the Four Treatises Differ in Refuting and Expounding</h2>
+        <p>Jizang now compares all four treatises' patterns side by side: the three treatises refute and expound broadly across every confusion, while the <em>Treatise on the Great Perfection of Wisdom</em> refutes and expounds specifically with respect to prajñā. Within the three treatises themselves, a further split emerges — the <em>Hundred Treatise</em> refutes outsiders primarily and fellow Buddhists only incidentally, while the other two run the opposite way.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>問四論破申云何同異。答三論通破眾迷。通申眾教。智度論別破般若之迷。別申般若之教。就三論中自開二類。百論正破外傍破內。餘二論正破內傍破外。所以三論破內外者。一切眾病不出二種。一外道邪畫起迷。二內人稟教失旨。若破斯二則眾病皆除。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><strong>Question:</strong> In what way do the four treatises' patterns of refuting and expounding agree and differ? <strong>Answer:</strong> The three treatises refute the whole range of confusion broadly, and expound the whole range of teaching broadly. The <em>Treatise on the Great Perfection of Wisdom</em> refutes specifically the confusion regarding prajñā, and expounds specifically the teaching of prajñā. Within the three treatises themselves, two categories may further be opened up: the <em>Hundred Treatise</em> primarily refutes the outsiders and, as a secondary matter, refutes fellow Buddhists as well; the remaining two treatises primarily refute fellow Buddhists and, as a secondary matter, refute the outsiders as well. The reason all three treatises refute both insiders and outsiders is this: every one of the many sicknesses reduces, without exception, to just two kinds — first, the outsiders' own erroneous fabrications, which give rise to confusion; second, insiders who, in receiving the teaching, lose sight of its true purport. If both of these two are refuted, every one of the many sicknesses is thereby entirely removed.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>問百論破外可有明文。何處有破內文耶。答破塵品中。外人以內義為證。論主即破其所引。具如彼明。</p>
+            </div>
+            <div class="translation">
+              <p><strong>Question:</strong> It is clear enough that the <a href="{{ '/sutras/hundred-treatise/' | relative_url }}"><em>Hundred Treatise</em></a> refutes the outsiders — but where, exactly, does it also contain a refutation of fellow Buddhists? <strong>Answer:</strong> In the chapter refuting the sense-object, an outsider cites an insider's own doctrine as supporting proof, and the treatise-author thereupon refutes this very citation as well — the matter is set out there in full detail.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This precisely characterizes the actual structure of the <a href="{{ '/sutras/hundred-treatise/' | relative_url }}"><em>Hundred Treatise</em></a> as already presented on this site: ten chapters overwhelmingly devoted to dismantling Sāṃkhya, Vaiśeṣika, and Nirgrantha positions in open debate, with only occasional moments — exactly like the one identified here in the chapter on the sense-object — where a Buddhist citation offered in the outsider's own defense gets swept up in the same refutation.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. Why Even Fellow Buddhists Get Refuted: Three Reasons</h2>
+        <p>Jizang gives three distinct reasons a treatise devoted mainly to refuting outsiders would ever need to refute fellow Buddhists as well — because a failing outsider argument sometimes borrows Buddhist support, because some Buddhist masters hold positions genuinely identical to the outsiders', and because, in a striking reversal, some outsiders independently arrive at positions identical to particular Buddhist schools.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>問何故得破內耶。答有三種義。一者如向釋之。外人立義不成。引內為證。故須破內。二者內人立義與外道同。如立虛空常遍。乃至立涅槃身智俱無。並與外道同。故須破內。三者外道立義與內人同。故須破之。如破因中無果品說。外道立於三相前後相生。與譬喻部同。立三相展轉一時生。與薩婆多部同。故須破內。故肇法師云。邪辨逼真殆亂正道。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><strong>Question:</strong> On what grounds is it legitimate to refute fellow Buddhists at all? <strong>Answer:</strong> There are three such grounds. First, as already explained above: when an outsider's own position fails to hold and he cites an insider's doctrine as proof, the insider's doctrine must then be refuted along with it. Second, some Buddhist masters hold positions genuinely identical to the outsiders' — as when they posit that space is eternal and pervades everywhere, or even posit that in nirvāṇa both body and knowledge are entirely absent; such positions are identical to the outsiders' own, and so must be refuted as well. Third, an outsider's own position may happen to be identical to an insider's — as in the chapter refuting the absence of the effect within the cause, where outsiders who posit that the three marks of conditioned existence arise one after another in sequence hold the same view as the Dārṣṭāntika school, while outsiders who posit that the three marks all arise simultaneously and interdependently hold the same view as the Sarvāstivāda — and in both cases the corresponding Buddhist school must be refuted as well. This is why Master Sengzhao said: "Heretical eloquence presses so close upon the truth that it very nearly throws the correct way into utter confusion."</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The chapter "refuting the absence of the effect within the cause" is Chapter Twelve of the <a href="{{ '/sutras/hundred-treatise/' | relative_url }}"><em>Hundred Treatise</em></a>, already translated on this site, where this exact convergence between outsider and Sarvāstivādin/Dārṣṭāntika positions on causation plays out. Sengzhao's warning — that heretical eloquence resembles the truth closely enough to endanger it — is the same concern that runs underneath this entire treatise's insistence, since <a href="{{ '/sutras/sanlun-xuanyi/part-01/' | relative_url }}">Part 1</a>, on tracing every error to its precise root rather than dismissing it by association.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. Why the Mūlamadhyamakakārikā Refutes Outsiders as a Side Matter</h2>
+        <p>A parallel question is asked from the other direction: why does the <em>Mūlamadhyamakakārikā</em>, whose primary target is confusion among fellow Buddhists, bother refuting outsiders at all, even incidentally? Jizang gives four reasons, the last of which states the treatise's deepest self-understanding: the reality of the middle is neither internal nor external, neither correct nor heretical, and refuting the outside is part of showing this.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>問中論何故傍破外耶。答凡有四義。一者欲顯中觀無法不窮。無言不說。若一法不窮。一言不盡。則戲論不滅。中觀不生。是故內外並皆破之。二者內人立義與外道同。故須破外。三者外道立義與內人同。故須破外。四者欲顯中實非內非外不正不邪。故須破外。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><strong>Question:</strong> Why does the <em><a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}">Mūlamadhyamakakārikā</a></em> refute outsiders as a secondary matter? <strong>Answer:</strong> There are, in all, four reasons. First, it is in order to show that correct contemplation of the middle leaves no dharma unexamined and no assertion unspoken — for if a single dharma were left unexamined, or a single assertion left unspoken, then conceptual proliferation would not be extinguished, and correct contemplation of the middle would not arise; this is why both insiders and outsiders alike are refuted together. Second, some insiders hold positions identical to the outsiders', and so the outsiders too must be refuted along with them. Third, some outsiders hold positions identical to the insiders', and so the outsiders too must be refuted on that account. Fourth, it is in order to show that the reality of the middle is neither internal nor external, neither correct nor heretical — and this too is why the outsiders must be refuted.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>6. Refuting and Gathering In: The Hundred Treatise's Own Fourfold Pattern</h2>
+        <p>Jizang closes this section by asking whether the <em>Hundred Treatise</em>'s refutation of the outsiders also involves any "gathering in" of what they got right — and answers with the same fourfold scheme announced at the very start of this collection, now illustrated with two vivid images: a thief caught with a stolen ox, and an insect whose random gnawing happens to trace out a real word.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>問百論破外亦有收取義不。答亦有四句。一者破而不取。即是外道邪言。障中迷觀。於緣無益有損。二者取而不破。外道偷竊如來遺餘善法。今並收之。如賊盜牛。即其證也。又外道各邪心推盡。冥智與內同。如蟲食木偶得成字。亦取而不破。三者亦破亦取。外道偷竊佛教不識旨歸。今破其迷教之情。收取所迷之教。四者不破不取。即顯道門未曾內外也。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><strong>Question:</strong> Does the <em>Hundred Treatise</em>'s refutation of the outsiders also involve any sense of gathering them in? <strong>Answer:</strong> There are, here too, four propositions. First, refuted and not gathered in: this describes the outsiders' own heretical assertions, which obstruct correct contemplation of the middle and give rise to confusion — with respect to the condition they address, these bring no benefit at all, only harm. Second, gathered in and not refuted: some outsiders have stolen fragments of good teaching left over from the Tathāgata's own tradition, and these are now all gathered back in — like catching a thief who has stolen an ox, which is exactly the case in point. Also, some outsiders, each pressing their own erroneous mind to its very limit through investigation, arrive at a hidden wisdom that happens to coincide with the insiders' own — like an insect gnawing at wood that happens, by chance, to trace out a real written character; this too is gathered in and not refuted. Third, both refuted and gathered in at once: some outsiders have stolen fragments of the Buddha's teaching without recognizing its true purport — their confused clinging to that teaching is now refuted, while the very teaching they were confused about is gathered back in. Fourth, neither refuted nor gathered in: this describes the gate of the correct way itself, which has never, at any point, actually been either internal or external to begin with.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This is the identical fourfold scheme first stated in <a href="{{ '/sutras/sanlun-xuanyi/part-01/' | relative_url }}">Part 1</a> to justify refuting fellow Buddhists, and reapplied to the twenty schismatic schools in <a href="{{ '/sutras/sanlun-xuanyi/part-09/' | relative_url }}">Part 9</a> — its third appearance here, now specifically calibrated to the <a href="{{ '/sutras/hundred-treatise/' | relative_url }}"><em>Hundred Treatise</em></a>'s relationship to the outsiders it spends nearly all ten chapters debating, confirms that this fourfold logic is one of the treatise's genuinely load-bearing tools, reused deliberately rather than repeated by accident.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>7. Why "Three Treatises," Despite Four Works: Eight Reasons</h2>
+        <p>Jizang now addresses the question this whole school's name has been begging since Part 1: given that four treatises have been discussed throughout this collection, why is the school called "Sanlun," the Three Treatises, rather than "Silun," the Four? Eight distinct reasons are offered, none canceling the others.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>次明別釋三論。問既有四論。何故常稱三論耶。答略有八義。一者一一論各具三義。一破邪。二顯正。三言教。以同具此三義故。合名三論。二者三論具合方備三義。中論明所顯之理。百論破於邪執。十二門名為言教。以三義相成故名為三論。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Next, explaining in particular why they are called "the three treatises." <strong>Question:</strong> Given that there are four treatises, why are they consistently referred to as "the three treatises"? <strong>Answer:</strong> There are, in brief, eight reasons. First, each and every one of the three treatises individually possesses three aspects in full: refuting the false, revealing the true, and verbal teaching. Since all three treatises alike possess these same three aspects, they are jointly named "the three treatises." Second, it is only by combining the three treatises together that these same three aspects are fully supplied between them: the <em><a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}">Mūlamadhyamakakārikā</a></em> makes clear the principle that is revealed; the <em><a href="{{ '/sutras/hundred-treatise/' | relative_url }}">Hundred Treatise</a></em> refutes heretical clinging; the <em><a href="{{ '/sutras/twelve-gate-treatise/' | relative_url }}">Twelve Gate Treatise</a></em> is named for its verbal teaching. Since these three aspects mutually complete one another across the three works, they are named "the three treatises."</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>三者中論為廣論。百論為次論。十二門為略論。三部具上中下三品故名三論。四者一切經論凡有三種。一但偈論。即是中論。二但長行論。所謂百論。三亦長行亦偈論。即十二門論。以三部互相開避而共相成。</p>
+            </div>
+            <div class="translation">
+              <p>Third, the <em>Mūlamadhyamakakārikā</em> is the extensive treatise; the <em>Hundred Treatise</em> is the intermediate treatise; the <em>Twelve Gate Treatise</em> is the concise treatise. Since these three works together supply the upper, middle, and lower grades, they are named "the three treatises." Fourth, all sūtras and treatises without exception fall into three kinds: first, those consisting of verse alone — this is the <em>Mūlamadhyamakakārikā</em>; second, those consisting of prose alone — this is the <em>Hundred Treatise</em>; third, those consisting of both prose and verse together — this is the <em>Twelve Gate Treatise</em>. Since these three works open up their own distinct approaches, avoiding overlap, while mutually completing one another, they are named "the three treatises."</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>五者此之三部同是大乘通論。故名三論。六者此三部同顯不二實相。故名三論。七者同是四依菩薩所造。八者同是像末所作。但欲綱維大法也。</p>
+            </div>
+            <div class="translation">
+              <p>Fifth, these three works are alike Mahāyāna general treatises — this too is why they are named "the three treatises." Sixth, these three works alike reveal the non-dual real character of things — this too is why they are named "the three treatises." Seventh, they are alike composed by bodhisattvas of the four kinds of reliance. Eighth, they are alike works composed in the semblance and final ages, undertaken solely in order to hold together the great Dharma as its own guiding framework.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This is, in effect, the treatise's own answer to the question a first-time visitor to this site's Sanlun corpus might reasonably ask: why does a school built on four foundational works call itself "Three Treatises" rather than "Four"? The eight reasons given here divide roughly into structural pairings (reasons one and two, on the three aspects; reasons three and four, on genre and scale) and shared identity claims (reasons five through eight) — and notably, none of the eight ever denies that the <em>Treatise on the Great Perfection of Wisdom</em> exists or matters; it is simply classified, as established already in <a href="{{ '/sutras/sanlun-xuanyi/part-10/' | relative_url }}">Part 10</a>, as a particular rather than a general treatise, and so falls outside this specific threefold grouping by definition rather than by exclusion.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>8. General and Particular Among the Three Treatises Themselves</h2>
+        <p>Having settled why there are three treatises rather than four, Jizang applies the general/particular distinction from Part 10 one level deeper still — showing that even within the three treatises, a further three-way grading exists, from the <em>Hundred Treatise</em>'s maximal breadth down to the <em>Twelve Gate Treatise</em>'s tight focus.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>次論三論通別門。以智度論對三論。則智度論為別論。三論為通論。就三論中自有三別即為三例。百論為通論之廣。中論為通論之次。十二門為通論之略。所以然者。百論通破障世出世一切邪。通申世出世一切正。故名通論之廣。中論但破大小二迷。通申大小兩教。不破世間迷申世間教。故為通論之次。十二門但破執大之迷。申大乘之教。為通論之略。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Next, discussing the general and particular distinction among the three treatises themselves. Set against the <em>Treatise on the Great Perfection of Wisdom</em>, the <em>Treatise on the Great Perfection of Wisdom</em> is a particular treatise, and the three treatises together are general treatises. Yet within the three treatises themselves, a further threefold distinction may be drawn, giving three separate grades. The <em>Hundred Treatise</em> is the broadest of the general treatises; the <em>Mūlamadhyamakakārikā</em> is the middling one; the <em>Twelve Gate Treatise</em> is the most concise. The reason is this: the <em>Hundred Treatise</em> refutes, as a whole, every heresy obstructing both the mundane and the world-transcending alike, and sets forth, as a whole, every correct teaching for the mundane and the world-transcending alike — and so it is named the broadest of the general treatises. The <em>Mūlamadhyamakakārikā</em> refutes only the two confusions of great and small, and sets forth, as a whole, the two teachings of great and small, without refuting worldly confusion or setting forth worldly teaching as such — and so it is the middling one among the general treatises. The <em>Twelve Gate Treatise</em> refutes only the confusion of clinging to the great, and sets forth the teaching of the Mahāyāna alone — and so it is the most concise of the general treatises.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>問何故爾耶。答外道邪興。遍障世出世大小一切教。故提婆遍破眾邪備申眾教。是以論明。始自三歸終竟二諦。無教不申。無邪不破。中論為對大小學人封執二教故。但破二迷但申二教。是以論文有大小二章之說。十二門論辨觀行之精要。明方等之宗本。故正破大迷獨申大教。是以論文命宗。但說略解摩訶衍義。</p>
+            </div>
+            <div class="translation">
+              <p><strong>Question:</strong> Why should this be so? <strong>Answer:</strong> The outsiders' heresies arose everywhere, obstructing every teaching, mundane and world-transcending, great and small alike — and so Āryadeva refuted every heresy comprehensively and set forth every teaching in full. This is why the treatise makes clear its scope from the three refuges at the very beginning all the way through to the two truths at the very end: there is no teaching it fails to set forth, and no heresy it fails to refute. The <em>Mūlamadhyamakakārikā</em>, addressing students of both great and small vehicles who have each sealed themselves within their own respective teaching, therefore refutes only these two confusions and sets forth only these two teachings — and this is why its own text speaks of a great section and a small section. The <em>Twelve Gate Treatise</em> discriminates the essential refinement of contemplative practice and makes clear the root doctrine of the broad Mahāyāna canon, and so it directly refutes the great confusion and sets forth the great teaching alone — this is why its own text, in naming its guiding doctrine, says only that it "briefly explains the meaning of the Mahāyāna."</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>問十二門亦備破小乘外道。云何言但破大迷但申大教也。答雖備破眾病。而正意為申大乘。故論文前明略解大乘。而後則言末世眾生薄福鈍根。雖尋經文不能通了。即知尋大乘失旨。但小乘外道障彼大乘。故須破之耳。又欲令小乘外道同入大乘故須破之。</p>
+            </div>
+            <div class="translation">
+              <p><strong>Question:</strong> The <em>Twelve Gate Treatise</em> also refutes the Hīnayāna and the outsiders in full — how, then, can it be said that it refutes only the great confusion and sets forth only the great teaching? <strong>Answer:</strong> Although it does refute the whole range of sicknesses in full, its actual, governing intent is solely to set forth the Mahāyāna. This is why its own text first states, at the outset, that it will briefly explain the Mahāyāna, and only afterward says that sentient beings in the final age, of thin merit and dull faculty, though they search through the sūtra text, are unable to penetrate it fully — from which it may be known that this searching for the Mahāyāna, and losing its true purport in the process, is precisely on account of the Hīnayāna and the outsiders obstructing that very Mahāyāna, and this is exactly why they must be refuted. Moreover, it is also in order to lead the Hīnayāna and the outsiders alike into the Mahāyāna together that they must be refuted.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>問百論申大小兩教。與中論何異。答百論總申大小。然中論別申二教。又百論從淺至深。中論從深至淺。問何故爾耶。答百論為迴邪入正。始行之人故。始自三歸終入方等。故從淺至深。中論示諸佛本末之義。大乘為本小乘為末。故從深至淺也。</p>
+            </div>
+            <div class="translation">
+              <p><strong>Question:</strong> The <em>Hundred Treatise</em> sets forth both the great and small teachings — how does this differ from the <em>Mūlamadhyamakakārikā</em>? <strong>Answer:</strong> The <em>Hundred Treatise</em> sets forth great and small together, as one undivided whole, whereas the <em>Mūlamadhyamakakārikā</em> sets forth the two teachings separately, each in its own distinct section. Moreover, the <em>Hundred Treatise</em> proceeds from shallow to deep, while the <em>Mūlamadhyamakakārikā</em> proceeds from deep to shallow. <strong>Question:</strong> Why should this be so? <strong>Answer:</strong> The <em>Hundred Treatise</em> exists to turn people away from heresy and into the correct way, addressing beginners at the very start of their practice — hence it begins from the three refuges and ends by entering the broad Mahāyāna canon, proceeding from shallow to deep. The <em>Mūlamadhyamakakārikā</em> displays the meaning of what is root and what is branch among all the buddhas' teaching, where the Mahāyāna is the root and the Hīnayāna is the branch — hence it proceeds from deep to shallow instead.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This "shallow to deep" versus "deep to shallow" contrast gives a precise structural key to how the <a href="{{ '/sutras/hundred-treatise/' | relative_url }}"><em>Hundred Treatise</em></a> and <a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}"><em>Mūlamadhyamakakārikā</em></a> are actually organized on this site: the former opens with the plainly ethical "evil stopped, and good practiced" of its first chapter before working toward its most abstract material in its final chapter on emptiness, while the latter opens directly with the eight negations and its most rarefied treatment of causation, only turning to explicitly Hīnayāna material — the four truths, nirvāṇa — in its concluding chapters. Two treatises moving in opposite directions through the very same territory, each calibrated to a different kind of reader.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>9. Four Kinds of the Provisional</h2>
+        <p>Jizang now introduces a fourfold taxonomy of "the provisional" (假) meant to span the entire canon — every one of the twelve divisions of scripture and all eighty-four thousand teachings — and assigns each of the four central treatises its own characteristic emphasis among the four.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>次明四論用假不同門。一切諸法雖並是假。領其要用凡有四門。一因緣假。二隨緣假。三對緣假。四就緣假也。一因緣假者。如空有二諦。有不自有。因空故有。空不自空。因有故空。故空有是因緣假義也。二隨緣假者。如隨三乘根性說三乘教門也。三對緣假者。如對治常說於無常。對治無常是故說常。四就緣假者。外人執有諸法。諸佛菩薩就彼推求檢竟不得。名就緣假。此四假總收十二部經八萬法藏。然四論具用四假。但智度論多用因緣假。以釋經立義門故。中論十二門多用就緣假。百論多用對緣假。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Next, making clear the different ways the four treatises make use of the provisional. Although all dharmas without exception are provisional, taking hold of their essential function reveals, in all, four distinct gates. First, the provisional through causal conditioning. Second, the provisional adapted to circumstance. Third, the provisional as counter-measure to circumstance. Fourth, the provisional right where circumstance stands. As for the provisional through causal conditioning: this is as with the two truths of emptiness and existence — existence is not self-existent, but exists precisely because of emptiness; emptiness is not self-empty, but is empty precisely because of existence. This is what is meant by emptiness and existence being provisional through causal conditioning. As for the provisional adapted to circumstance: this is as when the three vehicles' own teaching-gates are taught according to the differing faculties of the three vehicles. As for the provisional as counter-measure to circumstance: this is as when impermanence is taught specifically to counteract a clinging to permanence, and permanence is taught specifically to counteract a clinging to impermanence. As for the provisional right where circumstance stands: this is as when outsiders cling to dharmas as really existing, and the buddhas and bodhisattvas, investigating and examining the matter right where the outsiders themselves stand, find in the end nothing at all to be gotten — this is what is called the provisional right where circumstance stands. These four kinds of the provisional together comprehend the twelve divisions of scripture and the eighty-four thousand teachings of the Dharma in their entirety. All four treatises make use of all four kinds of the provisional, yet the <em>Treatise on the Great Perfection of Wisdom</em> makes the most use of the provisional through causal conditioning, since its purpose is to explain the sūtra and establish its doctrine directly; the <em>Mūlamadhyamakakārikā</em> and <em>Twelve Gate Treatise</em> make the most use of the provisional right where circumstance stands; and the <em>Hundred Treatise</em> makes the most use of the provisional as counter-measure to circumstance.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>"The provisional right where circumstance stands" (就緣假) is a precise description of the actual argumentative technique used throughout the <a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}"><em>Mūlamadhyamakakārikā</em></a> and <a href="{{ '/sutras/twelve-gate-treatise/' | relative_url }}"><em>Twelve Gate Treatise</em></a>: rather than asserting a competing position, both treatises characteristically take the opponent's own stated view of a really-existing dharma and investigate it on its own terms until nothing graspable remains — reduction rather than counter-assertion. "The provisional as counter-measure" fits the <a href="{{ '/sutras/hundred-treatise/' | relative_url }}"><em>Hundred Treatise</em></a> equally well, given how often that text's Insider answers a specific claim of the Outsider's by teaching whichever side of a pair — permanence or impermanence, existence or non-existence — directly counters that particular clinging, rather than delivering one fixed doctrine regardless of the opponent.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>10. How Each Treatise Responds to Circumstance: Public Debate and Hidden Brush</h2>
+        <p>The part closes with a memorable contrast in composition method: Āryadeva thundered the drum of debate in the royal courts themselves, confronting ninety-six rival teachers face to face before retiring to compile what had been said into the <em>Hundred Treatise</em>, while Nāgārjuna, whose fame made direct confrontation impossible, worked in seclusion, composing the <em>Mūlamadhyamakakārikā</em> from behind a curtain.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>次明四論對緣不同門。著於四論略明二種。提婆菩薩震論鼓於王庭。九十六師一時雲集。各建名理立無方論。提婆面拆邪師。後還閑林。撰集當時之言。以為百論。龍樹菩薩潛帷著筆。探取外情破病申經。故造中論。問何故爾耶。答龍樹聲聞天下。外道小乘不敢與交言。故潛帷著筆以造論也。提婆既為弟子。物情所不畏憚。故與之交言。故後集以為論。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Next, making clear the different ways the four treatises respond to circumstance. Focusing on the four treatises, two kinds may be briefly distinguished. The bodhisattva Āryadeva thundered the drum of debate in the royal courts themselves; ninety-six teachers gathered together at once like massing clouds, each establishing his own celebrated theories and setting forth arguments without any fixed limit. Āryadeva broke apart these heretical teachers face to face, and only afterward withdrew to a quiet forest, where he compiled the words spoken at the time into what became the <em>Hundred Treatise</em>. The bodhisattva Nāgārjuna, by contrast, worked hidden behind a curtain, wielding his own brush, seeking out the outsiders' actual positions in order to refute their sickness and set forth the sūtras' meaning — and it was in this way that he composed the <em>Mūlamadhyamakakārikā</em>. <strong>Question:</strong> Why this difference? <strong>Answer:</strong> Nāgārjuna's own reputation was heard throughout the world, and neither the outsiders nor the Hīnayāna schools dared engage him directly in speech — and so he worked hidden behind a curtain, composing the treatise with his brush alone. Āryadeva, being a disciple rather than the master himself, was not someone others' hearts held in dread, and so they were willing to engage him directly in speech — and this is why his words came to be compiled into a treatise only afterward.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>11. Sharp, Middling, and Dull: Four Kinds of Awakening</h2>
+        <p>The part's final passage classifies the audiences these treatises actually reach, by faculty — from those who awaken the instant they hear the <em>Hundred Treatise</em>'s own words, to those who need all three treatises in succession before understanding finally dawns.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>次明三論所破之緣有利鈍不同門。今略舉中百二論明眾生得悟不同。凡有四種。一自有一種根緣。聞百論始捨罪福終破空有。當此言下得悟無生。二有諸外道。雖聞提婆當時所破言理俱屈。猶未得悟。後出家竟稟受佛經方乃得悟。此中根人也。三有諸外道。聞提婆之言。不了尋經。翻更起迷。為中論所破方得悟。此下根人也。四有諸外道。初稟提婆之言。乃至尋中論亦未得解。後因十二門觀玄略方乃得悟也。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Next, making clear how the faculties addressed by the <em>Mūlamadhyamakakārikā</em> and <em>Hundred Treatise</em> differ in sharpness and dullness. Taking the <em>Mūlamadhyamakakārikā</em> and <em>Hundred Treatise</em> together here, briefly, four distinct kinds of awakening among sentient beings may be identified. First, there exists a certain kind of root-capacity that, on hearing the <em>Hundred Treatise</em> — beginning with the discarding of sin and merit and ending with the refutation of emptiness and existence alike — awakens to the unborn at the very moment these words are spoken. Second, there are outsiders who, though they heard what Āryadeva refuted at the time and were bested in both speech and reasoning, still did not thereby awaken; only afterward, going forth from household life and receiving the Buddhist scriptures directly, did they finally awaken. These are persons of middling faculty. Third, there are outsiders who, on hearing Āryadeva's own words, failed to fully understand them, and on searching the sūtras themselves only gave rise to further confusion instead; it was only through the <em>Mūlamadhyamakakārikā</em>'s own refutation that they finally awakened. These are persons of duller faculty. Fourth, there are outsiders who, having first received Āryadeva's words, and even after searching the <em>Mūlamadhyamakakārikā</em> as well, still failed to gain understanding; it was only afterward, through the profound yet concise contemplation of the <em><a href="{{ '/sutras/twelve-gate-treatise/' | relative_url }}">Twelve Gate Treatise</a></em>, that they finally awakened.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This closing fourfold ranking effectively assigns the three treatises a pedagogical sequence running from broadest accessibility to most demanding concision: the <em>Hundred Treatise</em>'s extended, patient debate form reaches even the sharpest students instantly, while the <em>Twelve Gate Treatise</em>'s "profound yet concise" method is reserved for those whom neither extended debate nor the <em>Mūlamadhyamakakārikā</em>'s own deep-to-shallow structure could reach. This ranking by audience, rather than by intrinsic superiority of one treatise over another, is consistent with the treatise's insistence throughout <a href="{{ '/sutras/sanlun-xuanyi/part-10/' | relative_url }}">Part 10</a> and this part alike that the three treatises differ in application, not in what they ultimately reveal.</p>
+        </div>
+        <div class="ending-mark">· · ·</div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Part Twelve Complete</h2>
+        <p>This closes Part Twelve: three senses of refuting and expounding, the reasoning behind refuting fellow Buddhists whose positions coincide with outsiders', the eight reasons four treatises are still called three, the further general/particular grading among the three treatises themselves, four kinds of the provisional spanning the whole canon, and the contrast between Āryadeva's public debates and Nāgārjuna's hidden brush, closing with the four grades of faculty these treatises together reach.</p>
+        <p>Part Thirteen opens the treatise's final undertaking: a dedicated, exhaustive exegesis of the title <em>Zhonglun</em> itself — why it carries exactly three characters, no more and no fewer, and what sequence and structure those three characters follow.</p>
+      </section>
+
+      <nav class="fascicle-pagenav" aria-label="Part navigation">
+        <span class="pn-prev"><a href="{{ '/sutras/sanlun-xuanyi/part-11/' | relative_url }}"><span class="pn-label">← Previous</span><span class="pn-title">The Guiding Doctrine of Each of the Four Treatises</span></a></span>
+        <span class="pn-index"><a href="{{ '/sutras/sanlun-xuanyi/' | relative_url }}">↑ All parts · Sanlun Xuanyi</a></span>
+        <a class="pn-next" href="{{ '/sutras/sanlun-xuanyi/part-13/' | relative_url }}"><span class="pn-label">Next →</span><span class="pn-title">Exegesis of the Title Zhonglun</span></a>
+      </nav>
+
+    </div>
+  </section>
+</article>
