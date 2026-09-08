@@ -1645,20 +1645,6 @@
 "body":"About · 如意精舍 The center on Fengguidou mountain. Ru Yi Meditation Center sits at roughly 800 metres on Fengguidou mountain, in the Xinyi Township of Nantou County, Taiwan. The mountain weather is generous: mist that drifts and re makes the landscape through the day, and winters wh…"
 },
 {
-"title":"Anthology",
-"url":"/anthology/",
-"date":"",
-"tags":"",
-"body":"Dharma › Anthology Anthology · 類書 Every story, gathered by subject. A leishu (類書) is a topical compendium: instead of following one text from beginning to end, Chinese Buddhist editors reached across the entire canon — sūtras, vinaya, and beyond — and pulled out every narrative p…"
-},
-{
-"title":"Jīng Lǜ Yì Xiàng",
-"url":"/anthology/jinglvyixiang/",
-"date":"",
-"tags":"",
-"body":"Dharma › Anthology › Jīng Lǜ Yì Xiàng Bǎochàng · 516 CE, Liang Dynasty · 經律異相 A comparative compendium of sūtra and vinaya. The Jīng Lǜ Yì Xiàng (經律異相, T2121) — \"Different Forms Compiled from Sūtra and Vinaya\" — is the largest surviving Chinese Buddhist leishu: fifty fascicles of…"
-},
-{
 "title":"Columns",
 "url":"/columns/",
 "date":"",
@@ -33635,6 +33621,13 @@
 "body":"Mahāyāna Scriptures › Avataṃsaka Sūtra › Part 173 Part 173 of the collection · Fascicle 21 of 80 · 十無盡藏品第二十二（完） · T279 · In progress Ten Reasons Nothing Here Runs Out Merit Grove Bodhisattva closes the chapter with a final list: not the ten treasuries themselves, but the ten reas…"
 },
 {
+"title":"Avataṃsaka Sūtra, Part 174 — A Throne Built from a Hundred Million of Everything",
+"url":"/sutras/avatamsaka-sutra/part-174.html",
+"date":"",
+"tags":"",
+"body":"Mahāyāna Scriptures › Avataṃsaka Sūtra › Part 174 Part 174 of the collection · Fascicle 22 of 80 · 昇兜率天宮品第二十三 · T279 · In progress A Throne Built from a Hundred Million of Everything A new chapter opens fascicle twenty two: without ever leaving the bodhi tree, the summit of Sumer…"
+},
+{
 "title":"Avataṃsaka Sūtra, Part 18 — The Flower-Treasury World-System Begins",
 "url":"/sutras/avatamsaka-sutra/part-18.html",
 "date":"",
@@ -44772,13 +44765,6 @@
 "body":"Mahāyāna Scriptures › Wenchao Jinghualu › Part 3 Chapter 4 of 10 · 印光法師文鈔菁華錄 Discussing the Magnitude of Life and Death Twenty seven passages in three groups: warning that human life is impermanent, teaching exclusive reliance on the Buddha's own power rather than self power alon…"
 },
 {
-"title":"Wenchao Jinghualu, Part 4 — Demonstrating Methods of Practice",
-"url":"/sutras/yinguang-wenchao/part-04.html",
-"date":"",
-"tags":"",
-"body":"Mahāyāna Scriptures › Wenchao Jinghualu › Part 4 Chapter 3 of 10 (sections 甲–乙) · 印光法師文鈔菁華錄 Demonstrating Methods of Practice Chapter 3 is the anthology's largest and most practical, running to six sections; this page covers the first two — the actual mechanics of buddha recollec…"
-},
-{
 "title":"Sūtra of Perfect Enlightenment",
 "url":"/sutras/yuanjue-jing/",
 "date":"",
@@ -45360,11 +45346,25 @@
 "body":"Mahāyāna Scriptures › Zhuchuang Suibi › Third Collection, Part 46 (Final) 竹窗隨筆・三筆 · Entries 124–125 · Final Entries Notes Beside the Bamboo Window — Third Collection, Part 46 (Final) The closing entries of the Third Collection (三筆). A grim, personally witnessed account of a lapse…"
 },
 {
-"title":"Visuddhimagga — Trial Translation (Sīlaniddesa §6)",
-"url":"/theravada/visuddhimagga/trial-sila-niddesa.html",
+"title":"Theravāda",
+"url":"/theravada/",
 "date":"",
 "tags":"",
-"body":"Theravāda › Visuddhimagga › Trial translation Trial translation · Not yet part of the site · For review only What Is Virtue? — A Trial Page This is a small trial translation from the Visuddhimagga (The Path of Purification), Buddhaghosa's 5th century Pāli treatise — the opening o…"
+"body":"Dharma › Theravāda 上座部 · The Elders' School Theravāda The Pāli Canon's own commentarial tradition — beginning with Buddhaghosa's 5th century Visuddhimagga , translated here directly from the Pāli, question by question, chapter by chapter. Why a new translation Every existing Engl…"
+},
+{
+"title":"Visuddhimagga",
+"url":"/theravada/visuddhimagga/",
+"date":"",
+"tags":"",
+"body":"Dharma › Theravāda › Visuddhimagga In progress · Translated from the Pāli Visuddhimagga Buddhaghosa's 5th century systematic treatise on virtue (sīla), concentration (samādhi), and understanding (paññā) — the most complete surviving manual of Theravāda practice. Ru Yi's translati…"
+},
+{
+"title":"Visuddhimagga, Sīlaniddesa (Chapter 1)",
+"url":"/theravada/visuddhimagga/sila-niddesa.html",
+"date":"",
+"tags":"",
+"body":"Dharma › Theravāda › Visuddhimagga › Sīlaniddesa Chapter 1 · Sīlaniddesa · In progress What Is Virtue? This page carries Ru Yi's translation of the opening of the Visuddhimagga 's chapter 1, Sīlaniddesa (\"The Description of Virtue\") — the seven question matrix that structures the…"
 },
 {
 "title":"Going for Refuge",

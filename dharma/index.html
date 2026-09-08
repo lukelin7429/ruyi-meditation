@@ -59,9 +59,10 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
   .dh-card.night:hover{box-shadow:0 36px 60px -26px rgba(20,29,40,.78);}
   .dh-card.indigo{background:linear-gradient(158deg,#3d5270 0%,#33455e 45%,#1b2634 100%);box-shadow:0 26px 50px -26px rgba(27,38,52,.68);}
   .dh-card.indigo:hover{box-shadow:0 36px 60px -26px rgba(27,38,52,.78);}
+  .dh-card.saffron{background:linear-gradient(158deg,#c97a2b 0%,#b5691f 45%,#7d4712 100%);box-shadow:0 26px 50px -26px rgba(125,71,18,.65);}
+  .dh-card.saffron:hover{box-shadow:0 36px 60px -26px rgba(125,71,18,.74);}
   .dh-shelf-study .dh-cards{grid-template-columns:1fr;}
   @media(min-width:760px){.dh-shelf-study .dh-cards{grid-template-columns:1fr 1fr;}}
-  @media(min-width:1080px){.dh-shelf-study .dh-cards{grid-template-columns:repeat(3,1fr);}}
   /* live pulse dot on cards */
   .dh-card .trad .live-dot{width:8px;height:8px;border-radius:50%;background:var(--gold);display:inline-block;margin-right:2px;animation:dhpulse 2s infinite;}
   @keyframes dhpulse{0%{box-shadow:0 0 0 0 rgba(227,183,101,.55);}70%{box-shadow:0 0 0 8px rgba(227,183,101,0);}100%{box-shadow:0 0 0 0 rgba(227,183,101,0);}}
@@ -213,6 +214,21 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
               <span class="go">Enter <span class="arw">→</span></span>
             </div>
             <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><rect x="14" y="14" width="30" height="30" rx="2"/><rect x="56" y="14" width="30" height="30" rx="2"/><rect x="14" y="56" width="30" height="30" rx="2"/><rect x="56" y="56" width="30" height="30" rx="2"/></svg>
+          </a>
+
+          <a href="{{ '/theravada/' | relative_url }}" class="dh-card saffron" data-rv style="transition-delay:.3s">
+            <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M24 5c-8 6-13 14-13 22a13 13 0 0 0 26 0c0-8-5-16-13-22Z"/><path d="M24 15v28"/>
+            </svg>
+            <div class="trad"><span class="live-dot"></span>Theravāda · Pāli Canon</div>
+            <h3>Visuddhimagga</h3>
+            <div class="sub">The Path of Purification, from the Pāli itself</div>
+            <p>Buddhaghosa's 5th-century manual of virtue, concentration, and understanding — translated directly from the Pāli, question by question, with the original alongside our English and reading notes for every passage.</p>
+            <div class="foot">
+              <span class="stat"><b>{{ site.data.dharma.theravada.live_texts }}</b> text</span>
+              <span class="go">Enter <span class="arw">→</span></span>
+            </div>
+            <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M50 8c-16 12-26 28-26 44a26 26 0 0 0 52 0c0-16-10-32-26-44Z"/></svg>
           </a>
 
         </div>

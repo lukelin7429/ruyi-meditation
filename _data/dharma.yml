@@ -16,6 +16,12 @@ abhidharma:
   # fascicle (1 of 200 done as of 2026-09-02); the rest link to CBETA.
   live_texts: 2
 
+theravada:
+  # Live works on /theravada/. Visuddhimagga: chapter 1 (Sīlaniddesa)
+  # underway question by question, translated directly from the Pāli
+  # (1 of 7 questions done as of 2026-09-09).
+  live_texts: 1
+
 sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
   # placeholders). Currently: Heart Sūtra, 大智度論, 瑜伽師地論, 淨行品,
