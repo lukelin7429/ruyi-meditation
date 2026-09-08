@@ -1,0 +1,131 @@
+---
+layout: default
+title: "Jīng Lǜ Yì Xiàng"
+permalink: /anthology/jinglvyixiang/
+excerpt: "A plain-English study entrance to the Jīng Lǜ Yì Xiàng (經律異相, T2121), the fifty-fascicle Liang-dynasty topical compendium of Buddhist narrative, translated from Bǎochàng's Chinese compilation."
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .jly{--cinnabar:#a8391f;--cinnabar-deep:#3d1409;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .jly *{box-sizing:border-box;}
+  .jly-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .jly [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .jly [data-rv].in{opacity:1;transform:none;}
+  .jly-hero{background:linear-gradient(155deg,#a8391f 0%,#7a2c17 45%,#3d1409 100%);color:#fff;overflow:hidden;position:relative;}
+  .jly-hero::after{content:"經律異相";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .jly-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .jly-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .jly-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .jly-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .jly h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.08;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .jly-hero p{max-width:720px;color:#f7ece0;font-size:19px;line-height:1.7;}
+  .jly-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .jly-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .jly-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .jly-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .jly-intro{background:var(--cream);padding:64px 0 42px;}
+  .jly-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.jly-grid{grid-template-columns:1.15fr .85fr;}}
+  .jly-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .jly-panel h2,.jly-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .jly-panel p,.jly-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .jly-panel ul{padding-left:20px;margin:0;}
+  .jly-stats{display:grid;gap:12px;margin-top:18px;}
+  .jly-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .jly-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--cinnabar);margin-right:6px;}
+  .jly-section{padding:70px 0;background:#fff;}
+  .jly-section-head{max-width:720px;margin-bottom:28px;}
+  .jly-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .jly-note{background:#f7f1e6;border:1px solid var(--line);border-left:5px solid var(--gold);border-radius:8px;padding:22px 26px;margin-top:32px;}
+  .jly-note p{color:var(--muted);font-size:15.5px;line-height:1.65;margin:0 0 10px;}
+  .jly-note p:last-child{margin-bottom:0;}
+  .jly-note b{color:var(--ink);}
+
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(4,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:110px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#fbf3ee);border-color:#e0bfae;}
+  .vol-card.pending{cursor:default;opacity:.72;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(20,30,45,.45);border-color:#c7cfd9;text-decoration:none;}
+  .vol-card.live:hover{border-color:#c2542f;}
+  .vol-card.pending:hover{transform:none;box-shadow:none;border-color:var(--line);}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .vol-card.live .vol-num{color:var(--cinnabar);}
+  .vol-card.pending .vol-num{color:var(--muted);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);margin:8px 0 6px;line-height:1.25;}
+  .vol-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:13px;color:var(--muted);margin-bottom:4px;}
+  .vol-note{font-size:13.5px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  @media(prefers-reduced-motion:reduce){.js .jly [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="jly">
+  <section class="jly-hero">
+    <div class="jly-hero-in">
+      <nav class="jly-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/anthology/' | relative_url }}">Anthology</a> › Jīng Lǜ Yì Xiàng</nav>
+      <div class="jly-eyebrow" data-rv>Bǎochàng · 516 CE, Liang Dynasty · 經律異相</div>
+      <h1 data-rv style="transition-delay:.06s">A comparative compendium of sūtra and vinaya.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Jīng Lǜ Yì Xiàng</em> (經律異相, T2121) — "Different Forms Compiled from Sūtra and Vinaya" — is the largest surviving Chinese Buddhist leishu: fifty fascicles of narrative excerpts, gathered under imperial decree in 516 CE by the monk Bǎochàng and a team of collaborators, and sorted by subject rather than by source text. Its table of contents runs from the heavens down through hell, taking in buddhas, bodhisattvas, monastics of every rank, kings and queens, laypeople, animals, and the damned along the way. This page is the entrance for reading it fascicle by fascicle, as the translation proceeds.</p>
+      <div class="jly-actions" data-rv style="transition-delay:.18s">
+        <a class="jly-btn primary" href="{{ '/anthology/jinglvyixiang/fascicle-001/' | relative_url }}">Start reading — Fascicle 1</a>
+        <a class="jly-btn secondary" href="https://cbetaonline.dila.edu.tw/en/T2121" target="_blank" rel="noopener">View source on CBETA</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="jly-intro">
+    <div class="jly-wrap jly-grid">
+      <div class="jly-panel" data-rv>
+        <h2>Why this compendium matters</h2>
+        <p>By the early sixth century the Chinese canon already ran to thousands of fascicles, far more than any one reader could work through to find, say, every canonical story about a particular kind of king, or every account of a specific hell. Emperor Wu of Liang commissioned this compendium to solve exactly that problem: a single reference work, organized by topic, that any student of the dharma could consult directly.</p>
+        <p>Every entry closes with a citation to its source sūtra or vinaya text, in the tradition's own citation style — this is a work of compilation and arrangement, not original composition, and it names its sources throughout.</p>
+      </div>
+      <div class="jly-panel" data-rv style="transition-delay:.08s">
+        <h2>At a glance</h2>
+        <div class="jly-stats">
+          <div class="jly-stat"><b>50</b>fascicles total</div>
+          <div class="jly-stat"><b>{{ site.data.anthology.jinglvyixiang.live_fascicles }}</b>fascicle{% if site.data.anthology.jinglvyixiang.live_fascicles != 1 %}s{% endif %} translated so far</div>
+          <div class="jly-stat"><b>516</b>CE, compiled by imperial decree</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="jly-section" style="background:var(--cream);">
+    <div class="jly-wrap">
+      <div class="jly-section-head" data-rv>
+        <h2>Translation approach</h2>
+        <p>Unlike a scholastic treatise built from tight logical argument, this text is narrative through and through — stories, causal accounts (因緣), and parables. The translation favors a readable narrative voice over a rigid sentence-by-sentence rendering, while still keeping proper names, place names, and technical terms (karma, the realms of rebirth, monastic titles, and so on) precise and consistent across fascicles. Classical text is set alongside the English for every story, and each fascicle names the source citations the compendium itself provides.</p>
+      </div>
+      <div class="jly-note" data-rv>
+        <p><b>A note on structure.</b> Each fascicle groups several numbered stories under a shared heading — the heading names the fascicle's subject (for example, "Heavenly Beings, Part 1"), and each story within it keeps the compendium's own sequential numbering (its title ending in "一," "二," "三," and so on). The translation preserves both levels: the fascicle's overall theme, and each story as its own self-contained unit.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="jly-section">
+    <div class="jly-wrap">
+      <div class="jly-section-head" data-rv>
+        <h2>All fifty fascicles</h2>
+        <p>Fascicle 1 links to Ru-Yi's own translation. Every other fascicle links out to the source text on CBETA until its own translation is ready.</p>
+      </div>
+      <div class="vol-grid">
+        {% for vol in site.data.anthology.jinglvyixiang.volumes %}
+        {% assign padded = vol.num | prepend: '00' | slice: -3, 3 %}
+        {% if vol.status == "live" %}
+        <a class="vol-card live" href="{{ '/anthology/jinglvyixiang/fascicle-' | append: padded | append: '/' | relative_url }}" data-rv>
+        {% else %}
+        <a class="vol-card pending" href="https://cbetaonline.dila.edu.tw/en/T2121" target="_blank" rel="noopener" data-rv>
+        {% endif %}
+          <span class="vol-num">Fascicle {{ vol.num }}{% if vol.status == "live" %} · Translated{% else %} · CBETA{% endif %}</span>
+          <span class="vol-title">{{ vol.en }}</span>
+          <span class="vol-zh">{{ vol.zh }}</span>
+          {% if vol.note %}<span class="vol-note">{{ vol.note }}</span>{% endif %}
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</div>

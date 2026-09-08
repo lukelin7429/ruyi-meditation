@@ -1,0 +1,169 @@
+---
+layout: default
+title: Anthology
+permalink: /anthology/
+excerpt: Topical compilations of Buddhist narrative — stories, parables, and causal accounts gathered from across the sūtras and vinaya and arranged by subject, in plain English.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ ANTHOLOGY HUB — cinnabar & gold palette ============ */
+  .an{--cinnabar:#a8391f;--cinnabar-deep:#6f2413;--cinnabar-dark:#3d1409;--gold:#e3b765;
+      --saffron-deep:#8a5716;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .an *{box-sizing:border-box;}
+  .an-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
+
+  .js .an [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .an [data-rv].in{opacity:1;transform:none;}
+
+  /* ---- HERO ---- */
+  .an-hero{position:relative;overflow:hidden;color:#fff;
+    background:
+      radial-gradient(120% 90% at 80% 16%, rgba(227,183,101,.20), transparent 60%),
+      linear-gradient(155deg,#a8391f 0%,#7a2c17 42%,#3d1409 100%);}
+  .an-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:78px 26px 78px;z-index:2;}
+  .an-scroll-mark{position:absolute;right:-60px;top:-30px;width:360px;height:360px;color:rgba(227,183,101,.14);z-index:1;}
+  .an-bread{position:relative;z-index:3;font-size:13px;letter-spacing:.04em;margin-bottom:30px;color:rgba(251,245,234,.78);}
+  .an-bread a{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(227,183,101,.4);}
+  .an-bread .sep{margin:0 9px;color:rgba(251,245,234,.5);}
+  .an-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .an-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(38px,6.2vw,64px);line-height:1.08;margin:16px 0 0;max-width:15ch;}
+  .an-hero h1 em{font-style:italic;color:var(--gold);}
+  .an-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
+  .an-hero p{max-width:660px;font-size:19px;line-height:1.7;color:#f3e9dd;}
+  .an-hero p+p{margin-top:14px;}
+  .an-trad{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px;}
+  .an-trad span{font-size:13px;letter-spacing:.04em;color:#f4f0e6;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.06);border-radius:30px;padding:7px 16px;}
+  .an-trad b{color:var(--gold);font-weight:600;}
+
+  /* ---- WHAT IS A LEISHU ---- */
+  .an-intro{background:var(--cream);padding:64px 0 42px;}
+  .an-grid2{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.an-grid2{grid-template-columns:1fr 1fr;}}
+  .an-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .an-panel h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(24px,3.2vw,30px);line-height:1.2;color:var(--ink);margin:0 0 14px;}
+  .an-panel p{color:var(--ink-soft);font-size:16px;line-height:1.65;margin:0 0 12px;}
+  .an-panel p:last-child{margin-bottom:0;}
+
+  /* ---- LIVE COLLECTION ---- */
+  .an-live{background:#fff;padding:76px 0 84px;}
+  .an-head{text-align:center;max-width:640px;margin:0 auto 48px;}
+  .an-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);}
+  .an-head h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:var(--ink);margin:12px 0 12px;}
+  .an-head p{font-size:17px;color:var(--ink-soft);line-height:1.6;}
+
+  .an-cards{display:grid;gap:26px;grid-template-columns:1fr;max-width:560px;margin:0 auto;}
+  @media(min-width:900px){.an-cards{max-width:640px;}}
+  .an-card{position:relative;overflow:hidden;border-radius:18px;padding:38px 34px 32px;color:#fff;text-decoration:none;
+    display:flex;flex-direction:column;min-height:320px;transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;}
+  .an-card:hover{transform:translateY(-6px);text-decoration:none;}
+  .an-card.cinnabar{background:linear-gradient(158deg,#b5482f 0%,#a8391f 45%,#3d1409 100%);box-shadow:0 26px 50px -26px rgba(61,20,9,.7);}
+  .an-card.cinnabar:hover{box-shadow:0 36px 60px -26px rgba(61,20,9,.8);}
+  .an-progress-badge{position:absolute;top:20px;right:20px;z-index:4;background:rgba(227,183,101,.16);border:1px solid rgba(227,183,101,.6);color:var(--gold);font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;font-weight:800;padding:5px 11px;border-radius:20px;}
+  .an-progress-bar{height:4px;border-radius:3px;background:rgba(255,255,255,.16);margin-top:8px;overflow:hidden;}
+  .an-progress-bar i{display:block;height:100%;background:var(--gold);border-radius:3px;}
+  .an-icon{width:50px;height:50px;color:rgba(255,255,255,.9);margin-bottom:auto;}
+  .an-card .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);margin-top:20px;display:inline-flex;align-items:center;gap:9px;}
+  .an-card .trad .live-dot{width:8px;height:8px;border-radius:50%;background:var(--gold);animation:anpulse 2s infinite;}
+  @keyframes anpulse{0%{box-shadow:0 0 0 0 rgba(227,183,101,.55);}70%{box-shadow:0 0 0 8px rgba(227,183,101,0);}100%{box-shadow:0 0 0 0 rgba(227,183,101,0);}}
+  .an-card h3{font-family:'Playfair Display',serif;font-size:28px;line-height:1.1;margin:8px 0 4px;}
+  .an-card .sub{font-size:15px;color:rgba(255,255,255,.85);font-style:italic;margin-bottom:14px;}
+  .an-card p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.9);margin:0 0 22px;}
+  .an-card .foot{display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.22);padding-top:16px;}
+  .an-card .stat{font-family:'Playfair Display',serif;font-size:15px;color:#fff;}
+  .an-card .stat b{font-size:28px;font-weight:700;margin-right:4px;}
+  .an-card .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .an-card .go .arw{transition:transform .25s;}
+  .an-card:hover .go .arw{transform:translateX(5px);}
+  .an-bigmark{position:absolute;right:-40px;bottom:-40px;width:170px;height:170px;color:rgba(255,255,255,.08);}
+
+  .an-card::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;z-index:3;
+    background:linear-gradient(120deg,transparent 34%,rgba(255,255,255,.22) 50%,transparent 66%);
+    transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,.61,.36,1);}
+  .an-card:hover::after{transform:translateX(130%);}
+  .an-card:hover{transform:translateY(-10px) scale(1.012);}
+  @media(prefers-reduced-motion:reduce){.an-card::after{display:none;}.an-card:hover{transform:none;}}
+</style>
+
+<div class="an">
+
+  <!-- HERO -->
+  <section class="an-hero">
+    <svg class="an-scroll-mark" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <rect x="14" y="10" width="72" height="14" rx="3"/><rect x="14" y="30" width="72" height="14" rx="3"/>
+      <rect x="14" y="50" width="72" height="14" rx="3"/><rect x="14" y="70" width="46" height="14" rx="3"/>
+    </svg>
+    <div class="an-hero-in">
+      <nav class="an-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a><span class="sep">›</span>Anthology</nav>
+      <div class="an-eyebrow" data-rv>Anthology · 類書</div>
+      <h1 data-rv style="transition-delay:.08s">Every story, <em>gathered by subject.</em></h1>
+      <div class="an-rule" data-rv style="transition-delay:.16s"></div>
+      <p data-rv style="transition-delay:.2s">A leishu (類書) is a topical compendium: instead of following one text from beginning to end, Chinese Buddhist editors reached across the entire canon — sūtras, vinaya, and beyond — and pulled out every narrative passage on a given subject, then arranged those passages under headings so a reader could find, say, everything the canon says about hell, or about generous kings, in one place.</p>
+      <p data-rv style="transition-delay:.24s">These are anthologies of story and precedent, not systematic argument — closer in spirit to a curated collection of parables than to a treatise. Distinct from the Abhidharma's analytical dissection and from a sūtra's own narrative arc, but drawing its material from exactly the same canon.</p>
+      <div class="an-trad" data-rv style="transition-delay:.28s">
+        <span><b>{{ site.data.anthology.live_texts }}</b> text underway</span>
+        <span>Fascicle-by-fascicle structure</span>
+        <span>Source: CBETA Taishō edition</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHAT IS A LEISHU -->
+  <section class="an-intro">
+    <div class="an-wrap an-grid2">
+      <div class="an-panel" data-rv>
+        <h2>What "leishu" means</h2>
+        <p><em>Leishu</em> (類書) — literally "classified writings" — is a genre native to Chinese letters generally, not unique to Buddhism: an editor combs a large body of literature and re-sorts its contents by topic rather than by source. Buddhist leishu apply the same method to the canon, so a reader can study "kings," "hells," or "the sun and moon" as a single thread running through dozens of separate sūtras and vinaya texts.</p>
+        <p>Because the material is narrative — stories, causal accounts (因緣), and parables — rather than doctrinal argument, reading a leishu feels closer to an anthology of tales than to a philosophical treatise, even though every story is drawn, and cited, from a canonical source.</p>
+      </div>
+      <div class="an-panel" data-rv style="transition-delay:.08s">
+        <h2>Not sūtra, not śāstra — a reader's tool</h2>
+        <p>A leishu is neither buddhavacana (the Buddha's own recorded word) nor a master's original composition — it claims no authorship over its content, only over its arrangement. Every passage is a citation, usually closing with the exact source text it was drawn from, in the tradition's own citation style.</p>
+        <p>That makes this section's translation work different in kind from the Abhidharma: less about rendering tight technical argument with total precision, more about carrying across the narrative voice of dozens of underlying sūtras and vinaya texts, story by story, while still naming sources and preserving technical terms exactly.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- LIVE / IN PREPARATION -->
+  <section class="an-live">
+    <div class="an-wrap">
+      <div class="an-head" data-rv>
+        <div class="lbl">Texts in this section</div>
+        <h2>Choose a collection to enter.</h2>
+        <p>We are building this section one leishu at a time, starting with the largest and most celebrated Buddhist topical compendium to survive in Chinese.</p>
+      </div>
+      <div class="an-cards">
+
+        <a href="{{ '/anthology/jinglvyixiang/' | relative_url }}" class="an-card cinnabar" data-rv>
+          <span class="an-progress-badge">{{ site.data.anthology.jinglvyixiang.live_fascicles }} / {{ site.data.anthology.jinglvyixiang.total_fascicles }} fascicles</span>
+          <svg class="an-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="8" y="8" width="32" height="8" rx="2"/><rect x="8" y="20" width="32" height="8" rx="2"/><rect x="8" y="32" width="20" height="8" rx="2"/>
+          </svg>
+          <div class="trad"><span class="live-dot"></span>Bǎochàng · Liang dynasty · 50 fascicles</div>
+          <h3>Jīng Lǜ Yì Xiàng</h3>
+          <div class="sub">A Comparative Compendium of Sūtra and Vinaya — 經律異相</div>
+          <p>Compiled by imperial decree in 516 CE: fifty fascicles of narrative excerpts drawn from sūtra and vinaya alike, sorted under headings running from the heavens down through hell — buddhas, bodhisattvas, monastics, kings, commoners, animals, and the damned.</p>
+          <div class="foot">
+            <span class="stat"><b>{{ site.data.anthology.jinglvyixiang.live_fascicles }}</b> / {{ site.data.anthology.jinglvyixiang.total_fascicles }} fascicles</span>
+            <span class="go">Enter <span class="arw">→</span></span>
+          </div>
+          <div class="an-progress-bar"><i style="width:{{ site.data.anthology.jinglvyixiang.live_fascicles | times: 100.0 | divided_by: site.data.anthology.jinglvyixiang.total_fascicles }}%"></i></div>
+          <svg class="an-bigmark" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><rect x="16" y="16" width="68" height="14" rx="3"/><rect x="16" y="36" width="68" height="14" rx="3"/><rect x="16" y="56" width="44" height="14" rx="3"/></svg>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.an [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){var t=e.target;t.classList.add('in');io.unobserve(t);setTimeout(function(){t.style.transitionDelay='0s';},900);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>

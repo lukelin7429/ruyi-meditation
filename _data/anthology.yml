@@ -1,0 +1,224 @@
+# ─────────────────────────────────────────────────────────────
+# Single source of truth for the /anthology/ section (Buddhist
+# leishu / topical compilations, as opposed to sūtra, vinaya, or
+# śāstra proper). Update HERE as fascicles go live — the anthology
+# hub, the work's own index, and the Dharma hub card all read from
+# this file.
+#
+# Referenced by:
+#   dharma/index.html                — hero pill, Anthology card
+#   anthology/index.html             — hero pill, work card
+#   anthology/jinglvyixiang/index.html — volume grid, progress stat
+# ─────────────────────────────────────────────────────────────
+
+live_texts: 1
+
+jinglvyixiang:
+  title_en: "A Comparative Compendium of Sūtra and Vinaya"
+  title_zh: "經律異相"
+  taisho_id: "T2121"
+  compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
+  total_fascicles: 50
+  live_fascicles: 1
+  volumes:
+    - num: 1
+      zh: "天部上"
+      en: "Heavenly Beings, Part 1"
+      note: "Complete: the tiers of gods across the desire and form realms, the cycles of cosmic destruction and renewal, and the sun, moon, stars, thunder, lightning, clouds, wind, and rain."
+      status: live
+    - num: 2
+      zh: "天部下（欲色天人）"
+      en: "Heavenly Beings, Part 2"
+      status: soon
+    - num: 3
+      zh: "地部"
+      en: "The Earth"
+      status: soon
+    - num: 4
+      zh: "應始終佛部第一"
+      en: "The Buddha's Advent and Final Nirvāṇa, Part 1"
+      status: soon
+    - num: 5
+      zh: "應身益物部第二"
+      en: "The Buddha's Responsive Body Benefiting Beings, Part 2"
+      status: soon
+    - num: 6
+      zh: "現涅槃後事佛部第三"
+      en: "Affairs Concerning the Buddha After His Nirvāṇa, Part 3"
+      status: soon
+    - num: 7
+      zh: "諸釋部"
+      en: "The Śākya Clan"
+      status: soon
+    - num: 8
+      zh: "自行菩薩部第一"
+      en: "Bodhisattvas' Own Practice, Part 1"
+      status: soon
+    - num: 9
+      zh: "外化菩薩部第二"
+      en: "Bodhisattvas' Outward Teaching, Part 2"
+      status: soon
+    - num: 10
+      zh: "隨機現身上菩薩部第三"
+      en: "Bodhisattvas Manifesting Bodies to Fit Capacity, Part 3"
+      status: soon
+    - num: 11
+      zh: "隨機見身下菩薩部第四"
+      en: "Bodhisattvas Manifesting Bodies to Fit Capacity, Part 4"
+      status: soon
+    - num: 12
+      zh: "出家菩薩僧部第一"
+      en: "Monastic Bodhisattva-Monks, Part 1"
+      status: soon
+    - num: 13
+      zh: "聲聞無學僧部第二"
+      en: "Arhat Śrāvaka Monks, Part 2"
+      status: soon
+    - num: 14
+      zh: "聲聞無學僧部第三"
+      en: "Arhat Śrāvaka Monks, Part 3"
+      status: soon
+    - num: 15
+      zh: "聲聞無學僧部第四"
+      en: "Arhat Śrāvaka Monks, Part 4"
+      status: soon
+    - num: 16
+      zh: "聲聞無學僧部第五"
+      en: "Arhat Śrāvaka Monks, Part 5"
+      status: soon
+    - num: 17
+      zh: "聲聞無學僧部第六"
+      en: "Arhat Śrāvaka Monks, Part 6"
+      status: soon
+    - num: 18
+      zh: "聲聞無學僧部第七"
+      en: "Arhat Śrāvaka Monks, Part 7"
+      status: soon
+    - num: 19
+      zh: "聲聞不測淺深僧部第八"
+      en: "Śrāvakas of Unfathomable Depth, Part 8"
+      status: soon
+    - num: 20
+      zh: "聲聞學人僧部第九"
+      en: "Śrāvaka Trainees, Part 9"
+      status: soon
+    - num: 21
+      zh: "聲聞現行惡行僧部第十"
+      en: "Śrāvakas Who Committed Misdeeds, Part 10"
+      status: soon
+    - num: 22
+      zh: "聲聞無學沙彌僧部第十一"
+      en: "Arhat Novice-Monks, Part 11"
+      status: soon
+    - num: 23
+      zh: "聲聞無學學尼僧部第十二"
+      en: "Arhat Nuns and Nun-Trainees, Part 12"
+      status: soon
+    - num: 24
+      zh: "轉輪聖王諸國王部第一"
+      en: "Wheel-Turning Sage Kings, Part 1"
+      status: soon
+    - num: 25
+      zh: "行菩薩道上諸國王部第二"
+      en: "Kings on the Bodhisattva Path, Part 2"
+      status: soon
+    - num: 26
+      zh: "行菩薩道下諸國王部第三"
+      en: "Kings on the Bodhisattva Path, Part 3"
+      status: soon
+    - num: 27
+      zh: "行聲聞道上諸國王部第四"
+      en: "Kings on the Śrāvaka Path, Part 4"
+      status: soon
+    - num: 28
+      zh: "行聲聞道中諸國王部第五"
+      en: "Kings on the Śrāvaka Path, Part 5"
+      status: soon
+    - num: 29
+      zh: "行聲聞道下諸國王部第六"
+      en: "Kings on the Śrāvaka Path, Part 6"
+      status: soon
+    - num: 30
+      zh: "諸國王夫人部"
+      en: "Queens"
+      status: soon
+    - num: 31
+      zh: "行菩薩道長上諸國太子部上"
+      en: "Crown Princes on the Bodhisattva Path, Part 1"
+      status: soon
+    - num: 32
+      zh: "諸國太子部（續）"
+      en: "Crown Princes, continued"
+      status: soon
+    - num: 33
+      zh: "學聲聞道諸國太子部下"
+      en: "Crown Princes on the Śrāvaka Path, Part 2"
+      status: soon
+    - num: 34
+      zh: "諸國王女部"
+      en: "Princesses"
+      status: soon
+    - num: 35
+      zh: "得道長者部上"
+      en: "Elders Who Attained the Path, Part 1"
+      status: soon
+    - num: 36
+      zh: "雜行長者部下"
+      en: "Elders of Varied Practice, Part 2"
+      status: soon
+    - num: 37
+      zh: "優婆塞部"
+      en: "Laymen (Upāsakas)"
+      status: soon
+    - num: 38
+      zh: "優婆夷部"
+      en: "Laywomen (Upāsikās)"
+      status: soon
+    - num: 39
+      zh: "外道仙人部"
+      en: "Non-Buddhist Sages and Seers"
+      status: soon
+    - num: 40
+      zh: "梵志部"
+      en: "Brahmacārins"
+      status: soon
+    - num: 41
+      zh: "婆羅門部"
+      en: "Brahmins"
+      status: soon
+    - num: 42
+      zh: "居士部"
+      en: "Householders"
+      status: soon
+    - num: 43
+      zh: "估客部"
+      en: "Merchants"
+      status: soon
+    - num: 44
+      zh: "男庶人部上"
+      en: "Commoners: Men, Part 1"
+      status: soon
+    - num: 45
+      zh: "女庶人部下"
+      en: "Commoners: Women, Part 2"
+      status: soon
+    - num: 46
+      zh: "鬼神部"
+      en: "Ghosts and Spirits"
+      status: soon
+    - num: 47
+      zh: "雜獸畜生部上"
+      en: "Animals: Beasts, Part 1"
+      status: soon
+    - num: 48
+      zh: "禽蟲畜生部下"
+      en: "Animals: Birds and Insects, Part 2"
+      status: soon
+    - num: 49
+      zh: "地獄部上"
+      en: "Hells, Part 1"
+      status: soon
+    - num: 50
+      zh: "地獄部下"
+      en: "Hells, Part 2"
+      status: soon
