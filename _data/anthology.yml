@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 5
+  live_fascicles: 6
   volumes:
     - num: 1
       zh: "天部上"
@@ -49,7 +49,8 @@ jinglvyixiang:
     - num: 6
       zh: "現涅槃後事佛部第三"
       en: "Affairs Concerning the Buddha After His Nirvāṇa, Part 3"
-      status: soon
+      note: "Complete: the relic wars, King Aśoka's 84,000 stūpas, the Bodhi tree's journey to Sri Lanka, the Lotus Sūtra's jeweled-stūpa scene, the origin of Buddha images, and the Sūtra on the Extinction of the Dharma."
+      status: live
     - num: 7
       zh: "諸釋部"
       en: "The Śākya Clan"
