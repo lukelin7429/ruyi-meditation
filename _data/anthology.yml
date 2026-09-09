@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 18
+  live_fascicles: 19
   volumes:
     - num: 1
       zh: "天部上"
@@ -114,7 +114,8 @@ jinglvyixiang:
     - num: 19
       zh: "聲聞不測淺深僧部第八"
       en: "Śrāvakas of Unfathomable Depth, Part 8"
-      status: soon
+      note: "Complete: 24 stories where outward appearance misleads — Śakra's trick on a miser, monks bound by living grass rather than break a precept, the Ciñcā slander's karmic origin, a hungry ghost's own account of hell, and a monk who bares his belly to a hunter's arrow."
+      status: live
     - num: 20
       zh: "聲聞學人僧部第九"
       en: "Śrāvaka Trainees, Part 9"
