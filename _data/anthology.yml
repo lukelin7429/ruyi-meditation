@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 17
+  live_fascicles: 18
   volumes:
     - num: 1
       zh: "天部上"
@@ -109,7 +109,8 @@ jinglvyixiang:
     - num: 18
       zh: "聲聞無學僧部第七"
       en: "Arhat Śrāvaka Monks, Part 7"
-      status: soon
+      note: "Complete: 31 short arhat stories — Śroṇa-Koṭikarṇa's lute-string teaching, Upagupta's inventive cures for gluttony, sleep, and attachment in his own students, a matricide converted by Mañjuśrī, and three brief miracle fragments closing the fascicle."
+      status: live
     - num: 19
       zh: "聲聞不測淺深僧部第八"
       en: "Śrāvakas of Unfathomable Depth, Part 8"
