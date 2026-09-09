@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 19
+  live_fascicles: 20
   volumes:
     - num: 1
       zh: "天部上"
@@ -119,7 +119,8 @@ jinglvyixiang:
     - num: 20
       zh: "聲聞學人僧部第九"
       en: "Śrāvaka Trainees, Part 9"
-      status: soon
+      note: "Complete: 10 stories of disciples still on the path — the Buddha's illusory woman exposing a householder's own conceit, a painted vase filled with filth teaching the body's impurity, a monk's fatal vow to rise from meditation, and the caṇḍāla executioner's seven sons destroyed for refusing to kill."
+      status: live
     - num: 21
       zh: "聲聞現行惡行僧部第十"
       en: "Śrāvakas Who Committed Misdeeds, Part 10"
