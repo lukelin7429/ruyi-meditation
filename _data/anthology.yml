@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 21
+  live_fascicles: 22
   volumes:
     - num: 1
       zh: "天部上"
@@ -129,7 +129,8 @@ jinglvyixiang:
     - num: 22
       zh: "聲聞無學沙彌僧部第十一"
       en: "Arhat Novice-Monks, Part 11"
-      status: soon
+      note: "Complete: 11 stories of novices attaining full liberation while still children — twin infants recalling their own past lives, a boy raised on his dead mother's milk in her own tomb, a novice who takes his own life rather than break his precept, and the closing account of a novice reborn as a worm in a jar of cheese."
+      status: live
     - num: 23
       zh: "聲聞無學學尼僧部第十二"
       en: "Arhat Nuns and Nun-Trainees, Part 12"
