@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 12
+  live_fascicles: 13
   volumes:
     - num: 1
       zh: "天部上"
@@ -84,7 +84,8 @@ jinglvyixiang:
     - num: 13
       zh: "聲聞無學僧部第二"
       en: "Arhat Śrāvaka Monks, Part 2"
-      status: soon
+      note: "Complete: Mahākāśyapa's marriage of two golden-skinned ascetics, his begging from a dying beggar woman, the First Council and expulsion of Ānanda, the taming of the three Kāśyapa brothers' fire-dragon, Subhūti's birth, and Aniruddha's past lives and present teaching."
+      status: live
     - num: 14
       zh: "聲聞無學僧部第三"
       en: "Arhat Śrāvaka Monks, Part 3"
