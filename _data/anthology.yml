@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 25
+  live_fascicles: 26
   volumes:
     - num: 1
       zh: "天部上"
@@ -149,7 +149,8 @@ jinglvyixiang:
     - num: 26
       zh: "行菩薩道下諸國王部第三"
       en: "Kings on the Bodhisattva Path, Part 3"
-      status: soon
+      note: "Complete: 9 stories closing the compendium's section on kings — a king converted from blood sacrifice by the Buddha's own teaching, King Sarvadatta's offered head refused by a debtor, King Universal-Light's Prajñāpāramitā verse before a cannibal king, and Ajātaśatru's long dialogue with Mañjuśrī dissolving a doubt no buddha could resolve by argument alone."
+      status: live
     - num: 27
       zh: "行聲聞道上諸國王部第四"
       en: "Kings on the Śrāvaka Path, Part 4"
