@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 11
+  live_fascicles: 12
   volumes:
     - num: 1
       zh: "天部上"
@@ -79,7 +79,8 @@ jinglvyixiang:
     - num: 12
       zh: "出家菩薩僧部第一"
       en: "Monastic Bodhisattva-Monks, Part 1"
-      status: soon
+      note: "Complete: a slandered monk who proves his purity by levitation, a child converted by an inexhaustible bowl of food, Gaṅgā who sells himself to feed a beggar-sage, three women who each transform into a man to become monks, Mahallaka's secretly guided recitation, Sumedha's five dreams, and a monk whose compassion for a doomed puppy leads both to non-retrogression."
+      status: live
     - num: 13
       zh: "聲聞無學僧部第二"
       en: "Arhat Śrāvaka Monks, Part 2"
