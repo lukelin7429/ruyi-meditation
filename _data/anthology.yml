@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 1
+  live_fascicles: 4
   volumes:
     - num: 1
       zh: "天部上"
@@ -29,15 +29,18 @@ jinglvyixiang:
     - num: 2
       zh: "天部下（欲色天人）"
       en: "Heavenly Beings, Part 2"
-      status: soon
+      note: "Complete: eleven stories — Śakra bowing to a dying jackal for the Dharma, his vow of non-retaliation, a near-rebirth as a donkey, and other tales of devas, giving, and rescue."
+      status: live
     - num: 3
       zh: "地部"
       en: "The Earth"
-      status: soon
+      note: "Complete: Jambudvīpa's geography and the naming of Rājagṛha, Sudatta's purchase of Jetavana and Śāriputra's contest with the six heretic teachers, ten great mountains, eight legendary trees, and the paradise continent of Uttarakuru."
+      status: live
     - num: 4
       zh: "應始終佛部第一"
       en: "The Buddha's Advent and Final Nirvāṇa, Part 1"
-      status: soon
+      note: "Complete: the compendium's own life of the Buddha — birth, the thirty-two marks, the four sights, six years of austerity, the defeat of Māra, and a long, detailed account of the final nirvāṇa at Kuśinagara."
+      status: live
     - num: 5
       zh: "應身益物部第二"
       en: "The Buddha's Responsive Body Benefiting Beings, Part 2"
