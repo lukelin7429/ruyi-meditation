@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 6
+  live_fascicles: 7
   volumes:
     - num: 1
       zh: "天部上"
@@ -54,7 +54,8 @@ jinglvyixiang:
     - num: 7
       zh: "諸釋部"
       en: "The Śākya Clan"
-      status: soon
+      note: "Complete: King Śuddhodana's death, Mahāprajāpatī's ordination as the first nun, Rāhula's birth and going forth, four cousins' ordinations, King Virūḍhaka's massacre of the Śākyas, and the past-life vow behind Chandaka and Kaṇṭhaka's devotion."
+      status: live
     - num: 8
       zh: "自行菩薩部第一"
       en: "Bodhisattvas' Own Practice, Part 1"
