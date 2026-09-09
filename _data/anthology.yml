@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 8
+  live_fascicles: 9
   volumes:
     - num: 1
       zh: "天部上"
@@ -64,7 +64,8 @@ jinglvyixiang:
     - num: 9
       zh: "外化菩薩部第二"
       en: "Bodhisattvas' Outward Teaching, Part 2"
-      status: soon
+      note: "Complete: Mañjuśrī's transformation of a woman's corpse and his retrieval of a bowl across seventy-two Ganges-sands of buddha-lands, Samantabhadra's vow to protect the Lotus Sūtra's teachers, Prince Samantadāna's dive for wish-granting pearls, two bodhisattvas who kill themselves to save a storm-wrecked ship, and the cowherd child who expounds the Prajñāpāramitā."
+      status: live
     - num: 10
       zh: "隨機現身上菩薩部第三"
       en: "Bodhisattvas Manifesting Bodies to Fit Capacity, Part 3"
