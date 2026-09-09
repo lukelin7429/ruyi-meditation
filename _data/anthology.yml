@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 26
+  live_fascicles: 27
   volumes:
     - num: 1
       zh: "天部上"
@@ -154,7 +154,8 @@ jinglvyixiang:
     - num: 27
       zh: "行聲聞道上諸國王部第四"
       en: "Kings on the Śrāvaka Path, Part 4"
-      status: soon
+      note: "Complete: 11 stories of kings converted through more ordinary encounters with the Dharma — a king awakened by the sound of a single bracelet, King Mahākapphiṇa's invasion halted by an illusory rival king, five kings taught the eight sufferings, and a monk's own kitchen-servitude traced to a single careless word toward his teacher."
+      status: live
     - num: 28
       zh: "行聲聞道中諸國王部第五"
       en: "Kings on the Śrāvaka Path, Part 5"
