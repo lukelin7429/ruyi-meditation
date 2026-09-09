@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 29
+  live_fascicles: 30
   volumes:
     - num: 1
       zh: "天部上"
@@ -169,7 +169,8 @@ jinglvyixiang:
     - num: 30
       zh: "諸國王夫人部"
       en: "Queens"
-      status: soon
+      note: "Complete: 6 stories of royal consorts — an eight-year-old arhat novice who corrects Aśoka's own queen on propriety, the Licchavi clan's miraculous origin from a discarded piece of flesh, Queen Mallikā's quiet refusal of a beauty prize, and a dead queen who returns as a rākṣasa to force her own comfortable husband to finally seek liberation."
+      status: live
     - num: 31
       zh: "行菩薩道長上諸國太子部上"
       en: "Crown Princes on the Bodhisattva Path, Part 1"
