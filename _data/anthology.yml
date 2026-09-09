@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 10
+  live_fascicles: 11
   volumes:
     - num: 1
       zh: "天部上"
@@ -74,7 +74,8 @@ jinglvyixiang:
     - num: 11
       zh: "隨機見身下菩薩部第四"
       en: "Bodhisattvas Manifesting Bodies to Fit Capacity, Part 4"
-      status: soon
+      note: "Complete: a mountain of flesh that never depletes, a lion who tears his own flesh to ransom a monkey's stolen children, the Deer Park's founding story, the Nine-Colored Deer betrayed by the man he saved, a goose king's ransom, and a turtle king who carries a shipload of merchants to shore."
+      status: live
     - num: 12
       zh: "出家菩薩僧部第一"
       en: "Monastic Bodhisattva-Monks, Part 1"
