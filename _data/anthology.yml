@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 16
+  live_fascicles: 17
   volumes:
     - num: 1
       zh: "天部上"
@@ -104,7 +104,8 @@ jinglvyixiang:
     - num: 17
       zh: "聲聞無學僧部第六"
       en: "Arhat Śrāvaka Monks, Part 6"
-      status: soon
+      note: "Complete: the tragedy of Saṃghabala, murdered in the wilderness by his own brother's hired bandits; Cūḍapanthaka's broom mnemonic; a third telling of Aṅgulimāla; and the caṇḍāla boy Nīti, lifted bodily into the sky by the Buddha's own hand."
+      status: live
     - num: 18
       zh: "聲聞無學僧部第七"
       en: "Arhat Śrāvaka Monks, Part 7"
