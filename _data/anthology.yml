@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 15
+  live_fascicles: 16
   volumes:
     - num: 1
       zh: "天部上"
@@ -99,7 +99,8 @@ jinglvyixiang:
     - num: 16
       zh: "聲聞無學僧部第五"
       en: "Arhat Śrāvaka Monks, Part 5"
-      status: soon
+      note: "Complete: the patriarchal line from Madhyāntika through Śāṇakavāsin to Upagupta, Lośaka's karmic inability to ever be fed, the boy-arhat Kumāra-Kāśyapa, and Mahinda's conversion of King Devānampiya Tissa, the founding moment of Sri Lankan Buddhism."
+      status: live
     - num: 17
       zh: "聲聞無學僧部第六"
       en: "Arhat Śrāvaka Monks, Part 6"
