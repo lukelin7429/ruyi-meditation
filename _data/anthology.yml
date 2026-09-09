@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 13
+  live_fascicles: 14
   volumes:
     - num: 1
       zh: "天部上"
@@ -89,7 +89,8 @@ jinglvyixiang:
     - num: 14
       zh: "聲聞無學僧部第三"
       en: "Arhat Śrāvaka Monks, Part 3"
-      status: soon
+      note: "Complete: Śāriputra's birth and debate prowess, King Candraprabha's gift of his own head, the Ullambana Sūtra's origin of the Ghost Festival, Maudgalyāyana's jeweled bridge and subduing of two dragon kings, and his own two honest mistakes."
+      status: live
     - num: 15
       zh: "聲聞無學僧部第四"
       en: "Arhat Śrāvaka Monks, Part 4"
