@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 7
+  live_fascicles: 8
   volumes:
     - num: 1
       zh: "天部上"
@@ -59,7 +59,8 @@ jinglvyixiang:
     - num: 8
       zh: "自行菩薩部第一"
       en: "Bodhisattvas' Own Practice, Part 1"
-      status: soon
+      note: "Complete: Sadāprarudita selling his own flesh, Bhaiṣajyarāja's self-immolation, Kṣāntivādin's dismemberment, Aṅgulimāla's origin, and the Snow Mountain ascetic's half-verse on impermanence."
+      status: live
     - num: 9
       zh: "外化菩薩部第二"
       en: "Bodhisattvas' Outward Teaching, Part 2"
