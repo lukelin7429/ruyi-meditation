@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 22
+  live_fascicles: 23
   volumes:
     - num: 1
       zh: "天部上"
@@ -134,7 +134,8 @@ jinglvyixiang:
     - num: 23
       zh: "聲聞無學學尼僧部第十二"
       en: "Arhat Nuns and Nun-Trainees, Part 12"
-      status: soon
+      note: "Complete: 14 stories of women who attained liberation — Bhadrā's memory of a servant girl's defiant generosity, Utpalavarṇā's mind left undefiled by an assault she never consented to, a poor widow's daughter risen to queen who renounces the throne itself, and the closing account of Cañcā's slander traced back through past lives."
+      status: live
     - num: 24
       zh: "轉輪聖王諸國王部第一"
       en: "Wheel-Turning Sage Kings, Part 1"
