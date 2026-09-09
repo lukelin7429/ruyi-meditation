@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 20
+  live_fascicles: 21
   volumes:
     - num: 1
       zh: "天部上"
@@ -124,7 +124,8 @@ jinglvyixiang:
     - num: 21
       zh: "聲聞現行惡行僧部第十"
       en: "Śrāvakas Who Committed Misdeeds, Part 10"
-      status: soon
+      note: "Complete: 12 stories, almost entirely Devadatta — his enmity's past-life origin, the drunk elephant Nālāgiri sent against the Buddha, four animal-fable past lives (fox, jackal, monkey, and the golden lion Firm-Vow), and Sunakṣatra's fall into hell for denying cause and effect."
+      status: live
     - num: 22
       zh: "聲聞無學沙彌僧部第十一"
       en: "Arhat Novice-Monks, Part 11"
