@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 14
+  live_fascicles: 15
   volumes:
     - num: 1
       zh: "天部上"
@@ -94,7 +94,8 @@ jinglvyixiang:
     - num: 15
       zh: "聲聞無學僧部第四"
       en: "Arhat Śrāvaka Monks, Part 4"
-      status: soon
+      note: "Complete: Nanda, Kātyāyana, Kālodāyin, and above all Ānanda — his past life as the Buddha's own close friend, his seven prophetic dreams, a caṇḍāla mother's binding spell, and his elaborate testing of the monk Mountain-Facing before King Aśoka."
+      status: live
     - num: 16
       zh: "聲聞無學僧部第五"
       en: "Arhat Śrāvaka Monks, Part 5"
