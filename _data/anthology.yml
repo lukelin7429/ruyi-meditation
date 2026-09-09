@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 27
+  live_fascicles: 28
   volumes:
     - num: 1
       zh: "天部上"
@@ -159,7 +159,8 @@ jinglvyixiang:
     - num: 28
       zh: "行聲聞道中諸國王部第五"
       en: "Kings on the Śrāvaka Path, Part 5"
-      status: soon
+      note: "Complete: 13 stories centered on Prasenajit and Bimbisāra — a rākṣasa-possessed usurper's reign of cannibalism, a servant girl's single generous act that leads to her becoming Queen Mallikā, Bimbisāra's guilt over an amputated finger, King Pukkusāti's fatal ordination, and the deva Rohitassa's ancient question of whether the world's edge can ever be reached."
+      status: live
     - num: 29
       zh: "行聲聞道下諸國王部第六"
       en: "Kings on the Śrāvaka Path, Part 6"
