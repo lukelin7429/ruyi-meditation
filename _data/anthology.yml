@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 23
+  live_fascicles: 24
   volumes:
     - num: 1
       zh: "天部上"
@@ -139,7 +139,8 @@ jinglvyixiang:
     - num: 24
       zh: "轉輪聖王諸國王部第一"
       en: "Wheel-Turning Sage Kings, Part 1"
-      status: soon
+      note: "Complete: 12 stories opening the compendium's section on kings — the cosmological origin of kingship, the seven treasures of a cakravartin, a king who carves a thousand lamps into his own flesh for half a verse, King Mandhātā's fatal envy of Śakra's throne told twice over, and King Aśoka's full arc from a boy's sand offering to total renunciation."
+      status: live
     - num: 25
       zh: "行菩薩道上諸國王部第二"
       en: "Kings on the Bodhisattva Path, Part 2"
