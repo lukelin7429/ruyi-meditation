@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 28
+  live_fascicles: 29
   volumes:
     - num: 1
       zh: "天部上"
@@ -164,7 +164,8 @@ jinglvyixiang:
     - num: 29
       zh: "行聲聞道下諸國王部第六"
       en: "Kings on the Śrāvaka Path, Part 6"
-      status: soon
+      note: "Complete: 14 stories closing the compendium's long section on kings (fascicles 24-29) — a king born without eyes who governs by a divine eye, Anāthapiṇḍika's daughter Sumāgadhā converting an entire foreign kingdom, King Udayana's consort undamaged by a hundred arrows, and a servant who carries a bowl of oil past a stampede, a fire, and a hailstorm without spilling a drop."
+      status: live
     - num: 30
       zh: "諸國王夫人部"
       en: "Queens"
