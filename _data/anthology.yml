@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 4
+  live_fascicles: 5
   volumes:
     - num: 1
       zh: "天部上"
@@ -44,7 +44,8 @@ jinglvyixiang:
     - num: 5
       zh: "應身益物部第二"
       en: "The Buddha's Responsive Body Benefiting Beings, Part 2"
-      status: soon
+      note: "Complete: eighteen stories including three months eating horse fodder, taming the drunk elephant Nālāgiri, saving five hundred condemned bandits, and walking on water."
+      status: live
     - num: 6
       zh: "現涅槃後事佛部第三"
       en: "Affairs Concerning the Buddha After His Nirvāṇa, Part 3"
