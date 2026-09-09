@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 9
+  live_fascicles: 10
   volumes:
     - num: 1
       zh: "天部上"
@@ -69,7 +69,8 @@ jinglvyixiang:
     - num: 10
       zh: "隨機現身上菩薩部第三"
       en: "Bodhisattvas Manifesting Bodies to Fit Capacity, Part 3"
-      status: soon
+      note: "Complete: Śakra converting an old friend, a courtesan reborn as a king who feeds his own body to a tigress, King Śibi's ransom of a dove with his own flesh, the Śyāma Jātaka, Vasu's conversion of six million merchants, King Samantaprabha and the cannibal king, and three princes who give eyes, marrow, and blood to the sick."
+      status: live
     - num: 11
       zh: "隨機見身下菩薩部第四"
       en: "Bodhisattvas Manifesting Bodies to Fit Capacity, Part 4"
