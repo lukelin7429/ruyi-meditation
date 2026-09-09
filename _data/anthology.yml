@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 24
+  live_fascicles: 25
   volumes:
     - num: 1
       zh: "天部上"
@@ -144,7 +144,8 @@ jinglvyixiang:
     - num: 25
       zh: "行菩薩道上諸國王部第二"
       en: "Kings on the Bodhisattva Path, Part 2"
-      status: soon
+      note: "Complete: 11 stories of kings giving up body, wealth, and family for the Dharma — bodies carved into a thousand lamps twice over, King Śibi's flesh weighed against a dove, King Sutasoma's oath to a man-eating rākṣasa, and King Sarvadatta's own family sold into slavery to test a single vow to refuse no request."
+      status: live
     - num: 26
       zh: "行菩薩道下諸國王部第三"
       en: "Kings on the Bodhisattva Path, Part 3"
