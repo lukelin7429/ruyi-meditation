@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 35
+  live_fascicles: 36
   volumes:
     - num: 1
       zh: "天部上"
@@ -198,8 +198,9 @@ jinglvyixiang:
       status: live
     - num: 36
       zh: "雜行長者部下"
-      en: "Elders of Varied Practice, Part 2"
-      status: soon
+      en: "Elders of Mixed Conduct, Part 2"
+      note: "Complete: 19 stories — Jalavāhana borrowing twenty elephants to water ten thousand dying fish, Jyotiṣka's house that outshines the palace, a boy born without ears, eyes, or limbs who inherits because the law recognizes his one feature, a rival teacher who takes the Buddha's congratulatory verse to a house in mourning, a laundry stone still generating merit centuries after its monastery fell, and the aloeswood burned into charcoal."
+      status: live
     - num: 37
       zh: "優婆塞部"
       en: "Laymen (Upāsakas)"
