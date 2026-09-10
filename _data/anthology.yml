@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 45
+  live_fascicles: 46
   volumes:
     - num: 1
       zh: "天部上"
@@ -249,7 +249,8 @@ jinglvyixiang:
     - num: 46
       zh: "鬼神部"
       en: "Ghosts and Spirits"
-      status: soon
+      note: "Complete: 22 entries in four sections (asuras, gandharvas, kinnaras, and ghosts of every kind) — four irreconcilable accounts of the asura wars printed side by side, Druma's lute knocking five hundred sages out of the air, the man dismembered and rebuilt by two quarrelling ghosts, the taming of Āḷavaka and of Hārītī, the anger-eating demon on Śakra's throne, and eighteen hungry ghosts questioned on the Ganges bank."
+      status: live
     - num: 47
       zh: "雜獸畜生部上"
       en: "Animals: Beasts, Part 1"
