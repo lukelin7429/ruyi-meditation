@@ -86,7 +86,7 @@ excerpt: "A plain-English study entrance to the Jīng Lǜ Yì Xiàng (經律異�
         <h2>At a glance</h2>
         <div class="jly-stats">
           <div class="jly-stat"><b>50</b>fascicles total</div>
-          <div class="jly-stat"><b>{{ site.data.anthology.jinglvyixiang.live_fascicles }}</b>fascicle{% if site.data.anthology.jinglvyixiang.live_fascicles != 1 %}s{% endif %} translated so far</div>
+          <div class="jly-stat"><b>{{ site.data.anthology.jinglvyixiang.live_fascicles }}</b>fascicle{% if site.data.anthology.jinglvyixiang.live_fascicles != 1 %}s{% endif %} translated{% if site.data.anthology.jinglvyixiang.live_fascicles == site.data.anthology.jinglvyixiang.total_fascicles %} &mdash; complete{% else %} so far{% endif %}</div>
           <div class="jly-stat"><b>516</b>CE, compiled by imperial decree</div>
         </div>
       </div>
