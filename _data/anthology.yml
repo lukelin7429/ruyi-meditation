@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 44
+  live_fascicles: 45
   volumes:
     - num: 1
       zh: "天部上"
@@ -243,8 +243,9 @@ jinglvyixiang:
       status: live
     - num: 45
       zh: "女庶人部下"
-      en: "Commoners: Women, Part 2"
-      status: soon
+      en: "Ordinary Women, Part 2"
+      note: "Complete: 17 stories set almost entirely in ordinary households — the woman who sold her hair at half price for one meal, the mother of a hundred sons who stops an army from a tower, the miser's tour of a hell and a heaven both reserved for her own household, the bell hung on a door, the birth of Jyotiṣka alive in his mother's funeral fire, the Ciñcā slander and the wooden bowl, and a maid who mistakes a hanged woman's reflection for her own face."
+      status: live
     - num: 46
       zh: "鬼神部"
       en: "Ghosts and Spirits"
