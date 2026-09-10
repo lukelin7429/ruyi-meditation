@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 41
+  live_fascicles: 42
   volumes:
     - num: 1
       zh: "天部上"
@@ -229,7 +229,8 @@ jinglvyixiang:
     - num: 42
       zh: "居士部"
       en: "Householders"
-      status: soon
+      note: "Complete: 5 stories — Meṇḍaka's household of six inexhaustible portions and the argument over whose merit it is, Ugra formally giving away his chief wife, Fish-Body and the starving strongman, the nāga Elāpattra's treasury reclaiming seven households, and Great-Intention passing four snake-ringed cities and then bailing out the sea with a bowl."
+      status: live
     - num: 43
       zh: "估客部"
       en: "Merchants"
