@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 42
+  live_fascicles: 43
   volumes:
     - num: 1
       zh: "天部上"
@@ -234,7 +234,8 @@ jinglvyixiang:
     - num: 43
       zh: "估客部"
       en: "Merchants"
-      status: soon
+      note: "Complete: 16 stories — the sea-spirit's riddle of a handful of water, the tree cut branch by branch, the Siṃhala legend of the rākṣasa island and the horse-king, the four cities and the burning wheel, arms lit as torches, the five precepts bought at a market stall, a nāga maiden ransomed for eight oxen, and the bodhisattva who kills one man to save five hundred and keep the killer out of hell."
+      status: live
     - num: 44
       zh: "男庶人部上"
       en: "Commoners: Men, Part 1"
