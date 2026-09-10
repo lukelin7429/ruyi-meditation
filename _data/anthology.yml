@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 30
+  live_fascicles: 31
   volumes:
     - num: 1
       zh: "天部上"
@@ -174,7 +174,8 @@ jinglvyixiang:
     - num: 31
       zh: "行菩薩道長上諸國太子部上"
       en: "Crown Princes on the Bodhisattva Path, Part 1"
-      status: soon
+      note: "Complete: 8 stories including some of the most celebrated jātakas in the canon — Prince Mahāsattva feeding his own body to a starving tigress, the full Vessantara Jātaka of Prince Sudāna's total generosity, and the origin story of the physician Jīvaka, born to the courtesan Āmrapālī from a mango tree."
+      status: live
     - num: 32
       zh: "諸國太子部（續）"
       en: "Crown Princes, continued"
