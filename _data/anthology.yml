@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 40
+  live_fascicles: 41
   volumes:
     - num: 1
       zh: "天部上"
@@ -223,8 +223,9 @@ jinglvyixiang:
       status: live
     - num: 41
       zh: "婆羅門部"
-      en: "Brahmins"
-      status: soon
+      en: "Brahmins, Part 2"
+      note: "Complete: 16 stories — Dhanika's five accidents, the king's collapsing prosecutions, the two-mother test and the three roadside riddles; Cock-Head's hundred-coin loan and the feast Vaiśravaṇa catered; the old man's verse in praise of his staff; a nāga king who had been a teacher his disciples left; a servant's rice-washings and the nyagrodha seed; and the potter who seized a brahmin youth's head to make him meet the Buddha Kāśyapa."
+      status: live
     - num: 42
       zh: "居士部"
       en: "Householders"
