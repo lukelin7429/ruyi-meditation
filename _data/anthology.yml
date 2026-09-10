@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 48
+  live_fascicles: 49
   volumes:
     - num: 1
       zh: "天部上"
@@ -257,14 +257,15 @@ jinglvyixiang:
       note: "Complete: 37 stories in 14 sections by species — the lion king who would die rather than break faith, the eleven purposes of the lion's roar, the twelve zodiac beasts on a teaching rota round four outer seas, the ox for whose debt the Buddha stood surety, the dog who sued its assailant, the doe who came back to the snare, the white dog who was his owner's father, the five hundred monkeys who built a stūpa in play, and the rat that named the Kalandaka Grove."
       status: live
     - num: 48
-      zh: "禽蟲畜生部下"
+      zh: "禽畜生部中蟲畜生部下"
       en: "Birds and Creeping Creatures"
       note: "Complete: 29 entries in 15 sections across two of the compendium's divisions — the matched garuḍa and nāga cosmographies, the golden goose who was a doting brahmin, the dove Śāriputra could see no end of, the four loyal crows, the nāga flayed alive rather than break a one-day precept, the Buddha's robe divided against the garuḍas, the hundred-headed fish, the blind turtle and the log, the grain-thief, and the pearls kept by a monastery head."
       status: live
     - num: 49
       zh: "地獄部上"
-      en: "Hells, Part 1"
-      status: soon
+      en: "The Hells, Part 1"
+      note: "Complete: 12 entries, almost entirely descriptive — Yama's own three daily torments, the three heavenly messengers and the question asked three times, four irreconcilable registers of the hells and their governors printed side by side, the Sinicized bureaucracy of the fast-day patrols and registers, the cold hells sorted by whether the sufferer can still form words, and the eight great hells given as one unbroken circuit."
+      status: live
     - num: 50
       zh: "地獄部下"
       en: "Hells, Part 2"
