@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 43
+  live_fascicles: 44
   volumes:
     - num: 1
       zh: "天部上"
@@ -238,8 +238,9 @@ jinglvyixiang:
       status: live
     - num: 44
       zh: "男庶人部上"
-      en: "Commoners: Men, Part 1"
-      status: soon
+      en: "Ordinary Men, Part 1"
+      note: "Complete: 38 mostly short stories from half a dozen parable collections — the illusionist who cannot dismiss his own conjured hall, the turtle that repaid its buyer, the uncle-and-nephew thief who defeats five royal traps in turn, the man in the pit with the rats gnawing the root (here undone by five drops rather than sweetened by honey), the Buddha's arithmetic of three wasted portions of a life, and the sandalwood tree-spirit whose benefactor names it for a reward."
+      status: live
     - num: 45
       zh: "女庶人部下"
       en: "Commoners: Women, Part 2"
