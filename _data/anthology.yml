@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 47
+  live_fascicles: 48
   volumes:
     - num: 1
       zh: "天部上"
@@ -258,8 +258,9 @@ jinglvyixiang:
       status: live
     - num: 48
       zh: "禽蟲畜生部下"
-      en: "Animals: Birds and Insects, Part 2"
-      status: soon
+      en: "Birds and Creeping Creatures"
+      note: "Complete: 29 entries in 15 sections across two of the compendium's divisions — the matched garuḍa and nāga cosmographies, the golden goose who was a doting brahmin, the dove Śāriputra could see no end of, the four loyal crows, the nāga flayed alive rather than break a one-day precept, the Buddha's robe divided against the garuḍas, the hundred-headed fish, the blind turtle and the log, the grain-thief, and the pearls kept by a monastery head."
+      status: live
     - num: 49
       zh: "地獄部上"
       en: "Hells, Part 1"
