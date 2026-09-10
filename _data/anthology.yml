@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 49
+  live_fascicles: 50
   volumes:
     - num: 1
       zh: "天部上"
@@ -268,5 +268,6 @@ jinglvyixiang:
       status: live
     - num: 50
       zh: "地獄部下"
-      en: "Hells, Part 2"
-      status: soon
+      en: "The Hells, Part 2"
+      note: "Complete: 4 entries closing the compendium — Avīci and its furniture, the eighteen sub-hells given one by one on a single repeating pattern in which the wardens grant the dying man his last wish and it is the trap, a flat register of sixty-four hells with the small domestic deed behind each, and the Great Perfection of Wisdom's great hells matched to false weights, crooked judgments and burned villages."
+      status: live
