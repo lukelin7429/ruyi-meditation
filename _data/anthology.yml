@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 38
+  live_fascicles: 39
   volumes:
     - num: 1
       zh: "天部上"
@@ -213,8 +213,9 @@ jinglvyixiang:
       status: live
     - num: 39
       zh: "外道仙人部"
-      en: "Non-Buddhist Sages and Seers"
-      status: soon
+      en: "Heterodox Teachers and Sages"
+      note: "Complete: 16 stories — the ninety-six schools traced to one robbed monk hung naked from a tree and the passers-by who each drew a conclusion, the six teachers' scouts, the twin miracle told from Pūraṇa Kāśyapa's side, Kṣāntivādin dismembered, Udraka Rāmaputra's story told twice from two sources, a sage who fathered twelve sons on a tigress, and Ekaśṛṅga ridden into Vārāṇasī by a courtesan."
+      status: live
     - num: 40
       zh: "梵志部"
       en: "Brahmacārins"
