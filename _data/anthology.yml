@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 34
+  live_fascicles: 35
   volumes:
     - num: 1
       zh: "天部上"
@@ -194,7 +194,8 @@ jinglvyixiang:
     - num: 35
       zh: "得道長者部上"
       en: "Elders Who Attained the Path, Part 1"
-      status: soon
+      note: "Complete: 15 stories of householder elders — Yaśas walking out of a house turned graveyard, Śroṇa and the lute-string simile, a hundred-year-old refused ordination by five hundred arhats and then shown six ordinary lives working out their consequences on a sea island, Anāthapiṇḍada at his richest and his poorest, a fire pit and poisoned dinner laid to test the Buddha's omniscience, and two beggars whose opposite wishes are granted the same day."
+      status: live
     - num: 36
       zh: "雜行長者部下"
       en: "Elders of Varied Practice, Part 2"
