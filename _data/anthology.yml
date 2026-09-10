@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 46
+  live_fascicles: 47
   volumes:
     - num: 1
       zh: "天部上"
@@ -253,8 +253,9 @@ jinglvyixiang:
       status: live
     - num: 47
       zh: "雜獸畜生部上"
-      en: "Animals: Beasts, Part 1"
-      status: soon
+      en: "Beasts and Animals, Part 1"
+      note: "Complete: 37 stories in 14 sections by species — the lion king who would die rather than break faith, the eleven purposes of the lion's roar, the twelve zodiac beasts on a teaching rota round four outer seas, the ox for whose debt the Buddha stood surety, the dog who sued its assailant, the doe who came back to the snare, the white dog who was his owner's father, the five hundred monkeys who built a stūpa in play, and the rat that named the Kalandaka Grove."
+      status: live
     - num: 48
       zh: "禽蟲畜生部下"
       en: "Animals: Birds and Insects, Part 2"
