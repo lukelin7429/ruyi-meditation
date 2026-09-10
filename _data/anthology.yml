@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 32
+  live_fascicles: 33
   volumes:
     - num: 1
       zh: "天部上"
@@ -183,8 +183,9 @@ jinglvyixiang:
       status: live
     - num: 33
       zh: "學聲聞道諸國太子部下"
-      en: "Crown Princes on the Śrāvaka Path, Part 2"
-      status: soon
+      en: "Crown Princes on the Śrāvaka Path"
+      note: "Complete: 6 stories, four fifths of it from the Aśoka cycle — the brother Vītāśoka made king for seven days with an executioner at the door and later beheaded for the bounty Aśoka put on Jain heads, the full Kunāla legend of the son blinded on a decree sealed with his sleeping father's teeth, and the Buddha releasing Prince Jeta from the precept against liquor."
+      status: live
     - num: 34
       zh: "諸國王女部"
       en: "Princesses"
