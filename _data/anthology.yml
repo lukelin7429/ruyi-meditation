@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 37
+  live_fascicles: 38
   volumes:
     - num: 1
       zh: "天部上"
@@ -208,8 +208,9 @@ jinglvyixiang:
       status: live
     - num: 38
       zh: "優婆夷部"
-      en: "Laywomen (Upāsikās)"
-      status: soon
+      en: "Lay Women (Upāsikās)"
+      note: "Complete: 9 stories — Suppiyā cutting flesh from her own thigh for a sick monk (the origin of the rule against eating human flesh), Āmrapālī's four impossible conditions and the parrot over the wall, Sumanā arguing her ten sons out of hunting, the mother sent to beg fire where no one has died, Paṭācārā's day and night, a brahmin widow argued off her own pyre, Nandā's inextinguishable lamp, and a fifteen-year-old who reasons her way out of her betrothal."
+      status: live
     - num: 39
       zh: "外道仙人部"
       en: "Non-Buddhist Sages and Seers"
