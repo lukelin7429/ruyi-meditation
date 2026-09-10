@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 33
+  live_fascicles: 34
   volumes:
     - num: 1
       zh: "天部上"
@@ -189,7 +189,8 @@ jinglvyixiang:
     - num: 34
       zh: "諸國王女部"
       en: "Princesses"
-      status: soon
+      note: "Complete: 9 stories — a gold-skinned princess whose marriage proposal to the Buddha is torn up unread, Mallikā's camel-skinned daughter transformed the moment she prays, a dog reborn as a princess of Parthia, seven sisters who refuse marriage and out-argue Śakra in a charnel ground, and Mālinī spending her last six days before sacrifice taking the whole court to hear the Dharma."
+      status: live
     - num: 35
       zh: "得道長者部上"
       en: "Elders Who Attained the Path, Part 1"
