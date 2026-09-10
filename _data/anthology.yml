@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 36
+  live_fascicles: 37
   volumes:
     - num: 1
       zh: "天部上"
@@ -203,8 +203,9 @@ jinglvyixiang:
       status: live
     - num: 37
       zh: "優婆塞部"
-      en: "Laymen (Upāsakas)"
-      status: soon
+      en: "Lay Followers (Upāsakas)"
+      note: "Complete: 14 stories, ghosts in eight of them, all turning on the precepts as a standing other beings must respect — Śroṇa Koṭikarṇa walking through a landscape of the dead where two men are blissful by night and eaten alive by day for taking the precepts only half the time, a man-eating ghost fetching the lethal flowers for an innocent man, a cook sentenced to be trampled by elephants, and a hell-king overruling his own officers on a point of jurisdiction."
+      status: live
     - num: 38
       zh: "優婆夷部"
       en: "Laywomen (Upāsikās)"
