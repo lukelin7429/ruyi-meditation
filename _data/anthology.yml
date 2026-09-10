@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 31
+  live_fascicles: 32
   volumes:
     - num: 1
       zh: "天部上"
@@ -178,8 +178,9 @@ jinglvyixiang:
       status: live
     - num: 32
       zh: "諸國太子部（續）"
-      en: "Crown Princes, continued"
-      status: soon
+      en: "Crown Princes, Part 2"
+      note: "Complete: 9 stories — two unreconciled sea-quests for the wish-fulfilling jewel, a brother blinded with bamboo spikes by his own brother, the Dīghāvu tale of a son forbidden to avenge his father, the ugly prince who wins back his bride by wit, the mute prince Mùpò speaking at the edge of his own grave, the Golden Light Sūtra's leaner tiger-feeding jātaka, and a rival life of the physician Jīvaka printed beside the one in fascicle 31."
+      status: live
     - num: 33
       zh: "學聲聞道諸國太子部下"
       en: "Crown Princes on the Śrāvaka Path, Part 2"
