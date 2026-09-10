@@ -19,7 +19,7 @@ jinglvyixiang:
   taisho_id: "T2121"
   compiler: "Bǎochàng and others, under imperial decree, Liang dynasty (516 CE)"
   total_fascicles: 50
-  live_fascicles: 39
+  live_fascicles: 40
   volumes:
     - num: 1
       zh: "天部上"
@@ -218,8 +218,9 @@ jinglvyixiang:
       status: live
     - num: 40
       zh: "梵志部"
-      en: "Brahmacārins"
-      status: soon
+      en: "Brahmins"
+      note: "Complete: 12 stories — the Dīpaṃkara prophecy told at length (with the flower-girl's request and the displaced elder's counter-vow), a diagnostic dream of pig-faced kings, Māgandiya offering his daughter, a father who walks to Yama's court and is disowned by his own son, a man who feasts five hundred monks to collect on them as draught animals, a household mistaken for cold, four brothers hiding from death, and the framing and murder of Sundarī."
+      status: live
     - num: 41
       zh: "婆羅門部"
       en: "Brahmins"
