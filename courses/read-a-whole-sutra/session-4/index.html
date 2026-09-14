@@ -1,0 +1,429 @@
+---
+layout: default
+title: "Session 4 · The Diamond Sūtra (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-4/
+excerpt: Session 4 of Read a Whole Sūtra — the same insight as the Heart Sūtra reached by the opposite method, read whole across eight short parts in about forty minutes.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 4 · 慧 How to see</div>
+      <h1>The Diamond Sūtra</h1>
+      <div class="subt">《金剛般若波羅蜜經》 — the same insight, argued out instead of stated</div>
+      <div class="rd">
+        <span><b>Reading time</b> about forty minutes</span>
+        <span><b>Before class</b> Session 3</span>
+        <span><b>Length</b> thirty-two sections in eight parts</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, fourth</h2></div>
+
+      <p data-rv>Because the Heart Sūtra handed you a conclusion, and you should not be allowed to keep it that cheaply.</p>
+
+      <p data-rv>These two texts teach the same emptiness. They teach it by opposite literary strategies, and the difference is the entire point of reading both. The Heart Sūtra states its results as a cascade of negated nouns — no eye, no ear, no suffering, no path — compressed almost past the point of narrative, 260 characters, no one visibly thinking. The Diamond Sūtra almost never simply asserts. The Buddha asks; Subhūti answers; and quite often Subhūti has to correct his own first instinct mid-sentence, in front of you, before he gets it right.</p>
+
+      <div class="rs-pull" data-rv>If the Heart Sūtra hands you the finished insight, the Diamond Sūtra hands you the method for arriving at it yourself.</div>
+
+      <p data-rv>It is also, at thirty-two sections, the longest text in this course and roughly the limit of what can still be read in one sitting. That is not incidental. Much of what this sūtra does is <em>cumulative</em> — the same move performed on term after term until you stop being surprised by it and start being able to do it yourself. Reading half of it is not half the experience.</p>
+
+      <h3 data-rv>Two things to have in hand before you start</h3>
+
+      <p data-rv><strong>The engine: "is not X, that is why it is called X."</strong> Read a few sections and the pattern becomes impossible to miss. The Tathāgata speaks of merit — 即非 ("is exactly not") merit — 是名 ("that is why it is called") merit. Name it, negate it, rename it. Three beats, repeated across dozens of terms: merit, a world, a bodhisattva, the thirty-two marks, an ordinary person, a mass of dust.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">What the three beats are actually doing</b>
+        <ul>
+          <li><b>Beat one</b> acknowledges that the word functions and is useful — there really is such a thing as "merit," conventionally speaking.</li>
+          <li><b>Beat two</b> denies that the word names something with a fixed, independent essence sitting behind the label.</li>
+          <li><b>Beat three</b> restores the word to ordinary use, now stripped of the illusion that it points to something solid.</li>
+          <li>It is not a paradox for its own sake. You are being trained, sentence by sentence, <b>to use language without being captured by it</b>.</li>
+        </ul>
+      </div>
+
+      <p data-rv><strong>The four notions: self, person, being, lifespan</strong> (我相、人相、眾生相、壽者相). A second refrain runs alongside the first. Wherever the sūtra wants to name the root error — the thing a bodhisattva must be free of in order to actually be one — it names these four. They are not four separate mistakes. They are one grasping seen from four angles: a self that persists (self), a self set against other selves (person), a self as one of a class of beings (being), a self extended through time (lifespan).</p>
+
+      <p data-rv>Our reading notes come from Taixu (太虛, 1890–1947), delivered as lectures in 1927 — a modern voice, and the great reformer of twentieth-century Chinese Buddhism. He is unusually willing to say which of two readings he prefers and why, and once or twice below he stops commenting altogether and simply tells you a story.</p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">All thirty-two sections, across eight short parts</span></h2></div>
+      <p data-rv>The hub page below sets out the whole sūtra and then links eight parts in order. Read the hub's own orientation first if you want more on the engine and the four notions, then work straight through Parts 1 to 8. Around forty minutes. If you must split it, split after Part 4 — Subhūti weeps there, and it is a natural seam.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/diamond-sutra.html' | relative_url }}" data-rv>
+        <div class="trad">Mahāyāna · Perfection of Wisdom · complete in eight parts · Ru-Yi translation</div>
+        <h3>The Diamond Sūtra — full text &amp; reading guide</h3>
+        <p>《金剛般若波羅蜜經》 · Kumārajīva's Chinese beside an original English translation, thirty-two sections across eight parts, with reading notes after Taixu's 1927 lectures — and a twelve-question self-check at the end.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">The first instruction, the most famous line, and the last four lines</span></h2></div>
+
+      <h3 data-rv>1 · The first thing the sūtra tells you to do is not think — it is give</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 4 · from Part 1, Opening and Non-Abiding Giving</div>
+        <p>"Furthermore, Subhūti, when a bodhisattva practices giving, they should <strong>give without dwelling on anything at all</strong> — giving without dwelling on form, and without dwelling on sound, smell, taste, touch, or mental object. Subhūti, a bodhisattva should give like this, not dwelling on any mark. Why is this? If a bodhisattva gives without dwelling on marks, their merit cannot be measured."</p>
+        <div class="zh">復次，須菩提！菩薩於法，應無所住，行於布施。所謂不住色布施，不住聲、香、味、觸、法布施。須菩提！菩薩應如是布施，不住於相。何以故？若菩薩不住相布施，其福德不可思量。</div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read Part 1 in full →</a>
+      </div>
+
+      <p data-rv>Notice where this sits. Subhūti has just asked the question the whole sūtra exists to answer — how should someone who has set out on this path stand, and how should they subdue their own mind? — and the Buddha's first concrete answer is not a doctrine. Taixu is explicit about this: it is "an instruction to actually do something."</p>
+
+      <p data-rv>That placement is worth more than it looks. It means emptiness is never introduced here as a metaphysical claim to be admired from a distance and then applied later, if at all. It is introduced as a description of <em>how to act</em>, in the very first instruction given.</p>
+
+      <p data-rv>And what "without dwelling" rules out is quite specific. Not the giving. Not the gift. What is ruled out is the mind fastening onto anything in the transaction — Taixu lists them: "not the giver, not the gift, not the receiver, not even the merit accumulating from the act." That last one is the sharp end. Giving without dwelling is giving without the quiet bookkeeping — <em>I gave, they received, I am the kind of person who gives</em> — that turns generosity back into an acquisition for the self.</p>
+
+      <p data-rv>Then the Buddha asks whether the empty space to the east can be measured, and the south, west, north, above and below; and says the merit of such giving is unmeasurable in just that way. It would be easy to hear that as a bigger prize being dangled. Taixu reads it exactly the other way, and his reason is the plainest possible one: giving that still dwells on a mark earns finite, countable rewards — a return that can in principle be added up. Giving that dwells on nothing is unmeasurable <strong>because it was never gathered up as a possession belonging to anyone in the first place. There is nothing there to add up.</strong></p>
+
+      <h3 data-rv>2 · The line that woke Huineng</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 10 · from Part 3, No Fixed Fruit to Hold</div>
+        <p>"For this reason, Subhūti, all bodhisattva-mahāsattvas should give rise to a pure mind like this: they should not give rise to a mind dwelling on form, nor give rise to a mind dwelling on sound, smell, taste, touch, or mental object. <strong>They should give rise to a mind that dwells nowhere at all.</strong>"</p>
+        <div class="zh">是故，須菩提！諸菩薩摩訶薩，應如是生清淨心，不應住色生心，不應住聲、香、味、觸、法生心，應無所住而生其心。</div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read Part 3 in full →</a>
+      </div>
+
+      <p data-rv>Six characters — 應無所住而生其心 — carry more weight in East Asian Buddhism than almost any other line of scripture, because of one story. Taixu tells it rather than analysing it: when the Fifth Patriarch Hongren expounded exactly this line to Huineng in the middle of the night, the illiterate woodcutter who would become the Sixth Patriarch was awakened on the spot, and cried out five times over — "How could I have known that self-nature is originally pure in itself! …originally beyond birth and death! …originally complete in itself! …originally beyond all wavering! …that self-nature can give rise to the ten thousand things!"</p>
+
+      <p data-rv>Whether or not that is literal history, it captures what the line is doing. This is not a conclusion you reason your way toward. It is a description of a mind you could, in principle, simply recognise the moment you stop trying to plant it somewhere.</p>
+
+      <p data-rv>Be precise about "dwelling" (住). It means fixing the mind on something as a stable resting place — on a form, on a view, on an achievement, on your own practice. The instruction is <strong>not</strong> to have no mind, and not to think of nothing. Both halves of the line matter: <em>give rise to</em> a mind — act, respond, care, work — that dwells nowhere. A mind that can move because it is not anchored anywhere it could later be pulled out from under.</p>
+
+      <p data-rv>Which is, word for word, the Diamond Sūtra's version of the Heart Sūtra's "no obstruction, no fear" from last week — freedom described not as an absence but as a mind with nothing left to be caught on.</p>
+
+      <p data-rv>Four sections later the sūtra puts that claim under the heaviest load it can find:</p>
+
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 14 · from Part 4, A Mind That Dwells Nowhere</div>
+        <p>"…when King Kalī cut my body limb from limb, I held no notion of a self, no notion of a person, no notion of a being, no notion of a lifespan. Why do I say this? <strong>Because if, as my limbs were cut away piece by piece, I had held the notion of a self, a person, a being, a lifespan, I would surely have given rise to anger and resentment.</strong>"</p>
+        <div class="zh">須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。何以故？我於往昔，節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。</div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read Part 4 in full →</a>
+      </div>
+
+      <p data-rv>Read the reason the sūtra itself gives, because it is not the reason most readers supply. He does not say he had trained himself to endure. He says that anger <em>requires something to defend</em>, and that there was nothing standing behind the pain to be wronged. This is what makes patience a perfection rather than mere endurance: endurance grits its teeth and has a self doing the gritting.</p>
+
+      <p data-rv>Taixu adds a detail easy to miss at speed: in that life the bodhisattva held not only no anger, but made a private vow toward the man mutilating him — <em>"when I attain the path, I will be the first to liberate you."</em> The absence of resentment was never numbness. There was simply nowhere left for anger to take hold.</p>
+
+      <h3 data-rv>3 · The last four lines, and why there are six of them</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 32 · from Part 8, Like a Dream, a Bubble, a Shadow</div>
+        <p>"All conditioned things are like a dream, an illusion, a bubble, a shadow; like dew, and like a flash of lightning — <strong>see them all like this.</strong>"</p>
+        <div class="zh">一切有為法，如夢幻泡影，如露亦如電，應作如是觀。</div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read Part 8 in full →</a>
+      </div>
+
+      <p data-rv>These four lines are chanted independently of the rest of the sūtra, at funerals and in daily practice, more than any other four lines in Chinese Buddhism. Most readers take the six images as one blurred gesture meaning "life is fleeting." Taixu refuses to let them blur, and takes each one separately:</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">Six similes, six different angles</b>
+        <ul>
+          <li><b>A dream</b> — vivid and entirely convincing while it lasts, entirely gone the instant one wakes.</li>
+          <li><b>An illusion</b> — a conjurer's trick; the audience sees objects appear that were never actually there.</li>
+          <li><b>A bubble</b> — sunlight catches its surface and for a moment it gleams like a jewel; reach for it, and there was never a jewel at all.</li>
+          <li><b>A shadow</b> — it exists exactly as long as the object casting it exists, and has no substance of its own even then.</li>
+          <li><b>Dew</b> — it gathers in the clear stillness of early morning and is gone within the hour; never something that was going to last.</li>
+          <li><b>Lightning</b> — here in one instant, gone the next, striking one place and then another; neither constant nor evenly spread.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Taixu's reason for listing all six rather than resting on one is the best single sentence anyone has written about this verse: no single simile exhausts the point, and together they "close off any last place the mind might try to smuggle in a <em>but this part, at least, must be solid</em>."</p>
+
+      <p data-rv>And note what the verse does not say. Not that conditioned things are unreal — a dream is a real dream, a shadow is really there. It says they are transient, dependent, and insubstantial in exactly the way a dream or a bubble is. Which leaves the final instruction doing real work: 應作如是觀, <em>see them all like this</em>. Not believe. See. The same verb the very first sūtra in this course ended its first realization with, four sessions ago.</p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">One gift, and the impulse that follows it</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Give something nobody will thank you for</b>
+        <p>The sūtra's own first instruction is not a contemplation. So this week's is not either.</p>
+        <div class="how">
+          <b>Do one thing for someone that they will not know you did.</b> It does not need to be large; small is better, because size is one of the marks the mind likes to dwell on. Pay for something quietly. Fix something before anyone notices it was broken. Say the good thing about someone in a room they are not in.<br><br>
+          <b>Then watch for the impulse to mention it.</b> It will come — later that day, or a week from now, in a conversation where it would fit so naturally. You do not have to resist it heroically. Just notice it, and notice what it wants: to be seen as the kind of person who did that.<br><br>
+          <b>That impulse is "dwelling," caught in the wild.</b> Not a moral failure, and not something to punish yourself over — simply the mind trying to gather the act up and file it under your name. Seeing it happen once, clearly, teaches more than a month of thinking about non-attachment.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">The sūtra repeats a three-beat formula across dozens of terms — the Tathāgata speaks of X, is not X, that is why it is called X. What are the three beats doing?</div>
+          <button class="opt"><span class="ltr">A</span>Saying the same negation three times for emphasis, in the manner of chanted liturgy</button>
+          <button class="opt"><span class="ltr">B</span>Acknowledging that the word functions conventionally; denying that it names anything with a fixed independent essence; then restoring the word to ordinary use, stripped of the illusion that it points to something solid</button>
+          <button class="opt"><span class="ltr">C</span>Presenting a deliberate logical paradox, whose contradiction is itself the teaching</button>
+          <button class="opt"><span class="ltr">D</span>Preserving a scribal variant in which each term was recorded three times</button>
+          <div class="expl"><strong>Correct: B.</strong> Name it, negate it, rename it. The third beat is the one most readers drop, and it is what keeps the sūtra from collapsing into nihilism — the word comes back and goes on working. What you are being trained in, sentence by sentence, is using language without being captured by it.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Giving "without dwelling on marks" is said to produce merit as unmeasurable as space in every direction. On Taixu's reading, why is it unmeasurable?</div>
+          <button class="opt"><span class="ltr">A</span>Because the Buddha is promising an infinitely large reward to encourage generosity</button>
+          <button class="opt"><span class="ltr">B</span>Because a bodhisattva's gifts are themselves infinite in scale</button>
+          <button class="opt"><span class="ltr">C</span>Because it was never gathered up as a possession belonging to anyone in the first place, so there is nothing there to add up</button>
+          <button class="opt"><span class="ltr">D</span>Because merit is real but lies beyond the capacity of human arithmetic</button>
+          <div class="expl"><strong>Correct: C.</strong> Not a bigger prize — no prize. Taixu contrasts it directly with giving that still dwells on a mark, which "nets only the finite, countable rewards of gods and humans." What is ruled out is the mind fastening onto the giver, the gift, the receiver, or the merit itself. The last one is the sharp end.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">應無所住而生其心 — "give rise to a mind that dwells nowhere at all." What is the instruction?</div>
+          <button class="opt"><span class="ltr">A</span>Have no mind at all — think of nothing, and let awareness go blank</button>
+          <button class="opt"><span class="ltr">B</span>Fix the mind on a higher object instead of a lower one</button>
+          <button class="opt"><span class="ltr">C</span>Let the mind arise and act — respond, care, work — without anchoring itself anywhere it could later be pulled out from under</button>
+          <button class="opt"><span class="ltr">D</span>Concentrate single-pointedly on the breath until thought subsides</button>
+          <div class="expl"><strong>Correct: C.</strong> Both halves of the line matter: <em>give rise to</em> a mind that <em>dwells nowhere</em>. "Dwelling" (住) means fixing the mind on something as a stable resting place — a form, a view, an achievement, your own practice. This is the Diamond Sūtra's version of last session's "no obstruction, no fear": freedom as a mind with nothing left to be caught on.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">King Kalī cuts the bodhisattva apart limb by limb and no anger arises. What reason does the sūtra itself give?</div>
+          <button class="opt"><span class="ltr">A</span>He suppressed the anger by long training in patience and self-control</button>
+          <button class="opt"><span class="ltr">B</span>His attainment meant he no longer felt physical pain</button>
+          <button class="opt"><span class="ltr">C</span>He held no notion of a self, a person, a being, or a lifespan — anger requires something to defend, and there was nothing standing behind the pain to be wronged</button>
+          <button class="opt"><span class="ltr">D</span>He knew he would be reborn and so regarded the body as unimportant</button>
+          <div class="expl"><strong>Correct: C.</strong> The sūtra's own "why" is explicit: <em>if</em> he had held those notions, he "would surely have given rise to anger and resentment." That is what separates a perfection of patience from endurance — endurance grits its teeth, and there is a self doing the gritting. And Taixu's added detail rules out numbness: in that life the bodhisattva made a private vow to liberate his tormentor first of all.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">The closing verse gives six similes — dream, illusion, bubble, shadow, dew, lightning. Why six rather than one?</div>
+          <button class="opt"><span class="ltr">A</span>Six is a fixed number required by the verse form used for closing gāthās</button>
+          <button class="opt"><span class="ltr">B</span>Each catches conditioned existence from a slightly different angle, and together they close off any last place the mind might smuggle in "but this part, at least, must be solid"</button>
+          <button class="opt"><span class="ltr">C</span>They correspond one-to-one with the six senses named earlier in the sūtra</button>
+          <button class="opt"><span class="ltr">D</span>The original verse had one simile; five were added by later editors</button>
+          <div class="expl"><strong>Correct: B.</strong> Taixu's reason, almost word for word. A dream is convincing while it lasts; an illusion shows what was never there; a bubble gleams like a jewel until you reach for it; a shadow lasts exactly as long as what casts it; dew was never going to last the morning; lightning is neither constant nor evenly spread. And note what the verse does <em>not</em> say — not that conditioned things are unreal, but that they are transient, dependent, and insubstantial in precisely the way a dream is. The final instruction is 應作如是觀: <em>see</em> them like this.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);">Part 8 of the sūtra carries its own twelve-question self-check covering all thirty-two sections. <a href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">Take it there →</a></p>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Where do you dwell?</p>
+        <p class="sm">Name the one thing that, if it were taken away tomorrow, would leave you not quite knowing who you were. A role, a relationship, a competence, a reputation, a practice, an opinion about yourself. That is not a failure and the sūtra is not asking you to give it up. It is where you live — and the whole of this text's method is to keep asking, term after term, whether the thing you are standing on is as solid as the standing feels.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · The Buddha's Bequeathed Teaching</h3>
+        <p>Halfway. Two sessions on how to live, two on how to see — and now three on what to trust, beginning on the last night of the Buddha's life, between the twin śāla trees, with the plainest and most urgent thing he ever said.</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-3/' | relative_url }}">← Session 3</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
