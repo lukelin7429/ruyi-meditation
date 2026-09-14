@@ -1,0 +1,406 @@
+---
+layout: default
+title: "Session 5 · The Buddha's Bequeathed Teaching (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-5/
+excerpt: Session 5 of Read a Whole Sūtra — the last night between the twin śāla trees, and the plainest, most urgent thing the Buddha ever said.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 5</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 5 · 信 What to trust</div>
+      <h1>The Buddha's Bequeathed Teaching</h1>
+      <div class="subt">《佛遺教經》 — the last watch of the last night</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty minutes</span>
+        <span><b>Before class</b> Sessions 1–4</span>
+        <span><b>Setting</b> Kuśinagara, between the twin śāla trees</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, fifth</h2></div>
+
+      <p data-rv>Because two texts have just taken the ground out from under you, and someone has to say what to do on Monday.</p>
+
+      <p data-rv>The Heart Sūtra and the Diamond Sūtra are the two most exhilarating texts in this course and also the two easiest to misuse. A reader who has just learned that there is no attainment and that the mind should dwell nowhere has been handed, if they want it, an excellent excuse to do nothing in particular. This text is the answer to that, and it arrives with the maximum possible authority: it is the Buddha's last night alive.</p>
+
+      <p data-rv>The setting is entirely specific. Kuśinagara, between two śāla trees, the middle watch of the night, "in utter stillness and silence." He has just taught his final convert — Subhadra, a wandering ascetic of a hundred and twenty who heard the Buddha was dying and came anyway. Everyone who could be liberated has been. And he gathers the monks not to reveal a final secret doctrine but to say, briefly and plainly, what actually matters now that he is about to be gone.</p>
+
+      <div class="rs-pull" data-rv>No new teaching. Just the old ones, said once more by someone with a few hours left.</div>
+
+      <p data-rv>Daopei — our commentator again, the same Fujian abbot who guided Session 2 — notices something about the opening that is easy to read past. Most sūtras frame the one teaching they contain. This one opens by naming the Buddha's <em>first</em> convert, Kauṇḍinya, and his <em>last</em>, Subhadra, in a single sentence: "this sūtra frames the Buddha's entire ministry from beginning to end at once."</p>
+
+      <p data-rv>One thing to know before you read. This text is addressed to monastics, and a good deal of it is about the specific shape of a monastic life — no trade, no property, no fortune-telling, no courting the powerful. If you are not a monastic, do not skip those paragraphs. Read them for the structure underneath, which Daopei sets out plainly: each cluster of prohibitions answers one particular pull — toward worldly security, toward useful worldly craft, toward secular learning as a livelihood, toward influence and comfortable connection. None of them is condemned as evil in itself. A farmer or a physician commits no wrong. The point is narrower and more interesting: a person who has taken up one life has, by that act, set another one down.</p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">Twenty minutes — and read the last two paragraphs twice</span></h2></div>
+      <p data-rv>Kumārajīva's early-fifth-century translation, the same translator as the Diamond Sūtra you read last week. Notes after Daopei, with occasional reference to Vasubandhu's treatise on this same text. Ten sections, ending with the last words the Buddha is recorded as speaking.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}" data-rv>
+        <div class="trad">Early Chinese Buddhism · complete · Ru-Yi translation</div>
+        <h3>The Buddha's Bequeathed Teaching — full text</h3>
+        <p>《佛遺教經》 · Kumārajīva's Chinese beside an original English translation, in ten sections, with reading notes after Daopei.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">What replaces him, what to watch, and what he cannot do for you</span></h2></div>
+
+      <h3 data-rv>1 · What stands in for the teacher</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">The opening · the last watch of the night</div>
+        <p>"You monks — after I am gone, you should honor and treasure the prātimokṣa, the code of liberation, <em>exactly as one lost in darkness treasures a light, or a poor person treasures a found jewel</em>. <strong>Know that this is itself your own great teacher — no different from my own continued presence in the world.</strong>"</p>
+        <div class="zh">汝等比丘，於我滅後，當尊重珍敬波羅提木叉，如闇遇明、貧人得寶。當知此則是汝大師，若我住世無異此也。</div>
+        <a class="bk" href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Stop on what he did <em>not</em> name. Asked, in effect, what replaces the Buddha once the Buddha is gone, he does not answer "the teachings," or "emptiness," or "your own buddha-nature," or "a lineage of successors." He answers: <strong>the code of conduct.</strong> The rules.</p>
+
+      <p data-rv>To most Western readers that lands as an anticlimax at best and as institutional self-protection at worst. Daopei's gloss is worth taking seriously precisely because it refuses that reading: "it is by this precept-code that the Dharma-body itself, never actually extinguished, continues to work for the world's own final liberation." The conduct is not administrative housekeeping left over after the real teaching. It is <em>the concrete form the teaching takes</em> once its living teacher is no longer present to give it in person.</p>
+
+      <p data-rv>The two similes are also doing work. A light to someone lost in the dark and a jewel to someone poor are not images of restriction — they are images of something desperately wanted arriving. Conduct is being described as a relief, not a burden. Which is a claim you are free to disbelieve, and worth noticing that you are being asked to.</p>
+
+      <p data-rv>And the sūtra puts its own argument in one sentence a few lines later: "in dependence on this discipline, every meditative absorption, and the wisdom that extinguishes suffering, are able to arise." Not conduct <em>instead of</em> meditation and wisdom. Conduct as the floor they stand on.</p>
+
+      <h3 data-rv>2 · The herdsman, and the person watching only the honey</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 3 · governing the five faculties</div>
+        <p>"It is like a herdsman who, staff in hand, watches over the cattle, never letting them stray loose to trample another's crop… it is also like a wild horse never checked by a bridle, which will end by dragging its rider down into a pit… Of these five faculties, <strong>the mind is the master</strong>. You should therefore govern the mind well — the mind is more to be feared than a venomous snake, a savage beast, or a hateful bandit; even a great fire raging out of control is not a strong enough comparison for it. <em>It is like a person carrying a jar of honey, moving carelessly and in haste, watching only the honey and never noticing the deep pit ahead.</em>"</p>
+        <div class="zh">譬如牧牛之人，執杖視之，不令縱逸犯人苗稼……亦如惡馬，不以轡制，將當牽人墜於坑陷。……此五根者，心為其主。是故汝等當好制心，心之可畏，甚於毒蛇、惡獸、怨賊，大火越逸，未足喻也。譬如有人，手執蜜器，動轉輕躁，但觀於蜜，不見深坑。</div>
+        <a class="bk" href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Daopei reads these similes as deliberately escalating, and the escalation is the argument. Cattle straying into a neighbour's field is a contained, recoverable mistake — you go and fetch them. A bridle-less horse is a step worse, because now the person supposed to be in control is being carried along helplessly. And then the mind is introduced, and placed <em>above</em> the snake, the beast, the bandit and the raging fire already named — because "these other dangers threaten only this present life, while the mind's own unchecked movement carries harm across kalpa after kalpa."</p>
+
+      <p data-rv>But the image that should stay with you is the last one, and Daopei is precise about why. <strong>The person carrying the honey is not evil. They are not even reckless in any dramatic sense. They are simply looking at the wrong thing.</strong> Undone by ordinary, unremarkable inattention — which is the sūtra's own warning against assuming that this particular danger will announce itself clearly enough to be seen coming.</p>
+
+      <p data-rv>Two sections later the same warning gets its most physical image, and this one is worth holding beside everything the last two weeks have taught you about seeing through things:</p>
+
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 4 · moderation, and the serpent asleep in the room</div>
+        <p>"<strong>The venomous serpent of affliction lies asleep in your own heart, exactly as a black adder might lie asleep in your own room</strong> — you must use the hook of upheld precepts to drive it out at the earliest moment. Only once that sleeping serpent has been driven out can you rightly sleep in peace."</p>
+        <div class="zh">煩惱毒蛇睡在汝心，譬如黑蚖在汝室睡，當以持戒之鉤早摒除之。睡蛇既出乃可安眠，不出而眠是無慚人也。</div>
+        <a class="bk" href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Daopei distinguishes three kinds of drowsiness — from food, from the body's own rhythm, and from affliction — and notes that only the third is the target here. An arhat, having exhausted affliction entirely, "still sleeps by the body's own rhythm, since even a liberated being must rest." The urgency of the passage rests on one distinction: ordinary tiredness costs you a night's alertness; the affliction asleep in the heart, left undisturbed, costs far more than that — <em>and is far easier to mistake for simple tiredness in the meantime.</em></p>
+
+      <h3 data-rv>3 · The physician who cannot make you take the medicine</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 8 · the teaching complete, and where responsibility lies</div>
+        <p>"Whatever benefit the greatly compassionate World-Honored One has taught is already complete and entire — you need only apply yourselves diligently to putting it into practice… <strong>I am like a good physician, who knows the illness and prescribes the medicine — whether it is actually taken is no fault of the physician's own. I am also like a skillful guide, who shows a person the good road — if, having heard it, they do not walk it, that is no fault of the guide's own.</strong>"</p>
+        <div class="zh">大悲世尊所說利益，皆已究竟，汝等但當勤而行之。……我如良醫，知病說藥，服與不服，非醫咎也。又如善導，導人善道，聞之不行，非導過也。</div>
+        <a class="bk" href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Read cold, this can sound like a man washing his hands. Daopei reads it as the necessary complement to everything before it, and the logic holds: eight qualities, ten specific dangers, a herdsman's vigilance over five faculties — all of it given completely and without withholding, and <strong>none of it able to act on a listener's behalf</strong>. The two similes are not cold. They are what generosity looks like once it has finished giving.</p>
+
+      <p data-rv>What follows makes that unmistakable. He asks three times whether anyone holds any doubt at all about the four noble truths — "ask it now, without delay; do not harbor doubt and fail to seek its resolution." Three times, and nobody speaks. Daopei reads the repetition itself as a last act of compassion rather than formality: "the Buddha's own great compassion, unwilling to let a single doubt go unaddressed, even now, in these very last moments."</p>
+
+      <p data-rv>And Aniruddha, reading the room, answers for everyone in a comparison pitched deliberately past the impossible: "the moon could be made to give heat, and the sun could be made to give cold, before the Buddha's own teaching of the four truths could ever be made otherwise."</p>
+
+      <p data-rv>Then the final paragraph, which does something no other text in this course does — it stops itself:</p>
+
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 10 · the last words</div>
+        <p>"Know, then, that everything in the world is impermanent, that every meeting must end in parting — hold no sorrow over this… <strong>Be still now, and speak no further</strong> — the time is nearly past, and I am about to enter final extinction. These are my very last words of instruction."</p>
+        <div class="zh">汝等且止，勿得復語，時將欲過，我欲滅度，是我最後之所教誨。</div>
+        <a class="bk" href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Daopei will not read "be still now, and speak no further" as an abrupt cutoff. He reads it as the necessary end of an already-completed teaching: nothing further remains to be said, and <em>the silence that follows is itself the last instruction</em>. It is the only time in this course that a sūtra's most important line is the one that is not there.</p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">The first link of the chain, once a day</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Say "enough" once, out loud, every day</b>
+        <p>Section 7 lists eight qualities of a practitioner set free — few desires, contentment, solitude, diligence, unforgetting mindfulness, meditative absorption, wisdom, freedom from idle debate. Daopei insists these are not eight independent virtues to be picked from a menu but <strong>a single chain</strong>: few desires makes contentment possible, since a mind still wanting more can never be satisfied by what it already has; contentment makes solitude bearable; solitude clears ground for diligence; and so on, each link making the next one available.</p>
+        <div class="how">
+          <b>Which means there is only one place to start.</b> This week, once a day, find a moment where you would ordinarily have taken a little more — a second helping, one more episode, one more scroll, one more purchase already in the cart, one more minute of an argument you have already won — and instead say the word <strong>enough</strong>, out loud, and stop there.<br><br>
+          Out loud matters. It makes the moment a decision rather than a drift.<br><br>
+          <b>Then notice what happens next.</b> The sūtra's claim is not that stopping is virtuous. Its claim is causal — that a mind which stops wanting more becomes capable of being satisfied by what it already has, and that nothing further in the chain is available until then. Seven days is enough to find out whether that is true for you.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Asked, in effect, what stands in for the Buddha once he is gone, what does he name?</div>
+          <button class="opt"><span class="ltr">A</span>The teachings on emptiness, as the deepest thing he taught</button>
+          <button class="opt"><span class="ltr">B</span>A named successor, to lead the community after him</button>
+          <button class="opt"><span class="ltr">C</span>Each disciple's own buddha-nature, already complete within them</button>
+          <button class="opt"><span class="ltr">D</span>The prātimokṣa — the code of conduct — which "is itself your own great teacher, no different from my own continued presence in the world"</button>
+          <div class="expl"><strong>Correct: D.</strong> Not doctrine and not a person. Daopei refuses to read this as institutional housekeeping: "it is by this precept-code that the Dharma-body itself, never actually extinguished, continues to work for the world's own final liberation." Conduct is the concrete form the teaching takes once the teacher is gone — and the sūtra's own argument follows: "in dependence on this discipline, every meditative absorption, and the wisdom that extinguishes suffering, are able to arise."</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The sūtra's similes for the unguarded mind escalate — straying cattle, then a bridle-less horse, then the mind itself, ranked above snakes, beasts, bandits and raging fire. Why is the mind placed above all of those?</div>
+          <button class="opt"><span class="ltr">A</span>Because the mind is unreal, and unreal dangers cannot be defended against</button>
+          <button class="opt"><span class="ltr">B</span>Because those other dangers threaten only this present life, while the mind's unchecked movement carries harm across kalpa after kalpa</button>
+          <button class="opt"><span class="ltr">C</span>Because the other dangers are metaphors and the mind is literal</button>
+          <button class="opt"><span class="ltr">D</span>Because monastics rarely encounter snakes, beasts or bandits</button>
+          <div class="expl"><strong>Correct: B.</strong> Daopei's reading, and the escalation is the argument. Note the direction of travel in the images, too: straying cattle is recoverable — you fetch them; a bridle-less horse means the person meant to be in control is now being carried; and the mind exceeds even the fire.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">A person hurries along carrying a jar of honey, watching only the honey, and never sees the deep pit ahead. What is the point of the image?</div>
+          <button class="opt"><span class="ltr">A</span>That pleasure is a deception and the honey was never really sweet</button>
+          <button class="opt"><span class="ltr">B</span>That the greedy are punished in proportion to their greed</button>
+          <button class="opt"><span class="ltr">C</span>That the person is not evil, only inattentive — and that this danger will not announce itself clearly enough to be seen coming</button>
+          <button class="opt"><span class="ltr">D</span>That one should never accept offerings of food</button>
+          <div class="expl"><strong>Correct: C.</strong> Daopei is precise about it: undone by ordinary, unremarkable inattention rather than by any dramatic vice. That is what makes the image useful — most people are braced against their obvious faults and entirely unbraced against simply looking at the wrong thing while walking.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">"I am like a good physician… whether the medicine is actually taken is no fault of the physician's own." Is this the Buddha disclaiming responsibility?</div>
+          <button class="opt"><span class="ltr">A</span>No — it is the necessary complement to having given the whole teaching without withholding anything; the one thing a complete teaching cannot do is act on the listener's behalf</button>
+          <button class="opt"><span class="ltr">B</span>Yes — it marks a late shift toward a colder, more legalistic Buddhism</button>
+          <button class="opt"><span class="ltr">C</span>Yes, but it is softened by the promise of intervention at the moment of death</button>
+          <button class="opt"><span class="ltr">D</span>It is a scribal addition and is absent from the earliest recensions</button>
+          <div class="expl"><strong>Correct: A.</strong> And the passage immediately after it settles the question of coldness: he calls three times for anyone with any doubt about the four truths to raise it now, and nobody does. Daopei reads that triple call as a last act of compassion — "unwilling to let a single doubt go unaddressed, even now, in these very last moments."</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">The sūtra's final instruction is "be still now, and speak no further." How does Daopei read it?</div>
+          <button class="opt"><span class="ltr">A</span>As a rebuke to monks who had grown disorderly in their grief</button>
+          <button class="opt"><span class="ltr">B</span>As a conventional closing formula, carrying no particular meaning</button>
+          <button class="opt"><span class="ltr">C</span>As an abrupt cutoff forced by the Buddha's failing strength</button>
+          <button class="opt"><span class="ltr">D</span>As the necessary end of an already-complete teaching — nothing further remains to be said, and the silence that follows is itself the last instruction</button>
+          <div class="expl"><strong>Correct: D.</strong> It is the only place in this course where a sūtra's most important line is the one that is not there. Everything has been given; the eight qualities, the dangers, the physician's medicine. What is left is not more words but the doing of it — and the text models that by stopping.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>He asked three times whether anyone had a doubt, and nobody did. What would you have asked?</p>
+        <p class="sm">Take the question literally. You have a few hours, one question, and a teacher who will not be available afterward. Most people find that the question they would actually ask is not the one they have been reading toward — it is smaller, more embarrassing, and much more their own. Write it down somewhere you will find it again at the end of this course.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 6 · The Difficulty of Repaying Parents' Kindness</h3>
+        <p>A very short text answering a very old objection — and the one register of Buddhist ethics that Western Buddhism has almost entirely dropped. Carry your mother on one shoulder and your father on the other for a thousand years, and you still will not have repaid them. So what would?</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-4/' | relative_url }}">← Session 4</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
