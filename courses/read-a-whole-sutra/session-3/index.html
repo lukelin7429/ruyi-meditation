@@ -1,0 +1,420 @@
+---
+layout: default
+title: "Session 3 · The Heart Sūtra (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-3/
+excerpt: Session 3 of Read a Whole Sūtra — two hundred and sixty characters, the most famous scripture in Buddhism and the most misread, read whole in about three minutes.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 3</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 3 · 慧 How to see</div>
+      <h1>The Heart Sūtra</h1>
+      <div class="subt">《般若波羅蜜多心經》 — the most famous scripture in Buddhism, and the most misread</div>
+      <div class="rd">
+        <span><b>Reading time</b> about three minutes</span>
+        <span><b>Before class</b> Sessions 1–2</span>
+        <span><b>Length</b> 260 Chinese characters</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, third</h2></div>
+
+      <p data-rv>Because for two sessions the ground has been solid, and now it comes out.</p>
+
+      <p data-rv>The first two texts asked nothing of you metaphysically. Watch impermanence, want less, don't take the insult, don't overdo it, remember how short this is. A thoughtful atheist could sign every line. This one is different. It is two hundred and sixty Chinese characters long — you can memorise it in an afternoon — and within half a page it is denying, one after another, the existence of your eyes, your ears, your mind, your suffering, the path out of your suffering, wisdom itself, and anything to be attained.</p>
+
+      <p data-rv>First-time readers, Western readers especially, land on one of two conclusions. Either the text is nihilistic — nothing is real, nothing matters — or it is an elegant word-game with no content behind it. Both are wrong, and the interesting thing is that they are wrong in opposite directions. This session is mostly about why.</p>
+
+      <div class="rs-pull" data-rv>Read as a claim that nothing exists, it teaches despair. Read for what it actually denies, it teaches fearlessness. Nothing in the text changes; only what you bring to it.</div>
+
+      <p data-rv>Some orientation before you read. The title's "Heart" (心, <em>hṛdaya</em>) does not mean the seat of the emotions — it means the pith, the essence, the heart <em>of the matter</em>. This text compresses the enormous Perfection of Wisdom literature, which runs in places to a hundred thousand verses, into a single page. It is short because it is concentrated, not because it is introductory.</p>
+
+      <p data-rv>And notice who is speaking. Not the Buddha — Avalokiteśvara, the bodhisattva of compassion, addressing Śāriputra, the disciple the tradition names as foremost in wisdom. The deepest statement of wisdom in the canon is put in the mouth of compassion and taught to the master of analysis. That is the whole Mahāyāna in one stage direction: wisdom and compassion are not two separate projects.</p>
+
+      <p data-rv>Our reading notes come from Grand Master Yuanying (圓瑛大師, 1878–1953), president of the Chinese Buddhist Association across seven terms, whose commentary was delivered at Meifeng Monastery and printed in the year he died. He thinks in images — a mirror being polished, a hole being dug, waves on water, a jewel throwing off coloured light, a family remembering where its own treasure was buried. Three of those will do real work below.</p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">Three minutes — and then read it a second time</span></h2></div>
+      <p data-rv>This is the one text in the course short enough that reading it twice costs almost nothing. Do that. The first pass will feel like a wall; the second is where the structure starts showing through. The page sets it out in thirteen short movements with a reading note after each, and ends with a ten-question self-check of its own.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/heart-sutra.html' | relative_url }}" data-rv>
+        <div class="trad">Mahāyāna · Perfection of Wisdom · complete · Ru-Yi translation</div>
+        <h3>The Heart Sūtra — full text &amp; reading guide</h3>
+        <p>《般若波羅蜜多心經》 · Xuanzang's 649 CE Chinese beside an original English translation, thirteen movements, key terms, reading notes after Yuanying, and a ten-question quiz.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">The hinge, the wall of "no", and the reason any of it matters</span></h2></div>
+
+      <h3 data-rv>1 · The hinge, and why it runs in both directions</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Movement 5 · two doubts answered</div>
+        <p>"Śāriputra, form is not different from emptiness, emptiness is not different from form; <strong>form itself is emptiness, emptiness itself is form.</strong> Feeling, perception, formations, and consciousness are just the same."</p>
+        <div class="zh">舍利子，色不異空，空不異色；色即是空，空即是色。受想行識，亦復如是。</div>
+        <a class="bk" href="{{ '/sutras/heart-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Four clauses, and it is tempting to read them as one sentence saying the same thing four ways for rhythm. Yuanying reads them as closing four or five specific doors, each one a mistake a particular kind of reader actually makes.</p>
+
+      <p data-rv>The one worth most to a first-time reader is the door closed by the <em>second</em> direction. If the sūtra had only said "form is emptiness," you could quite reasonably conclude that emptiness is the real thing lying behind appearances — a truer, quieter reality you reach once the world of form has been extinguished or shut out. That is a very natural reading, it is enormously appealing, and the sūtra blocks it in four characters: <strong>空即是色</strong>, emptiness itself is form. There is no void behind the world. They are one situation, seen truly.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">Yuanying's two images for this</b>
+        <ul>
+          <li><b>Digging a hole.</b> Form is emptiness the way digging does not import space from somewhere else — the emptiness was already there, coextensive with the earth, before any digging began. Nothing is removed to reveal it and nothing is added.</li>
+          <li><b>Water and waves.</b> Emptiness is form the way water is waves: the surface changes constantly, one same wetness underneath. Calling the waves "not water," or the water "absent from the waves," would both simply be mistakes about what you are looking at.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Now the last line, which is easy to read past as formula: <em>"Feeling, perception, formations, and consciousness are just the same."</em> That sentence has a specific reader in mind — the one who is willing to grant that matter is insubstantial, that the body is a temporary arrangement of elements, but who quietly keeps <em>awareness</em> as the one solid thing, the observer behind it all. The sūtra names the four mental aggregates one by one and puts them in the same sentence as form. Mind is not exempt. Nothing is exempt.</p>
+
+      <h3 data-rv>2 · The wall of "no", and what is actually being denied</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Movement 9 · emptying the Four Truths, knowledge, and attainment</div>
+        <p>"There is no suffering, no origin, no cessation, no path; <strong>no wisdom, and no attainment — because there is nothing to attain.</strong>"</p>
+        <div class="zh">無苦集滅道。無智亦無得，以無所得故。</div>
+        <a class="bk" href="{{ '/sutras/heart-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Here is the single most useful sentence anyone can give you about this text: <strong>each "no X" denies that X has a fixed, independent, self-standing existence — not that X appears, functions, or matters.</strong> "No suffering" does not mean pain is not felt. It means suffering has no separate frozen essence sitting behind the felt experience, unhooked from causes and conditions. Run that through every clause and the wall stops being a wall.</p>
+
+      <p data-rv>Then look at the order, because the order is an argument. The sūtra empties the five aggregates, then the six senses and their objects, then the eighteen elements, then the twelve links of dependent origination — and then the Four Noble Truths, which is to say the Buddha's own first teaching, the thing everything else in Buddhism is built on. Only after that does it turn on wisdom and attainment themselves. <strong>The text aims at its own tools last, and it does not exempt them.</strong></p>
+
+      <p data-rv>Yuanying handles the Four Truths carefully, and in an order worth copying. He keeps their ordinary meaning fully intact first — suffering as fact, craving as its cause, cessation as the resulting peace, the path as the way there — and only then says what the Mahāyāna does with them: "here, birth-and-death just is nirvāṇa, affliction just is awakening; there is no origin to cut off, no suffering to abandon, no path to walk, no cessation to attain." Not a rejection. A claim that seen clearly enough, there was never a gap between the sickness and the cure.</p>
+
+      <p data-rv>One clause earlier the text does something even more surgical. Having emptied the twelve links — "no ignorance" — it adds <em>"and no end of ignorance."</em> Yuanying calls this "emptying the extinguishing, too," and is explicit about why it is needed: a practitioner can see straight through the whole chain of suffering and still quietly treat nirvāṇa as a real destination waiting at the far end, one more thing to acquire. That line closes the last door. The wheel and the escaping from it are seen through together.</p>
+
+      <div class="rs-scr" data-rv>
+        <div class="src">Movement 8 · emptying dependent origination</div>
+        <p>"There is no ignorance and <strong>no end of ignorance</strong>; and so on, up to no old-age-and-death and no end of old-age-and-death."</p>
+        <div class="zh">無無明，亦無無明盡，乃至無老死，亦無老死盡。</div>
+        <a class="bk" href="{{ '/sutras/heart-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>And "no attainment"? Yuanying's image is a family's own treasure, buried long ago, forgotten for years, and then suddenly remembered. Nothing was newly acquired in the remembering. The wealth had been theirs the whole time. What awakening finds was never absent — it only looks like a gain because it had, for so long, been mistaken for a loss.</p>
+
+      <h3 data-rv>3 · The line the whole text was built to reach</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Movement 10 · the bodhisattva's fearlessness</div>
+        <p>"The bodhisattva, relying on the Perfection of Wisdom, has a mind without obstruction. <strong>Because it is unobstructed, there is no fear</strong>; far removed from all upside-down views and dreamlike thinking, he comes to final nirvāṇa."</p>
+        <div class="zh">菩提薩埵，依般若波羅蜜多故，心無罣礙。無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。</div>
+        <a class="bk" href="{{ '/sutras/heart-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Everything before this line is analysis. This is what the analysis was for, and it is why the Heart Sūtra — rather than any of the longer, more systematic Perfection of Wisdom texts — is the one chanted in hospital rooms and at deathbeds across East Asia.</p>
+
+      <p data-rv>The key word is 罣礙 (<em>guà'ài</em>), translated here as "obstruction," but its literal sense is more useful: <strong>getting hung up, snagged, caught on something.</strong> A mind without 罣礙 is not a blank mind or a numb one. It is a mind with nothing left for the world to catch on.</p>
+
+      <p data-rv>The logic linking that to fearlessness is precise, and it is the payoff of the whole text. Fear requires two things: a self solid enough to be threatened, and a threat held as solid enough to do the threatening. Deny neither of them their appearance, their function, or their seriousness — deny only the fixed, independent existence we assign them — and the machinery of fear loses its grip. Not because you have stopped caring. Because you have stopped clutching.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">Two ways to be obstructed, and Yuanying catches both</b>
+        <ul>
+          <li><b>Hemmed in by existence.</b> An ordinary person, without insight into emptiness, clings to things as solidly real — and is caught on every one of them.</li>
+          <li><b>Hemmed in by emptiness.</b> A practitioner who has seen through things but has no feel for how they still function clings instead to stillness, to withdrawal, to the quiet. That is also a snag, and a subtler one, because it looks like progress.</li>
+          <li><b>Only holding neither leaves the mind genuinely without a catch.</b> Which is exactly why the sūtra spent four clauses, back in Movement 5, insisting that emptiness is also form.</li>
+        </ul>
+      </div>
+
+      <p data-rv>One last honest note, on the "upside-down views and dreamlike thinking" that fall away. Yuanying does not describe this as a single clean break. He describes four layers of delusion dissolving in mirrored order — like dressing, which goes from the innermost layer outward, and undressing, which reverses it. The subtlest confusions are the last to go. Whatever this text promises, it does not promise it quickly.</p>
+
+      <p style="font-size:15.5px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 20px;color:var(--ink);" data-rv><b style="color:var(--indigo);">Want this text taken apart rather than read through?</b> The Academy's <a href="{{ '/courses/heart-of-mahayana/session-1/' | relative_url }}" style="color:var(--indigo);font-weight:600;">Heart of the Mahāyāna, Session 1</a> reads the same sūtra through the two kinds of negation taught in <a href="{{ '/courses/collected-topics/' | relative_url }}" style="color:var(--indigo);font-weight:600;">Collected Topics</a> — a sharper, more technical instrument, and a genuinely different experience of the same page. Whether any single clause here is a "flat" or a "loaded" denial in the strict scholastic sense is a real and contested question; this session deliberately leaves it alone.</p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">One reading a day, and a log of seven snags</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Keep a snag log</b>
+        <p>Once a day, read the sūtra aloud, whole — three minutes. That is the easy half, and you should do it, because a text this compressed reveals different joints on different days.</p>
+        <div class="how">
+          <b>The real practice is the other half.</b> 罣礙 means getting caught on something. So each day, find <strong>one</strong> moment where your mind snagged — a remark you kept replaying, a small refusal, a plan you could not stop rehearsing, an irritation out of all proportion to its cause — and write down, in one line, what it was hooked on.<br><br>
+          Do not try to unhook it. Do not analyse whether the thing you snagged on "really exists." Just record the hook, seven days running.<br><br>
+          <b>At the end of the week, read the seven lines together.</b> Most people find that they have not recorded seven different things. They have recorded one thing seven times.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">The sūtra runs its central equation both ways — "form itself is emptiness" <em>and</em> "emptiness itself is form." Why does the second direction matter?</div>
+          <button class="opt"><span class="ltr">A</span>It is poetic repetition, included for rhythm in chanting</button>
+          <button class="opt"><span class="ltr">B</span>It blocks the reading in which emptiness is a truer reality lying behind the world, reachable only once form has been extinguished or shut out</button>
+          <button class="opt"><span class="ltr">C</span>It establishes that emptiness is superior to and separate from form</button>
+          <button class="opt"><span class="ltr">D</span>It cancels the first half, leaving a paradox with no content</button>
+          <div class="expl"><strong>Correct: B.</strong> Said only one way, the line invites you to imagine a quieter, realer something behind appearances. 空即是色 forecloses that in four characters. Yuanying's images: digging a hole imports no space from elsewhere — the emptiness was already there; and emptiness is form the way water is waves, one wetness under all that changing surface.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">After the famous line about form, the sūtra adds "feeling, perception, formations, and consciousness are just the same." Which reader is that sentence aimed at?</div>
+          <button class="opt"><span class="ltr">A</span>One who has forgotten the names of the five aggregates and needs the list repeated</button>
+          <button class="opt"><span class="ltr">B</span>One who thinks emptiness is a claim about suffering only</button>
+          <button class="opt"><span class="ltr">C</span>One willing to grant that matter is insubstantial, but who quietly keeps awareness or consciousness as the one solid thing behind it all</button>
+          <button class="opt"><span class="ltr">D</span>Nobody in particular — it is formulaic padding common to Perfection of Wisdom texts</button>
+          <div class="expl"><strong>Correct: C.</strong> It is a very common landing place: the body is a temporary arrangement, but <em>I</em> — the observer, the awareness — am the constant. The sūtra names all four mental aggregates and puts them in the same sentence as form. Mind is included with matter. Nothing is exempt.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">"No suffering, no origin, no cessation, no path" negates the Four Noble Truths — the Buddha's own first teaching. What is the sūtra doing?</div>
+          <button class="opt"><span class="ltr">A</span>Rejecting the Buddha's early teaching as false and superseded</button>
+          <button class="opt"><span class="ltr">B</span>Saying suffering is not real, so there is nothing that needs doing about it</button>
+          <button class="opt"><span class="ltr">C</span>Refusing to let even its most load-bearing teaching be held as a fixed, final thing — and, on Yuanying's reading, claiming that seen clearly there was never a gap between the sickness and the cure</button>
+          <button class="opt"><span class="ltr">D</span>Claiming the Four Noble Truths were never actually taught by the Buddha</button>
+          <div class="expl"><strong>Correct: C.</strong> Note how Yuanying orders it: he keeps the four truths' ordinary meaning entirely intact <em>first</em>, and only then adds the Mahāyāna move — "there is no origin to cut off, no suffering to abandon, no path to walk, no cessation to attain." The sūtra assumes you have taken the four truths seriously; it forbids turning them into one more solid thing to grasp. A raft carries you across the river. You do not then strap it to your back.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">The sūtra empties the twelve links of dependent origination — and then adds "and no <em>end</em> of ignorance." Why empty the extinguishing as well as the chain?</div>
+          <button class="opt"><span class="ltr">A</span>For symmetry — the formula simply mirrors every clause it uses</button>
+          <button class="opt"><span class="ltr">B</span>Because otherwise nirvāṇa quietly becomes a real destination waiting at the end of the chain — one more thing to acquire, which recreates the grasping the whole path was meant to dissolve</button>
+          <button class="opt"><span class="ltr">C</span>Because ignorance in fact cannot be ended, so the claim of an end is false</button>
+          <button class="opt"><span class="ltr">D</span>Because the twelve links are a later addition the sūtra is quietly correcting</button>
+          <div class="expl"><strong>Correct: B.</strong> Yuanying calls it "emptying the extinguishing, too." A practitioner can see straight through the mechanism of suffering and still hold the escape from it as a solid prize. The line closes that last door — the wheel and the getting free of it are seen through together.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">"Because it is unobstructed, there is no fear." What is the actual link between emptiness and fearlessness?</div>
+          <button class="opt"><span class="ltr">A</span>Sustained meditation relaxes the nervous system until fear subsides</button>
+          <button class="opt"><span class="ltr">B</span>The mantra at the end removes real danger from the world</button>
+          <button class="opt"><span class="ltr">C</span>Fear needs a self solid enough to be threatened and a threat held as solid; deny neither their appearance nor their seriousness, only their fixed independent existence, and the mind has nothing left to snag on — 罣礙 literally means getting caught</button>
+          <button class="opt"><span class="ltr">D</span>Fearlessness follows from the belief that nothing bad can happen to a practitioner</button>
+          <div class="expl"><strong>Correct: C.</strong> This is not numbness and it is not optimism. It is the fearlessness of someone who has stopped clutching. And Yuanying is careful that there are two ways to stay snagged: hemmed in by existence, clinging to things as solid; or hemmed in by emptiness, clinging to stillness and withdrawal — which looks like progress and is not. Only holding neither leaves the mind actually free.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);">Want more? The sūtra's own page carries a separate ten-question quiz covering the aggregates, the mantra, and the standard objections. <a href="{{ '/sutras/heart-sutra.html' | relative_url }}#quiz" style="color:var(--indigo);font-weight:600;">Take it there →</a></p>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Before this week, what did you take the word "emptiness" to mean — and where did you get that?</p>
+        <p class="sm">You almost certainly had a working definition before today, and almost certainly did not choose it deliberately. It arrived from a novel, a film, a teacher, a half-remembered paragraph, the ordinary English sense of the word. Name the source if you can. It is worth knowing which of your convictions about Buddhism you actually arrived at, and which were simply handed to you while you were looking elsewhere.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 4 · The Diamond Sūtra</h3>
+        <p>The same insight, reached by the opposite method. Where the Heart Sūtra hands you its conclusions as a cascade of negated nouns, the Diamond Sūtra almost never asserts anything — the Buddha asks, and Subhūti has to work it out in front of you, correcting his own first instinct mid-sentence. Forty minutes, and the longest text in this course.</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-2/' | relative_url }}">← Session 2</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
