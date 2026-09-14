@@ -1,0 +1,326 @@
+---
+layout: default
+title: Read a Whole Sūtra
+permalink: /courses/read-a-whole-sutra/
+excerpt: An eight-session course for complete beginners — eight short Buddhist scriptures read from first line to last, in Ru-Yi's own translations, with no background assumed.
+---
+
+<style>
+  .rw{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rw *{box-sizing:border-box;}
+  .rw-wrap{max-width:880px;margin:0 auto;padding:0 26px;}
+
+  /* reveal */
+  .js .rw [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .rw [data-rv].in{opacity:1;transform:none;}
+
+  .rw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rw-crumb .rw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:880px;}
+  .rw-crumb a{color:var(--indigo);text-decoration:none;}
+  .rw-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .rw-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 82% 12%,rgba(223,180,95,.24),transparent 62%),
+      linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);}
+  .rw-hero-in{position:relative;max-width:880px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .rw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .rw-hero .subt{font-style:italic;font-size:19px;color:#e9e3f7;max-width:40ch;}
+  .rw-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .rw-facts span{font-size:13px;color:#e9e3f7;border:1px solid rgba(223,180,95,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+  /* stack of pages, drifting */
+  .rw-leaves{position:absolute;right:-60px;top:-30px;width:330px;height:330px;z-index:1;color:rgba(223,180,95,.16);}
+  .rw-leaves rect{animation:rwdrift 14s ease-in-out infinite;transform-origin:center;}
+  .rw-leaves rect:nth-child(2){animation-delay:-4.6s;}
+  .rw-leaves rect:nth-child(3){animation-delay:-9.2s;}
+  @keyframes rwdrift{0%,100%{transform:translateY(0) rotate(0deg);}50%{transform:translateY(-12px) rotate(2.2deg);}}
+  @media (prefers-reduced-motion:reduce){.rw-leaves rect{animation:none;}}
+
+  .rw-body{background:#fff;padding:56px 0 20px;}
+  .rw-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .rw-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--indigo);}
+  .rw-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .rw-sec{margin:46px 0;}
+  .rw-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--indigo);margin-bottom:12px;}
+
+  /* the promise */
+  .rw-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#efeaf9;
+    box-shadow:0 26px 52px -30px rgba(27,22,56,.75);}
+  .rw-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .rw-promise .q em{color:var(--gold);font-style:italic;}
+  .rw-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .rw-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .rw-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .rw-obj li b{color:var(--indigo);}
+  .rw-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--jade);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  /* four movements */
+  .rw-arc{display:grid;gap:14px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:760px){.rw-arc{grid-template-columns:repeat(4,1fr);}}
+  .rw-mv{position:relative;background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:20px 18px 18px;overflow:hidden;
+    transition:transform .3s cubic-bezier(.22,.61,.36,1),box-shadow .3s;}
+  .rw-mv:hover{transform:translateY(-4px);box-shadow:0 20px 38px -26px rgba(51,41,107,.6);}
+  .rw-mv::after{content:"";position:absolute;left:0;top:0;height:3px;width:100%;background:linear-gradient(90deg,var(--gold),transparent);}
+  .rw-mv .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:26px;color:var(--indigo);line-height:1;}
+  .rw-mv b{display:block;color:var(--ink);font-size:15.5px;margin:8px 0 4px;}
+  .rw-mv span{font-size:13.5px;color:var(--ink-soft);line-height:1.5;display:block;}
+  .rw-mv .ss{margin-top:10px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);}
+
+  /* rhythm */
+  .rw-rhythm{display:grid;gap:10px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.rw-rhythm{grid-template-columns:repeat(6,1fr);}}
+  .rw-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 8px;}
+  .rw-rc .n{font-family:'Playfair Display',serif;color:var(--indigo);font-weight:700;font-size:15px;}
+  .rw-rc b{display:block;color:var(--ink);font-size:14px;margin:4px 0 2px;}
+  .rw-rc span{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+
+  /* schedule */
+  .rw-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .rw-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;position:relative;}
+  .rw-row:last-child{border-bottom:none;}
+  .rw-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--indigo);text-align:center;}
+  .rw-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .rw-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .rw-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .rw-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .rw-row.live:hover{background:#faf8fe;padding-left:26px;}
+  .rw-row.live .st{background:var(--indigo);color:#fff;}
+  .rw-row.soon{background:#fbfafd;cursor:default;}
+  .rw-row.soon .wk,.rw-row.soon .ti{color:#9d97ab;}
+  .rw-row.soon .st{background:#ece7f5;color:#9084b5;}
+  @media(max-width:560px){
+    .rw-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .rw-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .rw-row.live:hover{padding-left:20px;}
+  }
+  .rw-mvbar{display:flex;align-items:center;gap:10px;padding:9px 20px;background:linear-gradient(90deg,#f4f1fb,#fff);border-bottom:1px solid var(--line);}
+  .rw-mvbar .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;color:var(--indigo);font-size:17px;}
+  .rw-mvbar em{font-style:normal;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);}
+
+  .rw-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .rw-card ul{margin:6px 0 0;padding-left:20px;}
+  .rw-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .rw-card li b{color:var(--indigo);}
+
+  .rw-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .rw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .rw-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 14px 30px -16px rgba(42,33,88,.8);}
+  .rw-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(42,33,88,.9);}
+  .rw-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);}
+  .rw-btn.ghost:hover{background:var(--indigo);color:#fff;text-decoration:none;}
+
+  .rw-teacher{background:var(--indigo-deep);color:#ded7f0;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .rw-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .rw-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="rw">
+
+  <nav class="rw-crumb"><div class="rw-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> → <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → Read a Whole Sūtra</div></nav>
+
+  <!-- HERO -->
+  <section class="rw-hero">
+    <svg class="rw-leaves" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+      <rect x="30" y="86" width="150" height="30" rx="3"/>
+      <rect x="22" y="52" width="150" height="30" rx="3"/>
+      <rect x="14" y="18" width="150" height="30" rx="3"/>
+    </svg>
+    <div class="rw-hero-in">
+      <div class="rw-eyebrow">Ru-Yi Academy · Course · Reading the Sūtras Whole</div>
+      <h1>Read a Whole Sūtra</h1>
+      <div class="subt">讀一部經 — eight short scriptures, first line to last</div>
+      <div class="rw-facts">
+        <span>8 sessions</span>
+        <span>Beginner · no background needed</span>
+        <span>Taught in English</span>
+        <span>Free · all texts on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rw-body">
+    <div class="rw-wrap">
+
+      <p class="rw-lede first" data-rv>Ask someone who has read widely about Buddhism how many sūtras they have actually read from the first line to the last, and the honest answer is usually none. Not from laziness — the English-language Buddhist world is built that way. It teaches practice superbly and hands you the scriptures in fragments: a verse on a retreat handout, a line quoted in a book, a chapter excerpted in an anthology. You can spend twenty years in it and never once have the experience of opening a text, reading it whole, and closing it.</p>
+
+      <p data-rv>This course exists to give you that experience eight times. Every text here is short enough to read in one sitting, complete, and already translated on this site — nothing to buy, nothing to track down. Each session sets the text up in a paragraph, sends you off to read the whole thing, then comes back and reads three passages closely with you. By the end you will not have read <em>about</em> eight sūtras. You will have read them.</p>
+
+      <div class="rw-promise" data-rv>
+        <p class="q">Most people who love Buddhism have never read a single scripture all the way through. <em>In eight weeks, you will have read eight.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="rw-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="rw-obj">
+          <li>Say honestly that you have <b>read eight complete Buddhist scriptures</b> — not excerpts, not summaries, not somebody's retelling.</li>
+          <li>Read a sūtra the way it was built to be read — noticing its <b>shape, its refrains, and the place where it turns</b> — instead of mining it for quotable lines.</li>
+          <li>Hold four registers of the tradition without collapsing them into each other — <b>how to live, how to see, what to trust, what to promise</b>.</li>
+          <li>Use a classical Chinese commentary the way a reader should — as <b>a second opinion, not a verdict</b> — and notice when a commentator is adding something the text itself never said.</li>
+          <li>Tell the difference between a text's <b>devotional power and its canonical standing</b>, and hold both honestly at once.</li>
+          <li>Open any sūtra in this site's collection and know how to begin.</li>
+        </ol>
+      </div>
+
+      <!-- THE ARC -->
+      <div class="rw-sec" data-rv>
+        <div class="lbl">The arc of the eight</div>
+        <p style="margin:0 0 16px;">The order is not chronological and not by length. It moves through four registers, in the order a reader can actually take them — conduct first, because it asks nothing you have to believe; vows last, because by then you will know what you would be promising.</p>
+        <div class="rw-arc">
+          <div class="rw-mv"><div class="zh">行</div><b>How to live</b><span>Conduct, contentment, and the middle way — before any metaphysics at all.</span><div class="ss">Sessions 1–2</div></div>
+          <div class="rw-mv"><div class="zh">慧</div><b>How to see</b><span>Emptiness, twice — once stated, once argued out in front of you.</span><div class="ss">Sessions 3–4</div></div>
+          <div class="rw-mv"><div class="zh">信</div><b>What to trust</b><span>A teacher gone, a debt unpayable, a name held in mind.</span><div class="ss">Sessions 5–7</div></div>
+          <div class="rw-mv"><div class="zh">願</div><b>What to promise</b><span>Reading turns into vowing, and the course opens onto the next.</span><div class="ss">Session 8</div></div>
+        </div>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="rw-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">About twenty minutes of class, plus the reading itself — which is the point, and is never skipped.</p>
+        <div class="rw-rhythm">
+          <div class="rw-rc"><div class="n">1</div><b>Why this one</b><span>Thirty seconds of context</span></div>
+          <div class="rw-rc"><div class="n">2</div><b>Read it whole</b><span>The full text, on this site</span></div>
+          <div class="rw-rc"><div class="n">3</div><b>Three passages</b><span>Read closely, together</span></div>
+          <div class="rw-rc"><div class="n">4</div><b>One practice</b><span>A single thing, for a week</span></div>
+          <div class="rw-rc"><div class="n">5</div><b>Five questions</b><span>Self-check, instant feedback</span></div>
+          <div class="rw-rc"><div class="n">6</div><b>One question</b><span>Left open on purpose</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="rw-sec" data-rv>
+        <div class="lbl">The eight sūtras</div>
+        <p style="margin:0 0 14px;">Sessions are being published one at a time. Each links to the complete translation on this site.</p>
+        <div class="rw-sched">
+
+          <div class="rw-mvbar"><span class="zh">行</span><em>How to live</em></div>
+
+          <a class="rw-row live" href="{{ '/courses/read-a-whole-sutra/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">The Eight Realizations of Great Beings<small>《佛說八大人覺經》 · The whole path on a single page</small></div>
+            <div class="st">Open →</div>
+          </a>
+
+          <div class="rw-row soon">
+            <div class="wk">2</div>
+            <div class="ti">The Sūtra of Forty-Two Chapters<small>《四十二章經》 · The first Buddhist book in Chinese, and the most quotable</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="rw-mvbar"><span class="zh">慧</span><em>How to see</em></div>
+
+          <div class="rw-row soon">
+            <div class="wk">3</div>
+            <div class="ti">The Heart Sūtra<small>《般若波羅蜜多心經》 · The most famous scripture in Buddhism, and the most misread</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="rw-row soon">
+            <div class="wk">4</div>
+            <div class="ti">The Diamond Sūtra<small>《金剛經》 · The same insight, argued out instead of stated</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="rw-mvbar"><span class="zh">信</span><em>What to trust</em></div>
+
+          <div class="rw-row soon">
+            <div class="wk">5</div>
+            <div class="ti">The Buddha's Bequeathed Teaching<small>《佛遺教經》 · The last night, between the twin śāla trees</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="rw-row soon">
+            <div class="wk">6</div>
+            <div class="ti">The Difficulty of Repaying Parents' Kindness<small>《佛說父母恩難報經》 · A debt no amount of care can discharge</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="rw-row soon">
+            <div class="wk">7</div>
+            <div class="ti">The Amitābha Sūtra<small>《佛說阿彌陀經》 · The most recited scripture on earth, and the hardest to believe</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="rw-mvbar"><span class="zh">願</span><em>What to promise</em></div>
+
+          <div class="rw-row soon">
+            <div class="wk">8</div>
+            <div class="ti">The Vows of Samantabhadra<small>《普賢行願品》 · Ten vows, and the end of reading</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="rw-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="rw-card">
+          <ul>
+            <li><b>Nothing to buy.</b> All eight texts are on this site, in full, in Ru-Yi's own English translation beside the Chinese.</li>
+            <li><b>No background at all.</b> Every technical term is explained where it first appears. Nothing earlier in this Academy is assumed.</li>
+            <li><b>Time to actually read.</b> The shortest text here takes four minutes; the longest, about forty. The one thing this course cannot do for you is the reading.</li>
+            <li><b>A willingness to finish something you dislike.</b> At least one of these eight will rub you the wrong way. Read it to the end anyway — that is where the course does its real work.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- RELATED -->
+      <div class="rw-sec" data-rv>
+        <div class="lbl">How this sits beside the other courses</div>
+        <p style="font-size:15.5px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 20px;color:var(--ink);"><b style="color:var(--indigo);">Sessions 3 and 4 share their texts with <a href="{{ '/courses/heart-of-mahayana/' | relative_url }}" style="color:var(--indigo);font-weight:700;">The Heart of the Mahāyāna</a>, on purpose.</b> That course reads the Heart and Diamond Sūtras through the logic of negation taught in <a href="{{ '/courses/collected-topics/' | relative_url }}" style="color:var(--indigo);font-weight:600;">Collected Topics</a> — a sharp instrument, for readers who want to take the text apart. This course assumes none of that and asks a different question — not <em>how does this argument work</em>, but <em>what is it like to read this scripture all the way through</em>. Take either first. They are built to be read against each other.</p>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="rw-actions" data-rv>
+        <a class="rw-btn primary" href="{{ '/courses/read-a-whole-sutra/session-1/' | relative_url }}">Begin Session 1 →</a>
+        <a class="rw-btn ghost" href="{{ '/sutras/' | relative_url }}">Browse the sūtra collection</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="rw-teacher" data-rv>
+        <div class="q">"People come to me having read five books about Buddhism and not one page of a sūtra, and they apologize for it as though it were their own failing. It isn't. Nobody ever handed them a whole one and said, here, this takes eleven minutes. So that is all this course does. Eight times, I hand you a whole one."</div>
+        <div class="who">— Luke Lin, instructor · Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rw');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>

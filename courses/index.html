@@ -72,6 +72,40 @@ excerpt: Ru-Yi Academy — guided courses that walk you through the Buddha's tea
 
   .ac-note{max-width:680px;margin:52px auto 0;text-align:center;color:var(--ink-soft);font-size:14.5px;line-height:1.7;
     border-top:1px solid var(--line);padding-top:28px;}
+  /* ---- THE FIVE-LAYER PATH ---- */
+  .ac-path{background:linear-gradient(180deg,#1b1638 0%,#241d47 55%,#2e2557 100%);color:#e4ddf5;padding:78px 0 86px;}
+  .ac-path .ac-wrap{max-width:900px;}
+  .ac-path-head{text-align:center;max-width:640px;margin:0 auto 46px;}
+  .ac-path-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--gold);}
+  .ac-path-head h2{font-family:'Playfair Display',serif;font-size:clamp(28px,4.4vw,42px);color:#fff;margin:10px 0 12px;}
+  .ac-path-head p{font-size:16.5px;line-height:1.72;color:#c9c0e3;margin:0;}
+  .ac-steps-rail{position:relative;}
+  .ac-steps-rail::before{content:"";position:absolute;left:23px;top:14px;bottom:14px;width:2px;
+    background:linear-gradient(180deg,var(--gold),rgba(223,180,95,.15));}
+  @media(max-width:640px){.ac-steps-rail::before{left:17px;}}
+  .ac-layer{position:relative;display:block;text-decoration:none;padding:0 0 26px 66px;}
+  @media(max-width:640px){.ac-layer{padding-left:52px;}}
+  .ac-layer:last-child{padding-bottom:0;}
+  .ac-layer .dotn{position:absolute;left:0;top:2px;width:48px;height:48px;border-radius:50%;
+    display:flex;align-items:center;justify-content:center;font-family:'Playfair Display',serif;font-size:19px;font-weight:700;
+    background:#1b1638;border:2px solid rgba(223,180,95,.42);color:var(--gold);transition:transform .3s,border-color .3s,background .3s;}
+  @media(max-width:640px){.ac-layer .dotn{width:36px;height:36px;font-size:16px;}}
+  .ac-layer.now .dotn{background:linear-gradient(158deg,#4e4384,#2a2158);border-color:var(--gold);color:#fff;
+    box-shadow:0 0 0 0 rgba(223,180,95,.5);animation:acpulse 2.6s infinite;}
+  .ac-layer:hover .dotn{transform:scale(1.07);border-color:var(--gold);}
+  .ac-layer .lt{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px;}
+  .ac-layer h3{font-family:'Playfair Display',serif;font-size:21px;color:#fff;margin:0;line-height:1.2;}
+  .ac-layer .tag{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;border-radius:20px;padding:3px 11px;}
+  .ac-layer .tag.open{background:var(--gold);color:#2b2010;}
+  .ac-layer .tag.soon{background:rgba(255,255,255,.1);border:1px solid rgba(223,180,95,.32);color:#d8cdf0;}
+  .ac-layer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#b3a7d6;}
+  .ac-layer p{font-size:15.5px;line-height:1.68;color:#c2b8df;margin:8px 0 0;max-width:62ch;}
+  .ac-layer .src{display:block;margin-top:7px;font-size:13px;color:#8d83ae;font-style:italic;}
+  a.ac-layer:hover h3{color:var(--gold);}
+  a.ac-layer:hover{text-decoration:none;}
+  .ac-path-foot{margin:48px auto 0;max-width:640px;text-align:center;font-size:14.5px;line-height:1.75;color:#a99fc9;
+    border-top:1px solid rgba(223,180,95,.22);padding-top:26px;}
+  .ac-path-foot a{color:var(--gold);font-weight:600;}
 </style>
 
 <div class="ac">
@@ -113,6 +147,25 @@ excerpt: Ru-Yi Academy — guided courses that walk you through the Buddha's tea
         <div class="lbl">Now enrolling</div>
         <h2>The courses</h2>
       </div>
+
+      <!-- NEW COURSE — START HERE -->
+      <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}" class="ac-course">
+        <div class="ac-course-top" style="background:linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);">
+          <span class="ac-badge"><span class="dot"></span>Start here · Session 1 live</span>
+          <h3>Read a Whole Sūtra</h3>
+          <div class="sub">讀一部經 — eight short scriptures, first line to last</div>
+        </div>
+        <div class="ac-course-body">
+          <p>Ask someone who has read widely about Buddhism how many sūtras they have read from the first line to the last, and the honest answer is usually none. Eight short texts, each complete, each read whole — with three passages opened closely, one practice, and one question left open. No background of any kind is assumed.</p>
+          <div class="ac-meta">
+            <span class="m"><b>8</b> sessions</span>
+            <span class="m"><b>Complete beginner</b> · nothing assumed</span>
+            <span class="m"><b>English</b></span>
+            <span class="m"><b>Free</b> · all texts on this site</span>
+            <span class="go">View the course <span class="arw">→</span></span>
+          </div>
+        </div>
+      </a>
 
       <!-- LIVE COURSE -->
       <a href="{{ '/courses/buddhas-own-words/' | relative_url }}" class="ac-course">
@@ -210,6 +263,64 @@ excerpt: Ru-Yi Academy — guided courses that walk you through the Buddha's tea
       </a>
 
       <p class="ac-note">Ru-Yi Academy is being built now, ahead of its full opening. These first courses are taught in small tutorials so the material can be tested and refined with real students before the Academy opens its doors. Interested in taking a course? <a href="{{ '/community/' | relative_url }}" style="color:var(--maroon);font-weight:600;">Get in touch through Community</a>.</p>
+
+    </div>
+  </section>
+
+  <!-- THE FIVE-LAYER PATH -->
+  <section class="ac-path">
+    <div class="ac-wrap">
+      <div class="ac-path-head">
+        <div class="lbl">The shape of the whole thing</div>
+        <h2>Five layers, one path</h2>
+        <p>The Academy's courses are not a shelf of unrelated offerings. They are five layers of one path — each built on the texts the layer before it taught you to read. This is the whole plan, including the parts not built yet.</p>
+      </div>
+
+      <div class="ac-steps-rail">
+
+        <div class="ac-layer">
+          <div class="dotn">0</div>
+          <div class="lt"><h3>Stories the Buddha Told</h3><span class="tag soon">Coming</span></div>
+          <div class="zh">佛陀講過的故事 · 8–10 sessions</div>
+          <p>The door for someone who has never encountered Buddhism at all. One story a session, one question a session, and not a single technical term anywhere. No doctrine is taught; it is simply assumed that a person who has been moved by a story will want to know where it came from.</p>
+          <span class="src">Built from the fifty fascicles of the 經律異相 anthology and the Buddhacarita, both complete on this site.</span>
+        </div>
+
+        <a class="ac-layer now" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">
+          <div class="dotn">1</div>
+          <div class="lt"><h3>Read a Whole Sūtra</h3><span class="tag open">Open now</span></div>
+          <div class="zh">讀一部經 · 8 sessions</div>
+          <p>The core of the Academy. Eight short scriptures, each read from the first line to the last — conduct, then wisdom, then trust, then vows. The promise is plain and unusual: finish the course and you will have read eight complete Buddhist scriptures, not eight summaries of them.</p>
+          <span class="src">All eight texts already translated on this site, Chinese beside English.</span>
+        </a>
+
+        <div class="ac-layer">
+          <div class="dotn">2</div>
+          <div class="lt"><h3>Six Questions</h3><span class="tag soon">Coming</span></div>
+          <div class="zh">六個問題 · 8–10 sessions</div>
+          <p>Six questions anyone asks eventually — who am I, what is mind, why do I suffer, what is death, what counts as living well, is any of it meaningful. Each one answered <em>twice</em>, once from the Southern tradition and once from the Northern, side by side, so you can watch two schools work on the same problem and decide for yourself what changed. Almost nothing in English does this.</p>
+          <span class="src">From the Visuddhimagga on one side; Yogācāra, Prajñāpāramitā, and the Pure Land scriptures on the other.</span>
+        </div>
+
+        <div class="ac-layer">
+          <div class="dotn">3</div>
+          <div class="lt"><h3>Fifty-Three Teachers</h3><span class="tag soon">Coming</span></div>
+          <div class="zh">五十三位老師 — 善財的旅程 · one teacher per session</div>
+          <p>The Academy's signature course, and the one that exists nowhere else. Sudhana walks south and studies under fifty-three teachers in turn — a ferryman, a judge, a perfume seller, a little girl, a king who only pretends to be cruel. It is a road story about the plainest and most demanding idea in the tradition: that you can learn from anyone.</p>
+          <span class="src">From Ru-Yi's own translation of the Gaṇḍavyūha — the Avataṃsaka's final book, in progress on this site.</span>
+        </div>
+
+        <div class="ac-layer">
+          <div class="dotn">4</div>
+          <div class="lt"><h3>The Schools, in Depth</h3><span class="tag soon">Coming</span></div>
+          <div class="zh">學派深入 · electives</div>
+          <p>For the few who walk the first three layers and want to go further: Yogācāra as Buddhist psychology, Madhyamaka as the dismantling of every position, and the Perfection of Wisdom literature at full length rather than in summary. These are electives, and they are meant to be hard.</p>
+          <span class="src">The hundred fascicles of the Yogācārabhūmi, the Cheng Weishi Lun, the Mahāprajñāpāramitā-śāstra, and the Madhyamaka treatises — all on this site.</span>
+        </div>
+
+      </div>
+
+      <p class="ac-path-foot">Layers are published in order, and each is announced here as it opens. The texts themselves do not wait for the courses — the whole <a href="{{ '/sutras/' | relative_url }}">sūtra collection</a> and <a href="{{ '/theravada/' | relative_url }}">Theravāda library</a> are already open, in full, for anyone who wants to read ahead.</p>
 
     </div>
   </section>
