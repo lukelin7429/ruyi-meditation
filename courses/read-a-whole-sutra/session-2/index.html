@@ -1,0 +1,418 @@
+---
+layout: default
+title: "Session 2 · The Sūtra of Forty-Two Chapters (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-2/
+excerpt: Session 2 of Read a Whole Sūtra — the first Buddhist book carried into China, forty-two short sayings on insult, effort, desire, and how long a human life actually is.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 2 · 行 How to live</div>
+      <h1>The Sūtra of Forty-Two Chapters</h1>
+      <div class="subt">《四十二章經》 — the first Buddhist book carried into China</div>
+      <div class="rd">
+        <span><b>Reading time</b> about fifteen minutes</span>
+        <span><b>Before class</b> Session 1</span>
+        <span><b>Length</b> forty-two short chapters</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, second</h2></div>
+
+      <p data-rv>Because after a text built to be recited, here is one built to be quoted.</p>
+
+      <p data-rv>Session 1 gave you a scripture designed to be held whole in the mind and said aloud twice a day. This one is its opposite in every formal respect: forty-two separate sayings, none longer than a paragraph, with no narrative running through them and no argument that requires you to read chapter eleven before chapter twelve. It is the closest thing in the Buddhist canon to the wisdom books a Western reader has probably already met — Marcus Aurelius, Proverbs, La Rochefoucauld. You can open it anywhere. Several of its chapters will follow you around for years.</p>
+
+      <p data-rv>It also happens to be, by tradition, the first Buddhist scripture ever translated into Chinese. The story is famous: the Han emperor Ming dreamed of a golden figure flying through his palace, sent envoys west to find out what it meant, and they returned in 67 CE with this text and two Indian monks, who were housed at the White Horse Temple outside Luoyang — traditionally the first Buddhist monastery on Chinese soil.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">And modern scholarship doubts most of that</b>
+        <ul>
+          <li>No Sanskrit or other Indic original of this specific text has ever surfaced.</li>
+          <li>Its forty-two sayings read less like a single continuous sūtra than <b>a topically arranged digest of aphorisms</b>, in the manner of the Āgama and Dhammapada literature.</li>
+          <li>Several scholars have proposed it took its present shape <b>gradually, in China itself</b>, rather than arriving complete from India in one translation event.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Notice how the sūtra's own page on this site handles that, because you are going to meet this habit of mind several more times in this course — and by Session 6 you will need it badly. The tradition is presented as tradition. The scholarly doubt is stated plainly. And neither uncertainty is allowed to dim what the text has actually meant to readers for two thousand years. Those are three separate operations, and most writing about Buddhism collapses at least two of them.</p>
+
+      <div class="rs-pull" data-rv>A text can be historically doubtful and still be the book that taught a civilization how to read.</div>
+
+      <p data-rv>Two practical notes. This translation follows the Song-dynasty monk Shousui's recension, the base text used by nearly every later commentator, rather than the Taishō canon's imperial redaction, which differs in wording at several points. And the reading notes come from Daopei (1615–1702), a Caodong-lineage abbot in Fujian whose preface says exactly what kind of book he thinks this is — not a work of "lofty and expansive discourse," but "the daily, close-at-hand instruction" a beginner needs before anything else, "as building a mountain nine fathoms high must still begin with a single basket of earth."</p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">All forty-two, in order, before anything else on this page</span></h2></div>
+      <p data-rv>Fifteen minutes or so. Resist the urge to stop at the good ones — part of what this text does only works cumulatively, as the same few concerns (desire, anger, effort, the shortness of a life) come back at you from a dozen different angles.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/forty-two-chapters/' | relative_url }}" data-rv>
+        <div class="trad">Early Chinese Buddhism · complete · Ru-Yi translation</div>
+        <h3>The Sūtra of Forty-Two Chapters — full text</h3>
+        <p>《四十二章經》 · Shousui's recension · all forty-two chapters in Chinese and English, with reading notes after Daopei.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">On being insulted, on trying too hard, and on how long you have</span></h2></div>
+
+      <h3 data-rv>1 · The gift nobody accepted</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Chapter seven</div>
+        <p>"The Buddha said: There was one who, hearing that I upheld the way and practiced great benevolence and compassion, came deliberately to curse me. The Buddha remained silent and did not answer. Once the cursing had stopped, he asked: <em>'If you offer a gift to someone with proper courtesy, and that person does not accept it, does the gift then return to you?'</em> 'It does,' the man answered. The Buddha said: <strong>'You have now cursed me, and I do not accept it — so this misfortune now returns to your own self.'</strong>"</p>
+        <div class="zh">佛言：有人聞吾守道，行大仁慈，故致罵佛，佛默不對。罵止，問曰：子以禮從人，其人不納，禮歸子乎？對曰：歸矣！佛言：今子罵我，我今不納，子自持禍，歸子身矣。</div>
+        <a class="bk" href="{{ '/sutras/forty-two-chapters/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Watch the sequence, because almost everything is in the order of events. First, the Buddha does nothing. He does not interrupt, correct, or explain; he lets the man finish. Only "once the cursing had stopped" does he speak — and what he says is not a defense, not a rebuke, and not forgiveness in the sense a Western reader is likely to expect.</p>
+
+      <p data-rv>It is a question about etiquette. And the question carries the whole argument: an insult, like a gift, is a transaction that requires two parties to complete. One person offers; one person must take it up. The text never claims the man's words were untrue, and never says the Buddha suppressed his anger by an act of will. It says the transaction simply failed for lack of a receiver, and that what fails to land stays with the person who sent it.</p>
+
+      <p data-rv>The next chapter gives the same point a second, blunter image: an evil person harming a worthy one is "like someone spitting up at the sky — the spittle never reaches the sky, but falls back upon themselves; or like someone throwing dust against the wind." Daopei reads the two chapters as one point from two angles: harm aimed at someone genuinely settled in goodness has, quite literally, nowhere else to land.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">One honest caution before you try to use this</b>
+        <ul>
+          <li><b>This is a description, not a technique.</b> The chapter's own first line establishes the Buddha as one who already "upheld the way and practiced great benevolence and compassion" — before any insult arrives. The non-acceptance is a consequence of that, not a trick that produces it.</li>
+          <li><b>Declining an insult is not pretending it did not happen.</b> Nothing here counsels denial; the Buddha hears the whole thing out. What he declines is the invitation to take it on as a description of himself.</li>
+          <li>Used carelessly, "I simply don't accept it" becomes a way of not listening at all. The chapter offers no protection against that misuse, which is worth noticing about a text this quotable.</li>
+        </ul>
+      </div>
+
+      <h3 data-rv>2 · The lute strings, and the person this chapter is actually for</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Chapter thirty-four</div>
+        <p>"A monk, reciting the bequeathed teaching of the buddha Kāśyapa in the night, chanted it in a tone so mournful and strained that he began to regret his own path and think of giving it up. The Buddha asked him: 'In your household life, before you left it, what work did you do?' 'I loved playing the lute,' he answered. The Buddha said: 'And when the strings were too slack, what happened?' 'It would not sound.' 'And when they were too taut?' 'The sound would break.' 'And when tension and slackness were exactly balanced?' <strong>'Then every note rang true.'</strong>"</p>
+        <p>"The Buddha said: A monk's study of the way is exactly the same. When the mind is well attuned, the way can be attained. <em>Approach the way too violently, and the body itself grows exhausted; once the body is exhausted, the mind gives rise to distress; once the mind gives rise to distress, one's practice falls back; and once practice has fallen back, faults are certain to follow.</em> Simply remain pure and at ease, and the way will never be lost."</p>
+        <div class="zh">沙門夜誦迦葉佛遺教經，其聲悲緊，思悔欲退。佛問之曰：汝昔在家，曾為何業？對曰：愛彈琴。佛言：絃緩如何？對曰：不鳴矣。絃急如何？對曰：聲絕矣。急緩得中如何？對曰：諸音普矣。佛言：沙門學道亦然，心若調適，道可得矣。於道若暴，暴即身疲；其身若疲，意即生惱；意若生惱，行即退矣；其行既退，罪必加矣。但清淨安樂，道不失矣。</div>
+        <a class="bk" href="{{ '/sutras/forty-two-chapters/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Before anything else: notice who this monk is. He is not lazy. He is awake in the middle of the night, reciting scripture, and about to quit. Everything the chapter says is addressed to the diligent one. Daopei makes this the whole point — "everyone knows that idleness cannot advance the way, but few know that excessive zeal, too, carries its own danger of losing it."</p>
+
+      <p data-rv>The middle way is usually handed to beginners as a slogan about avoiding extremes, which is true and almost useless. Here it arrives instead as a diagnosis with a direction of travel — a chain of five stages, each causing the next: <strong>violence toward oneself → bodily exhaustion → mental distress → practice falling back → real fault</strong>. Daopei reads this as one continuous slide rather than four separate risks, and that matters practically: you do not catch yourself at stage four. You catch yourself at stage one or not at all.</p>
+
+      <p data-rv>He cites a Tang-dynasty Chan teacher's maxim on the same point, eight centuries later and in different words: "true cultivation is neither forced nor forgotten — forcing it tips into attachment, forgetting it collapses into ignorance." The taut string and the slack string, named twice by two traditions.</p>
+
+      <p data-rv>For most readers of this course, this is the single most useful chapter in the book. The characteristic failure of serious Western practitioners is almost never sloth. It is the 4:30 alarm, the retreat taken at the wrong time, the sitting maintained past the point where it has curdled — the strained voice in the night, a few months before quitting entirely.</p>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>One small thing worth carrying: the text this monk was reciting is called "the bequeathed teaching of the buddha Kāśyapa" — the last words of the buddha before this one. In Session 5 you will read the bequeathed teaching of <strong>this</strong> buddha, and find that it makes an almost identical warning.</em></p>
+
+      <h3 data-rv>3 · The space of a single breath — and everything the Buddha thinks of his own throne</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Chapter thirty-eight</div>
+        <p>"The Buddha asked a monk: 'How long does a human life last?' <em>'A matter of some days,'</em> the monk answered. 'You do not yet know the way,' said the Buddha. He asked a second monk the same question. <em>'The space of a single meal,'</em> the monk answered. 'You do not yet know the way,' said the Buddha. He asked a third monk. <strong>'The space of a single breath,'</strong> the monk answered. 'Excellent!' said the Buddha. 'Now you know the way.'"</p>
+        <div class="zh">佛問沙門：人命在幾間？對曰：數日間。佛言：子未知道。復問一沙門：人命在幾間？對曰：飯食間。佛言：子未知道。復問一沙門：人命在幾間？對曰：呼吸間。佛言：善哉！子知道矣。</div>
+        <a class="bk" href="{{ '/sutras/forty-two-chapters/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>All three answers are true. That is what makes the exchange worth more than a moment. "A matter of some days" is already a severe thing to say; "the space of a single meal" is more severe still, and both are offered by monks who are plainly taking the question seriously. They are not rejected for being wrong.</p>
+
+      <p data-rv>Daopei names the actual defect precisely: the first two answers still measure a life in units long enough to plan around. Days can be scheduled. A meal can be arranged. Only "the space of a single breath" puts impermanence in the one place where a practitioner has to meet it — now — rather than leaving it as a fact filed away for some later day. "It is only when a person has genuinely seen life as fragile as a single breath," he writes, "that the urgency to practice becomes real."</p>
+
+      <p data-rv>Then the book ends, four chapters later, with the Buddha describing how he sees everything he has:</p>
+
+      <div class="rs-scr" data-rv>
+        <div class="src">Chapter forty-two · the closing testimony</div>
+        <p>"I regard the throne of kings and lords as no more than a mote of dust passing through a crack in a wall. I regard treasures of gold and jade as no more than broken tile and rubble. I regard robes of the finest silk as no more than worn-out rags… I regard the buddha's own path as no more than a flower appearing before the eyes… <strong>I regard nirvāṇa as no more than waking, morning and night, from a dream</strong>… And I regard the flourishing of the teaching as no more than trees through the four seasons, rising and falling with no fixed mind behind any of it."</p>
+        <div class="zh">佛言：吾視王侯之位，如過隙塵；視金玉之寶，如瓦礫；視紈素之服，如敝帛；視大千界，如一訶子……視佛道，如眼前花……視涅槃，如晝夕寤……視興化，如四時木。</div>
+        <a class="bk" href="{{ '/sutras/forty-two-chapters/' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>The obvious objection is the right one to raise: if he holds even nirvāṇa and his own path this lightly, what is left to care about? And the first thing to notice is that these comparisons are not interchangeable. Daopei shows each one is chosen with precision — a throne is <em>dust</em> because it is powerful yet fleeting; gold and jade are <em>rubble</em> because they are precious yet lifeless; the whole universe is a single small fruit not because it is unreal but because a mind that has seen the boundlessness of things finds even the largest measurable thing small by comparison. This is not a shrug applied uniformly to everything.</p>
+
+      <p data-rv>And the answer to the objection is the final image, which Daopei treats as the chapter's quiet reply to a reader who has just sat through forty-one chapters of renunciation. "Trees leaf out and lose their leaves season after season, and heaven itself speaks not a single word through any of it." The teaching spreads through the world the same way — arising and passing without an anxious, self-referential mind needing it to have a point. On his reading, that is precisely what makes it trustworthy.</p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">One item from the Twenty Difficulties, in its smallest possible version</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Find your one, then shrink it until it is easy</b>
+        <p>Chapter twelve lists twenty difficulties in a human life. "It is difficult for the poor to practice giving. It is difficult for the wealthy and noble to study the way… It is difficult, being insulted, not to grow angry. It is difficult, holding power, not to abuse it… It is difficult never to speak of others' rights and wrongs."</p>
+        <p>Go back and read the twenty again. Then pick <strong>the one you recognized with a wince</strong> — not the most impressive one, not the one you would want to be seen working on. The one that was actually about you.</p>
+        <div class="how">
+          <b>Then do what Daopei says the chapter exists for.</b> He is explicit that this is not a list to be admired as an unreachable standard — the Buddha names twenty difficult things "wishing precisely that people turn what is difficult into what is easy." And he shows how, item by item: knowing that poverty leaves nothing spare, a poor person gives by cutting back on their own food; knowing that wealth breeds arrogance, a wealthy one lowers their own intent to study anyway.<br><br>
+          <b>So shrink yours.</b> Find the smallest version of your difficulty that you could actually complete once this week — one conversation where you do not report someone else's wrongs, one insult you let pass without a reply, one gift given from an amount you genuinely feel. Do that version once. Not a resolution; one instance.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How does this site handle the traditional story of how the Sūtra of Forty-Two Chapters reached China in 67 CE?</div>
+          <button class="opt"><span class="ltr">A</span>It presents the story as established history, since it is the tradition's own account</button>
+          <button class="opt"><span class="ltr">B</span>It treats the text as a forgery of no real value, since the story cannot be verified</button>
+          <button class="opt"><span class="ltr">C</span>It presents the tradition as tradition, states the scholarly doubt plainly, and lets neither dim what the text has meant to readers for two millennia</button>
+          <button class="opt"><span class="ltr">D</span>It avoids the question entirely and simply presents the translation</button>
+          <div class="expl"><strong>Correct: C.</strong> Three separate operations, held at once — and most writing about Buddhism collapses at least two of them. No Indic original has surfaced, the text reads like a topically arranged digest rather than a single sermon, and scholars think it may have taken shape gradually in China. None of that is hidden, and none of it is treated as settling what the book is worth. You will need this exact posture again in Session 6.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">A man comes deliberately to curse the Buddha, who hears him out and then asks about declining a gift. What is the chapter's actual claim about why the insult fails?</div>
+          <button class="opt"><span class="ltr">A</span>The Buddha forgave him through a deliberate act of will, overriding his own anger</button>
+          <button class="opt"><span class="ltr">B</span>An insult needs both a giver and a receiver to complete; declined, like an unaccepted gift, it stays with the person who offered it</button>
+          <button class="opt"><span class="ltr">C</span>The man's words happened to be untrue, so they could have no effect</button>
+          <button class="opt"><span class="ltr">D</span>The Buddha's supernatural power turned the words back on their speaker</button>
+          <div class="expl"><strong>Correct: B.</strong> The text never says the insult was false, and never describes suppressed anger. It describes a transaction that failed for want of a receiver. Worth holding alongside the caution in Part 3 — the chapter opens by establishing the Buddha as someone already settled in the way, so the non-acceptance is a consequence of that condition, not a technique that produces it.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">The lute-string chapter is addressed to a particular kind of person. Which?</div>
+          <button class="opt"><span class="ltr">A</span>A lazy monk who cannot be persuaded to practice at all</button>
+          <button class="opt"><span class="ltr">B</span>A layperson with no interest in leaving household life</button>
+          <button class="opt"><span class="ltr">C</span>A diligent monk — awake in the night reciting scripture — who is failing from overexertion rather than sloth</button>
+          <button class="opt"><span class="ltr">D</span>A former musician who cannot give up his attachment to music</button>
+          <div class="expl"><strong>Correct: C.</strong> This is the detail that makes the chapter useful rather than decorative. The monk is up in the middle of the night reciting, and he is about to quit. Daopei is blunt that this is the mistake an earnest student is more likely to make than laziness — and the five-stage chain the Buddha names (violence → exhaustion → distress → practice falling back → fault) is one continuous slide, which is why it has to be caught at the first stage.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Three monks answer "how long does a human life last?" — some days, the space of a meal, the space of a single breath. Only the third satisfies the Buddha. Why do the first two fail?</div>
+          <button class="opt"><span class="ltr">A</span>They are factually inaccurate, since a human life is obviously longer than a few days</button>
+          <button class="opt"><span class="ltr">B</span>They are spoken disrespectfully, without the proper form of address</button>
+          <button class="opt"><span class="ltr">C</span>They still measure a life in units long enough to plan around, which keeps impermanence a fact for later rather than a present condition</button>
+          <button class="opt"><span class="ltr">D</span>They are too short — the Buddha wanted an answer measured in years</button>
+          <div class="expl"><strong>Correct: C.</strong> All three answers are true, and the first two are already severe. Daopei's point is about where each one puts you: days can be scheduled, a meal can be arranged, and both leave impermanence at a comfortable distance. A single breath is the only unit small enough that you have to meet it now — which is the whole difference between knowing about impermanence and practising.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">The final chapter has the Buddha compare his throne to dust, fine silk to rags, and even nirvāṇa to waking from a dream. Does the book end in nihilism?</div>
+          <button class="opt"><span class="ltr">A</span>Yes — having emptied even nirvāṇa of value, the text leaves nothing worth caring about</button>
+          <button class="opt"><span class="ltr">B</span>No — each comparison names a specific defect precisely, and the closing image of trees through the four seasons describes the teaching spreading without an anxious self needing it to have a point</button>
+          <button class="opt"><span class="ltr">C</span>No — the chapter teaches that only nirvāṇa has value and everything else is worthless</button>
+          <button class="opt"><span class="ltr">D</span>The question does not arise, since the chapter is a later addition to the text</button>
+          <div class="expl"><strong>Correct: B.</strong> The comparisons are not interchangeable: a throne is <em>dust</em> because it is powerful yet fleeting; gold and jade are <em>rubble</em> because precious yet lifeless. And the last image answers the objection directly — "trees leaf out and lose their leaves season after season, and heaven itself speaks not a single word through any of it." Not indifference, but a teaching that does not need to be anxious about itself in order to be worth trusting.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Which single chapter would you hand to a friend with no interest in Buddhism at all?</p>
+        <p class="sm">Pick one — the whole text is built so that you can. Then the harder half of the question: why that one? Not why it would work on them. Why it was the one you reached for. What you chose says considerably more about what you have come to think is true than about what you imagine they need.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 3 · The Heart Sūtra</h3>
+        <p>Two sessions on how to live, and then the floor comes out. Two hundred and sixty characters, the most famous scripture in Buddhism and by some distance the most misread — a wall of "no" that is not saying what almost every first-time reader thinks it is saying.</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-1/' | relative_url }}">← Session 1</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
