@@ -1,0 +1,396 @@
+---
+layout: default
+title: "Session 5 · The mother who wept for the wrong son (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-5/
+excerpt: Session 5 of Stories the Buddha Told — a woman loses both her sons in the same water and grieves for only one, and her reason is perfectly coherent.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 5</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 5 · The stories he told</div>
+      <h1>The mother who wept for the wrong son</h1>
+      <div class="subt">Two sons, the same water, and only one of them mourned</div>
+      <div class="rd">
+        <span><b>Reading time</b> under a minute</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>Where it is from</b> Story 6, Fascicle 45</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>When something is lost, what exactly are we grieving?</strong></p>
+
+      <p data-rv>The obvious answer is: the thing. And for most of a life that answer holds up fine, so there is not much reason to look at it closely.</p>
+
+      <p data-rv>This week's story looks at it closely. It is two sentences long, it concerns the deaths of two children, and it is the hardest thing in this course. I am not going to make it lighter than it is.</p>
+
+      <div class="sx-pull" data-rv>Both sons drowned. She wept for one of them, and she could say exactly why.</div>
+
+      <p data-rv>A word about how to hold it before you read. This is not a story that exposes a bad mother. Nothing in the text condemns her, and nothing in this session will either. What the story does is take something almost everybody does — quietly, constantly, without ever putting it into words — and set it down in daylight where it can be looked at. The reason it is hard is not that she is strange. It is that she is not.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>If you have lost a child, or are carrying a fresh grief of any kind, you may want to come back to this one later. It will keep. Session 6 is about a man buying advice from a stranger and is considerably easier company.</em></p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">Two sentences — read it before anything below</span></h2></div>
+      <p data-rv>A new volume this week. Fascicle 45 is "Ordinary Women," the companion to the one we have been reading. You want <strong>number 6</strong>.</p>
+
+      <a class="sx-textcard alt" href="{{ '/anthology/jinglvyixiang/fascicle-045/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 45 · Ordinary Women</div>
+        <h3>6. A Mother's Two Sons Drown, and She Weeps for the One Who Could Swim</h3>
+        <p>The title tells you the whole plot. The story is about her answer when somebody asks her why.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">In a story with only about five</span></h2></div>
+
+      <h3 data-rv>1 · The first son gets one clause</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The opening</div>
+        <p>"A mother bore two sons. One could not swim, and fell into the water and died, <strong>and the mother did not weep at all.</strong> One who could swim also fell in and died, and the mother wept and grieved for him."</p>
+        <div class="zh">母生二子。一不知浮。墮水而終。母都不哭。一知浮亦墮水亡。母悲哭之。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-045/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Read the first son's whole existence in this story. He is born, he cannot swim, he drowns, and his mother does not weep. Four clauses, and one of them is his death.</p>
+
+      <p data-rv>The Chinese is even flatter than the English: 母都不哭 — <em>the mother simply did not cry.</em> Not that she grieved privately, or was too shocked to cry, or wept later. The text says she did not, and offers no softening at all.</p>
+
+      <p data-rv>And notice that the story's own shape matches her attention exactly. One line for the child she did not mourn; then it moves briskly on to the one she did. <strong>Even the telling gives him less room.</strong> If you read quickly you will have skimmed past a dead boy, which is the story's first quiet trick on you.</p>
+
+      <h3 data-rv>2 · Somebody asks, and she is not embarrassed</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The question, and the answer</div>
+        <p>"Someone said: for the first son you did not weep, and for the second you weep — why? The mother said: <strong>the first could not swim and so it was fitting; the second was skilled at swimming, and for him it was a wrong.</strong>"</p>
+        <div class="zh">人言。前子不哭。後子而哭何耶。母言。前不知浮故其宜也。後者工浮其為枉也。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-045/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Two things here, and the second is the important one.</p>
+
+      <p data-rv>First: <strong>she answers immediately.</strong> No hesitation, no defensiveness, no attempt to explain that she loved them both. Somebody asks her the most exposing question a person could be asked and she replies at once, as though the reasoning were obvious. Because to her it is.</p>
+
+      <p data-rv>Second, and this is what makes the story worth a week: <strong>her answer is coherent.</strong> It is not madness or callousness. She has a principle, she applies it consistently, and if you accept the principle the conclusion follows. The two words she uses are doing all the work — 宜, <em>fitting</em>, what accords with how things should go; and 枉, <em>a wrong</em>, something bent out of true, a thing that should not have happened.</p>
+
+      <p data-rv>One death fit. One death did not. She wept at the one that did not fit.</p>
+
+      <h3 data-rv>3 · Both sons are equally dead</h3>
+
+      <p data-rv>This is the moment the story does not write down, and the reason it only needs two sentences.</p>
+
+      <p data-rv>She is not, on her own account, grieving her son. She is grieving <strong>a breach of the expected order</strong> — a swimmer who drowned, a rule that failed to hold. The boy who could not swim went into the water and the world behaved as advertised, so there was nothing to protest. Her tears are attached to the <em>unexpectedness</em>, not to the child.</p>
+
+      <p data-rv>And the child who received no tears is exactly as dead as the one who did.</p>
+
+      <div class="sx-take" data-rv>
+        <b class="h">Where you have heard this before</b>
+        <ul>
+          <li><b>"He was so young."</b> — a statement about sequence, not about him.</li>
+          <li><b>"She had just retired."</b> — about timing.</li>
+          <li><b>"And they did everything right."</b> — about a rule that was supposed to hold and did not.</li>
+          <li>Every one of those is true, every one is said with real love, and every one is a sentence about <b>the shape of the story rather than the person who is gone</b>. That is not a fault in the speaker. It is simply what grief reaches for when it needs somewhere to put itself.</li>
+        </ul>
+      </div>
+
+      <p data-rv>The story's whole method is to run that instinct out to the end and let you watch it arrive. It does not tell you that grieving the broken rule is wrong. It does not say she should have wept for both. It puts two drowned boys side by side, gives one of them a mother's tears and the other one clause, and stops — leaving you to notice that the difference between them was not in them at all.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>There is a second question hiding under the first, and it is the one that tends to follow people home: not "have I grieved the wrong things," but <strong>"is there something I never grieved because it made sense?"</strong></em></p>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · take it gently</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Two ledgers, for one loss</b>
+        <p>Choose a loss of your own — and please choose an older one, not a raw one. A person, a job, a friendship, a capability, a place you cannot go back to.</p>
+        <div class="how">
+          <b>Write two lists.</b> On the left: what was actually lost. The specific things that are no longer available to you — a voice, a habit, a room, the way somebody said your name.<br><br>
+          On the right: <b>what rule was broken.</b> The reasons you have given other people, or yourself, for why this one was hard. "Too soon." "Not fair." "After everything." "Just when it was going well."<br><br>
+          <b>Then look at which list is longer</b>, and which one you can write more easily. Neither answer is a failure. The left-hand list is usually much harder to write, which is worth knowing about yourself.<br><br>
+          <b>If you have the appetite for the harder half:</b> think of something you lost that <em>made sense</em> — the expected death, the relationship everyone saw coming, the job that was never going to last — and ask whether you ever grieved it, or whether it went past you in one clause.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Which son does the mother weep for?</div>
+          <button class="opt"><span class="ltr">A</span>The one who could not swim</button>
+          <button class="opt"><span class="ltr">B</span>The one who could swim</button>
+          <button class="opt"><span class="ltr">C</span>Both, but the second more than the first</button>
+          <button class="opt"><span class="ltr">D</span>Neither — she is too shocked to weep at all</button>
+          <div class="expl"><strong>Correct: B.</strong> And the text is flat about the other one: 母都不哭, the mother simply did not cry. Not privately, not later, not too shocked to. The story offers no softening and does not look for one.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Asked directly why, how does the mother respond?</div>
+          <button class="opt"><span class="ltr">A</span>She refuses to answer</button>
+          <button class="opt"><span class="ltr">B</span>She becomes angry at the question</button>
+          <button class="opt"><span class="ltr">C</span>She answers immediately and without embarrassment, as though the reasoning were obvious</button>
+          <button class="opt"><span class="ltr">D</span>She admits she does not understand her own grief</button>
+          <div class="expl"><strong>Correct: C.</strong> No hesitation and no defence — not even a protest that she loved them both. Somebody asks her the most exposing question a person could be asked, and she replies at once. To her the reasoning is plain.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What exactly is her reasoning?</div>
+          <button class="opt"><span class="ltr">A</span>The second son was her favourite</button>
+          <button class="opt"><span class="ltr">B</span>The second son was younger and had more life ahead of him</button>
+          <button class="opt"><span class="ltr">C</span>The first son's death was her own fault for not teaching him, so grief would be self-pity</button>
+          <button class="opt"><span class="ltr">D</span>The first death was "fitting" — a boy who could not swim drowned — while the second was "a wrong," because a skilled swimmer should not have</button>
+          <div class="expl"><strong>Correct: D.</strong> Two words carry it: 宜, fitting, what accords with how things should go; and 枉, a wrong, something bent out of true. It is not callousness or madness. She has a principle, she applies it consistently, and if you accept the principle the conclusion follows.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">On her own account, what is she actually grieving?</div>
+          <button class="opt"><span class="ltr">A</span>A breach of the expected order — a rule that was supposed to hold and did not</button>
+          <button class="opt"><span class="ltr">B</span>Her son</button>
+          <button class="opt"><span class="ltr">C</span>Her own failure as a parent</button>
+          <button class="opt"><span class="ltr">D</span>The unfairness of the gods</button>
+          <div class="expl"><strong>Correct: A.</strong> The first boy went into the water and the world behaved as advertised, so there was nothing to protest. Her tears are attached to the unexpectedness rather than to the child — and the child who received no tears is exactly as dead as the one who did. That sentence is the one the story never writes down, which is why it only needs two.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does the story do with her answer?</div>
+          <button class="opt"><span class="ltr">A</span>It has the questioner correct her, and she repents</button>
+          <button class="opt"><span class="ltr">B</span>It condemns her explicitly as an unnatural mother</button>
+          <button class="opt"><span class="ltr">C</span>Nothing — it records the answer and stops, with no moral and no rebuke anywhere</button>
+          <button class="opt"><span class="ltr">D</span>It reveals that the first son was not truly hers</button>
+          <div class="expl"><strong>Correct: C.</strong> No verdict is offered, and the story is not built to expose a bad mother. It takes something almost everyone does quietly — "he was so young," "she had just retired," "and they did everything right," all sentences about the shape of the story rather than the person who is gone — runs it out to the end, and lets you watch where it arrives.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Which of your losses made sense — and did you ever grieve it?</p>
+        <p class="sm">Most people can name the losses that broke a rule. They have been told about those, and told about them often, because they are the ones other people know how to be sorry about. The other kind goes by without a word: the death that was expected, the ending everyone saw coming, the thing that simply ran its course. It was fitting. Nobody asked how you were. And it is exactly as gone as the rest.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 6 · Buying wisdom</h3>
+        <p>Something considerably lighter. A man hands over good money to a stranger for a single piece of advice — the kind of sentence you would be annoyed to have paid for — and it later saves his life. The question is what a piece of advice is actually worth, and when you find out.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-4/' | relative_url }}">← Session 4</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
