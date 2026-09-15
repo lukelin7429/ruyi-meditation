@@ -1,0 +1,404 @@
+---
+layout: default
+title: "Session 2 · The father who never stopped waiting (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-2/
+excerpt: Session 2 of Stories the Buddha Told — the other half of last week's departure, and a father who finally sees his son again and cannot think what to call him.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 2 · Who he was</div>
+      <h1>The father who never stopped waiting</h1>
+      <div class="subt">Years later, the man from last week comes home</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirteen minutes</span>
+        <span><b>Before class</b> Session 1</span>
+        <span><b>The story</b> one chapter, plus a paragraph from years earlier</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>Can you go home again?</strong></p>
+
+      <p data-rv>Last week you read a departure, and departures are the half of this story everybody tells. A young man sees three things by the road, sits under a tree, and leaves. Told that way it is clean, and it is the version on the back of most books about Buddhism.</p>
+
+      <p data-rv>The poem does not let you have it that clean. After he goes, it stays in the palace for two entire chapters and does nothing but grief — the woman who raised him, the wife he left, the horse-keeper who drove him out and came back alone leading a riderless horse, and his father, who wants to die. And here is the thing worth the week: <strong>none of the grieving people are wrong.</strong> The poem does not set them up to be corrected.</p>
+
+      <div class="sx-pull" data-rv>He did not leave a bad life. He left people. And the poem makes you sit with them.</div>
+
+      <p data-rv>This week you read what happened when he came back — years later, with a thousand followers, to the city he walked out of. His father rides out to meet him. And the very first thing that happens is that the old man cannot think of a single word to say.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>No new vocabulary this week. "The Tathāgata," where it appears, is simply another name for the same man — you can read it as "he."</em></p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">One chapter — read it before anything below</span></h2></div>
+
+      <a class="sx-textcard" href="{{ '/sutras/buddhacarita/part-29/' | relative_url }}" data-rv>
+        <div class="trad">Buddhacarita · Chapter Nineteen</div>
+        <h3>Father and Son Meet Again</h3>
+        <p>The king rides out to meet his returning son, and finds he does not know how to address him. Later, the city argues about what it has just seen.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p data-rv>If you want the full weight of what the years between cost, the two chapters immediately after the departure are where the poem puts it — the palace finding out, and the king's own lament. They are optional, and they are the best-written grief in the whole poem.</p>
+
+      <p data-rv style="font-size:15px;"><a href="{{ '/sutras/buddhacarita/part-10/' | relative_url }}" style="color:var(--plum);font-weight:600;">Grief in the Palace (I) →</a> &nbsp;·&nbsp; <a href="{{ '/sutras/buddhacarita/part-11/' | relative_url }}" style="color:var(--plum);font-weight:600;">Grief in the Palace (II) →</a></p>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping</span></h2></div>
+
+      <h3 data-rv>1 · A father who cannot find the word</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Nineteen · the meeting on the road</div>
+        <p>"He descended from his carriage and approached slowly, fearing to create any obstacle to the Dharma; gazing upon his son's face, his heart leapt with an inward joy, <strong>and yet his mouth could find no words to speak at all.</strong>"</p>
+        <p>"He thought to himself: I remained caught in the burdens of worldly life, while my son has transcended it all and ascended to the rank of a sage — <strong>though my son now holds the most honored place upon the path, I do not even know by what name I ought now to address him.</strong>"</p>
+        <div class="zh">下車而徐進，恐為法留難，瞻顏內欣踊，口莫知所言。顧貪居俗累，子超然登仙，雖子居道尊，未知稱何名？</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-29/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Of everything in this poem, this is the detail I would keep if I could keep one. Not grief, not anger, not a scene. <strong>A man who does not know what to call his own son.</strong></p>
+
+      <p data-rv>Think about what has to be true for that to happen. "My son" no longer fits, because it claims something the situation will not support. The honorifics do not fit either, because this is a child he taught to walk. Every available word is either too small or too large, and the old king stands in the road holding none of them.</p>
+
+      <p data-rv>Then the poem gives him two images for it, and they are among the most painful lines in Buddhist literature:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Nineteen · the king's own thoughts</div>
+        <p>"…like a man long parched with thirst who comes upon a clear, cool spring along the road, and rushes forward eager to drink, <strong>only to find, on reaching it, that the spring has suddenly run dry</strong>."</p>
+        <p>"Before I saw him, my thoughts raced with a thousand imaginings; now that he stands before my very eyes, I find no joy in it at all — <strong>like a man who, longing for a parted loved one, suddenly comes instead upon nothing but a painted image of their face</strong>."</p>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-29/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>A painted image of their face. The features are all correct and there is nobody behind them. That is what the father sees, and the poem lets him say it without hurrying to tell us he is mistaken.</p>
+
+      <h3 data-rv>2 · What the waiting had already cost</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Eight · years earlier, the night the palace found out</div>
+        <p>"I have now reached just such an emptiness and thirst myself — <strong>having once had my son, I have now lost him again, as water lost from the hand.</strong> Before my own life comes to its end, tell me quickly where my son now is — do not let me die of this thirst…"</p>
+        <p>"I have always been a man of firm resolve, as hard to move as the great earth itself — <strong>yet, having lost my son, my heart is now as wildly disordered</strong> as King Daśaratha's once was."</p>
+        <div class="zh">失子心躁亂，如昔十車王。</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-11/' | relative_url }}">See this passage in Grief in the Palace (II) →</a>
+      </div>
+
+      <p data-rv>It is worth knowing what happens next in that chapter, because it is very ordinary and very recognisable. The king does not recover. His teacher and one of his ministers talk him down — gently, the poem says, "neither too gently nor too sharply" — and what they offer is not consolation but a <em>task</em>: let us go and look for him. Let us try to talk him round.</p>
+
+      <p data-rv>And it works. Not because it is true, and not because it will succeed. It works because a search is something a person can do with their hands, and grief is not. The text notes, plainly, that once the two men had gone, the king and his household "felt their hearts grow somewhat cooler and more at ease, and their breath and appetite began, at last, to return to them."</p>
+
+      <p data-rv>His own image for the years that followed is a bird: "like the cuckoo circling in the empty sky in search of its own young." Circling. Not arriving.</p>
+
+      <h3 data-rv>3 · The city does not agree, and the poem prints it anyway</h3>
+
+      <p data-rv>At the end of the chapter the Buddha goes into Kapilavastu with a bowl to beg for food, as he now does every day. The city comes out to look. Some weep with joy. And then the poem does something almost no religious text does — it gives the objectors the floor, at length, in their own words:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Nineteen · what the city said</div>
+        <p>"<strong>He has abandoned his worthy wife and beloved son</strong>, taking his pleasure instead in solitary wandering, all alone — how hard this must be for that worthy consort of his, who has spent so many long nights nursing her own grief."</p>
+        <p>"Seeing his own son's once-wondrous form now disfigured by this going forth — even an enemy would feel pity at such a sight; how, then, could a father possibly find any peace in seeing it? And his beloved son Rāhula, forever weeping in sorrowful longing for him — to see him show no thought at all of comforting his own child, <strong>what use, then, is all this study of the path?</strong>"</p>
+        <p>"Every reader of auspicious marks once declared, at the prince's own birth, that he bore every mark of a great being… yet seeing what he has actually done now, <strong>all of that was nothing but empty talk</strong>."</p>
+        <div class="zh">見其妙相身，毀形而出家，怨家猶痛惜，父見豈能安？愛子羅睺羅，泣涕常悲戀，見無撫慰心，用學此道為？</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-29/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Read that again and notice what is not there. <strong>No rebuttal.</strong> Nobody steps forward to explain why the objectors have misunderstood. The poem does not have a character correct them, and it does not correct them itself. It simply reports what the man walking down the street was walking through.</p>
+
+      <p data-rv>What it does say about him is careful and quite cold: his heart "held no attachment to any of it, feeling neither joy nor sorrow at any of these words." Not that he agreed, not that he was hurt, not that he had an answer. And then, the same paragraph tells us, he deliberately turned into the poorer quarter of the city to beg — taking whatever he was given, fine or coarse, choosing no house by its wealth.</p>
+
+      <p data-rv>That is the poem's whole answer to the objection, and it is an action rather than an argument. You are allowed to find it insufficient. The city did.</p>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · five minutes · nobody needs to know</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Find the word you no longer have</b>
+        <p>The king's trouble was not that he had lost his son. It was that his son came back, and no available word fit any more.</p>
+        <div class="how">
+          <b>Think of one person whose place in your life has changed</b> and for whom you no longer have the right word. A friend who became something less. A parent who became someone you look after. A colleague who became a stranger. Someone who got well, or got sober, or got religion, or simply grew up, and is not the person the word in your head still refers to.<br><br>
+          <b>Write down what you would honestly call them now.</b> One line, for nobody. Not what you say to their face and not what you would put on a card — the word that is actually true this year.<br><br>
+          <b>If you want the harder version:</b> send that person one message. Not to resolve anything and not to explain yourself. It took the man in this story several years to make his return, and even then, on the day, the meeting was awkward and his father could not speak. That is allowed to be how it goes.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">The king rides out, sees his son for the first time in years, and gets down from the carriage. What is the first thing the poem tells us about him?</div>
+          <button class="opt"><span class="ltr">A</span>That he wept openly and embraced him in front of the whole kingdom</button>
+          <button class="opt"><span class="ltr">B</span>That his heart leapt with joy, and his mouth could find no words at all — he did not know by what name he ought now to address him</button>
+          <button class="opt"><span class="ltr">C</span>That he demanded his son return to the palace and take up the throne</button>
+          <button class="opt"><span class="ltr">D</span>That he failed to recognise him</button>
+          <div class="expl"><strong>Correct: B.</strong> Not grief and not anger — a vocabulary problem. "My son" claims something the situation will not support; the honorifics do not fit a child he taught to walk. Every word available is either too small or too large, and he stands in the road holding none of them.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The king gives two images for what it is like to finally see his son. Which pair?</div>
+          <button class="opt"><span class="ltr">A</span>A lamp in a storm, and a boat without oars</button>
+          <button class="opt"><span class="ltr">B</span>A lion among oxen, and the moon among stars</button>
+          <button class="opt"><span class="ltr">C</span>A thirsty man reaching a spring that has run dry, and someone who longed for an absent loved one and finds only a painted image of their face</button>
+          <button class="opt"><span class="ltr">D</span>A farmer whose harvest failed, and a merchant robbed on the road</button>
+          <div class="expl"><strong>Correct: C.</strong> Both images describe arrival without contact. The features are all correct and there is nobody behind them. The poem lets the old king say it, at length, without hurrying to tell us he has misunderstood.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Years earlier, in the chapter where the palace learns of the departure, what finally eases the king's despair?</div>
+          <button class="opt"><span class="ltr">A</span>A dream in which his son returns crowned</button>
+          <button class="opt"><span class="ltr">B</span>The reminder that the prophecy at the birth had foretold it</button>
+          <button class="opt"><span class="ltr">C</span>Yaśodharā's decision to raise Rāhula in the palace</button>
+          <button class="opt"><span class="ltr">D</span>His teacher and a minister persuading him to send them to search for the prince and argue him home</button>
+          <div class="expl"><strong>Correct: D.</strong> And notice why it works. Not because the search is likely to succeed — it isn't — but because a search is something a person can do with their hands, and grief is not. The text records the result exactly: the household's "breath and appetite began, at last, to return to them."</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">At the end of the chapter the Buddha walks through Kapilavastu with a begging bowl. How does the city respond?</div>
+          <button class="opt"><span class="ltr">A</span>It is divided — some weep with reverence, and others say plainly that he abandoned his wife and son, that he shows no thought for his own child, and that the prophecies at his birth were empty talk</button>
+          <button class="opt"><span class="ltr">B</span>Unanimously with reverence; the objectors appear only later in the poem</button>
+          <button class="opt"><span class="ltr">C</span>With hostility, and he is driven out of the city</button>
+          <button class="opt"><span class="ltr">D</span>With indifference, since nobody recognises him</button>
+          <div class="expl"><strong>Correct: A.</strong> "What use, then, is all this study of the path?" — 用學此道為? The objections are not softened or paraphrased. They are given in full, in the voices of ordinary people standing at their own doors.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does the poem do with those objections?</div>
+          <button class="opt"><span class="ltr">A</span>It has a disciple step forward and refute them point by point</button>
+          <button class="opt"><span class="ltr">B</span>It has the Buddha answer them directly in a sermon</button>
+          <button class="opt"><span class="ltr">C</span>Nothing — it prints them and moves on, noting only that he felt neither joy nor sorrow at any of it, and then turned into the poorer quarter of the city to beg</button>
+          <button class="opt"><span class="ltr">D</span>It attributes them to enemies of the Dharma, so the reader knows to discount them</button>
+          <div class="expl"><strong>Correct: C.</strong> No rebuttal, and no framing that tells you the objectors are bad people. The poem's only reply is an action — he walks into the poor quarter and accepts whatever he is given, fine or coarse, choosing no house by its wealth. You are entirely free to find that an insufficient answer. The city did.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Who in your life came back different — and did you let them?</p>
+        <p class="sm">The king's grief was not that his son left. He had survived that for years. It was that the person who returned was not the person the word in his mouth referred to, and he had to decide, standing in the road, whether to meet the man in front of him or keep waiting for the one who was not coming. Most people have been on one side of that road. A few have been on both.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 3 · Two men who couldn't stop lying to each other</h3>
+        <p>That is the end of the life story for now. From next week the stories are the ones the tradition told <em>because</em> of him — collected in the year 516 into the largest anthology of Buddhist narrative in Chinese. They are much shorter, considerably funnier, and the first one is about a woodcarver and a painter who each think they have won.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-1/' | relative_url }}">← Session 1</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
