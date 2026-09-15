@@ -1,0 +1,426 @@
+---
+layout: default
+title: "Session 8 · The Vows of Samantabhadra (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-8/
+excerpt: Session 8 of Read a Whole Sūtra — ten vows that close the vast Flower Garland Sūtra and belong fully to two traditions at once, and the end of the course.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 8</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 8 · 願 What to promise</div>
+      <h1>The Vows of Samantabhadra</h1>
+      <div class="subt">《普賢行願品》 — ten vows, and the end of reading</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty minutes</span>
+        <span><b>Before class</b> all seven previous sessions</span>
+        <span><b>Length</b> six parts, prose and verse</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, last</h2></div>
+
+      <p data-rv>Because reading has to turn into something, and this is the text where it does.</p>
+
+      <p data-rv>Seven weeks of this course have been spent looking: at impermanence, at insult and effort, at emptiness twice over, at a teacher's last night, at a debt that cannot be settled, at a promise hard to believe. This chapter asks a different question. Not what do you see, and not what do you trust — <strong>what would you promise?</strong></p>
+
+      <p data-rv>It is also, of the eight, the one with the strangest position in the canon: <em>it belongs fully to two traditions at once</em>, and this course is not going to pick one.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">One chapter, two homes</b>
+        <ul>
+          <li><b>As Avataṃsaka</b>, its position could hardly be more central. It is the fortieth and final fascicle of the Forty-Fascicle Flower Garland Sūtra — the culmination of the Gaṇḍavyūha, the narrative in which the youth Sudhana travels to fifty-three teachers in search of the bodhisattva path. Samantabhadra is the last and greatest of them, and he closes the entire sūtra by distilling everything Sudhana has learned into ten vows.</li>
+          <li><b>As Pure Land</b>, its claim is just as direct, and made twice in this same text — once in prose and once in verse. Whoever holds these ten vows will, at the final moment of life, be abandoned by everything else and guided onward by this "King of Vows" alone, into rebirth in Sukhāvatī. It was that promise that led Yinguang, the thirteenth Pure Land patriarch, to append this chapter to the traditional three Pure Land sūtras in the early twentieth century.</li>
+          <li><b>And this is not a modern annexation.</b> Chengguan — fourth patriarch of the Huayan school, writing in the eighth century, more than a millennium before Yinguang — reached this same closing passage, set aside the scheme he had used throughout his commentary, and opened a new section titled, in his own words, "distinctly explaining the fruit of the Pure Land." The greatest Huayan commentator had already read this chapter as ending in a Pure Land fruit.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Which makes it the right place to end a course that has deliberately refused to take sides. You have read Prajñāpāramitā and Pure Land, a Chan-flavoured aphorism collection and a monastic code, a canonical discourse with a Pāli twin and a text whose translator's name is in doubt. This last one refuses to be sorted, and has refused for twelve hundred years.</p>
+
+      <p data-rv>Our reading notes come from Chengguan (澄觀, 738–839), whose commentary on this chapter is the most influential it has ever received, with occasional reference to his disciple Zongmi.</p>
+
+      <p style="font-size:15.5px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 20px;color:var(--ink);" data-rv><b style="color:var(--indigo);">A note on where this points.</b> Sudhana's fifty-three teachers — a ferryman, a judge, a perfume seller, a little girl, a king who only pretends to be cruel — are the subject of a forthcoming Academy course of their own, built on Ru-Yi's ongoing translation of the Gaṇḍavyūha. This session is where you meet the end of his journey first. <a href="{{ '/courses/' | relative_url }}" style="color:var(--indigo);font-weight:600;">See the full five-layer path →</a></p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">Six parts — the ten vows in prose, then the whole chapter again in verse</span></h2></div>
+      <p data-rv>Prajñā's translation, completed in 798 CE. The chapter has an unusual shape: the ten vows are unfolded in prose across four parts, and then the entire thing is restated in thirty-eight compact stanzas across two more. Read both. The verse is not a summary — it is the same material at a different temperature, and it is the half that is actually chanted.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/samantabhadra-vows.html' | relative_url }}" data-rv>
+        <div class="trad">Avataṃsaka · Pure Land · complete in six parts · Ru-Yi translation</div>
+        <h3>The Vows of Samantabhadra — full text &amp; reading guide</h3>
+        <p>《入不思議解脫境界普賢行願品》 · Prajñā's 798 CE Chinese beside an original English translation, in six parts, with reading notes after Chengguan and Zongmi.</p>
+        <span class="go">Read the chapter <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">A vow that cannot end, a tree in a wilderness, and a last moment</span></h2></div>
+
+      <h3 data-rv>1 · Ten vows, and a formula that will not let any of them finish</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Part 1 · the ten vows named</div>
+        <p>"If you wish to accomplish this gate of merit, you should cultivate ten kinds of vast and great vows. What are the ten? <strong>First, to pay homage to all buddhas. Second, to praise the Tathāgatas. Third, to make offerings extensively. Fourth, to repent of karmic hindrances. Fifth, to rejoice in merit. Sixth, to request the turning of the Dharma wheel. Seventh, to request the buddhas to remain in the world. Eighth, to follow the Buddha's learning always. Ninth, to accord constantly with all sentient beings. Tenth, to dedicate all merit universally.</strong>"</p>
+        <div class="zh">應修十種廣大行願。何等為十？一者、禮敬諸佛，二者、稱讚如來，三者、廣修供養，四者、懺悔業障，五者、隨喜功德，六者、請轉法輪，七者、請佛住世，八者、常隨佛學，九者、恒順眾生，十者、普皆迴向。</div>
+        <a class="bk" href="{{ '/sutras/samantabhadra-vows/the-first-four-vows.html' | relative_url }}">Read Part 1 in full →</a>
+      </div>
+
+      <p data-rv>Ten items, and every one of them ends the same way. Watch what the first vow does when it is unfolded:</p>
+
+      <div class="rs-scr" data-rv>
+        <div class="src">Part 1 · the first vow, and the formula that governs all ten</div>
+        <p>"<strong>Only when the realm of space itself is exhausted would my homage be exhausted — but since the realm of space can never be exhausted, this homage of mine can never be exhausted either.</strong> And so it continues until the realm of sentient beings is exhausted, their karma is exhausted, and their afflictions are exhausted — only then would my homage be exhausted. But since these, too, can never be exhausted, this homage of mine can never be exhausted either — <em>thought after thought continuing without a break, my deeds of body, speech, and mind never growing weary.</em>"</p>
+        <div class="zh">虛空界盡，我禮乃盡，而虛空界不可盡故，我此禮敬，無有窮盡。如是乃至眾生界盡、眾生業盡、眾生煩惱盡，我禮乃盡。而眾生界乃至煩惱無有盡故，我此禮敬無有窮盡，念念相續，無有間斷，身、語、意業無有疲厭。</div>
+        <a class="bk" href="{{ '/sutras/samantabhadra-vows/the-first-four-vows.html' | relative_url }}">Read Part 1 in full →</a>
+      </div>
+
+      <p data-rv>That paragraph repeats, with the noun swapped, at the end of all ten vows. It is the single most characteristic thing about this chapter, and it is worth being clear about what it does.</p>
+
+      <p data-rv><strong>A vow with a completion condition is a task.</strong> You can finish it, cross it off, and go and be someone who once did that. These ten are constructed so that no such moment can arrive. Their end condition is set at something that by definition cannot occur — the exhaustion of space itself — which means the vow is not a project with a far-off deadline. It is a permanent orientation, deliberately built to have no finish line. And the final clause is the part that makes it liveable rather than crushing: <em>念念相續，無有間斷</em>, thought after thought without a break, "never growing weary." Not one enormous exertion. An unbroken small one.</p>
+
+      <p data-rv>One thing inside the third vow is worth a stop, because it reaches back to the first session of this course. Having described offerings of incense and flowers and lamps at extravagant length, the text says flatly that among all offerings the offering of <em>the Dharma</em> is foremost — and then lists what that means: "the offering of practicing exactly as taught, the offering of benefiting sentient beings, the offering of gathering in sentient beings, <strong>the offering of bearing sentient beings' suffering in their place</strong>, the offering of diligently cultivating roots of goodness…" The immeasurable merit of all the material offerings, it adds, does not equal a hundredth part of a single thought of this.</p>
+
+      <p data-rv>You met that clause in Session 1. The eighth realization — "wishing to take upon oneself, in the place of every being, their own measureless suffering" — was where that first four-minute text turned outward and gave everything away. Eight weeks later, the same move appears as an <em>offering</em>: the thing you actually place on the altar.</p>
+
+      <h3 data-rv>2 · A tree in a wilderness, and who awakening belongs to</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Part 3 · the ninth vow, according constantly with all sentient beings</div>
+        <p>"It is like a great tree king standing in a wilderness of sand and waste: if its roots receive water, its branches, leaves, flowers, and fruit all flourish in abundance. The bodhi tree king in the wilderness of birth and death is exactly the same. <strong>All sentient beings are its roots; all buddhas and bodhisattvas are its flowers and fruit.</strong> By nourishing sentient beings with the water of great compassion, one is able to bring the flowers and fruit of the buddhas' and bodhisattvas' wisdom to completion… <strong>And so awakening belongs to sentient beings — without sentient beings, no bodhisattva could ever accomplish unsurpassed, perfect awakening.</strong>"</p>
+        <div class="zh">譬如曠野沙磧之中有大樹王，若根得水，枝葉、華果悉皆繁茂。生死曠野菩提樹王，亦復如是。一切眾生而為樹根，諸佛菩薩而為華果，以大悲水饒益眾生，則能成就諸佛菩薩智慧華果。……是故菩提屬於眾生，若無眾生，一切菩薩終不能成無上正覺。</div>
+        <a class="bk" href="{{ '/sutras/samantabhadra-vows/following-the-buddha-and-according-with-beings.html' | relative_url }}">Read Part 3 in full →</a>
+      </div>
+
+      <p data-rv>This is the longest single vow in the chapter and, of everything in this course, the passage least in need of any Buddhist background at all to land.</p>
+
+      <p data-rv>Chengguan maps the parable element by element, which turns what reads as a nice image into a precise diagram. The <em>wilderness</em>, stretching out with nothing to depend on, is the ordinary condition of birth and death. The <em>sand and waste</em> in it, unable to nourish anything, is the absence of any root of goodness. The <em>tree king</em> is the Dharma of awakening — branches and leaves are wisdom and meditative stability, flowers are the bodhisattva's own cultivation, fruit is the buddhas who have already completed this path. <strong>Sentient beings are the roots, holding the whole tree in the ground. Great compassion is the water, without which no root, however deep, can support any growth at all.</strong></p>
+
+      <p data-rv>Read that way, the line that sounds like rhetorical excess — <em>awakening belongs to sentient beings</em> — turns out to be the parable's literal conclusion. Chengguan's own gloss is the clearest sentence anyone has written about it: a tree's fruit does not compete with its roots for importance, or exist as some separate reward standing apart from them. <strong>The fruit is simply what the roots become, once properly watered.</strong></p>
+
+      <p data-rv>It is also why this text calls great compassion the very <em>substance</em> (體) of every buddha rather than one admirable quality among several. Water is not one ingredient in a fruit's ripening alongside interchangeable others. It is the single condition without which nothing else in the tree — root, branch, leaf or flower — can do its own work at all.</p>
+
+      <p data-rv>If you have spent this course wondering how the wisdom texts of Sessions 3 and 4 connect to the ethics of Sessions 1, 5 and 6, this parable is the answer, and it does not put them in sequence. There is no path on which you first perfect seeing and then apply it to people. The people <em>are</em> the root system.</p>
+
+      <h3 data-rv>3 · The one thing that does not leave</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Part 4 · the fruits of this teaching, in prose</div>
+        <p>"When this person's life comes to its end, in the very last moment all of their faculties will scatter and fail, every relative will forsake them, every mark of power and authority will slip away — ministers and great officers, the palace within and the city without, elephants and horses and carriages, treasures and hidden stores — none of it will follow them any longer. <strong>Only this King of Vows will never forsake them, but will guide them onward at every moment.</strong> In a single instant they will attain rebirth in Sukhāvatī…"</p>
+        <div class="zh">又復，是人臨命終時，最後剎那一切諸根悉皆散壞，一切親屬悉皆捨離，一切威勢悉皆退失，輔相、大臣、宮城內外，象馬車乘，珍寶伏藏，如是一切無復相隨，唯此願王不相捨離，於一切時引導其前。一剎那中即得往生極樂世界。</div>
+        <a class="bk" href="{{ '/sutras/samantabhadra-vows/the-tenth-vow-and-the-fruits-of-this-teaching.html' | relative_url }}">Read Part 4 in full →</a>
+      </div>
+
+      <p data-rv>The rhetorical construction is worth noticing before the doctrine. It is a list of subtractions — faculties, relatives, authority, ministers, city, horses, treasure — running long enough that the reader feels the stripping happen, and then a single exception. <strong>唯此願王不相捨離.</strong> Only this one thing does not leave.</p>
+
+      <p data-rv>And in the verse half of the chapter, the same claim returns in its most quoted form, four characters that hundreds of millions of people have hoped to be true of their own last moment: 面見彼佛阿彌陀 — <em>beholding that buddha Amitābha face to face</em>, and attaining rebirth in his land at once.</p>
+
+      <p data-rv>Chengguan does not let the obvious question pass, and his answer is the reason this chapter closes the course rather than merely ending it. Why should a chapter of the <em>Avataṃsaka</em> — an account of Vairocana's own vast Flower-Treasury World — end its most urgent vow somewhere else entirely? He gives four reasons; two are worth carrying away. Amitābha's vows are specifically weighted toward beings of <em>this</em> world, which is to say this text's actual readers. And a practitioner told only that "every direction holds an equally wondrous buddha-land" has, in practice, nowhere at all to place their devotion — <strong>naming one destination gives an anxious mind, especially at the moment of death, somewhere concrete to aim.</strong> Sukhāvatī was never a rival destination outside Vairocana's cosmology; it is one node within it.</p>
+
+      <p data-rv>Which is also the quiet answer to a question this whole course has raised without stating: why read scripture at all, rather than only practise? Because at the end, the text says, what you have is what you have vowed. Not what you owned, and not what you understood.</p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">One sentence — and then two tests</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Write your own vow</b>
+        <p>One sentence. Not a resolution, not a goal, not a plan. Samantabhadra's ten are all of the form <em>I will ___, and I will not stop</em>. Write one of yours.</p>
+        <div class="how">
+          <b>Then run the chapter's own two tests on it.</b><br><br>
+          <b>Test one — 念念相續，無有間斷.</b> Thought after thought, without a break. Is your sentence something that could be true of you on an ordinary Tuesday, in a bad mood, when nobody is watching? If it can only be true on your best days, it is an ambition. Rewrite it smaller until it is a direction.<br><br>
+          <b>Test two — 虛空界盡，我願無盡.</b> Space itself would be exhausted before this vow is. Does your sentence have a finish line? If you can imagine completing it, it is a task. Rewrite it until there is no version of you that has finished it.<br><br>
+          <b>Most people need three or four drafts.</b> That is the practice — not the writing but the rewriting, because each pass makes you say more precisely what you actually want to be doing with your life. Keep the final sentence somewhere you will find it in a year.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Every one of the ten vows ends with the same formula — space itself would be exhausted before the vow is. What does that construction accomplish?</div>
+          <button class="opt"><span class="ltr">A</span>It emphasises the extreme difficulty of the bodhisattva path, to deter the unprepared</button>
+          <button class="opt"><span class="ltr">B</span>It is a stock liturgical ending carried over from other Avataṃsaka chapters</button>
+          <button class="opt"><span class="ltr">C</span>It sets an extremely distant but genuine deadline, at the end of this cosmic age</button>
+          <button class="opt"><span class="ltr">D</span>It sets the vow's end condition at something that by definition cannot occur, so the vow is a permanent orientation rather than a task with a finish line</button>
+          <div class="expl"><strong>Correct: D.</strong> A vow you can complete is a task — you cross it off and become someone who once did that. These are built so no such moment arrives. And the closing clause is what makes it liveable rather than crushing: 念念相續，無有間斷, thought after thought without a break, "never growing weary." Not one enormous exertion, but an unbroken small one.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">After describing offerings of incense, flowers and lamps at length, the chapter says the offering of the Dharma is foremost — and among the items it lists is one you met in Session 1. Which?</div>
+          <button class="opt"><span class="ltr">A</span>The offering of reciting scripture daily, morning and evening</button>
+          <button class="opt"><span class="ltr">B</span>The offering of bearing sentient beings' suffering in their place</button>
+          <button class="opt"><span class="ltr">C</span>The offering of keeping the precepts without a single lapse</button>
+          <button class="opt"><span class="ltr">D</span>The offering of studying broadly and perfecting eloquence</button>
+          <div class="expl"><strong>Correct: B.</strong> The eighth realization of the very first text in this course — "wishing to take upon oneself, in the place of every being, their own measureless suffering" — was the point where that four-minute sūtra turned outward. Here the same move reappears as the thing you actually place on the altar, worth more than a hundredfold of every material offering.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">"All sentient beings are its roots; all buddhas and bodhisattvas are its flowers and fruit." On Chengguan's reading, what follows from the parable?</div>
+          <button class="opt"><span class="ltr">A</span>That ordinary beings are lower than buddhas, as roots are less valuable than fruit</button>
+          <button class="opt"><span class="ltr">B</span>That compassion is one useful quality among several a bodhisattva should cultivate</button>
+          <button class="opt"><span class="ltr">C</span>That "awakening belongs to sentient beings" is the parable's literal conclusion — the fruit is simply what the roots become once watered — and that compassion is the very substance of a buddha, the water without which nothing in the tree can work</button>
+          <button class="opt"><span class="ltr">D</span>That the bodhisattva path requires withdrawing from beings in order to ripen</button>
+          <div class="expl"><strong>Correct: C.</strong> Chengguan's own image: a tree's fruit does not compete with its roots for importance or stand apart from them as a separate reward. Which also settles a question this course has raised throughout — there is no path on which you first perfect seeing and then apply it to people. The people are the root system.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Why does a chapter of the Avataṃsaka — Vairocana's own Flower-Treasury cosmology — end its most urgent vow with rebirth in Amitābha's Sukhāvatī?</div>
+          <button class="opt"><span class="ltr">A</span>Chengguan gives several reasons: Amitābha's vows are weighted specifically toward beings of this world, a practitioner told only that every direction holds an equal buddha-land has nowhere to place their devotion, and Sukhāvatī was never outside Vairocana's cosmology but one node within it</button>
+          <button class="opt"><span class="ltr">B</span>The ending is a later Pure Land interpolation into an originally Avataṃsaka text</button>
+          <button class="opt"><span class="ltr">C</span>The chapter treats Sukhāvatī as superior to the Flower-Treasury World</button>
+          <button class="opt"><span class="ltr">D</span>The question was first raised by Yinguang in the twentieth century and remains unanswered</button>
+          <div class="expl"><strong>Correct: A.</strong> And the second reason is the most humanly useful: naming one destination gives an anxious mind — especially at the moment of death — somewhere concrete to aim. Note also that this is not a modern Pure Land annexation: Chengguan opened a section titled "distinctly explaining the fruit of the Pure Land" in the eighth century, more than a millennium before Yinguang added this chapter to the Pure Land canon.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">The prose passage on the moment of death lists faculties, relatives, authority, ministers, palace, horses and treasure — and then one exception. What is the rhetorical point of the long list?</div>
+          <button class="opt"><span class="ltr">A</span>To condemn wealth and worldly position as inherently corrupting</button>
+          <button class="opt"><span class="ltr">B</span>To specify which possessions may legitimately be donated to the sangha</button>
+          <button class="opt"><span class="ltr">C</span>To make the reader feel the stripping actually happen, item by item, so that the single exception — "only this King of Vows will never forsake them" — lands with the weight of everything that just went</button>
+          <button class="opt"><span class="ltr">D</span>To describe the specific deathbed circumstances of a king, to whom the chapter is addressed</button>
+          <div class="expl"><strong>Correct: C.</strong> It is a list of subtractions, run long enough to be felt rather than merely understood, ending in 唯此願王不相捨離 — only this one thing does not leave. Which is also this course's quiet answer to why one reads scripture at all rather than only practising: at the end, what you have is what you have vowed. Not what you owned, and not what you understood.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>You have read eight sūtras. What will you read next?</p>
+        <p class="sm">Not which one <em>should</em> you read — which one do you actually want to, and why that one? Eight weeks ago the honest answer to "how many Buddhist scriptures have you read whole?" was probably none. That has changed, and the useful part of the change is not the eight. It is that you now know what it is like to open a scripture, finish it, and have an opinion about it that is your own.</p>
+      </div>
+
+      <!-- COURSE COMPLETE -->
+      <div class="rs-take" data-rv style="background:linear-gradient(180deg,#fbfaff,#efe9fb);">
+        <b class="h">Eight sūtras, read whole</b>
+        <ul>
+          <li><a href="{{ '/sutras/eight-realizations-sutra/' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Eight Realizations of Great Beings</a> — the whole path on a single page, and the vow that gives it all away.</li>
+          <li><a href="{{ '/sutras/forty-two-chapters/' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Sūtra of Forty-Two Chapters</a> — the gift nobody accepted, the lute strings, the space of a single breath.</li>
+          <li><a href="{{ '/sutras/heart-sutra.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Heart Sūtra</a> — the hinge run both ways, and a mind with nothing left to snag on.</li>
+          <li><a href="{{ '/sutras/diamond-sutra.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Diamond Sūtra</a> — giving without dwelling, a mind that dwells nowhere, six similes for one truth.</li>
+          <li><a href="{{ '/sutras/bequeathed-teaching-sutra/' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Buddha's Bequeathed Teaching</a> — the precepts as the teacher, the honey and the pit, the physician who cannot make you take it.</li>
+          <li><a href="{{ '/sutras/parental-kindness-sutra.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Difficulty of Repaying Parents' Kindness</a> — a thousand years on your shoulders, and the five things that would settle it.</li>
+          <li><a href="{{ '/sutras/amitabha-sutra.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Amitābha Sūtra</a> — an unasked-for teaching, a name held in mind, and the hardest thing in the world to believe.</li>
+          <li><a href="{{ '/sutras/samantabhadra-vows.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Vows of Samantabhadra</a> — ten vows with no finish line, and the one thing that does not leave.</li>
+        </ul>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Where to go from here</div>
+        <h3>The course is finished. The library is not.</h3>
+        <p>If you want the same two texts taken apart rather than read through, <a href="{{ '/courses/heart-of-mahayana/' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Heart of the Mahāyāna</a> reads the Heart and Diamond Sūtras through the logic of negation. If you want the earliest layer of scripture at length, <a href="{{ '/courses/buddhas-own-words/' | relative_url }}" style="color:var(--indigo);font-weight:600;">The Buddha's Own Words</a> works through twelve discourses of the Majjhima Nikāya. And the <a href="{{ '/courses/' | relative_url }}" style="color:var(--indigo);font-weight:600;">Academy's five-layer path</a> shows what is coming — six questions answered twice over, from the Southern tradition and the Northern; and Sudhana's fifty-three teachers, whose last one you have just met.</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-7/' | relative_url }}">← Session 7</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
