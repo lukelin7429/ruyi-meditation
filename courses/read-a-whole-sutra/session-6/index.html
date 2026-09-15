@@ -1,0 +1,409 @@
+---
+layout: default
+title: "Session 6 · The Difficulty of Repaying Parents' Kindness (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-6/
+excerpt: Session 6 of Read a Whole Sūtra — a very short discourse answering a very old objection, and the register of Buddhist ethics that Western Buddhism has almost entirely dropped.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 6</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 6 · 信 What to trust</div>
+      <h1>The Difficulty of Repaying Parents' Kindness</h1>
+      <div class="subt">《佛說父母恩難報經》 — a debt no amount of care can discharge</div>
+      <div class="rd">
+        <span><b>Reading time</b> about four minutes</span>
+        <span><b>Before class</b> Sessions 1–5</span>
+        <span><b>Length</b> the shortest text in this course</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, sixth</h2></div>
+
+      <p data-rv>Because there is a whole register of Buddhist ethics that English-language Buddhism has quietly dropped, and this is the shortest door back into it.</p>
+
+      <p data-rv>Ask most Western practitioners what Buddhism has to say about their parents and you will usually get silence, or something general about compassion for all beings. Ask a Chinese, Korean, Japanese or Vietnamese Buddhist the same question and you will get a specific, forceful, slightly uncomfortable answer that has organised temple calendars, funeral rites and family life for something like fifteen centuries. The gap is not because one tradition invented the subject. It is because the other stopped translating it.</p>
+
+      <div class="rs-pull" data-rv>This text takes four minutes to read and will probably be the one from this course you think about longest.</div>
+
+      <h3 data-rv>The objection it exists to answer</h3>
+
+      <p data-rv>From the Han dynasty onward, the standard Confucian charge against Buddhism in China was that it is <strong>unfilial</strong>. It takes sons out of the household. It ends the family line. It shaves off the hair and beard a person received from their parents. That charge did real damage, and Chinese Buddhists spent centuries answering it.</p>
+
+      <p data-rv>This discourse is one of the answers, and it is a strong one for a reason worth noticing: <strong>it is early, canonical, and it does not shrink the debt in order to escape it.</strong> The text agrees, in its opening lines and in the most physical terms available, that the debt is effectively infinite and that ordinary care cannot discharge it. What it claims is that there is one thing that can — and that the thing is spiritual rather than material.</p>
+
+      <p data-rv>The Chinese tradition took exactly that line and pressed it much further. The <a href="{{ '/sutras/brahma-net-sutra/' | relative_url }}">Brahmā Net Sūtra</a> opens its bodhisattva precepts by making filial devotion to parents, teachers and the Three Jewels the first content of the precepts, then declares that filial devotion <em>is itself</em> the dharma of the highest way — 孝名為戒, "filiality is called precept." The <a href="{{ '/sutras/contemplation-sutra.html' | relative_url }}">Contemplation Sūtra</a>'s three blessings open with caring for one's parents, before a word about meditation or vows. This short text is the hinge those turn on.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">Two things worth knowing before you read</b>
+        <ul>
+          <li><b>This is a genuine translation, and it has a near-twin in the Pāli canon.</b> The same teaching, with a hundred years in place of a thousand, appears at AN 2.33 — which this site also carries, in <a href="{{ '/discourses/anguttara-nikaya/an-2.32-41.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">the Book of Twos</a>. Two canons preserved in different languages on different sides of a continent, making the same move for the same reason. That is about as strong as evidence gets for an early stratum.</li>
+          <li><b>Do not confuse it with its famous cousins.</b> Two much longer and far better-known texts circulate on this same theme under similar titles — 父母恩重經 and 父母恩重難報經 — and both are apocryphal, composed in Chinese, one of them catalogued among the canon's own "doubtful and dubious" scriptures and denounced as a forgery by the Ming master Yunqi Zhuhong. They are moving, historically important, and not what you are reading here. Session 2 gave you the habit of mind for holding that distinction; this is where you use it.</li>
+        </ul>
+      </div>
+
+      <p data-rv>One small curiosity you will meet in the first line. The text calls the Buddha 婆伽婆, a bare transliteration of <em>Bhagavā</em> — and then, a few lines later, switches to 世尊, "World-Honored One," the term later translators settled on. You are catching a translator mid-decision, inside a single short text.</p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">Four minutes — the shortest text in this course</span></h2></div>
+      <p data-rv>No commentary on this specific text survives, so the reading notes on the page are Ru-Yi's own, and say so. Seven short sections.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/parental-kindness-sutra.html' | relative_url }}" data-rv>
+        <div class="trad">Early Buddhist discourse · complete · Ru-Yi translation</div>
+        <h3>The Sūtra on the Difficulty of Repaying Parents' Kindness — full text</h3>
+        <p>《佛說父母恩難報經》 · Taishō T0684 · the complete text in Chinese and English, with key terms, reading notes, and a self-check quiz.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">The debt, the discharge, and the two kinds of son</span></h2></div>
+
+      <h3 data-rv>1 · A debt that care alone cannot settle</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 2 · the extent of the debt</div>
+        <p>"Parents are of great benefit to their children — nursing, feeding, and raising them, tending to them through every season, until the four great elements that compose the body are fully formed. <strong>Even a son who carried his father on his right shoulder and his mother on his left for a thousand years, and even were they to relieve themselves right there on his back, and even if he bore it all without a single resentful thought toward them — that son would still not have done enough to repay his parents' kindness.</strong>"</p>
+        <div class="zh">爾時世尊告諸比丘：「父母於子，有大增益，乳餔長養，隨時將育，四大得成。右肩負父、左肩負母，經歷千年，正使便利背上，然無有怨心於父母，此子猶不足報父母恩。」</div>
+        <a class="bk" href="{{ '/sutras/parental-kindness-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>The image is deliberately extreme and deliberately undignified, and both qualities are doing work. Not a thousand years of dignified devotion — a thousand years of carrying your parents' full physical weight, including the indignity of their bodily needs, on your own back, without one resentful thought.</p>
+
+      <p data-rv>Why push it that far? <strong>To rule out, in advance, the obvious escape.</strong> If the conclusion is "still not enough," a reader must not be able to hear it as a complaint that their filial care has been half-hearted, or that they should try harder. The text forecloses that by describing care so complete that no one has ever offered it — and saying, still not enough. Whatever the answer turns out to be, it will not be "more of the same."</p>
+
+      <p data-rv>And note the reason given for the debt: parents are responsible for the child "until the four great elements that compose the body are fully formed." Earth, water, fire and wind — the standard early Buddhist analysis of what a physical body is. The debt is located at the most basic physical level there is, which is exactly why repayment at that level cannot be commensurate with it. <em>You cannot pay for a body with a body.</em></p>
+
+      <h3 data-rv>2 · What does settle it — five clauses, one refrain</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 3 · the turn</div>
+        <p>"If a parent lacks faith, and is taught and led to faith, <strong>this brings them to a place of peace</strong>. If a parent lacks ethical conduct, and is given it through instruction, this brings them to a place of peace. If a parent has not heard the teaching, and is led to hear it, this brings them to a place of peace. If a parent is stingy, and is taught and encouraged toward generosity, this brings them to a place of peace. If a parent lacks wisdom, and is taught and encouraged toward clear understanding, this brings them to a place of peace."</p>
+        <div class="zh">若父母無信，教令信，獲安隱處；無戒與戒，教授獲安隱處；不聞使聞，教授獲安隱處；慳貪教令好施，勸樂教授，獲安隱處；無智慧教令黠慧，勸樂教授，獲安隱處。</div>
+        <a class="bk" href="{{ '/sutras/parental-kindness-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Five clauses, each the same shape: a lack named, a remedy taught, and then the identical phrase — 獲安隱處, "brings them to a place of peace" — repeated five times like a refrain. After the enormity of the previous paragraph, the answer arrives with almost startling plainness.</p>
+
+      <p data-rv>Now notice the direction the payment runs, because it is not the obvious one. What repeats five times is not framed as a reward the <em>child</em> earns. It is a condition the <em>parent</em> arrives at. <strong>The debt is discharged not by what the child gives up, but by what the child gives the parent access to.</strong> Nothing here is about sacrifice, and nothing is about the child's own merit. The whole measure is what changed for the other person.</p>
+
+      <p data-rv>The five items are worth reading slowly, because taken together they describe a whole life rather than a religious conversion: faith, ethical conduct, having heard the teaching, generosity, wisdom. And the text is specific that this is not a promise deferred to some future existence — the teachings' "fruit is realized in this very life" (現身獲果). Which is precisely why leading a parent to them, <em>now, while they are alive</em>, counts as genuine repayment rather than a gesture toward one.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">The honest difficulty, stated plainly</b>
+        <ul>
+          <li><b>Most readers of this course cannot do what this text says.</b> Your parents may be dead, or estranged, or entirely uninterested in anything you have read in the last six weeks. Suggesting you convert them would be both impertinent and a misreading.</li>
+          <li><b>But look at what the five items actually are</b> — trust in something worth trusting, conduct they can live with, having heard something true, generosity, clear understanding. Those are not denominational. A person can be brought nearer to any of them without ever hearing the word Buddhism.</li>
+          <li><b>And notice what the text does not say.</b> It does not say to stop the nursing, the visiting, the carrying. It says that alone will not settle the account — not that it is worthless. The thousand years on the shoulders is described, throughout, as something admirable.</li>
+        </ul>
+      </div>
+
+      <h3 data-rv>3 · Two kinds of son</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 6 · the closing instruction</div>
+        <p>"In this way, every child should lead their parents to practice loving-kindness. Monks, there are <strong>two kinds of sons: the son one gave birth to, and the son one raised</strong>. These, monks, are the two kinds of sons. Therefore, monks, you should learn to be <strong>the son whose mouth brings forth the flavor of the teaching</strong>. This is how you should train."</p>
+        <div class="zh">如是諸子當教父母行慈。諸比丘！有二子：所生子，所養子。是謂，比丘！有二子。是故，諸比丘當學所生子，口出法味。如是，諸比丘當作是學。</div>
+        <a class="bk" href="{{ '/sutras/parental-kindness-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>This is easy to read past as a bit of taxonomy, and it is the most quietly devastating sentence in the text.</p>
+
+      <p data-rv>Being born to parents and being fed and raised by them describe something a child <strong>receives</strong>. Both categories are entirely passive. That is the whole of what an ordinary child is: two kinds of having-been-given-to. And the sūtra's final instruction is to become something the list does not contain — the child whose "mouth brings forth the flavor of the teaching," offering something back rather than only ever having been given to.</p>
+
+      <p data-rv>法味, "flavor of the teaching," is a term that recurs across early Buddhist literature, and the image is deliberate: the Dharma as something tasted and then shared, the way food is shared at a table. It closes a text that opened by describing a parent literally feeding a child. The infant at the breast, and the adult finally able to put something on the table.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Worth comparing with the Pāli near-twin at AN 2.33, which this site also carries. The Chinese has five clauses where the Pāli has four — it separates "leading a parent to hear the teaching" out as its own item between ethical conduct and generosity. A difference of emphasis rather than substance, since hearing is what makes the other four possible. <a href="{{ '/discourses/anguttara-nikaya/an-2.32-41.html' | relative_url }}" style="color:var(--indigo);font-weight:600;">Read AN 2.32–41 →</a></em></p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">One thing, for one parent, this week</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Give them access to one of the five</b>
+        <p>The text's own answer is not a feeling and not a resolution. It is an act with a named result: a parent who lacked something now has it.</p>
+        <div class="how">
+          <b>Pick one parent and one of the five.</b> Faith — something worth trusting. Conduct — a way of living they can be at peace with. Hearing — one true thing they have not heard. Generosity — one occasion to give. Understanding — one thing seen more clearly. Then do the smallest real version of it this week. A conversation. A book. A question actually asked and the answer actually listened to.<br><br>
+          <b>If your parents are dead</b>, the tradition has never treated that as the end of the obligation, and neither should you. Do it for someone who stands where they stood — someone older who raised you, taught you, or carried you, and to whom you have never offered anything back.<br><br>
+          <b>If the relationship is too damaged for any of this</b>, the honest version is smaller and still counts: one hour spent finding out something true about their life that you never knew. The sūtra's measure is what changed for the other person; it never says the child must feel warmly while doing it.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Why does the sūtra push the image of filial care to such an extreme — a thousand years of carrying both parents, including their bodily needs, without a resentful thought?</div>
+          <button class="opt"><span class="ltr">A</span>To show that most children fall far short and should be ashamed</button>
+          <button class="opt"><span class="ltr">B</span>To establish that only monastics, freed from ordinary duties, can meet the standard</button>
+          <button class="opt"><span class="ltr">C</span>To rule out in advance the reading that better or longer physical care would have been enough — so that "still not enough" cannot be heard as "try harder"</button>
+          <button class="opt"><span class="ltr">D</span>To make a literal recommendation about how the elderly should be cared for</button>
+          <div class="expl"><strong>Correct: C.</strong> The care described is more complete than anyone has ever offered, and it is still not enough. That forecloses the escape route where the reader hears a complaint about half-heartedness. Whatever the answer is, it will not be more of the same — which is exactly what makes the next paragraph land. The near-identical image in the Pāli parallel, AN 2.33, makes the same move for the same reason.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The sūtra locates the debt at the level of "the four great elements that compose the body." Why does that matter for the argument?</div>
+          <button class="opt"><span class="ltr">A</span>It shows the debt is only physical and therefore relatively minor</button>
+          <button class="opt"><span class="ltr">B</span>It places the debt at the most basic physical level there is, which is precisely why repayment in physical care cannot be commensurate with it</button>
+          <button class="opt"><span class="ltr">C</span>It indicates that only a physician could truly repay a parent</button>
+          <button class="opt"><span class="ltr">D</span>It is a stock phrase carrying no argumentative weight here</button>
+          <div class="expl"><strong>Correct: B.</strong> Earth, water, fire and wind — the standard analysis of what a body is. Parents are responsible for the child at that level. You cannot pay for a body with a body, which is why the answer, when it comes, is of a different kind entirely.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Five clauses, five times "this brings them to a place of peace." What is the logic of how the debt gets discharged?</div>
+          <button class="opt"><span class="ltr">A</span>By the child renouncing worldly life, which transfers merit to the parents</button>
+          <button class="opt"><span class="ltr">B</span>By the child's sacrifice being great enough to balance the original gift</button>
+          <button class="opt"><span class="ltr">C</span>By the child performing rites on the parents' behalf after their death</button>
+          <button class="opt"><span class="ltr">D</span>By what the child gives the parent access to — faith, conduct, hearing, generosity, wisdom — measured entirely by what changed for the parent</button>
+          <div class="expl"><strong>Correct: D.</strong> Notice the direction: what repeats five times is a condition the <em>parent</em> arrives at, not a merit the child accrues. Nothing in the passage is about sacrifice. And the claim is present-tense — the teachings' "fruit is realized in this very life" — which is why leading a parent to them while they are alive counts as repayment rather than a gesture toward one.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">"There are two kinds of sons: the son one gave birth to, and the son one raised." What is this distinction actually doing?</div>
+          <button class="opt"><span class="ltr">A</span>Naming two purely passive categories — both describe what a child <em>receives</em> — so that the closing instruction can point past both, to the child who offers something back</button>
+          <button class="opt"><span class="ltr">B</span>Distinguishing biological children from adopted ones, and assigning them different duties</button>
+          <button class="opt"><span class="ltr">C</span>Contrasting a filial son with an unfilial one</button>
+          <button class="opt"><span class="ltr">D</span>Separating lay sons from sons who have entered the monastic order</button>
+          <div class="expl"><strong>Correct: A.</strong> Being born to someone and being raised by them are both things done <em>to</em> you. That is the whole of what an ordinary child is. The final instruction — become "the son whose mouth brings forth the flavor of the teaching" — names a third thing the list does not contain. And 法味, flavor of the teaching, closes a text that opened with a parent literally feeding a child.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">This short discourse is a genuine translation with a Pāli parallel. Two much more famous Chinese texts circulate on the same theme under similar titles. What is their status?</div>
+          <button class="opt"><span class="ltr">A</span>They are earlier versions of this same text, which abridges them</button>
+          <button class="opt"><span class="ltr">B</span>They are commentaries on this text by named Chinese masters</button>
+          <button class="opt"><span class="ltr">C</span>They are apocryphal — composed in Chinese rather than translated, one catalogued among the canon's own "doubtful and dubious" scriptures and denounced as a forgery by Yunqi Zhuhong — and are historically important without being this text</button>
+          <button class="opt"><span class="ltr">D</span>They are Tibetan works later retranslated into Chinese</button>
+          <div class="expl"><strong>Correct: C.</strong> 父母恩重經 and 父母恩重難報經 are moving, enormously influential in Chinese folk Buddhism, and not translations of any Indian original. Holding that distinction without either dismissing them or mistaking them for canon is the same habit of mind Session 2 practised on the Sūtra of Forty-Two Chapters — devotional value and canonical standing are two separate questions.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);">The sūtra's own page carries a further self-check on the full text. <a href="{{ '/sutras/parental-kindness-sutra.html' | relative_url }}#quiz" style="color:var(--indigo);font-weight:600;">Take it there →</a></p>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Is a debt that cannot be repaid still a debt?</p>
+        <p class="sm">The sūtra says both things at once and does not resolve them for you: the debt is beyond any possible repayment, and here is what repays it. Hold the two together rather than picking one. Much of what people find difficult about their parents lives exactly in that gap — in the suspicion that the account can never be settled, and the refusal to stop trying.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 7 · The Amitābha Sūtra</h3>
+        <p>The most recited Buddhist scripture on earth, and very close to invisible in English. A real place, a buddha of boundless light and life, and one instruction so simple that the sūtra itself calls it the hardest teaching in the world to believe — not to understand. To believe.</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-5/' | relative_url }}">← Session 5</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
