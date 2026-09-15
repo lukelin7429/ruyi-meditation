@@ -1,0 +1,418 @@
+---
+layout: default
+title: "Session 9 · The smallest thing (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-9/
+excerpt: Session 9 of Stories the Buddha Told — a wife who cannot win an argument hangs a bell on a door, and a neighbour who wants the same result breaks a man's leg.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 9</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 9 · The stories he told</div>
+      <h1>The smallest thing</h1>
+      <div class="subt">A bell on a door, and a man who broke a leg to get the same result</div>
+      <div class="rd">
+        <span><b>Reading time</b> about three minutes for both</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>Where it is from</b> Story 7 of Fascicle 45, and Story 11 of Fascicle 44</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>How little does it take to change a life?</strong></p>
+
+      <p data-rv>People generally assume the answer is: quite a lot. Change is supposed to be effortful, and the things we expect to work are the big ones — the decision, the commitment, the conversation that finally happens.</p>
+
+      <p data-rv>This week's pair of stories gives you the smallest intervention in the entire anthology and the largest, side by side. The small one is a bell hung on a door by a woman who had run out of arguments. The large one is a man who wanted a particular result badly enough to break a stranger's leg to get it.</p>
+
+      <div class="sx-pull" data-rv>One of them works. It is not the one that took effort.</div>
+
+      <p data-rv>A note before you read the first story. It goes to hell — literally; there are wardens, and a cauldron. The collection assumes a cosmology that you are under no obligation to share, and nothing in this session depends on it. What matters is the mechanism, which would work exactly the same in a hospital corridor.</p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The stories<span class="rf">Two of them — read both, in this order</span></h2></div>
+
+      <a class="sx-textcard alt" href="{{ '/anthology/jinglvyixiang/fascicle-045/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 45 · Ordinary Women</div>
+        <h3>7. A Wife Converts Her Husband by Hanging a Bell on the Door</h3>
+        <p>Number 7 on the page. About ninety words, and the best ninety words in this course.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="sx-textcard" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 44 · Ordinary Men</div>
+        <h3>11. Providing for a Śramaṇa with a Good or an Evil Mind Brings Different Rewards</h3>
+        <p>Number 11 on the page. A man hears how someone else got rich, and sets about reproducing the conditions.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished both.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping</span></h2></div>
+
+      <h3 data-rv>1 · She stops arguing and builds a device</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The bell</div>
+        <p>"Long ago there was a man who did not believe, and his wife served the Buddha devoutly. The wife said to her husband: human life is impermanent and one may cultivate merit. <strong>Her husband had no mind for it and was idle.</strong>"</p>
+        <p>"His wife, fearing he would enter hell in a life to come, said to him again: <strong>I should like to hang a bell on the door, so that when you go in and out you strike the bell and it sounds, and you say: homage to the Buddha.</strong> Her husband said: very good. And so it went for a long time."</p>
+        <div class="zh">昔有人不信。婦甚事佛。婦白婿曰。人命無常可修福德。婿無心懶墮。婦恐將來入地獄中。即復白婿。欲懸一鈴安著戶上。君出入時。掁鈴作聲稱南無佛。婿曰甚善。如是經久。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-045/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>The first thing she tries is the thing everybody tries. She makes the argument. It is a perfectly good argument — life is short, you could do something with that — and it is the same one people have been making to their spouses for several thousand years. And the text records the outcome in five characters: <strong>婿無心懶墮</strong>. He had no mind for it and was idle.</p>
+
+      <p data-rv>What she does next is the whole story, and it is genuinely clever. <strong>She stops trying to change what he believes and changes what happens in the doorway.</strong> A bell. He walks through; it rings; he says four words. That is the entire proposal.</p>
+
+      <p data-rv>And notice why he agrees. "Very good," he says — immediately, with no resistance at all. Of course he does. It costs him nothing. It commits him to nothing. It does not require him to believe a single thing, admit he was wrong, or have a conversation about it ever again. <strong>She has designed the one request he cannot be bothered to refuse.</strong></p>
+
+      <p data-rv>"And so it went for a long time." Years, presumably. A bell ringing, a man saying words he does not mean, on his way out to do whatever he did.</p>
+
+      <h3 data-rv>2 · It works in the worst possible place, by reflex</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">What happens later</div>
+        <p>"Her husband's life ended, and the hell-warders forked him up and threw him into a cauldron of boiling water; <strong>and the fork struck the cauldron and made a sound, and he took it for the sound of the bell and said: homage to the Buddha.</strong> The hell officer heard it: this man serves the Buddha — and released him and let him go out, and he obtained birth among humans."</p>
+        <div class="zh">其婿命終。獄卒扠之擲鑊湯中。扠掁鑊作音聲。謂是鈴聲。稱南無佛。獄官聞之。此人奉佛。放令出去。得生人中。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-045/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Set aside the cauldron and look at what the story is actually claiming, because it is quite precise and quite unusual.</p>
+
+      <p data-rv>There is no deathbed repentance here. No moment of faith, no realisation, no final understanding. The man is in the worst situation of his existence, in a state of complete panic, with no capacity left for choosing anything — and a piece of metal hits a piece of metal, and <strong>his body produces four words it has produced ten thousand times before.</strong></p>
+
+      <p data-rv>He does not mean them this time either. That is the point. What saves him is not belief but <em>a groove worn into him over years by a small mechanical arrangement</em> — installed by someone who loved him, could not persuade him, and settled for building something instead.</p>
+
+      <p data-rv>It is worth saying plainly how strange this is. The story does not require the man to be good, sincere, or even interested. It requires him to have walked through a door several thousand times.</p>
+
+      <h3 data-rv>3 · The man who broke a leg</h3>
+
+      <p data-rv>Now the second story, which exists to stop you drawing the wrong conclusion from the first.</p>
+
+      <p data-rv>A household takes in a lame wandering monk, sees that his foot is afflicted, pities him, and provides for him for a year. When he leaves, host and guest weep together. Then the man lifts the couch and finds it heaped with gold, and becomes very rich.</p>
+
+      <p data-rv>The neighbour hears about this and asks how it happened. He is told, truthfully. And then:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The neighbour's method</div>
+        <p>"The neighbour, with an evil thought, hoped to find treasure, and looked for a lame man to provide for; and <strong>he searched everywhere and there was none.</strong> He met one religious man whose body was quite whole, and <strong>bound him and brought him back and broke his leg</strong> and provided for him a little while, and then forced him to go."</p>
+        <p>"After he had gone they lifted the couch — and moved by that evil mind, venomous snakes, wasps, and scorpions came and stung the whole household."</p>
+        <div class="zh">隣人惡念希覓珍寶。便覓一跛人欲供養之。遍求無有。會一道人身體完具。縛還折脚供養少時。強驅令去。去後發床。惡心所感。毒蛇蜂蝎來螫合家。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>The sequence is extraordinary and almost funny until you look at it directly. He identifies the input — <em>lame monk</em> — and goes looking for one. He cannot find one. <strong>So he manufactures one.</strong> Then he provides for the man he has crippled, exactly as the recipe specified, and hurries him out of the house so that he can check under the couch.</p>
+
+      <p data-rv>The story's own verdict is one line, and it is the sentence this whole session turns on:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The verdict</div>
+        <p>"He who got the treasure — <strong>his mind was upright and auspicious</strong>; those who were stung — <strong>their minds were not humane.</strong>"</p>
+        <div class="zh">得珍寶者其心貞吉。被螫毒者其心不仁。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <div class="sx-take" data-rv>
+        <b class="h">Why these two belong on the same page</b>
+        <ul>
+          <li><b>Effort is not the variable.</b> The neighbour worked far harder than either the wife or the husband. He searched a whole district, committed a serious crime, and maintained a household guest for weeks. The husband walked through a door.</li>
+          <li><b>Nor is sincerity, exactly.</b> The husband meant nothing by the words, ever — including at the end. If sincerity were the requirement he would have gone into the pot.</li>
+          <li><b>What separates them is whether anything was being extracted.</b> The wife wanted her husband not to suffer. The first household saw a man with a bad foot and felt sorry for him. The neighbour wanted what was under the couch, and every single thing he did was aimed at it.</li>
+          <li><b>Which is why the bell could be empty and still work.</b> It was not a transaction. Nobody in that house was ever owed anything for it.</li>
+        </ul>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · build it once, then stop thinking about it</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Hang a bell</b>
+        <p>You have already met one of these in this course. In Session 6 a man bought fourteen paces, and they were worth four thousand taels of gold because he never had to decide to use them — the instruction was simply what he did when in doubt.</p>
+        <div class="how">
+          <b>Build one arrangement that removes a decision.</b> Not a resolution, not an intention, not a promise to yourself. A change to the physical world that makes a small good thing happen without you having to choose it each time.<br><br>
+          <b>The test is whether it still works on your worst day.</b> A resolution does not; a bell does. The book by the bed rather than the plan to read. The phone charging in the other room rather than the intention to stop. The route home that goes past the person you never visit. The standing order rather than the good cause you keep meaning to support.<br><br>
+          <b>Make it so small it is embarrassing.</b> That is not a compromise — it is the actual instruction. The wife in this story did not ask her husband for ten minutes a day, or a conversation, or an open mind. She asked for a bell, and she got a yes because there was nothing in it to refuse.<br><br>
+          <b>Then leave it alone.</b> The grooves take years, and the man in this story was not thinking about his bell at any point.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does the wife try first, and what happens?</div>
+          <button class="opt"><span class="ltr">A</span>She asks him to come with her to hear a teacher, and he refuses</button>
+          <button class="opt"><span class="ltr">B</span>She makes the argument — life is short, you could do something with it — and he has no mind for it and is idle</button>
+          <button class="opt"><span class="ltr">C</span>She threatens to leave the household</button>
+          <button class="opt"><span class="ltr">D</span>She says nothing at all, and goes straight to the bell</button>
+          <div class="expl"><strong>Correct: B.</strong> 婿無心懶墮 — five characters for an outcome several thousand years of spouses will recognise. The argument is a perfectly good one. It simply does not work, and she is the rare person who notices that and changes method rather than volume.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Why does the husband agree to the bell so readily?</div>
+          <button class="opt"><span class="ltr">A</span>He has begun to come round to her view</button>
+          <button class="opt"><span class="ltr">B</span>He is afraid of what will happen to him after death</button>
+          <button class="opt"><span class="ltr">C</span>Because it costs him nothing and commits him to nothing — no belief, no admission, no further conversation</button>
+          <button class="opt"><span class="ltr">D</span>Because she offers him something in return</button>
+          <div class="expl"><strong>Correct: C.</strong> "Very good," he says, at once. She has designed the one request he cannot be bothered to refuse — which is not a weakness in the plan but the whole of it.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What actually saves him at the end?</div>
+          <button class="opt"><span class="ltr">A</span>A genuine change of heart in his final hours</button>
+          <button class="opt"><span class="ltr">B</span>His wife's merit, transferred to him</button>
+          <button class="opt"><span class="ltr">C</span>The intercession of a monk he had once fed</button>
+          <button class="opt"><span class="ltr">D</span>The fork striking the cauldron, which sounds like the bell — and his body produces the four words it has produced ten thousand times before</button>
+          <div class="expl"><strong>Correct: D.</strong> No repentance, no realisation, no faith. A man in complete panic, with no capacity left for choosing anything, and a groove worn into him over years by a small mechanical arrangement. He does not mean the words this time either — that is precisely the point.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">In the second story, the neighbour wants the treasure and needs a lame monk to provide for. He cannot find one. What does he do?</div>
+          <button class="opt"><span class="ltr">A</span>He seizes a monk whose body is entirely sound, brings him home and breaks his leg, then provides for him briefly and hurries him out of the house</button>
+          <button class="opt"><span class="ltr">B</span>He gives up and provides for a healthy monk instead</button>
+          <button class="opt"><span class="ltr">C</span>He pays someone to pretend to be lame</button>
+          <button class="opt"><span class="ltr">D</span>He steals the gold from his neighbour's house</button>
+          <div class="expl"><strong>Correct: A.</strong> He identifies the input, cannot source it, and manufactures it. Then he follows the recipe exactly and gets the guest out of the house so he can look under the couch. He works enormously harder than anyone else in either story.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Read together, what do the two stories say the difference is?</div>
+          <button class="opt"><span class="ltr">A</span>How much effort was put in — the bell was easy and the neighbour's scheme was hard</button>
+          <button class="opt"><span class="ltr">B</span>Sincerity — the husband meant the words and the neighbour did not</button>
+          <button class="opt"><span class="ltr">C</span>Whether anything was being extracted — the wife wanted her husband not to suffer, the first household simply felt sorry for a man with a bad foot, and the neighbour wanted what was under the couch</button>
+          <button class="opt"><span class="ltr">D</span>Which of them had faith in the Buddha</button>
+          <div class="expl"><strong>Correct: C.</strong> Effort is not the variable — the neighbour worked hardest by far. Nor is sincerity, exactly: the husband never meant the words, including at the end, and if sincerity were the requirement he would have gone into the pot. 其心貞吉 against 其心不仁. The bell could be completely empty and still work, because nobody in that house was ever owed anything for it.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>What do you keep deciding, that you could arrange instead?</p>
+        <p class="sm">Most people are carrying two or three things they re-decide every single day and lose about half the time. That is not a failure of character; it is a design problem, and it is being solved with willpower because nobody suggested anything else. The woman in this story had a husband she could not argue with and a worry she could not put down, and what she came up with was a bell. Small enough to say yes to. Loud enough to hear in hell.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Last session</div>
+        <h3>Session 10 · The last night</h3>
+        <p>Back to where we started. In Session 1 a young man walked out of a city; next week he is between two trees at the other end of his life, with the people who followed him standing round, and he has something to say about all of it. It is the end of the course, and the beginning of a different one.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-8/' | relative_url }}">← Session 8</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
