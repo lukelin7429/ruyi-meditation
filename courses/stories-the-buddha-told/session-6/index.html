@@ -1,0 +1,406 @@
+---
+layout: default
+title: "Session 6 · Buying wisdom (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-6/
+excerpt: Session 6 of Stories the Buddha Told — a man pays a fortune for one piece of advice that contains no information at all, and it saves two lives that night.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 6</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 6 · The stories he told</div>
+      <h1>Buying wisdom</h1>
+      <div class="subt">A thousand taels of gold for a piece of advice with nothing in it</div>
+      <div class="rd">
+        <span><b>Reading time</b> about two minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>Where it is from</b> Story 18, Fascicle 44</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>What is a piece of advice actually worth?</strong></p>
+
+      <p data-rv>Awkward question, because the honest answer is that you cannot tell at the time. Advice arrives with no price on it and usually no obvious use. You find out what a sentence was worth years later, on a particular evening, and by then you have generally forgotten who said it.</p>
+
+      <p data-rv>This week's story is about a man who pays an enormous sum for a single instruction, gets something that sounds like a swindle, and finds out what it was worth the same night. It is two minutes long and much lighter than last week's — though it comes within a few seconds of being the darkest story in the course, which is a thing the text mentions almost in passing.</p>
+
+      <div class="sx-pull" data-rv>He did not buy information. Nothing he was told contains any. He bought a delay.</div>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">Two minutes — read it before anything below</span></h2></div>
+      <p data-rv>Back to Fascicle 44, "Ordinary Men." You want <strong>number 18</strong>.</p>
+
+      <a class="sx-textcard" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 44 · Ordinary Men</div>
+        <h3>18. A Man Buys Wisdom and Escapes a Great Crime</h3>
+        <p>A poor man comes back rich from a sea voyage, with plans. A friend suggests he spend some of it differently.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping</span></h2></div>
+
+      <h3 data-rv>1 · Notice what he was going to spend the money on</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The opening — a poor man comes home rich</div>
+        <p>"Long ago there was a man, poor and of no use, who took up trading and went to sea and gathered treasure and came back to his country. He met a good friend and said: I was always poor before and have now got these goods, enough to manage on. <strong>If my mother will not have it my way, I mean to leave her and live apart; and if my wife will not have it my way, I mean to look for another.</strong>"</p>
+        <div class="zh">昔有一人。貧窮無用。治生入海採寶還國。遇善知識言。我素貧窮今得此物。足以自諧。若母不可。我意當捨母居去。若婦不可。我意我當更索。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Before a single word about wisdom, look at what the money has already done. He has been home about five minutes and the wealth has been fully converted — not into a house or a business, but into <strong>a plan for replacing his family.</strong></p>
+
+      <p data-rv>And he is not asking anyone's opinion. Read the grammar of it: <em>if my mother will not have it my way</em>. The condition is not whether they are right. It is whether they agree. He has come back from the sea with enough money that other people have become optional, and he is announcing it to a friend in the street.</p>
+
+      <p data-rv>Now watch what the friend does, because it is the second most interesting thing in the story. <strong>He does not argue.</strong> He does not defend the mother, or point out that the wife has waited years, or say any of the sensible things a friend says. He says: there is a wise man near here, and you can buy wisdom from him for a thousand taels of gold.</p>
+
+      <p data-rv>A man who has just announced he can now afford to discard his family is told, in effect: fine — then you can afford this too.</p>
+
+      <h3 data-rv>2 · The advice has nothing in it</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">What a thousand taels of gold buys</div>
+        <p>"The man did as he said and went into a settlement that served the Buddha and asked about it, and was answered: <strong>whenever a thing is in doubt, walk seven steps forward and seven steps back, and do so three times, and wisdom will arise of itself.</strong>"</p>
+        <div class="zh">答曰。夫所疑事。前行七步却行七步。如是至三智慧自生。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Read it as a customer. You have handed over a fortune and received a walking instruction.</p>
+
+      <p data-rv>There is no <em>content</em> in it whatsoever. Nothing about mothers, or wives, or money, or anger, or how to tell whether you are being unfair. No principle you could write on a wall. No way to be wiser tomorrow than you are today. It does not even tell you to think — "wisdom will arise of itself" puts the burden on nobody at all. Fourteen paces, three times, and that is the whole product.</p>
+
+      <p data-rv>Which is exactly why it works, and why the story is cleverer than it first appears. <strong>What he bought was not information. It was a delay</strong> — and, crucially, a delay with a shape. Not "count to ten," which you can do while still holding the knife and still being right. Seven steps forward puts your body somewhere else. Seven steps back brings you to where you were, changed by the walk. Three times, because once is not enough to break a moment that has already made up its mind.</p>
+
+      <h3 data-rv>3 · The night, and the price</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">What happens a few hours later</div>
+        <p>"That night the man went home and saw his mother sleeping beside his wife, and, <strong>supposing it was another man, drew his blade meaning to kill him</strong>; but in his mind it did not seem right, and he lit a great lamp and looked from a distance and reflected: this morning I bought wisdom. And he went forward and back three times in that way, <strong>and his mother woke.</strong>"</p>
+        <div class="zh">其人夜歸家。見母伴婦眠。謂是他男。拔刀欲殺。意中不掩。然大燈火遙照思惟。朝買智慧。如是前却三反。母便覺悟。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>A man comes home in the dark, sees two shapes in his bed, and is a moment away from killing his own mother. The story spends one clause on it, the way it spends one clause on most things.</p>
+
+      <p data-rv>But look closely at the order of what saves them, because it is not what you would guess. <strong>The remembered advice comes fourth.</strong></p>
+
+      <div class="sx-take" data-rv>
+        <b class="h">The sequence, in the order the text gives it</b>
+        <ul>
+          <li><b>意中不掩</b> — "in his mind it did not seem right." A small wrongness arrives first, before any technique. He has it already; he has always had it.</li>
+          <li><b>He lit a great lamp.</b> More light on the situation.</li>
+          <li><b>遙照 — he looked from a distance.</b> More space between him and it.</li>
+          <li><b>Then</b> he remembers what he bought that morning, and walks.</li>
+          <li>The instruction did not supply the doubt. <b>It gave the doubt somewhere to go</b> — and long enough to get there.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Then the last line, which is the story's actual argument about advice:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The revaluation</div>
+        <p>"The man exclaimed: <strong>this is truly wisdom — and how should it be worth only a thousand taels of gold?</strong> And he gave him three thousand taels more."</p>
+        <div class="zh">此人歎言。真為智慧。何但堪千兩金。即復與三千兩金。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>He goes back and pays four times the asking price, unprompted, for something he already owns. Nobody asked him to. The transaction was complete and the seller had no further claim.</p>
+
+      <p data-rv>And that is the point about advice, put as sharply as a story can put it: <strong>the price was not settled in the morning. It was settled that night.</strong> Before that night, a thousand taels was a swindle. After it, four thousand was a bargain, and the words had not changed at all.</p>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · costs nothing · must be physical</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Buy yourself the seven steps</b>
+        <p>Pick <strong>one</strong> specific trigger. Not a general resolution to be calmer — a single, identifiable moment you can recognise while it is happening.</p>
+        <div class="how">
+          <b>Some candidates:</b> the message that makes your chest tighten. The instant before you press send. The moment you become certain you know what somebody meant by that. The second sentence of an argument you have had before.<br><br>
+          <b>Attach something physical to it.</b> Stand up. Leave the room and come back. Walk to the end of the corridor and return. Put the phone in another room and go and get it. It has to move your body and it has to bring you back — that is the shape of the thing he was sold, and neither half works alone.<br><br>
+          <b>It does not have to be wise.</b> This is the part people resist. You are not trying to have a better thought during the walk; the man in the story does not think of anything at all while pacing. You are buying the interval in which the doubt you already have can catch up with you.<br><br>
+          <b>Once, this week, is enough.</b> He only ever used it once.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What has the man already decided to do with his new wealth, before any mention of wisdom?</div>
+          <button class="opt"><span class="ltr">A</span>Build a house and set up in business</button>
+          <button class="opt"><span class="ltr">B</span>Give a portion of it away and take up the religious life</button>
+          <button class="opt"><span class="ltr">C</span>Leave his mother and live apart, and look for another wife — if either of them will not have things his way</button>
+          <button class="opt"><span class="ltr">D</span>Return to sea immediately for a second voyage</button>
+          <div class="expl"><strong>Correct: C.</strong> Five minutes home and the money is already converted into a plan for replacing his family. And note the grammar: <em>if my mother will not have it my way</em>. The condition is not whether they are right — it is whether they agree. He has come back rich enough that other people have become optional.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">How does his friend respond to that announcement?</div>
+          <button class="opt"><span class="ltr">A</span>He defends the mother and the wife at length</button>
+          <button class="opt"><span class="ltr">B</span>He warns him that wealth corrupts</button>
+          <button class="opt"><span class="ltr">C</span>He agrees, and helps him plan it</button>
+          <button class="opt"><span class="ltr">D</span>He does not argue at all — he tells him there is a wise man nearby from whom wisdom can be bought for a thousand taels of gold</button>
+          <div class="expl"><strong>Correct: D.</strong> The second most interesting move in the story. No defence of the family, no moralising, none of the sensible things a friend says. A man who has just announced he can afford to discard his relatives is told, in effect: fine — then you can afford this too.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What does a thousand taels of gold actually buy him?</div>
+          <button class="opt"><span class="ltr">A</span>A teaching on how to judge others fairly</button>
+          <button class="opt"><span class="ltr">B</span>An instruction with no content at all — when a thing is in doubt, walk seven steps forward and seven steps back, three times</button>
+          <button class="opt"><span class="ltr">C</span>A written text to study at home</button>
+          <button class="opt"><span class="ltr">D</span>A promise of the wise man's protection</button>
+          <div class="expl"><strong>Correct: B.</strong> No principle, nothing about mothers or wives or anger, nothing you could write on a wall — and it does not even tell him to think, since "wisdom will arise of itself." Fourteen paces, three times, and that is the whole product. Which is exactly why it works: he did not buy information, he bought a delay with a shape.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">In the bedroom that night, in what order do things happen?</div>
+          <button class="opt"><span class="ltr">A</span>He draws the blade; something in his mind does not seem right; he lights a lamp; he looks from a distance; and only then does he remember what he bought that morning</button>
+          <button class="opt"><span class="ltr">B</span>He remembers the advice first, and it is what stops his hand</button>
+          <button class="opt"><span class="ltr">C</span>His mother wakes and speaks before he can act</button>
+          <button class="opt"><span class="ltr">D</span>His wife recognises him and calls out</button>
+          <div class="expl"><strong>Correct: A.</strong> The remembered advice comes fourth. 意中不掩 — a small wrongness arrives before any technique, and he has always had it. What the instruction supplied was not the doubt but somewhere for the doubt to go, and long enough to get there. Light first, then distance, then the walk.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does he do about the price afterwards?</div>
+          <button class="opt"><span class="ltr">A</span>Demands a refund, since the advice was obvious in hindsight</button>
+          <button class="opt"><span class="ltr">B</span>Keeps the method secret so that others cannot get it cheaply</button>
+          <button class="opt"><span class="ltr">C</span>Goes back and pays three thousand taels more, unprompted, for something he already owns</button>
+          <button class="opt"><span class="ltr">D</span>Nothing — the story ends at the bedroom door</button>
+          <div class="expl"><strong>Correct: C.</strong> Four times the asking price, for a transaction that was already complete and a seller with no further claim. That is the story's argument about advice, put as sharply as a story can put it: the price was not settled in the morning, it was settled that night — and the words had not changed at all in between.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>What do you do at full speed that cannot be undone?</p>
+        <p class="sm">Everyone has a category. Words in a particular kind of argument. Decisions made at a particular hour. Something that gets sent, or said, or signed while the certainty is still hot. The man in this story was not short of judgement — the wrongness reached him before the advice did. He was short of the fourteen paces it needed in order to arrive in time.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 7 · The turtle</h3>
+        <p>A longer one, and the strangest yet. A man weeps in the street over an animal for sale, spends every coin he has and then some to buy it, and lets it go. Years later there is a flood. The ending is not the one this setup promises, and it is better for that.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-5/' | relative_url }}">← Session 5</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
