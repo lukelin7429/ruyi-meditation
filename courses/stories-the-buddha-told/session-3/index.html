@@ -1,0 +1,392 @@
+---
+layout: default
+title: "Session 3 · Two men who couldn't stop lying to each other (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-3/
+excerpt: Session 3 of Stories the Buddha Told — a craftsman, a painter, one wooden woman, one painted corpse, and an ending nobody sees coming.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 3</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 3 · The stories he told</div>
+      <h1>Two men who couldn't stop lying to each other</h1>
+      <div class="subt">A craftsman, a painter, and an ending nobody sees coming</div>
+      <div class="rd">
+        <span><b>Reading time</b> about three minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>Where it is from</b> Story 7, Fascicle 44</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>Why is it so hard to stop competing with someone you are supposed to be working with?</strong></p>
+
+      <p data-rv>Not an enemy. A colleague, a sibling, a friend, a co-parent — someone on your side, nominally, with whom you nonetheless keep a running tally that neither of you has ever mentioned out loud. They do something; you match it. You do something; they match it. Nobody declared this and nobody can find the off switch.</p>
+
+      <p data-rv>This week's story is about two men in exactly that position, and it is the first of the short ones. Three minutes. It is also, by a distance, the funniest thing in this course — right up to the last sentence, which is not funny at all and arrives with no warning whatsoever.</p>
+
+      <div class="sx-pull" data-rv>Two skilled men, two elaborate deceptions, and a conclusion neither of them argues for.</div>
+
+      <p data-rv>From here on, the stories come from a single enormous book. In the year 516 a Chinese emperor ordered a monk named Bǎochàng to solve a problem: the Buddhist scriptures had grown to thousands of volumes, and nobody could find anything in them. So Bǎochàng and his team read the whole canon and pulled out every story, sorting them not by which scripture they came from but <em>by subject</em> — heavens, kings, queens, merchants, ordinary men, ordinary women, animals, hells. Fifty volumes. It is the largest book of its kind that survives, and all fifty volumes of it are translated on this site.</p>
+
+      <p data-rv>Fascicle 44 is called "Ordinary Men." This is story number seven in it.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>One note on the content: the trap in this story is sexual, and the text is matter-of-fact about it. It is a sixth-century collection, working from older Indian material, and it treats a man's desire as the obvious lever to pull. Nothing about that is coy, and nothing about it is dwelt on.</em></p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">Three minutes — read it before anything below</span></h2></div>
+      <p data-rv>The page holds all the stories of Fascicle 44 in order. You want <strong>number 7</strong>. Read it whole, including the last sentence, and try not to look ahead at the others — several are coming up later in this course.</p>
+
+      <a class="sx-textcard" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 44 · Ordinary Men</div>
+        <h3>7. The Woodcarver and the Painter Deceive Each Other</h3>
+        <p>North India and South India, two men at the top of their crafts, and an invitation to dinner.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping</span></h2></div>
+
+      <h3 data-rv>1 · The first deception is indistinguishable from hospitality</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The invitation</div>
+        <p>"The craftsman heard of him and prepared fine food and drink and invited the painter, and had the wooden woman serve the wine and carry the dishes <strong>from dawn until night</strong>. The painter did not know and took her for a real woman, and his lustful mind grew extreme and he could not forget her."</p>
+        <p>"When it was dusk, the craftsman went in to sleep and left the painter to stay, and set this wooden woman standing at his side, and said to the guest: <strong>I leave this woman here on purpose; you may sleep with her.</strong>"</p>
+        <div class="zh">巧師聞之。作好飲食即請畫師。便使木女行酒擎食。從旦至夜。畫師不知謂是真女。欲心極盛念之不忘。……便語客言。故留此女可共宿也。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Look at what the craftsman actually does. He hears there is another man of great skill in the south. He does not challenge him, insult him, or compete with him. <strong>He invites him to dinner and is an exceptional host.</strong> Fine food. A full day of it. And then, at the end of the evening, an act of what looks like extraordinary generosity.</p>
+
+      <p data-rv>Every single move in the trap is, on its face, a kindness. If it had gone unsprung, the painter would have gone home describing a wonderful visit.</p>
+
+      <p data-rv>And then there is the detail that does the real work: <em>from dawn until night.</em> A whole day. The painter has hours of evidence in front of him — a woman who serves wine, carries dishes, comes and goes, and never once says a single word — and he notices none of it, because he does not want to. The text is blunt about the reason. His desire "grew extreme and he could not forget her." Nobody makes a fool of him. He is very well set up, and then he does the rest himself.</p>
+
+      <h3 data-rv>2 · The revenge that feels equal and is not</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The retaliation</div>
+        <p>"So the painter contrived an expedient of his own: on the wall he painted an image of himself, wearing clothing no different from his own, <strong>with a rope tied round the neck as though he had hanged himself</strong>… When it was done he shut the door and got in under the bed."</p>
+        <p>"At dawn the host came out and saw that the door had not been opened, and looked in; and he saw only the image of the guest hanged on the wall. <strong>The host was greatly frightened and thought he had truly died</strong>, and broke down the door and went in and cut the rope with a knife — and at that the painter came out from under the bed."</p>
+        <div class="zh">即於壁上畫作己像。所著被服與身不異。以繩繫頸狀似絞死……主人大怖便謂實死。即破戶入以刀斷繩。於是畫師從床下出。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>The painter's plan is beautiful, and it is beautiful in the same register as the offence — a made thing so convincing it is mistaken for a person. He answers a wooden woman with a painted corpse. As craftsmanship, the reply is exact.</p>
+
+      <p data-rv>As an <em>injury</em>, it is nothing like exact. Add up what each man suffered. The painter was embarrassed in an empty room, alone, with nobody watching. The craftsman wakes to find that a guest under his own roof has killed himself, spends however long it takes to break down a door believing it, and cuts down what he thinks is a dead man with a knife in his hand.</p>
+
+      <p data-rv><strong>That asymmetry is the entire mechanism, and the story does not point at it.</strong> It does not need to. Anyone who has escalated something knows the feeling of paying someone back <em>exactly</em> — and the retaliation is always priced by the person delivering it.</p>
+
+      <h3 data-rv>3 · The sentence that changes the genre</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The end, entire</div>
+        <p>"…and the painter said: <strong>you were able to deceive me and I am able to deceive you. Guest and host, the account is settled and neither owes the other.</strong>"</p>
+        <p>"The two of them, <strong>knowing in faith that they had been mad and deluded</strong>, each gave up their kin and loved ones and went forth and cultivated the path."</p>
+        <div class="zh">畫師即言。汝能誑我。我能誑汝。客主情畢不相負也。二人信知狂惑。各捨親愛出家修道。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Up to the second sentence this is a comedy, and a well-made one — a tit-for-tat with a tidy closing line. "The account is settled and neither owes the other." That is where the joke ends and you would expect the story to.</p>
+
+      <p data-rv>Then, in one sentence, with no transition and no argument whatsoever, <strong>both men walk out of their entire lives.</strong></p>
+
+      <p data-rv>Notice what they conclude, because it is not what people usually conclude. The words are 狂惑 — "mad and deluded." Neither of them decides the other man was wicked. Each decides <em>he himself</em> had been out of his mind. The craftsman spent months building an automaton to humiliate a stranger he had never met. The painter spent a night engineering a fake suicide over a moment of private embarrassment. Laid side by side at dawn, in daylight, with nothing hidden any more, that is simply what it looks like.</p>
+
+      <p data-rv>And one more thing, easy to miss: <strong>neither of them could have seen it alone.</strong> The craftsman's trick on its own is a good joke. The painter's trick on its own is a good joke. It took both, set beside each other, for either man to see what he had been spending his life on.</p>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · costs nothing · nobody needs to know</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Find the scoreboard nobody mentioned</b>
+        <p>Neither man in this story ever says "I am competing with you." The craftsman does not even know the painter. The whole contest runs without a single word of declaration.</p>
+        <div class="how">
+          <b>This week, catch one exchange where you were keeping score.</b> A reply you drafted more carefully than the message deserved. A small success you found a way to mention. A favour you did partly because of one you had received. An email answered promptly to make a point about the one that was not.<br><br>
+          <b>You do not have to stop.</b> Really — do not try to stop, because trying to stop is usually just a new move in the same game. Simply notice it once, clearly, while it is happening, and name to yourself who the other player is.<br><br>
+          <b>Then ask the question the story turns on:</b> if someone laid your move and their move side by side, in daylight, with nothing hidden — what would the pair of them look like?
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How does the craftsman set his trap?</div>
+          <button class="opt"><span class="ltr">A</span>He challenges the painter to a public contest of skill</button>
+          <button class="opt"><span class="ltr">B</span>He steals one of the painter's works and passes it off as his own</button>
+          <button class="opt"><span class="ltr">C</span>By hospitality — he invites the painter to dinner, feeds him well all day, and at bedtime offers him the woman for the night</button>
+          <button class="opt"><span class="ltr">D</span>He hires the painter to decorate his house and then refuses to pay</button>
+          <div class="expl"><strong>Correct: C.</strong> Every move in the trap is, on its face, a kindness — an invitation, fine food, and an act of apparently extraordinary generosity. Had it gone unsprung, the painter would have gone home describing a wonderful visit. Nothing in the setup ever looks like an attack.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The wooden woman serves the painter from dawn until night without once speaking. Why does he not notice?</div>
+          <button class="opt"><span class="ltr">A</span>The room was dark and he could not see clearly</button>
+          <button class="opt"><span class="ltr">B</span>Because he did not want to — the text says plainly that his desire "grew extreme and he could not forget her"</button>
+          <button class="opt"><span class="ltr">C</span>The craftsman's skill was such that detection was genuinely impossible</button>
+          <button class="opt"><span class="ltr">D</span>He was drunk on the wine she served</button>
+          <div class="expl"><strong>Correct: B.</strong> He has a full day of evidence in front of him. The story is not about a man being outwitted; it is about a man being very well set up and then doing the rest himself. That is why the craftsman never has to lie — he simply has to arrange the room.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">The painter's revenge feels like an exact match. Compare what each man actually suffers.</div>
+          <button class="opt"><span class="ltr">A</span>They are equal — both are embarrassed in front of the other</button>
+          <button class="opt"><span class="ltr">B</span>The painter suffers more, since his humiliation was sexual</button>
+          <button class="opt"><span class="ltr">C</span>Neither suffers anything real; both are simply games between craftsmen</button>
+          <button class="opt"><span class="ltr">D</span>Not equal at all — the painter was embarrassed alone in an empty room, while the craftsman spends a stretch of real terror believing a guest has killed himself under his roof, and cuts down what he thinks is a corpse</button>
+          <div class="expl"><strong>Correct: D.</strong> As craftsmanship the reply is exact: a wooden woman answered by a painted corpse. As an injury it is nothing like exact. The story never points this out — it does not have to. Retaliation is always priced by the person delivering it.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does the painter say once the craftsman finds him alive under the bed?</div>
+          <button class="opt"><span class="ltr">A</span>"You were able to deceive me and I am able to deceive you. Guest and host, the account is settled and neither owes the other."</button>
+          <button class="opt"><span class="ltr">B</span>That he is sorry, and that the joke went too far</button>
+          <button class="opt"><span class="ltr">C</span>That the craftsman's skill is the greater of the two</button>
+          <button class="opt"><span class="ltr">D</span>Nothing at all — he leaves without a word</button>
+          <div class="expl"><strong>Correct: A.</strong> 客主情畢不相負也 — the books balance, nobody is in debt. It is a perfectly satisfying comic ending, and if the story stopped there it would be a very good joke and nothing else.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">The story's last sentence has both men leave their entire lives. What do they conclude?</div>
+          <button class="opt"><span class="ltr">A</span>That the other man was wicked and not to be trusted</button>
+          <button class="opt"><span class="ltr">B</span>That craft and artistry are worthless pursuits</button>
+          <button class="opt"><span class="ltr">C</span>That they themselves had been mad and deluded — 狂惑 — and each gives up his kin and goes forth</button>
+          <button class="opt"><span class="ltr">D</span>That they should become partners and combine their skills</button>
+          <div class="expl"><strong>Correct: C.</strong> Neither blames the other. Each looks at what he personally has been doing — months spent building an automaton to humiliate a stranger; a night spent staging a suicide over a private embarrassment — and calls it madness. And note that neither could have seen it alone. It took both tricks, laid side by side at dawn, for either man to see what he had been spending his life on.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Who are you keeping score with?</p>
+        <p class="sm">There is probably a name. There may be several. Note that the question is not whether you are ahead — the two men in this story both finished level, and that is precisely what let them see it. The question is who the other player is, and how long the game has been running without either of you ever agreeing to play.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 4 · The wager</h3>
+        <p>Another very short one, and a related disease. A husband and a wife, three cakes, and a bet about who can stay silent longest. Then a burglar walks in. It is about four sentences long and people have been telling it for two thousand years.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-2/' | relative_url }}">← Session 2</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
