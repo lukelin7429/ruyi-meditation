@@ -1,0 +1,402 @@
+---
+layout: default
+title: "Session 1 · The man who ran away from home (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-1/
+excerpt: Session 1 of Stories the Buddha Told — three rides out of a city, one question asked three times, and a young man with everything who leaves anyway.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 1 · Who he was</div>
+      <h1>The man who ran away from home</h1>
+      <div class="subt">Three rides out of the city, and one question asked three times</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty minutes — the longest in this course</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>The story</b> two chapters of a very old poem</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>What would have to happen for you to walk out of your entire life?</strong></p>
+
+      <p data-rv>Take the question seriously for a moment, and make it harder than it wants to be. Do not imagine a bad marriage, or a job you hate, or a diagnosis. Assume the life is good. Assume you are healthy, well liked, comfortable, and — this is the part that matters — assume you are <em>enjoying it</em>. What would have to happen then?</p>
+
+      <p data-rv>That is exactly the situation in the story you are about to read. A young man with an unusually good life, who is not depressed, not oppressed, not in any trouble whatsoever, and who is described as delighted by his own morning, leaves. And the strange thing — the thing worth a week of your attention — is that <strong>nothing happens to him.</strong> He sees three ordinary sights that everybody sees. Then he goes home and starts packing.</p>
+
+      <div class="sx-pull" data-rv>He is not told anything he did not already know. That is the story's actual claim about you, too.</div>
+
+      <p data-rv>This is the founding story of Buddhism, and you can hold it however you like — as biography, as legend, as a poem about someone's twenties. It was written in Sanskrit about five hundred years after the man died, by a poet named Aśvaghoṣa, and carried into Chinese in the early fifth century. You are reading two chapters of it.</p>
+
+      <div class="sx-terms" data-rv>
+        <span><b>The bodhisattva</b> — the poem's other name for the prince. Read it simply as "the one who is going to wake up."</span>
+        <span><b>The five desires</b> — the pleasures of the five senses. Nothing more sinister than that.</span>
+        <span><b>Śramaṇa</b> — a wanderer who has left ordinary life to look for something. The text explains himself in the story.</span>
+      </div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Those are the only three words in this session you might not already have. There will not be a list like this every week.</em></p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">Two chapters, in order — read them before anything below</span></h2></div>
+      <p data-rv>The first is three rides out of the city. The second is a fourth ride, and what he does about it. Chinese on the left, English on the right — ignore the Chinese unless you want it.</p>
+
+      <a class="sx-textcard" href="{{ '/sutras/buddhacarita/part-04/' | relative_url }}" data-rv>
+        <div class="trad">Buddhacarita · Chapter Three</div>
+        <h3>Sorrow</h3>
+        <p>The king has the roads swept clean of every old, sick and broken body before letting his son ride out. It does not work.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="sx-textcard alt" href="{{ '/sutras/buddhacarita/part-06/' | relative_url }}" data-rv>
+        <div class="trad">Buddhacarita · Chapter Five</div>
+        <h3>Leaving the City</h3>
+        <p>A man plowing a field, a tired ox, and the first thing the prince sees that nobody arranged for him.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished both. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping — not lessons, just places</span></h2></div>
+
+      <h3 data-rv>1 · He asks the same question three times, and gets the same answer</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Three · after seeing the old man</div>
+        <p>The prince let out a long sigh, and asked the charioteer further: <strong>"Is it only he alone who grows old in this way, or shall we too, in time, come to this?"</strong></p>
+        <p>The charioteer answered again: "Even you, most honored one, have your share in this; as time passes, the body changes of itself, and this is certain to come — beyond any doubt at all. <strong>Among the young and vigorous, not one fails to grow old; the whole world knows this, and yet goes on seeking its pleasures all the same.</strong>"</p>
+        <div class="zh">太子長歎息，而問御者言：「但彼獨衰老，吾等亦當然？」御者又答言：「尊亦有此分，時移形自變，必至無所疑，少壯無不老，舉世知而求。」</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-04/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>He asks it about the old man. A few pages later he asks it about the sick man — "Is it only this man who falls ill, or must everyone else come to this as well?" And then about the corpse — "Does only this man die, or does the whole world come to this as well?" Three times, the same question, in the same words. Three times, yes.</p>
+
+      <p data-rv>Now notice what the charioteer is actually doing. He is not delivering news. He is not a teacher, he has no doctrine, and he is plainly embarrassed to be answering at all — the first time, the text says he "hesitated in his heart, not daring to answer with the plain truth." What he tells the prince is something any adult in that kingdom could have told him.</p>
+
+      <p data-rv>And then he adds the line that makes this a story rather than an anecdote: <em>the whole world knows this, and yet goes on seeking its pleasures all the same.</em> Everybody already knows. Knowing is not the thing that is missing.</p>
+
+      <h3 data-rv>2 · The one thing nobody arranged</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Five · on the road, at the edge of a field</div>
+        <p>"By the roadside he saw a man plowing, <strong>turning up the soil and killing the worms and insects within it</strong>; and at this his heart was moved to sorrow and pity, a pain that pierced him more sharply than any thorn."</p>
+        <p>"He saw, too, the plowman himself — worn and toiling, his form gaunt and haggard, his hair disheveled and streaming with sweat, dust caked thick upon his body. <strong>The plowing ox, too, was spent with exhaustion, its tongue hanging out, its breath coming in short, urgent gasps.</strong>"</p>
+        <div class="zh">路傍見耕人，墾壤殺諸虫……耕牛亦疲困，吐舌而急喘。</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-06/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Here is a detail almost every retelling of this story leaves out, and it changes everything. <strong>The old man, the sick man, the corpse and the wandering monk are all gods in disguise.</strong> The poem says so plainly each time — a god of the Pure Abodes, taking a shape, positioning himself at the roadside, visible to nobody in the procession but the prince and his driver. Four staged encounters, each one arranged for an audience of one.</p>
+
+      <p data-rv>The plowman is not. Nobody conjured him. He is a man doing his job on an ordinary afternoon, with a tired animal and worms in the furrow, and he has been there every single day of the prince's life, a few miles from the palace.</p>
+
+      <p data-rv>And it is <em>this</em> — not the corpse, not the wanderer — that makes the prince get down off his horse, send his companions away, sit under a tree by himself, and think for the first time without anyone prompting him. If you want one sentence for what changed in this man, it is not that he was shown something. It is that he finally saw something that had not been put there for him.</p>
+
+      <h3 data-rv>3 · The sentence where he turns the problem around</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Chapter Five · under the rose-apple tree</div>
+        <p>"<strong>To endure this great suffering throughout one's whole life without ever perceiving it for what it is, and yet to feel aversion at seeing old age, sickness, and death in others — this itself is the deepest affliction of all.</strong>"</p>
+        <p>"I now seek the supreme Dharma, and ought not to be like the rest of the world — bound myself to old age, sickness, and death, and yet turning around to despise these very things in others."</p>
+        <div class="zh">終身受大苦，而不自覺知，厭他老病死，此則為大患。我今求勝法，不應同世間，自嬰老病死，而反惡他人。</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-06/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Read that first sentence twice, because it is not saying what a first pass suggests.</p>
+
+      <p data-rv>The obvious reading is that he is upset about old age, sickness and death. He is — but that is not what he calls "the deepest affliction." The deepest affliction is the <strong>combination</strong>: carrying the thing yourself, not noticing that you are, and then recoiling from it when you meet it in somebody else.</p>
+
+      <p data-rv>Which is to say: the problem he identifies is not the old man by the road. It is his own flinch on seeing him. He caught himself doing something — recoiling from a person on the grounds of a condition he shares — and decided that reflex was the actual disease. Everything he does for the rest of his life comes out of that one observation.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>A small thing worth carrying: his father's plan was to sweep the roads. Not to lie to him, not to argue with him — simply to arrange that he never see it. It is a completely reasonable plan, it is what love often looks like, and everyone reading this has done it for somebody.</em></p>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · takes no time at all · nobody needs to know</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Keep a list of the roads you sweep</b>
+        <p>The king's whole strategy was to clear the road. This week, notice yours.</p>
+        <div class="how">
+          <b>When you catch yourself looking away from something, note it.</b> A letter you have not opened. A number you do not check. A photograph you turn past. A symptom you have decided is nothing. A person whose face you do not quite meet. A conversation you keep almost having.<br><br>
+          <b>You do not have to look.</b> This is important, and it is the opposite of what a self-improvement exercise would ask. Do not open the letter. Do not have the conversation. Just note, in one line, that you looked away, and what from.<br><br>
+          <b>At the end of the week, read the list.</b> The prince's road was swept by someone else, on the grounds that he loved his pleasures too much to bear the sight. Yours is swept by you. The question the story leaves open is not whether the sweeping works — it is what is on the road anyway.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Before the prince is allowed to ride out, his father has the roads cleared. Of what, and why?</div>
+          <button class="opt"><span class="ltr">A</span>Of armed men, because an assassination attempt was feared</button>
+          <button class="opt"><span class="ltr">B</span>Of beggars, because the king was ashamed of poverty in his kingdom</button>
+          <button class="opt"><span class="ltr">C</span>Of everyone old, sick, maimed, feeble or poor — so that nothing might trouble the heart of a young prince who loved his pleasures</button>
+          <button class="opt"><span class="ltr">D</span>Of crowds, so that the procession could move quickly</button>
+          <div class="expl"><strong>Correct: C.</strong> The text is specific, and the motive is protective rather than political. It is worth sitting with how ordinary that is. The king is not a villain in this story; he is a father arranging that his son not see something. Most people reading this have done a smaller version of the same thing for somebody they love.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The charioteer tells the prince that everyone grows old, sickens and dies. What does he add immediately afterward?</div>
+          <button class="opt"><span class="ltr">A</span>That there is a teaching which can free a person from this</button>
+          <button class="opt"><span class="ltr">B</span>That the prince, being royal, may prove an exception</button>
+          <button class="opt"><span class="ltr">C</span>That he should not have been told, and must not repeat it to the king</button>
+          <button class="opt"><span class="ltr">D</span>That the whole world knows this already, and goes on seeking its pleasures all the same</button>
+          <div class="expl"><strong>Correct: D.</strong> 舉世知而求 — "the whole world knows, and still pursues." This is the hinge of the entire story. The prince is not given new information; he is given ordinary information that everyone has. Whatever changes in him, it is not that he learned a fact.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">The old man, the sick man, the corpse and the wandering monk are all conjured by gods, visible only to the prince and his driver. Which of the things he encounters is <em>not</em> arranged for him?</div>
+          <button class="opt"><span class="ltr">A</span>The palace women sent to entertain him</button>
+          <button class="opt"><span class="ltr">B</span>The plowman turning up worms in the furrow, with his exhausted ox</button>
+          <button class="opt"><span class="ltr">C</span>The crowds who line the road to see him pass</button>
+          <button class="opt"><span class="ltr">D</span>His father's ministers, who accompany him everywhere</button>
+          <div class="expl"><strong>Correct: B.</strong> Four staged encounters and one ordinary afternoon in a field. And it is the unstaged one that makes him get off his horse, send everyone away, sit down under a tree and think entirely on his own for the first time in the poem. Nothing was put there for him; he simply saw what was already there.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Sitting under the tree, the prince names something "the deepest affliction of all." What is it?</div>
+          <button class="opt"><span class="ltr">A</span>Old age, sickness and death themselves</button>
+          <button class="opt"><span class="ltr">B</span>The cruelty of a world in which animals and insects suffer for human food</button>
+          <button class="opt"><span class="ltr">C</span>Carrying old age, sickness and death yourself without ever noticing — and then recoiling from them when you meet them in someone else</button>
+          <button class="opt"><span class="ltr">D</span>His father's refusal to let him leave the palace</button>
+          <div class="expl"><strong>Correct: C.</strong> Not the condition, but the combination: unaware that you share it, and disgusted to see it. He is describing his own flinch at the old man by the road and calling that the real disease. Everything he does afterward comes out of this one observation about himself.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What kind of life does the prince leave?</div>
+          <button class="opt"><span class="ltr">A</span>A good one that he was enjoying — the text describes his heart filling with "joyful delight" at the flowers, the crowds and the procession on the very ride where it comes apart</button>
+          <button class="opt"><span class="ltr">B</span>A miserable one, dominated by his father's control and his own unhappiness</button>
+          <button class="opt"><span class="ltr">C</span>One already ruined by illness in his own family</button>
+          <button class="opt"><span class="ltr">D</span>One of poverty, which is why renunciation cost him little</button>
+          <div class="expl"><strong>Correct: A.</strong> The poem goes out of its way here. Streets strewn with flowers, jeweled canopies, people leaning from windows, and a young man delighted by all of it — and then, in the middle of that, an old man by the road. Nothing bad happens to him. That is what makes the story difficult rather than merely sad.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>What have you already seen that you have not yet let mean anything?</p>
+        <p class="sm">We began by asking what would have to happen. The story's answer is: nothing. Nothing happened to him. He saw three things every person in that kingdom had seen a hundred times, and a man plowing a field. The only difference was that he let them land. So the honest version of the question is not what would have to happen to you. It is what has already happened, and what you have decided it does not mean.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · The father who never stopped waiting</h3>
+        <p>This week's story is usually told as a heroic departure. Next week is the other half of it — the palace he left, the people in it, and what happened when, years later, he came back. It is a much shorter read, and a considerably harder one.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">← Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>

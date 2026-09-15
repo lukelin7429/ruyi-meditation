@@ -1,0 +1,309 @@
+---
+layout: default
+title: Stories the Buddha Told
+permalink: /courses/stories-the-buddha-told/
+excerpt: Ten stories and ten questions, for someone who has never encountered Buddhism at all — no doctrine, no technical terms, and nothing you need to believe.
+---
+
+<style>
+  .sb{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sb *{box-sizing:border-box;}
+  .sb-wrap{max-width:880px;margin:0 auto;padding:0 26px;}
+
+  .js .sb [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .sb [data-rv].in{opacity:1;transform:none;}
+
+  .sb-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sb-crumb .sb-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:880px;}
+  .sb-crumb a{color:var(--plum);text-decoration:none;}
+  .sb-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .sb-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(130% 100% at 78% 8%,rgba(224,174,99,.28),transparent 62%),
+      linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);}
+  .sb-hero-in{position:relative;max-width:880px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .sb-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sb-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .sb-hero .subt{font-style:italic;font-size:19px;color:#f3e4ee;max-width:40ch;}
+  .sb-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .sb-facts span{font-size:13px;color:#f3e4ee;border:1px solid rgba(224,174,99,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+  /* a lamp, flickering */
+  .sb-lamp{position:absolute;right:-30px;top:-20px;width:300px;height:300px;z-index:1;color:rgba(224,174,99,.18);}
+  .sb-lamp .flame{transform-origin:50% 100%;animation:sbflicker 4.5s ease-in-out infinite;}
+  .sb-lamp .halo{transform-origin:center;animation:sbhalo 4.5s ease-in-out infinite;}
+  @keyframes sbflicker{0%,100%{transform:scaleY(1) skewX(0deg);}30%{transform:scaleY(1.09) skewX(-2.5deg);}65%{transform:scaleY(.95) skewX(2deg);}}
+  @keyframes sbhalo{0%,100%{opacity:.5;transform:scale(1);}45%{opacity:.85;transform:scale(1.06);}}
+  @media (prefers-reduced-motion:reduce){.sb-lamp .flame,.sb-lamp .halo{animation:none;}}
+
+  .sb-body{background:#fff;padding:56px 0 20px;}
+  .sb-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .sb-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--plum);}
+  .sb-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .sb-sec{margin:46px 0;}
+  .sb-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--plum);margin-bottom:12px;}
+
+  .sb-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;
+    box-shadow:0 26px 52px -30px rgba(36,16,38,.75);}
+  .sb-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .sb-promise .q em{color:var(--gold);font-style:italic;}
+  .sb-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .sb-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .sb-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .sb-obj li b{color:var(--plum);}
+  .sb-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--jade);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .sb-rhythm{display:grid;gap:10px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.sb-rhythm{grid-template-columns:repeat(6,1fr);}}
+  .sb-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 8px;}
+  .sb-rc .n{font-family:'Playfair Display',serif;color:var(--plum);font-weight:700;font-size:15px;}
+  .sb-rc b{display:block;color:var(--ink);font-size:14px;margin:4px 0 2px;}
+  .sb-rc span{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+
+  .sb-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .sb-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;position:relative;}
+  .sb-row:last-child{border-bottom:none;}
+  .sb-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--plum);text-align:center;}
+  .sb-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .sb-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .sb-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .sb-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .sb-row.live:hover{background:#fdf9fb;padding-left:26px;}
+  .sb-row.live .st{background:var(--plum);color:#fff;}
+  .sb-row.soon{background:#fdfafc;cursor:default;}
+  .sb-row.soon .wk,.sb-row.soon .ti{color:#a4959e;}
+  .sb-row.soon .st{background:#f3e7ee;color:#b08ba2;}
+  @media(max-width:560px){
+    .sb-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .sb-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .sb-row.live:hover{padding-left:20px;}
+  }
+  .sb-mvbar{display:flex;align-items:center;gap:10px;padding:9px 20px;background:linear-gradient(90deg,#faf2f7,#fff);border-bottom:1px solid var(--line);}
+  .sb-mvbar em{font-style:normal;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);}
+
+  .sb-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .sb-card ul{margin:6px 0 0;padding-left:20px;}
+  .sb-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .sb-card li b{color:var(--plum);}
+
+  .sb-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .sb-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .sb-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 14px 30px -16px rgba(63,29,51,.85);}
+  .sb-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(63,29,51,.95);}
+  .sb-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);}
+  .sb-btn.ghost:hover{background:var(--plum);color:#fff;text-decoration:none;}
+
+  .sb-teacher{background:var(--plum-deep);color:#e3d3dd;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .sb-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .sb-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="sb">
+
+  <nav class="sb-crumb"><div class="sb-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> → <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → Stories the Buddha Told</div></nav>
+
+  <!-- HERO -->
+  <section class="sb-hero">
+    <svg class="sb-lamp" viewBox="0 0 200 200" fill="none" aria-hidden="true">
+      <circle class="halo" cx="100" cy="96" r="62" fill="currentColor" opacity=".35"/>
+      <path d="M70 150 Q100 162 130 150 L124 128 Q100 136 76 128 Z" stroke="currentColor" stroke-width="2.2"/>
+      <path d="M100 128 L100 118" stroke="currentColor" stroke-width="2.2"/>
+      <path class="flame" d="M100 118 C90 108 94 96 100 84 C106 96 110 108 100 118 Z" fill="currentColor" opacity=".9"/>
+    </svg>
+    <div class="sb-hero-in">
+      <div class="sb-eyebrow">Ru-Yi Academy · Course · The Way In</div>
+      <h1>Stories the Buddha Told</h1>
+      <div class="subt">佛陀講過的故事 — ten stories, ten questions, and nothing you need to look up</div>
+      <div class="sb-facts">
+        <span>10 sessions</span>
+        <span>No background whatsoever</span>
+        <span>Taught in English</span>
+        <span>Free · every story on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sb-body">
+    <div class="sb-wrap">
+
+      <p class="sb-lede first" data-rv>This is the door. If you have never read anything about Buddhism, have no intention of becoming a Buddhist, and are not entirely sure the whole thing is for you — this course was built for exactly that person, and it will not try to talk you out of any of it.</p>
+
+      <p data-rv>There is no doctrine here. There are no technical terms — no Sanskrit words to memorise, no numbered lists, nothing to look up. Each session hands you <strong>one story and one question</strong>, and then mostly gets out of the way. A husband and wife who bet each other not to speak. A woodcarver and a painter who cannot stop deceiving one another. A mother who weeps for the wrong son. A man who spends everything he has to buy a turtle.</p>
+
+      <p data-rv>Some of these are stories the Buddhist tradition has told about the Buddha's own life. Most are stories it has told for two thousand years <em>because he told them</em> — parables collected, in the year 516, into the largest anthology of Buddhist narrative in the Chinese language, and translated in full on this site. They are funny, cruel, tender, and occasionally very strange. Almost none of them end the way you expect.</p>
+
+      <div class="sb-promise" data-rv>
+        <p class="q">You do not need to believe anything, know anything, or sit still. <em>You need about fifteen minutes and a willingness to be caught out by a story.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="sb-sec" data-rv>
+        <div class="lbl">What you'll actually come away with</div>
+        <ol class="sb-obj">
+          <li><b>Ten stories you will remember</b> — which is a genuinely unusual thing to get from anything you read in ten weeks.</li>
+          <li>A sense of <b>what kind of thing Buddhism is</b>, arrived at from the inside, through how it talks — rather than from someone's summary of what it believes.</li>
+          <li>The habit of letting <b>a story ask you a question</b> instead of answering one. Every session ends on a question nobody closes for you.</li>
+          <li>Ten small things tried once each, in an ordinary week, with no equipment and nobody watching.</li>
+          <li>And if you want it, <b>a clear idea of where to go next</b> — the Academy's next course hands you a whole scripture, and this one is designed to make that feel like the obvious step rather than a leap.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="sb-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Fifteen to twenty minutes, including the story itself. The same six steps every week.</p>
+        <div class="sb-rhythm">
+          <div class="sb-rc"><div class="n">1</div><b>A question</b><span>Before any Buddhism at all</span></div>
+          <div class="sb-rc"><div class="n">2</div><b>The story</b><span>Read it whole, on this site</span></div>
+          <div class="sb-rc"><div class="n">3</div><b>Three moments</b><span>Places worth stopping</span></div>
+          <div class="sb-rc"><div class="n">4</div><b>One thing to try</b><span>Once, this week</span></div>
+          <div class="sb-rc"><div class="n">5</div><b>Five questions</b><span>Instant feedback</span></div>
+          <div class="sb-rc"><div class="n">6</div><b>One question</b><span>Left open on purpose</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="sb-sec" data-rv>
+        <div class="lbl">The ten stories</div>
+        <p style="margin:0 0 14px;">Sessions are being published one at a time. Each links to the full story on this site.</p>
+        <div class="sb-sched">
+
+          <div class="sb-mvbar"><em>Who he was</em></div>
+
+          <a class="sb-row live" href="{{ '/courses/stories-the-buddha-told/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">The man who ran away from home<small>What would have to happen, for you to walk out of your whole life?</small></div>
+            <div class="st">Open →</div>
+          </a>
+
+          <div class="sb-row soon">
+            <div class="wk">2</div>
+            <div class="ti">The father who never stopped waiting<small>Can you go home again?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-mvbar"><em>The stories he told</em></div>
+
+          <div class="sb-row soon">
+            <div class="wk">3</div>
+            <div class="ti">Two men who couldn't stop lying to each other<small>Why is it so hard to stop competing with someone you are meant to be working with?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-row soon">
+            <div class="wk">4</div>
+            <div class="ti">The wager<small>What would you give up in order to be right?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-row soon">
+            <div class="wk">5</div>
+            <div class="ti">The mother who wept for the wrong son<small>Are we grieving what happened, or what didn't?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-row soon">
+            <div class="wk">6</div>
+            <div class="ti">Buying wisdom<small>What is a piece of advice actually worth?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-row soon">
+            <div class="wk">7</div>
+            <div class="ti">The turtle<small>Does a small kindness ever come back?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-row soon">
+            <div class="wk">8</div>
+            <div class="ti">The lion in the well<small>Who do you let help you?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-row soon">
+            <div class="wk">9</div>
+            <div class="ti">The smallest thing<small>How little does it take to change a life?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="sb-mvbar"><em>How it ended</em></div>
+
+          <div class="sb-row soon">
+            <div class="wk">10</div>
+            <div class="ti">The last night<small>What would you want to have said?</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="sb-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="sb-card">
+          <ul>
+            <li><b>Nothing at all.</b> Every story is on this site, in full, free, in plain English.</li>
+            <li><b>No previous anything.</b> If a term cannot be explained in the sentence it appears in, it does not appear.</li>
+            <li><b>No commitment.</b> You are not being recruited. Several of these stories are simply good stories, and that is allowed to be the whole of it.</li>
+            <li><b>A tolerance for odd endings.</b> These are not fables with tidy morals attached. Some of them end badly for people who did nothing wrong.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- WHERE FROM -->
+      <div class="sb-sec" data-rv>
+        <div class="lbl">Where the stories come from</div>
+        <p style="font-size:15.5px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 20px;color:var(--ink);">Two sources, both translated in full on this site. The life story comes from the <a href="{{ '/sutras/buddhacarita/' | relative_url }}" style="color:var(--plum);font-weight:600;">Buddhacarita</a> — "Acts of the Buddha," a poem written in Sanskrit some five hundred years after his death and translated into Chinese in the fifth century. The parables come from the <a href="{{ '/anthology/jinglvyixiang/' | relative_url }}" style="color:var(--plum);font-weight:600;">Jīng Lǜ Yì Xiàng</a>, a fifty-fascicle anthology compiled by imperial decree in 516 CE, which gathered Buddhist narrative from across the entire canon and sorted it by subject — heavens, kings, queens, merchants, ordinary men, ordinary women, animals, hells. It is the largest surviving work of its kind, and every fascicle of it is on this site.</p>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="sb-actions" data-rv>
+        <a class="sb-btn primary" href="{{ '/courses/stories-the-buddha-told/session-1/' | relative_url }}">Begin Session 1 →</a>
+        <a class="sb-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">See what comes after this</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="sb-teacher" data-rv>
+        <div class="q">"People think the way into this is a meditation cushion or a book of philosophy. For most of the last two thousand years it was neither. It was somebody telling you a story about a man who lost a bet and was very pleased about it — and then you thought about that story for a week."</div>
+        <div class="who">— Luke Lin, instructor · Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sb');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
