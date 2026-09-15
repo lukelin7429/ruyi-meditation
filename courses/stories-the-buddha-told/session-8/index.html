@@ -1,0 +1,426 @@
+---
+layout: default
+title: "Session 8 · The lion in the well (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-8/
+excerpt: Session 8 of Stories the Buddha Told — a lion king falls down a well and his five hundred lions leave, and two lions who answer being helped in opposite ways.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 8</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 8 · The stories he told</div>
+      <h1>The lion in the well</h1>
+      <div class="subt">Two lions, two small animals, and two very different answers</div>
+      <div class="rd">
+        <span><b>Reading time</b> about three minutes for both</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>Where it is from</b> Stories 5 and 3, Fascicle 47</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>Who do you let help you?</strong></p>
+
+      <p data-rv>Most people have a shorter list than they would admit, and it is usually sorted by rank. Help from above is flattering. Help from a peer is fine. Help from below — from someone junior, less able, less established, someone who owes you rather than the other way round — is oddly difficult to accept, and people will go to real lengths to avoid needing it.</p>
+
+      <p data-rv>This week you get two stories from the animal volumes of the anthology, which are the strangest and best part of the whole collection. Both are about a lion. In one, the lion is helped by a small animal and floats out of a well. In the other, the lion is helped by a small animal and loses an eye.</p>
+
+      <div class="sx-pull" data-rv>Same species. Same situation. The only difference is what each lion was willing to say out loud afterwards.</div>
+
+      <p data-rv>Fascicle 47 is called "Beasts and Animals," and it is organised by species — lions, elephants, horses, oxen, donkeys, dogs, deer, jackals, wolves, monkeys, hares, wildcats, rats. Every one of these creatures gets its own stories. You are about to read two of the lions'.</p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The stories<span class="rf">Two of them — read both, in this order</span></h2></div>
+      <p data-rv>Both are on the same page. Read <strong>number 5</strong> first, then go back up and read <strong>number 3</strong>.</p>
+
+      <a class="sx-textcard" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 47 · Beasts and Animals · Lions</div>
+        <h3>5. A Lion King Falls into a Well and Is Saved by a Jackal</h3>
+        <p>He is old, his eyes have dimmed, and he is still walking at the front.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="sx-textcard alt" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 47 · Beasts and Animals · Lions</div>
+        <h3>3. A Lion Chokes on a Bone, and a Woodpecker Pulls It Out</h3>
+        <p>The same favour, and an entirely different lion.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished both.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping</span></h2></div>
+
+      <h3 data-rv>1 · Five hundred lions, one clause</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The well</div>
+        <p>"…there was a lion, king of the beasts, who was lord of five hundred lions. Afterward this lion king grew old and sick and thin and his eyes grew dim, and, <strong>walking in front of the other lions</strong>, he fell into an empty well; and <strong>the five hundred lions all abandoned him and went.</strong>"</p>
+        <div class="zh">有師子獸王。作五百師子主。是師子王後時老病瘦眼闇。在諸師子前行墮空井中。五百師子皆捨離去。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Two details, three words apart, and they are the whole first half of the story.</p>
+
+      <p data-rv><strong>"Walking in front."</strong> He is old, sick, thin, and half-blind, and he is still leading the procession. Nobody has taken the front from him and he has not offered it up. That is how he falls in — doing the thing he has always done, in a body that can no longer do it.</p>
+
+      <p data-rv><strong>"All abandoned him and went."</strong> Five hundred. His entire court, disposed of in one clause, with no deliberation described, no argument among them, nobody even pausing at the edge. The story does not say they were cruel and does not stop to judge them. They simply leave, the way a crowd leaves.</p>
+
+      <h3 data-rv>2 · The jackal is not being nice</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The one who comes back</div>
+        <p>"Then a jackal saw the lion king and thought: <strong>the reason I have been able to live at ease in this wood and to have my fill of meat is the lion king. Now he has fallen into a hard place — how shall I repay him?</strong>"</p>
+        <p>"By the side of this well there was a channel of water running, and the jackal at once set about it: <strong>with his feet he let the water through, and the water came in and filled the well, and the lion floated out.</strong>"</p>
+        <div class="zh">爾時有一野干見師子王。作是念言。我所以得此林住安樂飽滿肉者由師子王。今墮急處云何當報。時此井邊有渠水流。野干即曰。以脚通水。水入滿井師子浮出。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Read the jackal's reasoning carefully, because it is not what a sentimental version of this story would give him. There is no pity in it and no affection. <strong>It is an account.</strong> He has eaten well in this forest for years, and he has eaten well because a lion was killing things. He is a scavenger. Everything he has, he has had from the lion's leavings — and he is, so far as we are told, the only creature in the wood who has ever thought about that fact.</p>
+
+      <p data-rv>Then look at the method, which is the best thing in the story. <strong>He does not pull the lion out.</strong> He could not; nothing about him is strong enough, and the story never pretends otherwise. What he does instead is notice a water channel running past, open it with his feet, and flood the well until the lion rises.</p>
+
+      <p data-rv>He does not add strength to the situation. He changes the level of the water. That is what help from a small animal actually looks like, and it is why it is so easy to miss coming.</p>
+
+      <p data-rv>The forest spirit then says the line the story exists for:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The verse</div>
+        <p>"Though the body be strong and heroic in itself, / <strong>one should make a friend of the weak.</strong> / A small jackal was able to save / the lion king from the trouble of the well."</p>
+        <div class="zh">身雖自雄健　應以弱為友　小野干能救　師子王井難</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>One detail you may have noticed at the end, and it is worth not glossing over: the story identifies the lion king as the Buddha, the jackal as his attendant Ānanda — and the five hundred lions who walked away as the monks. This is a tradition telling a story about itself, and it is not a flattering one.</em></p>
+
+      <h3 data-rv>3 · The other lion</h3>
+
+      <p data-rv>Now the second story, which is the first one with the answer changed.</p>
+
+      <p data-rv>A lion king chokes on a rib-bone from an elephant he has killed, and dies, and revives. He asks a woodpecker to pull the bone out, promising to repay it. The bird climbs <em>into his mouth</em> and pulls it free. Days later, with the lion standing over a fresh kill, the woodpecker asks for the share it was promised. And the lion says this:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The lion's answer</div>
+        <p>"I am the lion king, / and killing is my family trade… / <strong>You did not measure yourself, / and escaped my teeth with difficulty. / That you got out of my mouth again — / how could you forget that kindness?</strong>"</p>
+        <div class="zh">汝既不自量　脫吾牙出難　還得出吾口　此恩何可忘</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Sit with the manoeuvre for a second, because it is beautifully done and you will recognise it. <strong>He does not deny the debt. He reverses it.</strong> The bird went into his mouth to save him; the lion's account of that event is that he generously declined to bite down. By the end of four lines the rescuer owes the rescued.</p>
+
+      <p data-rv>The woodpecker's reply is almost unbearably mild — <em>"if you could be a little generous and grant me even a little, I would die without resentment."</em> The lion gives it nothing and walks away.</p>
+
+      <p data-rv>So the bird follows him. It waits, days, until the lion has eaten and is sleeping without fear, and then lands on his forehead and takes out one of his eyes. And when the lion asks why, the woodpecker answers in the same form the lion used:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The woodpecker's answer</div>
+        <p>"Not knowing how to repay a heavy kindness, / you gave rise besides to a harming mind. / <strong>I now leave you one eye — / how could you forget that kindness?</strong> / Though you are king among beasts, / what you do has no reciprocity. / From this let us each be done; / let us make no further bond."</p>
+        <div class="zh">重恩不知報　乃復生害心　今留汝一目　此恩何可忘　汝雖獸中王　所行無反復　從是各自休　莫復作緣對</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-047/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>It gives him back his own line. <em>How could you forget that kindness?</em> — the exact words he used to turn a rescue into a favour, now used to turn a mutilation into one.</p>
+
+      <div class="sx-take" data-rv>
+        <b class="h">The two lions, side by side</b>
+        <ul>
+          <li><b>Both are kings.</b> Both are at the top of everything. Both end up needing a much smaller animal.</li>
+          <li><b>The first one is saved</b> — by a creature who had already worked out, on his own, that he owed something, and said so to himself before doing anything.</li>
+          <li><b>The second one is blinded</b> — not for being cruel, but for being unable to say a true sentence: <em>you helped me.</em> He had the words. He used them backwards.</li>
+          <li><b>Neither lion asks for help.</b> That is not what separates them. What separates them is what happened after the help arrived.</li>
+        </ul>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · one sentence · said out loud</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Name one debt, to the person's face</b>
+        <p>The jackal's whole contribution begins with a thought he has entirely to himself: <em>everything I have here, I have had from him.</em> The second lion's ruin begins with a sentence he cannot bring himself to say.</p>
+        <div class="how">
+          <b>Find someone who helped you and has never been told in plain words.</b> It should be someone the help came from <em>sideways or upwards</em> — a junior colleague, a student, someone younger, someone who works for you, someone you have always been the capable one with. That is the direction the exercise is about.<br><br>
+          <b>Say the specific thing.</b> Not "thanks for everything," which is a way of saying nothing. Name the occasion: <em>when X happened, you did Y, and it made the difference.</em> The specificity is the whole exercise, because vagueness is how the second lion would have handled it.<br><br>
+          <b>If that is too much this week,</b> do the smaller version: ask one person for help you would normally not ask them for, and let them give it without immediately repaying it. Sitting in the debt for a few days is the practice.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How does the lion king come to be in the well, and what do his five hundred lions do?</div>
+          <button class="opt"><span class="ltr">A</span>He is driven in by hunters; the lions fight to free him</button>
+          <button class="opt"><span class="ltr">B</span>He enters willingly to drink; the lions wait above for him</button>
+          <button class="opt"><span class="ltr">C</span>A rival pushes him in; the lions are divided about what to do</button>
+          <button class="opt"><span class="ltr">D</span>Old, sick, thin and half-blind, he is still walking at the front of the procession and falls in — and all five hundred abandon him and go</button>
+          <div class="expl"><strong>Correct: D.</strong> Two details three words apart. He falls in doing the thing he has always done, in a body that can no longer do it; nobody has taken the front from him and he has not offered it up. And his entire court is disposed of in a single clause — no deliberation, no argument, nobody pausing at the edge.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is the jackal's stated reason for helping?</div>
+          <button class="opt"><span class="ltr">A</span>Pity at the sight of a great animal brought low</button>
+          <button class="opt"><span class="ltr">B</span>Hope of a reward once the lion is restored to power</button>
+          <button class="opt"><span class="ltr">C</span>An account — everything he has eaten in this wood has come from the lion's kills, so he asks himself how he should repay it</button>
+          <button class="opt"><span class="ltr">D</span>Fear of what the other beasts would do without a king</button>
+          <div class="expl"><strong>Correct: C.</strong> No pity and no affection in it. He is a scavenger who has lived on a predator's leavings for years, and he appears to be the only creature in the forest who has ever thought about that fact.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">How does the jackal actually get the lion out?</div>
+          <button class="opt"><span class="ltr">A</span>He fetches the other lions and shames them into returning</button>
+          <button class="opt"><span class="ltr">B</span>He opens a nearby water channel with his feet and floods the well until the lion floats up</button>
+          <button class="opt"><span class="ltr">C</span>He digs a sloping ramp into the side of the well</button>
+          <button class="opt"><span class="ltr">D</span>He drops a branch down for the lion to climb</button>
+          <div class="expl"><strong>Correct: B.</strong> The best thing in the story. He does not pull — he could not, and the text never pretends otherwise. He changes the level of the water instead. That is what help from a small animal actually looks like, and it is exactly why it is so easy to miss coming.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">In the second story, the woodpecker climbs into the lion's mouth to pull out the bone, and later asks for what it was promised. How does the lion answer?</div>
+          <button class="opt"><span class="ltr">A</span>He reverses the debt — pointing out that the bird got out of his mouth alive, and asking how it could forget <em>that</em> kindness</button>
+          <button class="opt"><span class="ltr">B</span>He denies that the bone was ever stuck</button>
+          <button class="opt"><span class="ltr">C</span>He pays generously, and the story ends there</button>
+          <button class="opt"><span class="ltr">D</span>He claims another animal removed the bone</button>
+          <div class="expl"><strong>Correct: A.</strong> Note that he never denies the debt — he inverts it. The bird went into his mouth to save him; the lion's version is that he generously declined to bite down. In four lines the rescuer owes the rescued. It is beautifully done, and most people have met it at least once.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What separates the two lions?</div>
+          <button class="opt"><span class="ltr">A</span>One asked for help and the other was too proud to ask</button>
+          <button class="opt"><span class="ltr">B</span>One was a good king and the other was a cruel one</button>
+          <button class="opt"><span class="ltr">C</span>What happened after the help arrived — one was helped by someone who had already named the debt to himself, and the other could not say "you helped me" and used the words backwards instead</button>
+          <button class="opt"><span class="ltr">D</span>One of them was the Buddha in a past life and the other was not</button>
+          <div class="expl"><strong>Correct: C.</strong> Neither lion asks — that is not the difference. And note the woodpecker's final verse hands the lion back his own line: "I now leave you one eye — how could you forget that kindness?" The exact words he used to turn a rescue into a favour, now used to turn a mutilation into one.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Who is currently keeping you afloat, who you have never said so to?</p>
+        <p class="sm">There is usually at least one, and they are usually below you in whatever order you are both standing in — which is precisely why it has not been said. The jackal was not owed an apology and did not want one. He simply noticed, by himself, where his dinner had been coming from for years. Somebody is currently noticing that about you, or nobody is, and both of those are worth knowing.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 9 · The smallest thing</h3>
+        <p>A woman with nothing gives away part of her own meal, and her face changes on the spot. Then, two stories later in the same volume, another woman looks into water and sees a reflection that is not hers. The anthology puts them almost side by side, and the pairing does something neither could do alone.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-7/' | relative_url }}">← Session 7</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
