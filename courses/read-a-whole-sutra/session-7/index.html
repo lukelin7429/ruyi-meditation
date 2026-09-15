@@ -1,0 +1,409 @@
+---
+layout: default
+title: "Session 7 · The Amitābha Sūtra (Read a Whole Sūtra)"
+permalink: /courses/read-a-whole-sutra/session-7/
+excerpt: Session 7 of Read a Whole Sūtra — the most recited Buddhist scripture on earth, nearly invisible in English, and the one the Buddha himself calls hardest to believe.
+---
+
+<style>
+  .rs{--indigo:#4e4384;--indigo-mid:#33296b;--indigo-deep:#1b1638;--gold:#dfb45f;--gold-deep:#a8802c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#241f2c;--ink-soft:#6a6377;--line:#e6e0ef;}
+  .rs *{box-sizing:border-box;}
+  .rs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .rs [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .rs [data-rv].in{opacity:1;transform:none;}
+
+  .rs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .rs-crumb .rs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .rs-crumb a{color:var(--indigo);text-decoration:none;}
+  .rs-crumb a:hover{text-decoration:underline;}
+
+  .rs-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,180,95,.2),transparent 62%),
+    linear-gradient(158deg,#4e4384 0%,#33296b 46%,#1b1638 100%);color:#fff;}
+  .rs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .rs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .rs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .rs-hero .subt{font-style:italic;font-size:18px;color:#e9e3f7;}
+  .rs-hero .rd{margin-top:24px;font-size:14px;color:#cdc4e6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .rs-hero .rd b{color:var(--gold);}
+
+  .rs-body{background:#fff;padding:44px 0 24px;}
+  .rs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .rs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .rs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--indigo);}
+  .rs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .rs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .rs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--indigo);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .rs-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fbf9ff,#f6f2fd);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .rs-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .rs-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--indigo-deep);margin:0 0 12px;}
+  .rs-scr p:last-of-type{margin-bottom:0;}
+  .rs-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7a6fa0;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8cfee;line-height:1.85;}
+  .rs-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--indigo);text-decoration:none;border-bottom:1px solid rgba(78,67,132,.35);}
+  .rs-scr a.bk:hover{border-bottom-color:var(--indigo);}
+
+  .rs-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .rs-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .rs-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .rs-terms span b{color:var(--indigo);}
+
+  .rs-take{background:linear-gradient(180deg,#fbfaff,#f3effb);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .rs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--indigo);margin-bottom:8px;}
+  .rs-take ul{margin:0;padding-left:20px;}
+  .rs-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .rs-take li b{color:var(--gold-deep);}
+
+  .rs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .rs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .rs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .rs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .rs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .rs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .rs-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .rs-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .rs-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .rs-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .rs-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .rs-prac p:last-child{margin-bottom:0;}
+  .rs-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .rs-quiz{background:#fbfaff;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .rs-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .rs-quiz .q:first-of-type{padding-top:2px;}
+  .rs-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .rs-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--indigo);text-transform:uppercase;margin-bottom:6px;}
+  .rs-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .rs-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .rs-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--indigo);}
+  .rs-quiz .opt:hover:not(:disabled){background:#f4f0fd;border-color:var(--indigo);}
+  .rs-quiz .opt:disabled{cursor:default;}
+  .rs-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .rs-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .rs-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .rs-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .rs-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .rs-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .rs-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .rs-quiz .expl.show{display:block;}
+  .rs-quiz .expl strong{color:var(--ink);}
+  .rs-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .rs-score strong{color:var(--indigo);font-size:17px;}
+
+  .rs-reflect{background:linear-gradient(158deg,#4e4384 0%,#33296b 48%,#1b1638 100%);color:#e7e1f6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .rs-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .rs-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .rs-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c3b9e2;line-height:1.7;margin-top:14px;}
+
+  .rs-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .rs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .rs-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .rs-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .rs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .rs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .rs-btn.primary{background:linear-gradient(158deg,#4e4384,#2a2158);color:#fff;box-shadow:0 12px 26px -14px rgba(42,33,88,.8);}
+  .rs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(42,33,88,.9);text-decoration:none;}
+  .rs-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);background:transparent;}
+  .rs-btn.ghost:hover{background:var(--indigo);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .rs .rs-crumb,.rs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .rs [data-rv]{opacity:1 !important;transform:none !important;}
+    .rs-hero{background:none;color:#000;padding:0;}
+    .rs-hero-in{padding:0 0 12px;}
+    .rs-eyebrow,.rs-hero .subt,.rs-hero .rd{color:#444;}
+    .rs-hero h1{color:#000;}
+    .rs-body{padding:0;}
+    .rs-body p,.rs-body h3,.rs-part h2,.rs-take li,.rs-prac p{color:#000;}
+    .rs-scr,.rs-take,.rs-prac,.rs-quiz,.rs-next{background:#fff !important;border:1px solid #bbb;}
+    .rs-scr p{color:#000;}
+    .rs-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-reflect p,.rs-reflect .l,.rs-reflect p.sm{color:#000;}
+    .rs-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .rs-textcard h3,.rs-textcard p,.rs-textcard .go,.rs-textcard .trad{color:#000;}
+    .rs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="rs">
+
+  <nav class="rs-crumb"><div class="rs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> → Session 7</div></nav>
+
+  <!-- HERO -->
+  <section class="rs-hero">
+    <div class="rs-hero-in">
+      <div class="rs-eyebrow">Session 7 · 信 What to trust</div>
+      <h1>The Amitābha Sūtra</h1>
+      <div class="subt">《佛說阿彌陀經》 — the most recited scripture on earth, and the hardest to believe</div>
+      <div class="rd">
+        <span><b>Reading time</b> about fifteen minutes</span>
+        <span><b>Before class</b> Sessions 1–6</span>
+        <span><b>Length</b> thirteen short sections</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="rs-body">
+    <div class="rs-wrap">
+
+      <!-- PART 1 -->
+      <div class="rs-part" data-rv><div class="pn">Part 1</div><h2>Why this one, seventh</h2></div>
+
+      <p data-rv>Because it is, by a very wide margin, the most recited Buddhist scripture on the planet — and you have almost certainly never read it.</p>
+
+      <p data-rv>That is not an accident of your reading. English-language Buddhism was assembled, historically, out of Theravāda insight practice, Zen, and Tibetan Buddhism, and the Pure Land tradition — which is what the great majority of East Asian Buddhists have actually practised for over a thousand years — arrived barely at all. If you have been told anything about it, you were probably told it is the devotional, populist, slightly embarrassing wing of Buddhism for people who cannot manage meditation. That is not what this text says, and six sessions of reading whole scriptures have equipped you to check.</p>
+
+      <div class="rs-pull" data-rv>Of all eight texts in this course, this is the one most likely to annoy you. Read it to the end anyway.</div>
+
+      <h3 data-rv>Three things that make it unlike everything you have read so far</h3>
+
+      <p data-rv><strong>Nobody asked for it.</strong> Almost every sūtra in the canon opens with a question — a puzzled disciple, a curious layperson. Traditional Buddhist scholarship classifies scripture into twelve literary types, and one of the rarest is <em>anupṛcchā</em>: a teaching the Buddha gives entirely on his own initiative, unprompted. This is the clearest example there is. Śāriputra does not ask anything. The Buddha simply turns to him and begins describing a world nobody in the assembly would have thought to ask about.</p>
+
+      <p data-rv><strong>It describes a place.</strong> Where the Heart Sūtra empties every category the mind can hold and the Diamond Sūtra dismantles every fixed view, this one does something close to the opposite. It names a location, a buddha presiding there, the material of the ponds, the birds, the trees, the sound the wind makes. Then it tells you exactly what to do.</p>
+
+      <p data-rv><strong>It calls itself hard to believe.</strong> Not hard to understand — the prose is plain and repeats itself by design. Near its close the Buddha says that what he has just taught is "the Dharma that the whole world finds hard to believe." That is the sūtra's own assessment of itself, and Part 3 works out where exactly the difficulty is said to lie.</p>
+
+      <p data-rv>Our reading notes come from Ouyi Zhixu (1599–1655) — the same late-Ming master who guided Session 1 — whose 1647 commentary, the <em>Yaojie</em>, organises this text around three terms: <strong>faith (信), vow (願), and practice (行)</strong>. Where he adds something the sūtra does not itself say, this session will point it out, as it has all course.</p>
+
+      <!-- PART 2 -->
+      <div class="rs-part" data-rv><div class="pn">Part 2</div><h2>Read it whole<span class="rf">Fifteen minutes — and let the repetition do its work</span></h2></div>
+      <p data-rv>Kumārajīva's translation again. A warning about the reading: long descriptive stretches end, again and again, with the identical refrain — "the land of Utmost Bliss is accomplished with just such adornments of merit." Do not skim past it. This text builds the way a litany builds rather than the way an argument builds, and the refrain is the mechanism, not filler.</p>
+
+      <a class="rs-textcard" href="{{ '/sutras/amitabha-sutra.html' | relative_url }}" data-rv>
+        <div class="trad">Mahāyāna · Pure Land · complete · Ru-Yi translation</div>
+        <h3>The Amitābha Sūtra — full text &amp; reading guide</h3>
+        <p>《佛說阿彌陀經》 · the shorter Sukhāvatīvyūha · Kumārajīva's Chinese beside an original English translation, thirteen sections, reading notes after Ouyi Zhixu, and a self-check quiz.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this session assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="rs-part" data-rv><div class="pn">Part 3</div><h2>Three passages, closely<span class="rf">A place, an instruction, and an admission</span></h2></div>
+
+      <h3 data-rv>1 · A teaching nobody thought to ask for</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 2 · why it is called Utmost Bliss</div>
+        <p>"Then the Buddha said to the elder Śāriputra: 'West from here, past a hundred thousand million buddha-lands, there is a world named Utmost Bliss. In that land there is a buddha called Amitābha, who is teaching the Dharma there right now. <strong>Śāriputra, why is that land called Utmost Bliss? Because the beings born in that country have no suffering of any kind and experience only joy</strong> — that is why it is called Utmost Bliss.'"</p>
+        <div class="zh">爾時，佛告長老舍利弗：「從是西方過十萬億佛土，有世界名曰極樂。其土有佛，號阿彌陀，今現在說法。舍利弗！彼土何故名為極樂？其國眾生無有眾苦，但受諸樂，故名極樂。」</div>
+        <a class="bk" href="{{ '/sutras/amitabha-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Read that opening again with the previous six sessions in your ear, and notice how strange it is. No question precedes it. And the person addressed is Śāriputra — named by the tradition as the disciple foremost in <em>wisdom</em>, the same disciple the Heart Sūtra addresses. The most analytically powerful mind in the room is spoken to, not consulted. Ouyi reads the whole unasked-for structure as significant: this teaching lay so far outside what anyone present would have thought to ask that only the Buddha's own unprompted compassion could have introduced it.</p>
+
+      <p data-rv>Then notice how the naming is explained — <em>twice</em>, and differently. First by the absence of suffering; then, immediately after, by physical adornment: seven tiers of railings, seven tiers of netting, seven rows of trees. Ouyi reads the doubling as answering two different orders of doubt at once. That beings there might still suffer in some subtle way — answered by "no suffering of any kind." And that the description might be merely allegorical — answered by specific, countable, material features.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">How literally are you supposed to take this? The tradition itself disagrees.</b>
+        <ul>
+          <li><b>Ouyi takes it exactly as it reads</b> — a real place at a real distance, and he argues directly against collapsing Sukhāvatī into a purely psychological "Pure Land is only the pure mind," which he considers an evasion of the text's plain claim.</li>
+          <li><b>Zhuhong, writing a century earlier</b>, holds that the external land and the practitioner's own buddha-nature are not in competition — that it is both a real place and, at the deepest level, not separate from mind.</li>
+          <li><b>This course does not adjudicate between them,</b> and neither does the sūtra's own page. Both readings are live within the tradition. What is worth resisting is the move of picking the metaphorical reading simply because it is more comfortable for a modern reader — that is not neutrality, it is a preference.</li>
+        </ul>
+      </div>
+
+      <p data-rv>One detail that shows the text is more self-aware than it first appears. Section 5 describes flocks of birds in that land whose calls proclaim the five faculties, the seven factors of awakening, the eightfold path. A careful listener would immediately object: birth as an animal is a <em>lower</em> rebirth, the fruit of unwholesome karma — so how is a land free of suffering full of birds? The sūtra raises that objection itself, in that very passage, and answers it: these are not karmically born creatures but transformations conjured by Amitābha, so that the sound of the Dharma might spread. Ouyi treats this as evidence of how carefully the text guards its own claims at precisely the point a thinking reader would push.</p>
+
+      <h3 data-rv>2 · The instruction, and exactly what it asks</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 8 · holding the name with an undistracted mind</div>
+        <p>"Śāriputra, one cannot be born in that land through few roots of goodness, blessings, and causes and conditions. Śāriputra, if there is a good son or good daughter who, hearing Amitābha Buddha spoken of, <strong>holds fast to that name — whether for one day, two days, three, four, five, six, or seven days — with a single, undistracted mind</strong>, then when that person's life comes to its end, Amitābha Buddha, together with the host of sages, will appear before them. And at the moment of death, that person's mind will not be inverted with confusion or fear, and they will at once attain rebirth in Amitābha Buddha's land of Utmost Bliss."</p>
+        <div class="zh">舍利弗！不可以少善根福德因緣得生彼國。舍利弗！若有善男子、善女人，聞說阿彌陀佛，執持名號，若一日、若二日……若七日，一心不亂。其人臨命終時，阿彌陀佛與諸聖眾，現在其前。是人終時，心不顛倒，即得往生阿彌陀佛極樂國土。</div>
+        <a class="bk" href="{{ '/sutras/amitabha-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>This single passage is what Ouyi's entire commentary turns on, and his governing formula is worth having exactly: <strong>whether one attains rebirth at all depends entirely on whether faith and vow are genuinely present; the grade of rebirth one attains depends entirely on the depth of one's practice in holding the name.</strong> Faith and vow open the door; practice determines how far into the house you walk.</p>
+
+      <p data-rv>That structure is why the obvious objection — <em>isn't this suspiciously easy?</em> — misfires. Nothing here is being given away. What is being claimed is that the decisive variable is not the quantity of effort but whether you actually trust the thing and actually want it. Which is, if you are honest, a harder bar than it sounds, and a much harder one to fake.</p>
+
+      <div class="rs-take" data-rv>
+        <b class="h">Two things the text does not say, which are often reported as if it did</b>
+        <ul>
+          <li><b>"One day… up to seven days" is not obviously a deadline.</b> The sūtra does not say whether this is a literal ceiling — achieve it within a week or it has not worked — or open-ended shorthand for "from the least to the most, however long it takes." Both readings live in the tradition; the later seven-day intensive recitation retreat (打佛七) took the number more literally than every commentator has been willing to.</li>
+          <li><b>The famous two tiers of "one-pointed and undistracted" are a commentator's addition.</b> Ouyi and others distinguish a <em>phenomenal</em> one-pointedness (事一心, sustained unbroken recitation without the mind wandering) from a <em>noumenal</em> one (理一心, a mind that has also penetrated the empty, non-dual nature of the buddha recited and the one reciting). That distinction is a genuine interpretive tool. The bare sūtra text does not draw it.</li>
+        </ul>
+      </div>
+
+      <p data-rv>And one claim from a few sections earlier is doing more work than its length suggests. Everyone born in that land is 阿鞞跋致, <em>avaivartika</em> — non-retrogressing. On the ordinary bodhisattva path, non-retrogression takes lifetimes to secure and can still be lost through a serious error, a poor teacher, or an unlucky rebirth. Ouyi's argument is that birth in Sukhāvatī removes the risk of backsliding for anyone born there, whatever level of realisation they arrive with — which is why he treats this as uniquely efficient among Buddhist paths, without ever claiming it is the only valid one. And he reads "there, one gets to be gathered together in one place with such supremely good people" as a quiet answer to a different worry: this is not a private paradise. It is rebirth into company.</p>
+
+      <h3 data-rv>3 · The sūtra's own admission</h3>
+      <div class="rs-scr" data-rv>
+        <div class="src">Section 12 · the hardest teaching to believe</div>
+        <p>"'Śākyamuni Buddha has been able to do an extremely difficult and rare thing — able, in the sahā world, in the evil age of the five turbidities… to attain unsurpassed, perfect, complete awakening, and, for the sake of all beings, <strong>to speak this Dharma that the whole world finds hard to believe</strong>.' Śāriputra, you should know that I, in this evil age of the five turbidities, have done this difficult thing… <strong>this indeed is extremely difficult!</strong>"</p>
+        <div class="zh">釋迦牟尼佛能為甚難希有之事，能於娑婆國土五濁惡世……得阿耨多羅三藐三菩提，為諸眾生說是一切世間難信之法。舍利弗！當知我於五濁惡世行此難事……為一切世間說此難信之法，是為甚難！</div>
+        <a class="bk" href="{{ '/sutras/amitabha-sutra.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>This is the most unusual sentence in the whole course. No other text you have read this term pauses to tell you that it expects not to be believed.</p>
+
+      <p data-rv>And it is easy to get the difficulty backwards. It is not that the sūtra is intellectually demanding — set beside the causal analysis of Yogācāra or the dialectic of the Diamond Sūtra, this text's structure is plain. Ouyi locates the difficulty in <strong>the listener's own habits of mind</strong>: a trained assumption that the more effortful path must be the truer one, meeting a claim that sustained, sincere recitation — without first mastering doctrine or completing lifetimes of austerity — secures guaranteed and irreversible progress. For a certain kind of serious person, that is very hard to accept at face value. Not because it is complicated. Because it offends something.</p>
+
+      <p data-rv>Which is also, on this reading, exactly why the text spends its ninth section staging six directions' worth of buddhas — east, south, west, north, below, above, each as numerous as the sands of the Ganges — putting forth "the sign of the broad and long tongue" and saying the same words six times over. Not repetitive padding. The corroboration is built to match the difficulty. The sūtra knows what it is asking.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Not every commentator locates the difficulty identically — some read it as the sheer scale of what is described, thousands of Ganges-sands of buddhas and a buddha-land ten kalpas old, straining ordinary credulity. Worth holding both.</em></p>
+
+      <!-- PART 4 -->
+      <div class="rs-part" data-rv><div class="pn">Part 4</div><h2>This week's practice<span class="rf">Ten minutes a day — do it before deciding what you think of it</span></h2></div>
+
+      <div class="rs-prac" data-rv>
+        <b class="h">Recite the name</b>
+        <p>This is the only practice in the course that many readers will want to argue with first. Notice the wanting, and then do it anyway for a week. You can argue afterward with far better information.</p>
+        <div class="how">
+          <b>Ten minutes a day, out loud or under the breath:</b> <span style="font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:17px;">南無阿彌陀佛</span> — <em>Námó Ēmítuófó</em>, "homage to Amitābha Buddha." Repeat it steadily, at whatever pace lets you stay with it. When the mind wanders, come back. That is the entire instruction.<br><br>
+          <b>You do not have to have settled the metaphysics first.</b> Nothing in the sūtra requires you to have resolved whether Sukhāvatī is a place, a state, or both, before beginning — and the commentarial tradition, as Part 3 noted, has not resolved it either.<br><br>
+          <b>What to watch for.</b> Not bliss, and not proof. Watch what the practice does to the ten minutes themselves, and watch your own resistance — it will show up on day two or three, and it will have arguments. Write one of them down. Then keep going to day seven, and read your argument again.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="rs-part" data-rv><div class="pn">Part 5</div><h2>Self-check<span class="rf">Five questions · click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="rs-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Unlike almost every other sūtra, this one opens with no question from anyone. What is the significance of that?</div>
+          <button class="opt"><span class="ltr">A</span>The opening question was lost in transmission and later recensions restore it</button>
+          <button class="opt"><span class="ltr">B</span>It signals that the teaching is preliminary and not addressed to serious practitioners</button>
+          <button class="opt"><span class="ltr">C</span>It is the rare <em>anupṛcchā</em> form — a teaching so far outside what anyone present would have thought to ask that only the Buddha's own unprompted compassion could introduce it</button>
+          <button class="opt"><span class="ltr">D</span>It indicates the text is a commentary rather than a discourse</button>
+          <div class="expl"><strong>Correct: C.</strong> And note who is addressed rather than consulted: Śāriputra, named as the disciple foremost in wisdom — the same disciple the Heart Sūtra addresses. The most analytically powerful mind in the room does not ask, and is told anyway.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">How does the tradition itself handle the question of whether Sukhāvatī is a literal place?</div>
+          <button class="opt"><span class="ltr">A</span>It is unanimous that the description is allegorical, standing for states of mind</button>
+          <button class="opt"><span class="ltr">B</span>It is unanimous that the description is literal, and treats any other reading as heresy</button>
+          <button class="opt"><span class="ltr">C</span>The question was never raised before modern Western readers asked it</button>
+          <button class="opt"><span class="ltr">D</span>It disagrees — Ouyi reads it as a real place and argues against collapsing it into "only the pure mind", while Zhuhong holds the external land and one's own buddha-nature are not in competition</button>
+          <div class="expl"><strong>Correct: D.</strong> Both readings are live, and this course does not adjudicate. What is worth noticing in yourself is the temptation to take the metaphorical reading simply because it is easier for a modern reader to hold — that is a preference, not neutrality.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Ouyi's governing formula for this sūtra distinguishes what faith and vow determine from what practice determines. What is the distinction?</div>
+          <button class="opt"><span class="ltr">A</span>Faith determines rebirth; vow and practice are optional refinements for the devout</button>
+          <button class="opt"><span class="ltr">B</span>Whether one attains rebirth at all depends on faith and vow being genuinely present; the grade of rebirth attained depends on the depth of practice in holding the name</button>
+          <button class="opt"><span class="ltr">C</span>Practice alone determines rebirth; faith and vow are later commentarial additions</button>
+          <button class="opt"><span class="ltr">D</span>All three must be perfected equally before rebirth is possible at all</button>
+          <div class="expl"><strong>Correct: B.</strong> Faith and vow open the door; practice determines how far into the house you walk. This is also why "isn't this too easy?" misfires — nothing is being given away. The claim is that the decisive variable is whether you actually trust the thing and actually want it, which is a harder bar than it sounds and much harder to fake.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Which of these is supplied by commentators rather than stated by the sūtra itself?</div>
+          <button class="opt"><span class="ltr">A</span>The two tiers of "one-pointed and undistracted" — phenomenal (事一心) and noumenal (理一心)</button>
+          <button class="opt"><span class="ltr">B</span>That everyone born in that land is non-retrogressing</button>
+          <button class="opt"><span class="ltr">C</span>That the birds there are transformations conjured by Amitābha, not karmically born animals</button>
+          <button class="opt"><span class="ltr">D</span>That the Buddha appears before the practitioner at the moment of death</button>
+          <div class="expl"><strong>Correct: A.</strong> The other three are all in the text. The two-tier distinction is a genuinely useful interpretive tool that the bare sūtra does not draw — and knowing which is which is the same skill Session 1 introduced with Ouyi's gloss on recitation, and Session 3 with Yuanying on the four truths. Use a commentary as a second opinion, not a verdict.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">The sūtra calls itself "the Dharma that the whole world finds hard to believe." Where does Ouyi locate the difficulty?</div>
+          <button class="opt"><span class="ltr">A</span>In the prose, which is unusually dense and technical compared with other sūtras</button>
+          <button class="opt"><span class="ltr">B</span>In the cosmology, which contradicts the rest of the Buddhist canon</button>
+          <button class="opt"><span class="ltr">C</span>In the listener's own habits of mind — a trained assumption that the more effortful path must be the truer one, meeting a claim that sincere recitation secures irreversible progress without first mastering doctrine</button>
+          <button class="opt"><span class="ltr">D</span>In the fact that the teaching was given without anyone requesting it</button>
+          <div class="expl"><strong>Correct: C.</strong> The difficulty is not intellectual — this text's structure is plain beside Yogācāra or Madhyamaka. It is that the claim offends something in a certain kind of serious person. Which is exactly why the sūtra stages six directions of buddhas saying the same words six times over: the corroboration is built to match the difficulty. Some commentators locate it differently, in the sheer scale of what is described — worth holding both.</div>
+        </div>
+
+        <div class="rs-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);">The sūtra's own page carries a further self-check on the full text. <a href="{{ '/sutras/amitabha-sutra.html' | relative_url }}#quiz" style="color:var(--indigo);font-weight:600;">Take it there →</a></p>
+
+      <!-- PART 6 -->
+      <div class="rs-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="rs-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>What in this sūtra was hardest for you to believe — and what does that tell you about what you already believe?</p>
+        <p class="sm">Be specific. Not "the whole thing." The jewelled ponds, or the buddhas of the six directions, or the seven days, or the idea that a name held in mind could matter at all. Then turn the question around, which is the part worth the week: your resistance landed somewhere in particular, and it landed there because of a conviction you were already carrying. Name that conviction. You did not get it from this text.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="rs-next" data-rv>
+        <div class="l">Last session</div>
+        <h3>Session 8 · The Vows of Samantabhadra</h3>
+        <p>The end of the course, and the end of reading. Ten vows that close the vast Flower Garland Sūtra and belong, fully, to two traditions at once — the last chapter of the Avataṃsaka and a Pure Land scripture in its own right. Where this session asked what you trust, the last one asks what you would promise.</p>
+      </div>
+
+      <div class="rs-foot">
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/session-6/' | relative_url }}">← Session 6</a>
+        <a class="rs-btn ghost" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Course overview</a>
+        <button type="button" class="rs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.rs');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
