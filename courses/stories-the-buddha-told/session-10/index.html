@@ -1,0 +1,421 @@
+---
+layout: default
+title: "Session 10 · The last night (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-10/
+excerpt: Session 10 of Stories the Buddha Told — the man from Session 1 arranges his own death between two trees, argues with the mourners, and lets one more stranger in.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 10</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 10 · How it ended</div>
+      <h1>The last night</h1>
+      <div class="subt">Between two trees, at the other end of the story that opened this course</div>
+      <div class="rd">
+        <span><b>Reading time</b> about fifteen minutes</span>
+        <span><b>Before class</b> all nine previous sessions</span>
+        <span><b>The story</b> two chapters, at the end of the poem</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>What would you want to have said?</strong></p>
+
+      <p data-rv>Ten weeks ago this course opened with a young man riding out of a city, seeing three things by the road, and walking out of his entire life. This week he is eighty years old, lying on his right side between two trees, and there are perhaps six hours left.</p>
+
+      <p data-rv>What he does with them is the last thing this course has to show you, and it is not what you would guess. He does not gather his closest disciples for a final secret. He does not settle accounts or name a successor. He gives an instruction about sweeping a floor, he loses an argument with a crowd of grieving townspeople, and he spends a meaningful part of his last night on a stranger from a rival school who has turned up wanting to ask a question.</p>
+
+      <div class="sx-pull" data-rv>On the last night of his life, somebody knocks, and he says let him in.</div>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">Two chapters — read both, in order</span></h2></div>
+
+      <a class="sx-textcard" href="{{ '/sutras/buddhacarita/part-36/' | relative_url }}" data-rv>
+        <div class="trad">Buddhacarita · Chapter Twenty-Five</div>
+        <h3>Nirvāṇa (II)</h3>
+        <p>A last meal, two rivers, a final bath, and a couch set out between the twin trees.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="sx-textcard alt" href="{{ '/sutras/buddhacarita/part-37/' | relative_url }}" data-rv>
+        <div class="trad">Buddhacarita · Chapter Twenty-Six</div>
+        <h3>The Great Final Nirvāṇa (I)</h3>
+        <p>An old man from another school arrives at the worst possible moment and will not be turned away.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished both.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping</span></h2></div>
+
+      <h3 data-rv>1 · He arranges it himself</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Between the twin trees</div>
+        <p>"He instructed Ānanda: '<strong>Between those twin trees over there, sweep and cleanse the ground thoroughly, and set out a rope-strung couch for me. This very night, at its middle watch, I shall enter final nirvāṇa.</strong>'"</p>
+        <p>"The Tathāgata went to the rope-strung couch and lay down upon it, his head to the north, on his right side, resting his head upon his own hand with his feet placed one upon the other, just as a lion-king reclines — <strong>his very last body, having now finished with suffering, lying down there this once, never to rise again.</strong>"</p>
+        <div class="zh">佛所行讚 · 卷五 · 大般涅槃品</div>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-36/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Read the instruction again and notice how domestic it is. <em>Sweep the ground. Set out a couch.</em> He is arranging a room. A man who knows he will die tonight spends some of his remaining attention on whether the floor is clean.</p>
+
+      <p data-rv>And then the details of how he lies down, which the poem records with the care of someone who was there: <strong>head to the north. On his right side. One hand under his head. Feet one on top of the other.</strong> East Asian Buddhism has depicted this exact posture for fifteen centuries — in every reclining Buddha you have ever seen in a photograph, you are looking at these four clauses.</p>
+
+      <p data-rv>There is no drama in it and nothing supernatural. An extremely old man bathes in a river, has somebody tidy a patch of ground, and lies down carefully on his side.</p>
+
+      <h3 data-rv>2 · He makes the argument, and it does not work</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The Mallas arrive</div>
+        <p>"…men and women rushed out at once, weeping and crying aloud as they made their way to the Buddha, <strong>their clothes disheveled, their hair unbound, their bodies covered in dust and streaming with sweat</strong>… and, weeping, bowed at the Buddha's feet, their bodies wasted with grief and sorrow."</p>
+        <p>"The Tathāgata comforted them, saying: '<strong>Do not let yourselves waste away in grief — this is a moment that calls, rather, for shared rejoicing; it is not fitting to give way to sorrow now.</strong> What I have planned across such long ages, I am only now, at last, about to attain… why, then, should you grieve on my account?'"</p>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-36/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>It is a real argument, and from where he is lying it is a sound one. He is about to get the thing he set out for on the night he left his father's house sixty years earlier. Grief, from that angle, is a category error.</p>
+
+      <p data-rv>And then the poem tells you exactly what his argument achieved:</p>
+
+      <div class="sx-scr" data-rv>
+        <div class="src">The next line</div>
+        <p>"The Mallas, hearing the Buddha speak of entering this great and final stillness, <strong>felt their own minds thrown into confusion, their eyes darkened as though beholding a vast and impenetrable darkness.</strong>"</p>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-36/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>It fails. He tells a crowd of people not to grieve, and they are plunged into darkness.</p>
+
+      <p data-rv>You have seen this poem do this once already. In Session 2 it printed the objections of a whole city and refused to answer them. Here it lets the Buddha give the best consolation available to him and then records, in the very next sentence, that it did not land — <strong>and it does not criticise anybody on either side.</strong> Not him, for saying it. Not them, for being unable to hear it.</p>
+
+      <p data-rv>That is an unusual thing for a religious poem to do, and it is one of the reasons this one has survived. It knows that being right is not the same as being of use to a crying person, and it does not pretend otherwise even about its own founder.</p>
+
+      <h3 data-rv>3 · Somebody knocks</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">Subhadra, and Ānanda at the door</div>
+        <p>"Ānanda, his own feelings still raw with grief, and <strong>suspecting besides that this might be some attempt at mere philosophical debate, or perhaps even someone secretly pleased at the World-Honored One's coming death</strong>, felt it was not fitting to let him see the Buddha."</p>
+        <p>"The Buddha, knowing that this man's own hope was sincere, and that he was a fit vessel for the true Dharma, said to Ānanda: '<strong>Let this follower of another path come forward — I remain here for the sake of delivering the living; do not create any obstacle for him.</strong>'"</p>
+        <a class="bk" href="{{ '/sutras/buddhacarita/part-37/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>An old man — a wandering ascetic of a rival school, who has spent his life on a philosophy he is beginning to doubt — hears that the Buddha is dying tonight and comes to the grove. He wants to ask one question. He knows exactly what he is asking for: <em>"an encounter such as this can hardly be met with again… the sun of the Buddha is about to set its own light — I beg you to let me see him, if only for a moment."</em></p>
+
+      <p data-rv>And Ānanda says no — for three reasons, every one of which is entirely reasonable. <strong>He is grieving.</strong> He suspects the man wants an argument. He suspects the man may be enjoying this. Anyone who has ever stood at a door protecting someone they love from one more visitor has had all three thoughts in the same five seconds.</p>
+
+      <p data-rv>The Buddha overrules him in a single sentence, and the sentence is the last thing this course has to give you: <em>I remain here for the sake of delivering the living; do not create any obstacle for him.</em></p>
+
+      <p data-rv>Subhadra's own opening line is worth noticing too, after nine weeks of stories about people who could not stop competing: <strong>"I ask this not for the sake of mere debate, nor with any wish to win or lose an argument."</strong> The craftsman and the painter could not have said that. The husband with his cake could not have said it. The lion with the woodpecker in his mouth could not have said it. This is an old man, on somebody else's last night, arriving with nothing to win.</p>
+
+      <p data-rv>He gets his answer, takes it, and dies before the Buddha does.</p>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · one sentence · out loud</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Say the thing</b>
+        <p>The question this session opened with is not rhetorical, and it has an unfussy answer.</p>
+        <div class="how">
+          <b>Pick one person and one sentence.</b> Something you would not want to have left unsaid — which is a much narrower category than "things I could say," and most people, asked directly, can name theirs within about ten seconds.<br><br>
+          <b>Then say it this week.</b> Out loud, or written and sent. Not arranged into a conversation, not saved for the right moment, not prefaced. The right moment is a device for postponement and everyone knows it.<br><br>
+          <b>It does not have to be large.</b> The last hours in this story were spent on a floor being swept, a failed attempt to comfort some neighbours, and a stranger's question. None of that is momentous. All of it got done.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What instruction does he give Ānanda when they reach the grove?</div>
+          <button class="opt"><span class="ltr">A</span>To summon the senior disciples from every region</button>
+          <button class="opt"><span class="ltr">B</span>To write down everything he is about to say</button>
+          <button class="opt"><span class="ltr">C</span>To sweep and cleanse the ground between the twin trees and set out a couch — and that he will enter final nirvāṇa at the middle watch of that night</button>
+          <button class="opt"><span class="ltr">D</span>To send word to his father's kingdom</button>
+          <div class="expl"><strong>Correct: C.</strong> Sweep the ground, set out a couch. A man who knows he will die tonight spends part of his remaining attention on whether the floor is clean. There is nothing supernatural in the scene at all — an extremely old man bathes in a river, has a patch of ground tidied, and lies down carefully on his side.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The poem records the posture in which he lies down with unusual care. Why does it matter?</div>
+          <button class="opt"><span class="ltr">A</span>Head to the north, on his right side, one hand beneath his head, feet placed one on the other — the exact posture of every reclining Buddha depicted for the past fifteen centuries</button>
+          <button class="opt"><span class="ltr">B</span>It is a meditation posture that he is instructing the monks to adopt</button>
+          <button class="opt"><span class="ltr">C</span>It indicates the direction of his home kingdom</button>
+          <button class="opt"><span class="ltr">D</span>It is a detail added by later commentators and absent from the poem</button>
+          <div class="expl"><strong>Correct: A.</strong> Four short clauses, and every reclining Buddha you have seen in a photograph is an illustration of them. "Just as a lion-king reclines — his very last body, having now finished with suffering, lying down there this once, never to rise again."</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What does he say to the Malla townspeople who arrive weeping, and what does the poem say it achieved?</div>
+          <button class="opt"><span class="ltr">A</span>He tells them to grieve freely, and they are comforted</button>
+          <button class="opt"><span class="ltr">B</span>He argues that this is a moment for rejoicing rather than sorrow — and the next line records their minds thrown into confusion, their eyes darkened as though beholding an impenetrable darkness</button>
+          <button class="opt"><span class="ltr">C</span>He says nothing to them, and they are turned away at the grove</button>
+          <button class="opt"><span class="ltr">D</span>He promises to remain in the world a while longer, and they rejoice</button>
+          <div class="expl"><strong>Correct: B.</strong> The argument is real and, from where he is lying, sound. And it fails, in the very next sentence, and the poem criticises nobody for it — not him for saying it, not them for being unable to hear it. It knows that being right is not the same as being of use to a crying person, and does not pretend otherwise even about its own founder.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Subhadra, an old ascetic from a rival school, asks to see the Buddha. Why does Ānanda try to prevent it?</div>
+          <button class="opt"><span class="ltr">A</span>Because followers of other schools were forbidden to approach</button>
+          <button class="opt"><span class="ltr">B</span>Because the Buddha had already given instructions not to be disturbed</button>
+          <button class="opt"><span class="ltr">C</span>Because Subhadra was known to him as an enemy</button>
+          <button class="opt"><span class="ltr">D</span>Three reasons at once — his own raw grief, a suspicion that the man wants a philosophical argument, and a suspicion that he may be secretly pleased about the death</button>
+          <div class="expl"><strong>Correct: D.</strong> Every one of them entirely reasonable. Anyone who has stood at a door protecting someone they love from one more visitor has had all three thoughts in the same five seconds. The poem does not treat Ānanda as wrong, only as overruled.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does the Buddha say in reply?</div>
+          <button class="opt"><span class="ltr">A</span>That the man may return in the morning</button>
+          <button class="opt"><span class="ltr">B</span>That Ānanda should answer the question on his behalf</button>
+          <button class="opt"><span class="ltr">C</span>"Let this follower of another path come forward — I remain here for the sake of delivering the living; do not create any obstacle for him."</button>
+          <button class="opt"><span class="ltr">D</span>That the time for teaching has passed</button>
+          <div class="expl"><strong>Correct: C.</strong> On the last night of his life, one more person is let in. And note Subhadra's own opening words, after nine weeks of stories about people who could not stop competing: "I ask this not for the sake of mere debate, nor with any wish to win or lose an argument." The craftsman and the painter could not have said that. Neither could the husband with his cake, or the lion with the bird in his mouth.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>You have read ten stories. Which one is still in the room?</p>
+        <p class="sm">Not the one you thought was best, and not the one with the most obvious lesson — the one that has kept turning up when you were doing something else. That is the only measurement that has ever mattered for a story, and it is entirely outside anyone's control, including yours. Whichever one it is, it chose you rather than the reverse, and it is worth asking what it wants.</p>
+      </div>
+
+      <!-- COURSE COMPLETE -->
+      <div class="sx-take" data-rv style="background:linear-gradient(180deg,#fefafc,#f6e9f1);">
+        <b class="h">Ten stories</b>
+        <ul>
+          <li><b>A young man rides out of a city</b> and sees three things everyone has already seen.</li>
+          <li><b>A father cannot think what to call his own son</b>, and a city says out loud that the son abandoned his wife.</li>
+          <li><b>A craftsman and a painter</b> deceive each other beautifully, and both walk out of their lives at dawn.</li>
+          <li><b>A husband wins a bet</b> about a cake, cleanly, by rules both parties agreed.</li>
+          <li><b>A mother weeps for one son</b> and can say exactly why.</li>
+          <li><b>A man pays a fortune</b> for fourteen paces and finds out that night what they were worth.</li>
+          <li><b>A turtle, a woman, an enemy and some moths</b> are pulled out of a flood, and only one of them matters.</li>
+          <li><b>A lion floats out of a well</b>, and another lion loses an eye.</li>
+          <li><b>A bell on a door</b> rings for years and then, once, in the wrong place entirely.</li>
+          <li><b>An old man lies down between two trees</b>, loses an argument, and lets one more stranger in.</li>
+        </ul>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Where to go from here</div>
+        <h3>The door is the first room, not the house.</h3>
+        <p>Everything in this course has been story. If you want to know what the man in them actually taught, the Academy's next course is built for exactly the person who has just finished this one — <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}" style="color:var(--plum);font-weight:600;">Read a Whole Sūtra</a> hands you eight short scriptures and asks you to read each one from the first line to the last. Its fifth session is this same night, told by a different text, in the Buddha's own words rather than a poet's. And the whole <a href="{{ '/courses/' | relative_url }}" style="color:var(--plum);font-weight:600;">five-layer path</a> is laid out if you want to see what comes after that.</p>
+      </div>
+
+      <p style="margin:-8px 0 0;" data-rv><a class="sx-btn primary" href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Begin Read a Whole Sūtra →</a></p>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-9/' | relative_url }}">← Session 9</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
