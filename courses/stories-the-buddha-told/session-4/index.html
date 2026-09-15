@@ -1,0 +1,394 @@
+---
+layout: default
+title: "Session 4 · The wager (Stories the Buddha Told)"
+permalink: /courses/stories-the-buddha-told/session-4/
+excerpt: Session 4 of Stories the Buddha Told — a husband, a wife, one leftover cake, a bet about silence, and a burglar who walks straight in.
+---
+
+<style>
+  .sx{--plum:#7d4468;--plum-mid:#552b48;--plum-deep:#241026;--gold:#e0ae63;--gold-deep:#a97a2c;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf4ee;--ink:#2a1f26;--ink-soft:#6f6069;--line:#ecdfe6;}
+  .sx *{box-sizing:border-box;}
+  .sx-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sx [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sx [data-rv].in{opacity:1;transform:none;}
+
+  .sx-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sx-crumb .sx-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sx-crumb a{color:var(--plum);text-decoration:none;}
+  .sx-crumb a:hover{text-decoration:underline;}
+
+  .sx-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,174,99,.24),transparent 62%),
+    linear-gradient(158deg,#7d4468 0%,#552b48 46%,#241026 100%);color:#fff;}
+  .sx-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sx-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sx-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sx-hero .subt{font-style:italic;font-size:18px;color:#f3e4ee;}
+  .sx-hero .rd{margin-top:24px;font-size:14px;color:#e6d4de;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sx-hero .rd b{color:var(--gold);}
+
+  .sx-body{background:#fff;padding:44px 0 24px;}
+  .sx-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sx-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sx-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--plum);}
+  .sx-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sx-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sx-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--plum);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sx-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fefafc,#fbf0f6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sx-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sx-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--plum-deep);margin:0 0 12px;}
+  .sx-scr p:last-of-type{margin-bottom:0;}
+  .sx-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#96708a;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #eddbe5;line-height:1.85;}
+  .sx-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--plum);text-decoration:none;border-bottom:1px solid rgba(125,68,104,.35);}
+  .sx-scr a.bk:hover{border-bottom-color:var(--plum);}
+
+  .sx-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sx-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sx-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sx-terms span b{color:var(--plum);}
+
+  .sx-take{background:linear-gradient(180deg,#fefafc,#f8ecf3);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sx-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--plum);margin-bottom:8px;}
+  .sx-take ul{margin:0;padding-left:20px;}
+  .sx-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sx-take li b{color:var(--gold-deep);}
+
+  .sx-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sx-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sx-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sx-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sx-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sx-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sx-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sx-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .sx-textcard.alt{background:linear-gradient(158deg,#6b6f3a 0%,#4e5229 45%,#2c2f13 100%);box-shadow:0 26px 50px -28px rgba(44,47,19,.6);}
+  .sx-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sx-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sx-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sx-prac p:last-child{margin-bottom:0;}
+  .sx-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sx-quiz{background:#fefafc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sx-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sx-quiz .q:first-of-type{padding-top:2px;}
+  .sx-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sx-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--plum);text-transform:uppercase;margin-bottom:6px;}
+  .sx-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sx-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sx-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--plum);}
+  .sx-quiz .opt:hover:not(:disabled){background:#fbf0f6;border-color:var(--plum);}
+  .sx-quiz .opt:disabled{cursor:default;}
+  .sx-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sx-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sx-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sx-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sx-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sx-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sx-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sx-quiz .expl.show{display:block;}
+  .sx-quiz .expl strong{color:var(--ink);}
+  .sx-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sx-score strong{color:var(--plum);font-size:17px;}
+
+  .sx-reflect{background:linear-gradient(158deg,#7d4468 0%,#552b48 48%,#241026 100%);color:#f0e3ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sx-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sx-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sx-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#dcc7d4;line-height:1.7;margin-top:14px;}
+
+  .sx-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sx-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sx-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sx-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sx-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sx-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sx-btn.primary{background:linear-gradient(158deg,#7d4468,#3f1d33);color:#fff;box-shadow:0 12px 26px -14px rgba(63,29,51,.85);}
+  .sx-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(63,29,51,.95);text-decoration:none;}
+  .sx-btn.ghost{border:1.5px solid var(--plum);color:var(--plum);background:transparent;}
+  .sx-btn.ghost:hover{background:var(--plum);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sx .sx-crumb,.sx-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sx [data-rv]{opacity:1 !important;transform:none !important;}
+    .sx-hero{background:none;color:#000;padding:0;}
+    .sx-hero-in{padding:0 0 12px;}
+    .sx-eyebrow,.sx-hero .subt,.sx-hero .rd{color:#444;}
+    .sx-hero h1{color:#000;}
+    .sx-body{padding:0;}
+    .sx-body p,.sx-body h3,.sx-part h2,.sx-take li,.sx-prac p{color:#000;}
+    .sx-scr,.sx-take,.sx-prac,.sx-quiz,.sx-next{background:#fff !important;border:1px solid #bbb;}
+    .sx-scr p{color:#000;}
+    .sx-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-reflect p,.sx-reflect .l,.sx-reflect p.sm{color:#000;}
+    .sx-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sx-textcard h3,.sx-textcard p,.sx-textcard .go,.sx-textcard .trad{color:#000;}
+    .sx{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sx">
+
+  <nav class="sx-crumb"><div class="sx-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Stories the Buddha Told</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="sx-hero">
+    <div class="sx-hero-in">
+      <div class="sx-eyebrow">Session 4 · The stories he told</div>
+      <h1>The wager</h1>
+      <div class="subt">Three cakes, one bet, and a burglar who cannot believe his luck</div>
+      <div class="rd">
+        <span><b>Reading time</b> under two minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>Where it is from</b> Story 14, Fascicle 44</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sx-body">
+    <div class="sx-wrap">
+
+      <!-- PART 1 -->
+      <div class="sx-part" data-rv><div class="pn">Part 1</div><h2>A question, before any of this</h2></div>
+
+      <p data-rv><strong>What would you give up in order to be right?</strong></p>
+
+      <p data-rv>Not in principle. In practice, in your actual kitchen, with a specific person. Most people answer that question as though the stakes were dignity or truth. This week's story suggests the honest answer is usually smaller, more absurd, and considerably more expensive.</p>
+
+      <p data-rv>It is the shortest thing in this course — four sentences — and it is roughly two thousand years old. People were still retelling it a thousand years later in China, and it turns up in versions across Asia and Europe, which is what happens to a story that keeps being true.</p>
+
+      <div class="sx-pull" data-rv>Last week two men saw what they were doing and walked out of their lives. These two do not see anything at all.</div>
+
+      <p data-rv>That contrast is deliberate on my part, and worth holding all week. Session 3's craftsman and painter both had a moment of appalling clarity at dawn. The couple in this story get a moment of comparable clarity handed to them in the middle of the night, and it goes straight past them.</p>
+
+      <!-- PART 2 -->
+      <div class="sx-part" data-rv><div class="pn">Part 2</div><h2>The story<span class="rf">Under two minutes — read it before anything below</span></h2></div>
+      <p data-rv>Same volume as last week — Fascicle 44, "Ordinary Men." You want <strong>number 14</strong>.</p>
+
+      <a class="sx-textcard" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}" data-rv>
+        <div class="trad">Jīng Lǜ Yì Xiàng · Fascicle 44 · Ordinary Men</div>
+        <h3>14. A Husband and Wife Wager Not to Speak First</h3>
+        <p>"…and he says nothing while a thief takes their goods."</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. It will take you less time than reading this sentence took to write.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sx-part" data-rv><div class="pn">Part 3</div><h2>Three moments<span class="rf">Places worth stopping — in a story with about four of them</span></h2></div>
+
+      <h3 data-rv>1 · Count the cakes</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The opening line</div>
+        <p>"Long ago there were a husband and wife who ate three cakes together, <strong>one each</strong>, and there was one left over that they meant to break and divide. The wife said: do not divide it; I shall wager with you. Let neither of us speak; <strong>whoever speaks first loses and whoever speaks last gets it.</strong>"</p>
+        <div class="zh">昔有夫婦。共食三䴵。人各一枚。餘一欲破分。婦言。莫分。與君共賭。各自不語。先語者失。後語者得。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Three cakes. They have <em>already eaten one each</em>. The story establishes this in eight characters and it is doing something precise: <strong>nobody in this house is hungry.</strong> The thing being fought over is not food. It is the surplus.</p>
+
+      <p data-rv>Notice too that the argument never actually happens. There is no quarrel over the last cake. There is a reasonable plan — break it and divide it — and then the wife proposes something else instead. A game. With rules, a win condition, and a prize.</p>
+
+      <p data-rv>This is worth sitting with, because it is how most domestic conflict actually begins. Not with anger. With a <em>structure</em> — a silent framework that turns a small shared thing into something one of you can win.</p>
+
+      <h3 data-rv>2 · What it looks like from outside</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The middle of the night</div>
+        <p>"So they shut their mouths; and in the middle of the night a burglar came in and saw the two of them sitting and not speaking, and, <strong>supposing this was some great terror, dared not make a sound</strong>; and he gathered up their goods and carried them out of the door."</p>
+        <div class="zh">於是閉口至于中夜。竇土偷入。見其二人坐而不語。謂是大怖不敢作聲。收斂其物擔將出戶。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>This is the best line in the story and the one almost nobody quotes. A thief walks into a house at night and finds a married couple sitting bolt upright in silence, staring at nothing, in the dark. And he is <strong>frightened.</strong> 謂是大怖 — he takes it for some great terror, something too strange to risk, and he does not dare make a sound.</p>
+
+      <p data-rv>So he robs them very, very quietly.</p>
+
+      <p data-rv>Hold the two views side by side. From inside, this is a game with a cake at the end of it. From outside, it is a household so rigid and so wordless that a professional criminal treads carefully around it. <strong>Nobody looking at a silent family from the doorway has any idea what it is about, and the people inside have no idea what it looks like.</strong> The burglar is the only person in the story who is behaving sensibly, and he is the burglar.</p>
+
+      <h3 data-rv>3 · He is not wrong</h3>
+      <div class="sx-scr" data-rv>
+        <div class="src">The end, entire</div>
+        <p>"The wife cried out: <strong>you are a man — how can you let the goods go?</strong> Her husband said: <strong>I win, I win — now I get the big cake.</strong> And people blamed and laughed at them and called them great fools."</p>
+        <div class="zh">婦大喚曰。汝是丈夫那置物去。夫言。我勝我勝。今得大䴵。眾人責笑謂大顛癡。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-044/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Here is the thing that makes this a great story rather than merely a funny one. <strong>The husband is correct.</strong></p>
+
+      <p data-rv>Go back to the terms: whoever speaks first loses; whoever speaks last gets it. The wife spoke first. He spoke second. Everything he says is accurate, the rules were agreed by both parties, and he has won cleanly. There is no cheating here and no misunderstanding. He has simply been right, all the way down, into total loss.</p>
+
+      <p data-rv>And notice what his wife says when she finally breaks. Not "the burglar!" — she says <em>you are a man, how can you let the goods go?</em> She loses the game, in the same breath, by attacking him rather than the thief. Even her surrender is a move.</p>
+
+      <p data-rv>Then the final clause, which is the story's whole verdict: <em>people blamed and laughed at them and called them great fools.</em> That is it. That is the ending.</p>
+
+      <div class="sx-take" data-rv>
+        <b class="h">What this story refuses to do</b>
+        <ul>
+          <li><b>Nobody learns anything.</b> Last week's two men saw themselves clearly and changed their lives. This couple is handed a night of perfect clarity — a stranger walked out with everything they own while they watched — and it lands on neither of them.</li>
+          <li><b>There is no moral attached.</b> The story does not tell you what to do instead. It simply reports the laughter of the neighbours and stops.</li>
+          <li><b>It does not make them villains.</b> They are not cruel, or greedy, or unfaithful. They are a normal couple who were offered a game and could not decline it. That is the only thing wrong with them, and it costs them the house.</li>
+        </ul>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="sx-part" data-rv><div class="pn">Part 4</div><h2>One thing to try<span class="rf">This week · two minutes · a piece of paper</span></h2></div>
+
+      <div class="sx-prac" data-rv>
+        <b class="h">Name the cake</b>
+        <p>There is very likely an argument running in your life right now — the slow kind, weeks or years old, that does not need to be restarted because it never quite stopped.</p>
+        <div class="how">
+          <b>Write down what the prize actually is.</b> Not the principle. Not "respect" or "being heard" or "fairness" — those are the names people give the game while they are inside it. The <em>object</em>. Who loads the dishwasher. Whose account the money sits in. Which of you says it first. Who was right about the thing in 2019.<br><br>
+          <b>Then write down the terms.</b> How does someone win? What would the other person have to do for it to be over? If you cannot state the win condition in one sentence, that is worth knowing — the couple in this story could state theirs exactly, which is the only reason the husband could be so completely right.<br><br>
+          <b>You are not being asked to concede anything.</b> Just to write down, in daylight, what is on the table. Most people find the cake is a good deal smaller once it has a name.
+        </div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sx-part" data-rv><div class="pn">Part 5</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sx-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What is actually at stake in the wager?</div>
+          <button class="opt"><span class="ltr">A</span>The last of the food in a house where there is nothing else to eat</button>
+          <button class="opt"><span class="ltr">B</span>One leftover cake — they had already eaten one each, so nobody in the house is hungry</button>
+          <button class="opt"><span class="ltr">C</span>The household money, which the wife keeps</button>
+          <button class="opt"><span class="ltr">D</span>Which of them will answer the door to the neighbours</button>
+          <div class="expl"><strong>Correct: B.</strong> Three cakes, one each, one left over. The story establishes this in eight characters and it matters: the fight is not about food, it is about the surplus. And note that the argument never happens — there is a perfectly reasonable plan (break it and divide it), and then a game is proposed instead.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Who proposes the wager, and what does that tell you about how the trouble starts?</div>
+          <button class="opt"><span class="ltr">A</span>The husband, in anger, after a quarrel about the cake</button>
+          <button class="opt"><span class="ltr">B</span>Both of them at once, as a joke that got out of hand</button>
+          <button class="opt"><span class="ltr">C</span>The wife — and it starts not with anger but with a structure: rules, a win condition, and a prize</button>
+          <button class="opt"><span class="ltr">D</span>A neighbour, who suggested it to settle their dispute</button>
+          <div class="expl"><strong>Correct: C.</strong> "Do not divide it; I shall wager with you." Nobody is shouting. What turns a small shared thing into a contest is not temper — it is a framework that makes it winnable. That is how most domestic conflict actually begins.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">A burglar walks into the house at night and finds the couple sitting in silence. What does he do?</div>
+          <button class="opt"><span class="ltr">A</span>He is frightened — taking their silence for some great terror, he does not dare make a sound, and robs the house very quietly</button>
+          <button class="opt"><span class="ltr">B</span>He mocks them and takes the goods openly</button>
+          <button class="opt"><span class="ltr">C</span>He flees empty-handed</button>
+          <button class="opt"><span class="ltr">D</span>He wakes them, not realising they are awake</button>
+          <div class="expl"><strong>Correct: A.</strong> 謂是大怖 — the best line in the story. From inside, this is a game with a cake at the end of it; from the doorway, it is a household so rigid that a professional criminal treads carefully around it. The burglar is the only person in the story behaving sensibly, and he is the burglar.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">The husband says "I win, I win — now I get the big cake." Is he right?</div>
+          <button class="opt"><span class="ltr">A</span>No — the wager was void once a crime was committed in the house</button>
+          <button class="opt"><span class="ltr">B</span>No — he spoke first, and misremembers the terms</button>
+          <button class="opt"><span class="ltr">C</span>The story does not say; it leaves the question open</button>
+          <button class="opt"><span class="ltr">D</span>Yes, completely — the terms were "whoever speaks first loses," his wife spoke first, and he has won cleanly by rules both of them agreed</button>
+          <div class="expl"><strong>Correct: D.</strong> This is what makes it a great story rather than merely a funny one. There is no cheating and no misunderstanding anywhere in it. He has simply been right, all the way down, into total loss. And note his wife's own last line — she does not cry "the burglar," she says <em>you are a man, how can you let the goods go?</em> Even her surrender is a move.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">How does the story end — and how does that differ from last week's?</div>
+          <button class="opt"><span class="ltr">A</span>The couple reconcile and divide the cake after all</button>
+          <button class="opt"><span class="ltr">B</span>The neighbours blame and laugh at them and call them great fools — and that is the whole ending; neither of them learns anything</button>
+          <button class="opt"><span class="ltr">C</span>They renounce the household life, as the craftsman and painter did</button>
+          <button class="opt"><span class="ltr">D</span>The burglar is caught and the goods returned</button>
+          <div class="expl"><strong>Correct: B.</strong> 眾人責笑謂大顛癡. No moral is attached and nobody is transformed. Last week's two men were handed a moment of clarity and took it; this couple are handed one — a stranger walked out with everything they own while they watched — and it lands on neither of them. The anthology puts both kinds of ending in the same volume, on purpose.</div>
+        </div>
+
+        <div class="sx-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sx-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="sx-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>What is the cake?</p>
+        <p class="sm">Somewhere in your life a rule is being enforced that nobody wrote down, over an object smaller than the effort of enforcing it. The husband in this story was not stupid about the rules — he understood them perfectly, which is exactly how he lost everything in the house. Being right about the terms and being wrong about the game are two completely different things, and only one of them is visible from inside.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sx-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · The mother who wept for the wrong son</h3>
+        <p>Two more sentences, and the hardest story in this course. A woman loses both of her sons in the same water, and grieves for only one of them. Her reason, when somebody asks, is perfectly coherent — and once you have heard it you will start noticing it everywhere.</p>
+      </div>
+
+      <div class="sx-foot">
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/session-3/' | relative_url }}">← Session 3</a>
+        <a class="sx-btn ghost" href="{{ '/courses/stories-the-buddha-told/' | relative_url }}">Course overview</a>
+        <button type="button" class="sx-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sx');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
