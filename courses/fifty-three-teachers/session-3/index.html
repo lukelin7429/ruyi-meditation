@@ -1,0 +1,436 @@
+---
+layout: default
+title: "Session 3 · Fire and swords (Fifty-Three Teachers)"
+permalink: /courses/fifty-three-teachers/session-3/
+excerpt: Session 3 of Fifty-Three Teachers — an ascetic tells Sudhana to climb a mountain of knives and jump into a fire, the boy decides his teacher is a demon, and Fazang says the doubt was correct.
+---
+
+<style>
+  .ft{--moss:#6f7d3f;--moss-mid:#4a5528;--moss-deep:#1d2310;--gold:#dfc271;--gold-deep:#8d7422;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6ec;--ink:#232617;--ink-soft:#63684f;--line:#e2e5d4;}
+  .ft *{box-sizing:border-box;}
+  .ft-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .ft [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ft [data-rv].in{opacity:1;transform:none;}
+
+  .ft-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ft-crumb .ft-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ft-crumb a{color:var(--moss);text-decoration:none;}
+  .ft-crumb a:hover{text-decoration:underline;}
+
+  .ft-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,194,113,.22),transparent 62%),
+    linear-gradient(158deg,#6f7d3f 0%,#4a5528 46%,#1d2310 100%);color:#fff;}
+  .ft-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ft-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ft-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ft-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .ft-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .ft-hero .rd b{color:var(--gold);}
+
+  .ft-body{background:#fff;padding:44px 0 24px;}
+  .ft-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ft-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ft-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--moss);}
+  .ft-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ft-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ft-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--moss);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .ft-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fcfcf6,#f2f5e6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .ft-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .ft-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--moss-deep);margin:0 0 12px;}
+  .ft-scr p:last-of-type{margin-bottom:0;}
+  .ft-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .ft-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--moss);text-decoration:none;border-bottom:1px solid rgba(111,125,63,.4);}
+  .ft-scr a.bk:hover{border-bottom-color:var(--moss);}
+
+  .ft-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .ft-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .ft-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .ft-terms span b{color:var(--moss);}
+
+  .ft-take{background:linear-gradient(180deg,#fcfcf6,#eef2df);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ft-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--moss);margin-bottom:8px;}
+  .ft-take ul{margin:0;padding-left:20px;}
+  .ft-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .ft-take li b{color:var(--gold-deep);}
+
+  .ft-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .ft-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .ft-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .ft-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .ft-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .ft-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .ft-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .ft-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .ft-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;
+    box-shadow:0 24px 48px -30px rgba(29,35,16,.8);overflow:hidden;}
+  .ft-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#c2caa4;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(223,194,113,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .ft-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .ft-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);}
+  .ft-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .ft-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .ft-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--moss);
+    background:#eef2df;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .ft-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .ft-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ft-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .ft-prac p:last-child{margin-bottom:0;}
+  .ft-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .ft-quiz{background:#fcfcf6;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .ft-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .ft-quiz .q:first-of-type{padding-top:2px;}
+  .ft-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .ft-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--moss);text-transform:uppercase;margin-bottom:6px;}
+  .ft-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .ft-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .ft-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--moss);}
+  .ft-quiz .opt:hover:not(:disabled){background:#f1f5e4;border-color:var(--moss);}
+  .ft-quiz .opt:disabled{cursor:default;}
+  .ft-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .ft-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .ft-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .ft-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .ft-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .ft-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .ft-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .ft-quiz .expl.show{display:block;}
+  .ft-quiz .expl strong{color:var(--ink);}
+  .ft-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .ft-score strong{color:var(--moss);font-size:17px;}
+
+  .ft-reflect{background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .ft-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c2caa4;line-height:1.7;margin-top:14px;}
+
+  .ft-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .ft-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .ft-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .ft-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .ft-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ft-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ft-btn.primary{background:linear-gradient(158deg,#6f7d3f,#35401c);color:#fff;box-shadow:0 12px 26px -14px rgba(53,64,28,.85);}
+  .ft-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(53,64,28,.95);text-decoration:none;}
+  .ft-btn.ghost{border:1.5px solid var(--moss);color:var(--moss);background:transparent;}
+  .ft-btn.ghost:hover{background:var(--moss);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ft .ft-crumb,.ft-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .ft [data-rv]{opacity:1 !important;transform:none !important;}
+    .ft-hero{background:none;color:#000;padding:0;}
+    .ft-hero-in{padding:0 0 12px;}
+    .ft-eyebrow,.ft-hero .subt,.ft-hero .rd{color:#444;}
+    .ft-hero h1{color:#000;}
+    .ft-body{padding:0;}
+    .ft-body p,.ft-body h3,.ft-part h2,.ft-take li,.ft-prac p{color:#000;}
+    .ft-scr,.ft-take,.ft-prac,.ft-quiz,.ft-next{background:#fff !important;border:1px solid #bbb;}
+    .ft-scr p{color:#000;}
+    .ft-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-reflect p,.ft-reflect .l,.ft-reflect p.sm{color:#000;}
+    .ft-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-textcard h3,.ft-textcard p,.ft-textcard .go,.ft-textcard .trad{color:#000;}
+    .ft{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ft">
+
+  <nav class="ft-crumb"><div class="ft-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/fifty-three-teachers/' | relative_url }}">Fifty-Three Teachers</a> → Session 3</div></nav>
+
+  <!-- HERO -->
+  <section class="ft-hero">
+    <div class="ft-hero-in">
+      <div class="ft-eyebrow">Session 3 · The Ten Abodes · Teacher 9 of 53</div>
+      <h1>Fire and swords</h1>
+      <div class="subt">The episode where the boy refuses — and the commentary says he was right to</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty-five minutes</span>
+        <span><b>Before class</b> Sessions 1 and 2</span>
+        <span><b>The text</b> Parts 28 and 29 of 454</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="ft-body">
+    <div class="ft-wrap">
+
+      <!-- PART 1 -->
+      <div class="ft-part" data-rv><div class="pn">Part 1</div><h2>Who you'll meet<span class="rf">A brahmin standing in fire, and the first teacher Sudhana refuses</span></h2></div>
+
+      <div class="ft-who" data-rv>
+        <span class="n">Teacher 9 of 53</span>
+        <span class="nm">Skillful Life 方便命</span>
+        <span class="rl">a brahmin ascetic, in the land called Seeking Advancement</span>
+        <span class="st">Parts 28–29 of 454</span>
+      </div>
+
+      <p data-rv>This is the episode people leave out.</p>
+
+      <p data-rv>Sudhana arrives in a land called Seeking Advancement and finds a brahmin performing the austerity of the five fires: fire on all four sides like a great mountain, and within it a mountain of knives "towering to no limit". The man is standing on top of the knives, about to throw himself down into the flames. Sudhana bows, and asks his usual question.</p>
+
+      <p data-rv>The answer is an instruction. Climb the knives. Jump into the fire. Then every bodhisattva practice will be entirely pure.</p>
+
+      <div class="ft-pull" data-rv>And Sudhana — who has bowed at the feet of every teacher so far without a word of hesitation — thinks: <em>this man is a demon.</em></div>
+
+      <p data-rv>What makes this session worth a place in a course of thirteen is not the ordeal. It is what the text does with the refusal. The doubt is set down in full, in the boy's own words, with nothing softened. Then a cosmos of witnesses arrives to testify. Then Sudhana repents, leaps, and finds that neither the blades nor the fire do what blades and fire do. And then Fazang, three centuries later, writes a note saying that the doubt was <strong>the correct response</strong>, and that without it there would have been no way to tell a true teacher from a false one.</p>
+
+      <div class="ft-take" data-rv>
+        <b class="h">Before you read: what this session is not</b>
+        <ul>
+          <li><b>It is not an instruction.</b> Nothing in this course asks you to harm yourself, and nothing in this episode transfers to a real room with a real teacher in it. In life, a teacher who tells you to injure yourself has told you everything you need to know, and the answer is to leave. This session is about reading a text, not about obeying anyone.</li>
+          <li><b>It is not a story about blind faith.</b> Sudhana does not jump on command. He refuses, he is given independent corroboration from a very large number of witnesses, and only then does he act. The sequence matters and the text is careful about it.</li>
+          <li><b>五熱炙身</b> — "scorching his body with the five fires": a well-known brahminical austerity, fires on four sides and the sun overhead. The sūtra has picked a practice from outside its own tradition, and then made it the teaching.</li>
+          <li><b>相 (appearance)</b> — the outward form a thing takes. Fazang's whole analysis turns on this word: what has gone wrong here is not the teacher but the <em>appearance</em>, and appearance is exactly what doubt is for.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ft-part" data-rv><div class="pn">Part 2</div><h2>The episode<span class="rf">Two parts — read them in order, and do not skip the chorus</span></h2></div>
+
+      <p data-rv>Part 28 runs from the arrival to the doubt and then into the testimony; Part 29 finishes the testimony, then gives the repentance, the verse and the leap. The testimony section is long and repetitive — deliberately so. Read enough of it to feel the length, because the length is the argument: this is what it takes to move the boy.</p>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-28/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 28 of 454 · Fascicle 47</div>
+        <h3>A Mountain of Knives, a Mass of Fire</h3>
+        <p>The instruction, the doubt in full — and then Brahmās, māras, devas, nāgas and yakṣas in the open sky, each giving evidence of what this man's austerity did to them.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-29/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 29 of 454 · Fascicle 47</div>
+        <h3>The Last Testimony, and Repentance</h3>
+        <p>Gandharvas, asuras, garuḍas and kiṃnaras finish the chorus; Sudhana asks to be forgiven for doubting; the brahmin answers in verse; and then the boy climbs.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="ft-part" data-rv><div class="pn">Part 3</div><h2>Three moments, read closely</h2></div>
+
+      <p data-rv><strong>1. The instruction, and the sentence Sudhana says to himself.</strong></p>
+
+      <p data-rv>The teaching is eleven words in Chinese and it is entirely unambiguous.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 28 · the brahmin's instruction, and Sudhana's thought</div>
+        <p>"Good son, if you are now able to climb this mountain of knives and throw yourself into this mass of fire, every bodhisattva practice will become entirely pure."</p>
+        <p>"Could this not be some māra, or someone possessed by māra? Could this not be one who is not truly a good spiritual friend, yet manifests the appearance of one — could this not be some evil bodhisattva? And now he makes for me a difficulty of my very life, a difficulty for my roots of goodness, a difficulty for omniscience itself — this is surely not the true teaching, but some perilous, evil path."</p>
+        <div class="zh">善男子！汝今若能登此刀山，投火聚者，菩薩諸行皆悉清淨。……此將非魔魔所使耶？非善知識而現善知識相，將非惡菩薩耶？而今為我作壽命難、作善根難、薩婆若難，此非正教險惡道耳。</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-28/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Read the doubt closely and notice how good it is. Sudhana does not merely recoil; he reasons. A human birth is hard to get, he thinks, and freedom from the difficult conditions is harder, and meeting a buddha's era harder still, and meeting a good spiritual friend hardest of all — and this man is asking me to throw the whole sequence away. The objection is not squeamishness. It is an argument from the value of the very opportunity the pilgrimage depends on.</p>
+
+      <p data-rv>And then the decisive move: <strong>非善知識而現善知識相</strong> — "one who is not truly a good spiritual friend, yet manifests the <em>appearance</em> of one." Sudhana has correctly identified the only thing he can actually check, and found it unreliable.</p>
+
+      <p data-rv><strong>2. Fazang: he was right to doubt, and the text needs him to.</strong></p>
+
+      <p data-rv>The commentary does not treat this as a lapse to be excused. It asks the obvious question and answers it in the boy's favour.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 28 · Fazang's reading note</div>
+        <p>"Sudhana is already a great being — why does he doubt at all? Because the outward appearance reverses the ordinary path, doubt is, in principle, the appropriate response. Were this not so, there would be no way to distinguish the false from the true."</p>
+        <div class="zh">善財是大人，何故疑者？以相是反道，理須疑也。若不爾者，無以甄別邪正</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-28/' | relative_url }}">Read this note in full →</a>
+      </div>
+
+      <p data-rv>The chorus in the sky exists for the mirror-image reason — 顯示實德故, "to make his real virtue manifest," since "without this, there would likewise be no way to discern the true from the false." Doubt and evidence are a matched pair. The episode is not asking Sudhana to stop checking; it is showing him what checking looks like when the thing in front of you does not fit any category you have.</p>
+
+      <p data-rv>Fazang then goes further, and this is the part worth slowing down for. He identifies three places in the whole pilgrimage where a teacher's appearance matches one of the three poisons directly — <strong>this ascetic resembling wrong view, a king still to come resembling wrath, and a courtesan still to come resembling craving</strong>. All three are in this course, as Sessions 3, 6 and 9. He then sets out four different ways affliction can be said to relate to the Buddha-dharma, and rules out the first three here: it is not that the affliction is empty and the emptiness is the Dharma; not that affliction is a hook used as skillful means; not that a bodhisattva deliberately keeps a trace of it. The fourth is different in kind — 當相則是, "taken directly, just as it appears, it simply <em>is</em>" — and Fazang says plainly that this is the one that applies, that it is 極難解, extremely difficult to understand, and that this passage is what it looks like.</p>
+
+      <p data-rv>Which is to say: the fire is not a symbol of something gentler. There is no decoding that makes the knives go away.</p>
+
+      <p data-rv><strong>3. The repentance, the verse, and what the fire actually did.</strong></p>
+
+      <p data-rv>After the last witness has spoken, Sudhana goes back to the brahmin's feet: "Just now I doubted your sacred teaching, going against the teaching of a spiritual friend — I ask only that you, great sage, accept my repentance." The brahmin answers in verse, and the verse says: <em>"Whoever seeks awakening should accord with the teaching of a spiritual friend, extinguishing every doubt, single-mindedly and constantly reverent."</em> Hold that sentence next to Fazang's note from ten minutes ago and notice that they do not agree. We will come back to it.</p>
+
+      <p data-rv>Then he climbs.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 29 · the leap</div>
+        <p>"At that time Sudhana the Boy then climbed the mountain of knives and threw himself into the mass of fire; before he had even reached its midst, he already attained the bodhisattva's own Samādhi of Abiding in Peace; and, having reached the very flame itself, he further attained the bodhisattva's own Samādhi of Tranquil, Peaceful, Illumining Bliss. Having attained this samādhi, he said: 'How extraordinary, great sage! This mountain of knives and this great mass of fire — when my body touched them, I felt only peace and bliss.'"</p>
+        <div class="zh">爾時，善財童子即登刀山，自投火聚，未至中間，即得菩薩安住三昧；既至火焰，復得菩薩寂靜安樂照明三昧。得三昧已，白言：「甚奇。大聖！如是刀山及大火聚，我身觸時，安隱快樂。」</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-29/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Fazang's reading of the timing is exact, and it is not decorative. The first samādhi comes <em>before</em> the fire, on the knives — because "the knife should sever, and this reverses it, and so he abides in peace." The second comes at the flame itself, where "tranquility is the very principle realized; bliss is the wisdom that realizes it; illumination is realization and wisdom perfectly matched." Two reversals, in order, each matched to the instrument that was supposed to destroy him.</p>
+
+      <p data-rv>And Sudhana's closing line, Fazang notes, is 後得智 — subsequently attained wisdom. It is testimony from someone who has already crossed through, not a claim made in advance. Nobody could have told him. That is the whole shape of the episode.</p>
+
+      <!-- PART 4 -->
+      <div class="ft-part" data-rv><div class="pn">Part 4</div><h2>One practice, for this week</h2></div>
+
+      <div class="ft-prac" data-rv>
+        <b class="h">Separate the content from the packaging — once, in writing</b>
+        <p>Pick one thing you have rejected without examining: a tradition, a practice, a book, a political position, a person's whole way of doing things. Something you decided about quickly.</p>
+        <p>Write two short lists. <strong>What I actually object to in the content.</strong> And: <strong>what I object to in the 相 — the appearance, the register, the clothes, the vocabulary, who else likes it.</strong> Be honest about which list is longer.</p>
+        <div class="how">This is not an exercise in talking yourself out of your objections. Fazang's point cuts both ways: appearance is unreliable evidence, which means a repellent appearance is weak grounds for rejection <em>and</em> an attractive one is weak grounds for trust. If the content list stands up on its own, your objection survives, better founded than before. If there is nothing on it, you have learned something.</div>
+      </div>
+
+      <p data-rv>Sudhana does not resolve his doubt by deciding to trust harder. He resolves it with evidence, from a very large number of independent sources, about what this man's practice had actually done. That is a reasonable standard, and it is available to you.</p>
+
+      <!-- PART 5 -->
+      <div class="ft-part" data-rv><div class="pn">Part 5</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="ft-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does the brahmin tell Sudhana to do when asked how a bodhisattva cultivates the path?</div>
+          <button class="opt"><span class="ltr">A</span>To take up the austerity of the five fires himself, for twelve years</button>
+          <button class="opt"><span class="ltr">B</span>To turn back north and ask Mañjuśrī instead</button>
+          <button class="opt"><span class="ltr">C</span>To watch the ordeal from a safe distance and describe what he sees</button>
+          <button class="opt"><span class="ltr">D</span>To climb the mountain of knives and throw himself into the mass of fire, upon which every bodhisattva practice will become entirely pure</button>
+          <div class="expl"><strong>Correct: D.</strong> 汝今若能登此刀山，投火聚者，菩薩諸行皆悉清淨. No metaphor is offered, no explanation is given, and the instruction is the entire answer to the question.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Sudhana's doubt turns on one specific thing he says he cannot rely on. What is it?</div>
+          <button class="opt"><span class="ltr">A</span>The brahmin's caste, since he is not a Buddhist monastic</button>
+          <button class="opt"><span class="ltr">B</span>The appearance — 非善知識而現善知識相, "one who is not truly a good spiritual friend, yet manifests the appearance of one"</button>
+          <button class="opt"><span class="ltr">C</span>The absence of any witnesses to confirm the teaching</button>
+          <button class="opt"><span class="ltr">D</span>The fact that Mañjuśrī had not named this teacher in advance</button>
+          <div class="expl"><strong>Correct: B.</strong> The doubt is well argued — a human birth is hard to obtain, a good friend harder still, and this man is asking him to throw all of it away. But its hinge is that appearance can be counterfeited, and appearance is all he has to go on.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">How does Fazang's reading note assess Sudhana's doubt?</div>
+          <button class="opt"><span class="ltr">A</span>As a failure of faith that the repentance is needed to repair</button>
+          <button class="opt"><span class="ltr">B</span>As a literary device with no doctrinal content</button>
+          <button class="opt"><span class="ltr">C</span>As the appropriate response, since the appearance reverses the ordinary path — and without doubt there would be no way to distinguish the false from the true</button>
+          <button class="opt"><span class="ltr">D</span>As proof that Sudhana had not yet truly raised the mind of awakening</button>
+          <div class="expl"><strong>Correct: C.</strong> 以相是反道，理須疑也。若不爾者，無以甄別邪正. And the chorus of witnesses exists for the matching reason in reverse — 顯示實德故, without which "there would likewise be no way to discern the true from the false." Doubt and evidence are a pair.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Fazang lists four ways affliction can relate to the Buddha-dharma, and says only the fourth applies here. What is the fourth?</div>
+          <button class="opt"><span class="ltr">A</span>當相則是 — taken directly, just as it appears, it simply is the Dharma; not a symbol of something else, and, he adds, extremely difficult to understand</button>
+          <button class="opt"><span class="ltr">B</span>That every affliction is empty by nature, and the emptiness is what counts as Dharma</button>
+          <button class="opt"><span class="ltr">C</span>That affliction is a hook, used as skillful means to draw beings toward liberation</button>
+          <button class="opt"><span class="ltr">D</span>That a bodhisattva deliberately retains a trace of affliction to moisten future rebirth</button>
+          <div class="expl"><strong>Correct: A.</strong> B, C and D are the first three, and Fazang rules out each of them for this passage. The fire is not standing in for something gentler — which is precisely why the episode is as hard to read as it is.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What happens when Sudhana finally climbs and jumps?</div>
+          <button class="opt"><span class="ltr">A</span>The knives and the fire vanish, revealing they were never there</button>
+          <button class="opt"><span class="ltr">B</span>He is burned, and the burning is the teaching</button>
+          <button class="opt"><span class="ltr">C</span>He attains one samādhi on the knives before reaching the fire, a second on reaching the flame, and reports feeling only peace and bliss where his body touched them</button>
+          <button class="opt"><span class="ltr">D</span>The brahmin catches him, having only been testing his resolve</button>
+          <div class="expl"><strong>Correct: C.</strong> 安隱快樂. Fazang matches each samādhi to its instrument — the knife that should sever is reversed first, then the fire that should burn — and notes that Sudhana's report is 後得智, testimony from someone already through, not a claim anyone could have made for him in advance.</div>
+        </div>
+
+        <div class="ft-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFERRAL -->
+      <div class="ft-refer" data-rv>
+        <div class="l">And then he was sent on</div>
+        <p>"Good son, to the south of here there is a city, named Lion's Vigor; there is a girl there, named Maitrāyaṇī. Go to her and ask how a bodhisattva learns the bodhisattva's own practice, cultivates the bodhisattva path."</p>
+        <div class="zh">善男子！於此南方，有城名師子奮迅；有一童女，名彌多羅尼。汝詣彼問云何菩薩學菩薩行、修菩薩道。</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="ft-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="ft-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>The commentary says the doubt was necessary. The brahmin's verse says extinguish every doubt and follow. Which one is this episode actually teaching?</p>
+        <p class="sm">Do not resolve it too quickly, and be suspicious of any reading that makes the tension disappear — including the comfortable one where Fazang is right and the verse is just devotional throat-clearing. Both are in the text, forty lines apart, and the pilgrimage is not embarrassed by either. One possibility worth testing: that the verse is addressed to a boy who has already checked, and means something quite different when said to someone who has not. Another: that the text really does want both, and that living with the contradiction is the actual skill being taught. You will meet the same problem twice more in this course, in Sessions 6 and 9, each time with the stakes moved somewhere new.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="ft-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 4 · The girl in the hall of mirrors</h3>
+        <p>After the hardest teacher on the road, the youngest. Maitrāyaṇī is a girl in a city called Lion's Vigor, and her teaching is a room: every pillar, every mirror, every bell and every strand of jewels in it holds a buddha's entire career, visible all at once. Nothing is demanded of Sudhana at all. He is simply asked to look.</p>
+      </div>
+
+      <div class="ft-foot">
+        <a class="ft-btn ghost" href="{{ '/courses/fifty-three-teachers/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ft-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.ft');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
