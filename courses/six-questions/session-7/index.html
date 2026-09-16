@@ -1,0 +1,433 @@
+---
+layout: default
+title: "Session 7 · How should I live? The precept (Six Questions)"
+permalink: /courses/six-questions/session-7/
+excerpt: Session 7 of Six Questions — virtue defined as non-scatteredness in a highly specified monastic life, against a precept opened to anyone who can understand the words.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 7</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 7 · 行 · What counts as living well</div>
+      <h1>How should I live? · The precept</h1>
+      <div class="subt">Virtue in seven questions, against filial devotion as the precept itself</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty minutes</span>
+        <span><b>Before class</b> Sessions 1–6</span>
+        <span><b>The texts</b> Visuddhimagga 1, and Brahmā Net Sūtra 7</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question</h2></div>
+
+      <p data-rv><strong>What counts as living well?</strong></p>
+
+      <p data-rv>This is where the two traditions become most obviously different, and the difference is not about strictness. Both sides are severe. It is about <em>where the door is.</em></p>
+
+      <p data-rv>The Visuddhimagga opens its entire treatise — before a word about meditation, before any of the chapters you have read in this course — with virtue, and spends a very long chapter on it, organised around seven questions. It is technical, it is exact, and it is almost entirely about the life of a monk.</p>
+
+      <p data-rv>The Brahmā Net Sūtra opens its bodhisattva precepts in the first minute of the Buddha's awakening, and the first thing it says is not a rule. It is a relationship. And then it names who may receive these precepts — a list that includes servants, the sexually disreputable, spirits, and an animal.</p>
+
+      <div class="sq-pull" data-rv>One tradition asks: what is virtue, exactly? The other asks: who is allowed in?</div>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side south">The Southern answer</span><br>Seven questions, and a very long answer</h2></div>
+
+      <p data-rv>Read the opening of Chapter 1 through to the end of the livelihood-purification section, which is where the chapter's character becomes unmistakable. The whole chapter is here if you want it, including the stories.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/sila-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 1 · Pāli, with Ru-Yi's translation</div>
+        <h3>Sīlaniddesa — The Description of Virtue</h3>
+        <p>What virtue is, in what sense, its characteristic and function and manifestation and proximate cause, its benefits, every classification scheme, its defilement and its cleansing.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2><span class="sq-side north">The Northern answer</span><br>The first thing said after awakening</h2></div>
+
+      <p data-rv>The Brahmā Net Sūtra is the classical source of the ten major and forty-eight minor bodhisattva precepts, and the passage you want is the one that frames them — the moment the precepts are opened, and the naming of who may receive them.</p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/brahma-net-sutra/chapter-07/' | relative_url }}" data-rv>
+        <div class="trad">Mahāyāna · 梵網經 Chapter 7 · Chinese, with Ru-Yi's translation</div>
+        <h3>The Brahmā Net Sūtra — the precepts opened</h3>
+        <p>Filial devotion named as the precept itself, light released from the Buddha's mouth, and the list of who may receive these vows.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>One honest note, in keeping with how this Academy has handled such things elsewhere. The site presents this text under its traditional attribution, as a surviving chapter of a vast lost original translated by Kumārajīva. Modern scholarship broadly regards it as composed in China in the fifth century rather than translated from an Indic original. Neither view changes what it has been for East Asian Buddhism, where it is the single source of the bodhisattva precepts actually taken — but you should know that the question exists.</em></p>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have read both sides. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts</h2></div>
+
+      <h3 data-rv>1 · What the word actually means, and it is not "being good"</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 1 · in what sense is it virtue?</div>
+        <p>"…it is virtue in the sense of <strong>'composing'</strong> (sīlana). What, then, is this 'composing'? Either it is <strong>a coordinating, meaning the non-scatteredness of bodily action and the rest</strong>, by way of their being well-disciplined; or it is <strong>a supporting, meaning the state of being a foundation</strong>, by way of grounding wholesome states."</p>
+        <p>"Purity is declared by the wise to be its manifestation; and <strong>shame and moral dread are said to be its proximate cause.</strong>"</p>
+        <div class="zh">Avasesesu kenaṭṭhena sīlanti sīlanaṭṭhena sīlaṃ. Kimidaṃ sīlanaṃ nāma. Samādhānaṃ vā, kāyakammādīnaṃ susīlyavasena avippakiṇṇatāti attho. Upadhāraṇaṃ vā, kusalānaṃ dhammānaṃ patiṭṭhānavasena ādhārabhāvoti attho.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/sila-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Two meanings, and neither of them is moral in the sense an English reader expects. <strong>Coordinating</strong> — <em>avippakiṇṇatā</em>, non-scatteredness. Virtue is what it is like when your actions are not flying in several directions. <strong>Supporting</strong> — being the floor other things stand on.</p>
+
+      <p data-rv>And notice the machinery Buddhaghosa uses to define it: characteristic, function, manifestation, proximate cause. That is the <em>same</em> fourfold Abhidhamma quartet you met in Session 2 applied to contact and to volition. <strong>Virtue is being defined here as a mental factor, exactly like any other</strong> — not as a code of rules. The rules are downstream.</p>
+
+      <p data-rv>Its proximate cause is worth sitting with too: <em>hirī</em> and <em>ottappa</em>, shame and moral dread. Not compassion, not aspiration, not love of the good. The thing virtue actually grows out of, on this account, is a functioning capacity for embarrassment.</p>
+
+      <h3 data-rv>2 · And then it becomes extremely, professionally specific</h3>
+
+      <p data-rv>Having defined virtue as a universal mental factor, the chapter's content narrows immediately and sharply. The restraint-of-the-faculties section produces one of the most quoted lines in the treatise — <em>"he does not grasp a sign that is the ground for defilement… <strong>he stops at the mere fact of having seen</strong>"</em> — illustrated by the Elder Mahātissa, who looked at a woman and saw only bones.</p>
+
+      <p data-rv>Then the purification of livelihood, which is where you find out who this chapter is for. It catalogues, with names, the specific ways a professional religious can make a dishonest living: <strong>deceit</strong> (including the ascetic who ostentatiously refuses gifts), <strong>insinuating talk</strong>, <strong>affected deportment</strong>, <strong>talking for gain</strong>, <strong>flattery</strong>, <strong>hinting</strong>, <strong>belittling</strong>, and <strong>pursuing gain with gain</strong>. Then four separate sections on the correct relationship to the robe, the almsfood, the lodging and the medicine.</p>
+
+      <p data-rv>None of this is available to a layperson, and none of it is meant to be. <strong>The Southern chapter answers "how should I live?" by describing, in enormous detail, one particular life.</strong></p>
+
+      <h3 data-rv>3 · The Northern door, and who is standing in it</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">梵網經 7 · the precepts are opened</div>
+        <p>"At that time, Śākyamuni Buddha, <strong>having just sat beneath the bodhi tree and attained unsurpassed awakening, first established the bodhisattva prātimokṣa: filial devotion to one's parents, teachers, monastics, and the Three Jewels. Filial devotion is itself the dharma of the highest path — this filial devotion is what is called precept</strong>, and is also called restraint."</p>
+        <div class="zh">爾時釋迦牟尼佛，初坐菩提樹下，成無上覺，初結菩薩波羅提木叉。孝順父母師僧三寶，孝順至道之法，孝名為戒，亦名制止。</div>
+        <a class="bk" href="{{ '/sutras/brahma-net-sutra/chapter-07/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>孝名為戒 — <em>filial devotion is called precept.</em> Four characters, and the placement is the argument: this is the first thing said, in the first minute, before a single rule is named.</p>
+
+      <p data-rv>The Southern chapter's proximate cause for virtue was shame. The Northern text's opening ground for it is <strong>an obligation to particular people</strong> — parents first, then teachers, then the community, then the Three Jewels. Not a feeling and not a principle. A debt, of the kind <a href="{{ '/courses/read-a-whole-sutra/session-6/' | relative_url }}" style="color:var(--teal);font-weight:600;">Read a Whole Sūtra Session 6</a> showed could never be discharged.</p>
+
+      <p data-rv>And then the sentence that makes this session worth the reading:</p>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">梵網經 7 · who may receive the precepts</div>
+        <p>"…whoever receives this precept — <strong>a king, a prince, a minister of state, a monk, a nun, one of the eighteen Brahma heavens or six heavens of desire, a commoner, one born without full faculties, a man or woman given to lust, a manservant or maidservant, one of the eight kinds of spirit, a vajra spirit, an animal, or even a being manifested by transformation — so long as they understand the words of their teacher, every one of them fully receives the precept, and every one is called foremost in purity.</strong>"</p>
+        <div class="zh">若受佛戒者，國王王子百官宰相，比丘比丘尼，十八梵天六欲天子，十六大國王，庶民黃門淫男淫女奴婢，八部鬼神金剛神畜生乃至變化人，但解法師語，盡受得戒，皆名第一清淨者。</div>
+        <a class="bk" href="{{ '/sutras/brahma-net-sutra/chapter-07/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Read the list slowly, and read it as a fifth- or sixth-century list. A king and a maidservant in the same sentence. <em>黃門</em> — one born without full faculties. <em>淫男淫女</em> — a man or woman given to lust, which is to say the people most religious codes of the period existed partly to exclude. Spirits. <strong>An animal.</strong></p>
+
+      <p data-rv>And the only qualification given is 但解法師語 — <em>so long as they understand the words of their teacher.</em> Comprehension. That is the entire entrance requirement. And the verdict on everyone who passes it is 皆名第一清淨者 — <strong>every one is called foremost in purity.</strong></p>
+
+      <div class="sq-take" data-rv>
+        <b class="h">The fork, stated plainly</b>
+        <ul>
+          <li><b>Both are severe.</b> The Brahmā Net's ten major precepts are not a relaxation of anything, and breaking them is catastrophic within the text's own terms. This is not strict-versus-lenient.</li>
+          <li><b>The South defines virtue technically and then specifies one life in enormous detail.</b> Virtue is a mental factor with a characteristic and a proximate cause; the content is the discipline of a monk, down to how to hold a bowl.</li>
+          <li><b>The North opens with a relationship and then removes every barrier to entry.</b> Filial devotion as the precept itself, and comprehension as the only condition — which in practice makes the bodhisattva precepts the form of Buddhist commitment most East Asian laypeople have actually taken.</li>
+          <li><b>And notice what each one thereby protects.</b> The Southern approach protects precision: it will not tell you that you are living well unless it can say exactly what that means. The Northern approach protects access: it will not build a gate that keeps out a maidservant.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Neither is a concession. They are two answers to a question that was never quite the same question — <em>what is virtue?</em> against <em>who can undertake it?</em> — which is the pattern this course keeps finding, and the reason the disagreements so rarely resolve.</p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · two tests on the same day</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Run the Southern definition and the Northern condition on your own week</b>
+        <p>Two short exercises, and it is worth doing both, because they catch entirely different things.</p>
+        <div class="how">
+          <b>The Southern test — non-scatteredness.</b> Buddhaghosa's word for virtue is <em>avippakiṇṇatā</em>, not-scattered. Pick one day this week and, at the end of it, ask only this: <em>were my actions pointing the same way?</em> Not were they good. Were they coordinated, or were they flying in several directions at once — a promise here, a contradicting promise there, an hour spent undoing the previous hour. Most people find the honest answer uncomfortable and also strangely freeing, because scatteredness is a much more tractable problem than wickedness.<br><br>
+          <b>The Northern test — the door.</b> Look at whatever you take your own practice or ethics to be, and ask the Brahmā Net's question of it: <em>who would I not let in?</em> Everyone has a list, usually unexamined and usually about respectability. The sūtra's list of who may receive the highest precepts includes a maidservant, a man or woman given to lust, and an animal, on the sole condition that they understand the words of their teacher. Put your own exclusions beside that and see how they look.<br><br>
+          <b>You are not being asked to change either answer this week.</b> Only to have both — because these two questions do not overlap, and most people have only ever been asked one of them.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">The Visuddhimagga derives sīla from "composing" (sīlana). What are the two senses it gives?</div>
+          <button class="opt"><span class="ltr">A</span>Purification and protection</button>
+          <button class="opt"><span class="ltr">B</span>Restraint and generosity</button>
+          <button class="opt"><span class="ltr">C</span>Coordinating — the non-scatteredness of bodily action and the rest — and supporting, being the foundation on which wholesome states stand</button>
+          <button class="opt"><span class="ltr">D</span>Coolness and headship, the two meanings grammarians accept</button>
+          <div class="expl"><strong>Correct: C.</strong> Neither is moral in the sense an English reader expects. Virtue is what it is like when your actions are not flying in several directions, and it is the floor other things stand on. (Coolness and headship are mentioned as other teachers' explanations, which the text notes and does not adopt.)</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What does Buddhaghosa give as virtue's proximate cause?</div>
+          <button class="opt"><span class="ltr">A</span>Compassion for all beings</button>
+          <button class="opt"><span class="ltr">B</span>Shame and moral dread — hirī and ottappa</button>
+          <button class="opt"><span class="ltr">C</span>Faith in the Buddha's teaching</button>
+          <button class="opt"><span class="ltr">D</span>The aspiration for liberation</button>
+          <div class="expl"><strong>Correct: B.</strong> Not compassion, not aspiration, not love of the good. What virtue grows out of, on this account, is a functioning capacity for embarrassment. And note the machinery: characteristic, function, manifestation, proximate cause — the same Abhidhamma quartet used for contact and volition in Session 2. Virtue is being defined as a mental factor, not as a code. The rules are downstream.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">After defining virtue in universal terms, what does the chapter's actual content turn out to be about?</div>
+          <button class="opt"><span class="ltr">A</span>The five precepts, addressed to laypeople</button>
+          <button class="opt"><span class="ltr">B</span>Meditation, which follows immediately from virtue</button>
+          <button class="opt"><span class="ltr">C</span>The bodhisattva vow and its obligations</button>
+          <button class="opt"><span class="ltr">D</span>One particular life in enormous detail — the pātimokkha, restraint of the faculties, and a named catalogue of the ways a professional religious can make a dishonest living, down to the correct relationship to robe, almsfood, lodging and medicine</button>
+          <div class="expl"><strong>Correct: D.</strong> Deceit, insinuating talk, affected deportment, talking for gain, flattery, hinting, belittling, pursuing gain with gain. Almost none of it is available to a layperson, and none of it is meant to be. The Southern chapter answers "how should I live?" by describing one life exhaustively.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the first thing the Brahmā Net Sūtra establishes, and when?</div>
+          <button class="opt"><span class="ltr">A</span>Filial devotion to parents, teachers, monastics and the Three Jewels — named as the precept itself, in the first minute after awakening, before a single rule</button>
+          <button class="opt"><span class="ltr">B</span>The prohibition against killing, as the first of the ten major precepts</button>
+          <button class="opt"><span class="ltr">C</span>The bodhisattva's vow to liberate all beings</button>
+          <button class="opt"><span class="ltr">D</span>The requirement of formal ordination before receiving any precept</button>
+          <div class="expl"><strong>Correct: A.</strong> 孝名為戒. The placement is the argument. Where the Southern chapter grounds virtue in shame, this text grounds it in an obligation to particular people — a debt, of exactly the kind Read a Whole Sūtra's sixth session showed could never be discharged.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Who may receive the bodhisattva precepts, and on what condition?</div>
+          <button class="opt"><span class="ltr">A</span>Ordained monks and nuns, and laypeople who have taken the five precepts first</button>
+          <button class="opt"><span class="ltr">B</span>Anyone who has generated the mind of awakening in a previous life</button>
+          <button class="opt"><span class="ltr">C</span>A king, a minister, monks and nuns, gods, a commoner, one born without full faculties, a man or woman given to lust, a manservant or maidservant, spirits, an animal, even a being manifested by transformation — so long as they understand the words of their teacher; and every one is then called foremost in purity</button>
+          <button class="opt"><span class="ltr">D</span>Only those who can keep all ten major precepts without lapse</button>
+          <div class="expl"><strong>Correct: C.</strong> 但解法師語，盡受得戒，皆名第一清淨者. Read it as a fifth- or sixth-century list: a king and a maidservant in one sentence, one born without full faculties, a man or woman given to lust — the people most religious codes of the period existed partly to exclude — spirits, and an animal. Comprehension is the entire entrance requirement. This is not a relaxation of severity; the ten major precepts remain catastrophic to break. It is a different decision about where the door goes.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Who would you not let in?</p>
+        <p class="sm">Whatever you think a serious practice is, you are holding a picture of who is capable of it — and it is almost certainly a picture of someone with time, literacy, stability and a certain kind of respectability. The Brahmā Net's list was written in a society far more stratified than yours, and it put a king and a maidservant in the same sentence and then added an animal. The condition was that you could follow what was being said. Set your own working list beside that one, and notice that you have never written it down.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 8 · How should I live? The vow</h3>
+        <p>Conduct is one half of the fifth question. The other half is what you do with other people — and here both traditions go to the same extreme place. The Visuddhimagga sets you to loving someone who is cutting you apart with a two-handled saw; the Yogācārabhūmi opens the bodhisattva's ground. This time they are not so far apart.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-6/' | relative_url }}">← Session 6</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
