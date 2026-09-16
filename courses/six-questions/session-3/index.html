@@ -1,0 +1,438 @@
+---
+layout: default
+title: "Session 3 · What is mind? The Northern storehouse (Six Questions)"
+permalink: /courses/six-questions/session-3/
+excerpt: Session 3 of Six Questions — the ālayavijñāna, neither permanent nor interrupted, described as a torrent; and how billions of private minds come to share one world.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 3</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 3 · 心 · What is mind</div>
+      <h1>What is mind? · The Northern storehouse</h1>
+      <div class="subt">A consciousness that is neither permanent nor interrupted, and keeps everything</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Session 2</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicles 2 and 3</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question, as Session 2 left it</h2></div>
+
+      <p data-rv>Last week's map had one gap in it, and the map itself pointed at the gap.</p>
+
+      <p data-rv>Every mind-moment, in the Southern account, arises and <strong>completely ceases</strong> before the next one begins. The life-continuum flows "like the flow of a river," but a river is not a thing that travels — it is a name for water successively occupying a channel. So: if nothing persists, what makes tomorrow's mind <em>yours</em>? What carries a habit across thirty years? What holds an act you committed at nineteen until it ripens at fifty?</p>
+
+      <p data-rv>Buddhaghosa has answers — the continuum, and the causal relations between successive moments — and they satisfy his readers, who are not pressing him. <strong>Xuánzàng's opponents press very hard indeed.</strong> And the Northern answer is a consciousness the Southern map does not contain.</p>
+
+      <div class="sq-pull" data-rv>Not a self. Something more interesting, and considerably more disturbing: a place where everything is kept.</div>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Two terms, and then we are done with vocabulary. <strong>Ālayavijñāna</strong> — "storehouse consciousness," the eighth of the eight consciousnesses in this system, beneath the five senses, ordinary thinking, and the self-regarding seventh. <strong>Seeds</strong> (bīja, 種子) — the technical word for what actions deposit in it and what later experience grows out of. Both are explained in the text itself.</em></p>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side north">The Northern answer</span><br>Read the storehouse</h2></div>
+
+      <p data-rv>Two fascicles this week, and you do not need every word. From fascicle 2, read the section where the ālaya is named and defined, the seed doctrine, and "How Billions of Private Minds Share One World." From fascicle 3, read to the end — the five universal mental factors, and the torrent.</p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}" data-rv>
+        <div class="trad">Yogācāra · 成唯識論 Fascicle 2 · Chinese, with Ru-Yi's translation</div>
+        <h3>The storehouse named, and the seeds</h3>
+        <p>What stores, what ripens, what holds seeds; where seeds come from; how perfuming works; and how billions of private minds come to share one world.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="sq-textcard north" href="{{ '/sutras/cheng-weishi-lun/fascicle-003/' | relative_url }}" data-rv>
+        <div class="trad">Yogācāra · 成唯識論 Fascicle 3 · Chinese, with Ru-Yi's translation</div>
+        <h3>The five universal factors, and the torrent</h3>
+        <p>Why the storehouse only ever feels neutral, why it excludes almost every mental factor — and the four characters the tradition has argued about ever since.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2>Three moments</h2></div>
+
+      <h3 data-rv>1 · What "storehouse" actually means — and who mistakes it for themselves</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">成唯識論 2 · the three characteristics</div>
+        <p>"The first transforming consciousness is called, in both Mahāyāna and Hīnayāna teaching, the ālaya — the 'storehouse' — because this consciousness carries a threefold meaning: <strong>that which stores, that which is stored, and that which is clung to as a store.</strong> That is: it mutually serves as condition together with defilement, and <strong>sentient beings cling to it as their inner self.</strong>"</p>
+        <p>"This consciousness draws forth the ripened results of wholesome and unwholesome karma across every realm, destiny, and mode of birth — hence it is called <strong>'ripening.'</strong> Apart from it, the life-faculty, the sameness-of-kind, and the rest — <strong>the constant, unbroken, superior ripened result that sustains an entire life</strong> — could not be found."</p>
+        <div class="zh">初能變識，大小乘教名阿賴耶，此識具有能藏、所藏、執藏義故。謂與雜染互為緣故，有情執為自內我故……此是能引諸界、趣、生，善、不善業異熟果故，說名異熟。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Three senses at once, and the third is the one to slow down for. It stores; it is stored in; and <strong>it is clung to as a store</strong> — 執藏. Beings take this thing for their own inner self.</p>
+
+      <p data-rv>Which should sound familiar, because you met it in Session 1 without knowing what it referred to. The innate self-attachment — the kind that needs no teaching, runs continuously, and is "subtle and hard to sever" — was described there as sitting in the seventh consciousness and <em>taking the eighth as its object</em>. <strong>This is the eighth.</strong> The storehouse is what you have been mistaking for yourself your whole life, and the tradition says so in the same breath as it introduces it.</p>
+
+      <p data-rv>So be careful what you do with this doctrine. The ālaya is <em>not</em> the self that Session 1 spent a fascicle demolishing. It is named, in its own definition, as <strong>the thing people wrongly take for that self.</strong></p>
+
+      <h3 data-rv>2 · The torrent — the direct answer to last week's gap</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">成唯識論 3 · constant, yet flowing</div>
+        <p>"Is the ālayavijñāna impermanent, or permanent? <strong>Neither impermanent nor permanent, since it 'constantly flows.'</strong> 'Constant' means this consciousness, from beginningless time, continues as a single, unbroken kind, never interrupted… 'Flows' means this consciousness, from beginningless time, <strong>arises and ceases moment by moment</strong>, changing from one instant to the next — its cause ceasing exactly as its result arises, never remaining a single unchanging thing… <strong>it is exactly like a rushing torrent</strong>, cause and effect simply operating according to their own nature."</p>
+        <div class="zh">阿賴耶識為斷？為常？非斷、非常，以「恒轉」故……「恒」言遮斷，「轉」表非常，猶如瀑流，因果法爾。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-003/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>恒轉如瀑流 — <em>constant, yet turning, like a torrent.</em> Five characters that Yogācāra has been arguing about for thirteen hundred years, and the text unfolds the simile three separate ways:</p>
+
+      <div class="sq-take" data-rv>
+        <b class="h">Three things a torrent does</b>
+        <ul>
+          <li><b>It carries, and it drowns.</b> "Just as the water of a rushing torrent is neither interrupted nor permanent, and yet, continuing over a long span, carries things along and can drown them — so too this consciousness… carries sentient beings along, keeping them from escaping saṃsāra."</li>
+          <li><b>Wind raises waves, and the flow does not break.</b> "Just as a torrent, though struck by wind, raises waves on its surface without its flow ever breaking — so too this consciousness, though it encounters countless conditions and gives rise to the eye-consciousness and the rest, nevertheless continues constantly." <em>The waves are last week's map.</em> Every one of those eighty-nine minds is surface.</li>
+          <li><b>It carries things without releasing them.</b> "Just as a torrent carries fish, grass, and other things along on and beneath its surface, never releasing them from the current — so too this consciousness moves constantly together with its own inner habitual tendencies."</li>
+        </ul>
+      </div>
+
+      <p data-rv>And then the mechanism, in one image that settles the whole "not interrupted, not permanent" problem: <strong>"At the very moment a prior cause ceases, the subsequent result arises at once — just as the two ends of a scale rise and fall at exactly the same time."</strong></p>
+
+      <p data-rv>Nothing travels. Nothing endures. And there is no gap, because the falling and the rising are one event. The text is explicit that this is not a special exception dreamed up to save the theory: "being neither interrupted nor permanent <em>is exactly the principle of dependent origination</em>."</p>
+
+      <h3 data-rv>3 · Many lamps, one light</h3>
+
+      <p data-rv>There is an obvious objection to any consciousness-only system, and it is the one every undergraduate raises: <em>if the world is a transformation of my consciousness, why do we all agree about where the furniture is?</em></p>
+
+      <p data-rv>The treatise raises it itself, and its answer is one of the loveliest images in Buddhist philosophy:</p>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">成唯識論 2 · how a shared world is possible</div>
+        <p>"The ripening consciousness, through the maturing power of its <strong>shared-characteristic seeds</strong>, transforms and manifests an appearance resembling the receptacle-world of form and the rest… <strong>Although what each individual sentient being transforms is, strictly speaking, separate, the appearances resemble one another and occupy no distinct locations — just as the light of many lamps, each entirely filling the room, appears to be a single, unified light.</strong>"</p>
+        <div class="zh">所言「處」者，謂異熟識由共相種成熟力故，變似色等器世間相……雖諸有情所變各別而相相似，處所無異，如眾燈明各遍似一。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Every lamp in a room fills the entire room with its own light. No lamp's light is anywhere the others are not. Blow one out and the room dims slightly — it does not develop a hole. <strong>There is no shared light; there are only lights, coinciding so exactly that "shared" is the natural word for it.</strong></p>
+
+      <p data-rv>That is the claim about the world. Not one public object several people look at, but many transformations coinciding — because the karma that produced them is of the same kind. And the text follows the argument into its awkward corners rather than stopping at the nice image: <em>whose</em> consciousness transforms this world? Everyone's? Then buddhas would have to manufacture defiled worlds. Only those living here? Then what happens when a world is forming and nobody has arrived yet? Three positions are stated and worked through in the space of a page.</p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts<span class="rf">Two accounts of mind, side by side</span></h2></div>
+
+      <p data-rv>Now put the two weeks together, because the difference is sharper than it looks and it is not the difference people usually name.</p>
+
+      <div class="sq-take" data-rv>
+        <b class="h">What each tradition actually does</b>
+        <ul>
+          <li><b>The South maps the surface, exhaustively, and locates continuity in the sequence itself.</b> Eighty-nine kinds of moment, a strict order of operations, and continuity guaranteed by causal relation between one moment and the next. There is no substrate because none is needed: the river is the flowing.</li>
+          <li><b>The North accepts all of that and adds a layer underneath it.</b> Note what it does <em>not</em> do — it does not make the ālaya permanent. The ālaya arises and ceases every instant, exactly like every other mind-moment. It is not exempt from anything.</li>
+          <li><b>So the addition is not permanence. It is content.</b> The Southern continuum carries no history; each moment conditions the next and then is gone. The Northern one holds seeds — which is to say, <strong>it has your entire past in it</strong>, and gives it back as the texture of what happens next.</li>
+          <li><b>And the North says plainly what that costs.</b> Having introduced the storehouse, it immediately warns that beings cling to it as an inner self, and that this clinging is the hardest thing on the path to remove. The doctrine arrives with its own health warning attached.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Whether the South <em>needs</em> a storehouse is a genuine and still-open argument, not a settled defeat — Theravāda has answered the continuity question for fifteen centuries without one, and does not regard the question as pressing. What is not in dispute is the shape of the difference: <strong>one tradition describes a process and declines to look for a keeper; the other looks, and says it found one, and warns you in the same sentence not to move in.</strong></p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · one line a day · no analysis</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Collect evidence of a storehouse</b>
+        <p>The treatise calls the ālaya 不可知 — <em>unknowable</em>. You cannot observe it, and any practice claiming otherwise is selling something. But you can observe what comes out of it.</p>
+        <div class="how">
+          <b>Once a day, note one reaction that was clearly not about today.</b> An irritation out of all proportion to its cause. An ease you did not earn in a room you had no reason to be comfortable in. A preference you cannot account for. A flinch at a tone of voice. A competence that arrived without being summoned.<br><br>
+          <b>One line. And then — this is the discipline — do not go looking for the origin.</b> Do not reconstruct the childhood scene or name the person it came from. The text is explicit that this layer is not available to inspection, and the interesting exercise is to sit with an effect whose cause you are not going to get.<br><br>
+          <b>At the end of the week you will have five or six lines.</b> Read them together and ask only one thing: <em>how much of an ordinary week was supplied rather than chosen?</em> Both traditions would accept the evidence. They would disagree about where to file it — which is the whole of what these two sessions have been about.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">The word ālaya — "storehouse" — carries a threefold meaning. What is the third sense, and why does it matter here?</div>
+          <button class="opt"><span class="ltr">A</span>That it stores merit specifically, and is therefore the basis of the path</button>
+          <button class="opt"><span class="ltr">B</span>That it is stored in the body, and ceases when the body dies</button>
+          <button class="opt"><span class="ltr">C</span>That it stores seeds only until they ripen, after which it is emptied</button>
+          <button class="opt"><span class="ltr">D</span>That it is clung to as a store — beings take it for their own inner self, which is exactly the innate self-attachment of Session 1, there described as the seventh consciousness taking the eighth as its object</button>
+          <div class="expl"><strong>Correct: D.</strong> 執藏. This is why the doctrine cannot be read as smuggling a self back in: the ālaya is named, in its own definition, as <em>the thing people wrongly take for the self</em> that fascicle 1 spent pages demolishing. The doctrine arrives with its own health warning attached.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">恒轉如瀑流 — "constant, yet flowing, like a torrent." What do the two words rule out?</div>
+          <button class="opt"><span class="ltr">A</span>"Constant" rules out change; "flowing" rules out stability</button>
+          <button class="opt"><span class="ltr">B</span>"Constant" rules out interruption; "flowing" rules out permanence — the consciousness is unbroken but arises and ceases moment by moment, never remaining a single unchanging thing</button>
+          <button class="opt"><span class="ltr">C</span>Both words are poetic and carry no technical weight</button>
+          <button class="opt"><span class="ltr">D</span>"Constant" refers to the seeds; "flowing" refers to the sense consciousnesses</button>
+          <div class="expl"><strong>Correct: B.</strong> 「恒」言遮斷，「轉」表非常. And the text insists this is not a special exception invented to rescue the theory: being neither interrupted nor permanent "is exactly the principle of dependent origination."</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">The torrent simile is unfolded three ways. In the second, a torrent is struck by wind and raises waves without its flow ever breaking. What are the waves?</div>
+          <button class="opt"><span class="ltr">A</span>Karmic seeds ripening</button>
+          <button class="opt"><span class="ltr">B</span>Moments of meditative absorption</button>
+          <button class="opt"><span class="ltr">C</span>The eye-consciousness and the rest — everything Session 2's map spent its length describing, which on this account is surface</button>
+          <button class="opt"><span class="ltr">D</span>Interruptions in the flow caused by sleep and death</button>
+          <div class="expl"><strong>Correct: C.</strong> "Though it encounters countless conditions and gives rise to the eye-consciousness and the rest, nevertheless continues constantly." All eighty-nine kinds of mind, the whole cognitive sequence, the javana moments — waves. And note the third unfolding: the torrent carries fish and grass "along on and beneath its surface, never releasing them from the current."</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">If the world is a transformation of consciousness, why do many people agree about it? What image does the treatise give?</div>
+          <button class="opt"><span class="ltr">A</span>Many lamps in one room — each light entirely fills the room, so what is strictly separate appears to be a single unified light; shared-characteristic seeds produce transformations that coincide</button>
+          <button class="opt"><span class="ltr">B</span>A single mirror reflected in many smaller mirrors</button>
+          <button class="opt"><span class="ltr">C</span>One dreamer whose dream all beings inhabit</button>
+          <button class="opt"><span class="ltr">D</span>The treatise does not raise this objection</button>
+          <div class="expl"><strong>Correct: A.</strong> 如眾燈明各遍似一. There is no shared light — only lights, coinciding so exactly that "shared" is the natural word. And the text does not stop at the image: it works through whose consciousness does the transforming, across three competing positions, including what happens to a world that is forming before anyone has arrived.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Comparing the two weeks: what does the Northern account actually add to the Southern one?</div>
+          <button class="opt"><span class="ltr">A</span>Permanence — a consciousness exempt from arising and ceasing</button>
+          <button class="opt"><span class="ltr">B</span>A self, reintroduced under a technical name</button>
+          <button class="opt"><span class="ltr">C</span>Content — the Southern continuum carries no history, while the storehouse holds seeds, and so has the entire past in it and returns it as the texture of what happens next</button>
+          <button class="opt"><span class="ltr">D</span>Nothing substantive; the two accounts are notational variants of each other</button>
+          <div class="expl"><strong>Correct: C.</strong> The ālaya is explicitly <em>not</em> permanent — it arises and ceases every instant like everything else, and is not exempt from anything. What it adds is a place where causes are kept. Whether the South needs one is a genuine and still-open argument rather than a settled defeat; Theravāda has answered the continuity question for fifteen centuries without a storehouse and does not find the question pressing.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Where is your history kept?</p>
+        <p class="sm">You are certain that something of what happened to you is still operating — it shows up daily, unbidden, in what you find funny and what you cannot bear. The Southern answer is that nothing is kept anywhere; each moment simply conditions the next, and the appearance of a stored past is what an unbroken chain of conditioning looks like from inside. The Northern answer is that there is a place, it is running underneath everything, it has never stopped, and you have spent your life mistaking it for yourself. Both accounts fit the evidence you collected this week. That is the difficulty, and it does not resolve.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 4 · Why do I suffer? The shared diagnosis</h3>
+        <p>The third question, and the one place in this course where the two traditions begin from identical ground. The clinging-aggregates on one side; on the other, the Yogācārabhūmi's complete analysis of affliction, karma's forty-three-fold taxonomy, and dependent origination in nine parts. Neither side is being original here — and that is the point of the session.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-2/' | relative_url }}">← Session 2</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
