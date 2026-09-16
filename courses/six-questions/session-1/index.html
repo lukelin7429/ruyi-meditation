@@ -1,0 +1,450 @@
+---
+layout: default
+title: "Session 1 · Who am I? (Six Questions)"
+permalink: /courses/six-questions/session-1/
+excerpt: Session 1 of Six Questions — the Visuddhimagga searches the parts for an owner and finds none, and the Cheng Weishi Lun destroys six accounts of what a self could be.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 1 · 我 · Who am I</div>
+      <h1>Who am I?</h1>
+      <div class="subt">One tradition takes an inventory. The other starts an argument.</div>
+      <div class="rd">
+        <span><b>Reading time</b> about forty minutes for both</span>
+        <span><b>Before class</b> Read a Whole Sūtra, ideally</span>
+        <span><b>The texts</b> Visuddhimagga 14 and Cheng Weishi Lun 1</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question</h2></div>
+
+      <p data-rv><strong>Who am I?</strong></p>
+
+      <p data-rv>If you have read anything at all about Buddhism, you already know the headline: <em>there is no self.</em> It is the first thing anyone is told and very nearly the least useful sentence in the religion, because it is simultaneously true, badly translated, and impossible to do anything with.</p>
+
+      <p data-rv>Here is what is worth knowing instead. <strong>Both traditions agree completely on the conclusion.</strong> There is no disagreement whatsoever about whether a permanent, independent, owning self exists — both say it does not, and both treat that as settled. What differs, entirely, is <em>how each one gets you there</em> — and that turns out to matter far more than the conclusion does.</p>
+
+      <div class="sq-pull" data-rv>One of them counts. The other argues. By the end they are standing in the same place, having arrived from opposite directions.</div>
+
+      <p data-rv>A word about what you are about to read, because both of these are difficult books and this course does not pretend otherwise. The Visuddhimagga chapter is long and relentlessly systematic; the Cheng Weishi Lun opens by demolishing philosophical positions you have never heard of. Read what you can. The three passages picked out in Part 4 are the ones that do the work, and they are quoted in full there.</p>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side south">The Southern answer</span><br>Take an inventory, and see who is not on it</h2></div>
+
+      <p data-rv>Buddhaghosa does not argue with anyone. His method, across the whole of Chapter 14, is to <strong>count</strong>.</p>
+
+      <p data-rv>Twenty-eight kinds of matter, sorted five ways. Eighty-nine kinds of consciousness — twenty-one wholesome, twelve unwholesome, thirty-six resultant, twenty functional. Feeling in five kinds, tracked across sixty-two of those minds. Perception. Fifty-two mental factors in the formations aggregate, tracked one by one across all twenty-one wholesome minds. The complete sequence of a single act of cognition, from the undisturbed river to the ship pursued downstream.</p>
+
+      <p data-rv>The argument is never stated, because it does not need to be. <strong>If there were an owner, it would appear somewhere in the list.</strong> You are invited to go through the inventory of everything a person is made of, exhaustively, and notice what is not in it.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 14 · Pāli, with Ru-Yi's translation</div>
+        <h3>Khandhaniddesa — The Description of the Aggregates</h3>
+        <p>Buddhaghosa's complete inventory of what a person is made of. Read as much as you can; at minimum, the aggregate of perception, and the five similes at the end.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2><span class="sq-side north">The Northern answer</span><br>Name every self anyone has proposed, and destroy each one</h2></div>
+
+      <p data-rv>Xuánzàng's Cheng Weishi Lun opens somewhere else entirely. Its first fascicle asks a single question — <em>how can it be known that a real self cannot be found?</em> — and then goes through the live options one at a time, like a man clearing a room.</p>
+
+      <p data-rv>Three accounts of what size a self is. Three accounts of how it relates to the aggregates. Then two brute tests: does it have thought, or not? does it have function, or not? Each branch is followed to an absurdity, and the section closes with something the Visuddhimagga never says at all — which is the subject of Part 4.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Worth knowing before you start: the opponents here are not all outsiders. The third position on the second list — a self "neither identical with nor separate from the aggregates" — was held by the Vātsīputrīya, a school <strong>within Buddhism</strong>. Some of this argument is a family quarrel.</em></p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}" data-rv>
+        <div class="trad">Yogācāra · 成唯識論 Fascicle 1 · Chinese, with Ru-Yi's translation</div>
+        <h3>Cheng Weishi Lun — Refuting a Real Self, Six Ways</h3>
+        <p>Xuánzàng's 659 CE synthesis. Start at "Refuting a Real Self, Six Ways" and read to the end of "Two Kinds of Self-Attachment."</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have read both. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts<span class="rf">Three things worth having side by side</span></h2></div>
+
+      <h3 data-rv>1 · Inventory against argument — and why</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 14 · the aggregate of perception</div>
+        <p>"Its function is, further, <strong>to make a sign that becomes a condition for perceiving again — like carpenters and the like marking timber</strong>. It is manifested as the seizing upon whatever aspect it has been apprehended under — <strong>like the born-blind who describe an elephant</strong>. Its proximate cause is a presently appearing object, however it happens to appear — <strong>like the perception that arises in fawns with respect to scarecrows, taking them to be men</strong>."</p>
+        <div class="zh">…puna sañjānanapaccayanimittakaraṇarasā dāruādīsu tacchakādayo viya, yathāgahitanimittavasena abhinivesakaraṇapaccupaṭṭhānā hatthidassakaandhā viya, yathāupaṭṭhitavisayapadaṭṭhānā tiṇapurisakesu migapotakānaṃ purisāti uppannasaññā viyāti.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">成唯識論 1 · the second and third accounts of self</div>
+        <p>"If the substance of self is permanent, it should not expand and contract with the body; <strong>but if it does expand and contract, like air in a bellows, then it is not permanent after all</strong>… What is said here amounts to nothing more than <strong>children's play</strong>."</p>
+        <p>"If one answers that, though small, it races through the body so fast — <strong>like a whirling firebrand that seems to trace a whole ring of fire</strong> — that it appears to move everywhere at once, then the self so described is neither a single unity nor permanent."</p>
+        <div class="zh">既有舒、卷如槖籥風，應非常住……故彼所言如童竪戲。……若謂雖小而速巡身，如旋火輪，似遍動者，則所執我非一、非常。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>Put those beside each other and the difference is not doctrinal at all. It is about <strong>who is in the room.</strong></p>
+
+      <p data-rv>Buddhaghosa is writing in 5th-century Sri Lanka for monks who already accept everything he is going to say. Nobody in his audience doubts no-self. What they need is not to be convinced but to <em>see</em> it — so he gives them images to hold while looking: a carpenter's mark on timber, blind men describing an elephant, a fawn that takes a scarecrow for a man. Those are not arguments. They are handles.</p>
+
+      <p data-rv>Xuánzàng is writing in 7th-century Cháng'ān, in a court where Indian and Chinese philosophers are actively disputing, having personally spent seventeen years in India learning how these arguments run. His opponents are real, present, and unpersuaded. So he does not offer handles. He offers a bellows, a whirling firebrand, a rabbit's horn — <em>reductions</em>, each one designed to make a position collapse — and he is not above calling the result children's play.</p>
+
+      <h3 data-rv>2 · The thing the North adds, which changes what the argument was for</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">成唯識論 1 · two kinds of self-attachment</div>
+        <p>"Attachment to self, in brief, is of two kinds: <strong>innate, and discriminated.</strong> Innate self-attachment, through deluded habituation from beginningless time, arises constantly together with the body by its own inner causal power; <strong>it does not depend on any mistaken teaching or mistaken discrimination but operates spontaneously</strong> — hence it is called innate… Because these two are subtle, they are hard to sever."</p>
+        <p>"Discriminated self-attachment, by contrast… <strong>requires a mistaken teaching and mistaken discrimination before it can arise</strong>… Because these two are coarse, <strong>they are easy to sever</strong>; at the very moment of first entering the path of seeing… they are eliminated at once."</p>
+        <div class="zh">然諸我執略有二種：一者俱生；二者分別。……不待邪教及邪分別，任運而轉，故名俱生。……此二我執，細故難斷。……分別我執……要待邪教及邪分別然後方起。……此二我執麁故易斷。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>This is the most practically important paragraph in the session, and it recontextualises everything that came before it.</p>
+
+      <p data-rv>Xuánzàng has just spent several pages destroying six accounts of the self. And then he tells you, in effect, <strong>what that accomplished — and what it did not.</strong></p>
+
+      <div class="sq-take" data-rv>
+        <b class="h">Two things people mean by "clinging to a self"</b>
+        <ul>
+          <li><b>Discriminated (分別).</b> The self you have because somebody taught you a doctrine about one. It lives in the sixth consciousness — ordinary thinking. It is <em>coarse</em>, it is <em>easy to sever</em>, and the six refutations you just read are exactly the tool for it.</li>
+          <li><b>Innate (俱生).</b> The self that has been running "together with the body" since beginningless time, requiring no teaching at all, operating by itself. Its deepest layer sits in the seventh consciousness and never stops. It is <em>subtle</em>, and it is <em>hard to sever</em> — only cut, the text says, by long repeated cultivation, far down the path.</li>
+          <li><b>Therefore: understanding no-self does not remove self-grasping.</b> You can follow every one of Xuánzàng's arguments, agree with all of them, and still flinch when somebody insults you in a meeting. That is not hypocrisy and it is not a failure of study. It is the other kind, which arguments do not reach.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Almost nothing in English-language Buddhism says this out loud, and it explains a great deal of what practitioners actually experience — the long, confusing gap between having understood something and being changed by it.</p>
+
+      <h3 data-rv>3 · They end in the same place, from opposite ends</h3>
+
+      <p data-rv>Now the thing that makes this session worth the forty minutes of reading. Look at how Xuánzàng closes the whole argument:</p>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">成唯識論 1 · the closing of the refutation</div>
+        <p>"Every kind of self-attachment, then, <strong>takes the impermanent appearance of the five grasped aggregates as its object</strong>, and mistakenly clings to it as self… As the scripture says: 'Monks, you should know that whatever view of self exists among the ascetics and brahmins of this world, <strong>all of it takes the five grasped aggregates as its object</strong>.'"</p>
+        <div class="zh">故我執皆緣無常五取蘊相，妄執為我。……故契經說：苾芻當知，世間沙門、婆羅門等所有我見，一切皆緣五取蘊起。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv><strong>The five grasped aggregates.</strong> After all the demolition — the bellows, the firebrand, the rabbit's horns, the family quarrel with the Vātsīputrīya — the Northern argument lands on exactly the inventory the Southern text spent an entire chapter compiling, and cites an early discourse to close the case.</p>
+
+      <p data-rv>And the Southern chapter ends with the same five, seen the other way:</p>
+
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 14 · the five similes, at the end of the chapter</div>
+        <p>"<strong>Form</strong> should be regarded as like <strong>a lump of foam</strong>, on account of its inability to withstand pressure. <strong>Feeling</strong>, like <strong>a bubble on water</strong>, on account of being enjoyable for only a moment. <strong>Perception</strong>, like <strong>a mirage</strong>, on account of its deceptiveness. <strong>Formations</strong>, like <strong>a banana trunk</strong>, on account of being without core. <strong>Consciousness</strong>, like <strong>a magic trick</strong>, on account of its deceptiveness."</p>
+        <div class="zh">Vitthārato panettha pheṇapiṇḍo viya rūpaṃ daṭṭhabbaṃ, parimaddanāsahanato. Udakapubbuḷaṃ viya vedanā, muhuttaramaṇīyato. Marīcikā viya saññā, vippalambhanato. Kadalikkhandho viya saṅkhārā, asārakato. Māyā viya viññāṇaṃ, vañcakato.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Two traditions, five hundred years and three thousand miles apart, one counting and one arguing — and both finish holding the same five things and saying: <em>that is all there is, and none of it is you.</em></p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>For a third route to the same place, Nāgārjuna gets there by neither counting nor cataloguing opponents, but by asking whether fire is the same as its fuel — <a href="{{ '/sutras/mulamadhyamakakarika/fire-fuel-and-the-self/' | relative_url }}" style="color:var(--teal);font-weight:600;">Mūlamadhyamakakārikā, Fire, Fuel, and the Self</a>. Optional, and very short.</em></p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · both methods, on one sentence of your own</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Run both methods on a single claim about yourself</b>
+        <p>Pick <strong>one</strong> sentence you say about yourself often enough that you no longer examine it. "I'm not a confrontational person." "I'm bad with money." "I've always been the responsible one." Something load-bearing and slightly worn.</p>
+        <div class="how">
+          <b>First, Buddhaghosa's method — go looking for it in the inventory.</b> Which of the five is it actually in? Is it <em>form</em> — something about the body? <em>Feeling</em> — a tone that arises in certain situations? <em>Perception</em> — a mark you made once, "like carpenters marking timber," that you have been reading back ever since? A <em>formation</em> — a habit of volition? <em>Consciousness</em>? Take it seriously and be specific. Most people find it is mostly one of them, plus a story.<br><br>
+          <b>Then Xuánzàng's method — apply the two brute tests.</b> Does it have function? Then it changes with conditions, and is not fixed. Does it not have function? Then like the horns of a rabbit it is not doing anything, and you are defending nothing.<br><br>
+          <b>The point is not to demolish the sentence.</b> You will still say it next week, and you should — it is conventionally useful, which both traditions freely grant. The point is to find out <em>where you had been keeping it</em>, because most people discover they had it filed somewhere much more solid than the place it actually lives.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">On the existence of a permanent, independent self, how do the two traditions differ?</div>
+          <button class="opt"><span class="ltr">A</span>The South denies it; the North allows a subtle self in the eighth consciousness</button>
+          <button class="opt"><span class="ltr">B</span>The North denies it; the South allows a "person" irreducible to the aggregates</button>
+          <button class="opt"><span class="ltr">C</span>Both leave the question deliberately open</button>
+          <button class="opt"><span class="ltr">D</span>They do not differ at all — both deny it, and both treat it as settled; what differs is entirely the method of getting you there</button>
+          <div class="expl"><strong>Correct: D.</strong> This is worth being clear about at the start of the course, because it will not always be the case. Here there is no disagreement about the conclusion whatsoever. The interest lies entirely in method — and method turns out to matter more.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The Visuddhimagga never states the argument for no-self directly. What does it do instead?</div>
+          <button class="opt"><span class="ltr">A</span>It cites the Buddha's authority and moves on</button>
+          <button class="opt"><span class="ltr">B</span>It takes an exhaustive inventory of everything a person is made of — twenty-eight kinds of matter, eighty-nine minds, fifty-two mental factors — so that the reader notices what is not on the list</button>
+          <button class="opt"><span class="ltr">C</span>It refutes rival philosophical schools one by one</button>
+          <button class="opt"><span class="ltr">D</span>It uses meditation instructions rather than analysis</button>
+          <div class="expl"><strong>Correct: B.</strong> If there were an owner, it would appear somewhere in the list. Buddhaghosa is writing for monks who already accept no-self and need to <em>see</em> it rather than be convinced of it — which is why he supplies handles (a carpenter's mark, blind men and an elephant, a fawn and a scarecrow) rather than reductions.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">One of the positions the Cheng Weishi Lun refutes — a self "neither identical with nor separate from the aggregates" — belonged to whom?</div>
+          <button class="opt"><span class="ltr">A</span>The Sāṃkhya school of Hindu philosophy</button>
+          <button class="opt"><span class="ltr">B</span>Chinese Confucian scholars at the Táng court</button>
+          <button class="opt"><span class="ltr">C</span>The Vātsīputrīya — a school within Buddhism itself</button>
+          <button class="opt"><span class="ltr">D</span>The Theravāda commentators, including Buddhaghosa</button>
+          <div class="expl"><strong>Correct: C.</strong> Some of this argument is a family quarrel. The Vātsīputrīya proposed a "person" (pudgala) irreducible to the five aggregates and yet not a self apart from them — and the treatise's reply is deliberately deflating: a pot also depends on its parts without being identical to any one of them, and that is just ordinary conventional existence.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">The Cheng Weishi Lun distinguishes innate (俱生) from discriminated (分別) self-attachment. What follows for someone who has just understood the six refutations?</div>
+          <button class="opt"><span class="ltr">A</span>They have addressed the coarse, discriminated kind — the one that comes from being taught a doctrine. The innate kind, running with the body since beginningless time and needing no teaching at all, is called subtle and hard to sever, and arguments do not reach it</button>
+          <button class="opt"><span class="ltr">B</span>Both kinds are eliminated together at the moment of understanding</button>
+          <button class="opt"><span class="ltr">C</span>Neither kind is affected by philosophical analysis</button>
+          <button class="opt"><span class="ltr">D</span>The distinction is a later commentarial addition and not in the text</button>
+          <div class="expl"><strong>Correct: A.</strong> This is the most practically useful paragraph in the session, and it explains something almost nothing in English says out loud: you can follow every argument, agree entirely, and still flinch when someone insults you in a meeting. That is not hypocrisy or failed study — it is the other kind.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Where does the Northern argument end up, after destroying all six accounts of the self?</div>
+          <button class="opt"><span class="ltr">A</span>At the eighth consciousness, proposed as the true self</button>
+          <button class="opt"><span class="ltr">B</span>At a position of deliberate silence on the question</button>
+          <button class="opt"><span class="ltr">C</span>At the five grasped aggregates — citing an early discourse that every view of self takes them as its object, which is exactly the inventory the Visuddhimagga spent a chapter compiling</button>
+          <button class="opt"><span class="ltr">D</span>At the conclusion that the self is merely a linguistic convention with no basis at all</button>
+          <div class="expl"><strong>Correct: C.</strong> Two traditions, five hundred years and three thousand miles apart, one counting and one arguing — and both finish holding the same five things. The Visuddhimagga closes on them too: foam, a bubble, a mirage, a banana trunk, a magic trick.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Which of the two kinds of self-grasping is a course like this one able to touch?</p>
+        <p class="sm">Be honest about the answer, because it is not flattering to the enterprise. Reading, arguing, understanding, taking a quiz — all of that operates in the sixth consciousness, on the coarse and discriminated kind, which the text says is easy to sever. The other one has been running since before you had opinions, requires no doctrine to sustain it, and will be entirely intact when you close this page. Knowing which one you are working on is not a reason to stop. It is the difference between studying and pretending.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · What is mind? The Southern map</h3>
+        <p>Having found no owner, the Visuddhimagga does something startling: it maps the machinery in full anyway. Eighty-nine distinct kinds of mind, fifty-two mental factors, and a complete account of what happens in a single act of knowing — from a river flowing undisturbed to a ship pursued downstream.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">← Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
