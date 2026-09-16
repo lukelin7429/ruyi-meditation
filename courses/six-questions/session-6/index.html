@@ -1,0 +1,445 @@
+---
+layout: default
+title: "Session 6 · What happens when I die? (Six Questions)"
+permalink: /courses/six-questions/session-6/
+excerpt: Session 6 of Six Questions — an executioner already holding a sword to your neck, against a buddha who vows to appear before you at the hour of death.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 6</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 6 · 死 · What happens when I die</div>
+      <h1>What happens when I die?</h1>
+      <div class="subt">Rehearse it every day, or be met. Two methods, one target.</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty minutes</span>
+        <span><b>Before class</b> Sessions 1–5</span>
+        <span><b>The texts</b> Visuddhimagga 8, and the Larger Sukhāvatīvyūha</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question</h2></div>
+
+      <p data-rv><strong>What happens when I die?</strong></p>
+
+      <p data-rv>This is the sharpest contrast in the course, and also the least abstract. After five sessions of aggregates, storehouses and emptiness, both traditions now do something completely concrete — and they do opposite things.</p>
+
+      <p data-rv>The Southern tradition sets you an exercise. Every day, for years, you are to hold in mind that an executioner is standing behind you with a sword already at your neck. The Northern tradition hands you a vow made by a buddha: <em>if, at the hour of your death, I do not appear before you, may I never have become a buddha at all.</em></p>
+
+      <div class="sq-pull" data-rv>Neither of these is consolation. And they are both aimed at exactly the same minute.</div>
+
+      <p data-rv>That last point is the finding of this session, and it is easy to miss because the two methods look so unlike each other. Watch for it: <strong>both texts name the same thing as the danger, in almost the same words.</strong></p>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side south">The Southern answer</span><br>Rehearse it, daily, for the rest of your life</h2></div>
+
+      <p data-rv>Chapter 8 of the Visuddhimagga is a manual of six recollections, and the first of them is <em>maraṇassati</em> — the recollection of death. It is not a contemplation of death in general. It is a set of eight specified approaches, each with its own images, to be used until the mind steadies on the object.</p>
+
+      <p data-rv>Read the opening of the chapter through the eight approaches and the benefits section. You can stop before the thirty-two-part body contemplation that follows, which is a different exercise.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/anussatikammatthana-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 8 · Pāli, with Ru-Yi's translation</div>
+        <h3>Anussatikammaṭṭhānaniddesa — the recollection of death</h3>
+        <p>Eight approaches: an executioner standing ready, the ruin of success, comparison with others, a body shared by many, the fragility of life, no fixed sign, the brevity of the span, the momentariness of the interval.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2><span class="sq-side north">The Northern answer</span><br>Somebody has promised to be there</h2></div>
+
+      <p data-rv>The Larger Sukhāvatīvyūha is the long Pure Land sūtra, and its centre is a list of forty-eight vows made by a monk named Dharmākara before he became the buddha Amitābha. Each one has the same form and it is worth noticing: <em>if such-and-such does not happen, may I never attain awakening at all.</em> Every vow is a wager staked on the buddha's own buddhahood.</p>
+
+      <p data-rv>Read the forty-eight vows in full — they are short — and then the three grades of rebirth.</p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/immeasurable-life-sutra/the-forty-eight-vows.html' | relative_url }}" data-rv>
+        <div class="trad">Pure Land · 無量壽經 Part 3 · Chinese, with Ru-Yi's translation</div>
+        <h3>The Forty-Eight Vows</h3>
+        <p>Dharmākara's vows, each staked on his own buddhahood — including the eighteenth and the nineteenth, which later traditions built themselves on.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="sq-textcard north" href="{{ '/sutras/immeasurable-life-sutra/three-grades-of-rebirth.html' | relative_url }}" data-rv>
+        <div class="trad">Pure Land · 無量壽經 Part 6 · Chinese, with Ru-Yi's translation</div>
+        <h3>Assured, and the Three Grades of Rebirth</h3>
+        <p>Who is born there, and in what condition — the sūtra's own grading of the outcome it promises.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have read both sides. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts</h2></div>
+
+      <h3 data-rv>1 · The executioner is not a metaphor for danger</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 8 · the first of eight approaches</div>
+        <p>"'As an executioner standing ready' means: standing ready like an executioner. <strong>For just as an executioner, having taken up a sword and holding it to a man's neck, thinking, 'I will cut off this man's head,' stands right there, ready — so too death should be recollected as standing ready in just this way. Why? Because it has come together with birth</strong>, and because it takes away life."</p>
+        <p>"For just as <strong>a mushroom cap, in the very act of pushing up, must carry the soil above it upward</strong>, so too beings, in the very act of being born, are born carrying aging-and-death along with them… Therefore this being, from the moment of birth, is like <strong>the risen sun that goes only toward its setting, never turning back even slightly</strong> from wherever it has traveled."</p>
+        <div class="zh">Yathā hi imassa sīsaṃ chindissāmīti asiṃ gahetvā gīvāya cārayamāno vadhako paccupaṭṭhitova hoti, evaṃ maraṇampi paccupaṭṭhitamevāti anussaritabbaṃ… Yathā hi ahicchattakamakuḷaṃ matthakena paṃsuṃ gahetvāva uggacchati, evaṃ sattā jarāmaraṇaṃ gahetvāva nibbattanti.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/anussatikammatthana-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Note the reason given, because it is not the one you expect. The executioner is not standing there because the world is dangerous or because accidents happen. He is standing there <strong>because he arrived with you</strong> — "it has come together with birth." The mushroom cannot push up without lifting soil; a being cannot be born without carrying its own ageing and death upward with it. There is no version of you that did not include this.</p>
+
+      <p data-rv>And the sun and the river make the same point about direction. Never turning back <em>even slightly</em>. Buddhaghosa quotes a verse: <em>"The young creature that dwells in the womb / for even a single first night — / he goes on, having already set out; / going on, he does not turn back."</em></p>
+
+      <p data-rv>The other seven approaches are variations of pressure. <strong>"A body shared by many"</strong> is the most physically unpleasant and the most useful: eighty families of worms live in you, and "there they are born, there they age, there they die" — your body is "their maternity house, their sick-ward, their charnel ground, their latrine." Then the image that generalises it: <em>"just as, when a target is set up at a crossroads, arrows, spears, javelins, stones, and the like, coming from every direction, fall upon it, so too every calamity falls upon the body."</em></p>
+
+      <p data-rv>And <strong>"without any fixed sign"</strong> is the one that removes the last handhold. Five things, the text says, are without any determination at all: <em>how long you will live, what you will die of, when, where your body will fall, and where you go next.</em> Not one of them is knowable. The exercise is not to accept death in the abstract; it is to give up every remaining assumption about its shape.</p>
+
+      <h3 data-rv>2 · The vow, and what makes its form remarkable</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">無量壽經 · vows 18 and 19 of forty-eight</div>
+        <p><b>18 · Rebirth Assured by Ten Recitations.</b> "If the beings of the ten directions, with a sincere mind, believing and rejoicing, wish to be born in my land, and <strong>call my name to mind even ten times</strong>, and are not then born there, <strong>may I not attain to true awakening</strong> — excepting only those who commit the five heinous transgressions or slander the true Dharma."</p>
+        <p><b>19 · Met at the Hour of Death.</b> "If beings of the ten directions who have given rise to the mind of awakening, cultivated every merit, and with a sincere mind vowed to be born in my land, <strong>do not, at the hour of death, find me appearing before them with a great assembly surrounding me, may I not attain to true awakening.</strong>"</p>
+        <div class="zh">設我得佛，十方眾生，至心信樂，欲生我國，乃至十念，若不生者，不取正覺。唯除五逆，誹謗正法。<br>設我得佛，十方眾生，發菩提心，修諸功德，至心發願，欲生我國。臨壽終時，假令不與大眾圍繞現其人前者，不取正覺。</div>
+        <a class="bk" href="{{ '/sutras/immeasurable-life-sutra/the-forty-eight-vows.html' | relative_url }}">See this passage in the full text →</a>
+      </div>
+
+      <p data-rv>Look at the grammatical form rather than the content, because it is the form that carries the weight. 不取正覺 — <em>may I not attain to true awakening.</em> Every one of the forty-eight vows ends this way.</p>
+
+      <p data-rv>This is not a promise of help. <strong>It is a conditional self-disqualification.</strong> Dharmākara is saying: my own buddhahood is void if this fails. So if there is a buddha called Amitābha at all — and the sūtra's entire narrative is that there is — then by the logic of his own vow, the thing must hold. The tradition's confidence rests on that structure, not on sentiment.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Two honest notes, both from the sūtra's own page. Vow 18's exclusion clause — the five heinous transgressions and slander of the Dharma — "sits in visible tension" with other passages, and the sūtra does not resolve it. And the later elevation of vow 18 above the rest as "the King of Vows" is Hōnen's, in twelfth-century Japan; this sūtra does not rank its vows against one another at all.</em></p>
+
+      <h3 data-rv>3 · The same minute, and the same enemy</h3>
+
+      <p data-rv>Now the thing worth the whole session. Put the two texts' own statements of what they are for side by side.</p>
+
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 8 · the benefits of recollecting death</div>
+        <p>"<strong>Just as beings who have not developed this recollection of death fall, at the time of death, into fear, terror, and confusion</strong>, as though suddenly overcome by fierce wild animals, non-human beings, snakes, robbers, or an executioner — <strong>so he, without falling into any such state, dies unafraid and unconfused.</strong>"</p>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/anussatikammatthana-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">阿彌陀經 · from Read a Whole Sūtra, Session 7</div>
+        <p>"…then when that person's life comes to its end, Amitābha Buddha, together with the host of sages, will appear before them. And <strong>at the moment of death, that person's mind will not be inverted with confusion or fear</strong>, and they will at once attain rebirth in Amitābha Buddha's land of Utmost Bliss."</p>
+        <div class="zh">其人臨命終時，阿彌陀佛與諸聖眾，現在其前。是人終時，心不顛倒，即得往生阿彌陀佛極樂國土。</div>
+        <a class="bk" href="{{ '/sutras/amitabha-sutra.html' | relative_url }}">See this passage in the full sūtra →</a>
+      </div>
+
+      <div class="sq-take" data-rv>
+        <b class="h">What the two texts agree about</b>
+        <ul>
+          <li><b>The same moment.</b> Not the afterlife, not rebirth, not a cosmology. The minutes in which a person dies.</li>
+          <li><b>The same enemy.</b> Fear and confusion — 顛倒 in the Chinese, "inverted"; <em>bhaya, chambhitatta, sammoha</em> in the Pāli. Both texts name mental disorder at the hour of death as the thing to be prevented.</li>
+          <li><b>The same promised outcome.</b> A mind that is not overthrown. The Southern text says "dies unafraid and unconfused"; the Northern says the mind "will not be inverted with confusion or fear." These are nearly the same sentence in two languages.</li>
+          <li><b>And completely opposite methods.</b> Rehearse it daily for decades until it holds no surprise — or hold a name and be met. One puts the work entirely in this life, in your hands, in advance. The other puts it in a vow made by somebody else, before you were born.</li>
+        </ul>
+      </div>
+
+      <p data-rv>Which is why these two do not combine, and why the attempt to blend them usually produces something weaker than either. The Southern method works by removing every assumption you have about your death — <em>no fixed sign</em>, remember: not the time, not the cause, not the place, not the destination. The Northern method works by supplying exactly one assumption and asking you to stake everything on it. <strong>You cannot practise both on the same afternoon.</strong></p>
+
+      <p data-rv>The honest thing to say — and this course will not say more than this — is that both are addressed to the same failure, both have very large numbers of practitioners who report them working, and neither has ever persuaded the other.</p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · choose one, and do not mix them</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Pick a side for seven days</b>
+        <p>This is the one session where the practice is a choice rather than an exercise, because the two methods actively interfere with each other. Choose the one you are <em>less</em> drawn to, which will tell you more.</p>
+        <div class="how">
+          <b>The Southern version — five minutes, once a day.</b> Take the fifth of the eight approaches, "without any fixed sign," and work through the five items honestly: <em>I do not know how long. I do not know of what. I do not know when. I do not know where my body will be. I do not know what comes after.</em> Say each one and stop on it. Do not resolve any of them and do not follow them into anxiety — the text is clear that this practice induces urgency rather than calm, and that it cannot be made restful.<br><br>
+          <b>The Northern version — ten recitations, once a day.</b> The eighteenth vow says <em>ten</em>. So: <span style="font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:17px;">南無阿彌陀佛</span>, ten times, with attention, once each day. Not as a meditation and not to achieve a state. As taking somebody at their word.<br><br>
+          <b>At the end of the week, note what each one did to the ordinary day around it</b> — not whether it felt profound. The Southern approach tends to sharpen the day and make small things visible. The Northern tends to loosen a grip you did not know you were maintaining. Both effects are reported by millions of people. Neither proves anything.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Why is death to be recollected as "an executioner standing ready"?</div>
+          <button class="opt"><span class="ltr">A</span>Because the world is full of accidents and violence</button>
+          <button class="opt"><span class="ltr">B</span>Because one's own past unwholesome acts will eventually be punished</button>
+          <button class="opt"><span class="ltr">C</span>Because it came together with birth — a being, in the very act of being born, carries ageing-and-death upward with it, as a mushroom cap cannot push up without lifting the soil above it</button>
+          <button class="opt"><span class="ltr">D</span>Because the moment of death is unpredictable and could arrive at any time</button>
+          <div class="expl"><strong>Correct: C.</strong> Not external danger. 有生必死 — it arrived with you, and there is no version of you that did not include it. The sun and the mountain river make the directional point: never turning back <em>even slightly</em>. Unpredictability is a separate approach, the sixth.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The sixth approach, "without any fixed sign," removes any determination about five things. Which?</div>
+          <button class="opt"><span class="ltr">A</span>The five aggregates, each shown to be undetermined</button>
+          <button class="opt"><span class="ltr">B</span>How long you will live, what you will die of, when, where your body will fall, and where you go next</button>
+          <button class="opt"><span class="ltr">C</span>The five hindrances, none of which arise on schedule</button>
+          <button class="opt"><span class="ltr">D</span>The five destinies of rebirth, none of which is certain</button>
+          <div class="expl"><strong>Correct: B.</strong> Not one of the five is knowable. Which is why the exercise is not "accept death in the abstract" — it is the removal of every remaining assumption about its shape, including the comfortable ones.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Every one of the forty-eight vows ends 不取正覺 — "may I not attain to true awakening." What does that form accomplish?</div>
+          <button class="opt"><span class="ltr">A</span>It expresses the humility appropriate to a bodhisattva still on the path</button>
+          <button class="opt"><span class="ltr">B</span>It marks the vows as aspirations rather than commitments</button>
+          <button class="opt"><span class="ltr">C</span>It defers the promise until after Dharmākara's awakening</button>
+          <button class="opt"><span class="ltr">D</span>It makes each vow a conditional self-disqualification — his own buddhahood is void if the promise fails, so that if there is a buddha Amitābha at all, the promise must hold</button>
+          <div class="expl"><strong>Correct: D.</strong> Not a promise of help but a wager staked on his own buddhahood. The tradition's confidence rests on that structure rather than on sentiment — which is worth knowing before dismissing Pure Land as merely devotional.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Set the Visuddhimagga's statement of benefit beside the Amitābha Sūtra's promise. What do they share?</div>
+          <button class="opt"><span class="ltr">A</span>Both name mental disorder at the hour of death as the thing to be prevented, and both promise a mind not overthrown — "dies unafraid and unconfused" against a mind that "will not be inverted with confusion or fear"</button>
+          <button class="opt"><span class="ltr">B</span>Both promise a favourable rebirth as the principal outcome</button>
+          <button class="opt"><span class="ltr">C</span>Both promise the end of rebirth altogether</button>
+          <button class="opt"><span class="ltr">D</span>Nothing — they address entirely different concerns</button>
+          <div class="expl"><strong>Correct: A.</strong> The same minute, the same enemy, nearly the same sentence in two languages. 顛倒 in the Chinese, "inverted"; fear, terror and confusion in the Pāli. This is the finding of the session, and it is easy to miss because the two methods look so unlike each other.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why do these two methods not combine?</div>
+          <button class="opt"><span class="ltr">A</span>Because the traditions forbid mixing practices</button>
+          <button class="opt"><span class="ltr">B</span>Because one is for monastics and the other for laypeople</button>
+          <button class="opt"><span class="ltr">C</span>Because the Southern method works by removing every assumption about your death, while the Northern works by supplying exactly one and asking you to stake everything on it</button>
+          <button class="opt"><span class="ltr">D</span>Because they belong to different cosmologies which cannot both be true</button>
+          <div class="expl"><strong>Correct: C.</strong> "No fixed sign" means not the time, not the cause, not the place, not the destination. The eighteenth and nineteenth vows name the destination and who will be there. You cannot practise both on the same afternoon — and the attempt to blend them usually produces something weaker than either.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Which of the two would you want in the room?</p>
+        <p class="sm">Not which is true — you are not going to settle that this week, and neither tradition settled it in two thousand years of contact. The question is narrower and more useful: on the actual afternoon, with the actual diagnosis, which would you want to have spent thirty years preparing? Most people find they answer instantly and then cannot justify it, which is worth knowing about yourself. And notice that the answer you gave is very likely the practice you were <em>less</em> drawn to at the start of this page.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 7 · How should I live? The precept</h3>
+        <p>The fifth question, in two sessions. First, conduct: the Visuddhimagga opens its entire treatise with seven questions about virtue and does not reach meditation for two hundred pages — while the Brahmā Net Sūtra opens its bodhisattva precepts by declaring that filial devotion <em>is</em> the precept.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-5/' | relative_url }}">← Session 5</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
