@@ -1,0 +1,425 @@
+---
+layout: default
+title: "Session 2 · The physician who bowed to the boy (Fifty-Three Teachers)"
+permalink: /courses/fifty-three-teachers/session-2/
+excerpt: Session 2 of Fifty-Three Teachers — an elder physician teaching ten thousand people descends from his throne and prostrates full-length before a beginner, and Fazang has to explain why.
+---
+
+<style>
+  .ft{--moss:#6f7d3f;--moss-mid:#4a5528;--moss-deep:#1d2310;--gold:#dfc271;--gold-deep:#8d7422;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6ec;--ink:#232617;--ink-soft:#63684f;--line:#e2e5d4;}
+  .ft *{box-sizing:border-box;}
+  .ft-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .ft [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ft [data-rv].in{opacity:1;transform:none;}
+
+  .ft-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ft-crumb .ft-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ft-crumb a{color:var(--moss);text-decoration:none;}
+  .ft-crumb a:hover{text-decoration:underline;}
+
+  .ft-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,194,113,.22),transparent 62%),
+    linear-gradient(158deg,#6f7d3f 0%,#4a5528 46%,#1d2310 100%);color:#fff;}
+  .ft-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ft-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ft-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ft-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .ft-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .ft-hero .rd b{color:var(--gold);}
+
+  .ft-body{background:#fff;padding:44px 0 24px;}
+  .ft-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ft-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ft-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--moss);}
+  .ft-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ft-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ft-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--moss);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .ft-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fcfcf6,#f2f5e6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .ft-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .ft-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--moss-deep);margin:0 0 12px;}
+  .ft-scr p:last-of-type{margin-bottom:0;}
+  .ft-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .ft-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--moss);text-decoration:none;border-bottom:1px solid rgba(111,125,63,.4);}
+  .ft-scr a.bk:hover{border-bottom-color:var(--moss);}
+
+  .ft-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .ft-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .ft-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .ft-terms span b{color:var(--moss);}
+
+  .ft-take{background:linear-gradient(180deg,#fcfcf6,#eef2df);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ft-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--moss);margin-bottom:8px;}
+  .ft-take ul{margin:0;padding-left:20px;}
+  .ft-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .ft-take li b{color:var(--gold-deep);}
+
+  .ft-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .ft-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .ft-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .ft-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .ft-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .ft-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .ft-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .ft-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .ft-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;
+    box-shadow:0 24px 48px -30px rgba(29,35,16,.8);overflow:hidden;}
+  .ft-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#c2caa4;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(223,194,113,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .ft-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .ft-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);}
+  .ft-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .ft-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .ft-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--moss);
+    background:#eef2df;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .ft-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .ft-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ft-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .ft-prac p:last-child{margin-bottom:0;}
+  .ft-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .ft-quiz{background:#fcfcf6;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .ft-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .ft-quiz .q:first-of-type{padding-top:2px;}
+  .ft-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .ft-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--moss);text-transform:uppercase;margin-bottom:6px;}
+  .ft-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .ft-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .ft-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--moss);}
+  .ft-quiz .opt:hover:not(:disabled){background:#f1f5e4;border-color:var(--moss);}
+  .ft-quiz .opt:disabled{cursor:default;}
+  .ft-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .ft-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .ft-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .ft-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .ft-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .ft-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .ft-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .ft-quiz .expl.show{display:block;}
+  .ft-quiz .expl strong{color:var(--ink);}
+  .ft-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .ft-score strong{color:var(--moss);font-size:17px;}
+
+  .ft-reflect{background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .ft-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c2caa4;line-height:1.7;margin-top:14px;}
+
+  .ft-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .ft-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .ft-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .ft-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .ft-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ft-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ft-btn.primary{background:linear-gradient(158deg,#6f7d3f,#35401c);color:#fff;box-shadow:0 12px 26px -14px rgba(53,64,28,.85);}
+  .ft-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(53,64,28,.95);text-decoration:none;}
+  .ft-btn.ghost{border:1.5px solid var(--moss);color:var(--moss);background:transparent;}
+  .ft-btn.ghost:hover{background:var(--moss);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ft .ft-crumb,.ft-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .ft [data-rv]{opacity:1 !important;transform:none !important;}
+    .ft-hero{background:none;color:#000;padding:0;}
+    .ft-hero-in{padding:0 0 12px;}
+    .ft-eyebrow,.ft-hero .subt,.ft-hero .rd{color:#444;}
+    .ft-hero h1{color:#000;}
+    .ft-body{padding:0;}
+    .ft-body p,.ft-body h3,.ft-part h2,.ft-take li,.ft-prac p{color:#000;}
+    .ft-scr,.ft-take,.ft-prac,.ft-quiz,.ft-next{background:#fff !important;border:1px solid #bbb;}
+    .ft-scr p{color:#000;}
+    .ft-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-reflect p,.ft-reflect .l,.ft-reflect p.sm{color:#000;}
+    .ft-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-textcard h3,.ft-textcard p,.ft-textcard .go,.ft-textcard .trad{color:#000;}
+    .ft{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ft">
+
+  <nav class="ft-crumb"><div class="ft-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/fifty-three-teachers/' | relative_url }}">Fifty-Three Teachers</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="ft-hero">
+    <div class="ft-hero-in">
+      <div class="ft-eyebrow">Session 2 · The Ten Abodes · Teacher 4 of 53</div>
+      <h1>The physician who bowed to the boy</h1>
+      <div class="subt">The first layperson on the road, and the first time somebody gets the direction of respect backwards</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty minutes</span>
+        <span><b>Before class</b> Session 1</span>
+        <span><b>The text</b> Part 20 of 454</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="ft-body">
+    <div class="ft-wrap">
+
+      <!-- PART 1 -->
+      <div class="ft-part" data-rv><div class="pn">Part 1</div><h2>Who you'll meet<span class="rf">A doctor with ten thousand students, and one question he asks before teaching anything</span></h2></div>
+
+      <div class="ft-who" data-rv>
+        <span class="n">Teacher 4 of 53</span>
+        <span class="nm">Megha 彌伽</span>
+        <span class="rl">a physician, in the city of Spell-Medicine</span>
+        <span class="st">Part 20 of 454</span>
+      </div>
+
+      <p data-rv>Between Meghaśrī and this session Sudhana meets two more monastics — a teacher who spent twelve years looking at the ocean, and a monk who walks in open space. Then the road brings him to somebody with a job.</p>
+
+      <p data-rv>Megha is a physician. When Sudhana finds him he is not healing anyone: he is seated in the Hall of True Dharma, on a lion-throne, with ten thousand people around him, teaching a sūtra. By any ordinary measure of who defers to whom, this is the most lopsided meeting so far. An eminent man at the height of his authority; a boy who has walked in off the road.</p>
+
+      <p data-rv>Sudhana does what he did on the mountain — bows to the man's feet, circles him, stands to one side, and asks. His question this time runs to eleven clauses. And Megha, instead of answering any of them, asks a question back.</p>
+
+      <div class="ft-pull" data-rv>"Good son, have you already raised the mind of unsurpassed, perfect, complete awakening?" — "I have." And then the physician got down off his throne.</div>
+
+      <p data-rv>What follows is the first genuine shock of the pilgrimage. It is not a miracle, and nothing is transformed. An elder simply gets the direction of respect backwards, in public, in front of ten thousand people, and the text treats it as the most natural thing in the world — so much so that Fazang's commentary has to stop and explain why anybody should find it strange.</p>
+
+      <div class="ft-take" data-rv>
+        <b class="h">Three things worth having before you start</b>
+        <ul>
+          <li><b>Bodhicitta</b> (菩提心) — "the mind of awakening": the resolve to become a buddha for the sake of every being. In this episode it is not treated as a beginner's preliminary but as the thing the whole path is built out of, and the thing Megha bows to.</li>
+          <li><b>五體投地</b> — "five limbs to the ground": the full prostration, forehead, both hands and both knees touching the floor. It is what a monastic does before a buddha. It is what Megha does before the boy.</li>
+          <li><b>The Dharma-gate called Never in Vain</b> (所言不虛法門) — Megha's single attainment, and the strangest one yet: perfect comprehension of every language spoken by every kind of being, throughout three thousand great-thousand worlds.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ft-part" data-rv><div class="pn">Part 2</div><h2>The episode<span class="rf">One page, and the longest reading note in the first twenty parts</span></h2></div>
+
+      <p data-rv>Read the whole of Part 20, including the reading notes. Fazang's note after the first passage is unusually long because he clearly expects the reader to be troubled, and he answers the trouble three separate ways.</p>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-20/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 20 of 454 · Fascicle 46</div>
+        <h3>Megha the Physician, and Why the Elder Bows First</h3>
+        <p>Eleven questions, a prostration, thirteen similes for what a bodhisattva is, a cloud of light from the physician's own mouth — and a Dharma-gate that turns out to be about language.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p data-rv>One detail you will meet in the notes and should not skip: Fazang stops to flag a manuscript problem in the title of the sūtra Megha is teaching, reporting that some editions write 論 ("treatise") where two Sanskrit source texts give 輪 ("wheel"). It is a small thing. It is also a good picture of what reading with a commentary is actually like — a man in seventh-century Chang'an checking his copy against somebody else's, and saying so.</p>
+
+      <!-- PART 3 -->
+      <div class="ft-part" data-rv><div class="pn">Part 3</div><h2>Three moments, read closely</h2></div>
+
+      <p data-rv><strong>1. He got down off the throne.</strong></p>
+
+      <p data-rv>Megha does not praise Sudhana from where he is sitting. He leaves the seat, and then keeps going all the way to the floor.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 20 · the prostration</div>
+        <p>"At that time the physician descended from his lion-throne, prostrated himself with all five limbs touching the ground, and reverently bowed to Sudhana; having bowed, he scattered marvelous golden flowers and every kind of jeweled flower, priceless maṇi jewels, the finest sandalwood powder, and priceless jeweled robes, covering him with them …"</p>
+        <div class="zh">爾時，良醫下師子座，五體投地，敬禮善財；禮已，散妙金華，諸雜寶華、無價摩尼、勝末栴檀、無價寶衣，而以覆之……</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-20/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Notice the order of events. Megha asks whether the boy has raised the mind of awakening; Sudhana says he has; the prostration happens <em>immediately</em>, before a word of teaching has passed between them and before Sudhana has demonstrated anything whatsoever. The boy is, at this point, a person who has made a decision. That is the entire basis for the honour.</p>
+
+      <p data-rv>And there is no audience management. Ten thousand people are watching their teacher lie face-down in front of a stranger who has not said anything yet.</p>
+
+      <p data-rv><strong>2. Fazang's answer: the first mind is the harder one.</strong></p>
+
+      <p data-rv>The commentary offers three explanations, escalating. The first is conventional — honouring the Dharma by honouring whoever carries it. The second is Fazang's own: since the mind of awakening is the cause of buddhahood, anyone who honours the fruit is obliged to honour the cause. The third is a verse, and it is the one that actually does the work.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 20 · Fazang's reading note, quoting a verse</div>
+        <p>"Raising the mind and reaching its final end are, in the end, not different — but of these two minds, the first is the harder. One who has not yet crossed over, and yet resolves to bring others across first — it is to this that I bow, the very first raising of the mind."</p>
+        <div class="zh">發心畢竟二不別，如是二心前心難。自未得度先度他，故我頂禮初發心</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-20/' | relative_url }}">Read this note in full →</a>
+      </div>
+
+      <p data-rv>This is a genuine reversal, and it is worth resisting for a moment before accepting it. Ordinarily we rank a completed thing above an intended one; the person who finished the book outranks the person who has decided to write one. The verse says the opposite, and gives a reason: the resolve comes <em>before</em> any of the resolver's own safety. Megha has crossed. Sudhana has not, and has decided to carry other people anyway. On this reading the boy is not being flattered. He is being correctly ranked.</p>
+
+      <p data-rv>Fazang notices something else, a few paragraphs later, that most readers would pass over: after the teaching begins, Megha <em>returns to his throne</em>. The commentary raises the obvious objection — 前既敬禮，今何故復坐, "having already bowed in reverence earlier, why does he now sit down again?" — and answers that the two moments are doing different things. The bow honoured a raised mind between equals. The seat belongs to a teacher who is about to teach. Nothing has been taken back.</p>
+
+      <p data-rv><strong>3. And the attainment itself turns out to be language.</strong></p>
+
+      <p data-rv>Every teacher discloses one gate. Megha's is not a samādhi, not a vision, not a power over the elements. His is called 所言不虛 — Never in Vain — and what it consists of is this:</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 20 · Megha's own gate, and his disclaimer</div>
+        <p>"Good son, I have already accomplished the Dharma-gate called Never in Vain, discerning and understanding entirely the languages of every deva throughout the great trichiliocosm of three thousand worlds, and the languages of every nāga, yakṣa, gandharva, asura, garuḍa, kiṃnara, mahoraga, human, and non-human being … Good son, I know only this bodhisattva's own Dharma-gate called Never in Vain — how could I possibly explain a bodhisattva's own practices?"</p>
+        <div class="zh">善男子！我已成就所言不虛法門，分別了知三千大千世界，諸天語言，諸龍、夜叉、乾闥婆、阿脩羅、迦樓羅、緊那羅、摩睺羅伽、人非人等，一切語言……善男子！我唯知此菩薩所言不虛法門，云何能說諸菩薩行？</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-20/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>A physician's mastery, in a text with every cosmic option available to it, is that he can be understood by anyone. Fazang glosses the gate's Sanskrit name as "attaining the dhāraṇī of sublime sound," and the episode has already shown it working: the light from Megha's mouth brings devas and Brahmās down to listen, and he expounds "through skillful means according with them" — that is, in whatever each of them speaks.</p>
+
+      <p data-rv>Then the disclaimer, exactly as in Session 1, and in the same shape. <strong>Understanding every language spoken by every being in three thousand worlds is, he says, one gate.</strong></p>
+
+      <!-- PART 4 -->
+      <div class="ft-part" data-rv><div class="pn">Part 4</div><h2>One practice, for this week</h2></div>
+
+      <div class="ft-prac" data-rv>
+        <b class="h">Take one person's beginning seriously</b>
+        <p>Find somebody who has recently decided to do something hard and has not got anywhere with it yet — started learning an instrument, started a degree at forty, started sitting, started again after stopping. You will probably not have to look far, and you almost certainly know already who it is.</p>
+        <p>Then do the thing Megha does: <strong>treat the decision itself as the achievement</strong>. Say so out loud, to them, without adding advice, without "if you keep it up," and without any version of the sentence that quietly measures them against you.</p>
+        <div class="how">If that feels like an overstatement, sit with why. The verse Fazang quotes claims the beginning is the harder of the two minds; most of us behave as though it is the cheaper one. Notice which of those two you actually believe when you open your mouth.</div>
+      </div>
+
+      <p data-rv>There is a second, harder version of this practice, and it is optional. Apply it to your own beginning — the one you have been discounting because you have not got anywhere with it yet.</p>
+
+      <!-- PART 5 -->
+      <div class="ft-part" data-rv><div class="pn">Part 5</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="ft-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Megha asks Sudhana one question before responding to any of his eleven. What does he do the moment Sudhana answers it?</div>
+          <button class="opt"><span class="ltr">A</span>He dismisses the ten thousand in the assembly so the two can speak alone</button>
+          <button class="opt"><span class="ltr">B</span>He descends from his lion-throne, prostrates himself with all five limbs on the ground, and covers Sudhana with flowers, jewels and robes</button>
+          <button class="opt"><span class="ltr">C</span>He tests the boy's understanding before agreeing to teach him</button>
+          <button class="opt"><span class="ltr">D</span>He tells Sudhana to come back once he has practised for twelve years</button>
+          <div class="expl"><strong>Correct: B.</strong> 下師子座，五體投地，敬禮善財. Before any teaching has passed between them, and in front of ten thousand people. Sudhana has done nothing yet except decide.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Fazang's own preferred explanation for the prostration is 以菩提心是佛因故，重其果而敬其因. What does it say?</div>
+          <button class="opt"><span class="ltr">A</span>That the physician had known Sudhana in a previous life and recognised him</button>
+          <button class="opt"><span class="ltr">B</span>That laypeople bow to laypeople, so no rule of seniority was broken</button>
+          <button class="opt"><span class="ltr">C</span>That since the mind of awakening is the very cause of buddhahood, whoever honors the fruit must also honor the cause</button>
+          <button class="opt"><span class="ltr">D</span>That the prostration was directed at the buddhas of the ten directions, and Sudhana merely happened to be standing there</button>
+          <div class="expl"><strong>Correct: C.</strong> And Fazang adds that the honoring is itself already an enactment of the bodhisattva path, "offered here as a model for others to imitate" — which is to say, for the reader.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">The verse Fazang quotes compares the first raising of the mind with the final attainment. What does it claim?</div>
+          <button class="opt"><span class="ltr">A</span>That the two are in the end not different — but that of the two, the first mind is the harder</button>
+          <button class="opt"><span class="ltr">B</span>That the first mind is worthless until confirmed by attainment</button>
+          <button class="opt"><span class="ltr">C</span>That the two are entirely distinct, and only the final attainment deserves reverence</button>
+          <button class="opt"><span class="ltr">D</span>That neither deserves reverence, since both are empty of own-nature</button>
+          <div class="expl"><strong>Correct: A.</strong> 發心畢竟二不別，如是二心前心難 — and the reason given is 自未得度先度他, "one who has not yet crossed over, and yet resolves to bring others across first." The resolve comes before the resolver's own safety. That is what makes it harder.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Megha's own Dharma-gate is called 所言不虛, "Never in Vain." What does it actually consist of?</div>
+          <button class="opt"><span class="ltr">A</span>The power to cure any disease of body or mind</button>
+          <button class="opt"><span class="ltr">B</span>The ability to remain unmoved in samādhi for six months without breathing</button>
+          <button class="opt"><span class="ltr">C</span>Knowledge of every medicine growing anywhere in Jambudvīpa</button>
+          <button class="opt"><span class="ltr">D</span>Understanding every language spoken by every kind of being — devas, nāgas, yakṣas, humans and non-humans alike — throughout three thousand great-thousand worlds</button>
+          <div class="expl"><strong>Correct: D.</strong> In a text with every cosmic power available to it, this physician's mastery is that he can be understood by anyone. Fazang glosses the gate's Sanskrit name as "attaining the dhāraṇī of sublime sound." And Megha calls it one gate.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">After the prostration, Megha returns to his lion-throne to teach. Fazang raises this as an objection — 前既敬禮，今何故復坐 — and answers it how?</div>
+          <button class="opt"><span class="ltr">A</span>That the return to the seat retracts the bow, which had been an excess of feeling</button>
+          <button class="opt"><span class="ltr">B</span>That the assembly required it, and the text is recording a social compromise</button>
+          <button class="opt"><span class="ltr">C</span>That the two moments do different work — the bow honored a newly raised mind before any Dharma had passed between them, while the seat belongs to a teacher about to teach</button>
+          <button class="opt"><span class="ltr">D</span>That the throne is not his, and sitting on it is itself a further act of humility</button>
+          <div class="expl"><strong>Correct: C.</strong> Nothing is taken back. The relationship shifts from two people who have each raised the mind of awakening to a teacher and a student, and the seating follows the shift. Both are accurate at the moment they happen.</div>
+        </div>
+
+        <div class="ft-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFERRAL -->
+      <div class="ft-refer" data-rv>
+        <div class="l">And then he was sent on</div>
+        <p>"Good son, to the south of here there is a land called Grove-Dwelling; there is an elder there named Vimukta. Go to him and ask how a bodhisattva turns toward the bodhisattva path, cultivates the bodhisattva path, accomplishes the bodhisattva path, and reflects upon the bodhisattva path."</p>
+        <div class="zh">善男子！於此南方，有一國土，名曰住林；彼有長者，名曰解脫。汝詣彼問云何菩薩向菩薩道，修菩薩道，成菩薩道，思菩薩道。</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="ft-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="ft-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Whose beginning have you been quietly discounting because it has not produced anything yet?</p>
+        <p class="sm">The honest answers usually come in pairs — somebody else's, and your own. We are trained to respect completed things, and the training is so thorough that a person's resolve registers to us as, at best, a promissory note. Megha is at the top of his profession with ten thousand students in front of him, and he reads the room the other way round: the unfinished thing in the room is the harder thing in the room. You do not have to agree with him. But notice that disagreeing costs you the reason he gives, and the reason is not sentimental — it is that the boy decided to carry other people before securing himself.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="ft-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 3 · Fire and swords</h3>
+        <p>Sudhana is sent to an ascetic standing on a mountain of blades above a pit of fire, who tells him to climb the blades and jump in. For the first time on the road the boy does not obey — he doubts his teacher outright, and the text lets the doubt stand for a while before resolving it. The most uncomfortable episode of the Ten Abodes, and the one that says most about what trusting a teacher is and is not.</p>
+      </div>
+
+      <div class="ft-foot">
+        <a class="ft-btn ghost" href="{{ '/courses/fifty-three-teachers/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ft-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.ft');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
