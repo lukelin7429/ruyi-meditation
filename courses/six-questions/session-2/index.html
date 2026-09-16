@@ -1,0 +1,426 @@
+---
+layout: default
+title: "Session 2 · What is mind? The Southern map (Six Questions)"
+permalink: /courses/six-questions/session-2/
+excerpt: Session 2 of Six Questions — eighty-nine kinds of mind, thirty-six factors in a single wholesome thought, and the complete sequence of one act of knowing.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 2 · 心 · What is mind</div>
+      <h1>What is mind? · The Southern map</h1>
+      <div class="subt">Eighty-nine kinds of mind, and the full sequence of a single act of knowing</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty minutes</span>
+        <span><b>Before class</b> Session 1</span>
+        <span><b>The text</b> Visuddhimagga 14, the consciousness and formations sections</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question</h2></div>
+
+      <p data-rv><strong>What is mind?</strong></p>
+
+      <p data-rv>Last week both traditions agreed there is nobody inside. Having established that, you might reasonably expect the Southern tradition to fall silent on the subject — no owner, no more to say.</p>
+
+      <p data-rv>It does precisely the opposite. Buddhaghosa now maps the machinery in a level of detail that has no parallel anywhere in Western psychology before the twentieth century, and very little since. <strong>Eighty-nine distinct kinds of mind. Thirty-six mental factors accompanying the first kind of wholesome thought alone. A complete, ordered, moment-by-moment account of what happens between a sound reaching your ear and you knowing what it was.</strong></p>
+
+      <div class="sq-pull" data-rv>Why draw so careful a map of a machine with no driver? That question is the session.</div>
+
+      <p data-rv>This week is Southern only. The Cheng Weishi Lun looks at this same machinery next week and asks something Buddhaghosa never has to answer — so rather than cram both into one page, the question gets two sessions, one for each tradition, and the fork comes at the end of the second.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>One term to have in hand, because everything below depends on it. <strong>Citta</strong> is translated here as "consciousness" or "mind," but it does not mean a mind in the English sense — a thing you have. It means <strong>a single mind-moment</strong>: one event of knowing, arising and passing. When the text counts eighty-nine minds, it is counting kinds of event, not inhabitants.</em></p>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side south">The Southern answer</span><br>Read the map</h2></div>
+
+      <p data-rv>The same chapter as last week, further in. Start at "The Aggregate of Consciousness" and read through to the end of the formations aggregate. It is long and it counts things relentlessly; read what you can, and do not worry about retaining the numbers. The three passages that matter are quoted in full below.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 14 · Pāli, with Ru-Yi's translation</div>
+        <h3>Khandhaniddesa — consciousness, and formations</h3>
+        <p>Twenty-one wholesome minds, twelve unwholesome, thirty-six resultant, twenty functional; rebirth-linking; the full process of cognition; and the fifty-two mental factors.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have finished. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2>Three moments in the map</h2></div>
+
+      <h3 data-rv>1 · Eighty-nine minds — a taxonomy of events, not an anatomy of a thing</h3>
+
+      <p data-rv>The single hardest adjustment for a Western reader is right at the start, and it is grammatical before it is doctrinal.</p>
+
+      <p data-rv>We say "the mind," singular, definite — a place where things happen, which you own and inhabit. This chapter has no such object anywhere in it. What it has is <strong>a count of kinds of arising</strong>: twenty-one wholesome, twelve unwholesome, thirty-six resultant, twenty functional. Eighty-nine in all, each one a complete event of knowing that arises, does its work, and ceases.</p>
+
+      <p data-rv>Make that shift and the entire enterprise stops being strange. Buddhaghosa is not describing an organ. <strong>He is classifying weather.</strong> And once you know that, the answer to why he maps a mind with no owner becomes obvious — the absence of an owner is exactly what makes a map necessary. If there were somebody in there, you could simply ask them.</p>
+
+      <h3 data-rv>2 · What actually happens when you notice something</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 14 · the life-continuum, and the arrival of an object</div>
+        <p>"…in this way, when no other mind-moment interrupting this continuity occurs, it continues to occur, <strong>like the flow of a river</strong>, in a countless number of instances, as during a dreamless sleep and the like."</p>
+        <p>"Now, while the stream of the life-continuum is thus occurring, when beings' faculties are capable of grasping an object, then, a visible form having come into the eye's range, <strong>there is an impact upon the eye-sensitivity</strong> in dependence on that visible form; then, by the power of that impact, <strong>there is a disturbance of the life-continuum</strong>; then, the life-continuum having ceased, taking that very visible form as object, a functional mind-element arises, accomplishing the function of adverting, <strong>as though cutting off the life-continuum</strong>."</p>
+        <div class="zh">…evaṃ asati santānavinivattake aññasmiṃ cittuppāde nadīsotaṃ viya supinaṃ apassato niddokkamanakālādīsu aparimāṇasaṅkhyampi pavattatiyevāti… tadā cakkhussāpāthagate rūpe rūpaṃ paṭicca cakkhupasādassa ghaṭṭanā hoti, tato ghaṭṭanānubhāvena bhavaṅgacalanaṃ hoti…</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Underneath everything, running whether or not anything is happening, is the <strong>life-continuum</strong> — <em>bhavaṅga</em>, literally "a limb of becoming." It is resultant consciousness repeating, taking the same object, doing nothing. It is what is occurring during dreamless sleep. It is, in the strictest sense available to this tradition, <em>what you are when nothing is going on.</em></p>
+
+      <p data-rv>Then something arrives, and the chapter gives the sequence in strict order. The site's reading note lays it out:</p>
+
+      <div class="sq-take" data-rv>
+        <b class="h">The full process of a single act of knowing</b>
+        <ul>
+          <li><b>Impact</b> at the eye-door — something reaches the sensitivity.</li>
+          <li><b>Disturbance</b> of the life-continuum — the river ripples.</li>
+          <li><b>Adverting</b> — a mind-moment arises "as though cutting off" the continuum and turns toward the new thing.</li>
+          <li><b>Seeing</b> — the bare eye-consciousness. This is all that "seeing" means here.</li>
+          <li><b>Receiving</b>, then <b>investigating</b>, then <b>determining</b> — three further distinct moments.</li>
+          <li><b>Javana</b> — six or seven moments "realizing the object's full impact." This is where anything wholesome or unwholesome happens. Everything before it is morally neutral.</li>
+          <li><b>Registration</b> — if the object was vivid enough, one or two final moments, "compared to a boat pursued and briefly caught by the current after the oarsman's rowing has stopped."</li>
+        </ul>
+      </div>
+
+      <p data-rv>Read that list again with an ordinary moment in mind — you hear your own name across a room. The tradition's claim is that between the sound arriving and you feeling something about it, <strong>at least eleven distinct events occurred in a fixed order</strong>, and that only the last six or seven of them carried any moral weight at all.</p>
+
+      <p data-rv>And note where the river goes. Life continues in this pattern, process after process, "until the very last life-continuum moment of an existence itself becomes 'death' — falling away from that life — after which the entire cycle begins again with a fresh rebirth-linking." Death, on this map, is not a special event. It is one more moment of the same continuum, which happens to be the last one in this series.</p>
+
+      <h3 data-rv>3 · Coordination with nobody coordinating</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 14 · the aggregate of formations</div>
+        <p>"Herein, <strong>associated with the first sense-sphere wholesome consciousness, there are, firstly, twenty-seven fixed factors</strong> coming down by their own specific name, four occasional additions, and five not fixed — <strong>thirty-six in all</strong>… contact, volition, initial thought, sustained thought, joy, energy, life, concentration, faith, mindfulness, moral shame, moral dread, non-greed, non-hatred, non-delusion…"</p>
+        <p>"Herein, it touches, therefore it is 'contact.' This has the characteristic of touching… by reason of its being the basis for feeling, <strong>it should be regarded like a hideless cow</strong>."</p>
+        <div class="zh">Tattha kāmāvacarapaṭhamakusalaviññāṇasampayuttā tāva niyatā sarūpena āgatā sattavīsati, yevāpanakā cattāro, aniyatā pañcāti chattiṃsa… Tattha phusatīti phasso. Svāyaṃ phusanalakkhaṇo… Vedanādhiṭṭhānabhāvato pana niccammagāvī viya daṭṭhabbo.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Thirty-six factors — for <em>one</em> kind of wholesome mind-moment, the very first on the list. Not a person's mind over a lifetime. One moment.</p>
+
+      <p data-rv>Two of them are worth knowing by their images, both from the site's reading notes on this passage. <strong>Contact</strong> is compared to <em>a hideless cow</em>: an animal with no skin, which cannot help being affected by whatever touches its exposed flesh. That is what it is to be in contact with an object — not a decision to attend, but an inability not to be touched.</p>
+
+      <p data-rv>And <strong>volition</strong> — <em>cetanā</em>, the factor the Buddha identified with karma itself — is compared to <em>a senior pupil or master carpenter who accomplishes both his own task and directs everyone else's.</em> It works, and it organises the work of the others.</p>
+
+      <p data-rv>Which gives the session its actual finding, and it is stranger than either "there is a self" or "there is no self." <strong>There is coordination here, and quite sophisticated coordination — a foreman on site, thirty-five other factors doing specialised jobs, a strict order of operations — and no one at all is in charge of it.</strong> The master carpenter is himself one of the thirty-six. He arrived with the moment and will cease with it.</p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2><span class="sq-side north">Next week</span><br>The question this map leaves open</h2></div>
+
+      <p data-rv>Look once more at the life-continuum, and at the moment the process begins: <em>the life-continuum having ceased</em>, adverting arises. Each mind-moment fully passes away before the next arises. Nothing persists.</p>
+
+      <p data-rv>So: what carries anything across? If every moment ceases completely, what is it that makes tomorrow's mind <em>yours</em> rather than anyone's? The Southern system has answers — the continuum itself, and the causal relations between moments — and for Buddhaghosa's purposes they suffice, because his readers are not asking the question with any force.</p>
+
+      <p data-rv><strong>Xuánzàng's opponents are asking it with a great deal of force.</strong> And the Northern answer will be a consciousness the Southern map does not contain: a storehouse, running beneath all of this, neither permanent nor interrupted, described as a torrent. That is next week.</p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · five minutes · and one honest caveat</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Watch one thing arrive</b>
+        <p><b>The caveat first, because it matters.</b> The tradition holds these mind-moments to be far too fast to observe individually. This map is not a report of what anyone can see; it is a model of what is happening. Any practice that promises you will watch the eleven steps go by is lying to you, and this one does not.</p>
+        <div class="how">
+          <b>Sit for five minutes, eyes open, doing nothing in particular.</b> Wait for something to interrupt you — a sound outside, a movement, a thought arriving from nowhere.<br><br>
+          <b>Each time, note just two things.</b> First: <em>the interruption itself</em> — the fact that something cut in. Second: <em>what you had already decided about it by the time you noticed.</em> Pleasant, unpleasant, threatening, boring, mine, not mine.<br><br>
+          <b>The map says there were eight or more distinct events between those two.</b> You will not see them, and you are not being asked to. What you can see — and what almost nobody looks at — is that the second one <strong>arrived already finished.</strong> By the time the verdict reaches you, it has been passed.<br><br>
+          <b>Do it three or four times and stop.</b> The useful discovery here is not a state; it is noticing how much of an ordinary reaction was complete before you were consulted.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">When the Visuddhimagga counts "eighty-nine kinds of consciousness," what is being counted?</div>
+          <button class="opt"><span class="ltr">A</span>Eighty-nine parts of a single mind, like organs in a body</button>
+          <button class="opt"><span class="ltr">B</span>Eighty-nine stages a practitioner passes through on the path</button>
+          <button class="opt"><span class="ltr">C</span>Kinds of mind-moment — single events of knowing that arise, do their work, and cease; a taxonomy of events rather than an anatomy of a thing</button>
+          <button class="opt"><span class="ltr">D</span>Eighty-nine distinct beings or streams of consciousness</button>
+          <div class="expl"><strong>Correct: C.</strong> This is the grammatical adjustment the whole chapter depends on. English says "the mind," singular and definite — a place you own and inhabit. No such object appears anywhere here. Buddhaghosa is not describing an organ; he is classifying weather. Which is also why a map is needed at all: if somebody were in there, you could just ask them.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is the life-continuum (bhavaṅga), and when is it occurring?</div>
+          <button class="opt"><span class="ltr">A</span>The subtle body that passes between one life and the next</button>
+          <button class="opt"><span class="ltr">B</span>Resultant consciousness repeating on the same object and doing nothing — flowing "like the flow of a river," and what is occurring during dreamless sleep</button>
+          <button class="opt"><span class="ltr">C</span>The store of memories accumulated over a lifetime</button>
+          <button class="opt"><span class="ltr">D</span>The first moment of every cognitive process, before an object is identified</button>
+          <div class="expl"><strong>Correct: B.</strong> It runs underneath everything, whether or not anything is happening. In the strictest sense this tradition allows, it is what you are when nothing is going on — and the very last life-continuum moment of an existence is what the system calls death.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">In the full process of cognition, at which point does anything wholesome or unwholesome occur?</div>
+          <button class="opt"><span class="ltr">A</span>At the moment of impact, when the object reaches the sense-sensitivity</button>
+          <button class="opt"><span class="ltr">B</span>At adverting, when the mind turns toward the new object</button>
+          <button class="opt"><span class="ltr">C</span>At seeing — the bare sense-consciousness itself</button>
+          <button class="opt"><span class="ltr">D</span>At javana, six or seven moments in, after receiving, investigating and determining have all occurred; everything before it is morally neutral</button>
+          <div class="expl"><strong>Correct: D.</strong> Impact, disturbance, adverting, seeing, receiving, investigating, determining — seven events, none of them good or bad. Only then does javana run. Hearing your own name across a room involves at least eleven distinct events in fixed order, and only the last six or seven carry any moral weight.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Contact (phassa) is compared to a hideless cow. What does the image convey?</div>
+          <button class="opt"><span class="ltr">A</span>That being in contact with an object is not a decision to attend but an inability not to be touched</button>
+          <button class="opt"><span class="ltr">B</span>That the senses are wounded and require protection through restraint</button>
+          <button class="opt"><span class="ltr">C</span>That contact is painful and should be minimised</button>
+          <button class="opt"><span class="ltr">D</span>That the mind is passive and does nothing of its own</button>
+          <div class="expl"><strong>Correct: A.</strong> An animal with no skin cannot help being affected by whatever touches its exposed flesh. The image is about unavoidability, not injury — and it sits beside volition, compared to a master carpenter who both does his own work and directs everyone else's.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Thirty-six factors accompany the very first kind of wholesome consciousness — including volition, the "master carpenter" who organises the others. What does this establish?</div>
+          <button class="opt"><span class="ltr">A</span>That volition is the self the previous session failed to find</button>
+          <button class="opt"><span class="ltr">B</span>That the mind has a permanent governing faculty, even if it is not a person</button>
+          <button class="opt"><span class="ltr">C</span>That there is genuine coordination — a foreman, specialised jobs, a strict order of operations — with nobody at all in charge, since the foreman is himself one of the thirty-six and ceases with the moment</button>
+          <button class="opt"><span class="ltr">D</span>That the thirty-six factors are metaphors rather than distinct components</button>
+          <div class="expl"><strong>Correct: C.</strong> And this is stranger, and more interesting, than either "there is a self" or "there is no self." The organisation is real and quite sophisticated. The organiser arrived with the moment and will pass away with it. Note also the scale: thirty-six factors for <em>one</em> mind-moment, not for a person's mind over a lifetime.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>If nothing is in charge, what is deciding?</p>
+        <p class="sm">Something in you selected, this morning, which of several possible reactions to have — and by the account you have just read, the selecting was finished before you arrived. The Southern answer is that the conditions decided, in strict order, and that "you" is the name we give the sequence. Hold that for a week without resolving it, because next week the Northern tradition takes the same question, refuses that answer as insufficient, and proposes something underneath it.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 3 · What is mind? The Northern storehouse</h3>
+        <p>The Cheng Weishi Lun on the eighth consciousness — the ālaya, the storehouse, which receives every action as a seed and gives every experience back. Described in four characters that the tradition has argued about ever since: <em>constant, yet turning, like a torrent</em>.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-1/' | relative_url }}">← Session 1</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
