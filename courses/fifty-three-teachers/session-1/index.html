@@ -1,0 +1,435 @@
+---
+layout: default
+title: "Session 1 · Go south (Fifty-Three Teachers)"
+permalink: /courses/fifty-three-teachers/session-1/
+excerpt: Session 1 of Fifty-Three Teachers — Mañjuśrī names seeking a teacher as a bodhisattva's foremost treasury, and sends the boy Sudhana south to a monk who will insist he knows only one gate out of countless.
+---
+
+<style>
+  .ft{--moss:#6f7d3f;--moss-mid:#4a5528;--moss-deep:#1d2310;--gold:#dfc271;--gold-deep:#8d7422;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6ec;--ink:#232617;--ink-soft:#63684f;--line:#e2e5d4;}
+  .ft *{box-sizing:border-box;}
+  .ft-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .ft [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ft [data-rv].in{opacity:1;transform:none;}
+
+  .ft-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ft-crumb .ft-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ft-crumb a{color:var(--moss);text-decoration:none;}
+  .ft-crumb a:hover{text-decoration:underline;}
+
+  .ft-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,194,113,.22),transparent 62%),
+    linear-gradient(158deg,#6f7d3f 0%,#4a5528 46%,#1d2310 100%);color:#fff;}
+  .ft-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ft-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ft-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ft-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .ft-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .ft-hero .rd b{color:var(--gold);}
+
+  .ft-body{background:#fff;padding:44px 0 24px;}
+  .ft-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ft-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ft-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--moss);}
+  .ft-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ft-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ft-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--moss);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .ft-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fcfcf6,#f2f5e6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .ft-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .ft-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--moss-deep);margin:0 0 12px;}
+  .ft-scr p:last-of-type{margin-bottom:0;}
+  .ft-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .ft-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--moss);text-decoration:none;border-bottom:1px solid rgba(111,125,63,.4);}
+  .ft-scr a.bk:hover{border-bottom-color:var(--moss);}
+
+  .ft-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .ft-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .ft-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .ft-terms span b{color:var(--moss);}
+
+  .ft-take{background:linear-gradient(180deg,#fcfcf6,#eef2df);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ft-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--moss);margin-bottom:8px;}
+  .ft-take ul{margin:0;padding-left:20px;}
+  .ft-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .ft-take li b{color:var(--gold-deep);}
+
+  .ft-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .ft-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .ft-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .ft-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .ft-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .ft-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .ft-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .ft-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .ft-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;
+    box-shadow:0 24px 48px -30px rgba(29,35,16,.8);overflow:hidden;}
+  .ft-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#c2caa4;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(223,194,113,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .ft-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .ft-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);}
+  .ft-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .ft-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .ft-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--moss);
+    background:#eef2df;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .ft-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .ft-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ft-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .ft-prac p:last-child{margin-bottom:0;}
+  .ft-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .ft-quiz{background:#fcfcf6;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .ft-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .ft-quiz .q:first-of-type{padding-top:2px;}
+  .ft-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .ft-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--moss);text-transform:uppercase;margin-bottom:6px;}
+  .ft-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .ft-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .ft-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--moss);}
+  .ft-quiz .opt:hover:not(:disabled){background:#f1f5e4;border-color:var(--moss);}
+  .ft-quiz .opt:disabled{cursor:default;}
+  .ft-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .ft-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .ft-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .ft-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .ft-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .ft-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .ft-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .ft-quiz .expl.show{display:block;}
+  .ft-quiz .expl strong{color:var(--ink);}
+  .ft-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .ft-score strong{color:var(--moss);font-size:17px;}
+
+  .ft-reflect{background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .ft-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c2caa4;line-height:1.7;margin-top:14px;}
+
+  .ft-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .ft-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .ft-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .ft-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .ft-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ft-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ft-btn.primary{background:linear-gradient(158deg,#6f7d3f,#35401c);color:#fff;box-shadow:0 12px 26px -14px rgba(53,64,28,.85);}
+  .ft-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(53,64,28,.95);text-decoration:none;}
+  .ft-btn.ghost{border:1.5px solid var(--moss);color:var(--moss);background:transparent;}
+  .ft-btn.ghost:hover{background:var(--moss);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ft .ft-crumb,.ft-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .ft [data-rv]{opacity:1 !important;transform:none !important;}
+    .ft-hero{background:none;color:#000;padding:0;}
+    .ft-hero-in{padding:0 0 12px;}
+    .ft-eyebrow,.ft-hero .subt,.ft-hero .rd{color:#444;}
+    .ft-hero h1{color:#000;}
+    .ft-body{padding:0;}
+    .ft-body p,.ft-body h3,.ft-part h2,.ft-take li,.ft-prac p{color:#000;}
+    .ft-scr,.ft-take,.ft-prac,.ft-quiz,.ft-next{background:#fff !important;border:1px solid #bbb;}
+    .ft-scr p{color:#000;}
+    .ft-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-reflect p,.ft-reflect .l,.ft-reflect p.sm{color:#000;}
+    .ft-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-textcard h3,.ft-textcard p,.ft-textcard .go,.ft-textcard .trad{color:#000;}
+    .ft{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ft">
+
+  <nav class="ft-crumb"><div class="ft-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/fifty-three-teachers/' | relative_url }}">Fifty-Three Teachers</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="ft-hero">
+    <div class="ft-hero-in">
+      <div class="ft-eyebrow">Session 1 · The Ten Abodes · Teacher 1 of 53</div>
+      <h1>Go south</h1>
+      <div class="subt">The instruction that starts the longest journey in the canon — and the first teacher, who immediately says he barely knows anything</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty-five minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>The text</b> Parts 15 and 16 of 454</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="ft-body">
+    <div class="ft-wrap">
+
+      <!-- PART 1 -->
+      <div class="ft-part" data-rv><div class="pn">Part 1</div><h2>Who you'll meet<span class="rf">And why the pilgrimage begins with a man who claims almost nothing</span></h2></div>
+
+      <div class="ft-who" data-rv>
+        <span class="n">Teacher 1 of 53</span>
+        <span class="nm">Meghaśrī 功德雲</span>
+        <span class="rl">a monk, on the peak of the mountain called Union</span>
+        <span class="st">Part 16 of 454</span>
+      </div>
+
+      <p data-rv>A boy has just finished describing his own life as a besieged city. Arrogance for ramparts, craving for a moat, the three poisons burning inside the walls and a demon-king on the throne. He has said all this out loud, in verse, in front of a crowd, to the bodhisattva of wisdom himself. And then he asks for help.</p>
+
+      <p data-rv>What Mañjuśrī gives him is not a teaching. It is <strong>an address</strong>. Go south, to a land called Delightful; there is a mountain there called Union; on it there is a monk. Ask him.</p>
+
+      <div class="ft-pull" data-rv>The whole of this course is contained in that answer. Wisdom does not hand the boy the Dharma. It hands him a direction, and the name of somebody else.</div>
+
+      <p data-rv>This is the moment the <em>Gaṇḍavyūha</em> commits to its method, and the method is strange enough to be worth naming plainly. Sudhana will never once go to the Buddha. He will not sit down with a book. He will walk — for the rest of the chapter, seventeen fascicles of it — from one person to the next, and each person will teach him exactly one thing and then tell him to leave. Fifty-three times.</p>
+
+      <p data-rv>Session 1 covers the send-off and the first arrival. They belong together, because the first teacher's behaviour is what makes sense of the send-off. Meghaśrī can see buddhas in numbers the text exhausts its vocabulary trying to say — "beyond telling upon beyond telling," motes of dust in three thousand worlds. He names twenty-one separate gates of samādhi. And in the same breath he says he knows one of them, and could not tell you about the rest.</p>
+
+      <div class="ft-take" data-rv>
+        <b class="h">Four words worth having before you start</b>
+        <ul>
+          <li><b>Kalyāṇamitra</b> (善知識) — usually "good spiritual friend," and it does not mean a friend who is spiritual. It means someone whose presence is a cause of your awakening. In this chapter it covers monks, merchants, children, kings, night-goddesses and at least one person from another religion entirely.</li>
+          <li><b>Samādhi</b> (三昧) — a state of settled, undistracted absorption. Meghaśrī's twenty-one "gates" are twenty-one different doorways into one such state, each opening onto a different way of beholding buddhas.</li>
+          <li><b>The practice of Samantabhadra</b> (普賢行) — the horizon of the whole chapter and the thing Sudhana is told to ask about from the very first question. He reaches it in the very last session of this course.</li>
+          <li><b>Fazang</b> (法藏, 643–712) — the third patriarch of the Huayan school, whose commentary 華嚴經探玄記 supplies the reading notes on every page of the translation. Where this course says "Fazang observes," it is quoting those notes.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ft-part" data-rv><div class="pn">Part 2</div><h2>The episode<span class="rf">Two parts of the translation — read them both before going on</span></h2></div>
+
+      <p data-rv>Read the send-off first, then the arrival. Together they are about fifteen minutes. Both pages carry Buddhabhadra's early-fifth-century Chinese beside Ru-Yi's English, with Fazang's reading notes after each passage.</p>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-15/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 15 of 454 · Fascicle 46</div>
+        <h3>Mañjuśrī's Reply, and the Nine Questions</h3>
+        <p>Wisdom answers the boy's hymn of entrapment with a method rather than a rescue — and then gives him the nine questions he will put, in substance, to every teacher he ever meets.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-16/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 16 of 454 · Fascicle 46</div>
+        <h3>Meghaśrī, the First Teacher</h3>
+        <p>Seven days' searching on the mountain called Union, twenty-one gates of samādhi for beholding the buddhas, and the disclaimer that follows them immediately.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p data-rv>If the page's opening note on <em>why fifty-three teachers, not one</em> looks long, read it anyway — it is Fazang's eight reasons for the entire structure, and this course will come back to three of them by name.</p>
+
+      <!-- PART 3 -->
+      <div class="ft-part" data-rv><div class="pn">Part 3</div><h2>Three moments, read closely</h2></div>
+
+      <p data-rv><strong>1. The treasury is not a thing you get. It is a thing you do.</strong></p>
+
+      <p data-rv>Sudhana has asked how to escape a burning city. Mañjuśrī praises the question, and then says something that is easy to read past because it sounds like an ordinary piece of religious encouragement. It is not. It is the structural key to the next four hundred pages.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 15 · Mañjuśrī to Sudhana</div>
+        <p>"Good son, this itself is a bodhisattva's own foremost treasury, fully endowed with omniscience — namely: seeking out a good spiritual friend, drawing near to that friend, honoring and making offering to them."</p>
+        <div class="zh">善男子！是為菩薩第一之藏，具一切智，所謂：求善知識，親近恭敬而供養之。</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-15/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Notice what is <em>not</em> named as the foremost treasury. Not a realisation. Not a state of meditation. Not a text, a vow, or an accumulation of merit. The treasury is <strong>the act of going to find someone and sitting down in front of them</strong> — and it is said to be "fully endowed with omniscience" already, before any teacher has taught the boy anything at all.</p>
+
+      <p data-rv>Fazang's fourth reason for the whole structure says the same thing from the other side: 寄成行故 — the seeking itself is what constitutes the practice, so that "even should a given search yield nothing, the search has already accomplished something." This is a far stronger claim than it looks. It means the pilgrimage is not a means to an end that arrives at teacher fifty-three. The walking is the thing.</p>
+
+      <p data-rv><strong>2. Seven days on the mountain, and the teacher was not at the trailhead.</strong></p>
+
+      <p data-rv>Sudhana has an address, a land, a mountain and a name. He still cannot find the man.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 16 · the first arrival</div>
+        <p>"Within that mountain, searching in every direction, single-mindedly he looked for where the great teacher might be found; he sought in this way for seven full days. At that time Sudhana saw that monk at the very peak of the mountain, walking in quiet contemplation."</p>
+        <div class="zh">於彼山中，十方周遍，一心觀察，求覓太師，為在何所；如是尋求，乃至七日。……爾時，善財見彼比丘，乃在山頂，靜思經行……</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-16/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>A chapter this vast could have had the monk waiting at the foot of the path. Instead the text spends a sentence on a week of failure. Nobody helps. There is no sign. Sudhana searches "in every direction" and finds nothing for seven days, and the sūtra does not treat this as an obstacle to be complained about — it is simply what arriving costs.</p>
+
+      <p data-rv>Fazang reads even the place-names as part of the teaching: the land is called Delightful because the stage of faith itself delights in this first of the Ten Abodes, and the mountain is called Union <em>because the monk on it has come into correspondence with samādhi</em> — and because it brings Sudhana himself into correspondence with the stage he is entering. The geography is a description of the encounter, written in advance.</p>
+
+      <p data-rv><strong>3. Twenty-one gates — and then the sentence this whole course turns on.</strong></p>
+
+      <p data-rv>Meghaśrī's teaching is enormous. He sees buddhas east, south, west, north, in the four intermediate directions, above and below; in ones and twos, then in hundreds of millions of nayutas, then in numbers the translation has to build out of negations — immeasurable, beyond naming, beyond telling. He then names twenty-one distinct samādhi-gates of mindfulness of the Buddha, each one a different doorway: one beholding every buddha of the three times, one beholding every buddha inside a single pore, one beholding a single buddha's body filling the whole Dharma-realm.</p>
+
+      <p data-rv>And then, at the height of it, he says this:</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 16 · Meghaśrī's disclaimer</div>
+        <p>"Good son, I know only this light of the universal gate, the samādhi of contemplating and rightly holding the buddhas in mind — how could I possibly understand a bodhisattva's own perfect, pure practice of wisdom?"</p>
+        <div class="zh">善男子！我唯知此普門光明，觀察正念諸佛三昧；豈能了知菩薩圓滿清淨智行？</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-16/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Every one of the fifty-three says a version of this. It is the fixed hinge of the pattern, and it is the reason the pilgrimage can keep going — if any teacher had claimed the whole thing, the road would have stopped at their door.</p>
+
+      <p data-rv>Fazang lists it as the sixth reason for the whole structure, 顯深廣故: to show how deep and how broad the Dharma actually is. His argument is uncomfortable and worth stating in full. If a figure this advanced insists on "I know only this one Dharma-gate," then a beginner's confidence in having understood Buddhism is exposed as exactly the presumption the pilgrimage exists to correct. The first thing Sudhana learns, before any content at all, is <strong>what an honest self-assessment sounds like</strong>.</p>
+
+      <!-- PART 4 -->
+      <div class="ft-part" data-rv><div class="pn">Part 4</div><h2>One practice, for this week</h2></div>
+
+      <div class="ft-prac" data-rv>
+        <b class="h">Ask one question of someone you would not call a teacher</b>
+        <p>Not a Dharma question. A real one — about something they know and you don't. The person who repairs things. The colleague two desks away whose job you have never understood. A parent. Someone half your age.</p>
+        <p>Two conditions, and they are the whole exercise. <strong>Ask, rather than confirm</strong> — the question has to be one whose answer you do not already have. And <strong>let them finish</strong>, including the part where they are still thinking.</p>
+        <div class="how">Afterwards, write down one sentence: what did they know that you did not? If the honest answer is "nothing," write that down too, and read Fazang's fourth reason again — the seeking is the practice, and a search that yields nothing has still been a search. Then do it once more with somebody else.</div>
+      </div>
+
+      <p data-rv>The point of the exercise is not information. It is the posture. Sudhana walked for seven days and then bowed his head to the feet of a stranger before asking anything — and he was, the text has already told us, a boy in whose household seven great treasuries appeared at his conception. The posture is the difficult part, and it is the part the whole chapter drills, fifty-three times.</p>
+
+      <!-- PART 5 -->
+      <div class="ft-part" data-rv><div class="pn">Part 5</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read, not from what you already believe about Buddhism. One attempt each.</p>
+
+      <div class="ft-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Mañjuśrī tells Sudhana that one thing in particular is "a bodhisattva's own foremost treasury, fully endowed with omniscience." What is it?</div>
+          <button class="opt"><span class="ltr">A</span>The mind of unsurpassed, perfect, complete awakening, once it has been raised</button>
+          <button class="opt"><span class="ltr">B</span>The twenty-one samādhi-gates of mindfulness of the Buddha</button>
+          <button class="opt"><span class="ltr">C</span>Seeking out a good spiritual friend, drawing near to them, honoring them and making offering to them</button>
+          <button class="opt"><span class="ltr">D</span>The practice of Samantabhadra, brought to completion</button>
+          <div class="expl"><strong>Correct: C.</strong> 求善知識，親近恭敬而供養之. Not a realisation and not a state — an activity, and one the boy can begin immediately. The sentence is the structural key to the entire chapter.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">How long does Sudhana search the mountain called Union before he finds Meghaśrī?</div>
+          <button class="opt"><span class="ltr">A</span>He does not have to search — Meghaśrī is waiting for him where the path begins</button>
+          <button class="opt"><span class="ltr">B</span>Seven days, searching in every direction and finding nothing</button>
+          <button class="opt"><span class="ltr">C</span>Twelve years, the same span Sāgaramegha later spends gazing at the ocean</button>
+          <button class="opt"><span class="ltr">D</span>A single thought-moment, since distance has no reality in the Dharma-realm</button>
+          <div class="expl"><strong>Correct: B.</strong> 如是尋求，乃至七日. The text spends one sentence on a week of failure and treats it as unremarkable — simply what arriving costs. He then finds the monk at the very peak, walking in quiet contemplation.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">After naming twenty-one distinct samādhi-gates for beholding the buddhas, what does Meghaśrī immediately say?</div>
+          <button class="opt"><span class="ltr">A</span>That Sudhana should now practise all twenty-one in the order given</button>
+          <button class="opt"><span class="ltr">B</span>That these gates are the complete content of the bodhisattva path</button>
+          <button class="opt"><span class="ltr">C</span>That he attained them under Mañjuśrī, and Sudhana should therefore return north</button>
+          <button class="opt"><span class="ltr">D</span>That he knows only this one gate, and could not possibly understand a bodhisattva's perfect, pure practice of wisdom</button>
+          <div class="expl"><strong>Correct: D.</strong> 我唯知此普門光明…豈能了知菩薩圓滿清淨智行. Every one of the fifty-three closes with a version of this disclaimer. Had any of them claimed the whole thing, the road would have ended at their door.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Among Fazang's eight reasons for fifty-three teachers rather than one, the third is 破見慢故 — "to break views and pride." What does he say it is accomplished by?</div>
+          <button class="opt"><span class="ltr">A</span>By making Sudhana approach teachers of every age, gender and class — including non-human and heterodox ones — without discrimination</button>
+          <button class="opt"><span class="ltr">B</span>By requiring him to fast and keep silence between one teacher and the next</button>
+          <button class="opt"><span class="ltr">C</span>By having each teacher refuse him once before agreeing to teach</button>
+          <button class="opt"><span class="ltr">D</span>By concealing each teacher's attainment until Sudhana has correctly guessed it</button>
+          <div class="expl"><strong>Correct: A.</strong> The diversity of the fifty-three is not local colour; on Fazang's reading it is the instrument. Sessions 6, 7 and 9 of this course test exactly how far a reader is willing to let it work.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">How does the encounter with Meghaśrī end?</div>
+          <button class="opt"><span class="ltr">A</span>Sudhana is invited to remain on the mountain and train under him</button>
+          <button class="opt"><span class="ltr">B</span>Meghaśrī summarises what the next teacher will teach, so Sudhana arrives prepared</button>
+          <button class="opt"><span class="ltr">C</span>Meghaśrī praises a monk named Sāgaramegha at Sea Gate, to the south, and sends Sudhana to ask him</button>
+          <button class="opt"><span class="ltr">D</span>Mañjuśrī reappears and conducts Sudhana to the second teacher himself</button>
+          <div class="expl"><strong>Correct: C.</strong> Praise of the next teacher's qualities, a direction south, and no hint of the actual content — that, like everything else on this road, Sudhana will only learn by going and asking. Fazang names this closing move 仰推勝進, "looking up in reverence and being directed further."</div>
+        </div>
+
+        <div class="ft-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFERRAL -->
+      <div class="ft-refer" data-rv>
+        <div class="l">And then he was sent on</div>
+        <p>"Good son, to the south there is a land called Sea Gate; there is a monk there named Sāgaramegha, 'Ocean Cloud.' Go to him and ask about a bodhisattva's own practice."</p>
+        <div class="zh">善男子！南方有國，名曰海門；彼有比丘，名曰海雲；汝應詣彼，問菩薩行。</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="ft-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="ft-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Meghaśrī can behold buddhas as numerous as motes of dust in three thousand worlds, and says he knows one gate. What exactly are you claiming to know?</p>
+        <p class="sm">Be specific, because the vague version of this question is easy to agree with and costs nothing. Pick one thing you would describe yourself as understanding — a tradition, a practice, a person, your own mind — and try saying Meghaśrī's sentence about it out loud, in your own words. Notice whether it feels like humility or like losing something. That reaction is worth more than the answer; it is the first measurement the pilgrimage takes of anyone who starts walking it.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="ft-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · The physician who bowed to the boy</h3>
+        <p>Sudhana walks on past two more teachers and arrives, for the first time, at somebody with a job. Megha is a physician in a city called Spell-Medicine, seated on a lion-throne with ten thousand people in front of him — and the moment he hears that this boy has raised the mind of awakening, he descends and prostrates himself on the ground before him. The first layperson on the road, and the first inversion of who is supposed to bow to whom.</p>
+      </div>
+
+      <div class="ft-foot">
+        <a class="ft-btn ghost" href="{{ '/courses/fifty-three-teachers/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ft-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.ft');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>

@@ -1,0 +1,332 @@
+---
+layout: default
+title: Fifty-Three Teachers
+permalink: /courses/fifty-three-teachers/
+excerpt: A thirteen-session route through Sudhana's pilgrimage in the Gaṇḍavyūha — a physician, a girl, an incense-seller, a sea-captain, a king who only appears to be cruel, and a teacher from outside the tradition altogether.
+---
+
+<style>
+  .fi{--moss:#6f7d3f;--moss-mid:#4a5528;--moss-deep:#1d2310;--gold:#dfc271;--gold-deep:#8d7422;
+      --jade:#2f6d5e;--cream:#f8f6ec;--ink:#232617;--ink-soft:#63684f;--line:#e2e5d4;}
+  .fi *{box-sizing:border-box;}
+  .fi-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .fi [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .fi [data-rv].in{opacity:1;transform:none;}
+
+  .fi-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .fi-crumb .fi-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .fi-crumb a{color:var(--moss);text-decoration:none;}
+  .fi-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .fi-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 82% 10%,rgba(223,194,113,.24),transparent 62%),
+      linear-gradient(158deg,#6f7d3f 0%,#4a5528 46%,#1d2310 100%);}
+  .fi-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .fi-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .fi-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .fi-hero .subt{font-style:italic;font-size:19px;color:#eaeedb;max-width:42ch;}
+  .fi-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .fi-facts span{font-size:13px;color:#eaeedb;border:1px solid rgba(223,194,113,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+  /* a road going south, with something travelling along it */
+  .fi-road{position:absolute;right:-30px;top:-20px;width:330px;height:340px;z-index:1;}
+  .fi-road path{fill:none;stroke:rgba(223,194,113,.28);stroke-width:2;stroke-dasharray:5 11;stroke-linecap:round;}
+  .fi-road circle{fill:rgba(223,194,113,.85);}
+  .fi-road .walker{animation:fiwalk 22s linear infinite;}
+  @keyframes fiwalk{from{offset-distance:0%;}to{offset-distance:100%;}}
+  .fi-road .walker{offset-path:path("M 40 10 C 150 70, 20 150, 130 210 S 40 300, 150 330");offset-rotate:0deg;}
+  @media (prefers-reduced-motion:reduce){.fi-road .walker{animation:none;}}
+
+  .fi-body{background:#fff;padding:56px 0 20px;}
+  .fi-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .fi-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--moss);}
+  .fi-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .fi-sec{margin:46px 0;}
+  .fi-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--moss);margin-bottom:12px;}
+
+  .fi-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;
+    box-shadow:0 26px 52px -30px rgba(29,35,16,.75);}
+  .fi-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .fi-promise .q em{color:var(--gold);font-style:italic;}
+  .fi-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .fi-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .fi-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .fi-obj li b{color:var(--moss);}
+  .fi-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--jade);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .fi-rhythm{display:grid;gap:10px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.fi-rhythm{grid-template-columns:repeat(6,1fr);}}
+  .fi-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 8px;}
+  .fi-rc .n{font-family:'Playfair Display',serif;color:var(--moss);font-weight:700;font-size:15px;}
+  .fi-rc b{display:block;color:var(--ink);font-size:14px;margin:4px 0 2px;}
+  .fi-rc span{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+
+  .fi-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .fi-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .fi-row:last-child{border-bottom:none;}
+  .fi-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--moss);text-align:center;}
+  .fi-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .fi-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .fi-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .fi-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .fi-row.live:hover{background:#fbfcf6;padding-left:26px;}
+  .fi-row.live .st{background:var(--moss);color:#fff;}
+  .fi-row.soon{background:#fcfdf8;cursor:default;}
+  .fi-row.soon .wk,.fi-row.soon .ti{color:#9ba290;}
+  .fi-row.soon .st{background:#edf0e2;color:#9aa383;}
+  @media(max-width:560px){
+    .fi-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .fi-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .fi-row.live:hover{padding-left:20px;}
+  }
+  .fi-mvbar{display:flex;align-items:center;gap:10px;padding:9px 20px;background:linear-gradient(90deg,#f2f5e6,#fff);border-bottom:1px solid var(--line);}
+  .fi-mvbar .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;color:var(--moss);font-size:16px;}
+  .fi-mvbar em{font-style:normal;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);}
+
+  .fi-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .fi-card ul{margin:6px 0 0;padding-left:20px;}
+  .fi-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .fi-card li b{color:var(--moss);}
+
+  .fi-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .fi-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .fi-btn.primary{background:linear-gradient(158deg,#6f7d3f,#35401c);color:#fff;box-shadow:0 14px 30px -16px rgba(53,64,28,.85);}
+  .fi-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(53,64,28,.95);}
+  .fi-btn.ghost{border:1.5px solid var(--moss);color:var(--moss);}
+  .fi-btn.ghost:hover{background:var(--moss);color:#fff;text-decoration:none;}
+
+  .fi-teacher{background:var(--moss-deep);color:#dde2c9;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .fi-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .fi-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="fi">
+
+  <nav class="fi-crumb"><div class="fi-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> → <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → Fifty-Three Teachers</div></nav>
+
+  <!-- HERO -->
+  <section class="fi-hero">
+    <svg class="fi-road" viewBox="0 0 200 340" aria-hidden="true">
+      <path d="M 40 10 C 150 70, 20 150, 130 210 S 40 300, 150 330"/>
+      <circle class="walker" cx="0" cy="0" r="4.5"/>
+    </svg>
+    <div class="fi-hero-in">
+      <div class="fi-eyebrow">Ru-Yi Academy · Course · The Road South</div>
+      <h1>Fifty-Three Teachers</h1>
+      <div class="subt">五十三位老師 — Sudhana walks south, and learns from whoever is in front of him</div>
+      <div class="fi-facts">
+        <span>13 sessions</span>
+        <span>A route through 53 teachers</span>
+        <span>Taught in English</span>
+        <span>Free · the whole pilgrimage on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="fi-body">
+    <div class="fi-wrap">
+
+      <p class="fi-lede first" data-rv>A boy named Sudhana is told by Mañjuśrī to go south and find a teacher. He finds one. That teacher teaches him one thing, insists it is the only thing he knows, and sends him further south to somebody else. Fifty-three times.</p>
+
+      <p data-rv>The people he is sent to are: a monk on a mountain. A man who has stared at the sea for twelve years. A physician. A laywoman. An ascetic standing on a hill of fire and blades. A girl. An elder who used to sell incense. A king whose punishments are so horrifying that Sudhana doubts he can be a bodhisattva at all. <strong>A renunciant of an entirely different religion.</strong> A sea-captain. A woman whose reputation makes strangers warn Sudhana away from her door. Nine night-goddesses. The Buddha's own mother. A schoolteacher, who immediately refers him on to his own best pupil — <strong>a child</strong>. And at the end, a tower large enough to contain the universe, and the bodhisattva standing in front of it.</p>
+
+      <p data-rv>This is the longest sustained narrative in the Buddhist canon: seventeen fascicles of the Avataṃsaka Sūtra, one pilgrimage, recounted in full. It is translated complete on this site, across 454 parts, with Fazang's eighth-century commentary throughout. <strong>There is no other course like this in English, because there is no other complete translation to teach it from.</strong></p>
+
+      <div class="fi-promise" data-rv>
+        <p class="q">Fifty-three teachers, and not one of them is who you would have chosen. <em>The subject of this course is that you can learn from anyone — and how unwelcome that turns out to be.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- WHAT THIS COURSE IS -->
+      <div class="fi-sec" data-rv>
+        <div class="lbl">What these thirteen sessions are</div>
+        <p style="margin:0 0 14px;">Fifty-three teachers will not fit into a term, and a summary of fifty-three teachers would be worth nothing. So this is a <strong>route</strong> — thirteen teachers chosen because together they make the pilgrimage's argument, with at least one drawn from each of the five stages the path traces. Each session reads that teacher's episode in full, from the text.</p>
+        <p style="margin:0;">The other forty are all there, complete, and the course points at them constantly. If you want the whole pilgrimage rather than a route through it, <a href="{{ '/sutras/gandavyuha/' | relative_url }}" style="color:var(--moss);font-weight:600;">start at Part 1 and keep walking</a>.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="fi-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="fi-obj">
+          <li>Recognise <b>the pattern every episode follows</b> — a teaching given, a single liberation disclosed, a disclaimer that this is the only gate the teacher knows, and a referral onward — and see why the repetition is the argument rather than a structural tic.</li>
+          <li>Say what a <b>kalyāṇamitra</b> is, in the specific sense this text means: not a guru, not a lineage-holder, but whoever is in front of you with something you do not have.</li>
+          <li>Read an <b>episode that offends you</b> — a king who tortures, a woman with a reputation, a teacher outside the tradition — and locate the actual teaching rather than the discomfort.</li>
+          <li>Follow the <b>five stages of the bodhisattva path</b> as the pilgrimage traces them, which is the structure Fazang's commentary reads it by.</li>
+          <li>Stand in front of <b>Maitreya's tower</b>, the largest single episode in the canon, and know what you are looking at.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="fi-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">One teacher a session, and the same six steps — plus the referral, which is how every episode actually ends.</p>
+        <div class="fi-rhythm">
+          <div class="fi-rc"><div class="n">1</div><b>Who you'll meet</b><span>And why this one</span></div>
+          <div class="fi-rc"><div class="n">2</div><b>The episode</b><span>Read it in full</span></div>
+          <div class="fi-rc"><div class="n">3</div><b>Three moments</b><span>Read closely</span></div>
+          <div class="fi-rc"><div class="n">4</div><b>One practice</b><span>This week</span></div>
+          <div class="fi-rc"><div class="n">5</div><b>Five questions</b><span>Self-check</span></div>
+          <div class="fi-rc"><div class="n">6</div><b>One question</b><span>Left open</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="fi-sec" data-rv>
+        <div class="lbl">The thirteen</div>
+        <p style="margin:0 0 14px;">Sessions are being published one at a time. Teacher numbers are their place among the fifty-three.</p>
+        <div class="fi-sched">
+
+          <div class="fi-mvbar"><span class="zh">十住</span><em>The Ten Abodes</em></div>
+
+          <a class="fi-row live" href="{{ '/courses/fifty-three-teachers/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Go south<small>Teacher 1 · Meghaśrī, a monk — who insists he knows only one gate out of countless</small></div>
+            <div class="st">Open →</div>
+          </a>
+
+          <div class="fi-row soon">
+            <div class="wk">2</div>
+            <div class="ti">The physician who bowed to the boy<small>Teacher 4 · Megha — the first layperson, who prostrates on hearing of Sudhana's resolve</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">3</div>
+            <div class="ti">Fire and swords<small>Teacher 9 · Skillful Life — the episode where Sudhana doubts his teacher, and repents</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">4</div>
+            <div class="ti">The girl in the hall of mirrors<small>Teacher 10 · Maitrāyaṇī — a child, and every object in the room holding a whole career</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-mvbar"><span class="zh">十行</span><em>The Ten Practices</em></div>
+
+          <div class="fi-row soon">
+            <div class="wk">5</div>
+            <div class="ti">The man who sold incense<small>Teacher 16 · Universal Eye — a trade, and one pellet that adorns the Dharma-realm</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">6</div>
+            <div class="ti">The king who appears to be cruel<small>Teacher 17 · King Fulfillment — torments that make Sudhana doubt the whole path</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">7</div>
+            <div class="ti">A teacher from another religion<small>Teacher 20 · According with Every Sentient Being — and nobody knows who he is</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-mvbar"><span class="zh">十迴向</span><em>The Ten Transferences</em></div>
+
+          <div class="fi-row soon">
+            <div class="wk">8</div>
+            <div class="ti">The sea-captain<small>Teacher 22 · Self-Mastery — a working life turned, whole, into the teaching</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">9</div>
+            <div class="ti">The woman they warned him about<small>Teacher 25 · Vasumitrā — whoever arrives bound by desire leaves free of it</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-mvbar"><span class="zh">十地</span><em>The Ten Grounds</em></div>
+
+          <div class="fi-row soon">
+            <div class="wk">10</div>
+            <div class="ti">The one who meets you in the dark<small>Teacher 31 · Vāsantī, a night-deva — a rescuer who takes whatever shape the danger requires</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-mvbar"><span class="zh">等覺</span><em>Beyond the Ten Grounds</em></div>
+
+          <div class="fi-row soon">
+            <div class="wk">11</div>
+            <div class="ti">The boy who knew every art<small>Teacher 44 · Skilled in Every Art — forty-two letters, astrology, farming, statecraft</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">12</div>
+            <div class="ti">The tower<small>Teacher 51 · Maitreya — one building holding the entire cosmos, in 165 parts</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+          <div class="fi-row soon">
+            <div class="wk">13</div>
+            <div class="ti">A hand across a hundred and ten yojanas<small>Teachers 52–53 · Mañjuśrī's return, and Samantabhadra — the end of the road</small></div>
+            <div class="st">Soon</div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="fi-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="fi-card">
+          <ul>
+            <li><b>Nothing to buy.</b> The whole of <a href="{{ '/sutras/gandavyuha/' | relative_url }}" style="color:var(--moss);font-weight:700;">Entering the Dharma-Realm</a> is on this site — Buddhabhadra's 418–420 CE Chinese beside Ru-Yi's English, in 454 parts, with Fazang's commentary throughout.</li>
+            <li><b>No previous course required</b>, though <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}" style="color:var(--moss);font-weight:600;">Read a Whole Sūtra</a> ends on the Vows of Samantabhadra, which is where this pilgrimage ends too. If you took it, session 13 will feel like arriving somewhere you have been before.</li>
+            <li><b>A tolerance for repetition.</b> Fifty-three teachers say versions of the same thing. That is not a flaw in the text; it is the text's method, and session 1 explains why.</li>
+            <li><b>A willingness to be taught by the wrong person.</b> At least three of these thirteen will offend somebody. The course does not apologise for them, and does not pretend they are simple either.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="fi-actions" data-rv>
+        <a class="fi-btn primary" href="{{ '/courses/fifty-three-teachers/session-1/' | relative_url }}">Begin Session 1 →</a>
+        <a class="fi-btn ghost" href="{{ '/sutras/gandavyuha/' | relative_url }}">See all fifty-three</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="fi-teacher" data-rv>
+        <div class="q">"Every teacher Sudhana meets says the same thing at the end: I know one gate, there are countless others, go and ask somebody else. Fifty-three of the most realised beings in the cosmos, and not one of them will let the boy stay. I have never found a better description of what teaching is actually for."</div>
+        <div class="who">— Luke Lin, instructor · Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.fi');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
