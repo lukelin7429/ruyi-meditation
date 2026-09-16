@@ -1,0 +1,431 @@
+---
+layout: default
+title: "Session 4 · Why do I suffer? The shared diagnosis (Six Questions)"
+permalink: /courses/six-questions/session-4/
+excerpt: Session 4 of Six Questions — the clinging-aggregates against the Yogācārabhūmi's analysis of affliction, and the one place in this course where both traditions start from identical ground.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 4 · 苦 · Why does it hurt</div>
+      <h1>Why do I suffer? · The shared diagnosis</h1>
+      <div class="subt">Two vocabularies, and the same finding underneath both</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty minutes</span>
+        <span><b>Before class</b> Sessions 1–3</span>
+        <span><b>The texts</b> Visuddhimagga 14 (closing) and Yogācārabhūmi 8</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question</h2></div>
+
+      <p data-rv><strong>Why do I suffer?</strong></p>
+
+      <p data-rv>Of the six questions in this course, this is the one where the two traditions begin from <em>identical</em> ground, and it is worth knowing that before you start — because it makes this the best session for finding out what "the same starting point" actually looks like once two thousand years of separate development have been applied to it.</p>
+
+      <p data-rv>Neither side is being original here. Both are unpacking the Buddha's first teaching, which nobody disputes: there is suffering, it has a cause, the cause can be removed, and there is a way to do it. The interesting thing is that unpacking the same four sentences produced two bodies of analysis that look nothing alike — <strong>and arrive at the same finding in different words.</strong></p>
+
+      <div class="sq-pull" data-rv>Neither tradition locates suffering in what happened to you. Both locate it in a relationship you are having with what happened.</div>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side south">The Southern answer</span><br>The difference one word makes</h2></div>
+
+      <p data-rv>Back to Chapter 14, at its very end. Buddhaghosa has finished the inventory and now asks a set of closing questions about it — why the five are taught in that order, why exactly five, and, crucially, what distinguishes <em>the aggregates</em> from <em>the aggregates subject to clinging</em>. Read from "Why Teach Them in This Order?" through to the end of the chapter.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 14 · Pāli, with Ru-Yi's translation</div>
+        <h3>Khandhaniddesa — the closing determinations</h3>
+        <p>Order, distinction, neither too few nor too many, the similes, and the two ways of seeing — the chapter's own summary of what the whole inventory was for.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2><span class="sq-side north">The Northern answer</span><br>Affliction, taken completely apart</h2></div>
+
+      <p data-rv>The Yogācārabhūmi devotes an entire fascicle to affliction alone, and announces at the outset that it will treat it under nine headings — nature, classification, cause, stage, gateway, superior grade, distortion, differences, faults. Read at least the opening definition and then sections 13 and 14, on the six causes and the seven stages. The rest is there if you want it, and it is formidable.</p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/stages-of-yogic-practice/fascicle-008/' | relative_url }}" data-rv>
+        <div class="trad">Yogācāra · 瑜伽師地論 Fascicle 8 · Chinese, with Ru-Yi's translation</div>
+        <h3>The complete analysis of affliction</h3>
+        <p>One hundred and twenty-eight kinds of affliction, twenty forms of self-view, six causes, seven stages — and, first, a one-sentence definition of what affliction actually is.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have read both. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts — and where it does not</h2></div>
+
+      <h3 data-rv>1 · The whole chapter's purpose, stated once, near the end</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 14 · why the aggregates are taught in this order</div>
+        <p>"For the Blessed One, <strong>wishing to free those to be guided who had fallen into a grasping of self within the undivided five aggregates, by showing the analysis of that seemingly solid mass</strong> — being one who desires their benefit, and for the sake of each such person's easy grasp — first taught the aggregate of form, coarse and forming the domain of the eye and the other faculties. Then feeling, which experiences form as desirable or undesirable… Then formations, which construct by way of perception. And then their support and governing master, consciousness."</p>
+        <div class="zh">Abhedena hi pañcasu khandhesu attagāhapatitaṃ veneyyajanaṃ samūhaghanavinibbhogadassanena attagāhato mocetukāmo bhagavā hitakāmo tassa tassa janassa sukhagahaṇatthaṃ cakkhuādīnampi visayabhūtaṃ oḷārikaṃ paṭhamaṃ rūpakkhandhaṃ desesi.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Three chapters of counting, and here — almost in passing — is what all of it was for. Not scholarship. <strong>People arrive with a "seemingly solid mass" and take themselves to be it. The inventory is a crowbar.</strong> And the order is pedagogical, chosen for ease of grasp: start with the coarse thing anyone can point at, and work inward.</p>
+
+      <h3 data-rv>2 · The difference is one qualifier, and it is not in the contents</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 14 · aggregates, and aggregates subject to clinging</div>
+        <p>"'By distinction': by the distinction between the aggregates and the aggregates subject to clinging. What, then, is their distinction? <strong>The aggregates, firstly, are stated without qualification. The aggregates subject to clinging are distinguished by the state of being with taints and clingable.</strong>"</p>
+        <div class="zh">Visesatoti khandhānañca upādānakkhandhānañca visesato. Ko pana nesaṃ viseso, khandhā tāva avisesato vuttā. Upādānakkhandhā sāsavaupādāniyabhāvena visesetvā.</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/khandha-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>This is the sharpest sentence the Southern tradition offers on this question, and almost nobody quotes it.</p>
+
+      <p data-rv>The five aggregates subject to clinging — <em>pañcupādānakkhandhā</em> — are what the first noble truth actually names as suffering. Not "life is suffering." Not "birth, ageing and death." Those are examples. The definition is <em>these five, with clinging</em>.</p>
+
+      <p data-rv>And the difference between the two lists is <strong>not a difference of contents.</strong> Same form, same feeling, same perception, same formations, same consciousness. What distinguishes them is a qualifier: <em>sāsava, upādāniya</em> — with taints, clingable. <strong>The suffering is not in the five things. It is in the "with."</strong></p>
+
+      <p data-rv>Which is why Session 1's chapter ends where it does: with the aggregates compared to <em>a sickroom, a sickness, the origin of a sickness, the pursuit of unsuitable things, and the sick person himself.</em> Five items, one illness, and no villain anywhere in the list.</p>
+
+      <h3 data-rv>3 · The North says the same thing in one sentence, and then takes it apart</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">瑜伽師地論 8 · affliction's own nature</div>
+        <p>"As for affliction's own nature: <strong>whenever such a phenomenon arises, its characteristic is to arise, of its own accord, as a state of restlessness — and because it has thus arisen, a continuous current of restless activity carries on from it.</strong> This, stated briefly, is affliction's own nature."</p>
+        <div class="zh">煩惱自性者，謂若法生時，其相自然不寂靜起；由彼起故，不寂靜行相續而轉，是名略說煩惱自性。</div>
+        <a class="bk" href="{{ '/sutras/stages-of-yogic-practice/fascicle-008/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>不寂靜 — <em>not-quiet, unsettled, restless.</em> Affliction is not defined by its object, its moral content, or how unpleasant it feels. It is defined as <strong>a disturbance that arises by itself and then keeps going.</strong> Note the second clause, which does the real work: the restlessness does not end when the moment that produced it ends. It sets a current running.</p>
+
+      <p data-rv>Put that beside the Southern sentence and the agreement is exact, in two completely unrelated vocabularies. <em>With taints, clingable.</em> <em>Restlessness, propagating.</em> Neither says the problem is the object. Both say it is something happening on your side of the encounter, which then continues under its own power.</p>
+
+      <p data-rv>And then the treatise does what the Northern tradition always does — it asks where the thing comes from, and answers with a list you can actually use:</p>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">瑜伽師地論 8 · the six causes of affliction</div>
+        <p>"<strong>Through its basis:</strong> affliction arises from its own latent seed. <strong>Through its object:</strong> an object capable of provoking affliction actually presents itself. <strong>Through association:</strong> one follows and learns from an unwholesome person. <strong>Through false teaching:</strong> one hears a teaching that is not the true Dharma. <strong>Through habituation:</strong> the accumulated force of past repetition has already been planted. <strong>Through attention:</strong> unsound reasoning attention is what actually gives rise to every affliction."</p>
+        <div class="zh">所依故者，謂由隨眠起諸煩惱。所緣故者，謂順煩惱境界現前。親近故者，謂由隨學不善丈夫。邪教故者，謂由聞非正法。數習故者，謂由先植數習力勢。作意故者，謂由發起不如理作意故，諸煩惱生。</div>
+        <a class="bk" href="{{ '/sutras/stages-of-yogic-practice/fascicle-008/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <div class="sq-take" data-rv>
+        <b class="h">Read the six as a map of what is and is not available to you</b>
+        <ul>
+          <li><b>The latent seed</b> is not available. It was planted before you arrived and the text elsewhere says it "continues to trail along uninterrupted" until permanently severed.</li>
+          <li><b>The object</b> is not available. It "actually presents itself" — things turn up.</li>
+          <li><b>Habituation</b> is not available <em>today</em>. "The accumulated force of past repetition has <em>already</em> been planted."</li>
+          <li><b>Association and false teaching</b> are semi-available, on a scale of months and years — who you are around, and what you let instruct you.</li>
+          <li><b>Attention</b> is available right now. And notice how the text phrases this one differently from all the others: unsound attention "is what <em>actually</em> gives rise to every affliction."</li>
+        </ul>
+      </div>
+
+      <p data-rv>Five of the six are conditions. One is an operation, in the present tense, and the treatise singles it out as the one that actually does the producing. That is not a softer claim than the Southern one — it is the same claim, expressed as an intervention point rather than as a definition.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>Worth noting where the two traditions' vocabularies touch directly: the treatise's seven stages of affliction begin with 隨眠, the latent seed, and include both 分別起 (deliberately reasoned) and 俱生 (innate) arising — the same pair you met in Session 1, now applied not to self-attachment alone but to affliction generally.</em></p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · one affliction, six columns</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Audit one recurring affliction against the six causes</b>
+        <p>Choose something that comes back. Not a mood — a specific, repeating disturbance. The irritation with a particular colleague. The anxiety that arrives on Sunday evening. The thing about your brother.</p>
+        <div class="how">
+          <b>Write the six headings and fill them in honestly.</b> <em>Basis</em> — has this been with you a long time? <em>Object</em> — what actually shows up to trigger it? <em>Association</em> — who around you makes it easier to have? <em>Teaching</em> — what account of the world are you holding that requires this reaction to make sense? <em>Habituation</em> — how many times have you done this? <em>Attention</em> — what are you doing with it in the first few seconds?<br><br>
+          <b>Then the useful question, and it is uncomfortable.</b> Which of the six have you been trying to fix? Most people discover they have spent years working on <em>the object</em> — changing the job, avoiding the person, rearranging circumstances — which is the column the treatise lists as simply presenting itself.<br><br>
+          <b>You are not being asked to do anything about attention this week.</b> Only to notice that of the six, it is the one column with anything in it that is happening now.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Near the end of Chapter 14 Buddhaghosa states, almost in passing, what the whole inventory was for. What was it?</div>
+          <button class="opt"><span class="ltr">A</span>To provide a complete Abhidhamma reference for scholars</button>
+          <button class="opt"><span class="ltr">B</span>To establish the correct number of aggregates against rival schools</button>
+          <button class="opt"><span class="ltr">C</span>To free people who had fallen into grasping a self within the undivided five aggregates, by showing the analysis of that "seemingly solid mass" — with the order chosen for ease of grasp, starting from the coarse</button>
+          <button class="opt"><span class="ltr">D</span>To serve as a meditation object in its own right</button>
+          <div class="expl"><strong>Correct: C.</strong> Not scholarship. People arrive taking themselves to be a solid lump; the inventory is a crowbar. And note that even the sequence is pedagogical — form first, because it is coarse and anyone can point at it, then inward.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What distinguishes "the aggregates" from "the aggregates subject to clinging"?</div>
+          <button class="opt"><span class="ltr">A</span>The clinging-aggregates include a sixth item, clinging itself</button>
+          <button class="opt"><span class="ltr">B</span>Nothing in the contents — the same five, distinguished only by a qualifier: being "with taints and clingable"</button>
+          <button class="opt"><span class="ltr">C</span>The clinging-aggregates belong only to unawakened beings and are a different set of phenomena</button>
+          <button class="opt"><span class="ltr">D</span>The aggregates are physical and the clinging-aggregates mental</button>
+          <div class="expl"><strong>Correct: B.</strong> This is the sharpest sentence the Southern tradition offers here, and it is rarely quoted. The first noble truth names the five <em>clinging</em>-aggregates as suffering — not life, not ageing, not death, which are examples. Same form, same feeling, same consciousness. The suffering is not in the five things; it is in the "with."</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">How does the Yogācārabhūmi define affliction's own nature?</div>
+          <button class="opt"><span class="ltr">A</span>As restlessness — a disturbance that arises of its own accord, and from which a continuous current of restless activity then carries on</button>
+          <button class="opt"><span class="ltr">B</span>As any mental state associated with greed, hatred or delusion</button>
+          <button class="opt"><span class="ltr">C</span>As the painful feeling that accompanies an unwanted object</button>
+          <button class="opt"><span class="ltr">D</span>As ignorance of the four noble truths</button>
+          <div class="expl"><strong>Correct: A.</strong> 不寂靜 — not-quiet. Affliction is defined neither by its object nor by its moral content nor by how unpleasant it feels. And the second clause does the real work: the restlessness does not stop when the moment that produced it stops. It sets a current running.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Put the two definitions side by side — "with taints, clingable" and "restlessness, propagating." What do they share?</div>
+          <button class="opt"><span class="ltr">A</span>Both identify particular objects as inherently afflictive</button>
+          <button class="opt"><span class="ltr">B</span>Both trace suffering to unwholesome past actions specifically</button>
+          <button class="opt"><span class="ltr">C</span>Both treat suffering as fundamentally a matter of physical existence</button>
+          <button class="opt"><span class="ltr">D</span>Neither locates the problem in the object — both place it on your side of the encounter, as something that then continues under its own power</button>
+          <div class="expl"><strong>Correct: D.</strong> Two completely unrelated vocabularies, five hundred years apart, agreeing exactly. This is what "the same starting point" looks like after two millennia of separate development: not identical sentences, but the same finding, arrived at by different routes and expressed in terms neither side would recognise as the other's.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Of the six causes of affliction — basis, object, association, false teaching, habituation, attention — what is distinctive about the last?</div>
+          <button class="opt"><span class="ltr">A</span>It is the least important, listed last for that reason</button>
+          <button class="opt"><span class="ltr">B</span>It applies only to advanced practitioners</button>
+          <button class="opt"><span class="ltr">C</span>It is the only one operating in the present tense, and the text singles it out — unsound attention is "what actually gives rise to every affliction," while the others are conditions already in place</button>
+          <button class="opt"><span class="ltr">D</span>It refers to the attention of a teacher, not the practitioner</button>
+          <div class="expl"><strong>Correct: C.</strong> The seed was planted before you arrived; the object presents itself; habituation has <em>already</em> been laid down. Association and false teaching move on a scale of years. Attention is now — and the treatise phrases that one differently from all the others. It is the same claim the South makes about the "with," expressed as an intervention point rather than a definition.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Which of the six have you been trying to fix?</p>
+        <p class="sm">Nearly everyone has been working on the object, for years, at considerable expense — the move, the different job, the conversation that would settle it. That effort is not stupid and the circumstances are often genuinely bad. But both traditions, from opposite ends of Asia and in vocabularies with nothing in common, looked at the same problem and declined to put it there. That is either a very old mistake made twice, or it is the finding. This week, at least, notice which column you have been in.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · Why do I suffer? Where the road parts</h3>
+        <p>And then the Mahāyāna does something to the four truths that has troubled every reader since. If everything is empty, an opponent says, there is no suffering, no origin, no cessation and no path — you have destroyed the entire teaching. Nāgārjuna's reply is the hinge of this course, and you have already met its conclusion, in the Heart Sūtra.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-3/' | relative_url }}">← Session 3</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
