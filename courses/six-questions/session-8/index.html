@@ -1,0 +1,431 @@
+---
+layout: default
+title: "Session 8 · How should I live? The vow (Six Questions)"
+permalink: /courses/six-questions/session-8/
+excerpt: Session 8 of Six Questions — a test of loving-kindness that self-sacrifice fails, against a bodhisattva who feels another's suffering more keenly than his own.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 8</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 8 · 行 · What counts as living well</div>
+      <h1>How should I live? · The vow</h1>
+      <div class="subt">Four people, some bandits, and two opposite tests of arrival</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Session 7</span>
+        <span><b>The texts</b> Visuddhimagga 9, and Yogācārabhūmi 35</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question, second half</h2></div>
+
+      <p data-rv>Conduct was one half of "how should I live?" The other half is what you do about other people — and here, at last, the two traditions look as though they are going to agree.</p>
+
+      <p data-rv>Both hold that the mature state is one of unlimited goodwill. Both are willing to describe it in extreme terms. Both give you a test for whether you have got there.</p>
+
+      <p data-rv><strong>And the two tests are the opposite of each other.</strong> That is the session, and it is the most genuinely surprising thing in this course — because the test that fails on one side is the thing most Western readers have been taught to think Buddhist compassion actually <em>is</em>.</p>
+
+      <div class="sq-pull" data-rv>One tradition says you have arrived when you would not give anyone to the bandits — including yourself. The other says you have arrived when another's pain hurts you more than your own.</div>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side south">The Southern answer</span><br>The four divine abidings, and a test with a knife in it</h2></div>
+
+      <p data-rv>Chapter 9 of the Visuddhimagga is the manual for the four <em>brahmavihāras</em> — loving-kindness, compassion, sympathetic joy, equanimity. It is an unusually practical chapter: whom to start with, whom not to, nine separate remedies for when resentment will not go, and how to know when it is done.</p>
+
+      <p data-rv>Read the opening through "The Breaking of Boundaries, Tested by Bandits." The rest — the 528 pervasions, the eleven benefits, the near and far enemies — is remarkable and optional.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/brahmavihara-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 9 · Pāli, with Ru-Yi's translation</div>
+        <h3>Brahmavihāraniddesa — the four divine abidings</h3>
+        <p>Whom not to begin with, beginning with oneself, nine remedies for resentment, the breaking of boundaries, and why equanimity can only come last.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2><span class="sq-side north">The Northern answer</span><br>How you would recognise a bodhisattva in a room</h2></div>
+
+      <p data-rv>Fascicle 35 of the Yogācārabhūmi opens the Ground of the Bodhisattva — the longest and most influential single section of the whole hundred-fascicle treatise. Its opening move is not doctrinal. It asks how such a person would actually be <em>recognised</em>, and answers with marks: the marks of giving, of precepts, of patience, of diligence, of concentration, of wisdom.</p>
+
+      <p data-rv>Read sections 5 through 8 — the six sets of marks — and then section 10, on what happens to a bodhisattva who falls.</p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/stages-of-yogic-practice/fascicle-035/' | relative_url }}" data-rv>
+        <div class="trad">Yogācāra · 瑜伽師地論 Fascicle 35 · Chinese, with Ru-Yi's translation</div>
+        <h3>The Ground of the Bodhisattva opens</h3>
+        <p>Two kinds of lineage, the six sets of recognisable marks, why buddhahood is inconceivable, and how even a fallen bodhisattva differs.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <p style="font-size:15.5px;color:var(--ink-soft);" data-rv><em>Come back when you have read both sides. The rest of this page assumes you have.</em></p>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts</h2></div>
+
+      <h3 data-rv>1 · The standard is set at the furthest point available — and you set it yourself</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 9 · the first remedy for resentment</div>
+        <p>"And this is done precisely by admonishing oneself in this manner: <strong>'Hey, you angry man, was it not said by the Blessed One — "Monks, even if bandits were to sever you limb from limb with a two-handled saw, whoever there defiles his mind at that would not, on that account, be a follower of my teaching"…'</strong>"</p>
+        <p>"'Worse than the angered is the one who angers back; <strong>not angering back at the angered, one wins a battle hard to win.</strong> One practices for the good of both — one's own and the other's — knowing the other provoked, one who remains mindful is at peace.'"</p>
+        <div class="zh">Kakacūpamaovāda-ādīnaṃ anusārato; Paṭighassa pahānāya, ghaṭitabbaṃ punappunaṃ. Tañca kho iminā ākārena attānaṃ ovadanteneva "are kujjhanapurisa, nanu vuttaṃ bhagavatā — 'Ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṃ, tatrāpi yo mano padoseyya…'"</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/brahmavihara-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Two things about the form of this, before the content. First, the standard is placed at the most extreme point the tradition can name — <em>bandits sawing you apart</em> — for the same reason Session 6's executioner stands so close: so that every lesser provocation you will actually meet falls automatically inside it.</p>
+
+      <p data-rv>Second, and more unusual: <strong>this is a script for talking to yourself.</strong> "Hey, you angry man" — the practitioner is instructed to address himself in the second person, with some impatience, and quote scripture at his own head. There is no teacher in the room. The chapter then supplies eight further remedies for use when this one fails, which tells you how often it was expected to fail.</p>
+
+      <p data-rv>And among them is a piece of pure strategic realism: the list of <em>seven things an enemy wishes upon an enemy</em> — that he be ugly, sleep badly, not prosper, not be wealthy, not be famous, and so on — every one of which, the text observes, <strong>anger delivers to your enemy for free.</strong> "Though he be well-bathed, well-anointed, his hair and beard trimmed, clothed in white — he is nevertheless ugly, being overcome by anger."</p>
+
+      <h3 data-rv>2 · The test — and why offering yourself fails it</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 9 · the breaking of boundaries</div>
+        <p>"…suppose this monk were sitting in one place together with a loved person, a neutral person, and a hostile person — himself making a fourth — and <strong>bandits came and said, 'Venerable sir, give us one of these monks'</strong>… 'So that we may kill him, take the blood from his throat, and perform a sacrifice' — if, in that situation, this monk should think, 'let them take this one or that one,' the breaking of boundaries has not been accomplished. <strong>And even if he should think, 'let them take me, not these three others,' the breaking of boundaries has still not been accomplished. Why not? Because in wishing that any one of them at all be taken, he is thereby wishing harm to that one, while wishing well only to the others.</strong>"</p>
+        <p>"But when, among these four persons, <strong>he sees not even a single one who should be given to the bandits</strong>, and his mind proceeds equally toward himself and toward those three others, then the breaking of boundaries has been accomplished."</p>
+        <div class="zh">Tassidaṃ lakkhaṇaṃ, sace imasmiṃ puggale piyamajjhattaverīhi saddhiṃ attacatutthe ekasmiṃ padese nisinne corā āgantvā "bhante, ekaṃ bhikkhuṃ amhākaṃ dethā"ti vatvā "kiṃ kāraṇā"ti vutte "taṃ māretvā galalohitaṃ gahetvā balikaraṇatthāyā"ti vadeyyuṃ…</div>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/brahmavihara-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Stop on the middle clause, because it is the most counter-intuitive sentence in this entire course.</p>
+
+      <p data-rv><strong>"Let them take me, not these three others" — the breaking of boundaries has still not been accomplished.</strong></p>
+
+      <p data-rv>Almost every Western account of Buddhist compassion would treat that offer as the summit. Here it is a <em>failure of the exercise</em>, and the reason given is exact: in wishing that any one of them at all be taken, you are wishing harm to that one, and wishing well only to the others. You have not attained equal goodwill. You have merely chosen a different person to exclude from it, and the person is you.</p>
+
+      <p data-rv>The attainment is specified instead as seeing <em>not even a single one</em> who should be given — including yourself. Which is why the chapter's earlier instruction, easy to miss, is to <strong>begin with oneself</strong>. Not from self-regard. Because a mind that has exempted itself from its own goodwill cannot produce the state this test is measuring.</p>
+
+      <h3 data-rv>3 · And the North tilts it the other way</h3>
+      <div class="sq-scr north" data-rv>
+        <div class="src">瑜伽師地論 35 · the marks of precepts</div>
+        <p>"Toward beings who have shown kindness, one knows that kindness and repays it … <strong>seeing or hearing of another's suffering … one feels that suffering more keenly than one's own</strong>, weighing the karmic consequence and future life more heavily still; even the smallest wrongdoing is deeply feared, let alone a greater one."</p>
+        <p>"The mind is warm and gentle, pure and clear; anger and the wish to harm never last long or continue, arising only to be released… speech is always soft, never coarse; <strong>not even a harsh word for one's own servants, let alone anyone else.</strong> One honors and loves the virtuous, praising them exactly as they truly are."</p>
+        <div class="zh">於恩有情，知恩知報……若見若聞他所受苦……於是等苦過於自受……言常柔軟，無有麤獷；於己僮僕尚無苦言，況於他所。</div>
+        <a class="bk" href="{{ '/sutras/stages-of-yogic-practice/fascicle-035/' | relative_url }}">See this passage in the full fascicle →</a>
+      </div>
+
+      <p data-rv>於是等苦過於自受 — <em>that suffering, more than what one undergoes oneself.</em> This is the North's mark of arrival, and it is precisely the asymmetry the Southern test rules out.</p>
+
+      <p data-rv>And notice the register of these marks. They are not attainments; they are <strong>behaviours a bystander could observe.</strong> Does he repay kindness? Does he get his money honestly, and without violence? Does his anger end quickly? Is his speech soft — <em>including to the people who work for him?</em> That last clause is the one to keep. A whole ethics can be tested at the point where nobody is watching and nobody could complain.</p>
+
+      <div class="sq-take" data-rv>
+        <b class="h">The two tests of arrival, side by side</b>
+        <ul>
+          <li><b>South — equality, with no exceptions in either direction.</b> You have arrived when self and loved and neutral and hostile are genuinely indistinguishable in your goodwill, and you would hand over none of the four. Preferring your own destruction is a failure state.</li>
+          <li><b>North — asymmetry, tilted toward the other.</b> You have arrived when another's suffering registers more strongly than your own, and when this shows up in behaviour as ordinary as how you speak to your staff.</li>
+          <li><b>Neither tradition lacks the other's value.</b> The Visuddhimagga treats compassion as its own separate abiding and spends pages on it. The bodhisattva path has equanimity among its own perfections. What differs is <em>which one is the test</em> — the criterion by which you would know.</li>
+          <li><b>And notice which one is easier to counterfeit.</b> A grand gesture of self-sacrifice can be produced on demand, once, by almost anyone. Neither of these tests can: one requires you not to flinch from your own inclusion, and the other is measured on a Tuesday, in how you speak to somebody who cannot answer back.</li>
+        </ul>
+      </div>
+
+      <p data-rv>One last thing from the Northern text, because it is unexpectedly kind and there is nothing like it on the Southern side. What happens to a bodhisattva who fails badly enough to be reborn in a lower destiny? The treatise says such a person is reborn there only briefly, <em>"is swiftly able to gain release,"</em> does not undergo the fierce suffering others there endure — and that the slight suffering they do feel <strong>"is thereby moved to heightened revulsion, and gives rise to deep compassion for the suffering beings reborn there."</strong> Even the failure is turned into the same tilt.</p>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · four people, and one honest failure</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Do the Southern exercise, and then take its test</b>
+        <p>This is the one practice in the course that comes with an explicit instruction to fail, because failing it is the informative part.</p>
+        <div class="how">
+          <b>Name your four.</b> Yourself. One person you love. One person you are genuinely neutral about — a neighbour, someone at work whose name you know and nothing else. And one person you have a live resentment toward. The chapter warns against starting with the difficult one, so do them in that order.<br><br>
+          <b>Spend a few minutes on each, in order, wishing them well.</b> Not visualising, not affirming — just holding the person in mind and genuinely wanting things to go well for them. When you reach the fourth and it stops working, go back to the third and come at it again. The chapter expects this and provides nine remedies for it.<br><br>
+          <b>Then run the bandits.</b> Four of you in a room; someone must be handed over. Watch what your mind does. Most people find it offers the hostile person almost instantly, and then, catching itself, offers <em>itself</em> — and the text says both of those are the same failure.<br><br>
+          <b>You are not going to pass this.</b> Buddhaghosa treats the breaking of boundaries as a genuine attainment, not a Tuesday exercise. What the test is for, this week, is to show you exactly where your goodwill stops being equal — and that "I would take their place" is one of the places it stops.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">The saw-simile admonition has an unusual form. What is it?</div>
+          <button class="opt"><span class="ltr">A</span>A dialogue between teacher and student, to be memorised</button>
+          <button class="opt"><span class="ltr">B</span>A vow recited before the community twice a month</button>
+          <button class="opt"><span class="ltr">C</span>A script for talking to yourself — "Hey, you angry man, was it not said by the Blessed One…" — quoting scripture at your own head, with no teacher present</button>
+          <button class="opt"><span class="ltr">D</span>A contemplation of the bandits' own future suffering</button>
+          <div class="expl"><strong>Correct: C.</strong> Addressed to oneself in the second person, with some impatience. And the chapter supplies eight further remedies for when this one fails — which tells you how often it was expected to fail. The standard is set at the furthest point available (bandits sawing you apart) so that every lesser provocation falls automatically inside it.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Among the remedies is a list of seven things an enemy wishes upon an enemy. What is the argument?</div>
+          <button class="opt"><span class="ltr">A</span>That one should wish these things on one's enemy in return</button>
+          <button class="opt"><span class="ltr">B</span>That anger delivers every one of them to your enemy for free — an angry person is ugly, sleeps badly, does not prosper, however well-bathed and well-dressed they are</button>
+          <button class="opt"><span class="ltr">C</span>That enemies are best neutralised by cultivating indifference</button>
+          <button class="opt"><span class="ltr">D</span>That these seven are the karmic results of past anger</button>
+          <div class="expl"><strong>Correct: B.</strong> Pure strategic realism, sitting inside a chapter on loving-kindness. "Though he be well-bathed, well-anointed, his hair and beard trimmed, clothed in white — he is nevertheless ugly, being overcome by anger." Your anger is your enemy's wish granted.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">In the bandit test, the monk thinks: "let them take me, not these three others." What is the verdict?</div>
+          <button class="opt"><span class="ltr">A</span>The breaking of boundaries is accomplished — this is the summit of the practice</button>
+          <button class="opt"><span class="ltr">B</span>It is accomplished, provided the offer is sincere rather than performed</button>
+          <button class="opt"><span class="ltr">C</span>The text leaves the case undecided</button>
+          <button class="opt"><span class="ltr">D</span>It has still not been accomplished — because in wishing that any one of them at all be taken, he is wishing harm to that one, and wishing well only to the others</button>
+          <div class="expl"><strong>Correct: D.</strong> The most counter-intuitive sentence in this course. Almost every Western account of Buddhist compassion would treat that offer as the summit; here it is a failure of the exercise. You have not attained equal goodwill — you have chosen a different person to exclude from it, and the person is you. Which is also why the chapter instructs you to begin with yourself.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does the Yogācārabhūmi give as a mark of a bodhisattva's precepts?</div>
+          <button class="opt"><span class="ltr">A</span>That seeing or hearing of another's suffering, one feels that suffering more keenly than one's own — and that speech is always soft, with not even a harsh word for one's own servants</button>
+          <button class="opt"><span class="ltr">B</span>That one keeps all ten major precepts without a single lapse</button>
+          <button class="opt"><span class="ltr">C</span>That one has attained equanimity toward self and other alike</button>
+          <button class="opt"><span class="ltr">D</span>That one has formally received the bodhisattva vows from a qualified master</button>
+          <div class="expl"><strong>Correct: A.</strong> 於是等苦過於自受 — that suffering, more than what one undergoes oneself. Note the register: these are not attainments but behaviours a bystander could observe. And keep the last clause — a whole ethics tested at the point where nobody is watching and nobody could complain.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">How do the two tests of arrival differ?</div>
+          <button class="opt"><span class="ltr">A</span>The South requires more of the practitioner; the North is a relaxed lay version</button>
+          <button class="opt"><span class="ltr">B</span>They are the same test in different vocabularies</button>
+          <button class="opt"><span class="ltr">C</span>The South tests for equality with no exceptions in either direction, so that preferring your own destruction is a failure state; the North tests for an asymmetry tilted toward the other, where another's pain registers more strongly than your own</button>
+          <button class="opt"><span class="ltr">D</span>The South tests behaviour; the North tests inner states</button>
+          <div class="expl"><strong>Correct: C.</strong> And neither tradition lacks the other's value — the Visuddhimagga treats compassion as a separate abiding at length, and the bodhisattva path has equanimity among its perfections. What differs is which one is the criterion by which you would know you had arrived. Note also which is easier to counterfeit: a grand gesture of self-sacrifice can be produced once by almost anyone; neither of these can.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Would you give yourself to the bandits — and what does it mean that you would?</p>
+        <p class="sm">Most people reading this would, or would like to think so, and would feel the offer as the best thing available to them. Buddhaghosa says it is not enough, and his reason is not that you matter more than you think. It is that the offer still contains a ranking, and a ranking is what he is testing for. There is something uncomfortable in being told that your willingness to be destroyed for others is a residue of the same partiality as preferring them — and something worth a week in finding out whether you can even imagine the state in which no one, including you, is the one who goes.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Last session</div>
+        <h3>Session 9 · Does any of it mean anything?</h3>
+        <p>The sixth question, and the end of the course. Emptiness that must not be allowed to become a view of its own, against ten vows built so that they can never be completed. And then the harder question underneath both — whether a tradition that empties every category can still tell you that anything is worth doing.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-7/' | relative_url }}">← Session 7</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
