@@ -1,0 +1,451 @@
+---
+layout: default
+title: "Session 9 · Does any of it mean anything? (Six Questions)"
+permalink: /courses/six-questions/session-9/
+excerpt: Session 9 of Six Questions — eleven benefits of which the first three are about sleep, against a vow built so that it can never be completed. And the end of the course.
+---
+
+<style>
+  .sq{--teal:#2b5f6b;--teal-mid:#1b414a;--teal-deep:#0d2126;--gold:#d9b46a;--gold-deep:#9d7526;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f6f4ef;--ink:#1f2a2c;--ink-soft:#5e6b6d;--line:#dde5e5;}
+  .sq *{box-sizing:border-box;}
+  .sq-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .sq [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .sq [data-rv].in{opacity:1;transform:none;}
+
+  .sq-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .sq-crumb .sq-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .sq-crumb a{color:var(--teal);text-decoration:none;}
+  .sq-crumb a:hover{text-decoration:underline;}
+
+  .sq-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(217,180,106,.22),transparent 62%),
+    linear-gradient(158deg,#2b5f6b 0%,#1b414a 46%,#0d2126 100%);color:#fff;}
+  .sq-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .sq-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .sq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .sq-hero .subt{font-style:italic;font-size:18px;color:#dfeaea;}
+  .sq-hero .rd{margin-top:24px;font-size:14px;color:#bed2d3;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .sq-hero .rd b{color:var(--gold);}
+
+  .sq-body{background:#fff;padding:44px 0 24px;}
+  .sq-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .sq-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .sq-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--teal);}
+  .sq-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .sq-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .sq-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--teal);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .sq-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#f9fcfc,#eef5f5);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .sq-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .sq-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--teal-deep);margin:0 0 12px;}
+  .sq-scr p:last-of-type{margin-bottom:0;}
+  .sq-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5d8188;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #cfe0e0;line-height:1.85;}
+  .sq-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--teal);text-decoration:none;border-bottom:1px solid rgba(43,95,107,.35);}
+  .sq-scr a.bk:hover{border-bottom-color:var(--teal);}
+
+  .sq-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .sq-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .sq-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .sq-terms span b{color:var(--teal);}
+
+  .sq-take{background:linear-gradient(180deg,#f9fcfc,#e9f2f2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .sq-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--teal);margin-bottom:8px;}
+  .sq-take ul{margin:0;padding-left:20px;}
+  .sq-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .sq-take li b{color:var(--gold-deep);}
+
+  .sq-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .sq-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .sq-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .sq-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .sq-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .sq-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .sq-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .sq-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* South (Pāli) and North (Chinese) quote variants */
+  .sq-scr.south{border-left-color:#c08a2e;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);}
+  .sq-scr.south .src{color:#9a6c1c;}
+  .sq-scr.south p{color:#4a3a18;}
+  .sq-scr.south .zh{color:#8a7146;border-top-color:#e6d8ba;font-family:Georgia,'Times New Roman',serif;font-style:italic;}
+  .sq-scr.south a.bk{color:#9a6c1c;border-bottom-color:rgba(154,108,28,.35);}
+  .sq-scr.north{border-left-color:#2f6d5e;background:linear-gradient(180deg,#f7fbf9,#eef6f2);}
+  .sq-scr.north .src{color:#22584b;}
+  .sq-scr.north p{color:#1d3f37;}
+  .sq-scr.north .zh{color:#4b7c6f;border-top-color:#cde0d7;}
+  .sq-scr.north a.bk{color:#22584b;border-bottom-color:rgba(34,88,75,.35);}
+  .sq-textcard.south{background:linear-gradient(158deg,#c08a2e 0%,#94661a 45%,#4d340a 100%);box-shadow:0 26px 50px -28px rgba(77,52,10,.6);}
+  .sq-textcard.north{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);}
+  /* side-by-side label chips */
+  .sq-side{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;
+    border-radius:20px;padding:4px 12px;margin-bottom:10px;}
+  .sq-side.south{background:#f6ead2;color:#8a5f14;border:1px solid #e6d3a8;}
+  .sq-side.north{background:#e2f0ea;color:#22584b;border:1px solid #bcdbcf;}
+  .sq-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .sq-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .sq-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .sq-prac p:last-child{margin-bottom:0;}
+  .sq-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .sq-quiz{background:#f9fcfc;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .sq-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .sq-quiz .q:first-of-type{padding-top:2px;}
+  .sq-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .sq-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--teal);text-transform:uppercase;margin-bottom:6px;}
+  .sq-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .sq-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .sq-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--teal);}
+  .sq-quiz .opt:hover:not(:disabled){background:#eef6f6;border-color:var(--teal);}
+  .sq-quiz .opt:disabled{cursor:default;}
+  .sq-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .sq-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .sq-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .sq-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .sq-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .sq-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .sq-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .sq-quiz .expl.show{display:block;}
+  .sq-quiz .expl strong{color:var(--ink);}
+  .sq-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .sq-score strong{color:var(--teal);font-size:17px;}
+
+  .sq-reflect{background:linear-gradient(158deg,#2b5f6b 0%,#1b414a 48%,#0d2126 100%);color:#deebeb;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .sq-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .sq-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .sq-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b3c8ca;line-height:1.7;margin-top:14px;}
+
+  .sq-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .sq-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .sq-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .sq-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .sq-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .sq-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .sq-btn.primary{background:linear-gradient(158deg,#2b5f6b,#14323a);color:#fff;box-shadow:0 12px 26px -14px rgba(20,50,58,.85);}
+  .sq-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,50,58,.95);text-decoration:none;}
+  .sq-btn.ghost{border:1.5px solid var(--teal);color:var(--teal);background:transparent;}
+  .sq-btn.ghost:hover{background:var(--teal);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .sq .sq-crumb,.sq-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .sq [data-rv]{opacity:1 !important;transform:none !important;}
+    .sq-hero{background:none;color:#000;padding:0;}
+    .sq-hero-in{padding:0 0 12px;}
+    .sq-eyebrow,.sq-hero .subt,.sq-hero .rd{color:#444;}
+    .sq-hero h1{color:#000;}
+    .sq-body{padding:0;}
+    .sq-body p,.sq-body h3,.sq-part h2,.sq-take li,.sq-prac p{color:#000;}
+    .sq-scr,.sq-take,.sq-prac,.sq-quiz,.sq-next{background:#fff !important;border:1px solid #bbb;}
+    .sq-scr p{color:#000;}
+    .sq-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-reflect p,.sq-reflect .l,.sq-reflect p.sm{color:#000;}
+    .sq-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .sq-textcard h3,.sq-textcard p,.sq-textcard .go,.sq-textcard .trad{color:#000;}
+    .sq{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="sq">
+
+  <nav class="sq-crumb"><div class="sq-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> → Session 9</div></nav>
+
+  <!-- HERO -->
+  <section class="sq-hero">
+    <div class="sq-hero-in">
+      <div class="sq-eyebrow">Session 9 · 義 · Is any of it for anything</div>
+      <h1>Does any of it mean anything?</h1>
+      <div class="subt">Eleven ordinary benefits, and a vow with no finish line</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty minutes</span>
+        <span><b>Before class</b> Sessions 1–8</span>
+        <span><b>The texts</b> Visuddhimagga 9, Mūlamadhyamakakārikā 13, and the Vows of Samantabhadra</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="sq-body">
+    <div class="sq-wrap">
+
+      <!-- PART 1 -->
+      <div class="sq-part" data-rv><div class="pn">Part 1</div><h2>The question</h2></div>
+
+      <p data-rv><strong>Is any of it for anything?</strong></p>
+
+      <p data-rv>Eight sessions in, the question has teeth it did not have at the start. There is no self to benefit. The mind is a sequence of events, or a torrent. Suffering is a relationship you are having rather than a thing happening to you. Every category has been emptied, including the categories doing the emptying. And now, at the end, somebody is entitled to ask what any of that was <em>for.</em></p>
+
+      <p data-rv>Both traditions answer. Neither answer is what a Western reader expects, and they are not the same answer.</p>
+
+      <div class="sq-pull" data-rv>One tradition says: you will sleep better. The other says: it will never be finished, and that is the point.</div>
+
+      <p data-rv>Before either, though, there is a warning that governs the whole question — and it is the sharpest sentence in Nāgārjuna.</p>
+
+      <!-- PART 2 -->
+      <div class="sq-part" data-rv><div class="pn">Part 2</div><h2><span class="sq-side north">First, a warning</span><br>The one condition the buddhas cannot cure</h2></div>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">中論 13 · root verse 9</div>
+        <p>"The great sage taught the dharma of emptiness / <strong>in order to release people from every view;</strong> / but those who then hold a view of emptiness — / <strong>these the buddhas cannot cure.</strong>"</p>
+        <div class="zh">大聖說空法，　為離諸見故；　若復見有空，　諸佛所不化。</div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/emptiness-and-the-limits-of-view/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>諸佛所不化 — <em>these the buddhas cannot cure.</em> Not "these are mistaken," not "these need further instruction." Incurable. It is the strongest thing said about anybody anywhere in the text, and it is reserved for people who took the medicine and made a position out of it.</p>
+
+      <p data-rv>Which sets the terms for this session. <strong>Whatever answer you give to "does any of it mean anything," it must not be another thing to hold.</strong> That rules out most of what a philosophy course would do here.</p>
+
+      <a class="sq-textcard north" href="{{ '/sutras/mulamadhyamakakarika/emptiness-and-the-limits-of-view/' | relative_url }}" data-rv>
+        <div class="trad">Madhyamaka · 中論 13–16 · Chinese, with Piṅgala's commentary · Ru-Yi's translation</div>
+        <h3>Emptiness, and the Danger of Making It a View</h3>
+        <p>Formations searched one by one, the milk that is not yet curds, being and non-being, bondage and release — and the warning.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="sq-part" data-rv><div class="pn">Part 3</div><h2><span class="sq-side south">The Southern answer</span><br>Eleven benefits, and the first three are about sleep</h2></div>
+
+      <p data-rv>Go back to Chapter 9, past the bandits, to the section listing what loving-kindness actually gets you. Read the eleven benefits with their explanations, including the story of the Elder Visākha.</p>
+
+      <a class="sq-textcard south" href="{{ '/theravada/visuddhimagga/brahmavihara-niddesa/' | relative_url }}" data-rv>
+        <div class="trad">Theravāda · Visuddhimagga Chapter 9 · Pāli, with Ru-Yi's translation</div>
+        <h3>The Eleven Benefits, Explained One by One</h3>
+        <p>What the tradition says you actually get — each of the eleven taken separately, with the stories attached.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 4 -->
+      <div class="sq-part" data-rv><div class="pn">Part 4</div><h2>Where the road parts</h2></div>
+
+      <h3 data-rv>1 · The answer is your Tuesday</h3>
+      <div class="sq-scr south" data-rv>
+        <div class="src">Visuddhimagga 9 · the first five of the eleven benefits</div>
+        <p>"<strong>'One sleeps happily':</strong> just as other people, tossing and turning and snoring, sleep miserably, so this one, without sleeping in that way, sleeps happily. Even while sinking into sleep, he is like one who has entered an attainment."</p>
+        <p>"<strong>'One wakes happily':</strong> just as others wake miserably, groaning, stretching, and turning over, so this one, without waking in that way, wakes happily, without any unpleasant reaction, <strong>like a lotus opening</strong>."</p>
+        <p>"<strong>'One does not see bad dreams':</strong> even when he does see a dream, he sees only an auspicious one… Whereas others see themselves surrounded by bandits, or set upon by wild beasts, or falling over a precipice, this one does not see any such bad dream."</p>
+        <p>"<strong>'One is dear to human beings':</strong> like a pearl necklace worn upon the chest, or a garland worn upon the head, he is dear and pleasing to human beings." <strong>'One is dear to non-human beings'</strong> — as in the case of the Elder Visākha."</p>
+        <a class="bk" href="{{ '/theravada/visuddhimagga/brahmavihara-niddesa/' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>Read that list again and notice how astonishingly small it is.</p>
+
+      <p data-rv>This is the payoff, in the most systematic manual the tradition produced, for the practice it treats as central. Not union with anything. Not a cosmic role. <strong>You stop tossing and turning. You wake up without groaning. Your dreams get better. People like you.</strong></p>
+
+      <p data-rv>And the detail that makes it credible is the one about waking: <em>groaning, stretching, and turning over.</em> Somebody watched that. Somebody in fifth-century Sri Lanka noticed how badly most people come out of sleep and thought it worth recording as the thing practice fixes. Against that, "like a lotus opening" is not decoration — it is the same observation, from the other side.</p>
+
+      <p data-rv>So the Southern answer to "does any of it mean anything?" is a deflationary one, and it is not embarrassed about it. <strong>Meaning is not a property the universe has or lacks. It is cashed out, entirely, in the texture of an ordinary day</strong> — and the claim is empirical, checkable, and about sleep.</p>
+
+      <p data-rv style="font-size:15.5px;color:var(--ink-soft);"><em>The story of the Elder Visākha, attached to the fifth benefit, is worth reading for its own sake — a merchant who heard that Sri Lanka was "ablaze with the yellow robe," gave his fortune to his family, left with a single coin knotted in his robe, honestly traded it into a thousand within a month, walked to the Mahāvihāra to request ordination, and then let the whole purse fall out of his robe at the boundary. The chapter does not comment on the timing.</em></p>
+
+      <h3 data-rv>2 · The answer is something that cannot be finished</h3>
+
+      <p data-rv>You have already read the Northern answer, in <a href="{{ '/courses/read-a-whole-sutra/session-8/' | relative_url }}" style="color:var(--teal);font-weight:600;">Read a Whole Sūtra, Session 8</a> — but not as an answer to this question.</p>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">普賢行願品 · the formula that closes every one of the ten vows</div>
+        <p>"<strong>Only when the realm of space itself is exhausted would my homage be exhausted — but since the realm of space can never be exhausted, this homage of mine can never be exhausted either</strong>… And so it continues until the realm of sentient beings is exhausted, their karma is exhausted, and their afflictions are exhausted… But since these, too, can never be exhausted, this homage of mine can never be exhausted either — <em>thought after thought continuing without a break, my deeds of body, speech, and mind never growing weary.</em>"</p>
+        <div class="zh">虛空界盡，我禮乃盡，而虛空界不可盡故，我此禮敬，無有窮盡……念念相續，無有間斷，身、語、意業無有疲厭。</div>
+        <a class="bk" href="{{ '/sutras/samantabhadra-vows/the-first-four-vows.html' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>A vow with a completion condition is a task: you finish it and become someone who once did that. These ten are built so that no such moment can arrive — their end condition is set at something that cannot occur.</p>
+
+      <p data-rv>Which is a strange thing to call an answer about meaning, until you see what it rules out. <strong>It rules out meaning as an achievement.</strong> Nothing here can be accomplished, banked, or completed, so nothing can be lost by failing to complete it. What is left is a direction — and a direction does not need a destination in order to be the direction you are facing.</p>
+
+      <p data-rv>And the chapter is explicit about where that direction points:</p>
+
+      <div class="sq-scr north" data-rv>
+        <div class="src">普賢行願品 · the ninth vow, according with all beings</div>
+        <p>"<strong>All sentient beings are its roots; all buddhas and bodhisattvas are its flowers and fruit</strong>… And so <strong>awakening belongs to sentient beings — without sentient beings, no bodhisattva could ever accomplish unsurpassed, perfect awakening.</strong>"</p>
+        <div class="zh">一切眾生而為樹根，諸佛菩薩而為華果……是故菩提屬於眾生，若無眾生，一切菩薩終不能成無上正覺。</div>
+        <a class="bk" href="{{ '/sutras/samantabhadra-vows/following-the-buddha-and-according-with-beings.html' | relative_url }}">See this passage in the full chapter →</a>
+      </div>
+
+      <p data-rv>菩提屬於眾生 — <em>awakening belongs to sentient beings.</em> The Northern answer to "is any of it for anything" is not that there is a purpose out there. It is that <strong>the thing being aimed at is located in other people</strong>, and is therefore as inexhaustible as they are.</p>
+
+      <h3 data-rv>3 · Two answers that do not compete</h3>
+
+      <div class="sq-take" data-rv>
+        <b class="h">The last fork</b>
+        <ul>
+          <li><b>South — meaning is local, empirical and small.</b> Eleven benefits, of which the first three concern sleep. You will know whether it is working by how you get out of bed. The claim is checkable and deliberately unglamorous.</li>
+          <li><b>North — meaning is a direction with no completion, located in other beings.</b> It cannot be achieved, therefore cannot be failed; and awakening is said to belong not to the practitioner but to the people the practice is for.</li>
+          <li><b>And these two do not actually collide.</b> This is the one question in the course where the answers are complementary rather than rival: one tells you how to check, the other tells you which way to face. Nothing in the eleven benefits contradicts an inexhaustible vow; nothing in the vow denies that you should be sleeping better.</li>
+          <li><b>Both are also protected by the same warning.</b> "Those who then hold a view of emptiness — these the buddhas cannot cure." Neither answer is a position. One is a symptom list. The other is an orientation. Neither is available to be believed <em>instead</em> of practised.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="sq-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">This week · test a fifth-century empirical claim</span></h2></div>
+
+      <div class="sq-prac" data-rv>
+        <b class="h">Check the first three benefits</b>
+        <p>Buddhaghosa makes a falsifiable claim, and in fifteen centuries remarkably few people appear to have simply gone and tested it.</p>
+        <div class="how">
+          <b>Keep doing last week's practice.</b> The four persons, a few minutes, daily — self, loved, neutral, hostile, in that order. That is the whole intervention.<br><br>
+          <b>And keep three lines a day.</b> <em>How did I fall asleep? How did I wake? Did I dream, and what kind?</em> That is all — no scoring, no interpretation, and do not read back over them until the week is out.<br><br>
+          <b>At the end of the week, read the seven days together.</b> The text's specific predictions are: less tossing and turning; waking without groaning, stretching and turning over; and dreams that are not about bandits, wild animals, or falling. You are checking three concrete claims against seven days of data.<br><br>
+          <b>And take the result seriously either way.</b> If nothing changed, that is a real finding about a real claim, and it is more use to you than agreeing with the text would have been. This course has spent nine weeks refusing to adjudicate between two traditions; the least it can do at the end is hand you one thing you can check yourself.
+        </div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="sq-part" data-rv><div class="pn">Part 6</div><h2>Five questions<span class="rf">Click an answer for immediate feedback · nothing is recorded</span></h2></div>
+
+      <div class="sq-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">"The great sage taught the dharma of emptiness in order to release people from every view; but those who then hold a view of emptiness —" what?</div>
+          <button class="opt"><span class="ltr">A</span>— require further instruction in the two truths</button>
+          <button class="opt"><span class="ltr">B</span>— have grasped the conventional but not the ultimate</button>
+          <button class="opt"><span class="ltr">C</span>— will realise their error in time, since emptiness corrects itself</button>
+          <button class="opt"><span class="ltr">D</span>— these the buddhas cannot cure</button>
+          <div class="expl"><strong>Correct: D.</strong> 諸佛所不化. Not "are mistaken," not "need more teaching." Incurable — the strongest thing said about anybody in the text, reserved for people who took the medicine and made a position out of it. Which sets the terms for this session: whatever answer you give about meaning, it must not be another thing to hold.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What are the first three of the eleven benefits of loving-kindness?</div>
+          <button class="opt"><span class="ltr">A</span>Freedom from rebirth, the divine eye, and knowledge of past lives</button>
+          <button class="opt"><span class="ltr">B</span>Sleeping happily, waking happily "like a lotus opening," and not seeing bad dreams</button>
+          <button class="opt"><span class="ltr">C</span>Long life, health, and material prosperity</button>
+          <button class="opt"><span class="ltr">D</span>Concentration, insight, and the destruction of the fetters</button>
+          <div class="expl"><strong>Correct: B.</strong> The payoff, in the most systematic manual the tradition produced, for the practice it treats as central. And the credible detail is in the waking: "groaning, stretching, and turning over." Somebody watched that, in fifth-century Sri Lanka, and thought it worth recording as the thing practice fixes.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What kind of answer about meaning is the eleven-benefits list?</div>
+          <button class="opt"><span class="ltr">A</span>A cosmological one — practice fits the practitioner into a larger order</button>
+          <button class="opt"><span class="ltr">B</span>A provisional one, to be replaced by a deeper answer at a later stage</button>
+          <button class="opt"><span class="ltr">C</span>A deflationary one, unembarrassed — meaning is not a property the universe has or lacks, but is cashed out entirely in the texture of an ordinary day, and the claim is empirical and checkable</button>
+          <button class="opt"><span class="ltr">D</span>An ironic one, not intended to be taken at face value</button>
+          <div class="expl"><strong>Correct: C.</strong> Not union with anything, not a cosmic role. You stop tossing and turning, you wake without groaning, your dreams get better, people like you. It is a very small answer given very seriously — and, unusually for a religious claim, one you can go and test.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">The ten vows of Samantabhadra all end with the same formula. What does that accomplish, read as an answer about meaning?</div>
+          <button class="opt"><span class="ltr">A</span>It rules out meaning as an achievement — nothing can be completed, banked or finished, so nothing can be lost by failing to complete it, and what is left is a direction rather than a destination</button>
+          <button class="opt"><span class="ltr">B</span>It sets an extremely distant goal to sustain motivation across many lifetimes</button>
+          <button class="opt"><span class="ltr">C</span>It transfers responsibility for the outcome from the practitioner to the buddhas</button>
+          <button class="opt"><span class="ltr">D</span>It marks the vows as symbolic rather than literal commitments</button>
+          <div class="expl"><strong>Correct: A.</strong> A vow with a completion condition is a task — you finish it and become someone who once did that. These are built so that no such moment can arrive, since the end condition is set at something that cannot occur. And a direction does not need a destination in order to be the direction you are facing.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">On this last question, how do the two answers stand to each other?</div>
+          <button class="opt"><span class="ltr">A</span>They contradict each other more sharply than on any previous question</button>
+          <button class="opt"><span class="ltr">B</span>The Northern answer supersedes the Southern one, which is preliminary</button>
+          <button class="opt"><span class="ltr">C</span>They are complementary rather than rival — one tells you how to check whether it is working, the other tells you which way to face; and both are protected by the same warning against turning either into a view</button>
+          <button class="opt"><span class="ltr">D</span>Neither is really an answer, and the question is left open</button>
+          <div class="expl"><strong>Correct: C.</strong> The one question in the course where the answers do not collide. Nothing in the eleven benefits contradicts an inexhaustible vow; nothing in the vow denies that you should be sleeping better. And note the Northern answer's location: 菩提屬於眾生 — awakening belongs to sentient beings. The thing being aimed at is in other people, and is therefore as inexhaustible as they are.</div>
+        </div>
+
+        <div class="sq-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="sq-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="sq-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Nine weeks of two answers to everything. Which tradition did you become?</p>
+        <p class="sm">You did, whatever you intended. Somewhere in these nine sessions your sympathies settled, and they probably settled early — most likely in session one or two, on grounds that had very little to do with the arguments. That is worth knowing, and it is not a failure: nobody comes to this without a temperament. The useful question is whether you can now state the other side's best case without flattening it. If you can, the course worked. If the answer is that one of them is simply correct, read session five again — the incurable condition is not holding the wrong view. It is holding one.</p>
+      </div>
+
+      <!-- COURSE COMPLETE -->
+      <div class="sq-take" data-rv style="background:linear-gradient(180deg,#f9fcfc,#e9f2f2);">
+        <b class="h">Six questions, twice over</b>
+        <ul>
+          <li><b>Who am I?</b> — An inventory with no owner on it, against six accounts of a self, each destroyed. Both end at the five aggregates.</li>
+          <li><b>What is mind?</b> — Eighty-nine kinds of moment in a strict sequence, against a storehouse that is neither permanent nor interrupted. The difference is content, not permanence.</li>
+          <li><b>Why do I suffer?</b> — "With taints, clingable," against restlessness that propagates. Neither puts the problem in the object.</li>
+          <li><b>And then?</b> — Emptiness is what destroys the four truths, says the objector; emptiness is the only reason they could be true, says the reply, in the same four lines with one character changed.</li>
+          <li><b>What happens when I die?</b> — An executioner already at your neck, against a buddha who has staked his own buddhahood on meeting you. Same minute, same enemy, opposite methods.</li>
+          <li><b>How should I live?</b> — Non-scatteredness in one exhaustively specified life, against filial devotion and a door wide enough for an animal. Then equality with no exceptions, against an asymmetry tilted toward the other.</li>
+          <li><b>Does any of it mean anything?</b> — You will sleep better. It will never be finished. Both, and neither as a view.</li>
+        </ul>
+      </div>
+
+      <!-- NEXT -->
+      <div class="sq-next" data-rv>
+        <div class="l">Where to go from here</div>
+        <h3>Two traditions, and then fifty-three teachers.</h3>
+        <p>The Academy's next layer is <strong>Fifty-Three Teachers</strong> — the youth Sudhana walking south through the Flower Garland Sūtra, studying under a ferryman, a judge, a perfume seller, a little girl, a king who only pretends to be cruel. After nine weeks of holding two systems apart, it is a course about learning from whoever is in front of you. And the layer after that goes deep into single schools: Yogācāra as psychology, Madhyamaka at full length, the Perfection of Wisdom unabridged. The <a href="{{ '/courses/' | relative_url }}" style="color:var(--teal);font-weight:600;">five-layer path</a> has the whole plan.</p>
+      </div>
+
+      <div class="sq-foot">
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/session-8/' | relative_url }}">← Session 8</a>
+        <a class="sq-btn ghost" href="{{ '/courses/six-questions/' | relative_url }}">Course overview</a>
+        <button type="button" class="sq-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.sq');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
