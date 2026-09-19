@@ -1,0 +1,677 @@
+---
+layout: default
+title: "Abhidhammattha Saṅgaha, Vīthisaṅgaha (Chapter 4)"
+permalink: /theravada/abhidhamma/vithi-sangaha/
+excerpt: "Ru-Yi's complete translation of the Abhidhammattha Saṅgaha's fourth chapter, Vīthisaṅgaha ('The Compendium of the Cognitive Process'), made directly from the Pāli — the seventeen-mind-moment eye-door process, the four grades of object, the mind-door process, the process of absorption, and the rules governing javana, individual, and plane, with the Pāli alongside our English, reading notes, and a vocabulary list for Pāli learners."
+---
+
+<style>
+  .fascicle{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 16px;color:var(--ink);max-width:20ch;}
+  .fascicle-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-pill.progress{background:#e8f3ef;border-color:#c3ddd2;color:#1e5245;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(28px,4vw,40px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:25px;color:var(--ink);margin:26px 0 10px;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul{padding-left:22px;}
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:22px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:12px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-style:italic;color:#382a20;}
+  .source .cite{font-style:normal;color:#8a7a5a;font-size:14px;}
+  .source ol,.translation ol{margin:0;padding-left:20px;}
+  .source li,.translation li{font-style:italic;color:#382a20;margin-bottom:6px;}
+  .translation li{font-style:normal;color:#26443a;}
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+  .vocab-box{border-left:4px solid var(--terra);background:#f5f7fa;padding:22px 24px;margin-top:16px;}
+  .vocab-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:14px;}
+  .vocab-list{display:grid;gap:14px;}
+  .vocab-entry{display:grid;grid-template-columns:1fr;gap:2px;}
+  @media(min-width:640px){.vocab-entry{grid-template-columns:190px 1fr;gap:16px;}}
+  .vocab-term{font-weight:800;color:var(--ink);font-size:17px;}
+  .vocab-pos{font-weight:400;font-style:italic;color:var(--muted);font-size:14px;margin-left:4px;}
+  .vocab-entry p{margin:0;font-size:15px;line-height:1.6;}
+  .tally{border:1px solid var(--line);border-radius:8px;padding:16px 20px;margin-top:14px;background:#fbf9f4;font-size:15px;color:var(--muted);}
+  .tally b{color:var(--ink);}
+  .process-diagram{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;background:#fbf9f4;padding:16px 18px;}
+  .process-diagram code{font-family:'SF Mono',Menlo,Consolas,monospace;font-size:13px;color:var(--ink);white-space:pre;line-height:1.9;}
+  .count-table{width:100%;border-collapse:collapse;margin-top:16px;font-size:15px;}
+  .count-table th,.count-table td{border:1px solid var(--line);padding:8px 12px;text-align:left;}
+  .count-table th{background:#f6efe2;color:var(--ink);font-weight:800;font-size:13px;text-transform:uppercase;letter-spacing:.04em;}
+  .count-table td{color:var(--muted);}
+  .count-table td.num{text-align:center;color:var(--ink);font-weight:700;}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/abhidhamma/' | relative_url }}">Abhidhamma</a> › Vīthisaṅgaha</nav>
+      <div class="fascicle-kicker">Chapter 4 · Vīthisaṅgaha · Complete</div>
+      <h1>Seventeen Moments to See Something</h1>
+      <p>This page carries Ru-Yi's complete translation of the <em>Abhidhammattha Saṅgaha</em>'s fourth chapter, <em>Vīthisaṅgahavibhāga</em> ("The Compendium of the Cognitive Process") — how the fourteen functions catalogued in Chapter 3 actually choreograph a single act of cognition, from the vibration of the life-continuum through the seven decisive moments of javana. The four grades of sense-door object, the mind-door process, the process of absorption, and the rules governing javana, individual, and plane are all translated in full, closing with the chapter's own colophon.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill progress">Status: chapter 4 complete</span>
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: PTS (Saddhātissa) edition, cross-checked VRI/CST</span>
+        <span class="fascicle-pill">Author: Ācariya Anuruddha, date uncertain (c. 8th–12th c. CE)</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <section class="fascicle-section">
+        <h2>Translation Method</h2>
+        <p>The Pāli source is the Pali Text Society's critical edition of the <em>Abhidhammattha Saṅgaha</em>, edited by Ven. Hammalawa Saddhātissa, cross-checked against the Chaṭṭha Saṅgāyana (Sixth Council) romanized text maintained by the Vipassana Research Institute (VRI, tipitaka.org) for internal consistency.</p>
+        <p>The English translation is Ru-Yi's own, made directly from the Pāli. No existing English translation is consulted, paraphrased, or used as a guide for wording or structure — including Bhikkhu Bodhi's copyrighted <em>A Comprehensive Manual of Abhidhamma</em>, the standard modern edition of this text. That volume's diagrams for this chapter (Tables 4.1–4.5) are, by its own editorial note, not part of Anuruddha's root text; most were contributed by Ven. U Sīlānanda for that edition. This page builds its own simple text-based diagrams directly from the root text's own prose descriptions, laid out for legibility rather than reproduced from any published table design.</p>
+        <p>Reading notes are grounded only in the chapter's own internal structure and its constant cross-references back to Chapters 1–3. The well-known "sleeping man under a mango tree" simile that later commentators use to illustrate this chapter is mentioned once, by name only, as a traditional aid — no version of the simile's wording is translated or reproduced here, since it does not appear in Anuruddha's own root verses and prose. Each translated passage also carries a short vocabulary list for readers learning Pāli alongside the text.</p>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>From Classification to Choreography</h2>
+        <p>Having classified consciousness by its own nature (Chapters 1–2) and by six further cross-cutting principles (Chapter 3), the author now turns from taxonomy to dynamics: how cittas actually occur, in order, at rebirth-linking and through the course of a life.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Cittuppādānam icc'evaṃ katvā sangaham uttaraṃ<br>Bhūmi-puggalabhedena pubbāparaniyāmitaṃ<br>Pavattisangahaṃ nāma paṭisandhippavattiyaṃ<br>Pavakkhāmi samāsena yathāsambhavato kathaṃ.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Having thus completed the excellent compendium of the arisings of consciousness, I shall now briefly explain, according to how it comes to be, the compendium of occurrence — at rebirth-linking and in the course of life — determined by plane and by individual, and fixed by what precedes and follows.</p>
+            </div>
+          </div>
+        </div>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">pavatti</span><span class="vocab-pos">f.</span></div>
+              <p>occurrence, ongoing process — pa- + vatti ("turning, proceeding"). The word this chapter and the next both use for their shared subject: consciousness as it actually unfolds, not merely as classified.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">pubbāparaniyāmita</span></div>
+              <p>"fixed by what precedes and follows" — the chapter's own name for cittaniyāma, the fixed order of consciousness: no citta in a cognitive process arises out of turn.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Six Sixes</h2>
+        <p>The chapter opens by naming six groups of six members each — most already introduced in Chapter 3 — that together supply every ingredient a cognitive process needs.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Cha vatthūni, cha dvārāni, cha ālambanāni, cha viññāṇāni, cha vīthiyo, chadhā visayappavatti cā ti vīthisangahe cha chakkāni veditabbāni.</p>
+              <p>Vīthimuttānaṃ pana kamma-kammanimitta-gatinimitta-vasena tividhā hoti visayappavatti. Tattha vatthu-dvār'ālambanāni pubbe vuttanayen'eva.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>In the compendium of the cognitive process, six sixes should be understood: six bases, six doors, six objects, six consciousnesses, six processes, and the sixfold presentation of objects.</p>
+              <p>For the process-freed, however, the presentation of objects is threefold: kamma, the sign of kamma, and the sign of destiny. The bases, doors, and objects therein are as already stated.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ manoviññāṇañ cā ti cha viññāṇāni.</p>
+              <p>Cha vīthiyo pana cakkhudvāravīthi, sotadvāravīthi, ghānadvāravīthi, jivhādvāravīthi, kāyadvāravīthi, manodvāravīthi cā ti dvāravasena vā cakkhuviññāṇavīthi, sotaviññāṇavīthi, ghānaviññāṇavīthi, jivhāviññāṇavīthi, kāyaviññāṇavīthi manoviññāṇavīthi cā ti viññāṇavasena vā dvārappavattā cittappavattiyo yojetabbā.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>The six consciousnesses are: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, and mind-consciousness.</p>
+              <p>The six processes, according to door, are: the eye-door process, ear-door process, nose-door process, tongue-door process, body-door process, and mind-door process; or, according to consciousness, the eye-consciousness process, ear-consciousness process, and so on. The door-based occurrences of consciousness should be correlated accordingly.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Atimahantaṃ mahantaṃ parittaṃ atiparittañ cā ti pañcadvāre, manodvāre pana vibhūtam avibhūtañ cā ti chadhā visayappavatti veditabbā.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>The sixfold presentation of objects should be understood thus: at the five [sense] doors, very great, great, slight, and very slight; at the mind door, clear and obscure.</p>
+            </div>
+          </div>
+        </div>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">vīthi</span><span class="vocab-pos">f.</span></div>
+              <p>street, path — used here in the technical sense of "process": the fixed sequence a cognitive act runs through.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">visayappavatti</span></div>
+              <p>"presentation of an object" — visaya ("object, range") + pavatti. Names how forcefully or clearly an object registers, not its physical size.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">atimahanta / mahanta / paritta / atiparitta</span></div>
+              <p>very great, great, slight, very slight — the four grades this whole chapter's sense-door analysis turns on, defined purely by how many mind-moments the object can still sustain the process for once it enters range.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Very Great Object — A Complete Seventeen-Moment Process</h2>
+        <p>Before naming the grades, the chapter first explains the unit they are all measured against: the mind-moment, and the seventeen-mind-moment lifespan of matter that the process cittas race against.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Kathaṃ? Uppāda-ṭṭhiti-bhanga-vasena khaṇattayaṃ ekacittakkhaṇaṃ nāma. Tāni pana sattarasa cittakkhaṇāni rūpadhammānam āyu. Ekacittakkhaṇātītāni vā bahucittakkhaṇātītāni vā ṭhitippattān'eva pañcālambanāni pañcadvāre āpātham āgacchanti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>How? By way of arising, presence, and dissolution, the three sub-moments are called one mind-moment. Seventeen such mind-moments are the lifespan of material phenomena. The five sense objects, having reached the stage of presence — whether one mind-moment or many mind-moments have already passed — enter the avenue of the five [sense] doors.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Tasmā yadi ekacittakkhaṇātītakaṃ rūpārammaṇaṃ cakkhussa āpātham āgacchati, tato dvikkhattuṃ bhavange calite bhavangasotaṃ vocchinditvā tam eva rūpārammaṇaṃ āvajjantaṃ pañcadvārāvajjanacittaṃ uppajjitvā nirujjhati. Tato tass'ānantaraṃ tam eva rūpaṃ passantaṃ cakkhuviññāṇaṃ, sampaṭicchantaṃ sampaṭicchanacittaṃ, santīrayamānaṃ santīraṇacittaṃ, vavatthapentaṃ votthapanacittañ cā ti yathākkamaṃ uppajjitvā nirujjhanti.</p>
+              <p>Tato paraṃ ekūnatiṃsakāmāvacarajavanesu yaṃ kiñci laddhappaccayaṃ yebhuyyena sattakkhattuṃ javati. Javanānubandhāni ca dve tadārammaṇapākāni yathārahaṃ pavattanti. Tato paraṃ bhavangapāto.</p>
+              <p>Ettāvatā cuddasa vīthicittuppādā dve bhavangacalanāni pubb'ev'atītakam ekacittakkhaṇan ti katvā sattarasa cittakkhaṇāni paripūrenti. Tato paraṃ nirujjhati. Ālambanam etaṃ atimahantaṃ nāma gocaraṃ.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Therefore, if a visible-form object, one mind-moment having already passed, enters the avenue of the eye — the life-continuum vibrates twice and, its stream cut off, a five-door-adverting citta arises adverting to that very visible-form object, and ceases. Immediately after it, in due order, there arise and cease: eye-consciousness seeing that same form; receiving consciousness receiving it; investigating consciousness investigating it; determining consciousness determining it.</p>
+              <p>After that, whichever of the twenty-nine sense-sphere javanas has obtained the right conditions runs, generally, seven times. Following the javanas, two registration resultants occur, according to circumstance. After that, subsidence into the life-continuum.</p>
+              <p>To this extent, fourteen arisings of process consciousness, together with the two vibrations of the life-continuum, and the one mind-moment already past beforehand, complete seventeen mind-moments. After that, [the object] ceases. This range of object is called "very great."</p>
+            </div>
+          </div>
+        </div>
+        <div class="process-diagram">
+          <code>1    2    3    4    5    6    7    8    9    10   11   12   13   14   15   16   17
+Past  Vib  Arr  5-Dr Eye  Rcv  Inv  Det  Jav  Jav  Jav  Jav  Jav  Jav  Jav  Reg  Reg
+bhv.  bhv. bhv. adv. cons                              (×7 identical javanas)      istr.
+────────────────────────{ the object's 17-moment lifespan }────────────────────────</code>
+        </div>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">cittakkhaṇa</span><span class="vocab-pos">m.</span></div>
+              <p>mind-moment — the basic unit of this chapter, itself divisible into uppāda, ṭhiti, and bhaṅga (arising, presence, dissolution). Traditionally said to be so brief that billions elapse in a single eye-blink.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">bhavangacalana / bhavangupaccheda</span></div>
+              <p>vibration and arrest of the life-continuum — the two moments in which an impinging object first disturbs, then cuts off, the passive bhavaṅga stream before the process proper begins.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">javati</span></div>
+              <p>"runs" — the verb this passage uses for the javana phase's characteristic swift repetition, the same root that gives javana its name ("running swiftly").</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">tadārammaṇa</span><span class="vocab-pos">nt.</span></div>
+              <p>registration — occurring here for exactly two mind-moments, the sixteenth and seventeenth, bringing the process to its full seventeen-moment length; this variety of process is therefore also called tadārammaṇavāra, "the course ending in registration."</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This single passage is the payoff for everything Chapter 3's Compendium of Functions catalogued in the abstract: rebirth-linking, life-continuum, adverting, seeing, receiving, investigating, determining, javana, registration, dying — fourteen named jobs with no stated order. Here, for the one case where every possible moment actually fires (a "very great" object), the order turns out to be exactly the order Chapter 3 happened to list them in. That was not a coincidence to notice in passing — it is the entire content of cittaniyāma, the fixed order of consciousness, stated concretely for the first time.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Great, Slight, and Very Slight Object</h2>
+        <p>A "very great" object is simply one strong enough to sustain the full seventeen moments. Weaker objects enter the sense door later, and the process truncates accordingly — ending after javana, after determining, or not beginning at all.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Yāva tadārammaṇ'uppādā pana appahontātītakam āpātham āgataṃ ālambanaṃ mahantaṃ nāma. Tattha javanāvasāne bhavangapāto va hoti. Natthi tadārammaṇ'uppādo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>But an object that enters the avenue [of sense] too late to endure until the arising of registration is called "great." In that case, at the end of the javanas, there is subsidence into the life-continuum alone; registration does not arise.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Yāva javan'uppādā pi appahontātītakam āpātham āgataṃ ālambanaṃ parittaṃ nāma. Tattha javanam pi anuppajjitvā dvattikkhattuṃ votthapanam eva pavattati. Tato paraṃ bhavangapāto va hoti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>An object that enters too late even to endure until the arising of javana is called "slight." In that case, javana does not even arise at all; only determining occurs, for two or three moments. After that, subsidence into the life-continuum alone.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Yāva votthapan'uppādā ca pana appahontātītakam āpātham āgataṃ nirodhāsannam ālambanaṃ atiparittaṃ nāma. Tattha bhavangacalanam eva hoti. Natthi vīthicittuppādo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>An object that enters on the very verge of ceasing, too late to endure even until the arising of determining, is called "very slight." In that case, there is only a vibration of the life-continuum; no process consciousness arises at all.</p>
+            </div>
+          </div>
+        </div>
+        <div class="process-diagram">
+          <code>Very great:  Past Vib Arr Adv Sns Rcv Inv Det [Jav ×7] Reg Reg | bhavaṅga...
+Great:       Past×2-3 Vib Arr Adv Sns Rcv Inv Det [Jav ×7]         | bhavaṅga...
+Slight:      Past×4-9 Vib Arr Adv Sns Rcv Inv [Det ×2-3]           | bhavaṅga...
+Very slight: Past×10-15 [Vib ×2 only — no process ever launches]   | bhavaṅga...</code>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Icc'evaṃ cakkhudvāre tathā sotadvārādīsu cā ti sabbathā pi pañcadvāre tadārammaṇa-javana-votthapana-moghavārasaṅkhātānaṃ catunnaṃ vārānaṃ yathākkamaṃ ālambanabhūtā visayappavatti catudhā veditabbā.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Thus in the eye door, and likewise in the ear door and the rest — altogether in the five doors — the presentation of the object should be understood as fourfold, in due order, by way of the four courses: the course ending in registration, the course ending in javana, the course ending in determining, and the futile course.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Vīthicittāni satt'eva cittuppādā catuddasa<br>Catupaññāsa vitthārā pañcadvāre yathārahaṃ.<br>Ayam ettha pañcadvāre vīthicittappavattinayo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>There are seven modes of process consciousness, fourteen arisings, and, at full extent, fifty-four, in the five doors, according to circumstance. Herein, this is the method of the occurrence of process consciousness in the five [sense] doors.</p>
+            </div>
+          </div>
+        </div>
+        <table class="count-table">
+          <tr><th>Course (vāra)</th><th>Ends at</th><th>Also called</th></tr>
+          <tr><td>Very great object</td><td class="num">registration (17 moments)</td><td>tadārammaṇavāra</td></tr>
+          <tr><td>Great object</td><td class="num">javana (no registration)</td><td>javanavāra</td></tr>
+          <tr><td>Slight object</td><td class="num">determining only (no javana)</td><td>votthapanavāra</td></tr>
+          <tr><td>Very slight object</td><td class="num">bhavaṅga-vibration only</td><td>moghavāra ("futile course")</td></tr>
+        </table>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">moghavāra</span><span class="vocab-pos">m.</span></div>
+              <p>the "futile course" — mogha ("empty, useless") + vāra. Not a failure of the system; simply the case where an object is too faint, too late, to ever reach the process cittas proper.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">satta ... vīthicittāni</span></div>
+              <p>"seven modes" — the seven distinct roles a citta can occupy across all four courses (adverting, sense-consciousness, receiving, investigating, determining, javana, registration); "fourteen" counts javana seven times and registration twice within a single full course.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>"Great" and "slight" describe how late the object arrives relative to the sense door's opening, not its physical size or intensity — a fact the chapter never states outright but that falls straight out of its own definitions: every grade is defined purely by "how many atīta-bhavaṅgas (past life-continuum moments) already elapsed before the object registered." A brilliant flash and a faint whisper are sorted by exactly the same yardstick. This is also why moghavāra, the "futile course," is not really futile in any ordinary sense — it is simply what happens, seventeen times over, every time something almost registers and doesn't; the text treats it as one of four equally lawful outcomes, not an exception to explain away.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Mind-Door Process</h2>
+        <p>Consciousness through the mind door alone — without any physical sense door involved — follows a shorter pattern, sorted only into clear and obscure.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Manodvāre pana yadi vibhūtam ālambanaṃ āpātham āgacchati, tato paraṃ bhavangacalana-manodvārāvajjana-javanāvasāne tadārammaṇapākāni pavattanti. Tato paraṃ bhavangapāto.</p>
+              <p>Avibhūte pan'ālambane javanāvasāne bhavangapāto va hoti. Natthi tadārammaṇ'uppādo ti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>In the mind door, however, if a clear object enters the avenue, then vibration of the life-continuum, mind-door-adverting, and — at the end of the javanas — registration resultants occur. After that, subsidence into the life-continuum.</p>
+              <p>But with an obscure object, at the end of the javanas there is subsidence into the life-continuum alone; registration does not arise.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Vīthicittāni tīṇ'eva cittuppādā das'eritā<br>Vitthārena pan'etth'ekacattāḷīsa vibhāvaye.<br>Ayam ettha parittajavanavāro.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Three modes of process consciousness, ten arisings, are told; at full extent, forty-one should be shown here. Herein, this is the limited-javana course.</p>
+            </div>
+          </div>
+        </div>
+        <div class="process-diagram">
+          <code>Clear object:   bhavaṅga [Vib Arr Mind-dr.adv. Jav×7 Reg Reg] bhavaṅga...
+Obscure object: bhavaṅga [Vib Arr Mind-dr.adv. Jav×7          ] bhavaṅga...</code>
+        </div>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">vibhūta / avibhūta</span></div>
+              <p>clear / obscure — the mind door's own two-way version of the five-door's fourfold grading, distinguished by the prominence of the object or the strength of the consciousness cognizing it.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">paritta-javana-vāra</span></div>
+              <p>"limited javana course" — this section's own name for the bare mind-door process, using paritta ("limited") in its Chapter 1 sense of "sense-sphere," not in the "slight object" sense from the section just above — a genuine ambiguity in the term worth noting for learners.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Process of Absorption</h2>
+        <p>When the mind-door process culminates not in an ordinary sense-sphere javana but in jhāna, path, or fruition, a distinct pattern applies: several sense-sphere javanas first prepare the way, each with its own name.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Appanājavanavāre pana vibhūtāvibhūtabhedo natthi. Tathā tadārammaṇ'uppādo ca. Tattha hi ñāṇasampayuttakāmāvacarajavanānam aṭṭhannaṃ aññatarasmiṃ parikamm'-opacār'-ānuloma-gotrabhū nāmena catukkhattuṃ tikkhattum eva vā yathākkamaṃ uppajjitvā niruddhe tadanantaram eva yathārahaṃ catutthaṃ pañcamaṃ vā chabbīsati mahaggata-lokuttarajavanesu yathābhinīhāravasena yaṃ kiñci javanaṃ appanāvīthim otarati. Tato paraṃ appanāvasāne bhavangapāto va hoti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>In the course of absorption-javana, there is no distinction of clear and obscure, nor does registration arise. Herein, one of the eight knowledge-associated sense-sphere javanas arises and ceases, in due order, four times or three times, under the names preparation, access, conformity, and change-of-lineage; immediately after these cease, as the fourth or fifth moment accordingly, some one among the twenty-six sublime-and-supramundane javanas — whichever the mind has been directed toward — descends into the course of absorption. After that, at the end of absorption, subsidence into the life-continuum alone.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Tattha somanassasahagatajavanānantaraṃ appanā pi somanassasahagatā va pāṭikaṅkhitabbā. Upekkhāsahagatajavanānantaraṃ upekkhāsahagatā va.</p>
+              <p>Tatthā pi kusalajavanānantaraṃ kusalajavanañ c'eva heṭṭhimañ ca phalattayam appeti. Kriyā-javanānantaraṃ kriyājavanaṃ arahattaphalañ cā ti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Herein, after a joy-accompanied javana, absorption accompanied by joy is to be expected; after an equanimity-accompanied javana, [absorption] accompanied by equanimity.</p>
+              <p>And there, after a wholesome javana, [the process] fixes upon a wholesome javana or one of the three lower fruits; after a functional javana, a functional javana or the fruit of Arahantship.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Dvattiṃsa sukhapuññamhā dvādas'opekkhakā paraṃ<br>Sukhitakriyato aṭṭha cha sambhonti upekkhakā.<br>Puthujjanāna sekkhānaṃ kāmapuññā tihetuto<br>Tihetukāmakriyato vītarāgānam appanā.<br>Ayam ettha manodvāre vīthicittappavattinayo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>From a wholesome [javana] accompanied by joy, thirty-two [kinds of absorption] arise; from one accompanied by equanimity, twelve after that. From a joyful functional, eight; from an equanimous [functional], six arise. For worldlings and trainees, absorption follows a three-rooted sense-sphere wholesome [javana]; for those free of lust [Arahants], a three-rooted sense-sphere functional. Herein, this is the method of the occurrence of process consciousness in the mind door.</p>
+            </div>
+          </div>
+        </div>
+        <div class="process-diagram">
+          <code>Average faculties: bhavaṅga [Vib Arr M.adv. Prep Access Conform Change-of-lineage  Absorption] bhavaṅga...
+Keen faculties:    bhavaṅga [Vib Arr M.adv.      Access Conform Change-of-lineage  Absorption] bhavaṅga...</code>
+        </div>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">appanā</span><span class="vocab-pos">f.</span></div>
+              <p>absorption — originally a highly developed form of vitakka that fixes the mind on its object; extended by usage to cover every jhāna, path, and fruition attainment, even the higher jhānas where vitakka itself is absent.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">parikamma / upacāra / anuloma / gotrabhū</span></div>
+              <p>preparation, access, conformity, change-of-lineage — the four (or three, for keen faculties) preliminary sense-sphere javanas that lead the mind up to the threshold of absorption itself.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">gotrabhū</span><span class="vocab-pos">nt.</span></div>
+              <p>"change-of-lineage" — gotra ("lineage") + bhū ("becoming"). For jhāna, the crossing from the sense-sphere lineage to the sublime; for the first path, the crossing from the worldling's lineage to the noble one's.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Notice what this section quietly rules out: only knowledge-associated sense-sphere javanas can ever lead into absorption — the four dissociated from knowledge never appear in this role at all, for either worldling or Arahant. Reaching jhāna or a supramundane path, in other words, is not something a sense-sphere citta can stumble into by accident; every route there passes first through a citta that already carries wisdom as one of its own roots. The preliminary run-up is not decorative — it is where the wisdom that makes the leap possible is actually already present.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Procedure of Javana</h2>
+        <p>Having shown the shape of each process, the chapter now states the rules governing how many times javana itself actually runs — seven as the norm, but not always.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Javanesu ca parittajavanavīthiyaṃ kāmāvacarajavanāni sattakkhattuṃ chakkhattum eva vā javanti. Mandappavattiyaṃ pana maraṇakālādīsu pañcavāram eva. Bhagavato pana yamakapāṭihāriyakālādīsu lahukappavattiyaṃ cattāri pañca vā paccavekkhaṇacittāni bhavantī ti pi vadanti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Among the javanas: in the limited-javana process, the sense-sphere javanas run seven times, or [sometimes] six. But in a feeble occurrence, such as at the time of death and the like, only five times. And they say that for the Blessed One, at the time of the Twin Miracle and the like, when the occurrence is swift, the reviewing cittas number only four or five.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Ādikammikassa pana paṭhamakappanāyaṃ mahaggatajavanāni abhiññājavanāni ca sabbadā pi ekavāram eva javanti. Tato paraṃ bhavangapāto.</p>
+              <p>Cattāro pana magg'uppādā ekacittakkhaṇikā. Tato paraṃ dve tīṇi phalacittāni yathārahaṃ uppajjanti. Tato paraṃ bhavangapāto.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>For a beginner, however, at the first attainment of absorption, the sublime javanas run only once; and the direct-knowledge javanas always run only once. After that, subsidence into the life-continuum.</p>
+              <p>The arising of each of the four paths, however, lasts a single mind-moment. After that, two or three fruition cittas arise, according to circumstance. After that, subsidence into the life-continuum.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Nirodhasamāpattikāle dvikkhattuṃ catutthāruppajavanaṃ javati. Tato paraṃ nirodhaṃ phusati. Vuṭṭhānakāle ca anāgāmiphalaṃ vā arahattaphalaṃ vā yathāraham ekavāraṃ uppajjitvā niruddhe bhavangapāto va hoti.</p>
+              <p>Sabbatthā pi samāpattivīthiyaṃ pana bhavangasoto viya vīthiniyamo natthī ti katvā bahūni pi labbhantī ti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>At the time of the attainment of cessation, the fourth-immaterial javana runs twice, then touches cessation. On emerging, either the fruition of non-returning or the fruition of Arahantship, whichever fits, arises once; when it ceases, subsidence into the life-continuum alone.</p>
+              <p>In the process of attainment generally, unlike the [fixed order of the] stream of the life-continuum, there is no fixed rule of process — so it should be understood that even many [javanas] are obtained in succession.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Sattakkhattuṃ parittāni maggābhiññā sakiṃ matā<br>Avasesāni labbhanti javanāni bahūni pi.<br>Ayam ettha javananiyamo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>It is held that limited [sense-sphere] javanas run seven times; the path and the direct knowledges, once; the rest [sublime and supramundane] are obtained many times over. Herein, this is the procedure of javana.</p>
+            </div>
+          </div>
+        </div>
+        <table class="count-table">
+          <tr><th>Occasion</th><th>Javana runs</th></tr>
+          <tr><td>Ordinary sense-sphere process</td><td class="num">7 (sometimes 6)</td></tr>
+          <tr><td>Feeble process (e.g. near death)</td><td class="num">5</td></tr>
+          <tr><td>The Buddha's rapid reviewing (e.g. the Twin Miracle)</td><td class="num">4–5</td></tr>
+          <tr><td>A beginner's first jhāna or direct-knowledge attainment</td><td class="num">1</td></tr>
+          <tr><td>Each path-moment</td><td class="num">1 (always)</td></tr>
+          <tr><td>Practiced jhāna / fruition attainment</td><td class="num">many, unfixed</td></tr>
+        </table>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">nirodhasamāpatti</span><span class="vocab-pos">f.</span></div>
+              <p>the attainment of cessation — a meditative state, open only to non-returners and Arahants with mastery of all eight attainments, in which consciousness and its factors are entirely arrested for a fixed period, up to seven days.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">vīthiniyama</span><span class="vocab-pos">m.</span></div>
+              <p>the fixed rule of process — explicitly said NOT to apply once absorption is underway and well-practiced, in sharp contrast to every sense-sphere process described earlier in the chapter, which is rigidly fixed.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Restrictions by Individual</h2>
+        <p>Not every citta is available to every mind. The chapter now ties the cognitive process back to the kind of rebirth-consciousness a being was born with, and to their stage on the path.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Duhetukānam ahetukānañ ca pan'ettha kriyājavanāni c'eva appanājavanāni ca na labbhanti. Tathā ñāṇasampayuttavipākāni ca sugatiyaṃ. Duggatiyaṃ pana ñāṇavippayuttāni ca mahāvipākāni na labbhanti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Herein, for those of double-rooted or rootless [rebirth-consciousness], neither functional javanas nor absorption javanas are obtained. Likewise, in a fortunate destiny, knowledge-associated resultants [do not arise for them]; but in a woeful destiny, great resultants dissociated from knowledge are not obtained.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Tihetukesu ca khīṇāsavānaṃ kusalākusalajavanāni na labbhanti. Tathā sekkhaputhujjanānaṃ kriyājavanāni. Diṭṭhigatasampayutta-vicikicchājavanāni ca sekkhānaṃ. Anāgāmipuggalānaṃ pana paṭighajavanāni ca na labbhanti. Lokuttarajavanāni ca yathārahaṃ ariyānam eva samuppajjantī ti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Among those with triple-rooted [rebirth-consciousness]: for one whose taints are exhausted [an Arahant], neither wholesome nor unwholesome javanas are obtained. Likewise, for trainees and worldlings, functional javanas [are not obtained]. And for trainees, javanas associated with wrong view or doubt [are not obtained]. For non-returners, javanas connected with resistance are not obtained. The supramundane javanas arise only to the noble ones, each according to their capacity.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Asekkhānaṃ catucattāḷīsa sekkhānam uddise<br>Chapaññās'āvasesānaṃ catupaññāsa sambhavā.<br>Ayam ettha puggalabhedo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>For those beyond training [Arahants], forty-four are to be shown; for trainees, fifty-six; for the rest [worldlings], fifty-four come to be. Herein, this is the analysis by individual.</p>
+            </div>
+          </div>
+        </div>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">duhetuka / ahetuka (rebirth)</span></div>
+              <p>double-rooted / rootless rebirth-consciousness — a being born this way can never, in that lifetime, become an Arahant or attain any jhāna, since the wisdom-root needed for both is absent from the start.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">khīṇāsava</span><span class="vocab-pos">m.</span></div>
+              <p>"one whose taints are exhausted" — a standard epithet for the Arahant, used here precisely because it explains the rule: with no āsavas left to generate kamma, neither wholesome nor unwholesome javanas can arise at all.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">asekkha / sekkha</span></div>
+              <p>beyond training / still training — Arahants, who have finished the path, versus the seven kinds of noble trainee (stream-enterers through those on the path to Arahantship) still progressing along it.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The rule for double-rooted and rootless rebirth-consciousness quietly closes a door that Chapter 1 left open in the abstract: nothing in the bare list of 89 cittas said an individual couldn't simply cultivate jhāna or reach Arahantship regardless of how they were born. This section is where that possibility is actually foreclosed — the very structure of one's rebirth-linking citta, fixed once at conception, permanently excludes an entire category of javana for the rest of that life. It is a sober qualification on an otherwise very democratic-looking system of 89 possible states of mind: the starting conditions are not, in fact, equally available to everyone.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Restrictions by Plane</h2>
+        <p>The chapter's final restriction sorts cognitive processes by plane of existence — sense-sphere, fine-material, and immaterial each excluding a further, predictable set of cittas.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Kāmāvacarabhūmiyaṃ pan'etāni sabbāni pi vīthicittāni yathārahaṃ upalabbhanti.</p>
+              <p>Rūpāvacarabhūmiyaṃ paṭighajavana-tadārammaṇa-vajjitāni.</p>
+              <p>Arūpāvacarabhūmiyaṃ paṭhamamagga-rūpāvacara-hasana-heṭṭhimāruppa-vajjitāni ca labbhanti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>In the sense-sphere plane, all these process cittas are obtained, according to circumstance.</p>
+              <p>In the fine-material-sphere plane, [all are obtained] excluding the javanas connected with resistance and registration.</p>
+              <p>In the immaterial-sphere plane, [all are] obtained excluding the first path, the fine-material-sphere cittas, the smiling citta, and the lower immaterial cittas.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Sabbatthā pi ca taṃtaṃ pasādarahitānaṃ taṃtaṃ dvārikavīthicittāni na labbhant'eva. Asaññasattānaṃ pana sabbathā pi cittappavatti natth'evā ti.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Everywhere, moreover, for those lacking a given sensitivity, the process cittas belonging to the corresponding door are simply not obtained. For non-percipient beings, there is no occurrence of consciousness whatsoever.</p>
+            </div>
+          </div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Pali Source</div>
+              <p>Asīti vīthicittāni kāme rūpe yathārahaṃ<br>Catusaṭṭhi tathāruppe dvecattāḷīsa labbhare.<br>Ayam ettha bhūmivibhāgo.</p>
+              <p class="cite">Icc'evaṃ chadvārikacittappavatti yathāsambhavaṃ bhavangantaritā yāvatāyukam abbocchinnā pavattati.</p>
+              <p class="cite">Iti Abhidhammatthasaṅgahe Vīthisaṅgahavibhāgo nāma catuttho paricchedo.</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p>Eighty process cittas are obtained, according to circumstance, in the sense sphere; in the fine-material, sixty-four; and likewise in the immaterial, forty-two. Herein, this is the analysis by plane.</p>
+              <p class="cite">Thus the occurrence of consciousness connected with the six doors continues, according to circumstance, interspersed with the life-continuum, unbroken for as long as life lasts.</p>
+              <p class="cite">Thus ends, in the Compendium of the Things Contained in the Abhidhamma, the fourth chapter, called the Compendium of the Cognitive Process.</p>
+            </div>
+          </div>
+        </div>
+        <table class="count-table">
+          <tr><th>Plane</th><th>Process cittas available</th></tr>
+          <tr><td>Sense-sphere (kāma)</td><td class="num">80</td></tr>
+          <tr><td>Fine-material (rūpa)</td><td class="num">64</td></tr>
+          <tr><td>Immaterial (arūpa)</td><td class="num">42</td></tr>
+        </table>
+        <div class="vocab-box">
+          <div class="who">Key vocabulary — for Pāli learners</div>
+          <div class="vocab-list">
+            <div class="vocab-entry">
+              <div><span class="vocab-term">asaññasatta</span><span class="vocab-pos">m.</span></div>
+              <p>non-percipient being — a class of being in the fine-material plane in which consciousness itself is altogether absent; body persists without any mind at all.</p>
+            </div>
+            <div class="vocab-entry">
+              <div><span class="vocab-term">abbocchinna</span><span class="vocab-pos">adj.</span></div>
+              <p>"unbroken, uninterrupted" — a- + vi-ucchinna. The chapter's closing word for the whole picture it has just drawn: cognitive process and bhavaṅga alternating without any gap, for an entire lifetime.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The fine-material plane's exclusions are logically forced by facts this chapter and its predecessors already established: aversion-connected javanas are absent because jhāna attainment itself requires aversion to be suppressed first, and registration is absent because — as Chapter 3's Compendium of Doors already showed — the nine sublime resultants are permanently door-freed, never occurring within an active process at all. Nothing here is a new rule; it is the same handful of facts from Chapters 1, 3, and this chapter's own earlier sections, simply converging on one plane at a time.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Vīthisaṅgaha Complete</h2>
+        <p>This closes the translation of the <em>Abhidhammattha Saṅgaha</em>'s fourth chapter, Vīthisaṅgaha ("The Compendium of the Cognitive Process") — the six sixes, the complete seventeen-mind-moment eye-door process, the four grades of sense-door object, the mind-door process, the process of absorption with its preliminary parikamma-upacāra-anuloma-gotrabhū sequence, the rules of javana, and the restrictions by individual and by plane, closing with the chapter's own colophon. The fifth chapter, Vīthimuttasaṅgaha — the compendium of what happens outside any cognitive process: rebirth, the planes of existence, and the mechanics of kamma and death — continues from here, the next undertaking for this translation.</p>
+      </section>
+
+    </div>
+  </section>
+</article>
