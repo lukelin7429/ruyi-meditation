@@ -1,0 +1,161 @@
+---
+layout: default
+title: "Pāli Course, Lesson 14: Participles and the Absolutive"
+permalink: /theravada/pali-course/lessons/14-participles-and-absolutive/
+excerpt: "Lesson 14 of Ru-Yi's Pāli course for English speakers: present and past participles (declining like adjectives) and the absolutive -tvā ('having done X') — including vuttaṃ, 'it was said,' the exact word behind Sīlaniddesa's own citation method."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,5.4vw,54px);line-height:1.1;margin:12px 0 16px;color:var(--ink);max-width:24ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .vocab-box{border-left:4px solid var(--terra);background:#f5f7fa;padding:22px 24px;margin-top:16px;}
+  .vocab-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:14px;}
+  .vocab-list{display:grid;gap:14px;}
+  .vocab-entry{display:grid;grid-template-columns:1fr;gap:2px;}
+  @media(min-width:640px){.vocab-entry{grid-template-columns:170px 1fr;gap:16px;}}
+  .vocab-term{font-weight:800;color:var(--ink);font-size:17px;}
+  .vocab-entry p{margin:0;font-size:15px;line-height:1.6;}
+
+  .sent-block{border:1px solid var(--line);border-radius:10px;padding:18px 22px;background:#fffdf8;margin-top:12px;}
+  .sent-block .pali{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .sent-block .gloss{font-size:14.5px;color:var(--muted);margin-top:6px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 14</nav>
+      <div class="pl-kicker">Lesson 14 of the Pāli Course · Verbs, concluded</div>
+      <h1>Participles and the Absolutive</h1>
+      <p>Three verb-derived forms that behave partly like adjectives and partly like connective glue between clauses — and, together, some of the most frequently printed words in the entire Canon.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/13-optative-imperative-future/' | relative_url }}" style="color:inherit;">Lesson 13</a></span>
+        <span class="pl-pill part">Part II · Lesson 10</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Present Participle: "-ing"</h2>
+        <p>Formed with <strong>-ant-</strong> (surfacing as <em>-anto</em> in the masculine nominative singular, the citation form you'll usually meet), the present participle declines like an ordinary adjective — agreeing in case, number, and gender with whatever noun it describes, using endings close to the a-stem pattern from Lesson 6.</p>
+        <div class="sent-block">
+          <div class="pali">Bhikkhu dhammaṃ passanto vadati.</div>
+          <div class="gloss">"The monk, seeing the Dhamma, speaks." / "...speaks while seeing the Dhamma." (passanto agrees with bhikkhu: masculine, nominative, singular)</div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Past Participle: "-ed / -en"</h2>
+        <p>Formed with <strong>-ta</strong> added directly to the root — often triggering small sandhi adjustments where the root and <em>-ta</em> meet, the way English "sleep" irregularly becomes "slept" rather than "sleeped." The past participle also declines like an adjective, and functions as Pāli's ordinary way of saying "it was said," "it is done," "he is gone" — a completed state, not necessarily an active narration.</p>
+        <div class="vocab-box">
+          <div class="who">Past participles you can start recognizing today</div>
+          <div class="vocab-list">
+            <div class="vocab-entry"><div class="vocab-term">vutta</div><p>said, spoken — past participle of vadati. Neuter vuttaṃ, "it was said," is the exact word behind Sīlaniddesa's own "vuttañhetaṃ paṭisambhidāyaṃ" ("for this was said in the Paṭisambhidā") — you have been reading this form since your first look at our translation, before this course existed.</p></div>
+            <div class="vocab-entry"><div class="vocab-term">diṭṭha</div><p>seen — past participle of passati. The stock phrase diṭṭhe dhamme, "in this very life" (literally "in the seen state/dhamma"), uses this form in the locative.</p></div>
+            <div class="vocab-entry"><div class="vocab-term">kata</div><p>done, made — past participle of karoti. Compare Lesson 12's aorist akāsi, "did" — same root, two different forms.</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Absolutive (-tvā): "Having Done X..."</h2>
+        <p>An indeclinable form — it never changes for case, number, or gender — built with the suffix <strong>-tvā</strong> (an alternate, common especially in verse, uses <strong>-tvāna</strong> or <strong>-itvā</strong>). It links one completed action to the main verb that follows: "having done X, [then Y happened]." This is one of the most common ways Pāli narrative prose chains events together, in place of English's "and then."</p>
+        <div class="sent-block">
+          <div class="pali">Bhagavantaṃ disvā, so etadavoca.</div>
+          <div class="gloss">"Having seen the Blessed One, he said this." (bhagavantaṃ: accusative from Lesson 9's discussion of the bhagavant stem; disvā: absolutive of passati; etadavoca: Lesson 12's aorist, "said this")</div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Notice how much of this single sentence is now built entirely from earlier lessons: an accusative noun (Lesson 6/9), an absolutive (this lesson), and an aorist verb (Lesson 12) — three different grammatical categories from three different lessons, combining into one natural, entirely ordinary piece of narrative Pāli. This is what accumulating grammar is for: not eighteen isolated facts, but one increasingly readable language.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Identify the Form</h2>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">vuttaṃ</span></li>
+            <li><span class="pali-word">disvā</span></li>
+            <li><span class="pali-word">dhammaṃ desento</span></li>
+            <li><span class="pali-word">kataṃ</span></li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">Past participle</span>, neuter — "[it was] said."</p>
+              <p>2. <span class="ans">Absolutive</span> — "having seen."</p>
+              <p>3. <span class="ans">Present participle</span>, agreeing with a masculine noun — "teaching the Dhamma" (as in, someone who is teaching it).</p>
+              <p>4. <span class="ans">Past participle</span>, neuter — "[it was] done, made."</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>This closes out Pāli's verb system. Lesson 15 turns to sandhi — the vowel- and consonant-contact rules you've already met in passing (Lesson 3's niggahīta assimilation, Lesson 10's kānassa and kenaṭṭhena) — now given a proper, systematic treatment.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/13-optative-imperative-future/' | relative_url }}">Lesson 13 — Optative, Imperative &amp; Future</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/15-sandhi-basics/' | relative_url }}">Lesson 15 — Sandhi: Basic Rules</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

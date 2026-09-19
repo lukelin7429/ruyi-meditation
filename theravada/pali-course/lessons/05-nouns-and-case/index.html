@@ -1,0 +1,172 @@
+---
+layout: default
+title: "Pāli Course, Lesson 5: Nouns and the Idea of Case"
+permalink: /theravada/pali-course/lessons/05-nouns-and-case/
+excerpt: "Lesson 5 of Ru-Yi's Pāli course for English speakers: opens Part II, grammar. What grammatical case is and why Pali marks it on the noun itself rather than through word order, an overview of all eight Pāli cases and their core meanings, and why this frees Pali word order from carrying grammatical weight."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;margin:12px 0 16px;color:var(--ink);max-width:22ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+  .pl em.pn{font-style:italic;color:var(--terra-deep);}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:560px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:14px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .cname{font-weight:800;color:var(--ink);}
+  .pl-table .pname{display:block;font-style:italic;font-weight:400;color:var(--muted);font-size:13px;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .eg{font-style:italic;}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 5</nav>
+      <div class="pl-kicker">Lesson 5 of the Pāli Course · Part II begins</div>
+      <h1>Nouns and the Idea of Case</h1>
+      <p>Part I taught you to read Pāli's sounds correctly. Part II teaches you what the words are doing. This lesson introduces the single idea that everything else in Pāli grammar is built on: a noun's ending, not its position in the sentence, tells you its grammatical job.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/04-syllables-and-reading/' | relative_url }}" style="color:inherit;">Lesson 4</a> (Part I complete)</span>
+        <span class="pl-pill part">Part II · Lesson 1 of ~14</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Word Order vs. Word Endings</h2>
+        <p>English mostly shows what a noun is doing in a sentence by where it stands and what preposition, if any, comes before it: "the monk gives a robe <em>to</em> the teacher" and "the teacher gives a robe <em>to</em> the monk" are built from identical words, but swapping "monk" and "teacher" completely reverses who receives what, because English relies on position and prepositions to carry that information.</p>
+        <p>Pāli, like Latin, Sanskrit, Russian, or German, instead changes the <em>ending</em> of the noun itself to show its job. "Monk," "to a monk," and "by a monk" are three different words in Pāli — <em>bhikkhu</em>, <em>bhikkhuno</em>, <em>bhikkhunā</em> — regardless of where any of them sits in the sentence. This has a direct, useful consequence: because the ending already tells you the grammatical role, Pāli word order is comparatively free, and a translator (or a poet arranging a verse's meter) can move words around far more than English allows without creating any ambiguity about who is doing what to whom.</p>
+        <p>This ending-driven system is called <strong>declension</strong>, and each grammatical role a noun's ending can mark is called a <strong>case</strong>. Pāli has eight of them.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Eight Cases</h2>
+        <p>Every Pāli noun, in both singular and plural, can appear in any of these eight cases. You are not memorizing eight arbitrary labels — each one corresponds to a job English speakers already recognize, just marked differently.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Case</th><th>Core job</th><th>Rough English equivalent</th></tr></thead>
+            <tbody>
+              <tr><td class="cname">Nominative<span class="pname">paṭhamā, "first"</span></td><td>the subject</td><td>"<strong>the monk</strong> teaches"</td></tr>
+              <tr><td class="cname">Accusative<span class="pname">dutiyā, "second"</span></td><td>the direct object; also motion toward</td><td>"sees <strong>the monk</strong>"; "goes to <strong>the village</strong>"</td></tr>
+              <tr><td class="cname">Instrumental<span class="pname">tatiyā, "third"</span></td><td>the means or accompaniment</td><td>"by/with <strong>the monk</strong>"</td></tr>
+              <tr><td class="cname">Dative<span class="pname">catutthī, "fourth"</span></td><td>the recipient or purpose</td><td>"to/for <strong>the monk</strong>"</td></tr>
+              <tr><td class="cname">Ablative<span class="pname">pañcamī, "fifth"</span></td><td>the source, cause, or point of comparison</td><td>"from <strong>the village</strong>"</td></tr>
+              <tr><td class="cname">Genitive<span class="pname">chaṭṭhī, "sixth"</span></td><td>possession or relation</td><td>"of <strong>the monk</strong>," "<strong>the monk's</strong>"</td></tr>
+              <tr><td class="cname">Locative<span class="pname">sattamī, "seventh"</span></td><td>location, time, or circumstance</td><td>"in/on/at <strong>the village</strong>"</td></tr>
+              <tr><td class="cname">Vocative<span class="pname">āmantana, "address"</span></td><td>direct address</td><td>"O <strong>monk</strong>!"</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Two further facts round out the system. Number works the way you'd expect: singular and plural only, nothing in between. Gender is grammatical rather than biological — every noun is masculine, feminine, or neuter regardless of what it refers to, so <em>citta</em> ("mind") and <em>kamma</em> ("action") are both neuter, and gender will matter starting in the next few lessons because the same case can be spelled differently depending on a noun's gender and its final stem vowel.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Cashing In Lesson 4's Preview</h2>
+        <p>Lesson 4 ended by pointing out that <em>tassa</em>, <em>bhagavato</em>, <em>arahato</em>, and <em>sammāsambuddhassa</em> all fill the same grammatical slot — the dative object of <em>namo</em>, "homage" — despite ending differently on the surface. You now have the vocabulary to state this precisely: all four words are in the <strong>dative case, singular number</strong>. They simply belong to different declension classes (an irregular <em>-ant</em> stem for <em>bhagavato</em> and <em>arahato</em>, versus the ordinary class behind <em>tassa</em> and <em>sammāsambuddhassa</em>), and different classes spell the same case differently — the way English marks the same "more than one" idea differently in "cats," "dishes," and "children," without any of those endings being wrong.</p>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This is also why memorizing "the dative ending is -assa" would already be too narrow a rule after only Lesson 4 — it happens to be right for two of those four words and wrong for the other two. Lesson 6 gives you the first full, reliable declension class to build on: the single largest noun class in the language, covering most masculine nouns and, with small adjustments, every neuter noun as well.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Naming the Case</h2>
+        <p>For each English sentence, name which of the eight cases the <strong>bold</strong> phrase would need to be in if the sentence were Pāli. You don't need Pāli vocabulary for this — just match the job to the case from the table above.</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="eg"><strong>The monk</strong> teaches the Dhamma.</span></li>
+            <li><span class="eg">She sees <strong>the monk</strong>.</span></li>
+            <li><span class="eg">He walks <strong>with patience</strong>.</span></li>
+            <li><span class="eg">She gave a robe <strong>to the monk</strong>.</span></li>
+            <li><span class="eg">He returned <strong>from the village</strong>.</span></li>
+            <li><span class="eg">This is the robe <strong>of the monk</strong>.</span></li>
+            <li><span class="eg">The Buddha sat <strong>in the forest</strong>.</span></li>
+            <li><span class="eg"><strong>O monk</strong>, listen well.</span></li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">Nominative</span> — subject of "teaches."</p>
+              <p>2. <span class="ans">Accusative</span> — direct object of "sees."</p>
+              <p>3. <span class="ans">Instrumental</span> — the means/manner.</p>
+              <p>4. <span class="ans">Dative</span> — the recipient.</p>
+              <p>5. <span class="ans">Ablative</span> — the source of motion.</p>
+              <p>6. <span class="ans">Genitive</span> — possession.</p>
+              <p>7. <span class="ans">Locative</span> — location.</p>
+              <p>8. <span class="ans">Vocative</span> — direct address.</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 6 gives the eight cases their first real home: the full singular and plural declension of an ordinary masculine noun, using <em>buddha</em> itself as the model word throughout.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/04-syllables-and-reading/' | relative_url }}">Lesson 4 — Syllables and Your First Reading</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/06-masculine-a-stem-nouns/' | relative_url }}">Lesson 6 — Masculine a-stem Nouns</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

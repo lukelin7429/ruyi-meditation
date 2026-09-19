@@ -1,0 +1,231 @@
+---
+layout: default
+title: "The Pāli Course"
+permalink: /theravada/pali-course/
+excerpt: "A systematic Pāli course for English speakers, built to grow alongside Ru-Yi's own from-the-Pāli translation of the Visuddhimagga — script and pronunciation, grammar, and a reading track that puts real translated passages in front of you as soon as you have the grammar to read them."
+---
+
+<style>
+  .pc{--saffron:#c97a2b;--saffron-deep:#7d4712;--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--ink:#2a211b;--muted:#6a5e52;--line:#ece0cf;--cream:#fbf5ea;}
+  .pc *{box-sizing:border-box;}
+  .pc-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pc-hero{background:linear-gradient(158deg,#c97a2b 0%,#b5691f 48%,#7d4712 100%);color:#fff;}
+  .pc-hero-in{max-width:980px;margin:0 auto;padding:72px 26px 60px;}
+  .pc-bread{font-size:13px;letter-spacing:.03em;margin-bottom:28px;color:rgba(255,255,255,.78);}
+  .pc-bread a{color:#fff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.4);}
+  .pc-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#ffe9c9;font-weight:700;}
+  .pc-hero h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6.2vw,62px);line-height:1.06;margin:14px 0 18px;max-width:16ch;}
+  .pc-hero p{font-size:18.5px;line-height:1.72;color:#fff0dc;max-width:660px;}
+  .pc-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;}
+  .pc-pill{border:1px solid rgba(255,255,255,.4);background:rgba(255,255,255,.08);border-radius:999px;padding:7px 14px;font-size:13px;color:#fff0dc;font-weight:600;}
+
+  .pc-body{background:#fff;padding:58px 0 30px;}
+  .pc-body h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,4vw,34px);color:var(--ink);margin:0 0 14px;}
+  .pc-body p{font-size:17px;line-height:1.72;color:var(--muted);max-width:72ch;}
+
+  .pc-how{display:grid;gap:16px;grid-template-columns:1fr;margin-top:24px;}
+  @media(min-width:720px){.pc-how{grid-template-columns:repeat(3,1fr);}}
+  .pc-how-card{border:1px solid var(--line);border-radius:12px;padding:20px 22px;background:var(--cream);}
+  .pc-how-card .n{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--saffron-deep);font-weight:700;margin-bottom:6px;}
+  .pc-how-card p{font-size:15px;margin:0;color:var(--muted);}
+
+  .pc-part{margin-top:56px;}
+  .pc-part-head{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:6px;}
+  .pc-part-head h2{margin:0;}
+  .pc-part-status{font-size:12.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);background:#e8f3ef;border:1px solid #c3ddd2;border-radius:999px;padding:5px 13px;}
+  .pc-part-status.soon{color:#8a6a2a;background:#fdf9f1;border-color:#f0dcae;}
+
+  .pc-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-top:18px;}
+  .pc-row{display:grid;grid-template-columns:52px 1fr auto;gap:16px;align-items:center;padding:17px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .pc-row:last-child{border-bottom:none;}
+  a.pc-row:hover{background:var(--cream);}
+  .pc-row .n{font-family:'Playfair Display',Georgia,serif;font-size:16px;font-weight:700;color:var(--saffron-deep);text-align:center;}
+  .pc-row .ti{color:var(--ink);font-size:16px;font-weight:600;line-height:1.35;}
+  .pc-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--muted);font-size:13.5px;margin-top:2px;}
+  .pc-row .st{font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .pc-row .st.live{background:#e8f3ef;color:var(--jade-deep);}
+  .pc-row .st.soon{background:#f2ece2;color:#8a7a5a;}
+  .pc-row.locked .n,.pc-row.locked .ti{color:#a89c8c;}
+  .pc-row.locked .ti small{color:#c2b7a6;}
+
+  .pc-note{margin-top:20px;padding:20px 24px;background:var(--cream);border-radius:10px;font-size:15px;line-height:1.65;color:var(--muted);}
+  .pc-note a{color:var(--saffron-deep);}
+</style>
+
+<section class="pc pc-hero">
+  <div class="pc-hero-in">
+    <nav class="pc-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › Pāli Course</nav>
+    <div class="pc-eyebrow">巴利語 · For English Speakers</div>
+    <h1>The Pāli Course</h1>
+    <p>Learn to read the language our <a href="{{ '/theravada/visuddhimagga/' | relative_url }}" style="color:#fff;">Visuddhimagga translation</a> is made from — the same Roman transliteration (IAST), no separate script to learn. This course starts from zero and grows in step with the translation project itself: as more of the Visuddhimagga is translated, more of it becomes real reading material here.</p>
+    <div class="pc-meta">
+      <span class="pc-pill">No background required</span>
+      <span class="pc-pill">Original explanations &amp; exercises, not adapted from any textbook</span>
+      <span class="pc-pill">Grows with the translation project</span>
+    </div>
+  </div>
+</section>
+
+<section class="pc pc-body">
+  <div class="pc-wrap">
+    <h2>How the course is built</h2>
+    <p>Three tracks, meant to be worked in order at first and then drawn on as reference once the basics are solid.</p>
+    <div class="pc-how">
+      <div class="pc-how-card"><div class="n">I</div><p><strong>Sounds &amp; Script</strong> — the IAST alphabet, vowel length, place and manner of articulation, syllables. Four lessons, no prior grammar needed.</p></div>
+      <div class="pc-how-card"><div class="n">II</div><p><strong>Grammar</strong> — noun declension, pronouns, verb conjugation, sandhi, and how to take apart a long Pāli compound (samāsa).</p></div>
+      <div class="pc-how-card"><div class="n">III</div><p><strong>Reading</strong> — real sentences, starting with short public-domain ceremonial verses and moving into our own Visuddhimagga translation as soon as the grammar supports it.</p></div>
+    </div>
+
+    <div class="pc-part">
+      <div class="pc-part-head">
+        <h2>Part I — Sounds &amp; Script</h2>
+        <span class="pc-part-status">4 of 4 published</span>
+      </div>
+      <p>No prerequisite. Start here.</p>
+      <div class="pc-sched">
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/01-script-and-sounds/' | relative_url }}">
+          <div class="n">01</div>
+          <div class="ti">Script and Vowel Length<small>Why Pāli uses Roman transliteration; the eight vowels; length as a meaning-changing feature</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/02-consonants-place-and-manner/' | relative_url }}">
+          <div class="n">02</div>
+          <div class="ti">Consonants I: Place and Manner<small>The five places of articulation; the full consonant grid; voiced vs. voiceless</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/03-aspiration-nasals-niggahita/' | relative_url }}">
+          <div class="n">03</div>
+          <div class="ti">Consonants II: Aspiration, Nasals &amp; Niggahīta<small>The aspirated/unaspirated contrast; the five nasals; the placeless ṃ</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/04-syllables-and-reading/' | relative_url }}">
+          <div class="n">04</div>
+          <div class="ti">Syllables and Your First Reading<small>Syllable structure and weight; a full syllable-by-syllable reading of Namo tassa...</small></div>
+          <div class="st live">Live</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="pc-part">
+      <div class="pc-part-head">
+        <h2>Part II — Foundations of Grammar</h2>
+        <span class="pc-part-status">14 of 14 published</span>
+      </div>
+      <p>Planned lesson sequence — titles and order may still shift as the material gets written.</p>
+      <div class="pc-sched">
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/05-nouns-and-case/' | relative_url }}">
+          <div class="n">05</div>
+          <div class="ti">Nouns and the Idea of Case<small>Why endings, not word order, carry grammatical role; the eight cases and their core meanings</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/06-masculine-a-stem-nouns/' | relative_url }}">
+          <div class="n">06</div>
+          <div class="ti">Masculine a-stem Nouns<small>The full buddha paradigm; dative=genitive and other syncretisms</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/07-feminine-a-stem-nouns/' | relative_url }}">
+          <div class="n">07</div>
+          <div class="ti">Feminine ā-stem Nouns<small>The paññā paradigm, where five singular cases converge on one ending</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/08-i-stem-and-u-stem-nouns/' | relative_url }}">
+          <div class="n">08</div>
+          <div class="ti">i-stem and u-stem Nouns<small>muni and bhikkhu; recognition over drilling; the irregular vocative plural bhikkhave</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/09-personal-and-demonstrative-pronouns/' | relative_url }}">
+          <div class="n">09</div>
+          <div class="ti">Pronouns I: Personal &amp; Demonstrative<small>ahaṃ, tvaṃ, and the ta- stem that doubles as Pāli's only third-person pronoun</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/10-interrogative-and-relative-pronouns/' | relative_url }}">
+          <div class="n">10</div>
+          <div class="ti">Pronouns II: Interrogative &amp; Relative<small>ka- and ya-, the yo...so correlative, and a full decode of Sīlaniddesa's seven questions</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/11-verbs-present-tense/' | relative_url }}">
+          <div class="n">11</div>
+          <div class="ti">Verbs I: The Present Tense<small>passati and hoti conjugated in full; negation with na; your first original sentences</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/12-verbs-aorist/' | relative_url }}">
+          <div class="n">12</div>
+          <div class="ti">Verbs II: The Aorist<small>Pāli's narrative past — why it resists one paradigm, and the high-frequency forms that carry most narration</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/13-optative-imperative-future/' | relative_url }}">
+          <div class="n">13</div>
+          <div class="ti">Verbs III: Optative, Imperative, Future<small>Including the Buddha's own "ehi bhikkhu" ordination formula</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/14-participles-and-absolutive/' | relative_url }}">
+          <div class="n">14</div>
+          <div class="ti">Participles and the Absolutive (-tvā)<small>vuttaṃ, diṭṭha, disvā — and Sīlaniddesa's own citation-word finally explained</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/15-sandhi-basics/' | relative_url }}">
+          <div class="n">15</div>
+          <div class="ti">Sandhi: Basic Rules<small>Vowel elision and the quotative -nti contraction, formalizing patterns seen since Lesson 3</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/16-compounds-tappurisa-kammadharaya/' | relative_url }}">
+          <div class="n">16</div>
+          <div class="ti">Compounds I: Tappurisa &amp; Kammadhāraya<small>kammaṭṭhāna and Dhammacakkappavattana decoded</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/17-compounds-dvanda-bahubbihi-avyayibhava/' | relative_url }}">
+          <div class="n">17</div>
+          <div class="ti">Compounds II: Dvanda, Bahubbīhi, Avyayībhāva<small>The traditional "having much rice" example, and all six compound types side by side</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/lessons/18-review-and-transition/' | relative_url }}">
+          <div class="n">18</div>
+          <div class="ti">Review and Transition to Reading<small>Namo tassa, fully analyzed with every tool from Lessons 5–17 at once</small></div>
+          <div class="st live">Live</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="pc-part">
+      <div class="pc-part-head">
+        <h2>Part III — Reading Track</h2>
+        <span class="pc-part-status">6 readings live · open-ended</span>
+      </div>
+      <p>This track is deliberately open-ended rather than a fixed number of lessons. It begins with short, public-domain ceremonial Pāli, then adds one entry each time enough of the <a href="{{ '/theravada/visuddhimagga/' | relative_url }}">Visuddhimagga translation</a> exists to support a new passage — annotated with exactly which grammar points (from Part II) it draws on, alongside our own English translation.</p>
+      <div class="pc-sched">
+        <a class="pc-row" href="{{ '/theravada/pali-course/readings/ceremonial-pali/' | relative_url }}">
+          <div class="n">R1</div>
+          <div class="ti">First Readings: Ceremonial Pāli<small>Namo tassa..., the three refuges, the five precepts — fully analyzed with Part II's grammar</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/readings/silaniddesa-volition/' | relative_url }}">
+          <div class="n">R2</div>
+          <div class="ti">Reading the Visuddhimagga: Volition and the Mental Factor<small>Real continuous prose from Sīlaniddesa, touching nearly every Part II lesson at once</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/readings/silaniddesa-mahatissa/' | relative_url }}">
+          <div class="n">R3</div>
+          <div class="ti">Reading the Visuddhimagga: The Elder Mahātissa<small>The first real narrative — aorist verbs, chained absolutives, and a famous story</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/readings/silaniddesa-snake-riddle/' | relative_url }}">
+          <div class="n">R4</div>
+          <div class="ti">Reading the Visuddhimagga: The Monk and the Snake<small>Optative and future tenses confirmed in dialogue; a first look at the infinitive (-tuṃ)</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/readings/silaniddesa-deceitful-ascetic/' | relative_url }}">
+          <div class="n">R5</div>
+          <div class="ti">Reading the Visuddhimagga: The Ascetic Who Refuses Gifts<small>sace + optative as a conditional pattern; the optative's "should" sense; sandhi running the other direction</small></div>
+          <div class="st live">Live</div>
+        </a>
+        <a class="pc-row" href="{{ '/theravada/pali-course/readings/silaniddesa-sariputta/' | relative_url }}">
+          <div class="n">R6</div>
+          <div class="ti">Reading the Visuddhimagga: Sāriputta's Refusal<small>The imperative in organic dialogue for the first time; a 1st-person optative with a vowel-merger sandhi</small></div>
+          <div class="st live">Live</div>
+        </a>
+      </div>
+    </div>
+
+    <p class="pc-note">This course's explanations, examples, and exercises are written from scratch for this project. Grammatical facts about Pāli are, of course, part of the shared scholarly record and are taught here the way any settled field of knowledge is taught — but the wording, examples, and exercises are not adapted or paraphrased from any existing coursebook. Early lessons draw example sentences only from ordinary Buddhist vocabulary and from public-domain ceremonial verses; as the course reaches Part III, its reading material comes directly from Ru-Yi's own from-the-Pāli translation of the <a href="{{ '/theravada/visuddhimagga/' | relative_url }}">Visuddhimagga</a> — see that page for the full translation method and source texts.</p>
+  </div>
+</section>

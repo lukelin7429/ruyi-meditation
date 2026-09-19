@@ -1,0 +1,214 @@
+---
+layout: default
+title: "Pāli Course, Lesson 4: Syllables and Your First Reading"
+permalink: /theravada/pali-course/lessons/04-syllables-and-reading/
+excerpt: "Lesson 4 of Ru-Yi's Pāli course for English speakers: how Pāli syllables are built, light vs. heavy syllables, and a complete syllable-by-syllable reading of the verse of homage — Namo tassa bhagavato arahato sammāsambuddhassa — putting every sound from Lessons 1–3 to work at once."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;margin:12px 0 16px;color:var(--ink);max-width:22ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:480px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:14px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .letter{font-size:20px;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  /* verse + syllable breakdown */
+  .verse-block{border:1px solid var(--line);border-radius:12px;background:#fffdf8;padding:28px 30px;margin-top:22px;}
+  .verse-block .pali{font-family:'Playfair Display',Georgia,serif;font-size:26px;line-height:1.5;color:var(--ink);text-align:center;}
+  .verse-block .gloss{text-align:center;font-style:italic;color:var(--muted);font-size:15.5px;margin-top:10px;}
+
+  .word-block{margin-top:26px;}
+  .word-block .wlbl{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:8px;}
+  .syl-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;}
+  .syl{background:#f6efe2;border:1px solid #dfceb3;border-radius:8px;padding:8px 14px;font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .word-block .wgloss{font-size:15px;color:var(--muted);}
+  .word-block .wgloss b{color:var(--ink);}
+
+  .vocab-box{border-left:4px solid var(--terra);background:#f5f7fa;padding:22px 24px;margin-top:16px;}
+  .vocab-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:14px;}
+  .vocab-list{display:grid;gap:14px;}
+  .vocab-entry{display:grid;grid-template-columns:1fr;gap:2px;}
+  @media(min-width:640px){.vocab-entry{grid-template-columns:190px 1fr;gap:16px;}}
+  .vocab-term{font-weight:800;color:var(--ink);font-size:17px;}
+  .vocab-entry p{margin:0;font-size:15px;line-height:1.6;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 4</nav>
+      <div class="pl-kicker">Lesson 4 of the Pāli Course · Sounds &amp; Script, concluded</div>
+      <h1>Syllables and Your First Reading</h1>
+      <p>Everything in Lessons 1–3 was building toward this: reading one real, unbroken line of Pāli aloud. Before we get there, this lesson covers how Pāli groups its sounds into syllables — a short piece of structure you need in order to read fluently rather than sounding out letter by letter forever.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: absolute beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/03-aspiration-nasals-niggahita/' | relative_url }}" style="color:inherit;">Lesson 3</a></span>
+        <span class="pl-pill">Focus: syllables, first full reading</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>How a Pāli Syllable Is Built</h2>
+        <p>Every Pāli syllable has exactly one vowel at its core, optionally preceded by one or two consonants and optionally closed by a consonant or the niggahīta. When two consonants stand together between vowels — including a doubled letter like the <em>tt</em> in <em>citta</em> — Pāli splits them across the syllable boundary: the first consonant closes the syllable before it, and the second opens the syllable after. <em>Citta</em> is therefore <strong>cit-ta</strong>, not <strong>ci-tta</strong>; <em>buddha</em> is <strong>bud-dha</strong>, not <strong>bu-ddha</strong>.</p>
+        <p>This single rule is almost all the syllable division you need. It is also why the doubled letters you've been seeing since Lesson 1 — <em>mm</em> in <em>dhamma</em>, <em>gg</em> in <em>magga</em>, <em>ss</em> in <em>tassa</em> — are not a spelling quirk to ignore, but an audible doubling: you actually hold the consonant closure longer, the same way Italian distinguishes "casa" from "cassa."</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Light and Heavy Syllables</h2>
+        <p>Pāli chanting and verse are organized by syllable weight rather than by stress, the way English poetry counts stressed beats. A syllable is <strong>light</strong> if it has a short vowel and is not closed by a consonant. A syllable is <strong>heavy</strong> if any one of three things is true: its vowel is long, its vowel is followed by the niggahīta <span class="letter">ṃ</span>, or it is closed by a consonant (which, by the splitting rule above, happens constantly whenever two consonants stand together).</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Syllable</th><th>Weight</th><th>Why</th></tr></thead>
+            <tbody>
+              <tr><td class="letter">na</td><td>light</td><td>short vowel, open syllable</td></tr>
+              <tr><td class="letter">mo</td><td>heavy</td><td>o always counts as long</td></tr>
+              <tr><td class="letter">tas</td><td>heavy</td><td>closed by s (before the following syllable's consonant)</td></tr>
+              <tr><td class="letter">dhas</td><td>heavy</td><td>closed by s</td></tr>
+              <tr><td class="letter">mā</td><td>heavy</td><td>long vowel</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>You do not need to memorize weight assignments as a standalone drill. It matters here mainly as one more reason the doubled and clustered consonants you've been reading since Lesson 1 are not decorative: they physically slow the syllable down, exactly as "heavy" suggests.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Reading Namo Tassa Aloud</h2>
+        <p>This is the verse of homage (namakāra) that opens essentially every act of formal Theravādin recitation, anywhere in the world, regardless of language. It is public domain — no one authored it in the sense of holding rights to it — and it happens to contain no retroflex consonant and no niggahīta at all, which makes it a clean first sentence: everything in it is vowel length, aspiration, and ordinary place of articulation, the three things you've spent four lessons building.</p>
+        <div class="verse-block">
+          <div class="pali">Namo tassa bhagavato arahato sammāsambuddhassa.</div>
+          <div class="gloss">"Homage to Him, the Blessed One, the Worthy One, the Perfectly Self-Awakened One."</div>
+        </div>
+
+        <div class="word-block">
+          <div class="wlbl">Namo</div>
+          <div class="syl-row"><span class="syl">na</span><span class="syl">mo</span></div>
+          <div class="wgloss"><b>homage, salutation</b> — an indeclinable that does not change form for case or number. It grammatically calls for a dative object, which is exactly what the next four words provide.</div>
+        </div>
+        <div class="word-block">
+          <div class="wlbl">tassa</div>
+          <div class="syl-row"><span class="syl">tas</span><span class="syl">sa</span></div>
+          <div class="wgloss"><b>to him / of him</b> — dative singular of the demonstrative stem ta-. The doubled <em>ss</em> is genuinely held, not a spelling flourish.</div>
+        </div>
+        <div class="word-block">
+          <div class="wlbl">bhagavato</div>
+          <div class="syl-row"><span class="syl">bha</span><span class="syl">ga</span><span class="syl">va</span><span class="syl">to</span></div>
+          <div class="wgloss"><b>to the Blessed One</b> — dative singular of bhagavā/bhagavant, one of the standard epithets of the Buddha. Its declension pattern is irregular enough that we'll treat it on its own later; for now, just notice the aspirated <em>bh</em> that opens it.</div>
+        </div>
+        <div class="word-block">
+          <div class="wlbl">arahato</div>
+          <div class="syl-row"><span class="syl">a</span><span class="syl">ra</span><span class="syl">ha</span><span class="syl">to</span></div>
+          <div class="wgloss"><b>to the Worthy One</b> — dative singular of arahant, "one who has destroyed the defilements and is worthy of offerings." Every vowel here is short; nothing about this word is exotic once you can read the letters.</div>
+        </div>
+        <div class="word-block">
+          <div class="wlbl">sammāsambuddhassa</div>
+          <div class="syl-row"><span class="syl">sam</span><span class="syl">mā</span><span class="syl">sam</span><span class="syl">bud</span><span class="syl">dhas</span><span class="syl">sa</span></div>
+          <div class="wgloss"><b>to the Perfectly Self-Awakened One</b> — a compound of sammā ("rightly, perfectly") and sambuddha ("awakened," from saṃ- + buddha, the past participle of bujjhati, "to awaken"), in the same dative singular. This is the exact niggahīta assimilation from Lesson 3 in action: underlying saṃ-buddha surfaces in writing as sambuddha, with ṃ spelled as plain m before the labial b.</div>
+        </div>
+
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Notice that <em>tassa</em>, <em>bhagavato</em>, <em>arahato</em>, and <em>sammāsambuddhassa</em> all end differently on the surface (-ssa, -to, -to, -ssa) yet all fill the same grammatical slot: the dative object of <em>namo</em>. That is not a coincidence you need to resolve yet — it is a preview of Part 2 of this course, where you'll learn that Pāli nouns fall into different declension patterns that spell the same case differently depending on the stem. For now, simply notice that a single sentence can hold four words in the same case without looking uniform, because "same case" and "same ending" are not the same claim.</p>
+        </div>
+
+        <div class="try-box">
+          <div class="who">Try this</div>
+          <p>Read the verse aloud slowly, word by word, using the syllable breakdowns above. Then read it again at a normal pace. Nothing in it should feel unfamiliar anymore: you have now met every sound it contains.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Weighing Syllables</h2>
+        <p>Using the light/heavy rule above, decide whether each syllable is light or heavy.</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">a</span> — the first syllable of <em>arahato</em></li>
+            <li><span class="pali-word">bha</span> — the first syllable of <em>bhagavato</em></li>
+            <li><span class="pali-word">dham</span> — the first syllable of <em>dhamma</em> (dham-ma)</li>
+            <li><span class="pali-word">nib</span> — the first syllable of <em>nibbāna</em> (nib-bā-na)</li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p><strong>a</strong> — <span class="ans">light</span> (short vowel, open — nothing closes it).</p>
+              <p><strong>bha</strong> — <span class="ans">light</span> (short vowel, open — the aspiration of bh doesn't affect weight, only the vowel and what follows it do).</p>
+              <p><strong>dham</strong> — <span class="ans">heavy</span> (closed by m, since the next syllable starts with another consonant, ma).</p>
+              <p><strong>nib</strong> — <span class="ans">heavy</span> (closed by b).</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Part 1 Complete</h2>
+        <p>This closes Part 1 of the course. You can now read any word written in our Visuddhimagga translation aloud correctly — length, place, aspiration, nasals, niggahīta, and syllable division are the complete set of tools reading requires. Part 2 turns to grammar, starting with the idea of grammatical case and the declension of ordinary nouns, using real words from this course and from the Sīlaniddesa translation as they accumulate.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/03-aspiration-nasals-niggahita/' | relative_url }}">Lesson 3 — Aspiration, Nasals &amp; Niggahīta</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next — Part 2: Foundations of Grammar</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/05-nouns-and-case/' | relative_url }}">Lesson 5 — Nouns and the Idea of Case</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

@@ -1,0 +1,226 @@
+---
+layout: default
+title: "Pāli Course, Lesson 3: Aspiration, Nasals & Niggahīta"
+permalink: /theravada/pali-course/lessons/03-aspiration-nasals-niggahita/
+excerpt: "Lesson 3 of Ru-Yi's Pāli course for English speakers: how to hear and produce Pāli's aspirated consonants (a distinction English makes but never uses to change meaning), the five nasals, and the niggahīta ṃ — the one Pāli sound with no place of articulation of its own."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;margin:12px 0 16px;color:var(--ink);max-width:22ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:520px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:14px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .letter{font-size:20px;}
+
+  .pl-pairs{display:grid;gap:16px;grid-template-columns:1fr;margin-top:20px;}
+  @media(min-width:680px){.pl-pairs{grid-template-columns:1fr 1fr;}}
+  .pl-pair{border:1px solid var(--line);border-radius:10px;padding:20px 22px;background:#fffdf8;}
+  .pl-pair .word{font-family:'Playfair Display',Georgia,serif;font-size:24px;color:var(--ink);}
+  .pl-pair .word .mark{color:var(--terra);}
+  .pl-pair .gloss{font-size:14.5px;color:var(--muted);margin-top:4px;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box p+p{margin-top:12px;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  .vocab-box{border-left:4px solid var(--terra);background:#f5f7fa;padding:22px 24px;margin-top:16px;}
+  .vocab-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:14px;}
+  .vocab-list{display:grid;gap:14px;}
+  .vocab-entry{display:grid;grid-template-columns:1fr;gap:2px;}
+  @media(min-width:640px){.vocab-entry{grid-template-columns:190px 1fr;gap:16px;}}
+  .vocab-term{font-weight:800;color:var(--ink);font-size:17px;}
+  .vocab-entry p{margin:0;font-size:15px;line-height:1.6;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 3</nav>
+      <div class="pl-kicker">Lesson 3 of the Pāli Course · Consonants II</div>
+      <h1>Aspiration, Nasals &amp; Niggahīta</h1>
+      <p>This lesson finishes the consonant grid from Lesson 2 with its hardest column for English speakers — aspiration — then adds the five nasals and one sound that belongs to no place at all: the niggahīta <span class="letter">ṃ</span>. By the end of this lesson you will have met every consonant Pāli has.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: absolute beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/02-consonants-place-and-manner/' | relative_url }}" style="color:inherit;">Lesson 2</a></span>
+        <span class="pl-pill">Focus: aspiration, nasals, ṃ</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>You Already Make This Sound — You Just Don't Notice It</h2>
+        <p>Hold the back of your hand an inch from your mouth and say the English word "pin." You'll feel a small puff of air hit your hand right as the "p" releases. Now say "spin" the same way. The puff is gone — the "p" in "spin" is a completely different sound from the "p" in "pin," articulated identically but released without that burst of breath. English has both sounds, in fact uses them in a fully predictable pattern (aspirated at the start of a stressed syllable, unaspirated after "s"), and simply never lets the difference change a word's meaning, so English speakers grow up without ever consciously hearing it.</p>
+        <p>Pāli has exactly the same two sounds — call them "aspirated" (with the puff) and "unaspirated" (without it) — but treats the difference the way English treats voicing: as a genuine, word-changing contrast, at all five places from Lesson 2. Spelled, the aspirated member of each pair simply adds an "h" after the base letter: k/kh, g/gh, c/ch, j/jh, ṭ/ṭh, ḍ/ḍh, t/th, d/dh, p/ph, b/bh.</p>
+        <div class="try-box">
+          <div class="who">Try this</div>
+          <p>Hold your hand in front of your mouth again and say these two words slowly: <em>kamma</em>, then <em>khanti</em>. You should feel no puff on the first "k," and a clear puff on the "kh." This is the entire skill this lesson is asking you to build — not a new mouth position, just noticing and controlling a puff of air you already produce every day in English without meaning to.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>One Pair Per Place</h2>
+        <p>Five clean examples, one per place, all drawn from vocabulary you'll see again in this course's readings from our own Visuddhimagga translation:</p>
+        <div class="pl-pairs">
+          <div class="pl-pair">
+            <div class="word"><span class="mark">k</span>amma</div>
+            <div class="gloss">velar, unaspirated — "action, deed"</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">kh</span>anti</div>
+            <div class="gloss">velar, aspirated — "patience," one of the five kinds of restraint in Sīlaniddesa</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">c</span>etanā</div>
+            <div class="gloss">palatal, unaspirated — "volition," the first term in Sīlaniddesa's fourfold definition of virtue</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">ch</span>anda</div>
+            <div class="gloss">palatal, aspirated — "desire, wish," one of the four bases of success (iddhipāda)</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">kammaṭ<span class="mark">ṭh</span>āna</div>
+            <div class="gloss">retroflex, aspirated — "meditation subject" (literally "place/basis of action")</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">t</span>aṇhā vs. <span class="mark">th</span>era</div>
+            <div class="gloss">dental family, unaspirated vs. aspirated — "craving" vs. "elder monk"</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">pa<span class="mark">ññ</span>ā vs. <span class="mark">ph</span>ala</div>
+            <div class="gloss">labial, unaspirated vs. aspirated — "wisdom" vs. "fruit, result"</div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Notice that <em>khanti</em> and <em>cetanā</em> are not incidental examples — both are technical terms straight out of the passages we've already translated on the Sīlaniddesa page. This is exactly the point of building this course alongside a live translation project: the vocabulary you drill here is vocabulary you will meet again, doing real work, not invented for the exercise and then discarded.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Five Nasals</h2>
+        <p>Each of the five places in Lesson 2's grid has its own nasal — a sound made by blocking the mouth at that place while air escapes through the nose. English only distinguishes three nasals in spelling (m, n, and the "ng" sound written with two letters), so two of Pāli's five nasals will be genuinely new symbols even though the sounds themselves are familiar.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Nasal</th><th>Place</th><th>Notes</th></tr></thead>
+            <tbody>
+              <tr><td class="letter">ṅ</td><td>velar</td><td>identical to English "ng" in "sing" — in Pāli spelling it appears only immediately before a velar stop, as in saṅgha, saṅkhāra</td></tr>
+              <tr><td class="letter">ñ</td><td>palatal</td><td>close to the "ny" in Spanish "señor" — appears doubled or before palatal stops, as in paññā, ñāṇa</td></tr>
+              <tr><td class="letter">ṇ</td><td>retroflex</td><td>the retroflex counterpart to n — vaṇṇa, kaṇha</td></tr>
+              <tr><td class="letter">n</td><td>dental</td><td>ordinary English "n" — nibbāna, dāna</td></tr>
+              <tr><td class="letter">m</td><td>labial</td><td>ordinary English "m" — dhamma, kamma</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Because <span class="letter">ṅ</span> and, mostly, <span class="letter">ñ</span> only ever show up glued to a stop from their own place, you rarely need to hunt for them independently — seeing <span class="letter">ṅg</span> or <span class="letter">ṅk</span> together is itself the signal that you're looking at the velar nasal, not a separate decision to make.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Niggahīta: The Sound With No Place</h2>
+        <p>Every consonant so far has belonged to one of the five places. The niggahīta, written <span class="letter">ṃ</span>, belongs to none of them — it is a pure nasalization, historically closer to the "ng" at the end of French "bon" than to any single consonant closure. It occurs only at the end of a syllable, most often at the end of a word (evaṃ, "thus"; dhammaṃ, "the teaching," as a direct object; ahaṃ, "I").</p>
+        <p>When another word or another element follows directly, spoken Pāli typically assimilates the niggahīta to the place of whatever consonant comes next — and this shows up directly in spelling, not just in pronunciation. The prefix <em>saṃ-</em> ("together, thoroughly, well") is a niggahīta itself, and when it attaches to a word beginning with a labial consonant, it is written as a plain <span class="letter">m</span> instead:</p>
+        <div class="pl-pairs">
+          <div class="pl-pair">
+            <div class="word">saṃ + buddha → sa<span class="mark">m</span>buddha</div>
+            <div class="gloss">"together/completely" + "awakened" → "the Perfectly Awakened One" — the niggahīta becomes m before the labial b</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">saṃ + pajāna → sa<span class="mark">m</span>pajāna</div>
+            <div class="gloss">"together/completely" + "knowing" → "clearly comprehending" — same shift, before the labial p</div>
+          </div>
+        </div>
+        <p>You will see this exact word, <em>sambuddhassa</em>, in the very next lesson.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Aspirated or Not?</h2>
+        <p>Say each word aloud with your hand in front of your mouth (or silently trace the puff-of-air test in your mind), then decide: does the <strong>bold</strong> consonant carry aspiration?</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word"><strong>bh</strong>agavato</span> — of the Blessed One</li>
+            <li><span class="pali-word">ci<strong>tt</strong>a</span> — mind</li>
+            <li><span class="pali-word">sa<strong>ṅgh</strong>a</span> — the community (focus on the second consonant, gh)</li>
+            <li><span class="pali-word">vī<strong>r</strong>iya</span> — energy, effort</li>
+            <li><span class="pali-word">dham<strong>m</strong>a</span> — the teaching (focus on the m)</li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p><strong>bhagavato</strong> — <span class="ans">aspirated</span> (bh is the voiced aspirated labial stop).</p>
+              <p><strong>citta</strong> — <span class="ans">not aspirated</span> (tt is the plain dental stop, geminated).</p>
+              <p><strong>saṅgha</strong> — <span class="ans">aspirated</span> (gh is the voiced aspirated velar stop; the ṅ before it is simply the velar nasal, not itself aspirated).</p>
+              <p><strong>vīriya</strong> — <span class="ans">not applicable</span> — r is a semivowel, outside the aspirated/unaspirated system entirely. (If this tripped you up, that's useful: aspiration only applies to the 25 stops in Lesson 2's grid, never to y, r, l, v, s, or h.)</p>
+              <p><strong>dhamma</strong> — <span class="ans">not aspirated</span> (the m itself is plain; note that the word's own first consonant, dh, is aspirated — worth noticing on a second pass).</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>You have now met every sound in the Pāli inventory: eight vowels with phonemic length, twenty-five grid consonants organized by place and by voicing/aspiration, five nasals, four semivowels plus the retroflex ḷ, the sibilant s, the aspirate h, and the placeless niggahīta ṃ. Lesson 4 puts the whole system to work at once, reading a complete line of Pāli aloud — the verse of homage that opens every Theravādin recitation.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/02-consonants-place-and-manner/' | relative_url }}">Lesson 2 — Consonants I: Place and Manner</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/04-syllables-and-reading/' | relative_url }}">Lesson 4 — Syllables and Your First Reading</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

@@ -1,0 +1,247 @@
+---
+layout: default
+title: "Pāli Course, Lesson 2: Consonants I — Place and Manner"
+permalink: /theravada/pali-course/lessons/02-consonants-place-and-manner/
+excerpt: "Lesson 2 of Ru-Yi's Pāli course for English speakers: the five places of articulation that organize the Pāli consonant system, why retroflex and dental consonants are two genuinely different sounds rather than one English 't'/'d', and the full consonant grid as a map for the lessons ahead."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;margin:12px 0 16px;color:var(--ink);max-width:22ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:560px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:14px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .letter{font-size:20px;}
+  .pl-table td.dim{color:#b3a898;font-style:italic;font-size:14px;}
+
+  /* place cards */
+  .place-grid{display:grid;gap:16px;grid-template-columns:1fr;margin-top:20px;}
+  @media(min-width:720px){.place-grid{grid-template-columns:1fr 1fr;}}
+  .place-card{border:1px solid var(--line);border-radius:10px;padding:20px 22px;background:#fffdf8;}
+  .place-card h4{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--terra-deep);margin:0 0 6px;}
+  .place-card .letters{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin-bottom:8px;letter-spacing:.05em;}
+  .place-card p{font-size:15px;margin:0;}
+
+  .pl-pairs{display:grid;gap:16px;grid-template-columns:1fr;margin-top:20px;}
+  @media(min-width:680px){.pl-pairs{grid-template-columns:1fr 1fr;}}
+  .pl-pair{border:1px solid var(--line);border-radius:10px;padding:20px 22px;background:#fffdf8;}
+  .pl-pair .word{font-family:'Playfair Display',Georgia,serif;font-size:24px;color:var(--ink);}
+  .pl-pair .word .mark{color:var(--terra);}
+  .pl-pair .gloss{font-size:14.5px;color:var(--muted);margin-top:4px;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box p+p{margin-top:12px;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 2</nav>
+      <div class="pl-kicker">Lesson 2 of the Pāli Course · Consonants I</div>
+      <h1>Place and Manner</h1>
+      <p>Pāli's 33 consonants aren't a random list to memorize — they're organized into a tight, five-by-five grid by two questions: <em>where</em> in the mouth the sound is made (its place), and <em>how</em> it's made there (its manner). Learn the grid once and every consonant's behavior — including which nasal can appear next to which stop — becomes predictable instead of arbitrary.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: absolute beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/01-script-and-sounds/' | relative_url }}" style="color:inherit;">Lesson 1</a></span>
+        <span class="pl-pill">Focus: place of articulation</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Five Places, One Grid</h2>
+        <p>Say the English words "key" and "tea" slowly and notice where your tongue touches. For "key," the back of your tongue rises to meet the soft back part of the roof of your mouth. For "tea," the tip of your tongue touches further forward. Pāli consonants are classified by exactly this kind of observation — where in the vocal tract the airflow gets blocked — and it recognizes five distinct places, arranged from back to front:</p>
+        <div class="place-grid">
+          <div class="place-card">
+            <h4>Velar <span style="font-weight:400;font-style:italic;color:var(--muted);font-size:14px;">(back of the throat)</span></h4>
+            <div class="letters">k · kh · g · gh · ṅ</div>
+            <p>Back of the tongue against the soft palate — the same spot as English "k" in "key" or "g" in "go."</p>
+          </div>
+          <div class="place-card">
+            <h4>Palatal <span style="font-weight:400;font-style:italic;color:var(--muted);font-size:14px;">(hard palate)</span></h4>
+            <div class="letters">c · ch · j · jh · ñ</div>
+            <p>Middle of the tongue against the hard palate — close to English "ch" in "church" and "j" in "judge."</p>
+          </div>
+          <div class="place-card">
+            <h4>Retroflex <span style="font-weight:400;font-style:italic;color:var(--muted);font-size:14px;">(curled back)</span></h4>
+            <div class="letters">ṭ · ṭh · ḍ · ḍh · ṇ</div>
+            <p>Tip of the tongue curled back to touch the roof of the mouth, behind the ridge. English has no true equivalent — the closest most English speakers can find is the "t"/"d" in American "party," "hardy."</p>
+          </div>
+          <div class="place-card">
+            <h4>Dental <span style="font-weight:400;font-style:italic;color:var(--muted);font-size:14px;">(upper teeth)</span></h4>
+            <div class="letters">t · th · d · dh · n</div>
+            <p>Tip of the tongue against the back of the upper front teeth — noticeably further forward than English "t"/"d," which actually touch the ridge just behind the teeth.</p>
+          </div>
+          <div class="place-card">
+            <h4>Labial <span style="font-weight:400;font-style:italic;color:var(--muted);font-size:14px;">(lips)</span></h4>
+            <div class="letters">p · ph · b · bh · m</div>
+            <p>Both lips together — identical to English "p," "b," and "m."</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Full Grid</h2>
+        <p>Each of the five places produces the same five-member family: an unaspirated voiceless stop, an aspirated voiceless stop, an unaspirated voiced stop, an aspirated voiced stop, and a nasal. The aspirated members (marked with an "h") are this lesson's blind spot on purpose — Lesson 3 gives aspiration the full, dedicated treatment it needs. For now, use this table as a map of the whole territory, and focus on locating each plain, unaspirated letter by place.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead>
+              <tr><th>Place</th><th>Voiceless</th><th>Voiceless, aspirated</th><th>Voiced</th><th>Voiced, aspirated</th><th>Nasal</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Velar</td><td class="letter">k</td><td class="letter dim">kh</td><td class="letter">g</td><td class="letter dim">gh</td><td class="letter">ṅ</td></tr>
+              <tr><td>Palatal</td><td class="letter">c</td><td class="letter dim">ch</td><td class="letter">j</td><td class="letter dim">jh</td><td class="letter">ñ</td></tr>
+              <tr><td>Retroflex</td><td class="letter">ṭ</td><td class="letter dim">ṭh</td><td class="letter">ḍ</td><td class="letter dim">ḍh</td><td class="letter">ṇ</td></tr>
+              <tr><td>Dental</td><td class="letter">t</td><td class="letter dim">th</td><td class="letter">d</td><td class="letter dim">dh</td><td class="letter">n</td></tr>
+              <tr><td>Labial</td><td class="letter">p</td><td class="letter dim">ph</td><td class="letter">b</td><td class="letter dim">bh</td><td class="letter">m</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Outside this grid sit eight more consonants that don't belong to any of the five families: the semivowels <span class="letter">y</span>, <span class="letter">r</span>, <span class="letter">l</span>, <span class="letter">ḷ</span> (a retroflex "l," rarer, mostly from older forms surfacing after certain sandhi), and <span class="letter">v</span>; the sibilant <span class="letter">s</span>; the aspirate <span class="letter">h</span>; and the niggahīta <span class="letter">ṃ</span>, which gets its own section in Lesson 3.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Voiced vs. Voiceless: The One Manner Contrast You Already Know</h2>
+        <p>Put two fingers on your throat and say "sss" then "zzz." You'll feel the buzz of your vocal cords switch on for "zzz" — that buzz is voicing, and English already uses it constantly to keep words apart: "pin" vs. "bin," "tin" vs. "din," "cot" vs. "god." Pāli uses exactly the same contrast, at every one of the five places, and it is worth noticing consciously rather than taking it for granted, because Lesson 3's aspiration contrast will ask you to combine it with a second, less familiar feature.</p>
+        <div class="pl-pairs">
+          <div class="pl-pair">
+            <div class="word"><span class="mark">k</span>amma</div>
+            <div class="gloss">voiceless velar — "action, deed" (as in kammapatha, "course of action")</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">g</span>amana</div>
+            <div class="gloss">voiced velar — "going, walking"</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">t</span>aṇhā</div>
+            <div class="gloss">voiceless dental — "craving," the second noble truth's cause of suffering</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word"><span class="mark">d</span>āna</div>
+            <div class="gloss">voiced dental — "giving," the first of the ten pāramī</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Retroflex vs. Dental: The Contrast English Doesn't Make</h2>
+        <p>English speakers instinctively map both Pāli <span class="letter">t</span>/<span class="letter">d</span> (dental) and <span class="letter">ṭ</span>/<span class="letter">ḍ</span> (retroflex) onto their own single "t"/"d," because English draws no distinction here at all. In Pāli, the two are as different as "p" and "k" are in English — a genuinely separate sound, not a stylistic variant.</p>
+        <p>Two extremely common words, both safe to memorize as fixed reference points before you can reliably feel the tongue position yourself:</p>
+        <div class="pl-pairs">
+          <div class="pl-pair">
+            <div class="word">cit<span class="mark">t</span>a</div>
+            <div class="gloss">dental t — "mind, consciousness"</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">a<span class="mark">ṭṭh</span>a</div>
+            <div class="gloss">retroflex ṭṭh — "eight," as in ariya aṭṭhaṅgika magga, the Noble Eightfold Path</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">nibbāna</div>
+            <div class="gloss">dental n — the third noble truth, the cessation of suffering</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">va<span class="mark">ṇṇ</span>a</div>
+            <div class="gloss">retroflex ṇṇ — "color, appearance, praise"</div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Once you can hold the retroflex/dental distinction in your ear, a word like <em>daṇḍa</em> ("stick, rod, punishment" — the word that opens the Dhammapada's chapter on violence) becomes a small pronunciation exercise all by itself: dental <em>d</em> to open the word, retroflex <em>ṇḍ</em> to close it. Reading Pāli accurately is largely built from noticing dozens of small contrasts exactly like this one, held consistently, rather than from any single hard rule.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Sorting by Place</h2>
+        <p>For each word, name the place of articulation of the <strong>bold</strong> consonant, using the five categories from this lesson (velar, palatal, retroflex, dental, labial).</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">saṅ<strong>g</strong>ha</span> — the bold consonant is which place?</li>
+            <li><span class="pali-word"><strong>c</strong>etanā</span> — volition; which place?</li>
+            <li><span class="pali-word">va<strong>ṭṭ</strong>a</span> — the round of rebirth; which place?</li>
+            <li><span class="pali-word">pa<strong>ññ</strong>ā</span> — wisdom; which place?</li>
+            <li><span class="pali-word">bhaga<strong>v</strong>ato</span> — of the Blessed One; which place is this semivowel closest to?</li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p><strong>saṅgha</strong> — <span class="ans">velar</span> (g is produced at the same place as k, ṅ, gh, kh).</p>
+              <p><strong>cetanā</strong> — <span class="ans">palatal</span> (c is produced at the same place as j, ch, jh, ñ).</p>
+              <p><strong>vaṭṭa</strong> — <span class="ans">retroflex</span> (ṭ is produced at the same place as ḍ, ṇ, ṭh, ḍh).</p>
+              <p><strong>paññā</strong> — <span class="ans">palatal</span> (ñ is the palatal nasal, same place as c/ch/j/jh).</p>
+              <p><strong>bhagavato</strong> — <span class="ans">labial</span> (v is formed with the lips/teeth close to where p/b/m are made; traditional grammar groups it with the labial series).</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 3 fills in the grid's remaining column: aspiration, the puff of breath that distinguishes <span class="letter">k</span> from <span class="letter">kh</span>, <span class="letter">t</span> from <span class="letter">th</span>, and so on across all five places — plus the five nasals as a set, and the niggahīta <span class="letter">ṃ</span>, which sits outside the grid entirely. Lesson 4 then puts everything from Lessons 1–3 to work reading a complete line of Pāli aloud.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/01-script-and-sounds/' | relative_url }}">Lesson 1 — Script and Vowel Length</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/03-aspiration-nasals-niggahita/' | relative_url }}">Lesson 3 — Aspiration, Nasals &amp; Niggahīta</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

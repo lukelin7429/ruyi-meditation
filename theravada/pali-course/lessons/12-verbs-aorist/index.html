@@ -1,0 +1,165 @@
+---
+layout: default
+title: "Pāli Course, Lesson 12: Verbs II — The Aorist"
+permalink: /theravada/pali-course/lessons/12-verbs-aorist/
+excerpt: "Lesson 12 of Ru-Yi's Pāli course for English speakers: the aorist, Pāli's ordinary narrative past tense — why it resists a single regular paradigm the way the present tense had one, and the small set of extremely frequent third-person forms (ahosi, āha/avoca, addasa, akāsi) that carry almost all narrative prose."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,5.4vw,54px);line-height:1.1;margin:12px 0 16px;color:var(--ink);max-width:24ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:16px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:420px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:12px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12px;letter-spacing:.07em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .form{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-table .eng{font-size:13.5px;color:var(--muted);display:block;margin-top:2px;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  .sent-block{border:1px solid var(--line);border-radius:10px;padding:18px 22px;background:#fffdf8;margin-top:12px;}
+  .sent-block .pali{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .sent-block .gloss{font-size:14.5px;color:var(--muted);margin-top:6px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 12</nav>
+      <div class="pl-kicker">Lesson 12 of the Pāli Course · Verbs</div>
+      <h1>Verbs II: The Aorist</h1>
+      <p>Every sutta's narrative frame — "the Blessed One said," "he saw," "she understood" — is carried by this tense. Unlike the present tense in Lesson 11, the aorist has no single productive paradigm you can apply to any verb; it is closer to English's irregular past tenses ("go/went," "see/saw") than to the regular "-ed." This lesson teaches it the way you'd actually need it as a reader: a short, extremely high-frequency vocabulary to recognize on sight.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/11-verbs-present-tense/' | relative_url }}" style="color:inherit;">Lesson 11</a></span>
+        <span class="pl-pill part">Part II · Lesson 8</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Why This Lesson Looks Different</h2>
+        <p>Lessons 6 through 11 each gave you one paradigm and told you it covered a huge share of ordinary words. The aorist doesn't work that way: Pāli built it historically from several different formation patterns at once (grammarians distinguish a "root aorist," an "s-aorist," and others), and a great many of the verbs you'll actually read — including some of the most common ones — form their aorist from a different root entirely than their present tense does, the way English "go" suppletes to "went" instead of "goed."</p>
+        <p>Rather than presenting a six-person paradigm that would misrepresent how regular this system actually is, this lesson gives you the aorist forms that do almost all of the narrative work in real texts: the <strong>third person</strong>, singular and plural — because narration is told <em>about</em> someone, not <em>by</em> them. First- and second-person aorist forms exist and are learnable, but you'll pick them up naturally, verb by verb, as you meet them in direct speech.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Aorist Forms Worth Memorizing First</h2>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Present (dictionary form)</th><th>Aorist — "he/she/it ___ed"</th><th>Aorist — "they ___ed"</th></tr>
+          </thead>
+            <tbody>
+              <tr><td>hoti, "is/becomes"</td><td class="form">ahosi<span class="eng">was, happened</span></td><td class="form">ahesuṃ<span class="eng">were</span></td></tr>
+              <tr><td>vadati / brūti, "says"</td><td class="form">āha, avoca<span class="eng">said</span></td><td class="form">avocuṃ<span class="eng">said</span></td></tr>
+              <tr><td>passati, "sees"</td><td class="form">addasa<span class="eng">saw</span></td><td class="form">—</td></tr>
+              <tr><td>karoti, "does/makes"</td><td class="form">akāsi<span class="eng">did, made</span></td><td class="form">akaṃsu<span class="eng">did, made</span></td></tr>
+              <tr><td>gacchati, "goes"</td><td class="form">agamā, agañchi<span class="eng">went</span></td><td class="form">—</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Notice that <em>vadati</em> has two common aorists, <em>āha</em> and <em>avoca</em>, both simply meaning "said" — real languages tolerate this kind of redundancy, and Pāli narrative prose uses both constantly, often in the very same passage.</p>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>One of the most frequent sentence openings in the entire Sutta Piṭaka is built from exactly this vocabulary: <strong>"Atha kho bhagavā etadavoca"</strong> — "Then the Blessed One said this." <em>Atha kho</em> is a fixed narrative-transition phrase ("then, now"), <em>bhagavā</em> is the nominative you learned in Lesson 6's discussion of <em>bhagavato</em>, <em>etaṃ</em> is the neuter accusative of the demonstrative from Lesson 9 ("this"), and <em>avoca</em> is this lesson's aorist. You can now recognize, on sight, the single most common way any discourse in the Canon announces that the Buddha is about to speak.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Reading Practice: Aorist in Context</h2>
+        <div class="sent-block"><div class="pali">Atha kho bhagavā etadavoca.</div><div class="gloss">"Then the Blessed One said this."</div></div>
+        <div class="sent-block"><div class="pali">So dhammaṃ addasa.</div><div class="gloss">"He saw the Dhamma." (compare Lesson 11's present-tense passati — same verb, different tense)</div></div>
+        <div class="sent-block"><div class="pali">Bhikkhū taṃ akaṃsu.</div><div class="gloss">"The monks did that."</div></div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Present or Aorist?</h2>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">so passati</span></li>
+            <li><span class="pali-word">so addasa</span></li>
+            <li><span class="pali-word">te ahesuṃ</span></li>
+            <li><span class="pali-word">buddho āha</span></li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">Present</span> — "he sees" (right now).</p>
+              <p>2. <span class="ans">Aorist</span> — "he saw" (narrated as a completed past event).</p>
+              <p>3. <span class="ans">Aorist</span> — "they were."</p>
+              <p>4. <span class="ans">Aorist</span> — "the Buddha said."</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 13 covers the three remaining verb forms — the imperative (commands), the optative (wishes and possibilities), and the future — including the exact words the Buddha used to ordain his first monks.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/11-verbs-present-tense/' | relative_url }}">Lesson 11 — Verbs I: The Present Tense</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/13-optative-imperative-future/' | relative_url }}">Lesson 13 — Optative, Imperative &amp; Future</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

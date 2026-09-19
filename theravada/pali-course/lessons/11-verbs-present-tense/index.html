@@ -1,0 +1,193 @@
+---
+layout: default
+title: "Pāli Course, Lesson 11: Verbs I — The Present Tense"
+permalink: /theravada/pali-course/lessons/11-verbs-present-tense/
+excerpt: "Lesson 11 of Ru-Yi's Pāli course for English speakers: the present tense conjugation, using passati ('sees') as the model verb promised in Lesson 10, plus hoti ('is/becomes') and simple negation with na — everything needed to build your first complete original Pāli sentences."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,5.4vw,54px);line-height:1.1;margin:12px 0 16px;color:var(--ink);max-width:24ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:16px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:420px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:12px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12px;letter-spacing:.07em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .form{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-table .eng{font-size:13.5px;color:var(--muted);display:block;margin-top:2px;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  .sent-block{border:1px solid var(--line);border-radius:10px;padding:18px 22px;background:#fffdf8;margin-top:12px;}
+  .sent-block .pali{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .sent-block .gloss{font-size:14.5px;color:var(--muted);margin-top:6px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 11</nav>
+      <div class="pl-kicker">Lesson 11 of the Pāli Course · Verbs</div>
+      <h1>Verbs I: The Present Tense</h1>
+      <p>Nouns and pronouns tell you who and what. Verbs tell you what's happening — and in Pāli, a verb's ending alone tells you who's doing it, which means a complete sentence can be a single word. This lesson gives you the present tense, using <em>passati</em>, "sees," the verb Lesson 10 promised you.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/10-interrogative-and-relative-pronouns/' | relative_url }}" style="color:inherit;">Lesson 10</a></span>
+        <span class="pl-pill part">Part II · Lesson 7</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Person and Number Live on the Verb</h2>
+        <p>Just as Lesson 5 showed that a noun's ending, not its position, carries its grammatical role, a Pāli verb's ending carries the subject's person (I / you / he-she-it) and number (singular / plural) built in. One direct consequence: since <em>passāmi</em> already means "I see" all by itself, the pronoun <em>ahaṃ</em> from Lesson 9 is grammatically optional — Pāli sentences drop the subject pronoun constantly, adding it only for emphasis or clarity, the same way Spanish says "veo" rather than "yo veo." Reading Pāli therefore means learning to find the subject inside the verb ending itself, not just from a separate word nearby.</p>
+        <p>Dictionaries always cite a Pāli verb in its <strong>third person singular</strong> form — "he/she/it [verb]s" — because that is the form you meet stripped bare of any of the assumptions the other five forms make. <em>Passati</em>, "he/she/it sees," is therefore the form you'll always look up, even though "I see" or "they see" may be what a given sentence actually needs.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Present Tense of passati, "to see"</h2>
+        <p>Strip the citation form's <em>-ti</em> to get the present stem, <em>passa-</em>, then add one of six personal endings. This exact pattern — stem ending in <em>-a</em>, then <em>-ati/-asi/-āmi</em> singular and <em>-anti/-atha/-āma</em> plural — covers the largest class of ordinary Pāli verbs, including <em>vadati</em> ("speaks," which you already used correctly in Lesson 9's <em>ahaṃ vadāmi</em>) and hundreds of others.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Person</th><th>Singular</th><th>Plural</th></tr></thead>
+            <tbody>
+              <tr><td>1st ("I" / "we")</td><td class="form">passāmi<span class="eng">I see</span></td><td class="form">passāma<span class="eng">we see</span></td></tr>
+              <tr><td>2nd ("you")</td><td class="form">passasi<span class="eng">you see</span></td><td class="form">passatha<span class="eng">you (all) see</span></td></tr>
+              <tr><td>3rd ("he/she/it/they")</td><td class="form">passati<span class="eng">he/she/it sees</span></td><td class="form">passanti<span class="eng">they see</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Pāli grammars traditionally list these in the opposite order — third person first, then second, then first — because that is the order the language's own indigenous grammatical tradition (going back to the same Sanskrit framework behind Pāṇini's grammar) always uses. You'll see paradigms printed that way elsewhere; the content is identical regardless of which order they're listed in.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>hoti, "Is / Becomes": The Verb You'll See on Every Page</h2>
+        <p>Pāli's ordinary verb "to be" follows the same six-ending pattern as <em>passati</em>, just with stem-vowel <em>-o-</em> in place of <em>-a-</em> throughout — a small, learnable variation rather than a new system.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Person</th><th>Singular</th><th>Plural</th></tr></thead>
+            <tbody>
+              <tr><td>1st</td><td class="form">homi<span class="eng">I am/become</span></td><td class="form">homa<span class="eng">we are/become</span></td></tr>
+              <tr><td>2nd</td><td class="form">hosi<span class="eng">you are/become</span></td><td class="form">hotha<span class="eng">you (all) are/become</span></td></tr>
+              <tr><td>3rd</td><td class="form">hoti<span class="eng">he/she/it is/becomes</span></td><td class="form">honti<span class="eng">they are/become</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>You've already silently read past several forms of this verb without them being named: <em>hoti</em> itself opened Sīlaniddesa's account of restraint ("<em>iminā pātimokkhasaṃvarena upeto hoti</em>," "he is possessed of this restraint by the Pātimokkha," Lesson 10's neighboring text), and it is simply the single most frequent verb in the entire Canon. Worth memorizing this table before any other verb besides <em>passati</em>.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>A Note on deseti, "Teaches"</h2>
+        <p>Lesson 6 used <em>buddho dhammaṃ deseti</em>, "the Buddha teaches the Dhamma," without commenting on its verb. You may now notice <em>deseti</em> doesn't match the <em>passati</em> pattern above — and it shouldn't: it belongs to a different, causative-flavored verb class (built by adding <em>-e-</em> to a root, roughly "to make known" from "to point out"), which this course covers on its own later. For now, simply recognize that not every verb ending in <em>-eti</em> is irregular in some unpredictable way — it's a whole separate, equally regular class, just not this lesson's class.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Simple Negation: na</h2>
+        <p>Place the indeclinable <em>na</em>, "not," directly before the verb to negate a sentence — no change to the verb's own ending is needed.</p>
+        <div class="sent-block">
+          <div class="pali">So dhammaṃ na passati.</div>
+          <div class="gloss">"He does not see the Dhamma."</div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Your First Original Sentences</h2>
+        <p>Every word below has already appeared somewhere in this course. Read each sentence using only what you now know.</p>
+        <div class="sent-block"><div class="pali">Buddho dhammaṃ deseti.</div><div class="gloss">"The Buddha teaches the Dhamma." (Lesson 6's example, now fully readable — subject in the nominative, object in the accusative, verb agreeing with the subject)</div></div>
+        <div class="sent-block"><div class="pali">Bhikkhū dhammaṃ passanti.</div><div class="gloss">"The monks see the Dhamma." (i-stem/u-stem nominative plural from Lesson 8, agreeing with a third-person plural verb)</div></div>
+        <div class="sent-block"><div class="pali">Ahaṃ taṃ na passāmi.</div><div class="gloss">"I do not see him/it." (personal pronoun subject stated for emphasis, demonstrative object, negated verb)</div></div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Building and Reading Sentences</h2>
+        <div class="pl-practice">
+          <ol>
+            <li>Translate into Pāli: "The monk speaks." (use vadati)</li>
+            <li>Translate into Pāli: "We do not see the path." (use maggaṃ, the accusative of magga from Lesson 6)</li>
+            <li>Translate into English: <span class="pali-word">Te bhikkhū dhammaṃ vadanti.</span></li>
+            <li>Translate into English: <span class="pali-word">Ahaṃ Buddho na homi.</span></li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">Bhikkhu vadati.</span></p>
+              <p>2. <span class="ans">Mayaṃ maggaṃ na passāma.</span></p>
+              <p>3. <span class="ans">"Those monks speak the Dhamma" / "...teach the Dhamma."</span></p>
+              <p>4. <span class="ans">"I am not the Buddha."</span> — a genuinely humble and grammatically ordinary sentence any Pāli speaker could say.</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 12 adds the aorist — Pāli's ordinary past tense, and the one the Buddha's own sayings are constantly narrated in ("he said," "he saw," "he understood").</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/10-interrogative-and-relative-pronouns/' | relative_url }}">Lesson 10 — Interrogative &amp; Relative Pronouns</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/12-verbs-aorist/' | relative_url }}">Lesson 12 — Verbs II: The Aorist</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

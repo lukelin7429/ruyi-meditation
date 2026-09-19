@@ -1,0 +1,123 @@
+---
+layout: default
+title: "Pāli Course, Lesson 18: Review and Transition to Reading"
+permalink: /theravada/pali-course/lessons/18-review-and-transition/
+excerpt: "Lesson 18 of Ru-Yi's Pāli course for English speakers closes Part II by returning to Namo tassa bhagavato arahato sammāsambuddhassa — the very first Pāli sentence this course ever showed you — and fully analyzing it with every tool from all thirteen grammar lessons at once, before handing off to Part III's reading track."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,5.4vw,54px);line-height:1.1;margin:12px 0 16px;color:var(--ink);max-width:24ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .recap-grid{display:grid;gap:10px;grid-template-columns:1fr;margin-top:16px;}
+  @media(min-width:700px){.recap-grid{grid-template-columns:1fr 1fr;}}
+  .recap-item{border:1px solid var(--line);border-radius:8px;padding:14px 16px;background:#fffdf8;font-size:14.5px;}
+  .recap-item b{color:var(--ink);display:block;font-size:15px;margin-bottom:2px;}
+
+  /* capstone decode */
+  .decode{border:1px solid var(--line);border-radius:12px;background:#fffdf8;padding:26px 28px;margin-top:20px;}
+  .decode .src{font-family:'Playfair Display',Georgia,serif;font-size:22px;line-height:1.6;color:var(--ink);font-style:italic;text-align:center;}
+  .decode .eng{margin-top:10px;color:var(--muted);font-size:15.5px;text-align:center;}
+  .decode-row{display:grid;grid-template-columns:1fr;gap:4px;padding:14px 0;border-top:1px solid var(--line);}
+  .decode-row:first-of-type{border-top:none;margin-top:18px;}
+  @media(min-width:680px){.decode-row{grid-template-columns:170px 1fr;align-items:baseline;gap:16px;}}
+  .decode-row .w{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--terra-deep);}
+  .decode-row .d{font-size:14.5px;color:var(--muted);}
+  .decode-row .d b{color:var(--ink);}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 18</nav>
+      <div class="pl-kicker">Lesson 18 of the Pāli Course · Part II complete</div>
+      <h1>Review and Transition to Reading</h1>
+      <p>Thirteen lessons ago, Lesson 4 asked you to read <em>Namo tassa bhagavato arahato sammāsambuddhassa</em> using only sounds and syllables — every word a fixed unit to memorize, not yet something you could analyze. This lesson returns to that exact sentence and takes it apart completely, using every tool Part II has given you.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/17-compounds-dvanda-bahubbihi-avyayibhava/' | relative_url }}" style="color:inherit;">Lesson 17</a></span>
+        <span class="pl-pill part">Part II · Lesson 14 of 14</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Part II, in Thirteen Lessons</h2>
+        <div class="recap-grid">
+          <div class="recap-item"><b>Lessons 5–8 — Nouns</b>Grammatical case as endings, not word order; the a-stem and ā-stem paradigms; i-stem and u-stem by recognition.</div>
+          <div class="recap-item"><b>Lessons 9–10 — Pronouns</b>Personal (ahaṃ, tvaṃ), demonstrative/3rd-person (ta-), interrogative (ka-), relative (ya-) and the yo...so correlative.</div>
+          <div class="recap-item"><b>Lessons 11–14 — Verbs</b>Present, aorist (by recognition), optative/imperative/future, participles and the absolutive -tvā.</div>
+          <div class="recap-item"><b>Lessons 15–17 — Word-building</b>Sandhi at word boundaries; all six compound types, tappurisa through avyayībhāva.</div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Capstone: Namo Tassa, Fully Analyzed</h2>
+        <div class="decode">
+          <div class="src">Namo tassa bhagavato arahato sammāsambuddhassa.</div>
+          <div class="eng">"Homage to Him, the Blessed One, the Worthy One, the Perfectly Self-Awakened One."</div>
+          <div class="decode-row"><div class="w">Namo</div><div class="d">Indeclinable, "homage" — governs a dative object (<b>Lesson 5</b>: the dative marks a recipient).</div></div>
+          <div class="decode-row"><div class="w">tassa</div><div class="d">Demonstrative <em>ta-</em> (<b>Lesson 9</b>), masculine dative/genitive singular — "to him." Pāli's only third-person pronoun, doing double duty as "that."</div></div>
+          <div class="decode-row"><div class="w">bhagavato</div><div class="d">Irregular <em>-ant</em>-stem noun (flagged in <b>Lesson 9</b> as a special class), dative/genitive singular — "to the Blessed One," agreeing with tassa in case and number.</div></div>
+          <div class="decode-row"><div class="w">arahato</div><div class="d">Same irregular declension pattern as bhagavato — "to the Worthy One."</div></div>
+          <div class="decode-row"><div class="w">sammāsambuddhassa</div><div class="d">An a-stem noun (<b>Lesson 6</b>'s paradigm exactly), dative/genitive singular ending <em>-assa</em> — but also a <b>kammadhāraya compound</b> (<b>Lesson 16</b>): <em>sammā</em> ("rightly") describing <em>sambuddha</em> ("awakened one"). And <em>sambuddha</em> itself is <em>saṃ + buddha</em>, the exact niggahīta-assimilation <b>sandhi</b> rule from <b>Lesson 3</b> and formalized in <b>Lesson 15</b>.</div></div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Five words, five different lessons converging: a pronoun's case (5, 9), an irregular noun class flagged early and never forgotten (9), a regular noun paradigm (6), a compound type (16), and a sandhi rule (3, 15). This is what "grammar before vocabulary breadth" was for — you didn't need eighteen lessons to read five new words; you needed them to read these same five words <em>completely</em>, for the first time.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Part III Begins Now</h2>
+        <p>The reading track opens immediately after this lesson. R1 covers a small set of public-domain ceremonial Pāli — the three refuges and the five precepts — needing only Part I's sounds and this lesson's grammar in their simplest form. R2 and onward move into real, continuing passages from our own Visuddhimagga translation, each one annotated with exactly which of Lessons 5–17 it draws on, growing as the translation itself grows.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/17-compounds-dvanda-bahubbihi-avyayibhava/' | relative_url }}">Lesson 17 — Compounds II</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next — Part III: Reading Track</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/readings/ceremonial-pali/' | relative_url }}">R1 — First Readings: Ceremonial Pāli</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

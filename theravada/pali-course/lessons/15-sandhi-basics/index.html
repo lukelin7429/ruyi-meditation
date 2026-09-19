@@ -1,0 +1,142 @@
+---
+layout: default
+title: "Pāli Course, Lesson 15: Sandhi — Basic Rules"
+permalink: /theravada/pali-course/lessons/15-sandhi-basics/
+excerpt: "Lesson 15 of Ru-Yi's Pāli course for English speakers: a systematic look at the sandhi (sound-contact) rules seen in passing since Lesson 3 — vowel elision, niggahīta assimilation, and the quotative -nti contraction that closes every direct quotation in the Canon."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,5.4vw,54px);line-height:1.1;margin:12px 0 16px;color:var(--ink);max-width:24ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .sandhi-eq{display:flex;flex-wrap:wrap;align-items:center;gap:10px;font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:16px 0;padding:16px 18px;background:#fffdf8;border:1px solid var(--line);border-radius:8px;}
+  .sandhi-eq .op{color:var(--terra);font-family:system-ui,sans-serif;font-size:18px;}
+  .sandhi-eq .res{color:var(--jade-deep);font-weight:700;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 15</nav>
+      <div class="pl-kicker">Lesson 15 of the Pāli Course</div>
+      <h1>Sandhi: Basic Rules</h1>
+      <p>Sandhi ("joining") is what happens at the seam where two words meet in continuous speech or verse — sounds shift, merge, or drop to make the join easier to pronounce. You've already met three examples without the term being used; this lesson names the pattern and gives you two more.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/14-participles-and-absolutive/' | relative_url }}" style="color:inherit;">Lesson 14</a></span>
+        <span class="pl-pill part">Part II · Lesson 11</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>What You Already Know</h2>
+        <p>Lesson 3 already taught you one sandhi rule without the label: the prefix <em>saṃ-</em> spells its niggahīta as plain <em>m</em> before a labial consonant.</p>
+        <div class="sandhi-eq">saṃ + buddha <span class="op">→</span> <span class="res">sambuddha</span></div>
+        <p>This lesson adds the other two patterns you saw in Lesson 10's worked example without a full explanation at the time.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Rule 1: Vowel Elision</h2>
+        <p>When a word ending in a short vowel is immediately followed by a word beginning with a vowel, the first word's final short vowel is simply dropped, and the words fuse into one written unit.</p>
+        <div class="sandhi-eq">kāni + assa <span class="op">→</span> <span class="res">kānassa</span></div>
+        <p>This is exactly the contraction inside Sīlaniddesa's seven-question matrix that Lesson 10 flagged but didn't yet explain: <em>kāni</em> (Lesson 10's neuter plural interrogative) loses its final <em>-i</em> before <em>assa</em> ("its"), leaving <em>kānassa</em>, "what [are] its...".</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Rule 2: The Quotative Contraction (-ṃ + iti → -nti)</h2>
+        <p>Pāli closes a direct quotation with the indeclinable <em>iti</em>, "thus" — functionally Pāli's own closing quotation mark, glossed simply as "..., [end quote]." When the word immediately before <em>iti</em> ends in the niggahīta <span class="letter">ṃ</span>, the two contract into <strong>-nti</strong>.</p>
+        <div class="sandhi-eq">vodānaṃ + iti <span class="op">→</span> <span class="res">vodānanti</span></div>
+        <p>This is precisely the ending of the last of Sīlaniddesa's seven questions, which Lesson 10 glossed by meaning ("what is its cleansing?") without pausing on its spelling. You can now see the mechanism: <em>kiṃ vodānaṃ</em>, "what [is its] cleansing," plus the closing <em>iti</em>, contracts to <em>kiṃ vodānanti</em>.</p>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Once you can spot this pattern, a huge share of Pāli prose becomes easier to parse at a glance: almost any word ending unexpectedly in <em>-nti</em> at the close of a clause — where you might otherwise expect a 3rd-person-plural verb, the ending Lesson 11 taught for <em>passanti</em> — is worth double-checking as possibly this quotative contraction instead. Context (is there a quotation being closed?) tells you which.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Undoing the Sandhi</h2>
+        <p>For each contracted form, name the two original words it was built from.</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">sampajāna</span> (clearly comprehending)</li>
+            <li><span class="pali-word">kimānisaṃsaṃ</span> (from Lesson 10's worked example)</li>
+            <li><span class="pali-word">sīlanti</span> (closing a quotation about virtue)</li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">saṃ + pajāna</span> — niggahīta assimilating to m before the labial p, exactly like saṃ+buddha in Lesson 3.</p>
+              <p>2. <span class="ans">kiṃ + ānisaṃsaṃ</span> — vowel elision is not actually needed here since kiṃ ends in niggahīta, not a vowel; this is niggahīta-before-vowel behavior, a close cousin of Rule 1 worth simply recognizing rather than deriving.</p>
+              <p>3. <span class="ans">sīlaṃ + iti</span> — the same quotative contraction as vodānanti, this time closing "sīlaṃ" (virtue).</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lessons 16 and 17 turn to compounds (samāsa) — how Pāli fuses two or more words into one long unit, and how to take one apart on sight. You already know one compound's structure without realizing it: Lesson 1's <em>kammaṭṭhāna</em> is built from exactly the pattern Lesson 16 opens with.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/14-participles-and-absolutive/' | relative_url }}">Lesson 14 — Participles and the Absolutive</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/16-compounds-tappurisa-kammadharaya/' | relative_url }}">Lesson 16 — Compounds I: Tappurisa &amp; Kammadhāraya</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

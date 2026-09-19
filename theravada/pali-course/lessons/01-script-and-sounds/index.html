@@ -1,0 +1,191 @@
+---
+layout: default
+title: "Pāli Course, Lesson 1: Script and Vowel Length"
+permalink: /theravada/pali-course/lessons/01-script-and-sounds/
+excerpt: "Lesson 1 of Ru-Yi's Pāli course for English speakers: why Pāli is written only in Roman transliteration (IAST), the eight vowels, and the single most consequential fact in Pāli phonology — that vowel length is not decoration but changes the meaning of the word. Includes original practice exercises using ordinary Buddhist vocabulary."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;margin:12px 0 16px;color:var(--ink);max-width:22ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+
+  /* vowel tables */
+  .pl-table-wrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:480px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:14px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+  .pl-table .ipa{font-style:italic;color:var(--muted);}
+
+  /* minimal-pair cards */
+  .pl-pairs{display:grid;gap:16px;grid-template-columns:1fr;margin-top:20px;}
+  @media(min-width:680px){.pl-pairs{grid-template-columns:1fr 1fr;}}
+  .pl-pair{border:1px solid var(--line);border-radius:10px;padding:20px 22px;background:#fffdf8;}
+  .pl-pair .word{font-family:'Playfair Display',Georgia,serif;font-size:26px;color:var(--ink);}
+  .pl-pair .word .long{color:var(--terra);}
+  .pl-pair .gloss{font-size:14.5px;color:var(--muted);margin-top:4px;}
+  .pl-pair .vs{text-align:center;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:800;margin:10px 0;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .vocab-box{border-left:4px solid var(--terra);background:#f5f7fa;padding:22px 24px;margin-top:16px;}
+  .vocab-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:14px;}
+  .vocab-list{display:grid;gap:14px;}
+  .vocab-entry{display:grid;grid-template-columns:1fr;gap:2px;}
+  @media(min-width:640px){.vocab-entry{grid-template-columns:190px 1fr;gap:16px;}}
+  .vocab-term{font-weight:800;color:var(--ink);font-size:17px;}
+  .vocab-pos{font-weight:400;font-style:italic;color:var(--muted);font-size:14px;margin-left:4px;}
+  .vocab-entry p{margin:0;font-size:15px;line-height:1.6;}
+
+  /* practice / self-check */
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans-long{color:var(--terra);font-weight:700;}
+
+  .pl-next{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;background:#f6efe2;border-radius:12px;padding:24px 28px;margin-top:8px;}
+  .pl-next .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 1</nav>
+      <div class="pl-kicker">Lesson 1 of the Pāli Course · Sounds &amp; Script</div>
+      <h1>Script and Vowel Length</h1>
+      <p>This course teaches Pāli to English speakers using the same Roman transliteration (IAST) our <a href="{{ '/theravada/visuddhimagga/' | relative_url }}">Visuddhimagga translation</a> is made from — no separate alphabet to learn. As the translation project advances, later lessons will read real sentences straight out of our own published pages. This first lesson covers why the script looks the way it does, and the one fact about Pāli vowels that changes meaning more than any other: length.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: absolute beginner</span>
+        <span class="pl-pill">Prerequisite: none</span>
+        <span class="pl-pill">Script: IAST Roman transliteration only</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>Why Roman Letters for a Script-less Language</h2>
+        <p>Pāli has never had a writing system of its own. For most of its history it was preserved by memorization and recitation, and when Theravādin communities eventually did write it down, each region used whatever script it already had for its own language — Sinhala script in Sri Lanka, Burmese script in Myanmar, Thai script in Thailand, Khmer script in Cambodia, and so on. The same Pāli word can appear in half a dozen different-looking scripts depending on which country's edition you happen to be holding, even though the sounds underneath are identical.</p>
+        <p>Scholars solved this by agreeing on a single Roman transliteration that represents Pāli's sounds precisely, one symbol per sound, regardless of which country's script a given manuscript used. This standard is called <strong>IAST</strong> (International Alphabet of Sanskrit Transliteration — the same system used for Sanskrit, since Pāli's sound inventory is a subset of Sanskrit's). It is the system the VRI Chaṭṭha Saṅgāyana edition uses, the system tipitaka.org uses, and the system every page of our own Visuddhimagga translation uses. Learn this once and you can read Pāli printed anywhere in the world — you are not learning "a script," you are learning a precise phonetic notation.</p>
+        <p>The diacritics — the small marks above or below certain letters, like the line over <span class="letter">ā</span> or the dot under <span class="letter">ṇ</span> — are not decorative. Each one marks a sound that is genuinely distinct from its plain counterpart. Drop the mark and you have written a different sound, sometimes a different word entirely. This lesson deals with the first and most important category of these marks: the ones that show vowel length.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Eight Vowels</h2>
+        <p>Pāli has eight vowel sounds. Three of them come in a short/long pair spelled with and without a macron (the line on top); the other two have only a long form.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead>
+              <tr><th>Short</th><th>Long</th><th>Approximate sound</th></tr>
+            </thead>
+            <tbody>
+              <tr><td class="letter">a</td><td class="letter">ā</td><td>short as in <em>a</em>bout → long as in f<em>a</em>ther</td></tr>
+              <tr><td class="letter">i</td><td class="letter">ī</td><td>short as in s<em>i</em>t → long as in mach<em>i</em>ne</td></tr>
+              <tr><td class="letter">u</td><td class="letter">ū</td><td>short as in p<em>u</em>t → long as in r<em>u</em>le</td></tr>
+              <tr><td class="letter">—</td><td class="letter">e</td><td>as in th<em>ey</em> (see note below)</td></tr>
+              <tr><td class="letter">—</td><td class="letter">o</td><td>as in n<em>o</em>te (see note below)</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>"Long" means literally that: held for roughly twice the duration of the short vowel, the way you can feel the difference between saying "ah" quickly and stretching it out. It is not a difference of quality (a different vowel sound) the way English "long i" and "short i" work — it is purely a difference of how long you hold the same sound. This is the single easiest habit to build early and the single easiest one to build wrong, because English spelling gives length no consistent marking at all, so English speakers tend to guess. In Pāli it is never a guess: the macron tells you.</p>
+        <h3>e and o: the two exceptions</h3>
+        <p><span class="letter">e</span> and <span class="letter">o</span> have no short counterpart in the alphabet — there is no plain "e" or "o" letter distinct from these. In practice, they are pronounced long when they end a syllable (<em>de-va</em>, "deva"), but shorten somewhat when a doubled consonant follows in the same syllable (<em>set-thi</em>, "seṭṭhi"). For counting the metrical weight of a syllable — which matters once you start reading verse — both are always treated as long regardless of how they are actually pronounced in that position. You do not need to memorize this yet; it is here so the two "missing" short vowels in the table above make sense, not as something to test yourself on.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>Length Changes the Word</h2>
+        <p>Because English spelling doesn't mark vowel length reliably, it is tempting to treat the macron as a pronunciation nicety you can skip if you're in a hurry. Pāli does not allow that: two words spelled identically except for vowel length can be completely different words. Here are two ordinary examples you will meet constantly once you start reading:</p>
+        <div class="pl-pairs">
+          <div class="pl-pair">
+            <div class="word">pada</div>
+            <div class="gloss">short <em>a</em> — "step," "word," "verse-quarter"</div>
+            <div class="vs">is not the same word as</div>
+            <div class="word">p<span class="long">ā</span>da</div>
+            <div class="gloss">long <em>ā</em> — "foot" (the body part)</div>
+          </div>
+          <div class="pl-pair">
+            <div class="word">vata</div>
+            <div class="gloss">short <em>a</em> — "vow," "observance"</div>
+            <div class="vs">is not the same word as</div>
+            <div class="word">v<span class="long">ā</span>ta</div>
+            <div class="gloss">long <em>ā</em> — "wind"</div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>You have already seen this distinction without being told, in words you already know: <em>Vinaya</em> (monastic discipline) has a short first <em>i</em>, while <em>vīriya</em> (energy, effort — which came up in our Sīlaniddesa translation) has a long first <em>ī</em>. Nobody pronounces these identically in a monastery chanting hall. Building the habit of reading the macron as a real instruction, from the very first lesson, is what makes every later lesson easier — case endings, verb endings, and most compound joints all turn on exactly this kind of short/long distinction.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Hearing the Length</h2>
+        <p>Below are ordinary Pāli words you will see throughout this course and in our Visuddhimagga pages. For each one, identify which vowels are long (marked with a macron in correct spelling) before checking the answer. The point isn't memorizing these particular words — it's training your eye to notice the macron on sight, the way you'll need to for every lesson from here on.</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">saṅgha</span> — the community of monastics. Which vowels, if any, are long?</li>
+            <li><span class="pali-word">nibbāna</span> — the goal of the path. Which vowels, if any, are long?</li>
+            <li><span class="pali-word">kammaṭṭhāna</span> — a meditation subject. Which vowels, if any, are long?</li>
+            <li><span class="pali-word">vipassanā</span> — insight meditation. Which vowels, if any, are long?</li>
+            <li><span class="pali-word">mettā</span> — loving-kindness. Which vowels, if any, are long?</li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p><strong>saṅgha</strong> — no long vowels at all; both a's are short. (The ṅ is a nasal you'll meet in the next lesson, not a vowel mark.)</p>
+              <p><strong>nibbāna</strong> — the second a is long: nibb<span class="ans-long">ā</span>na. The i is short.</p>
+              <p><strong>kammaṭṭhāna</strong> — the final a is long: kammaṭṭh<span class="ans-long">ā</span>na. The first two a's are short.</p>
+              <p><strong>vipassanā</strong> — the final a is long: vipassan<span class="ans-long">ā</span>. Every other vowel in the word is short.</p>
+              <p><strong>mettā</strong> — the final a is long: mett<span class="ans-long">ā</span>. The e, as noted above, always counts as long on its own.</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 2 turns to the consonants — the five places in the mouth where they're produced, and the voiced/voiceless contrast that organizes the whole system. Lesson 3 covers aspiration (a difference English makes but never uses to change meaning), the five nasals, and the distinctive niggahīta (ṃ). Lesson 4 puts the whole system together by reading a real line of Pāli aloud, syllable by syllable — the ceremonial verse of homage, <em>Namo tassa bhagavato arahato sammāsambuddhassa</em>, which opens every Theravādin recitation.</p>
+        <div class="pl-next">
+          <div>
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/02-consonants-place-and-manner/' | relative_url }}" style="color:inherit;">Lesson 2 — Consonants I: Place and Manner</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

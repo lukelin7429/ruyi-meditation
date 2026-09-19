@@ -1,0 +1,180 @@
+---
+layout: default
+title: "Pāli Course, Lesson 6: Masculine a-stem Nouns"
+permalink: /theravada/pali-course/lessons/06-masculine-a-stem-nouns/
+excerpt: "Lesson 6 of Ru-Yi's Pāli course for English speakers: the full singular and plural declension of Pāli's largest noun class, demonstrated with buddha itself, including the syncretisms (dative=genitive, instrumental=ablative in the plural) that make the paradigm smaller than it first looks."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;margin:12px 0 16px;color:var(--ink);max-width:22ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:520px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:13px 16px;text-align:left;font-size:15.5px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .form{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-table .alt{display:block;font-size:12.5px;font-style:italic;color:var(--muted);margin-top:2px;}
+  .pl-table .same{background:#f4f9f7;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .vocab-box{border-left:4px solid var(--terra);background:#f5f7fa;padding:22px 24px;margin-top:16px;}
+  .vocab-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:14px;}
+  .vocab-list{display:grid;gap:14px;}
+  .vocab-entry{display:grid;grid-template-columns:1fr;gap:2px;}
+  @media(min-width:640px){.vocab-entry{grid-template-columns:150px 1fr;gap:16px;}}
+  .vocab-term{font-weight:800;color:var(--ink);font-size:17px;}
+  .vocab-entry p{margin:0;font-size:15px;line-height:1.6;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .eg{font-style:italic;}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 6</nav>
+      <div class="pl-kicker">Lesson 6 of the Pāli Course · Nouns</div>
+      <h1>Masculine a-stem Nouns</h1>
+      <p>This is Pāli's largest noun class by far — most masculine nouns you will ever meet decline this way, and neuter nouns follow nearly the same pattern with small, learnable adjustments covered later. Master this one paradigm and you can already read a large share of ordinary Pāli prose.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/05-nouns-and-case/' | relative_url }}" style="color:inherit;">Lesson 5</a></span>
+        <span class="pl-pill part">Part II · Lesson 2</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>The Model Word: buddha</h2>
+        <p>An "a-stem" noun is simply one whose dictionary form ends in the short vowel <em>-a</em>. We'll decline <em>buddha</em> — "the awakened one" — throughout, in both numbers, across all eight cases from Lesson 5. Each row below gives the primary, most frequent ending first; a secondary ending you'll also meet in real texts follows in small italics.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Case</th><th>Singular</th><th>Plural</th></tr></thead>
+            <tbody>
+              <tr><td>Nominative</td><td class="form">buddho</td><td class="form">buddhā</td></tr>
+              <tr><td>Accusative</td><td class="form">buddhaṃ</td><td class="form">buddhe</td></tr>
+              <tr class="same"><td>Instrumental</td><td class="form">buddhena</td><td class="form">buddhehi<span class="alt">also buddhebhi</span></td></tr>
+              <tr class="same"><td>Dative</td><td class="form">buddhassa<span class="alt">also buddhāya</span></td><td class="form">buddhānaṃ</td></tr>
+              <tr class="same"><td>Ablative</td><td class="form">buddhā<span class="alt">also buddhasmā, buddhamhā</span></td><td class="form">buddhehi<span class="alt">also buddhebhi</span></td></tr>
+              <tr class="same"><td>Genitive</td><td class="form">buddhassa</td><td class="form">buddhānaṃ</td></tr>
+              <tr><td>Locative</td><td class="form">buddhe<span class="alt">also buddhasmiṃ, buddhamhi</span></td><td class="form">buddhesu</td></tr>
+              <tr><td>Vocative</td><td class="form">buddha</td><td class="form">buddhā</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Paradigm Is Smaller Than It Looks</h2>
+        <p>Sixteen slots (eight cases × two numbers), but nowhere near sixteen distinct forms, because Pāli reuses the same ending across several cases wherever no ambiguity results. Three patterns are worth fixing in memory as rules, not sixteen separate facts:</p>
+        <ul>
+          <li><strong>Dative = Genitive, in both numbers.</strong> Singular <em>buddhassa</em> serves as both "to/for the Buddha" and "of the Buddha"; plural <em>buddhānaṃ</em> does the same job for both meanings. Context — usually just what makes sense in the sentence — tells you which is meant.</li>
+          <li><strong>Instrumental = Ablative, in the plural.</strong> <em>buddhehi</em> means both "by the Buddhas" and "from the Buddhas."</li>
+          <li><strong>Nominative plural and Ablative singular collide.</strong> <em>buddhā</em> is genuinely ambiguous out of context — it could be "the Buddhas" (many, doing the action) or "from the Buddha" (one, as a source). Real sentences almost always disambiguate this through the verb or surrounding words, but it's worth knowing the collision exists rather than assuming a mistake when you meet it.</li>
+        </ul>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The dative <em>-āya</em> alternate is not a rare curiosity — it survives in one of the most famous stock phrases in the entire Canon, the missionary charge to go forth "for the welfare of the many, for the happiness of the many": <em>bahujanahitāya bahujanasukhāya</em>. Both <em>hitāya</em> and <em>sukhāya</em> are ordinary a-stem nouns (<em>hita</em>, "welfare"; <em>sukha</em>, "happiness") in exactly this alternate dative singular. Once you notice this ending, you'll find it constantly in exactly this kind of purpose-clause.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Confirming Lesson 4's Preview</h2>
+        <p>Now the payoff from Lessons 4 and 5: <em>sammāsambuddhassa</em> in <em>Namo tassa... sammāsambuddhassa</em> is built on exactly this paradigm. Strip the compound down to its final member, <em>sambuddha</em> — an a-stem noun, declining exactly like <em>buddha</em> — and add the dative/genitive singular ending this lesson just gave you: <em>sambuddha</em> + <em>-ssa</em> = <em>sambuddhassa</em>, "to/of the Perfectly Awakened One." What looked like an isolated fact in Lesson 4 is now a predictable output of a rule you can apply to any a-stem noun.</p>
+        <div class="vocab-box">
+          <div class="who">More a-stem nouns you already know</div>
+          <div class="vocab-list">
+            <div class="vocab-entry"><div class="vocab-term">dhamma</div><p>the teaching, the truth, a phenomenon — declines exactly like buddha: dhammo, dhammaṃ, dhammena...</p></div>
+            <div class="vocab-entry"><div class="vocab-term">magga</div><p>the path, as in the Noble Eightfold Path (ariyo aṭṭhaṅgiko maggo — notice maggo, the a-stem nominative singular, agreeing with ariyo)</p></div>
+            <div class="vocab-entry"><div class="vocab-term">saṅgha</div><p>the community — saṅgho, saṅghaṃ, saṅghena...</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Producing the Form</h2>
+        <p>Using the paradigm above, give the correct form of <em>buddha</em> for each context.</p>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="eg">"___ dhammaṃ deseti" — <strong>the Buddha</strong> teaches the Dhamma. (subject)</span></li>
+            <li><span class="eg">"___ passati" — she sees <strong>the Buddha</strong>. (direct object)</span></li>
+            <li><span class="eg">"___ vandāmi" — I pay homage <strong>to the Buddha</strong>. (recipient)</span></li>
+            <li><span class="eg">"idaṃ ___ sāsanaṃ" — this is <strong>the Buddha's</strong> teaching. (possession)</span></li>
+            <li><span class="eg">"___ desito ayaṃ dhammo" — this Dhamma was taught <strong>by the Buddha</strong>. (means/agent)</span></li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">Buddho</span> — nominative singular.</p>
+              <p>2. <span class="ans">Buddhaṃ</span> — accusative singular.</p>
+              <p>3. <span class="ans">Buddhassa</span> — dative singular.</p>
+              <p>4. <span class="ans">Buddhassa</span> — genitive singular (identical to the dative — this is the syncretism from earlier in this lesson).</p>
+              <p>5. <span class="ans">Buddhena</span> — instrumental singular.</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 7 gives the feminine counterpart to this lesson: nouns ending in long <em>-ā</em>, declined here with <em>paññā</em>, "wisdom." Its singular paradigm holds a surprise — five of the eight cases share a single ending.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/05-nouns-and-case/' | relative_url }}">Lesson 5 — Nouns and the Idea of Case</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/07-feminine-a-stem-nouns/' | relative_url }}">Lesson 7 — Feminine ā-stem Nouns</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

@@ -1,0 +1,208 @@
+---
+layout: default
+title: "Pāli Course, Lesson 9: Pronouns I — Personal & Demonstrative"
+permalink: /theravada/pali-course/lessons/09-personal-and-demonstrative-pronouns/
+excerpt: "Lesson 9 of Ru-Yi's Pāli course for English speakers: the personal pronouns ahaṃ ('I') and tvaṃ ('you'), their unstressed enclitic forms, and the demonstrative ta- that doubles as Pāli's only third-person pronoun — finally explaining tassa from the Namo tassa verse in Lesson 4."
+---
+
+<style>
+  .pl{--terra:#3d5270;--terra-deep:#1b2634;--gold:#d9a441;--jade:#2f6d5e;--jade-deep:#1e5245;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .pl *{box-sizing:border-box;}
+  .pl-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .pl-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .pl-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .pl-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .pl-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .pl h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,5.4vw,54px);line-height:1.1;margin:12px 0 16px;color:var(--ink);max-width:24ch;}
+  .pl-hero p{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .pl-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .pl-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .pl-pill.level{background:#e8f3ef;border-color:#c3ddd2;color:var(--jade-deep);}
+  .pl-pill.part{background:#fbeed6;border-color:#f0dcae;color:#8a6a2a;}
+  .pl-body{background:#fff;padding:54px 0 76px;}
+  .pl-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .pl-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .pl h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.8vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .pl h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:24px 0 10px;}
+  .pl p,.pl li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .pl ul,.pl ol{padding-left:22px;}
+  .pl strong{color:var(--ink);}
+  .pl .letter{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);font-weight:700;}
+
+  .pl-table-wrap{overflow-x:auto;margin-top:16px;border:1px solid var(--line);border-radius:8px;}
+  .pl-table{width:100%;border-collapse:collapse;min-width:420px;background:#fffdf8;}
+  .pl-table th,.pl-table td{padding:12px 15px;text-align:left;font-size:15px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .pl-table th{background:#f6efe2;color:var(--terra-deep);font-size:12px;letter-spacing:.07em;text-transform:uppercase;font-weight:800;}
+  .pl-table tr:last-child td{border-bottom:none;}
+  .pl-table .form{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);}
+  .pl-table .alt{display:block;font-size:12px;font-style:italic;color:var(--muted);margin-top:2px;}
+  .two-up{display:grid;gap:20px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:760px){.two-up{grid-template-columns:1fr 1fr;}}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:22px;}
+  .note-box p{margin:0;}
+  .note-box p+p{margin-top:12px;}
+  .note-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:8px;}
+
+  .try-box{border-left:4px solid var(--jade);background:#f4f9f7;padding:22px 24px;margin-top:22px;}
+  .try-box p{margin:0;}
+  .try-box .who{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade-deep);margin-bottom:8px;}
+
+  .pl-practice{border:1px solid var(--line);border-radius:10px;padding:24px 26px;margin-top:20px;background:#fbf5ea;}
+  .pl-practice ol{margin:14px 0 0;padding-left:20px;}
+  .pl-practice li{margin-bottom:10px;color:var(--ink);}
+  .pl-practice .pali-word{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--terra-deep);}
+  .pl-reveal{margin-top:18px;}
+  .pl-reveal summary{cursor:pointer;font-weight:700;color:var(--jade-deep);font-size:15px;}
+  .pl-reveal[open] summary{margin-bottom:12px;}
+  .pl-reveal-body{padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:8px;}
+  .pl-reveal-body p{margin:0 0 8px;font-size:15.5px;}
+  .pl-reveal-body p:last-child{margin-bottom:0;}
+  .pl-reveal-body .ans{color:var(--terra);font-weight:700;}
+
+  .pl-nav{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;}
+  .pl-next,.pl-prev{flex:1 1 260px;background:#f6efe2;border-radius:12px;padding:22px 24px;}
+  .pl-next .lbl,.pl-prev .lbl{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:4px;}
+  .pl-next .ti,.pl-prev .ti{font-family:'Playfair Display',Georgia,serif;font-size:19px;color:var(--ink);}
+  .pl-next .ti a,.pl-prev .ti a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(61,82,112,.35);}
+  .pl-next .soon{font-size:13px;color:var(--muted);font-style:italic;}
+</style>
+
+<article class="pl">
+  <section class="pl-hero">
+    <div class="pl-hero-in">
+      <nav class="pl-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/theravada/' | relative_url }}">Theravāda</a> › <a href="{{ '/theravada/pali-course/' | relative_url }}">Pāli Course</a> › Lesson 9</nav>
+      <div class="pl-kicker">Lesson 9 of the Pāli Course · Pronouns I</div>
+      <h1>Personal &amp; Demonstrative Pronouns</h1>
+      <p>Pronouns are used so constantly, in every language, that they tend to resist the tidy regular patterns Lessons 6–8 taught you — this lesson's paradigms are the most irregular you've met so far, but also among the most frequent words you will read. This is the longest lesson in the course to date; take it in two sittings if you need to.</p>
+      <div class="pl-meta">
+        <span class="pl-pill level">Level: beginner</span>
+        <span class="pl-pill">Prerequisite: <a href="{{ '/theravada/pali-course/lessons/08-i-stem-and-u-stem-nouns/' | relative_url }}" style="color:inherit;">Lesson 8</a></span>
+        <span class="pl-pill part">Part II · Lesson 5</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pl-body">
+    <div class="pl-wrap">
+
+      <section class="pl-section">
+        <h2>ahaṃ, "I," and tvaṃ, "you"</h2>
+        <p>Both pronouns decline for case exactly like nouns do, but with their own irregular set of endings rather than following any of the classes from Lessons 6–8. Each also has short, unstressed <strong>enclitic</strong> forms — <em>me</em>, <em>te</em>, <em>no</em>, <em>vo</em> — used constantly in place of the full accusative/dative/genitive forms, especially in verse and in casual speech, the way English "'em" stands in for "them."</p>
+        <div class="two-up">
+          <div>
+            <h3>ahaṃ — "I / we"</h3>
+            <div class="pl-table-wrap">
+              <table class="pl-table">
+                <thead><tr><th>Case</th><th>Singular</th><th>Plural</th></tr></thead>
+                <tbody>
+                  <tr><td>Nominative</td><td class="form">ahaṃ</td><td class="form">mayaṃ<span class="alt">also amhe</span></td></tr>
+                  <tr><td>Accusative</td><td class="form">maṃ<span class="alt">enclitic: me</span></td><td class="form">amhe<span class="alt">enclitic: no</span></td></tr>
+                  <tr><td>Instr. / Abl.</td><td class="form">mayā</td><td class="form">amhehi</td></tr>
+                  <tr><td>Dative / Gen.</td><td class="form">mayhaṃ, mama<span class="alt">enclitic: me</span></td><td class="form">amhākaṃ<span class="alt">enclitic: no</span></td></tr>
+                  <tr><td>Locative</td><td class="form">mayi</td><td class="form">amhesu</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div>
+            <h3>tvaṃ — "you"</h3>
+            <div class="pl-table-wrap">
+              <table class="pl-table">
+                <thead><tr><th>Case</th><th>Singular</th><th>Plural</th></tr></thead>
+                <tbody>
+                  <tr><td>Nominative</td><td class="form">tvaṃ</td><td class="form">tumhe</td></tr>
+                  <tr><td>Accusative</td><td class="form">taṃ<span class="alt">enclitic: te</span></td><td class="form">tumhe<span class="alt">enclitic: vo</span></td></tr>
+                  <tr><td>Instr. / Abl.</td><td class="form">tayā</td><td class="form">tumhehi</td></tr>
+                  <tr><td>Dative / Gen.</td><td class="form">tuyhaṃ, tava<span class="alt">enclitic: te</span></td><td class="form">tumhākaṃ<span class="alt">enclitic: vo</span></td></tr>
+                  <tr><td>Locative</td><td class="form">tayi</td><td class="form">tumhesu</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <p>There is no vocative form for personal pronouns, for the obvious reason that you don't address someone as "you!" any more naturally in Pāli than in English — a proper name or noun (like the <em>bhikkhave</em> you learned in Lesson 8) does that job instead.</p>
+      </section>
+
+      <section class="pl-section">
+        <h2>The Demonstrative ta-: Pāli's Only Third Person</h2>
+        <p>Pāli has no separate word for "he," "she," "it," or "they." Instead, the demonstrative stem <em>ta-</em> ("that") does double duty as the third-person pronoun — the same word means either "that [person/thing]" or simply "he/she/it/they," and English translators choose whichever reads more naturally. Unlike <em>ahaṃ</em> and <em>tvaṃ</em>, <em>ta-</em> declines for all three grammatical genders from Lesson 5.</p>
+        <h3>Masculine and Neuter</h3>
+        <p>These two genders share every case except the nominative and accusative — worth noticing as one pattern rather than two separate ones to memorize.</p>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Case</th><th>Masc. sg.</th><th>Neut. sg.</th><th>Masc. pl.</th><th>Neut. pl.</th></tr></thead>
+            <tbody>
+              <tr><td>Nominative</td><td class="form">so</td><td class="form">taṃ</td><td class="form">te</td><td class="form">tāni</td></tr>
+              <tr><td>Accusative</td><td class="form">taṃ</td><td class="form">taṃ</td><td class="form">te</td><td class="form">tāni</td></tr>
+              <tr><td>Instrumental</td><td class="form" colspan="2">tena</td><td class="form" colspan="2">tehi</td></tr>
+              <tr><td>Dative / Gen.</td><td class="form" colspan="2">tassa</td><td class="form" colspan="2">tesaṃ</td></tr>
+              <tr><td>Ablative</td><td class="form" colspan="2">tamhā<span class="alt">also tasmā</span></td><td class="form" colspan="2">tehi</td></tr>
+              <tr><td>Locative</td><td class="form" colspan="2">tamhi<span class="alt">also tasmiṃ</span></td><td class="form" colspan="2">tesu</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Feminine</h3>
+        <div class="pl-table-wrap">
+          <table class="pl-table">
+            <thead><tr><th>Case</th><th>Singular</th><th>Plural</th></tr></thead>
+            <tbody>
+              <tr><td>Nominative</td><td class="form">sā</td><td class="form">tā<span class="alt">also tāyo</span></td></tr>
+              <tr><td>Accusative</td><td class="form">taṃ</td><td class="form">tā<span class="alt">also tāyo</span></td></tr>
+              <tr><td>Instr. / Abl.</td><td class="form">tāya</td><td class="form">tāhi</td></tr>
+              <tr><td>Dative / Gen.</td><td class="form">tassā<span class="alt">also tassāya</span></td><td class="form">tāsaṃ</td></tr>
+              <tr><td>Locative</td><td class="form">tassaṃ<span class="alt">also tāyaṃ</span></td><td class="form">tāsu</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Confirming tassa, at Last</h2>
+        <p>Lesson 4 glossed <em>tassa</em>, in <em>Namo tassa bhagavato...</em>, as "to him" without yet being able to say what kind of word <em>tassa</em> actually is. You now can: it is the masculine dative/genitive singular of the demonstrative <em>ta-</em> — exactly the form in the table above. "Homage to <strong>him</strong>" was not a loose paraphrase; <em>tassa</em> is, quite literally, this pronoun's dedicated way of saying "to that one" — and because the following three words (<em>bhagavato</em>, <em>arahato</em>, <em>sammāsambuddhassa</em>) are all in agreement with it in the same case, number, and gender, the whole phrase reads as one tightly bound unit: "to Him — the Blessed One, the Worthy One, the Perfectly Awakened One."</p>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Notice that the masculine plural nominative/accusative of <em>ta-</em>, <em>te</em> ("they/those"), is spelled identically to the enclitic <em>te</em> from the <em>tvaṃ</em> table above ("to you," unstressed). These are two completely unrelated grammatical facts that happen to sound and look alike — Pāli, like English ("bank" of a river vs. a "bank" that holds money), tolerates this kind of coincidence and simply relies on context to sort it out. You will meet a handful of collisions like this across the course; noticing them explicitly, as here, is more useful than being caught off guard by one mid-sentence later.</p>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Practice: Identifying the Pronoun</h2>
+        <div class="pl-practice">
+          <ol>
+            <li><span class="pali-word">tassa dhammo</span> — "___ teaching." Which English pronoun, and what case/gender/number is <em>tassa</em>?</li>
+            <li><span class="pali-word">te bhikkhū</span> — "___ monks." What is <em>te</em> here (not the enclitic!) — case, gender, number?</li>
+            <li><span class="pali-word">ahaṃ vadāmi</span> — "___ speak." Case and number of <em>ahaṃ</em>?</li>
+            <li><span class="pali-word">detha me</span> — "Give ___." What is the enclitic <em>me</em> standing in for here?</li>
+          </ol>
+          <details class="pl-reveal">
+            <summary>Check your answers</summary>
+            <div class="pl-reveal-body">
+              <p>1. <span class="ans">"His teaching"</span> — tassa is masculine genitive singular of ta-.</p>
+              <p>2. <span class="ans">"Those monks"</span> — te is masculine nominative plural of ta-, agreeing with the plural noun bhikkhū.</p>
+              <p>3. <span class="ans">"I speak"</span> — ahaṃ is nominative singular.</p>
+              <p>4. <span class="ans">"Give (to) me"</span> — me here is the enclitic accusative/dative of ahaṃ.</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section class="pl-section">
+        <h2>Continuing From Here</h2>
+        <p>Lesson 10 completes the pronoun system with the interrogative stem <em>ka-</em> ("who? what? which?") and the relative stem <em>ya-</em> ("who/which, that...") — the pair that lets you build questions and the "the one who..." clauses that appear throughout the Visuddhimagga's own question-and-answer structure, the same seven-question format you first saw in the Sīlaniddesa translation.</p>
+        <div class="pl-nav">
+          <div class="pl-prev">
+            <div class="lbl">Previous</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/08-i-stem-and-u-stem-nouns/' | relative_url }}">Lesson 8 — i-stem and u-stem Nouns</a></div>
+          </div>
+          <div class="pl-next">
+            <div class="lbl">Next</div>
+            <div class="ti"><a href="{{ '/theravada/pali-course/lessons/10-interrogative-and-relative-pronouns/' | relative_url }}">Lesson 10 — Pronouns II: Interrogative &amp; Relative</a></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>
