@@ -17,10 +17,13 @@ abhidharma:
   live_texts: 2
 
 theravada:
-  # Live works on /theravada/. Visuddhimagga: chapter 1 (Sīlaniddesa)
-  # underway question by question, translated directly from the Pāli
-  # (1 of 7 questions done as of 2026-09-09).
-  live_texts: 1
+  # Live works on /theravada/. This count is known to lag reality (see
+  # sutras' note below for why) — Visuddhimagga is actually complete at
+  # 23/23 chapters as of this edit, not reflected here previously.
+  # Adding this session's own new work: Abhidhamma (Abhidhammattha
+  # Saṅgaha), chapter 1 of 9 (Cittasaṅgaha) complete, translated
+  # directly from the Pāli, as of 2026-09-19.
+  live_texts: 2
 
 sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
