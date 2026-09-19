@@ -1,0 +1,262 @@
+---
+layout: default
+title: Teaching Like the Buddha
+permalink: /courses/teaching-like-the-buddha/
+excerpt: Seven suttas, read for the teaching method inside them — how the Buddha taught a confused village, his own son, a confident opponent, a monk who misread him, a man demanding answers, a murderer, and finally his own students after his death.
+---
+
+<style>
+  .tl{--slate:#2f5d7a;--slate-mid:#1e3f54;--slate-deep:#0d1e29;--gold:#d9b46a;--gold-deep:#9d7526;
+      --amber:#b8862e;--amber-deep:#5c3f12;
+      --cream:#f3f6f8;--ink:#1e2933;--ink-soft:#5b6b76;--line:#dde5ea;}
+  .tl *{box-sizing:border-box;}
+  .tl-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .tl [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .tl [data-rv].in{opacity:1;transform:none;}
+
+  .tl-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .tl-crumb .tl-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .tl-crumb a{color:var(--slate);text-decoration:none;}
+  .tl-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .tl-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 80% 10%,rgba(217,180,106,.20),transparent 62%),
+      linear-gradient(158deg,#2f5d7a 0%,#1e3f54 46%,#0d1e29 100%);}
+  .tl-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .tl-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .tl-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .tl-hero .subt{font-style:italic;font-size:19px;color:#dbe7ee;max-width:44ch;}
+  .tl-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .tl-facts span{font-size:13px;color:#dbe7ee;border:1px solid rgba(217,180,106,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .tl-body{background:#fff;padding:56px 0 20px;}
+  .tl-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .tl-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--slate);}
+  .tl-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .tl-sec{margin:46px 0;}
+  .tl-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--slate);margin-bottom:12px;}
+
+  .tl-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#2f5d7a 0%,#1e3f54 48%,#0d1e29 100%);color:#dbe7ee;
+    box-shadow:0 26px 52px -30px rgba(13,30,41,.75);}
+  .tl-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .tl-promise .q em{color:var(--gold);font-style:italic;}
+  .tl-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .tl-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .tl-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .tl-obj li b{color:var(--slate);}
+  .tl-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--slate);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  /* rhythm — five steps, matching each session's own five parts */
+  .tl-rhythm{display:grid;gap:10px;grid-template-columns:repeat(2,1fr);margin-top:8px;}
+  @media(min-width:700px){.tl-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .tl-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 9px;}
+  .tl-rc .n{font-family:'Playfair Display',serif;color:var(--slate);font-weight:700;font-size:15px;}
+  .tl-rc b{display:block;color:var(--ink);font-size:13.5px;margin:4px 0 2px;}
+  .tl-rc span{font-size:11.5px;color:var(--ink-soft);line-height:1.4;}
+
+  /* schedule */
+  .tl-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .tl-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .tl-row:last-child{border-bottom:none;}
+  .tl-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--slate);text-align:center;}
+  .tl-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .tl-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .tl-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .tl-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .tl-row.live:hover{background:#f6f9fb;padding-left:26px;}
+  .tl-row.live .st{background:var(--slate);color:#fff;}
+  @media(max-width:560px){
+    .tl-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .tl-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .tl-row.live:hover{padding-left:20px;}
+  }
+  .tl-sutta{font-size:12.5px;color:var(--amber-deep);font-weight:700;margin-top:2px;}
+
+  .tl-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .tl-card ul{margin:6px 0 0;padding-left:20px;}
+  .tl-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .tl-card li b{color:var(--slate);}
+
+  .tl-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .tl-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .tl-btn.primary{background:linear-gradient(158deg,#2f5d7a,#0d1e29);color:#fff;box-shadow:0 14px 30px -16px rgba(13,30,41,.85);}
+  .tl-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(13,30,41,.95);}
+  .tl-btn.ghost{border:1.5px solid var(--slate);color:var(--slate);}
+  .tl-btn.ghost:hover{background:var(--slate);color:#fff;text-decoration:none;}
+
+  .tl-teacher{background:var(--slate-deep);color:#cddce4;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .tl-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .tl-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="tl">
+
+  <nav class="tl-crumb"><div class="tl-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> &rarr; <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; Teaching Like the Buddha</div></nav>
+
+  <!-- HERO -->
+  <section class="tl-hero">
+    <div class="tl-hero-in">
+      <div class="tl-eyebrow">Ru-Yi Academy &middot; Course &middot; Seven Suttas, Read as Pedagogy</div>
+      <h1>Teaching Like the Buddha</h1>
+      <div class="subt">像佛陀一樣教書 &mdash; the suttas read not for their doctrine, but for how he taught it</div>
+      <div class="tl-facts">
+        <span>7 sessions &middot; all live</span>
+        <span>No prior course required</span>
+        <span>Taught in English</span>
+        <span>Free &middot; every text on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="tl-body">
+    <div class="tl-wrap">
+
+      <p class="tl-lede first" data-rv>Every sutta in the Pali Canon is, among other things, a record of someone teaching someone. A village that trusts no one. A son young enough to need a water-pot, not an argument. A confident debater sent to win. A monk who got the doctrine backwards. A man threatening to quit unless his questions are answered. A murderer mid-chase. A community about to lose him for good. This course reads seven of those scenes for the method inside them, not only the doctrine.</p>
+
+      <p data-rv>Most courses on Buddhism ask what the Buddha taught. This one asks a narrower, more practical question, aimed at anyone who teaches for a living: watching him work, session by session, what can be learned about <em>how</em> to teach &mdash; when to give a method instead of an answer, when to sequence a hard idea behind three easy ones, when to refuse a question outright, and what a teacher owes a student after the teaching is over?</p>
+
+      <div class="tl-promise" data-rv>
+        <p class="q">Seven scenes of him teaching, read the way an educator would read them &mdash; <em>not for what he believed, but for what he did.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- WHERE THE TEXTS COME FROM -->
+      <div class="tl-sec" data-rv>
+        <div class="lbl">Where the texts come from</div>
+        <p style="margin:0;">All seven suttas are read in full on this site, in Bhikkhu Sujato's complete CC0 translation of the Pali Canon &mdash; freely quotable, with a structured reading guide, the full text, and a ten-question self-check quiz built into every one. This course adds a teaching-method lens on top; it does not retranslate anything.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="tl-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="tl-obj">
+          <li>Name at least <b>seven distinct teaching moves</b> the Buddha uses across these suttas &mdash; giving a testable method, sequencing a hard idea, refusing a question, reaching an "unreachable" student &mdash; and recognize them by name, not just by vague impression.</li>
+          <li>Read a <b>full Pali sutta</b> for its pedagogy specifically, a skill most translations and commentaries don't teach you to look for.</li>
+          <li>Apply at least one method from this course <b>directly to your own teaching</b>, in writing, by the end of each session's assignment.</li>
+          <li>Trace <b>one thread across all seven suttas</b> &mdash; the same underlying commitment to a student's independence, from the first session's test to the last session's final words.</li>
+          <li>Know where to go next in the Pali Canon, because you will have read closely in three of its four major nikāyas.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="tl-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Five steps, every session &mdash; read the sutta itself in full partway through, not as an afterthought.</p>
+        <div class="tl-rhythm">
+          <div class="tl-rc"><div class="n">1</div><b>Lecture Notes</b><span>The teaching move, framed</span></div>
+          <div class="tl-rc"><div class="n">2</div><b>Primary Text</b><span>Read the full sutta</span></div>
+          <div class="tl-rc"><div class="n">3</div><b>Discussion</b><span>Four questions</span></div>
+          <div class="tl-rc"><div class="n">4</div><b>Assignment</b><span>Apply it once</span></div>
+          <div class="tl-rc"><div class="n">5</div><b>Self-Check</b><span>The sutta's own quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="tl-sec" data-rv>
+        <div class="lbl">Seven sessions</div>
+        <p style="margin:0 0 14px;">All seven sessions are live. The order builds &mdash; each session's method sets up a question the next one answers.</p>
+        <div class="tl-sched">
+
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Don't Just Believe It<small>A confused village is given a test, not a doctrine</small><div class="tl-sutta">AN 3.65 &middot; the Kālāma Sutta</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-2/' | relative_url }}">
+            <div class="wk">2</div>
+            <div class="ti">The Water-Pot and the Mirror<small>Teaching his own son, in images a child can carry alone</small><div class="tl-sutta">MN 61 &middot; Advice to Rāhula</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-3/' | relative_url }}">
+            <div class="wk">3</div>
+            <div class="ti">The Graduated Talk<small>Meeting an opponent's argument, then sequencing the hard part last</small><div class="tl-sutta">MN 56 &middot; With Upāli</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-4/' | relative_url }}">
+            <div class="wk">4</div>
+            <div class="ti">The Raft<small>Even correct teaching can be grasped wrongly &mdash; and is not meant to be kept</small><div class="tl-sutta">MN 22 &middot; the Simile of the Cobra</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-5/' | relative_url }}">
+            <div class="wk">5</div>
+            <div class="ti">The Poisoned Arrow<small>What a teacher refuses to answer, and why, stated out loud</small><div class="tl-sutta">MN 63 &middot; With Māluṅkya</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-6/' | relative_url }}">
+            <div class="wk">6</div>
+            <div class="ti">I Have Stopped<small>The least teachable student, and the fewest possible words</small><div class="tl-sutta">MN 86 &middot; With Aṅgulimāla</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tl-row live" href="{{ '/courses/teaching-like-the-buddha/session-7/' | relative_url }}">
+            <div class="wk">7</div>
+            <div class="ti">Be Your Own Island<small>The last lesson: building a way for teaching to outlast the teacher</small><div class="tl-sutta">DN 16 &middot; the Buddha's final months</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="tl-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="tl-card">
+          <ul>
+            <li><b>Nothing to buy.</b> Every sutta is on this site in full, in Bhikkhu Sujato's CC0 translation, with its own reading guide and quiz.</li>
+            <li><b>No prior course required.</b> This course stands on its own; <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}" style="color:var(--slate);font-weight:700;">Read a Whole Sūtra</a> is a natural companion if you want more practice reading a full discourse slowly.</li>
+            <li><b>An actual teaching practice, if you have one.</b> Every assignment asks you to apply the session's method to real students, a real classroom, or a real lesson &mdash; this course is built for people who teach, not only people who study.</li>
+            <li><b>A willingness to read past the famous line.</b> Six of these seven suttas are known in popular culture for one quotable sentence, stripped of its context. This course reads the whole scene each sentence came from.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="tl-actions" data-rv>
+        <a class="tl-btn primary" href="{{ '/courses/teaching-like-the-buddha/session-1/' | relative_url }}">Begin Session 1 &rarr;</a>
+        <a class="tl-btn ghost" href="{{ '/discourses/' | relative_url }}">Browse the full Pali Canon</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="tl-teacher" data-rv>
+        <div class="q">"I have spent more than twenty years training teachers, and almost none of the training I give them comes from a textbook on pedagogy &mdash; it comes from watching good teachers work. It took me a long time to notice that the Pali Canon is full of exactly that: the best teacher in the tradition, caught in the act of teaching, sutta after sutta. This course is the class I wish someone had handed me on day one."</div>
+        <div class="who">&mdash; Luke Lin, instructor &middot; Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.tl');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
