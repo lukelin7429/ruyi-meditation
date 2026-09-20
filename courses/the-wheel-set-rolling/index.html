@@ -1,0 +1,245 @@
+---
+layout: default
+title: The Wheel Set Rolling
+permalink: /courses/the-wheel-set-rolling/
+excerpt: Four suttas on the four noble truths — from their first announcement to a skeptical audience, through Sāriputta's complete technical definition, to the deliberate restriction that leaves everything else unstated, to the concrete, measurable payoff of actually seeing them.
+---
+
+<style>
+  .nt-l{--c1:#2f6b4a;--c2:#1d4530;--c3:#0d2317;--gold:#d9b46a;--gold-deep:#9d7526;
+      --amber:#b8862e;--amber-deep:#5c3f12;
+      --cream:#f3f7f4;--ink:#1c2620;--ink-soft:#5a6a60;--line:#dbe6de;}
+  .nt-l *{box-sizing:border-box;}
+  .nt-l-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .nt-l [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .nt-l [data-rv].in{opacity:1;transform:none;}
+
+  .nt-l-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .nt-l-crumb .nt-l-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .nt-l-crumb a{color:var(--c1);text-decoration:none;}
+  .nt-l-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .nt-l-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 80% 10%,rgba(217,180,106,.20),transparent 62%),
+      linear-gradient(158deg,#2f6b4a 0%,#1d4530 46%,#0d2317 100%);}
+  .nt-l-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .nt-l-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .nt-l-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .nt-l-hero .subt{font-style:italic;font-size:19px;color:#dcece2;max-width:44ch;}
+  .nt-l-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .nt-l-facts span{font-size:13px;color:#dcece2;border:1px solid rgba(217,180,106,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .nt-l-body{background:#fff;padding:56px 0 20px;}
+  .nt-l-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .nt-l-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--c1);}
+  .nt-l-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .nt-l-sec{margin:46px 0;}
+  .nt-l-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--c1);margin-bottom:12px;}
+
+  .nt-l-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#2f6b4a 0%,#1d4530 48%,#0d2317 100%);color:#dcece2;
+    box-shadow:0 26px 52px -30px rgba(13,35,23,.75);}
+  .nt-l-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .nt-l-promise .q em{color:var(--gold);font-style:italic;}
+  .nt-l-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .nt-l-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .nt-l-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .nt-l-obj li b{color:var(--c1);}
+  .nt-l-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--c1);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .nt-l-rhythm{display:grid;gap:10px;grid-template-columns:repeat(2,1fr);margin-top:8px;}
+  @media(min-width:700px){.nt-l-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .nt-l-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 9px;}
+  .nt-l-rc .n{font-family:'Playfair Display',serif;color:var(--c1);font-weight:700;font-size:15px;}
+  .nt-l-rc b{display:block;color:var(--ink);font-size:13.5px;margin:4px 0 2px;}
+  .nt-l-rc span{font-size:11.5px;color:var(--ink-soft);line-height:1.4;}
+
+  .nt-l-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .nt-l-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .nt-l-row:last-child{border-bottom:none;}
+  .nt-l-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--c1);text-align:center;}
+  .nt-l-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .nt-l-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .nt-l-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .nt-l-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .nt-l-row.live:hover{background:#f6faf7;padding-left:26px;}
+  .nt-l-row.live .st{background:var(--c1);color:#fff;}
+  @media(max-width:560px){
+    .nt-l-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .nt-l-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .nt-l-row.live:hover{padding-left:20px;}
+  }
+  .nt-l-sutta{font-size:12.5px;color:var(--amber-deep);font-weight:700;margin-top:2px;}
+
+  .nt-l-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .nt-l-card ul{margin:6px 0 0;padding-left:20px;}
+  .nt-l-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .nt-l-card li b{color:var(--c1);}
+
+  .nt-l-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .nt-l-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .nt-l-btn.primary{background:linear-gradient(158deg,#2f6b4a,#0d2317);color:#fff;box-shadow:0 14px 30px -16px rgba(13,35,23,.85);}
+  .nt-l-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(13,35,23,.95);}
+  .nt-l-btn.ghost{border:1.5px solid var(--c1);color:var(--c1);}
+  .nt-l-btn.ghost:hover{background:var(--c1);color:#fff;text-decoration:none;}
+
+  .nt-l-teacher{background:var(--c3);color:#c7dccd;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .nt-l-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .nt-l-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="nt-l">
+
+  <nav class="nt-l-crumb"><div class="nt-l-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> &rarr; <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; The Wheel Set Rolling</div></nav>
+
+  <!-- HERO -->
+  <section class="nt-l-hero">
+    <div class="nt-l-hero-in">
+      <div class="nt-l-eyebrow">Ru-Yi Academy &middot; Course &middot; The Four Noble Truths</div>
+      <h1>The Wheel Set Rolling</h1>
+      <div class="subt">四聖諦 &mdash; suffering, its origin, its cessation, and the practice, from four different angles</div>
+      <div class="nt-l-facts">
+        <span>4 sessions &middot; all live</span>
+        <span>A natural entry point to the whole series</span>
+        <span>Taught in English</span>
+        <span>Free &middot; every text on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="nt-l-body">
+    <div class="nt-l-wrap">
+
+      <p class="nt-l-lede first" data-rv>Four sentences, repeated so often across the tradition that it's easy to stop actually hearing them: this is suffering; this is its origin; this is its cessation; this is the practice leading to its cessation. This course reads four suttas that show those four sentences from four different angles — first announced, then completely defined, then deliberately restricted to only this, and finally shown to produce a concrete, measurable result.</p>
+
+      <p data-rv>If you are new to the Pali suttas entirely, this is a reasonable place to begin — the four noble truths are the hub the rest of this site's Theravāda material turns on. If you've already worked through other courses in this series, this one gives the foundational teaching the same close, patient reading everything else has been building toward.</p>
+
+      <div class="nt-l-promise" data-rv>
+        <p class="q">Four sentences. <em>A whole path folded into the gap between naming them and actually completing what each one asks.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- WHERE THE TEXTS COME FROM -->
+      <div class="nt-l-sec" data-rv>
+        <div class="lbl">Where the texts come from</div>
+        <p style="margin:0;">All four suttas are read in full on this site, in Bhikkhu Sujato's complete CC0 translation of the Pali Canon, each with its own structured reading guide, full text, and ten-question self-check quiz. This course adds a single connecting thread across four discourses; it does not retranslate anything.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="nt-l-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="nt-l-obj">
+          <li>Recite the four noble truths <b>and</b> their threefold turning — recognized, the task, the task completed — twelve aspects in total, not four.</li>
+          <li>Give the <b>complete technical definition</b> of each truth, factor by factor, the way Sāriputta gives it, not only the compressed one-line version.</li>
+          <li>Explain <b>why the Buddha restricted his teaching</b> to exactly these four truths, using his own stated criterion rather than a guess about his reasons.</li>
+          <li>State the <b>concrete, bounded claim</b> the tradition makes about what changes when these truths are genuinely seen — not a vague promise of improvement.</li>
+          <li>Trace <b>one thread across four different discourses</b> in three different nikāyas, closely enough to notice how each session answers a question the previous one leaves open.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="nt-l-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Five steps, every session — read the sutta itself in full partway through, not as an afterthought.</p>
+        <div class="nt-l-rhythm">
+          <div class="nt-l-rc"><div class="n">1</div><b>Lecture Notes</b><span>The idea, framed</span></div>
+          <div class="nt-l-rc"><div class="n">2</div><b>Primary Text</b><span>Read the full sutta</span></div>
+          <div class="nt-l-rc"><div class="n">3</div><b>Discussion</b><span>Four questions</span></div>
+          <div class="nt-l-rc"><div class="n">4</div><b>Assignment</b><span>Apply it once</span></div>
+          <div class="nt-l-rc"><div class="n">5</div><b>Self-Check</b><span>The sutta's own quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="nt-l-sec" data-rv>
+        <div class="lbl">Four sessions</div>
+        <p style="margin:0 0 14px;">All four sessions are live. The order builds from announcement, to full definition, to restriction, to concrete payoff.</p>
+        <div class="nt-l-sched">
+
+          <a class="nt-l-row live" href="{{ '/courses/the-wheel-set-rolling/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Rolling Forth the Wheel of Dhamma<small>The truths, announced to a skeptical audience</small><div class="nt-l-sutta">SN 56.11 &middot; the First Sermon</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="nt-l-row live" href="{{ '/courses/the-wheel-set-rolling/session-2/' | relative_url }}">
+            <div class="wk">2</div>
+            <div class="ti">The Complete Technical Definition<small>Sāriputta unpacks what the first sermon compressed</small><div class="nt-l-sutta">MN 141 &middot; the Analysis of the Truths</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="nt-l-row live" href="{{ '/courses/the-wheel-set-rolling/session-3/' | relative_url }}">
+            <div class="wk">3</div>
+            <div class="ti">A Handful of Leaves<small>Why exactly these four, and nothing more</small><div class="nt-l-sutta">SN 56.31 &middot; In a Rosewood Forest</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="nt-l-row live" href="{{ '/courses/the-wheel-set-rolling/session-4/' | relative_url }}">
+            <div class="wk">4</div>
+            <div class="ti">A Fingernail of Dust<small>The concrete payoff of actually seeing them</small><div class="nt-l-sutta">SN 13.1 &middot; A Fingernail</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="nt-l-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="nt-l-card">
+          <ul>
+            <li><b>Nothing to buy.</b> Every sutta is on this site in full, in Bhikkhu Sujato's CC0 translation, with its own reading guide and quiz.</li>
+            <li><b>No prior course required.</b> This is a reasonable starting point for the whole thematic series if you're new to it.</li>
+            <li><b>Patience with repetition.</b> The four truths appear, in slightly different form, in all four sessions — the repetition is the point, not padding.</li>
+            <li><b>A willingness to sit with the technical detail of Session 2.</b> It is the densest reading in the course, and the one the other three lean on.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="nt-l-actions" data-rv>
+        <a class="nt-l-btn primary" href="{{ '/courses/the-wheel-set-rolling/session-1/' | relative_url }}">Begin Session 1 &rarr;</a>
+        <a class="nt-l-btn ghost" href="{{ '/courses/teaching-like-the-buddha/session-5/' | relative_url }}">See the poisoned arrow (Teaching Like the Buddha)</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="nt-l-teacher" data-rv>
+        <div class="q">"I taught the four noble truths to my own students for years as four sentences to memorize. What changed for me, building this course, was the discovery that each truth asks for a completely different verb — understood, given up, realized, developed — and that the Buddha's own claim to awakening rested on having actually finished all twelve turnings, not on having recited four lines correctly. That distinction is worth more than the four lines themselves."</div>
+        <div class="who">&mdash; Luke Lin, instructor &middot; Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.nt-l');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
