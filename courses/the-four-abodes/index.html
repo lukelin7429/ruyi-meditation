@@ -1,0 +1,245 @@
+---
+layout: default
+title: Boundless in Every Direction
+permalink: /courses/the-four-abodes/
+excerpt: Four suttas on the divine abodes — loving-kindness, compassion, joy, and equanimity — from the character that has to come first, to what actually leads to Divinity's company when ritual and lineage don't, to why the four are not interchangeable, to eleven concrete benefits of keeping the practice up.
+---
+
+<style>
+  .fa-l{--c1:#a8547a;--c2:#6b3350;--c3:#2d1521;--gold:#d9b46a;--gold-deep:#9d7526;
+      --amber:#b8862e;--amber-deep:#5c3f12;
+      --cream:#f9f4f6;--ink:#271f24;--ink-soft:#6b5c62;--line:#e9dbe1;}
+  .fa-l *{box-sizing:border-box;}
+  .fa-l-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .fa-l [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .fa-l [data-rv].in{opacity:1;transform:none;}
+
+  .fa-l-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .fa-l-crumb .fa-l-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .fa-l-crumb a{color:var(--c1);text-decoration:none;}
+  .fa-l-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .fa-l-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 80% 10%,rgba(217,180,106,.20),transparent 62%),
+      linear-gradient(158deg,#a8547a 0%,#6b3350 46%,#2d1521 100%);}
+  .fa-l-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .fa-l-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .fa-l-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .fa-l-hero .subt{font-style:italic;font-size:19px;color:#f3dde8;max-width:44ch;}
+  .fa-l-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .fa-l-facts span{font-size:13px;color:#f3dde8;border:1px solid rgba(217,180,106,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .fa-l-body{background:#fff;padding:56px 0 20px;}
+  .fa-l-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .fa-l-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--c1);}
+  .fa-l-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .fa-l-sec{margin:46px 0;}
+  .fa-l-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--c1);margin-bottom:12px;}
+
+  .fa-l-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#a8547a 0%,#6b3350 48%,#2d1521 100%);color:#f3dde8;
+    box-shadow:0 26px 52px -30px rgba(45,21,33,.75);}
+  .fa-l-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .fa-l-promise .q em{color:var(--gold);font-style:italic;}
+  .fa-l-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .fa-l-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .fa-l-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .fa-l-obj li b{color:var(--c1);}
+  .fa-l-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--c1);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .fa-l-rhythm{display:grid;gap:10px;grid-template-columns:repeat(2,1fr);margin-top:8px;}
+  @media(min-width:700px){.fa-l-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .fa-l-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 9px;}
+  .fa-l-rc .n{font-family:'Playfair Display',serif;color:var(--c1);font-weight:700;font-size:15px;}
+  .fa-l-rc b{display:block;color:var(--ink);font-size:13.5px;margin:4px 0 2px;}
+  .fa-l-rc span{font-size:11.5px;color:var(--ink-soft);line-height:1.4;}
+
+  .fa-l-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .fa-l-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .fa-l-row:last-child{border-bottom:none;}
+  .fa-l-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--c1);text-align:center;}
+  .fa-l-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .fa-l-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .fa-l-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .fa-l-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .fa-l-row.live:hover{background:#fdf6f9;padding-left:26px;}
+  .fa-l-row.live .st{background:var(--c1);color:#fff;}
+  @media(max-width:560px){
+    .fa-l-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .fa-l-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .fa-l-row.live:hover{padding-left:20px;}
+  }
+  .fa-l-sutta{font-size:12.5px;color:var(--amber-deep);font-weight:700;margin-top:2px;}
+
+  .fa-l-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .fa-l-card ul{margin:6px 0 0;padding-left:20px;}
+  .fa-l-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .fa-l-card li b{color:var(--c1);}
+
+  .fa-l-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .fa-l-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .fa-l-btn.primary{background:linear-gradient(158deg,#a8547a,#2d1521);color:#fff;box-shadow:0 14px 30px -16px rgba(45,21,33,.85);}
+  .fa-l-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(45,21,33,.95);}
+  .fa-l-btn.ghost{border:1.5px solid var(--c1);color:var(--c1);}
+  .fa-l-btn.ghost:hover{background:var(--c1);color:#fff;text-decoration:none;}
+
+  .fa-l-teacher{background:var(--c3);color:#e3c9d4;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .fa-l-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .fa-l-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="fa-l">
+
+  <nav class="fa-l-crumb"><div class="fa-l-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> &rarr; <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; Boundless in Every Direction</div></nav>
+
+  <!-- HERO -->
+  <section class="fa-l-hero">
+    <div class="fa-l-hero-in">
+      <div class="fa-l-eyebrow">Ru-Yi Academy &middot; Course &middot; The Four Divine Abodes</div>
+      <h1>Boundless in Every Direction</h1>
+      <div class="subt">四梵住 &mdash; loving-kindness, compassion, joy, and equanimity, radiated without limit</div>
+      <div class="fa-l-facts">
+        <span>4 sessions &middot; all live</span>
+        <span>No prior course required</span>
+        <span>Taught in English</span>
+        <span>Free &middot; every text on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="fa-l-body">
+    <div class="fa-l-wrap">
+
+      <p class="fa-l-lede first" data-rv>Two young brahmins once argued over whose teacher had correctly taught the one true path to union with Brahmā. The Buddha's answer to them anchors this course: not a competing ritual claim, but four cultivable states anyone can develop and check for themselves — loving-kindness, compassion, joy, and equanimity, radiated without limit in every direction.</p>
+
+      <p data-rv>This course reads four suttas that build on each other: the foundational practice text itself, the argument that replaces empty ritual and lineage claims with something genuinely demonstrable, a closer look at why the four abodes are not interchangeable, and finally eleven concrete, checkable benefits of actually keeping the practice up.</p>
+
+      <div class="fa-l-promise" data-rv>
+        <p class="q">Not a claim about where Brahmā lives. <em>Something anyone can develop, and check, for themselves.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- WHERE THE TEXTS COME FROM -->
+      <div class="fa-l-sec" data-rv>
+        <div class="lbl">Where the texts come from</div>
+        <p style="margin:0;">All four suttas are read in full on this site, in Bhikkhu Sujato's complete CC0 translation of the Pali Canon, each with its own structured reading guide, full text, and ten-question self-check quiz. This course adds a single connecting thread across four different nikāyas; it does not retranslate anything.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="fa-l-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="fa-l-obj">
+          <li>Recite and explain the <b>ethical foundation</b> the Karaṇīya Mettā Sutta lays down before the famous wish itself — character first, technique second.</li>
+          <li>Explain why the Buddha's answer to a caste-based religious authority claim is <b>a demonstrable practice, not a competing dogma</b> — and why that distinction matters for engaged Buddhism specifically.</li>
+          <li>Name the <b>four distinct culminations</b> of loving-kindness, compassion, joy, and equanimity, rather than treating them as four names for one feeling.</li>
+          <li>List <b>eleven concrete, checkable benefits</b> of a sustained mettā practice, and distinguish which register (bodily, social, spiritual) each belongs to.</li>
+          <li>Carry <b>one specific practice</b> from this course — the mother-and-child image, the ethical floor, or the daily-life radiating instruction — directly into your own teaching or classroom.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="fa-l-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Five steps, every session — read the sutta itself in full partway through, not as an afterthought.</p>
+        <div class="fa-l-rhythm">
+          <div class="fa-l-rc"><div class="n">1</div><b>Lecture Notes</b><span>The idea, framed</span></div>
+          <div class="fa-l-rc"><div class="n">2</div><b>Primary Text</b><span>Read the full sutta</span></div>
+          <div class="fa-l-rc"><div class="n">3</div><b>Discussion</b><span>Four questions</span></div>
+          <div class="fa-l-rc"><div class="n">4</div><b>Assignment</b><span>Apply it once</span></div>
+          <div class="fa-l-rc"><div class="n">5</div><b>Self-Check</b><span>The sutta's own quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="fa-l-sec" data-rv>
+        <div class="lbl">Four sessions</div>
+        <p style="margin:0 0 14px;">All four sessions are live. The order builds from the practice itself, to what it replaces, to precision about the four, to concrete results.</p>
+        <div class="fa-l-sched">
+
+          <a class="fa-l-row live" href="{{ '/courses/the-four-abodes/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Character Before Technique<small>The ethical foundation laid down before the wish itself</small><div class="fa-l-sutta">Snp 1.8 &middot; the Discourse on Love</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="fa-l-row live" href="{{ '/courses/the-four-abodes/session-2/' | relative_url }}">
+            <div class="wk">2</div>
+            <div class="ti">What Actually Leads to Divinity's Company<small>Replacing an unverifiable credential with something demonstrable</small><div class="fa-l-sutta">DN 13 &middot; the Knowledge of the Three Vedas</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="fa-l-row live" href="{{ '/courses/the-four-abodes/session-3/' | relative_url }}">
+            <div class="wk">3</div>
+            <div class="ti">Four Distinct Doors<small>Why the four abodes are not interchangeable</small><div class="fa-l-sutta">SN 46.54 &middot; Full of Love</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="fa-l-row live" href="{{ '/courses/the-four-abodes/session-4/' | relative_url }}">
+            <div class="wk">4</div>
+            <div class="ti">The Benefits of Love<small>Eleven concrete, checkable results of keeping the practice up</small><div class="fa-l-sutta">AN 11.15 &middot; the Benefits of Love</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="fa-l-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="fa-l-card">
+          <ul>
+            <li><b>Nothing to buy.</b> Every sutta is on this site in full, in Bhikkhu Sujato's CC0 translation, with its own reading guide and quiz.</li>
+            <li><b>No prior course required.</b> This course stands on its own, though <a href="{{ '/courses/the-three-fires/' | relative_url }}" style="color:var(--c1);font-weight:700;">The Three Fires</a> is a natural companion for readers who want the parallel psychology of what these four abodes are actually working against.</li>
+            <li><b>A willingness to actually practice, not only read.</b> Every assignment in this course asks you to try the radiating instruction, track a real benefit, or audit your own ethical floor — not only analyze the text.</li>
+            <li><b>Openness to an uncomfortable session.</b> Session 2 directly challenges a religious authority claim on its own terms. Read it as the sutta itself argues, not as an attack on any tradition.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="fa-l-actions" data-rv>
+        <a class="fa-l-btn primary" href="{{ '/courses/the-four-abodes/session-1/' | relative_url }}">Begin Session 1 &rarr;</a>
+        <a class="fa-l-btn ghost" href="{{ '/courses/the-three-fires/' | relative_url }}">See The Three Fires</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="fa-l-teacher" data-rv>
+        <div class="q">"Dependent Origination and the three fires explain what's wrong. This course is where I send students who ask what to actually do instead — and I still find it striking that the Buddha's answer to a religious authority claim was never 'believe me instead,' but 'radiate this, in every direction, and see what changes.' That is a teaching method as much as a practice, and it belongs in a school as much as in a meditation hall."</div>
+        <div class="who">&mdash; Luke Lin, instructor &middot; Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.fa-l');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
