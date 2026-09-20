@@ -19,8 +19,11 @@ abhidharma:
 theravada:
   # Live works on /theravada/. Visuddhimagga: 23/23 chapters complete.
   # Abhidhamma (Abhidhammattha Saṅgaha): all 9/9 chapters complete as
-  # of 2026-09-19, translated directly from the Pāli.
-  live_texts: 2
+  # of 2026-09-19, translated directly from the Pāli. Therī-apadāna:
+  # vagga 1 of 4 complete as of 2026-09-20, translated directly from
+  # the Pāli (no accessible English translation existed on the open
+  # web for this text before this).
+  live_texts: 3
 
 sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
