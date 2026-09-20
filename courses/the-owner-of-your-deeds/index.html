@@ -1,0 +1,245 @@
+---
+layout: default
+title: The Owner of Your Deeds
+permalink: /courses/the-owner-of-your-deeds/
+excerpt: Four suttas on kamma as a mechanism, not a system of external judgment — from the definition of kamma as intention, through why people differ, to why the same visible result can hide entirely different causes, to the one deed that ends the mechanism entirely.
+---
+
+<style>
+  .kd-l{--c1:#6b4a35;--c2:#43301f;--c3:#1c130c;--gold:#d9b46a;--gold-deep:#9d7526;
+      --amber:#b8862e;--amber-deep:#5c3f12;
+      --cream:#f8f5f2;--ink:#251f1a;--ink-soft:#6b5f54;--line:#e6ddd2;}
+  .kd-l *{box-sizing:border-box;}
+  .kd-l-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .kd-l [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .kd-l [data-rv].in{opacity:1;transform:none;}
+
+  .kd-l-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .kd-l-crumb .kd-l-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .kd-l-crumb a{color:var(--c1);text-decoration:none;}
+  .kd-l-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .kd-l-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 80% 10%,rgba(217,180,106,.20),transparent 62%),
+      linear-gradient(158deg,#6b4a35 0%,#43301f 46%,#1c130c 100%);}
+  .kd-l-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .kd-l-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .kd-l-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .kd-l-hero .subt{font-style:italic;font-size:19px;color:#ecdfd2;max-width:44ch;}
+  .kd-l-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .kd-l-facts span{font-size:13px;color:#ecdfd2;border:1px solid rgba(217,180,106,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .kd-l-body{background:#fff;padding:56px 0 20px;}
+  .kd-l-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .kd-l-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--c1);}
+  .kd-l-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .kd-l-sec{margin:46px 0;}
+  .kd-l-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--c1);margin-bottom:12px;}
+
+  .kd-l-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#6b4a35 0%,#43301f 48%,#1c130c 100%);color:#ecdfd2;
+    box-shadow:0 26px 52px -30px rgba(28,19,12,.75);}
+  .kd-l-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .kd-l-promise .q em{color:var(--gold);font-style:italic;}
+  .kd-l-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .kd-l-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .kd-l-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .kd-l-obj li b{color:var(--c1);}
+  .kd-l-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--c1);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .kd-l-rhythm{display:grid;gap:10px;grid-template-columns:repeat(2,1fr);margin-top:8px;}
+  @media(min-width:700px){.kd-l-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .kd-l-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 9px;}
+  .kd-l-rc .n{font-family:'Playfair Display',serif;color:var(--c1);font-weight:700;font-size:15px;}
+  .kd-l-rc b{display:block;color:var(--ink);font-size:13.5px;margin:4px 0 2px;}
+  .kd-l-rc span{font-size:11.5px;color:var(--ink-soft);line-height:1.4;}
+
+  .kd-l-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .kd-l-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .kd-l-row:last-child{border-bottom:none;}
+  .kd-l-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--c1);text-align:center;}
+  .kd-l-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .kd-l-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .kd-l-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .kd-l-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .kd-l-row.live:hover{background:#fbf8f5;padding-left:26px;}
+  .kd-l-row.live .st{background:var(--c1);color:#fff;}
+  @media(max-width:560px){
+    .kd-l-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .kd-l-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .kd-l-row.live:hover{padding-left:20px;}
+  }
+  .kd-l-sutta{font-size:12.5px;color:var(--amber-deep);font-weight:700;margin-top:2px;}
+
+  .kd-l-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .kd-l-card ul{margin:6px 0 0;padding-left:20px;}
+  .kd-l-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .kd-l-card li b{color:var(--c1);}
+
+  .kd-l-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .kd-l-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .kd-l-btn.primary{background:linear-gradient(158deg,#6b4a35,#1c130c);color:#fff;box-shadow:0 14px 30px -16px rgba(28,19,12,.85);}
+  .kd-l-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(28,19,12,.95);}
+  .kd-l-btn.ghost{border:1.5px solid var(--c1);color:var(--c1);}
+  .kd-l-btn.ghost:hover{background:var(--c1);color:#fff;text-decoration:none;}
+
+  .kd-l-teacher{background:var(--c3);color:#d9c8b8;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .kd-l-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .kd-l-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="kd-l">
+
+  <nav class="kd-l-crumb"><div class="kd-l-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> &rarr; <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; The Owner of Your Deeds</div></nav>
+
+  <!-- HERO -->
+  <section class="kd-l-hero">
+    <div class="kd-l-hero-in">
+      <div class="kd-l-eyebrow">Ru-Yi Academy &middot; Course &middot; Kamma as Mechanism, Not Judgment</div>
+      <h1>The Owner of Your Deeds</h1>
+      <div class="subt">業與轉世 &mdash; kamma read as causal fit, not as fate or a cosmic ledger of reward and punishment</div>
+      <div class="kd-l-facts">
+        <span>4 sessions &middot; all live</span>
+        <span>No prior course required</span>
+        <span>Taught in English</span>
+        <span>Free &middot; every text on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="kd-l-body">
+    <div class="kd-l-wrap">
+
+      <p class="kd-l-lede first" data-rv>"Sentient beings are the owners of their deeds and heir to their deeds." This course reads four suttas that unpack that single sentence — first defining exactly what a "deed" technically is, then showing the pattern it produces, then showing the pattern's own honest limits, and finally showing the one deed that ends the mechanism entirely.</p>
+
+      <p data-rv>Kamma is one of the most casually used and least carefully understood words to cross over from Buddhism into everyday English. This course reads it the way the earliest texts actually present it: not fate, not a system of external reward and punishment, but a mechanism of causal fit — and one with real, stated limits on how confidently anyone, however psychically gifted, is entitled to reason from a single observed case.</p>
+
+      <div class="kd-l-promise" data-rv>
+        <p class="q">Not a cosmic ledger kept by someone else. <em>A mechanism of your own intentions, working exactly the way a shape produces a matching shadow.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- WHERE THE TEXTS COME FROM -->
+      <div class="kd-l-sec" data-rv>
+        <div class="lbl">Where the texts come from</div>
+        <p style="margin:0;">All four suttas are read in full on this site, in Bhikkhu Sujato's complete CC0 translation of the Pali Canon, each with its own structured reading guide, full text, and ten-question self-check quiz. Readers who have completed <a href="{{ '/theravada/abhidhamma/vithimutta-sangaha/' | relative_url }}" style="color:var(--c1);font-weight:700;">the Abhidhamma's chapter on process-freed consciousness</a> will recognize the same subject — kamma's role in death and rebirth-linking — treated there with full technical precision; this course reads the same mechanism from the sutta side, in the Buddha's own working examples.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="kd-l-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="kd-l-obj">
+          <li>State the <b>technical definition of kamma</b> as intention — not the bare physical or verbal act — and explain why the channel (body, speech, or mind) doesn't change what makes a choice count as kamma.</li>
+          <li>Explain the <b>seven paired tendencies</b> linking conduct to visible traits, and — just as importantly — state the sutta's own explicit limit on how far that pattern extends.</li>
+          <li>Distinguish <b>granting a particular observed case</b> from <b>granting a universal law built on it</b> — the single most important epistemic skill in this entire course, and one that reaches well beyond the topic of kamma.</li>
+          <li>Explain why the <b>fourth kind of deed</b> is still, unmistakably, a kind of deed — and why that distinction is what separates renunciation from mere inaction.</li>
+          <li>Respond responsibly to the casual, harmful use of <b>"it's their karma"</b> to dismiss someone's suffering as deserved.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="kd-l-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Five steps, every session — read the sutta itself in full partway through, not as an afterthought.</p>
+        <div class="kd-l-rhythm">
+          <div class="kd-l-rc"><div class="n">1</div><b>Lecture Notes</b><span>The mechanism, framed</span></div>
+          <div class="kd-l-rc"><div class="n">2</div><b>Primary Text</b><span>Read the full sutta</span></div>
+          <div class="kd-l-rc"><div class="n">3</div><b>Discussion</b><span>Four questions</span></div>
+          <div class="kd-l-rc"><div class="n">4</div><b>Assignment</b><span>Apply it once</span></div>
+          <div class="kd-l-rc"><div class="n">5</div><b>Self-Check</b><span>The sutta's own quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="kd-l-sec" data-rv>
+        <div class="lbl">Four sessions</div>
+        <p style="margin:0 0 14px;">All four sessions are live. The order builds from definition, to pattern, to the pattern's own limit, to the mechanism's exit.</p>
+        <div class="kd-l-sched">
+
+          <a class="kd-l-row live" href="{{ '/courses/the-owner-of-your-deeds/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Intention Is Kamma<small>The definition everything else in this course builds on</small><div class="kd-l-sutta">AN 6.63 &middot; Penetrative</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="kd-l-row live" href="{{ '/courses/the-owner-of-your-deeds/session-2/' | relative_url }}">
+            <div class="wk">2</div>
+            <div class="ti">Why People Differ<small>Seven paired tendencies, and their own honest limit</small><div class="kd-l-sutta">MN 135 &middot; the Shorter Analysis of Deeds</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="kd-l-row live" href="{{ '/courses/the-owner-of-your-deeds/session-3/' | relative_url }}">
+            <div class="wk">3</div>
+            <div class="ti">Why the Same Deed Doesn't Always Lead to the Same Result<small>The limit of inference, even from what you've witnessed yourself</small><div class="kd-l-sutta">MN 136 &middot; the Longer Analysis of Deeds</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="kd-l-row live" href="{{ '/courses/the-owner-of-your-deeds/session-4/' | relative_url }}">
+            <div class="wk">4</div>
+            <div class="ti">The Deed That Ends All Deeds<small>The mechanism's own exit door</small><div class="kd-l-sutta">AN 4.233 &middot; Deeds in Detail</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="kd-l-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="kd-l-card">
+          <ul>
+            <li><b>Nothing to buy.</b> Every sutta is on this site in full, in Bhikkhu Sujato's CC0 translation, with its own reading guide and quiz.</li>
+            <li><b>No prior course required</b>, though <a href="{{ '/theravada/abhidhamma/vithimutta-sangaha/' | relative_url }}" style="color:var(--c1);font-weight:700;">the Abhidhamma's chapter on process-freed consciousness</a> is a natural companion for the full technical account of death and rebirth-linking.</li>
+            <li><b>Willingness to sit with genuine complexity.</b> Session 3 deliberately unsettles Session 2's tidy pattern before resolving it — the discomfort in between is part of the teaching.</li>
+            <li><b>Care with how this gets applied to real people.</b> Every session in this course returns to the same caution: a general tendency is not a verdict on any individual's specific suffering.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="kd-l-actions" data-rv>
+        <a class="kd-l-btn primary" href="{{ '/courses/the-owner-of-your-deeds/session-1/' | relative_url }}">Begin Session 1 &rarr;</a>
+        <a class="kd-l-btn ghost" href="{{ '/theravada/abhidhamma/vithimutta-sangaha/' | relative_url }}">Read the Abhidhamma's account first</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="kd-l-teacher" data-rv>
+        <div class="q">"I have heard 'karma' used to explain away someone's poverty or illness more times than I can count, usually by people who would never actually sit down and read what the texts say. What struck me most, building this course, was how careful the Buddha himself is about exactly this — granting the pattern, refusing the verdict on any one person. That carefulness is the part worth teaching, more than the doctrine itself."</div>
+        <div class="who">&mdash; Luke Lin, instructor &middot; Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.kd-l');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
