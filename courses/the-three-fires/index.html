@@ -1,0 +1,255 @@
+---
+layout: default
+title: The Three Fires
+permalink: /courses/the-three-fires/
+excerpt: Six suttas on the psychology of greed, hatred, and delusion — from the mechanism that lets them arise, through all three named as one fire, to each taken singly, to the shortest definition of their ending in the whole Pali Canon.
+---
+
+<style>
+  .tf-l{--c1:#8c1f2e;--c2:#5c141f;--c3:#260810;--gold:#d9b46a;--gold-deep:#9d7526;
+      --amber:#b8862e;--amber-deep:#5c3f12;
+      --cream:#f8f3f2;--ink:#241a1a;--ink-soft:#6b5957;--line:#e8d9d7;}
+  .tf-l *{box-sizing:border-box;}
+  .tf-l-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .tf-l [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .tf-l [data-rv].in{opacity:1;transform:none;}
+
+  .tf-l-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .tf-l-crumb .tf-l-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .tf-l-crumb a{color:var(--c1);text-decoration:none;}
+  .tf-l-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .tf-l-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 80% 10%,rgba(217,180,106,.20),transparent 62%),
+      linear-gradient(158deg,#8c1f2e 0%,#5c141f 46%,#260810 100%);}
+  .tf-l-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .tf-l-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .tf-l-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .tf-l-hero .subt{font-style:italic;font-size:19px;color:#f0dbd8;max-width:44ch;}
+  .tf-l-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .tf-l-facts span{font-size:13px;color:#f0dbd8;border:1px solid rgba(217,180,106,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .tf-l-body{background:#fff;padding:56px 0 20px;}
+  .tf-l-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .tf-l-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--c1);}
+  .tf-l-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .tf-l-sec{margin:46px 0;}
+  .tf-l-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--c1);margin-bottom:12px;}
+
+  .tf-l-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#8c1f2e 0%,#5c141f 48%,#260810 100%);color:#f0dbd8;
+    box-shadow:0 26px 52px -30px rgba(38,8,16,.75);}
+  .tf-l-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .tf-l-promise .q em{color:var(--gold);font-style:italic;}
+  .tf-l-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .tf-l-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .tf-l-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .tf-l-obj li b{color:var(--c1);}
+  .tf-l-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--c1);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .tf-l-rhythm{display:grid;gap:10px;grid-template-columns:repeat(2,1fr);margin-top:8px;}
+  @media(min-width:700px){.tf-l-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .tf-l-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 9px;}
+  .tf-l-rc .n{font-family:'Playfair Display',serif;color:var(--c1);font-weight:700;font-size:15px;}
+  .tf-l-rc b{display:block;color:var(--ink);font-size:13.5px;margin:4px 0 2px;}
+  .tf-l-rc span{font-size:11.5px;color:var(--ink-soft);line-height:1.4;}
+
+  .tf-l-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .tf-l-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .tf-l-row:last-child{border-bottom:none;}
+  .tf-l-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--c1);text-align:center;}
+  .tf-l-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .tf-l-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .tf-l-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .tf-l-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .tf-l-row.live:hover{background:#fdf6f5;padding-left:26px;}
+  .tf-l-row.live .st{background:var(--c1);color:#fff;}
+  @media(max-width:560px){
+    .tf-l-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .tf-l-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .tf-l-row.live:hover{padding-left:20px;}
+  }
+  .tf-l-sutta{font-size:12.5px;color:var(--amber-deep);font-weight:700;margin-top:2px;}
+
+  .tf-l-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .tf-l-card ul{margin:6px 0 0;padding-left:20px;}
+  .tf-l-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .tf-l-card li b{color:var(--c1);}
+
+  .tf-l-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .tf-l-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .tf-l-btn.primary{background:linear-gradient(158deg,#8c1f2e,#260810);color:#fff;box-shadow:0 14px 30px -16px rgba(38,8,16,.85);}
+  .tf-l-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(38,8,16,.95);}
+  .tf-l-btn.ghost{border:1.5px solid var(--c1);color:var(--c1);}
+  .tf-l-btn.ghost:hover{background:var(--c1);color:#fff;text-decoration:none;}
+
+  .tf-l-teacher{background:var(--c3);color:#e0c5c1;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .tf-l-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .tf-l-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="tf-l">
+
+  <nav class="tf-l-crumb"><div class="tf-l-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> &rarr; <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; The Three Fires</div></nav>
+
+  <!-- HERO -->
+  <section class="tf-l-hero">
+    <div class="tf-l-hero-in">
+      <div class="tf-l-eyebrow">Ru-Yi Academy &middot; Course &middot; The Psychology of the Three Roots</div>
+      <h1>The Three Fires</h1>
+      <div class="subt">三把火 &mdash; greed, hatred, and delusion, read as a mechanism rather than a list of sins</div>
+      <div class="tf-l-facts">
+        <span>6 sessions &middot; all live</span>
+        <span>No prior course required</span>
+        <span>Taught in English</span>
+        <span>Free &middot; every text on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="tf-l-body">
+    <div class="tf-l-wrap">
+
+      <p class="tf-l-lede first" data-rv>Greed, hatred, and delusion are usually presented as a list of things to feel bad about. This course reads six suttas that treat them instead as a mechanism — something with a specific point of entry, specific methods for working with it, and, according to one of the shortest definitions in the entire Pali Canon, a specific and complete way of ending.</p>
+
+      <p data-rv>The course moves in a deliberate order: first the mechanism underneath all three (what makes any of them arise at all), then all three named together as a single burning, then each fire taken alone — greed, then hatred, then delusion — and finally the shortest possible definition of their ending, arrived at in one breath by one of the Buddha's chief disciples.</p>
+
+      <div class="tf-l-promise" data-rv>
+        <p class="q">Not <em>why these are bad</em>. <em>How they actually work</em> — and what specifically ends them.</p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <!-- WHERE THE TEXTS COME FROM -->
+      <div class="tf-l-sec" data-rv>
+        <div class="lbl">Where the texts come from</div>
+        <p style="margin:0;">All six suttas are read in full on this site, in Bhikkhu Sujato's complete CC0 translation of the Pali Canon, each with its own structured reading guide, full text, and ten-question self-check quiz. Readers who have completed <a href="{{ '/theravada/abhidhamma/cetasika-sangaha/' | relative_url }}" style="color:var(--c1);font-weight:700;">the Abhidhamma's chapter on mental factors</a> will recognize greed, hatred, and delusion as the three unwholesome roots (akusala-hetu) analyzed there in full technical detail — this course reads the same three roots from the sutta side, in the Buddha's own working examples rather than the Abhidhamma's classification.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="tf-l-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="tf-l-obj">
+          <li>Explain the <b>attention mechanism</b> (rational versus irrational attention) that determines whether greed, hatred, or delusion arise or fade — the single idea underneath every other session.</li>
+          <li>Name a <b>specific method</b> for each of the three fires, drawn from the Buddha's own direct answers rather than general encouragement to "let go."</li>
+          <li>Read four suttas from three different nikāyas <b>closely enough to notice a single thread</b> — the āsavas of Session 1 recurring, by name, inside Session 5's account of dependent origination.</li>
+          <li>Hold the <b>Abhidhamma's technical account</b> of these three roots and the <b>suttas' practical account</b> of the same three roots side by side, as two views of one subject rather than two unrelated subjects.</li>
+          <li>Arrive, by the final session, at the <b>shortest definition of the goal</b> in the whole course — and understand why five sessions of method were needed to make one sentence fully land.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="tf-l-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Five steps, every session — read the sutta itself in full partway through, not as an afterthought.</p>
+        <div class="tf-l-rhythm">
+          <div class="tf-l-rc"><div class="n">1</div><b>Lecture Notes</b><span>The mechanism, framed</span></div>
+          <div class="tf-l-rc"><div class="n">2</div><b>Primary Text</b><span>Read the full sutta</span></div>
+          <div class="tf-l-rc"><div class="n">3</div><b>Discussion</b><span>Four questions</span></div>
+          <div class="tf-l-rc"><div class="n">4</div><b>Assignment</b><span>Apply it once</span></div>
+          <div class="tf-l-rc"><div class="n">5</div><b>Self-Check</b><span>The sutta's own quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="tf-l-sec" data-rv>
+        <div class="lbl">Six sessions</div>
+        <p style="margin:0 0 14px;">All six sessions are live. The order builds from mechanism, to all three fires at once, to each one alone, to the shortest possible definition of their ending.</p>
+        <div class="tf-l-sched">
+
+          <a class="tf-l-row live" href="{{ '/courses/the-three-fires/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Where Defilements Actually Come From<small>The attention mechanism underneath all three fires</small><div class="tf-l-sutta">MN 2 &middot; All the Defilements</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tf-l-row live" href="{{ '/courses/the-three-fires/session-2/' | relative_url }}">
+            <div class="wk">2</div>
+            <div class="ti">Everything Is Burning<small>All three fires, named together, before being split apart</small><div class="tf-l-sutta">SN 35.28 &middot; Burning</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tf-l-row live" href="{{ '/courses/the-three-fires/session-3/' | relative_url }}">
+            <div class="wk">3</div>
+            <div class="ti">Removing Greed<small>A blunt question, and the eightfold path aimed at one target</small><div class="tf-l-sutta">AN 3.71 &middot; With Channa</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tf-l-row live" href="{{ '/courses/the-three-fires/session-4/' | relative_url }}">
+            <div class="wk">4</div>
+            <div class="ti">The Saw<small>Hatred, tested against bandits and a two-handed saw</small><div class="tf-l-sutta">MN 21 &middot; the Simile of the Saw</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tf-l-row live" href="{{ '/courses/the-three-fires/session-5/' | relative_url }}">
+            <div class="wk">5</div>
+            <div class="ti">Seeing Through Delusion<small>A capacity applied sixteen times, not sixteen beliefs to hold</small><div class="tf-l-sutta">MN 9 &middot; Right View</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="tf-l-row live" href="{{ '/courses/the-three-fires/session-6/' | relative_url }}">
+            <div class="wk">6</div>
+            <div class="ti">The Ending of the Fires<small>The shortest definition of the goal in the whole course</small><div class="tf-l-sutta">SN 38.1 &middot; A Question About Extinguishment</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="tf-l-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="tf-l-card">
+          <ul>
+            <li><b>Nothing to buy.</b> Every sutta is on this site in full, in Bhikkhu Sujato's CC0 translation, with its own reading guide and quiz.</li>
+            <li><b>No prior course required</b>, though <a href="{{ '/theravada/abhidhamma/cetasika-sangaha/' | relative_url }}" style="color:var(--c1);font-weight:700;">the Abhidhamma's chapter on mental factors</a> is a natural companion if you want the technical classification alongside these practical examples.</li>
+            <li><b>A willingness to look at your own mind, not just the text.</b> Every assignment asks for a real, specific instance of greed, hatred, or delusion from your own recent experience — not a hypothetical one.</li>
+            <li><b>Patience with the fourth session.</b> MN 21's saw simile is one of the most demanding passages in the whole canon. It rewards a slow, careful reading rather than a quick one.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="tf-l-actions" data-rv>
+        <a class="tf-l-btn primary" href="{{ '/courses/the-three-fires/session-1/' | relative_url }}">Begin Session 1 &rarr;</a>
+        <a class="tf-l-btn ghost" href="{{ '/theravada/abhidhamma/cetasika-sangaha/' | relative_url }}">Read the Abhidhamma's account first</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="tf-l-teacher" data-rv>
+        <div class="q">"I have taught greed, hatred, and delusion as a moral checklist for most of my life — three things to feel guilty about and try harder against. What changed for me, reading these six suttas together, was realizing the Buddha never teaches them that way. He teaches a mechanism, with an entry point and a method, the way you'd teach any other skill. That reframing is worth more to a working teacher than another list of virtues to aspire to."</div>
+        <div class="who">&mdash; Luke Lin, instructor &middot; Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.tf-l');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>
