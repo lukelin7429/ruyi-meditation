@@ -1,0 +1,249 @@
+---
+layout: default
+title: At the Bedside
+permalink: /courses/at-the-bedside/
+excerpt: Four suttas on death and end-of-life care — from the twice-daily discipline of preparing for your own death, through what actually helps the grieving, to the fullest teaching a dying householder was ever offered, to a family sitting together at a death that went well.
+---
+
+<style>
+  .dd-l{--c1:#23283a;--c2:#14161f;--c3:#08090c;--gold:#d9b46a;--gold-deep:#9d7526;
+      --amber:#b8862e;--amber-deep:#5c3f12;
+      --cream:#f4f4f6;--ink:#1c1e26;--ink-soft:#5c5f6c;--line:#dfe0e6;}
+  .dd-l *{box-sizing:border-box;}
+  .dd-l-wrap{max-width:900px;margin:0 auto;padding:0 26px;}
+
+  .js .dd-l [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .dd-l [data-rv].in{opacity:1;transform:none;}
+
+  .dd-l-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dd-l-crumb .dd-l-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:900px;}
+  .dd-l-crumb a{color:var(--c1);text-decoration:none;}
+  .dd-l-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .dd-l-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 95% at 80% 10%,rgba(217,180,106,.16),transparent 62%),
+      linear-gradient(158deg,#23283a 0%,#14161f 46%,#08090c 100%);}
+  .dd-l-hero-in{position:relative;max-width:900px;margin:0 auto;padding:70px 26px 62px;z-index:2;}
+  .dd-l-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .dd-l-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 8px;}
+  .dd-l-hero .subt{font-style:italic;font-size:19px;color:#dfe0e8;max-width:44ch;}
+  .dd-l-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .dd-l-facts span{font-size:13px;color:#dfe0e8;border:1px solid rgba(217,180,106,.42);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .dd-l-body{background:#fff;padding:56px 0 20px;}
+  .dd-l-lede{font-size:18px;line-height:1.76;color:var(--ink);}
+  .dd-l-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--c1);}
+  .dd-l-body p{font-size:16.5px;line-height:1.74;color:var(--ink-soft);}
+
+  .dd-l-sec{margin:46px 0;}
+  .dd-l-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--c1);margin-bottom:12px;}
+
+  .dd-l-promise{position:relative;overflow:hidden;border-radius:18px;padding:32px 34px;margin:34px 0 4px;
+    background:linear-gradient(158deg,#23283a 0%,#14161f 48%,#08090c 100%);color:#dfe0e8;
+    box-shadow:0 26px 52px -30px rgba(8,9,12,.8);}
+  .dd-l-promise .q{font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(19px,2.8vw,23px);line-height:1.5;color:#fff;margin:0;}
+  .dd-l-promise .q em{color:var(--gold);font-style:italic;}
+  .dd-l-promise .sig{margin-top:14px;font-size:13.5px;letter-spacing:.06em;color:var(--gold);}
+
+  .dd-l-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .dd-l-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.58;color:var(--ink);}
+  .dd-l-obj li b{color:var(--c1);}
+  .dd-l-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--c1);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .dd-l-rhythm{display:grid;gap:10px;grid-template-columns:repeat(2,1fr);margin-top:8px;}
+  @media(min-width:700px){.dd-l-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .dd-l-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 9px;}
+  .dd-l-rc .n{font-family:'Playfair Display',serif;color:var(--c1);font-weight:700;font-size:15px;}
+  .dd-l-rc b{display:block;color:var(--ink);font-size:13.5px;margin:4px 0 2px;}
+  .dd-l-rc span{font-size:11.5px;color:var(--ink-soft);line-height:1.4;}
+
+  .dd-l-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .dd-l-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .dd-l-row:last-child{border-bottom:none;}
+  .dd-l-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--c1);text-align:center;}
+  .dd-l-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .dd-l-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .dd-l-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .dd-l-row.live{background:#fff;transition:background .2s,padding-left .25s;}
+  .dd-l-row.live:hover{background:#f8f8fa;padding-left:26px;}
+  .dd-l-row.live .st{background:var(--c1);color:#fff;}
+  @media(max-width:560px){
+    .dd-l-row{grid-template-columns:32px 1fr;gap:12px;padding:14px 16px;}
+    .dd-l-row .st{grid-column:2;justify-self:start;margin-top:8px;}
+    .dd-l-row.live:hover{padding-left:20px;}
+  }
+  .dd-l-sutta{font-size:12.5px;color:var(--amber-deep);font-weight:700;margin-top:2px;}
+
+  .dd-l-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .dd-l-card ul{margin:6px 0 0;padding-left:20px;}
+  .dd-l-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .dd-l-card li b{color:var(--c1);}
+
+  .dd-l-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .dd-l-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .dd-l-btn.primary{background:linear-gradient(158deg,#23283a,#08090c);color:#fff;box-shadow:0 14px 30px -16px rgba(8,9,12,.9);}
+  .dd-l-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(8,9,12,.95);}
+  .dd-l-btn.ghost{border:1.5px solid var(--c1);color:var(--c1);}
+  .dd-l-btn.ghost:hover{background:var(--c1);color:#fff;text-decoration:none;}
+
+  .dd-l-teacher{background:var(--c3);color:#c2c4cc;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .dd-l-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .dd-l-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+
+  .dd-l-note{border-left:4px solid var(--gold);background:var(--cream);padding:18px 22px;border-radius:0 12px 12px 0;font-size:15px;line-height:1.65;color:var(--ink-soft);margin:20px 0;}
+</style>
+
+<div class="dd-l">
+
+  <nav class="dd-l-crumb"><div class="dd-l-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> &rarr; <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; At the Bedside</div></nav>
+
+  <!-- HERO -->
+  <section class="dd-l-hero">
+    <div class="dd-l-hero-in">
+      <div class="dd-l-eyebrow">Ru-Yi Academy &middot; Course &middot; Death and End-of-Life Care</div>
+      <h1>At the Bedside</h1>
+      <div class="subt">死亡與臨終關懷 &mdash; preparing, consoling, counseling, and witnessing, across four suttas</div>
+      <div class="dd-l-facts">
+        <span>4 sessions &middot; all live</span>
+        <span>No prior course required</span>
+        <span>Taught in English</span>
+        <span>Free &middot; every text on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dd-l-body">
+    <div class="dd-l-wrap">
+
+      <p class="dd-l-lede first" data-rv>This course moves outward, one session at a time: first to your own death, prepared for twice a day as ordinary discipline; then to the grief of someone left behind after a death has already happened; then to a dying person still able to receive a teaching, in real and undisguised pain; and finally to a family, together, at a death that — by the tradition's own account — went well.</p>
+
+      <p data-rv>Nothing here is abstract. Every session reads a specific, named person — Anāthapiṇḍika, Dīghāvu, the unnamed mourners of the Dart's verses — rather than a general philosophy of impermanence. This is meant to be useful the next time you are actually present with someone facing death, your own or someone else's.</p>
+
+      <div class="dd-l-promise" data-rv>
+        <p class="q">Not a philosophy of death in general. <em>What to actually do, the next time you're in the room.</em></p>
+        <div class="sig">The promise of this course</div>
+      </div>
+
+      <div class="dd-l-note" data-rv><b>A note before you begin:</b> this course reads pain and grief plainly, without euphemism, in keeping with how the source texts themselves handle it. If you are currently grieving a recent loss or supporting someone gravely ill, you may want to move through this course slowly, or with someone else present.</div>
+
+      <!-- WHERE THE TEXTS COME FROM -->
+      <div class="dd-l-sec" data-rv>
+        <div class="lbl">Where the texts come from</div>
+        <p style="margin:0;">All four suttas are read in full on this site, in Bhikkhu Sujato's complete CC0 translation of the Pali Canon, each with its own structured reading guide, full text, and ten-question self-check quiz. This course adds a single connecting thread across four discourses; it does not retranslate anything.</p>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="dd-l-sec" data-rv>
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="dd-l-obj">
+          <li>Practice the <b>twice-daily mindfulness-of-death discipline</b> as an actual habit, not only an idea encountered once.</li>
+          <li>Distinguish <b>feeling loss from prolonged lamentation</b>, and explain why the tradition treats them differently.</li>
+          <li>Explain why a dying person may be owed <b>the fullest teaching available</b>, not a simplified one — and what that means for how you'd show up at a bedside.</li>
+          <li>Describe, from a specific textual example, what <b>active, real-time support</b> during a death actually looked like — message, visit, teaching, confirmation, family presence.</li>
+          <li>Carry <b>one specific practice</b> from this course — the twice-daily check, the dart image, or the four-factors confirmation — into your own life or community role.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="dd-l-sec" data-rv>
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Five steps, every session — read the sutta itself in full partway through, not as an afterthought.</p>
+        <div class="dd-l-rhythm">
+          <div class="dd-l-rc"><div class="n">1</div><b>Lecture Notes</b><span>The idea, framed</span></div>
+          <div class="dd-l-rc"><div class="n">2</div><b>Primary Text</b><span>Read the full sutta</span></div>
+          <div class="dd-l-rc"><div class="n">3</div><b>Discussion</b><span>Four questions</span></div>
+          <div class="dd-l-rc"><div class="n">4</div><b>Assignment</b><span>Apply it once</span></div>
+          <div class="dd-l-rc"><div class="n">5</div><b>Self-Check</b><span>The sutta's own quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="dd-l-sec" data-rv>
+        <div class="lbl">Four sessions</div>
+        <p style="margin:0 0 14px;">All four sessions are live. The order moves outward: your own death, someone else's grief, someone actively dying, and a death witnessed well.</p>
+        <div class="dd-l-sched">
+
+          <a class="dd-l-row live" href="{{ '/courses/at-the-bedside/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Twice a Day<small>Preparing for your own death, before it's urgent</small><div class="dd-l-sutta">AN 6.20 &middot; Mindfulness of Death</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="dd-l-row live" href="{{ '/courses/at-the-bedside/session-2/' | relative_url }}">
+            <div class="wk">2</div>
+            <div class="ti">The Dart<small>What actually helps someone grieving a death that's already happened</small><div class="dd-l-sutta">Snp 3.8 &middot; the Dart</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="dd-l-row live" href="{{ '/courses/at-the-bedside/session-3/' | relative_url }}">
+            <div class="wk">3</div>
+            <div class="ti">Advice to Anāthapiṇḍika<small>Counseling someone who is actively dying, in real pain</small><div class="dd-l-sutta">MN 143 &middot; Advice to Anāthapiṇḍika</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+          <a class="dd-l-row live" href="{{ '/courses/at-the-bedside/session-4/' | relative_url }}">
+            <div class="wk">4</div>
+            <div class="ti">With Dīghāvu<small>What a well-supported death actually looked like</small><div class="dd-l-sutta">SN 55.3 &middot; With Dīghāvu</div></div>
+            <div class="st">Open &rarr;</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="dd-l-sec" data-rv>
+        <div class="lbl">What you'll need</div>
+        <div class="dd-l-card">
+          <ul>
+            <li><b>Nothing to buy.</b> Every sutta is on this site in full, in Bhikkhu Sujato's CC0 translation, with its own reading guide and quiz.</li>
+            <li><b>No prior course required.</b> This course stands on its own.</li>
+            <li><b>A quiet, unhurried setting for Session 3.</b> Its description of physical pain is direct, in keeping with the source text.</li>
+            <li><b>Willingness to actually practice the twice-daily discipline in Session 1</b>, not only read about it once.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="dd-l-actions" data-rv>
+        <a class="dd-l-btn primary" href="{{ '/courses/at-the-bedside/session-1/' | relative_url }}">Begin Session 1 &rarr;</a>
+        <a class="dd-l-btn ghost" href="{{ '/theravada/visuddhimagga/' | relative_url }}">Browse the Visuddhimagga</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="dd-l-teacher" data-rv>
+        <div class="q">"I've sat with dying members of my own community more times than I expected to, when I first started teaching. Nothing prepares you for the actual room. What these four suttas gave me, building this course, wasn't comfort exactly — it was specific, concrete things to actually do: a twice-daily discipline, a clear-eyed account of what helps grief and what doesn't, permission to not simplify the teaching for someone dying, and one full, unhurried account of a death that was genuinely well supported. That is what I wanted to hand to the next teacher who finds themselves in that room."</div>
+        <div class="who">&mdash; Luke Lin, instructor &middot; Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.dd-l');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+</script>

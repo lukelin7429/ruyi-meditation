@@ -1,0 +1,187 @@
+---
+layout: default
+title: "Session 2 · The Dart (At the Bedside)"
+permalink: /courses/at-the-bedside/session-2/
+excerpt: "Session 2 of At the Bedside — Death comes to everyone without exception, grief cannot reach or help the dead, and someone who wants their own happiness should deliberately pluck out the dart of sorrow rather than let it fester."
+---
+
+<style>
+  .dd{--c1:#23283a;--c2:#14161f;--c3:#08090c;--gold:#d9a441;--gold-deep:#b8862e;
+      --amber:#b8862e;--amber-deep:#96691f;--amber-dark:#5c3f12;
+      --cream:#f4f4f6;--ink:#1c1e26;--ink-soft:#5c5f6c;--line:#dfe0e6;}
+  .dd *{box-sizing:border-box;}
+  .dd-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .dd-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dd-crumb .dd-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dd-crumb a{color:var(--c1);text-decoration:none;}
+  .dd-crumb a:hover{text-decoration:underline;}
+
+  .dd-hero{background:linear-gradient(158deg,var(--c1) 0%,var(--c2) 46%,var(--c3) 100%);color:#fff;}
+  .dd-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dd-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .dd-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dd-hero .subt{font-style:italic;font-size:18px;color:#dfe0e8;}
+  .dd-hero .rd{margin-top:22px;font-size:14px;color:#b8bac6;}
+  .dd-hero .rd b{color:var(--gold);}
+
+  .dd-body{background:#fff;padding:44px 0 24px;}
+  .dd-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dd-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dd-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--c1);}
+  .dd-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dd-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dd-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--c2);margin:34px 0 10px;}
+
+  .dd-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--c2);}
+
+  .dd-take{background:linear-gradient(180deg,#f8f8fa,#eaebef);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dd-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--c2);margin-bottom:8px;}
+  .dd-take ul{margin:0;padding-left:20px;}
+  .dd-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .dd-take li b{color:var(--gold-deep);}
+
+  .dd-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,var(--amber) 0%,var(--amber-deep) 45%,var(--amber-dark) 100%);box-shadow:0 26px 50px -28px rgba(0,0,0,.45);transition:transform .3s;}
+  .dd-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dd-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dd-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dd-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dd-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+
+  .dd-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .dd-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .dd-disc li:last-child{border-bottom:none;}
+  .dd-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--c1);font-size:15px;}
+
+  .dd-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .dd-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--amber-deep);margin-bottom:6px;}
+  .dd-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .dd-next{background:var(--c2);color:#dfe0e8;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .dd-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .dd-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .dd-next p{color:#b8bac6;font-size:15.5px;line-height:1.65;margin:0;}
+
+  .dd-done{background:linear-gradient(158deg,var(--amber) 0%,var(--amber-deep) 48%,var(--amber-dark) 100%);color:#fff;border-radius:16px;padding:32px 34px;margin:40px 0 20px;}
+  .dd-done .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:#ffe9c9;font-weight:700;}
+  .dd-done h3{font-family:'Playfair Display',serif;color:#fff;font-size:24px;margin:8px 0 10px;}
+  .dd-done p{color:#fdf0da;font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dd-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dd-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dd-btn.primary{background:linear-gradient(158deg,var(--c1),var(--c2));color:#fff;box-shadow:0 12px 26px -14px rgba(0,0,0,.5);}
+  .dd-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(0,0,0,.6);text-decoration:none;}
+  .dd-btn.ghost{border:1.5px solid var(--c1);color:var(--c1);background:transparent;}
+  .dd-btn.ghost:hover{background:var(--c1);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dd .dd-crumb,.dd-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .dd-hero{background:none;color:#000;padding:0;}
+    .dd-hero-in{padding:0 0 12px;}
+    .dd-eyebrow,.dd-hero .subt,.dd-hero .rd{color:#444;}
+    .dd-hero h1{color:#000;}
+    .dd-body{padding:0;}
+    .dd-body p,.dd-body h3,.dd-part h2,.dd-take li,.dd-disc li{color:#000;}
+    .dd-quote,.dd-take,.dd-opt{background:#fff !important;border:1px solid #bbb;}
+    .dd-next,.dd-done{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dd-next h3,.dd-next p,.dd-next .l,.dd-done h3,.dd-done p,.dd-done .l{color:#000;}
+    .dd{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="dd">
+
+  <nav class="dd-crumb"><div class="dd-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> &rarr; <a href="{{ '/courses/at-the-bedside/' | relative_url }}">At the Bedside</a> &rarr; Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="dd-hero">
+    <div class="dd-hero-in">
+      <div class="dd-eyebrow">Session 2 · What actually helps someone grieving a death that's already happened</div>
+      <h1>The Dart</h1>
+      <div class="subt">箭經 — 哀傷幫不了死者，卻能傷了活人</div>
+      
+    </div>
+  </section>
+
+  <div class="dd-body">
+    <div class="dd-wrap">
+
+      <!-- PART 1 -->
+      <div class="dd-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>Mortality without exception</h3>
+      <p>The poem opens by refusing any exemption: death comes to everyone, without distinction of status, wealth, or virtue. "See how, while relatives look on, wailing profusely, mortals are led away one by one, like a cow to the slaughter." This isn't offered as comfort in itself — it's the necessary first premise for everything that follows, the thing that has to be genuinely accepted before the rest of the teaching can land.</p>
+      <h3>Why grief fails to help the dead</h3>
+      <p>Having established that death cannot be prevented, the poem turns to a sharper, almost clinical claim: grief, once death has happened, accomplishes nothing for the person who died. "Not by weeping and wailing will you find peace of heart. It just gives rise to more suffering, and distresses your body." The mourner grows thin and pale, hurts only themselves, and none of it helps the dead. This is not a claim that loss shouldn't be felt — it's a claim that prolonged lamentation specifically compounds harm without addressing it.</p>
+      <h3>A dart, not a feeling to suppress</h3>
+      <p>The poem's central and title-giving image arrives in its closing verses: "one who seeks their own happiness would pluck out the dart from themselves — the wailing and moaning, and sadness inside." Two further images describe how: put out like a blazing refuge doused with water, or blown away like the wind scattering a tuft of cotton. This is not suppression — a dart left in a wound doesn't heal by being ignored. It's active removal, described with the same urgency Session 1's fire simile used for unfinished spiritual business.</p>
+      <h3>What this means for someone sitting with a grieving person</h3>
+      <p>Read as pastoral guidance rather than only personal consolation, this poem offers a specific, non-obvious stance: the goal, when sitting with someone grieving, is not to deepen the wailing as a form of validation, nor to rush past it, but to help the dart come out — actively, and as its own act of care, not neglect. The poem's closing claim is direct: "overcoming all sorrow, one is sorrowless and quenched" — quenched, <em>nibbuto</em>, the same root as the word for the goal of the entire path.</p>
+
+      <div class="dd-take">
+        <b class="h">Before you read the sutta itself</b>
+        <ul>
+          <li>Universal mortality is the necessary first premise, not the comfort itself. "Death comes to everyone" has to be genuinely accepted before the poem's sharper claim about grief can actually land.</li>
+          <li>Grief, once death has happened, is described as accomplishing nothing for the dead — only harming the living. A clinical, almost uncomfortable claim, and one worth distinguishing carefully from "you shouldn't feel loss."</li>
+          <li>The dart image describes active removal, not suppression. Doused like fire, blown away like cotton — this is presented as its own act of care, applied with urgency, not as ignoring the wound.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="dd-part"><div class="pn">Part 2</div><h2>Primary Text<span class="rf">The full sutta, with its own reading guide and quiz</span></h2></div>
+      <p>Read the sutta now, with Part 1's frame in hand. Its own reading guide goes section by section through the full discourse, and ends with a ten-question self-check.</p>
+      <a class="dd-textcard" href="{{ '/discourses/sutta-nipata/snp-3.8.html' | relative_url }}">
+        <div class="trad">The Sutta Nipāta</div>
+        <h3>Snp 3.8 — The Dart</h3>
+        <p>Death comes to everyone without exception, grief cannot reach or help the dead, and someone who wants their own happiness should deliberately pluck out the dart of sorrow rather than let it fester.</p>
+        <span class="go">Read the sutta &rarr;</span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="dd-part"><div class="pn">Part 3</div><h2>Discussion Questions</h2></div>
+      <ol class="dd-disc">
+        <li>The poem's claim that grief "does nothing to help the dead" is stated almost clinically. Does this feel true to your own experience of loss, or does it feel like it's missing something about why people grieve in the first place?</li>
+        <li>What is the actual difference, in the poem's own terms, between feeling loss and "wailing and moaning" in a way that compounds harm? Where would you draw that line in your own life or in supporting someone else?</li>
+        <li>If you were sitting with a grieving friend or student, what would it concretely look like to help "the dart come out" in the spirit of this poem — as opposed to either encouraging prolonged mourning or rushing them past it?</li>
+        <li>The poem opens with the stark image of mortals "led away one by one, like a cow to the slaughter." Why might a teaching aimed at consoling grief open with something this unflinching, rather than something gentler?</li>
+      </ol>
+
+      <!-- PART 4 -->
+      <div class="dd-part"><div class="pn">Part 4</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
+      <div class="dd-opt">
+        <b class="h">Option A — Apply the dart image to a real loss</b>
+        <p>Think of a loss in your own life, recent or long past. Write half a page on whether, and how, the grief around it has functioned more like a dart still lodged in the wound or like one that has genuinely been removed — using the poem's own standard, not a vaguer sense of "moving on."</p>
+      </div>
+      <div class="dd-opt">
+        <b class="h">Option B — Write pastoral guidance from this poem</b>
+        <p>Draft a short, practical guide, grounded explicitly in this poem's own claims, for how you would sit with a grieving student or community member — what you'd say, what you'd avoid saying, and why.</p>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dd-part"><div class="pn">Part 5</div><h2>Self-Check</h2></div>
+      <p>The sutta's own page has a ten-question quiz covering the full text. Take it there before moving on.</p>
+      <p><a class="dd-btn ghost" href="{{ '/discourses/sutta-nipata/snp-3.8.html' | relative_url }}#quiz">Take the self-check quiz &rarr;</a></p>
+
+      <!-- NEXT -->
+
+      <div class="dd-next">
+        <div class="l">Looking ahead</div>
+        <h3>Session 3: Advice to Anāthapiṇḍika</h3>
+        <p>A wealthy, devoted lay patron lies dying in severe pain. Sāriputta doesn't simplify the teaching for a householder in his final hours — he gives him the fullest, most systematic teaching on non-attachment in the entire collection, and the dying man weeps.</p>
+      </div>
+
+      <p style="margin:-8px 0 0;"><a class="dd-btn primary" href="{{ '/courses/at-the-bedside/session-3/' | relative_url }}">Begin Session 3 &rarr;</a></p>
+
+      <div class="dd-foot">
+        <a class="dd-btn ghost" href="{{ '/courses/at-the-bedside/' | relative_url }}">&larr; Course overview</a>
+        <button type="button" class="dd-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
