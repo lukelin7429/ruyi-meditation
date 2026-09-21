@@ -120,7 +120,7 @@ for dirpath, dirnames, filenames in os.walk(ROOT):
             continue
         raw = open(full, encoding='utf-8').read()
         fm, body = parse_front_matter(raw)
-        url = url_for(rel)
+        url = (fm.get('permalink') if fm else None) or url_for(rel)
         if fm is not None:                      # Jekyll-rendered page
             title = fm.get('title')
             if not title:
