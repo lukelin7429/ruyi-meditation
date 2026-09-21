@@ -89,6 +89,18 @@ excerpt: A thirteen-session route through Sudhana's pilgrimage in the Gaṇḍav
   .fi-mvbar .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;color:var(--moss);font-size:16px;}
   .fi-mvbar em{font-style:normal;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);}
 
+  .fi-two{display:grid;gap:14px;grid-template-columns:1fr;margin-top:6px;}
+  @media(min-width:720px){.fi-two{grid-template-columns:1fr 1fr;}}
+  .fi-tr{display:block;text-decoration:none;background:var(--cream);border:1px solid var(--line);
+    border-left:4px solid #c8c5b0;border-radius:0 12px 12px 0;padding:18px 22px;transition:transform .2s,border-color .2s;}
+  .fi-tr:hover{transform:translateY(-3px);text-decoration:none;border-left-color:var(--moss);}
+  .fi-tr.used{border-left-color:var(--gold);}
+  .fi-tr .rec{font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);}
+  .fi-tr h4{font-family:'Playfair Display',serif;font-size:19px;color:var(--ink);margin:6px 0 5px;font-weight:600;}
+  .fi-tr h4 .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:16px;color:var(--ink-soft);}
+  .fi-tr .who{font-size:14px;color:var(--ink-soft);line-height:1.55;}
+  .fi-tr .cnt{display:inline-block;margin-top:10px;font-size:13.5px;color:var(--moss);font-weight:600;}
+
   .fi-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
   .fi-card ul{margin:6px 0 0;padding-left:20px;}
   .fi-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
@@ -148,6 +160,27 @@ excerpt: A thirteen-session route through Sudhana's pilgrimage in the Gaṇḍav
         <div class="lbl">What these thirteen sessions are</div>
         <p style="margin:0 0 14px;">Fifty-three teachers will not fit into a term, and a summary of fifty-three teachers would be worth nothing. So this is a <strong>route</strong> — thirteen teachers chosen because together they make the pilgrimage's argument, with at least one drawn from each of the five stages the path traces. Each session reads that teacher's episode in full, from the text.</p>
         <p style="margin:0;">The other forty are all there, complete, and the course points at them constantly. If you want the whole pilgrimage rather than a route through it, <a href="{{ '/sutras/gandavyuha/' | relative_url }}" style="color:var(--moss);font-weight:600;">start at Part 1 and keep walking</a>.</p>
+      </div>
+
+      <!-- TWO TRANSLATIONS -->
+      <div class="fi-sec" data-rv>
+        <div class="lbl">Two translations, side by side</div>
+        <p style="margin:0 0 14px;">This chapter was rendered into Chinese twice, nearly three centuries apart, and <strong>both translations are complete on this site</strong> — so reading one against the other is a matter of opening two tabs.</p>
+        <div class="fi-two">
+          <a class="fi-tr used" href="{{ '/sutras/gandavyuha/' | relative_url }}">
+            <div class="rec">What this course quotes</div>
+            <h4>Buddhabhadra <span class="zh">六十卷本</span></h4>
+            <div class="who">Eastern Jin, 418&ndash;420 CE &middot; T278 &middot; the closing chapter of the sixty-fascicle Avata&#7747;saka, fascicles 44 to 60, with reading notes after Fazang's 華嚴經探玄記 throughout.</div>
+            <span class="cnt">454 parts &middot; complete &rarr;</span>
+          </a>
+          <a class="fi-tr" href="{{ '/sutras/avatamsaka-sutra/' | relative_url }}">
+            <div class="rec">The other one</div>
+            <h4>&#346;ik&#7779;&#257;nanda <span class="zh">八十卷本</span></h4>
+            <div class="who">Tang, 695&ndash;699 CE &middot; T279 &middot; 入法界品第三十九, fascicles 60 to 80 of the eighty-fascicle Avata&#7747;saka, inside the complete sūtra.</div>
+            <span class="cnt">514 parts &middot; complete &rarr;</span>
+          </a>
+        </div>
+        <p style="margin:14px 0 0;font-size:15.5px;color:var(--ink-soft);">Every quotation in these thirteen sessions comes from Buddhabhadra's, for one reason: Fazang wrote his commentary on that text, and the reading notes are half of why the collection is worth reading at all. But when a passage matters to you, go and find it in the other. The differences are not cosmetic, and noticing them is where reading <em>a translation</em> begins, rather than reading straight through one.</p>
       </div>
 
       <!-- OBJECTIVES -->
