@@ -1,0 +1,450 @@
+---
+layout: default
+title: "Session 1 · A list of who was best at what (Ten Who Knew Him)"
+permalink: /courses/ten-disciples/session-1/
+excerpt: Session 1 of Ten Who Knew Him — why there are ten disciples, where the number comes from, and why the Pāli canon counts about eighty instead.
+---
+
+<style>
+  .dp{--stone:#6b5a52;--stone-mid:#443832;--stone-deep:#1e1815;--copper:#c9743f;--copper-deep:#8d4a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f9f6f1;--ink:#241d19;--ink-soft:#6a5e56;--line:#e6ded4;}
+  .dp *{box-sizing:border-box;}
+  .dp-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dp [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dp [data-rv].in{opacity:1;transform:none;}
+
+  .dp-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dp-crumb .dp-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dp-crumb a{color:var(--stone);text-decoration:none;}
+  .dp-crumb a:hover{text-decoration:underline;}
+
+  .dp-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(201,116,63,.22),transparent 62%),
+    linear-gradient(158deg,#6b5a52 0%,#443832 46%,#1e1815 100%);color:#fff;}
+  .dp-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dp-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--copper);font-weight:600;}
+  .dp-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dp-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .dp-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dp-hero .rd b{color:var(--copper);}
+
+  .dp-body{background:#fff;padding:44px 0 24px;}
+  .dp-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dp-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dp-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--stone);}
+  .dp-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dp-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dp-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--stone);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dp-scr{position:relative;border-left:4px solid var(--copper);background:linear-gradient(180deg,#fdfbf8,#f4efe8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dp-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);margin-bottom:10px;}
+  .dp-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--stone-deep);margin:0 0 12px;}
+  .dp-scr p:last-of-type{margin-bottom:0;}
+  .dp-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .dp-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--stone);text-decoration:none;border-bottom:1px solid rgba(107,90,82,.4);}
+  .dp-scr a.bk:hover{border-bottom-color:var(--stone);}
+
+  .dp-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--copper-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dp-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dp-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dp-terms span b{color:var(--stone);}
+
+  .dp-take{background:linear-gradient(180deg,#fdfbf8,#f1eae2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dp-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--stone);margin-bottom:8px;}
+  .dp-take ul{margin:0;padding-left:20px;}
+  .dp-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dp-take li b{color:var(--copper-deep);}
+
+  .dp-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dp-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dp-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dp-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dp-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dp-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dp-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dp-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .dp-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .dp-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--copper);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .dp-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .dp-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--stone);
+    background:#f1eae2;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .dp-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dp-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dp-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dp-prac p:last-child{margin-bottom:0;}
+  .dp-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .dp-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dp-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dp-quiz .q:first-of-type{padding-top:2px;}
+  .dp-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dp-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--stone);text-transform:uppercase;margin-bottom:6px;}
+  .dp-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dp-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dp-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--stone);}
+  .dp-quiz .opt:hover:not(:disabled){background:#f6efe8;border-color:var(--stone);}
+  .dp-quiz .opt:disabled{cursor:default;}
+  .dp-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dp-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dp-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dp-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dp-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .dp-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .dp-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--copper);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dp-quiz .expl.show{display:block;}
+  .dp-quiz .expl strong{color:var(--ink);}
+  .dp-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dp-score strong{color:var(--stone);font-size:17px;}
+
+  .dp-reflect{background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dp-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#cdc1b6;line-height:1.7;margin-top:14px;}
+
+  .dp-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dp-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper-deep);font-weight:700;}
+  .dp-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dp-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dp-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dp-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dp-btn.primary{background:linear-gradient(158deg,#6b5a52,#302722);color:#fff;box-shadow:0 12px 26px -14px rgba(48,39,34,.85);}
+  .dp-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(48,39,34,.95);text-decoration:none;}
+  .dp-btn.ghost{border:1.5px solid var(--stone);color:var(--stone);background:transparent;}
+  .dp-btn.ghost:hover{background:var(--stone);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dp .dp-crumb,.dp-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dp [data-rv]{opacity:1 !important;transform:none !important;}
+    .dp-hero{background:none;color:#000;padding:0;}
+    .dp-hero-in{padding:0 0 12px;}
+    .dp-eyebrow,.dp-hero .subt,.dp-hero .rd{color:#444;}
+    .dp-hero h1{color:#000;}
+    .dp-body{padding:0;}
+    .dp-body p,.dp-body h3,.dp-part h2,.dp-take li,.dp-prac p{color:#000;}
+    .dp-scr,.dp-take,.dp-prac,.dp-quiz,.dp-next{background:#fff !important;border:1px solid #bbb;}
+    .dp-scr p{color:#000;}
+    .dp-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-reflect p,.dp-reflect .l,.dp-reflect p.sm{color:#000;}
+    .dp-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-textcard h3,.dp-textcard p,.dp-textcard .go,.dp-textcard .trad{color:#000;}
+    .dp{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Ten Who Knew Him: course-specific components --- */
+  .dp-best{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--accent,var(--copper));border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-best .n{font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-best .nm{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);}
+  .dp-best .nm .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:18px;color:var(--ink-soft);margin-left:7px;}
+  .dp-best .first{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#fff;
+    background:var(--accent,var(--copper));border-radius:20px;padding:5px 14px;}
+  .dp-best .pali{font-size:14px;color:var(--ink-soft);font-style:italic;}
+
+  .dp-south{border-left:4px solid #b08a3c;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);
+    border-radius:0 14px 14px 0;padding:24px 28px;margin:24px 0;}
+  .dp-south .l{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#8a6a1f;margin-bottom:10px;}
+  .dp-south p{font-size:16px;line-height:1.72;color:var(--ink);margin:0 0 12px;}
+  .dp-south p:last-child{margin-bottom:0;}
+  .dp-south .thin{font-size:15px;color:#8a7146;font-style:italic;}
+  .dp-south a{color:#8a6a1f;font-weight:600;}
+
+  .dp-rebuke{position:relative;border-radius:16px;padding:28px 32px;margin:26px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-rebuke .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-rebuke p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-rebuke .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.32);line-height:1.85;}
+  .dp-rebuke a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--copper);text-decoration:none;border-bottom:1px solid rgba(201,116,63,.4);}
+  .dp-rebuke a.bk:hover{border-bottom-color:var(--copper);}
+</style>
+
+
+<div class="dp">
+
+  <nav class="dp-crumb"><div class="dp-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/ten-disciples/' | relative_url }}">Ten Who Knew Him</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="dp-hero">
+    <div class="dp-hero-in">
+      <div class="dp-eyebrow">Session 1 · Opening</div>
+      <h1>A list of who was best at what</h1>
+      <div class="subt">Where the ten came from, who is missing, and why the number is different in the South</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>The texts</b> two chapter-openings and a list</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dp-body">
+    <div class="dp-wrap">
+
+      <!-- PART 1 -->
+      <div class="dp-part" data-rv><div class="pn">Part 1</div><h2>He was not alone<span class="rf">What English-language Buddhism leaves out of the room</span></h2></div>
+
+      <p data-rv>Read almost any English introduction to Buddhism and you will meet one man sitting under one tree. He wakes up, he teaches, he dies, and somewhere in the background there is a vague crowd of monks in robes.</p>
+
+      <p data-rv>That crowd had names, and the tradition took some trouble over them. For forty-five years the Buddha travelled with a group of people who were so unlike one another that a list eventually had to be kept: <strong>who was best at what</strong>. Not who was holiest. Who was best at what.</p>
+
+      <p data-rv>The wisest one, who could take any teaching apart. The one with the powers, who could not use them on the one person he most wanted to save. An ascetic who would not sleep under a roof. A man who went blind and afterwards saw everything. The one who understood emptiness. The great preacher. The debater. The keeper of the rules, who had been a boy cutting the Buddha's hair. The Buddha's own son. And the cousin with the perfect memory, who heard every word spoken for decades and was <em>the last person in the room to understand any of it</em>.</p>
+
+      <div class="dp-pull" data-rv>Ten people, ten specialities — and not one of them is the Buddha. This course is about the cast, not the founder.</div>
+
+      <div class="dp-take" data-rv>
+        <b class="h">What this course is doing, in one paragraph</b>
+        <ul>
+          <li><b>It reads each disciple three times.</b> His life, from a Chinese story-anthology. His own first-person account of how he got in, from the Śūraṅgama Sūtra. And the day somebody told him his speciality was not what he thought it was, from the Vimalakīrti Sūtra.</li>
+          <li><b>It carries a Southern column in every session</b>, and it is honest about which sessions have a thick one and which have almost nothing.</li>
+          <li><b>It ends where the books come from.</b> Session 12 is the First Council — the three weeks that produced everything else you will ever read.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="dp-part" data-rv><div class="pn">Part 2</div><h2>The ten, and where the number comes from</h2></div>
+
+      <p data-rv>Nobody in the Pāli canon ever says "the ten great disciples." The fixed list is East Asian, and its order comes from one chapter of one Mahāyāna sūtra.</p>
+
+      <p data-rv>In the Vimalakīrti Sūtra, a wealthy layman falls ill. The Buddha, out of compassion, decides to send someone to ask after him — and then works through his senior disciples one at a time. Each of them declines. Each gives the same reason: <em>I met him once, and I could not answer him.</em></p>
+
+      <p data-rv>Ten disciples, ten refusals, in a fixed order. That order is the list.</p>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">The Vimalakīrti Sūtra, The Disciples Decline · the chapter opens</div>
+        <p>"At that time the elder Vimalakīrti thought to himself: 'I lie here ill upon my bed — will the World-Honored One, in his great compassion, not show me some pity?' The Buddha, knowing his thought, said to Śāriputra: 'Go and inquire after Vimalakīrti's illness.' Śāriputra said to the Buddha: 'World-Honored One, I am not able to go and inquire after his illness. And why? …'"</p>
+        <div class="zh">爾時長者維摩詰，自念：「寢疾于床，世尊大慈，寧不垂愍？」佛知其意，即告舍利弗：「汝行詣維摩詰問疾。」舍利弗白佛言：「世尊！我不堪任詣彼問疾。所以者何？……」</div>
+        <a class="bk" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Kumārajīva's own note on the page explains why Śāriputra is asked first, when the Buddha already knows perfectly well that all ten will refuse: Śāriputra is foremost in wisdom among the five hundred disciples, so <strong>sending him first, and having him decline first, is what makes Vimalakīrti's stature register</strong> with the rest of the assembly still watching. The order is not arbitrary. It is staged.</p>
+
+      <p data-rv>Here is the roster, in that order, with the epithet each one carries in Chinese.</p>
+
+      <div class="dp-terms" data-rv>
+        <span><b>舍利弗</b> Śāriputra · 智慧第一 · wisdom</span>
+        <span><b>目犍連</b> Maudgalyāyana · 神通第一 · spiritual power</span>
+        <span><b>大迦葉</b> Mahākāśyapa · 頭陀第一 · austerity</span>
+        <span><b>須菩提</b> Subhūti · 解空第一 · emptiness</span>
+        <span><b>富樓那</b> Pūrṇa · 說法第一 · preaching</span>
+        <span><b>迦旃延</b> Kātyāyana · 論議第一 · exposition</span>
+        <span><b>阿那律</b> Aniruddha · 天眼第一 · the divine eye</span>
+        <span><b>優波離</b> Upāli · 持戒第一 · discipline</span>
+        <span><b>羅睺羅</b> Rāhula · 密行第一 · hidden practice</span>
+        <span><b>阿難</b> Ānanda · 多聞第一 · having heard much</span>
+      </div>
+
+      <p data-rv>Ten sessions, one each, in exactly that order — because reading them in the sūtra's own sequence lets you watch a single argument being made ten times.</p>
+
+      <!-- PART 3 -->
+      <div class="dp-part" data-rv><div class="pn">Part 3</div><h2>The Southern column<span class="rf">Where the counting is done completely differently</span></h2></div>
+
+      <div class="dp-south" data-rv>
+        <div class="l">Every session has one of these. This is the first.</div>
+        <p>The Pāli canon has no list of ten. What it has is the <strong>etadagga</strong> — <em>etad-aggaṃ</em>, "this is the foremost" — a run of chapters in the Numerical Discourses naming around eighty disciples, each unsurpassed in one specified respect. And it is not a list of monks. It has four sections: monks, nuns, laymen, laywomen.</p>
+        <p>This site's own reading guide to those chapters puts the crucial point better than a paraphrase would:</p>
+        <p style="padding-left:16px;border-left:2px solid #d8bd7e;"><em>"What the formula does is name a person as unsurpassed in one specified respect. What it conspicuously does not do is rank anyone overall. Sāriputta is foremost in great wisdom and Mahāmoggallāna in psychic power; nothing in the list says which of those is the better thing to be foremost in, and the list makes no attempt to arrange its categories in order of importance."</em></p>
+        <p>And it is emphatically not a hall of fame. One monk is foremost in <em>receiving material gifts</em>. One is there for having a charming voice. One is there for coming from an eminent family — a fact about his birth. The guide's verdict: <em>"Read as a ranking of spiritual attainment, entries like those are baffling. Read as what it is — a catalog of distinguishing marks, the way you would describe the members of a large community to someone who had to tell them apart — it is coherent throughout."</em></p>
+        <p class="thin">A note on method you will see repeated: the <em>text</em> of those chapters is Bhikkhu Sujato's translation, released CC0, not Ru-Yi's own — so this course links to those pages but never quotes the discourse text itself. The reading guides are Ru-Yi's own writing, and those are quoted. Where a Southern source <strong>is</strong> Ru-Yi's own translation — above all the Visuddhimagga, rendered directly from the Pāli — it is quoted at length.</p>
+        <p><a href="{{ '/discourses/anguttara-nikaya/an-1.188-197.html' | relative_url }}">AN 1.188–197, the first chapter of foremost monks →</a></p>
+      </div>
+
+      <p data-rv>Two consequences worth carrying for the next eleven sessions.</p>
+
+      <p data-rv><strong>The first is that "foremost" is a description, not a score.</strong> Once you stop reading the ten as a leaderboard, the epithets become what they were always meant to be — the way you tell ten people apart in a crowd of five hundred.</p>
+
+      <p data-rv><strong>The second is that the two traditions do not weight these men the same way at all.</strong> The sharpest case is Subhūti, who is an ordinary entry on the Pāli list and appears in the Visuddhimagga zero times — and who, because a Mahāyāna sūtra made him the questioner in the Diamond Sūtra, became one of the most recognisable names in East Asian Buddhism. Session 5 is built entirely around that gap.</p>
+
+      <!-- PART 4 -->
+      <div class="dp-part" data-rv><div class="pn">Part 4</div><h2>The rebuke<span class="rf">One argument, made ten times</span></h2></div>
+
+      <p data-rv>Now the part that makes this a course rather than a set of profiles.</p>
+
+      <p data-rv>Vimalakīrti's ten refusals are not ten different criticisms. They are one criticism, fitted to ten people. In each case he takes <strong>the exact thing the disciple is best in the world at</strong> and shows that the disciple has been doing it in a smaller way than it can be done.</p>
+
+      <p data-rv>Śāriputra goes first, and he is not caught doing anything wrong. He is sitting in meditation under a tree — which is, on any ordinary account, exactly right.</p>
+
+      <div class="dp-rebuke" data-rv>
+        <div class="l">The first of the ten</div>
+        <p>"Ah, Śāriputra — sitting like this is not necessarily what is meant by sitting in meditation. As for sitting in meditation: not manifesting body or mind anywhere within the three realms — this is sitting in meditation. Not rising up out of cessation, and yet manifesting every dignified deportment — this is sitting in meditation. Not abandoning the way of the path, and yet manifesting the affairs of an ordinary person — this is sitting in meditation … Not cutting off affliction, and yet entering nirvāṇa — this is sitting in meditation."</p>
+        <div class="zh">唯，舍利弗！不必是坐，為宴坐也。夫宴坐者，不於三界現身、意，是為宴坐；不起滅定而現諸威儀，是為宴坐；不捨道法而現凡夫事，是為宴坐……不斷煩惱而入涅槃，是為宴坐。</div>
+        <a class="bk" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>And then the line this whole chapter turns on, repeated in some form by every one of the ten: 默然而止，不能加報 — <strong>"I fell silent and could not reply."</strong></p>
+
+      <p data-rv>Notice the shape of the argument, because you will see it nine more times. Vimalakīrti does not tell Śāriputra that sitting is bad. He redefines it so that it includes what Śāriputra had been going into the forest to get away from — ordinary affairs, dignified deportment, affliction itself — and leaves him with a version of his own speciality that is larger than the one he had mastered.</p>
+
+      <p data-rv>One honest caveat before you go on. <strong>This is a Mahāyāna sūtra arguing with earlier Buddhism</strong>, written centuries after the men in it died, and the ten disciples are cast here as the side that loses. That is a real polemical purpose and the course will not hide it. But the argument survives its own partisanship, which is why it is worth eleven more sessions: <em>whatever you are best at is the last place you will look for what you are missing.</em></p>
+
+      <!-- PART 5 -->
+      <div class="dp-part" data-rv><div class="pn">Part 5</div><h2>One practice, for this week</h2></div>
+
+      <div class="dp-prac" data-rv>
+        <b class="h">Write your own etadagga entry</b>
+        <p>One sentence, in the canon's own format: <em>"Foremost among [the people I know] in ___ is ___."</em> Fill in your own name, and be specific in the way the Pāli list is specific — not "kind," but "remembering what people told him last time"; not "organised," but "noticing when a meeting has stopped being about anything."</p>
+        <p>Then write the harder half: <strong>the cost of it.</strong> What does being the one who is good at that stop you from doing, or stop other people from bringing you?</p>
+        <div class="how">The exercise is the whole course in miniature. The epithet is real — nobody in this sūtra is accused of faking their speciality, and Śāriputra genuinely was the wisest man in the room. Vimalakīrti's move is not to deny the epithet but to stand next to it and ask what it costs. If your second sentence comes out harder to write than your first, that is the correct result.</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dp-part" data-rv><div class="pn">Part 6</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="dp-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Where does the fixed list of "ten great disciples" come from?</div>
+          <button class="opt"><span class="ltr">A</span>From the Pāli canon, which names exactly ten foremost monks</button>
+          <button class="opt"><span class="ltr">B</span>From a later Chinese commentary with no scriptural basis</button>
+          <button class="opt"><span class="ltr">C</span>From the order in which ten disciples decline to visit Vimalakīrti, one chapter of one Mahāyāna sūtra</button>
+          <button class="opt"><span class="ltr">D</span>From the roster of those present at the Buddha's death</button>
+          <div class="expl"><strong>Correct: C.</strong> Ten disciples, ten refusals, in a fixed order — and that order became the list East Asia has counted by ever since.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Why, on Kumārajīva's reading, does the Buddha ask Śāriputra first?</div>
+          <button class="opt"><span class="ltr">A</span>Because Śāriputra was the only one willing to go</button>
+          <button class="opt"><span class="ltr">B</span>Because he is foremost in wisdom among the five hundred, so his declining first is what makes Vimalakīrti's stature register with the watching assembly</button>
+          <button class="opt"><span class="ltr">C</span>Because he lived nearest to Vimalakīrti's house</button>
+          <button class="opt"><span class="ltr">D</span>Because the Buddha did not yet know that any of them would refuse</button>
+          <div class="expl"><strong>Correct: B.</strong> The Buddha knows all ten will decline. The sequence is staged, and it starts at the top.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is the etadagga, and how does it differ from "the ten"?</div>
+          <button class="opt"><span class="ltr">A</span>A run of Pāli chapters naming around eighty disciples — monks, nuns, laymen and laywomen — each foremost in one specified respect, with no overall ranking</button>
+          <button class="opt"><span class="ltr">B</span>The Pāli name for the same ten disciples</button>
+          <button class="opt"><span class="ltr">C</span>A ranked list of the Buddha's disciples by level of attainment</button>
+          <button class="opt"><span class="ltr">D</span>A commentary on the Vimalakīrti Sūtra's disciples chapter</button>
+          <div class="expl"><strong>Correct: A.</strong> Four assemblies, about eighty names, and no attempt to say which speciality is the better one to have.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">This site's reading guide says the etadagga only makes sense when read in a particular way. Which?</div>
+          <button class="opt"><span class="ltr">A</span>As a devotional litany, to be recited rather than analysed</button>
+          <button class="opt"><span class="ltr">B</span>As a ranking of spiritual attainment, which explains the odd entries</button>
+          <button class="opt"><span class="ltr">C</span>As a later addition of no historical value</button>
+          <button class="opt"><span class="ltr">D</span>As a catalog of distinguishing marks — the way you would describe the members of a large community to someone who had to tell them apart</button>
+          <div class="expl"><strong>Correct: D.</strong> Read as a leaderboard, entries like "foremost in receiving material gifts" or "foremost for coming from an eminent family" are baffling. Read as a way of telling people apart, the whole list is coherent.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What is Vimalakīrti's move against Śāriputra?</div>
+          <button class="opt"><span class="ltr">A</span>He catches him breaking a rule of the monastic code</button>
+          <button class="opt"><span class="ltr">B</span>He proves that Śāriputra is not actually the wisest of the disciples</button>
+          <button class="opt"><span class="ltr">C</span>He redefines "sitting in meditation" to include everything Śāriputra had gone into the forest to get away from — ordinary affairs, affliction itself — leaving him with a larger version of his own speciality</button>
+          <button class="opt"><span class="ltr">D</span>He tells him that meditation is unnecessary for a bodhisattva</button>
+          <div class="expl"><strong>Correct: C.</strong> Śāriputra was not doing anything wrong; he was sitting under a tree. 默然而止，不能加報 — "I fell silent and could not reply." Nine more versions of the same move follow.</div>
+        </div>
+
+        <div class="dp-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="dp-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="dp-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>If ten people who knew you had to tell a stranger which one you were, what would they say you are foremost in?</p>
+        <p class="sm">Answer with what they would actually say, not what you would like to be known for — those are rarely the same sentence, and the gap between them is worth more than either. Then hold the answer lightly for eleven sessions. Every one of the ten men in this course was correctly described by his epithet, genuinely unsurpassed at the thing, and told anyway that the description had become a place to stand rather than a way of moving.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="dp-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · Śāriputra 舍利弗 · 智慧第一</h3>
+        <p>The wisest man in the room, who is introduced in the Heart Sūtra as the person being spoken to, receives the first prediction of buddhahood in the Lotus Sūtra, and is called 法將, the General of the Dharma, in the Visuddhimagga. And then somebody finds him sitting under a tree and tells him he is doing it wrong.</p>
+      </div>
+
+      <div class="dp-foot">
+        <a class="dp-btn ghost" href="{{ '/courses/ten-disciples/' | relative_url }}">← Course overview</a>
+        <button type="button" class="dp-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.dp');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
