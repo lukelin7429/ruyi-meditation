@@ -1,0 +1,430 @@
+---
+layout: default
+title: "Session 12 · The tower (Fifty-Three Teachers)"
+permalink: /courses/fifty-three-teachers/session-12/
+excerpt: Session 12 of Fifty-Three Teachers — Maitreya snaps a finger, a door opens, and Sudhana walks into a building that turns out to contain everything, in 165 parts.
+---
+
+<style>
+  .ft{--moss:#6f7d3f;--moss-mid:#4a5528;--moss-deep:#1d2310;--gold:#dfc271;--gold-deep:#8d7422;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6ec;--ink:#232617;--ink-soft:#63684f;--line:#e2e5d4;}
+  .ft *{box-sizing:border-box;}
+  .ft-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .ft [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ft [data-rv].in{opacity:1;transform:none;}
+
+  .ft-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ft-crumb .ft-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ft-crumb a{color:var(--moss);text-decoration:none;}
+  .ft-crumb a:hover{text-decoration:underline;}
+
+  .ft-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(223,194,113,.22),transparent 62%),
+    linear-gradient(158deg,#6f7d3f 0%,#4a5528 46%,#1d2310 100%);color:#fff;}
+  .ft-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ft-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ft-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ft-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .ft-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .ft-hero .rd b{color:var(--gold);}
+
+  .ft-body{background:#fff;padding:44px 0 24px;}
+  .ft-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ft-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ft-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--moss);}
+  .ft-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ft-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ft-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--moss);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .ft-scr{position:relative;border-left:4px solid var(--gold);background:linear-gradient(180deg,#fcfcf6,#f2f5e6);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .ft-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);margin-bottom:10px;}
+  .ft-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--moss-deep);margin:0 0 12px;}
+  .ft-scr p:last-of-type{margin-bottom:0;}
+  .ft-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .ft-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--moss);text-decoration:none;border-bottom:1px solid rgba(111,125,63,.4);}
+  .ft-scr a.bk:hover{border-bottom-color:var(--moss);}
+
+  .ft-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--gold-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .ft-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .ft-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .ft-terms span b{color:var(--moss);}
+
+  .ft-take{background:linear-gradient(180deg,#fcfcf6,#eef2df);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ft-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--moss);margin-bottom:8px;}
+  .ft-take ul{margin:0;padding-left:20px;}
+  .ft-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .ft-take li b{color:var(--gold-deep);}
+
+  .ft-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .ft-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .ft-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .ft-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .ft-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .ft-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .ft-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .ft-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .ft-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;
+    box-shadow:0 24px 48px -30px rgba(29,35,16,.8);overflow:hidden;}
+  .ft-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#c2caa4;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(223,194,113,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .ft-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .ft-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--gold-deep);}
+  .ft-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .ft-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .ft-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--moss);
+    background:#eef2df;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .ft-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .ft-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ft-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .ft-prac p:last-child{margin-bottom:0;}
+  .ft-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .ft-quiz{background:#fcfcf6;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .ft-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .ft-quiz .q:first-of-type{padding-top:2px;}
+  .ft-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .ft-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--moss);text-transform:uppercase;margin-bottom:6px;}
+  .ft-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .ft-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .ft-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--moss);}
+  .ft-quiz .opt:hover:not(:disabled){background:#f1f5e4;border-color:var(--moss);}
+  .ft-quiz .opt:disabled{cursor:default;}
+  .ft-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .ft-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .ft-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .ft-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .ft-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .ft-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .ft-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .ft-quiz .expl.show{display:block;}
+  .ft-quiz .expl strong{color:var(--ink);}
+  .ft-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .ft-score strong{color:var(--moss);font-size:17px;}
+
+  .ft-reflect{background:linear-gradient(158deg,#6f7d3f 0%,#4a5528 48%,#1d2310 100%);color:#e8ecd8;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .ft-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ft-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .ft-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#c2caa4;line-height:1.7;margin-top:14px;}
+
+  .ft-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .ft-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;}
+  .ft-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .ft-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .ft-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ft-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ft-btn.primary{background:linear-gradient(158deg,#6f7d3f,#35401c);color:#fff;box-shadow:0 12px 26px -14px rgba(53,64,28,.85);}
+  .ft-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(53,64,28,.95);text-decoration:none;}
+  .ft-btn.ghost{border:1.5px solid var(--moss);color:var(--moss);background:transparent;}
+  .ft-btn.ghost:hover{background:var(--moss);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ft .ft-crumb,.ft-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .ft [data-rv]{opacity:1 !important;transform:none !important;}
+    .ft-hero{background:none;color:#000;padding:0;}
+    .ft-hero-in{padding:0 0 12px;}
+    .ft-eyebrow,.ft-hero .subt,.ft-hero .rd{color:#444;}
+    .ft-hero h1{color:#000;}
+    .ft-body{padding:0;}
+    .ft-body p,.ft-body h3,.ft-part h2,.ft-take li,.ft-prac p{color:#000;}
+    .ft-scr,.ft-take,.ft-prac,.ft-quiz,.ft-next{background:#fff !important;border:1px solid #bbb;}
+    .ft-scr p{color:#000;}
+    .ft-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-reflect p,.ft-reflect .l,.ft-reflect p.sm{color:#000;}
+    .ft-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ft-textcard h3,.ft-textcard p,.ft-textcard .go,.ft-textcard .trad{color:#000;}
+    .ft{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+
+<div class="ft">
+
+  <nav class="ft-crumb"><div class="ft-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/fifty-three-teachers/' | relative_url }}">Fifty-Three Teachers</a> → Session 12</div></nav>
+
+  <!-- HERO -->
+  <section class="ft-hero">
+    <div class="ft-hero-in">
+      <div class="ft-eyebrow">Session 12 · Beyond the Ten Grounds · Teacher 51 of 53</div>
+      <h1>The tower</h1>
+      <div class="subt">The longest single episode in the canon, opened and closed by the same small gesture</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty-five minutes</span>
+        <span><b>Before class</b> Session 11</span>
+        <span><b>The text</b> Parts 248 to 412 of 454</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="ft-body">
+    <div class="ft-wrap">
+
+      <!-- PART 1 -->
+      <div class="ft-part" data-rv><div class="pn">Part 1</div><h2>Who you'll meet<span class="rf">A bodhisattva, and a building</span></h2></div>
+
+      <div class="ft-who" data-rv>
+        <span class="n">Teacher 51 of 53</span>
+        <span class="nm">Maitreya 彌勒</span>
+        <span class="rl">at the tower named Adorned Pure Treasury, in the land Sea-Torrent</span>
+        <span class="st">Parts 248–412 of 454</span>
+      </div>
+
+      <p data-rv>One hundred and sixty-five parts. To put that in scale: the whole of Session 1 was two, and this course's other eleven teachers together occupy about twenty. <strong>Maitreya's episode is the longest sustained scene in the Buddhist canon</strong>, and most of it is a description of what is inside one room.</p>
+
+      <p data-rv>The structure is simple enough to hold in your head. Sudhana is told where the tower is and who is in it. He arrives. Maitreya praises him at enormous length, in public, in front of a crowd. Sudhana asks to be let in. Maitreya <em>snaps a finger</em>. The door opens by itself, Sudhana steps through, and the door shuts behind him. Then a hundred and fifteen parts of what he sees. Then Maitreya snaps his finger a second time and tells him to get up.</p>
+
+      <div class="ft-pull" data-rv>The tower is not built. The text says it arose "from the bodhisattva's own roots of goodness cultivated in ages past, from the bodhisattva's own sovereign vows, from every spiritual power and wisdom-force" — a structure made out of somebody's practice, which you can walk into.</div>
+
+      <div class="ft-take" data-rv>
+        <b class="h">Three things worth having before you start</b>
+        <ul>
+          <li><b>阿僧祇 asaṃkhyeya</b> — "incalculable." It appears so many times in the description of the interior that Fazang reads the repetition itself as doing the philosophical work: nothing in the tower is merely numerous, every feature is literally uncountable.</li>
+          <li><b>事事無礙法界</b> — the unobstructed interpenetration of phenomena, the signature idea of the Huayan school. Fazang marks its first explicit appearance in this chapter at a single line in Part 386, and this session quotes that line.</li>
+          <li><b>Maitreya is the buddha yet to come.</b> Everything in this episode is being shown to Sudhana by someone who has not yet become a buddha and will. That matters at the end.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ft-part" data-rv><div class="pn">Part 2</div><h2>The episode<span class="rf">Four parts out of a hundred and sixty-five</span></h2></div>
+
+      <p data-rv>You are not going to read all of this in a week, and nobody expects you to. Four parts carry the spine; read those closely, then dip anywhere you like in the enormous middle. If you only read one, read Part 386.</p>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-385/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 385 of 454</div>
+        <h3>The Door Opens of Its Own Accord</h3>
+        <p>Maitreya finishes speaking, Sudhana asks to enter, and a finger-snap opens a building described as boundless.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-386/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 386 of 454</div>
+        <h3>A Hundred Thousand Towers, None Obstructing Any Other</h3>
+        <p>The interior, and the sentence Huayan thought is built on.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <a class="ft-textcard" href="{{ '/sutras/gandavyuha/part-402/' | relative_url }}" data-rv>
+        <div class="trad">Entering the Dharma-Realm · Part 402 of 454</div>
+        <h3>Arise From Samādhi</h3>
+        <p>A run of similes — mirage-city, illusionist, dream — and then one sentence that reframes everything that came before it.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="ft-part" data-rv><div class="pn">Part 3</div><h2>Three moments, read closely</h2></div>
+
+      <p data-rv><strong>1. The smallest gesture in the pilgrimage.</strong></p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 385 · the door</div>
+        <p>"At that time, the youth Sudhana, reverently circling the bodhisattva Maitreya, joined his palms and said: 'I ask only that you, great sage, open the tower's own gate, and let me enter.' At that time, the bodhisattva Maitreya simply snapped his right finger, and the door opened of its own accord. Sudhana entered at once — and once he had entered, the door closed again behind him."</p>
+        <div class="zh">爾時，善財童子敬遶彌勒菩薩，合掌白言：「唯願大聖開樓觀門，令我得入。」爾時，彌勒菩薩即彈右指，門自然開，善財即入；入已，還閉。</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-385/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Fazang reads the snap as the passage's first concrete signal that ordinary scale has stopped applying — "a tower whose door yields to the same small gesture regardless of its own boundless interior." Nothing is forced, nothing is unlocked, no power is exerted. A finger moves.</p>
+
+      <p data-rv>And then: 入已，還閉 — <strong>the door shuts behind him</strong>. Four characters, easy to read past, and they are the difference between a view and an entry. Whatever this is, he is now inside it and outside is no longer available.</p>
+
+      <p data-rv>Worth noticing too what Maitreya had said a moment earlier, which Fazang flags as strange: that <em>entering the tower</em> will let Sudhana fully understand the bodhisattva path — said <em>before</em> he enters. Everything Maitreya has just spent dozens of parts saying is thereby reframed as preparation for something words could not convey.</p>
+
+      <p data-rv><strong>2. A hundred thousand towers, none obstructing any other.</strong></p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 386 · the interior</div>
+        <p>"At that time, Sudhana observed the tower: vast and boundless, exactly like open space itself, its ground made of every kind of jewel. There were an asaṃkhyeya of windows and parapets … an asaṃkhyeya of golden bells, sounding of themselves in subtle, wondrous tones … And within the tower itself there were a hundred thousand further wondrous towers, none obstructing any other, each adorned and ornamented exactly as already described."</p>
+        <div class="zh">爾時，善財觀察樓觀，廣大無量，猶如虛空，眾寶為地。有阿僧祇窓牖，却敵欄楯……阿僧祇金鈴，自然演出微妙音聲。……於樓觀內，具有百千諸妙樓觀，不相障礙，莊校嚴飾，亦如上說。</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-386/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>不相障礙 — not obstructing one another. Fazang identifies this as the chapter's first explicit statement of what Huayan thought would later formalise as 事事無礙法界: countless towers occupying what would ordinarily be mutually exclusive space, <strong>each one entire and complete without displacing any other</strong>.</p>
+
+      <p data-rv>It is worth being clear about how odd the claim is, because the imagery is beautiful enough to slide past. This is not "the tower is very large." A large tower would still have one thing in each place. The claim is that a hundred thousand complete towers are each wholly present, and none of them is anywhere else.</p>
+
+      <p data-rv><strong>3. The second snap.</strong></p>
+
+      <p data-rv>A hundred and fifteen parts later, the vision ends. What ends it is a run of similes — a palace in which every form in the cosmos can be seen, a monk in absorption, the great ocean, <em>a mirage-city</em>, an illusionist — and then one sentence.</p>
+
+      <div class="ft-scr" data-rv>
+        <div class="src">Entering the Dharma-Realm, Part 402 · the end of the vision</div>
+        <p>"It is like a person who beholds a gandharva's own city, without any obstruction at all. Sudhana the youth was likewise: within the tower, he saw every dharma without any obstruction … At that time, the bodhisattva Maitreya gathered back his own awesome spiritual power, and at once snapped his finger, saying to Sudhana: 'Good man, arise from samādhi.'"</p>
+        <div class="zh">譬如人見乾闥婆城，無所障礙；善財童子亦復如是，於樓觀中，見一切法，無所障礙。……爾時，彌勒菩薩攝威神力，即時彈指告善財言：「善男子！汝從定起。」</div>
+        <a class="bk" href="{{ '/sutras/gandavyuha/part-402/' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>Read that last sentence and then look back at everything before it. <strong>汝從定起 — arise from samādhi.</strong> The whole vision, dozens of parts of it, happened inside a single absorption; no time elapsed in the world outside. The same gesture that opened the tower closes it, and the closing line retroactively tells you what kind of place you have been.</p>
+
+      <p data-rv>The similes do the same work from the other direction. 乾闥婆城 — the mirage-city, the canon's standard image for something vivid, structured and groundless — is applied to what Sudhana has just seen, alongside illusion and dream. The text is not undercutting the vision. It is telling you what category it belongs to, and it waits until afterwards to do so, because telling you beforehand would have prevented the entry.</p>
+
+      <!-- PART 4 -->
+      <div class="ft-part" data-rv><div class="pn">Part 4</div><h2>One practice, for this week</h2></div>
+
+      <div class="ft-prac" data-rv>
+        <b class="h">Go in, and let the door shut</b>
+        <p>Pick one thing you have been sampling rather than entering — a book you keep dipping into, a practice you do when convenient, a relationship you maintain at arm's length, a piece of work you have been circling. Give it <strong>one unbroken session with the door shut</strong>: phone elsewhere, an end time, no exits.</p>
+        <p>Ninety minutes is plenty. The length is not the point; 入已，還閉 is the point.</p>
+        <div class="how">Then notice which of the two gestures your week is actually made of. Most of our attention is the second finger-snap — the one that ends absorption and returns us to the room — applied several times a minute. Sudhana gets a hundred and fifteen parts between the two snaps. You are unlikely to manage that, but you can probably manage one afternoon, and the difference between sampling and entering is not gradual.</div>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="ft-part" data-rv><div class="pn">Part 5</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="ft-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How does Maitreya open the tower?</div>
+          <button class="opt"><span class="ltr">A</span>He recites a dhāraṇī taught to him by Mañjuśrī</button>
+          <button class="opt"><span class="ltr">B</span>He snaps his right finger, and the door opens of its own accord — closing again once Sudhana is inside</button>
+          <button class="opt"><span class="ltr">C</span>He carries Sudhana through the wall by spiritual power</button>
+          <button class="opt"><span class="ltr">D</span>The door was never shut; Sudhana simply had not seen it</button>
+          <div class="expl"><strong>Correct: B.</strong> 即彈右指，門自然開，善財即入；入已，還閉. Fazang reads the snap as the first signal that ordinary scale no longer applies — the same small gesture opens a boundless interior. And the door shutting is what makes it an entry rather than a view.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What does the text say the tower arose from?</div>
+          <button class="opt"><span class="ltr">A</span>The craftsmanship of the devas of the Tuṣita heaven</button>
+          <button class="opt"><span class="ltr">B</span>A vow made by Sudhana himself in a previous life</button>
+          <button class="opt"><span class="ltr">C</span>The accumulated offerings of the people of Sea-Torrent</button>
+          <button class="opt"><span class="ltr">D</span>The bodhisattva's own roots of goodness cultivated in ages past, his sovereign vows, spiritual power and wisdom-force, skillful means, and the Dharma-gate of merit and great compassion</button>
+          <div class="expl"><strong>Correct: D.</strong> Not built. Its existence is itself already a teaching about what accumulated practice can manifest — a structure made of somebody's path, which another person can walk into.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is inside the tower, in the line Fazang singles out?</div>
+          <button class="opt"><span class="ltr">A</span>A single jewelled throne, and nothing else</button>
+          <button class="opt"><span class="ltr">B</span>Maitreya's own future buddha-land, shown in miniature</button>
+          <button class="opt"><span class="ltr">C</span>A hundred thousand further wondrous towers, 不相障礙 — none obstructing any other, each complete</button>
+          <button class="opt"><span class="ltr">D</span>Nothing at all; the tower is empty, which is the teaching</button>
+          <div class="expl"><strong>Correct: C.</strong> Fazang marks this as the chapter's first explicit statement of 事事無礙法界. Not "very large" — a large space still has one thing in each place. Each tower is wholly present, and none is anywhere else.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Why does Fazang think the repetition of 阿僧祇 (asaṃkhyeya) matters?</div>
+          <button class="opt"><span class="ltr">A</span>Because it shows no single feature is merely numerous — every feature is literally uncountable, so the interior already exceeds spatial description before any further vision unfolds</button>
+          <button class="opt"><span class="ltr">B</span>Because it preserves a scribal error worth noting</button>
+          <button class="opt"><span class="ltr">C</span>Because the word counts the buddhas Maitreya has served</button>
+          <button class="opt"><span class="ltr">D</span>Because repetition is a mnemonic device for recitation</button>
+          <div class="expl"><strong>Correct: A.</strong> Windows, banners, necklaces, crowns, nets, bells, dust-motes, birds, flowers, jewel-lights — each one incalculable. The repetition is the argument.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">How does the whole vision end, and what does that ending reveal?</div>
+          <button class="opt"><span class="ltr">A</span>Sudhana leaves by the same door, which opens again on its own</button>
+          <button class="opt"><span class="ltr">B</span>The tower dissolves, showing it was never there</button>
+          <button class="opt"><span class="ltr">C</span>Maitreya gathers back his spiritual power, snaps his finger, and says 汝從定起 — "arise from samādhi": the whole vision took place within a single absorption, with no time elapsing outside</button>
+          <button class="opt"><span class="ltr">D</span>Sudhana falls asleep and wakes at the tower's foot</button>
+          <div class="expl"><strong>Correct: C.</strong> The same gesture that opened it closes it. And the similes just before — mirage-city, illusionist, dream — name what category the vision belongs to, but only afterwards; saying it beforehand would have prevented the entry.</div>
+        </div>
+
+        <div class="ft-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFERRAL -->
+      <div class="ft-refer" data-rv>
+        <div class="l">And then he was sent on</div>
+        <p>"Good man, go now to Mañjuśrī, and ask him: how does a bodhisattva learn the bodhisattva's own practice and cultivate the bodhisattva's own path, fully accomplishing what Samantabhadra himself practices? … Mañjuśrī is your own good friend — he is able to cause you to be born into the tathāgata's own family, nurturing your roots of goodness, accumulating a mass of merit …"</p>
+        <div class="zh">善男子！汝今往詣文殊師利，問云何菩薩學菩薩行、修菩薩道，具足成就普賢所行？……善男子！文殊師利是汝善知識，能令汝得生如來家……</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="ft-part" data-rv><div class="pn">Part 6</div><h2>One question, left open</h2></div>
+
+      <div class="ft-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>Maitreya told him the entering would do it, not the explaining. What have you been trying to understand instead of enter?</p>
+        <p class="sm">This is the hinge of the episode and it is slightly insulting to a course like this one, which is made entirely of explanation. Dozens of parts of Maitreya's speech are reframed, by his own sentence, as preparation for something the speech could not deliver. That does not make the speech worthless — Sudhana needed it, and you have needed eleven sessions — but it does put the reading in its place. Name one thing you have read about for years and not done. Then notice how comfortable the reading has been, and how exactly it has been shaped to postpone the door.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="ft-next" data-rv>
+        <div class="l">Next session · the last</div>
+        <h3>Session 13 · A hand across a hundred and ten yojanas</h3>
+        <p>Sudhana walks south for a hundred and ten cities looking for the teacher who started all this, and Mañjuśrī — without appearing — reaches a hand across the whole distance and touches him on the head. Then Samantabhadra, and the end of the road.</p>
+      </div>
+
+      <div class="ft-foot">
+        <a class="ft-btn ghost" href="{{ '/courses/fifty-three-teachers/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ft-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.ft');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
