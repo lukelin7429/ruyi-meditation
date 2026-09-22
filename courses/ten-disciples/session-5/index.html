@@ -1,0 +1,448 @@
+---
+layout: default
+title: "Session 5 · Subhūti, and an empty Southern column (Ten Who Knew Him)"
+permalink: /courses/ten-disciples/session-5/
+excerpt: Session 5 of Ten Who Knew Him — an ordinary entry on a Pāli list who became, eight hundred years later, the man the Buddha is talking to for the whole of the Diamond Sūtra.
+---
+
+<style>
+  .dp{--stone:#6b5a52;--stone-mid:#443832;--stone-deep:#1e1815;--copper:#c9743f;--copper-deep:#8d4a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f9f6f1;--ink:#241d19;--ink-soft:#6a5e56;--line:#e6ded4;}
+  .dp *{box-sizing:border-box;}
+  .dp-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dp [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dp [data-rv].in{opacity:1;transform:none;}
+
+  .dp-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dp-crumb .dp-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dp-crumb a{color:var(--stone);text-decoration:none;}
+  .dp-crumb a:hover{text-decoration:underline;}
+
+  .dp-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(201,116,63,.22),transparent 62%),
+    linear-gradient(158deg,#6b5a52 0%,#443832 46%,#1e1815 100%);color:#fff;}
+  .dp-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dp-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--copper);font-weight:600;}
+  .dp-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dp-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .dp-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dp-hero .rd b{color:var(--copper);}
+
+  .dp-body{background:#fff;padding:44px 0 24px;}
+  .dp-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dp-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dp-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--stone);}
+  .dp-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dp-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dp-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--stone);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dp-scr{position:relative;border-left:4px solid var(--copper);background:linear-gradient(180deg,#fdfbf8,#f4efe8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dp-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);margin-bottom:10px;}
+  .dp-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--stone-deep);margin:0 0 12px;}
+  .dp-scr p:last-of-type{margin-bottom:0;}
+  .dp-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .dp-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--stone);text-decoration:none;border-bottom:1px solid rgba(107,90,82,.4);}
+  .dp-scr a.bk:hover{border-bottom-color:var(--stone);}
+
+  .dp-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--copper-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dp-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dp-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dp-terms span b{color:var(--stone);}
+
+  .dp-take{background:linear-gradient(180deg,#fdfbf8,#f1eae2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dp-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--stone);margin-bottom:8px;}
+  .dp-take ul{margin:0;padding-left:20px;}
+  .dp-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dp-take li b{color:var(--copper-deep);}
+
+  .dp-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dp-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dp-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dp-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dp-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dp-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dp-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dp-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .dp-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .dp-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--copper);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .dp-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .dp-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--stone);
+    background:#f1eae2;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .dp-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dp-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dp-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dp-prac p:last-child{margin-bottom:0;}
+  .dp-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .dp-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dp-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dp-quiz .q:first-of-type{padding-top:2px;}
+  .dp-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dp-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--stone);text-transform:uppercase;margin-bottom:6px;}
+  .dp-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dp-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dp-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--stone);}
+  .dp-quiz .opt:hover:not(:disabled){background:#f6efe8;border-color:var(--stone);}
+  .dp-quiz .opt:disabled{cursor:default;}
+  .dp-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dp-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dp-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dp-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dp-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .dp-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .dp-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--copper);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dp-quiz .expl.show{display:block;}
+  .dp-quiz .expl strong{color:var(--ink);}
+  .dp-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dp-score strong{color:var(--stone);font-size:17px;}
+
+  .dp-reflect{background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dp-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#cdc1b6;line-height:1.7;margin-top:14px;}
+
+  .dp-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dp-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper-deep);font-weight:700;}
+  .dp-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dp-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dp-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dp-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dp-btn.primary{background:linear-gradient(158deg,#6b5a52,#302722);color:#fff;box-shadow:0 12px 26px -14px rgba(48,39,34,.85);}
+  .dp-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(48,39,34,.95);text-decoration:none;}
+  .dp-btn.ghost{border:1.5px solid var(--stone);color:var(--stone);background:transparent;}
+  .dp-btn.ghost:hover{background:var(--stone);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dp .dp-crumb,.dp-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dp [data-rv]{opacity:1 !important;transform:none !important;}
+    .dp-hero{background:none;color:#000;padding:0;}
+    .dp-hero-in{padding:0 0 12px;}
+    .dp-eyebrow,.dp-hero .subt,.dp-hero .rd{color:#444;}
+    .dp-hero h1{color:#000;}
+    .dp-body{padding:0;}
+    .dp-body p,.dp-body h3,.dp-part h2,.dp-take li,.dp-prac p{color:#000;}
+    .dp-scr,.dp-take,.dp-prac,.dp-quiz,.dp-next{background:#fff !important;border:1px solid #bbb;}
+    .dp-scr p{color:#000;}
+    .dp-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-reflect p,.dp-reflect .l,.dp-reflect p.sm{color:#000;}
+    .dp-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-textcard h3,.dp-textcard p,.dp-textcard .go,.dp-textcard .trad{color:#000;}
+    .dp{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Ten Who Knew Him: course-specific components --- */
+  .dp-best{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--accent,var(--copper));border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-best .n{font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-best .nm{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);}
+  .dp-best .nm .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:18px;color:var(--ink-soft);margin-left:7px;}
+  .dp-best .first{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#fff;
+    background:var(--accent,var(--copper));border-radius:20px;padding:5px 14px;}
+  .dp-best .pali{font-size:14px;color:var(--ink-soft);font-style:italic;}
+
+  .dp-south{border-left:4px solid #b08a3c;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);
+    border-radius:0 14px 14px 0;padding:24px 28px;margin:24px 0;}
+  .dp-south .l{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#8a6a1f;margin-bottom:10px;}
+  .dp-south p{font-size:16px;line-height:1.72;color:var(--ink);margin:0 0 12px;}
+  .dp-south p:last-child{margin-bottom:0;}
+  .dp-south .thin{font-size:15px;color:#8a7146;font-style:italic;}
+  .dp-south a{color:#8a6a1f;font-weight:600;}
+
+  .dp-rebuke{position:relative;border-radius:16px;padding:28px 32px;margin:26px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-rebuke .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-rebuke p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-rebuke .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.32);line-height:1.85;}
+  .dp-rebuke a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--copper);text-decoration:none;border-bottom:1px solid rgba(201,116,63,.4);}
+  .dp-rebuke a.bk:hover{border-bottom-color:var(--copper);}
+</style>
+
+
+<div class="dp" style="--accent:#3f7f72">
+
+  <nav class="dp-crumb"><div class="dp-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/ten-disciples/' | relative_url }}">Ten Who Knew Him</a> → Session 5</div></nav>
+
+  <!-- HERO -->
+  <section class="dp-hero">
+    <div class="dp-hero-in">
+      <div class="dp-eyebrow">Session 5 · The ten · Teacher 4 of 10</div>
+      <h1>Subhūti</h1>
+      <div class="subt">解空第一 — enormous in the North, unremarkable in the South, and the gap is the lesson</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty-five minutes</span>
+        <span><b>Before class</b> Session 4</span>
+        <span><b>Southern column</b> empty — and that is the session</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dp-body">
+    <div class="dp-wrap">
+
+      <div class="dp-best" data-rv>
+        <span class="n">Four of ten</span>
+        <span class="nm">Subhūti<span class="zh">須菩提</span></span>
+        <span class="first">解空第一 · Emptiness</span>
+        <span class="pali">Pāli: Subhūti · one entry among about eighty</span>
+      </div>
+
+      <!-- PART 1 -->
+      <div class="dp-part" data-rv><div class="pn">Part 1</div><h2>Who he was<span class="rf">A childless elder, a voice from the sky, and a bowl that filled itself</span></h2></div>
+
+      <p data-rv>The anthology gives him twice, in two nearly identical entries, which is itself worth noticing — it means the compiler found the same story in two different sources and kept both.</p>
+
+      <p data-rv>A very rich elder in Śrāvastī named Kuru had no son and prayed everywhere without result. A voice from the sky explained the problem, and the explanation is not the one you expect: <em>your own merit is so great that no ordinary being could be born to you — that is why you have no son as yet.</em> A heavenly king nearing the end of his life would have to be found instead.</p>
+
+      <p data-rv>The boy born seven days later was Subhūti, and the description is consistent across both entries: fine appearance, eloquent, intelligent, compassionate, <strong>broadly loving</strong> — 博愛 — and honoured by high and low alike.</p>
+
+      <p data-rv>His family found him unbearable. His uncles and brothers, "growing jealous and resentful, told his mother that this child paid no mind to managing the household." Then the household storehouses were found empty; Subhūti's mother had a servant wash out an empty vessel and told him there was nothing. He opened it, and it was full — 自然百味飯香美, food of a hundred flavours, appearing of itself, and everyone ate and was at peace. Only then did the uncles and brothers understand they were dealing with something unusual.</p>
+
+      <div class="dp-pull" data-rv>The man who would become foremost in emptiness is introduced by a container that turns out not to be empty.</div>
+
+      <p data-rv>The other entry supplies the cause. In a past life he was a boy in a poor household who saw a monk come back from the city with an empty bowl, having received nothing all day. He bowed, invited the monk home, gave him <strong>his own portion of the food, and did not eat</strong>. The merit of that one act carried him through ninety-one kalpas in the heavens. The anthology's own comment: 一施之福尚乃如此。況復多乎 — if the blessing of a single act of giving is like this, how much more of many.</p>
+
+      <!-- PART 2 -->
+      <div class="dp-part" data-rv><div class="pn">Part 2</div><h2>In his own words<span class="rf">Which door he came in by</span></h2></div>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">The Śūraṅgama Sūtra, Fascicle 5 · 11 · Dharmas (Emptiness) · 須菩提</div>
+        <p>"Through boundless kalpas my mind has been free of obstruction; I recall my own births as numerous as the sands of the Ganges. Even in the womb I already knew emptiness and stillness — extending this until the ten directions themselves became empty, I also brought sentient beings to realize the nature of emptiness. Turning all appearances into 'not,' exhausting even 'not,' and returning the Dharma to nothing at all, is foremost."</p>
+        <a class="bk" href="{{ '/sutras/surangama-sutra/fascicle-005/' | relative_url }}">Read all twenty-five accounts →</a>
+      </div>
+
+      <p data-rv>Read the third clause slowly, because it is the most precise description of his speciality anywhere: <strong>turning all appearances into "not," exhausting even "not," and returning the Dharma to nothing at all.</strong> Negation applied, then negation applied to negation, and then no residue left over — including no residue of having negated.</p>
+
+      <p data-rv>That is the method the Diamond Sūtra runs on, and it is why that sūtra needed him.</p>
+
+      <!-- PART 3 -->
+      <div class="dp-part" data-rv><div class="pn">Part 3</div><h2>The Southern column<span class="rf">There isn't one — and this is the session</span></h2></div>
+
+      <div class="dp-south" data-rv>
+        <div class="l">Empty. Stated plainly, because pretending otherwise would be the worse option.</div>
+        <p><strong>Subhūti appears in the Visuddhimagga zero times.</strong> Not briefly, not in passing — not at all. Every other disciple in this course has something in the South's great handbook; he has nothing.</p>
+        <p>In the Pāli canon he is two entries on the etadagga list, in the chapter of foremost monks: worthy of gifts, and dwelling without conflict. That is the whole of it. He is not a chief disciple, not a figure the commentarial literature builds on, and nothing in that list gives the faintest hint of what was going to happen to him.</p>
+        <p>This site's own reading guide to that chapter puts the point in one sentence, and it is the sentence this session exists to sit with:</p>
+        <p style="padding-left:16px;border-left:2px solid #d8bd7e;"><em>"And in the middle sits Subhūti, twice named here, who would be picked up eight hundred years later as the questioner of the Diamond Sūtra and become one of the most familiar names in East Asian Buddhism on the strength of it."</em></p>
+        <p class="thin">He also has a poem in the Theragāthā — in fact the collection's opening poem, about a hut that keeps the rain off, and inviting the rain to fall as it pleases. It is linked below and, like everything in that collection, not quoted here: those pages carry Bhikkhu Sujato's CC0 translation, not Ru-Yi's own.</p>
+        <p><a href="{{ '/discourses/anguttara-nikaya/an-1.188-197.html' | relative_url }}">His etadagga entries →</a> · <a href="{{ '/discourses/theragatha/thag-1.1.html' | relative_url }}">Thag 1.1, the Theragāthā's opening poem →</a></p>
+      </div>
+
+      <p data-rv>So here is the fact this session is built on, stated without decoration.</p>
+
+      <p data-rv><strong>In the South he is a name on a list. In the North he is the man the Buddha is talking to for the length of the most copied, most recited, most commented-on short text in East Asian Buddhism.</strong> The Diamond Sūtra is a conversation, and Subhūti is the other half of it — he asks the opening question, and every "Subhūti, what do you think?" for the rest of the text is addressed to him.</p>
+
+      <p data-rv>Nothing in the Pāli material predicts this. Nothing in it forbids it either. What happened is that the Prajñāpāramitā literature needed a disciple who could be trusted to understand emptiness, went to the roster, and found a man whose two thin entries — <em>dwelling without conflict</em> — were the right shape.</p>
+
+      <div class="dp-take" data-rv>
+        <b class="h">Why an empty column is worth a whole session</b>
+        <ul>
+          <li><b>It shows you that the ten are a construction.</b> Not a fabrication — Subhūti is in the oldest material, and the epithets are not invented. But which of the ten become <em>large</em> depends on what later traditions needed.</li>
+          <li><b>It makes the North–South comparison honest.</b> A course that produced a full Southern column for every session would be manufacturing symmetry that the sources do not have.</li>
+          <li><b>It is the clearest case in the course of a reputation being made by a text.</b> One sūtra, eight hundred years later, and a minor figure becomes a household name across an entire civilisation.</li>
+        </ul>
+      </div>
+
+      <a class="dp-textcard" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}" data-rv>
+        <div class="trad">The Diamond Sūtra · Sections 1–4 · with Taixu's 1927 lecture notes</div>
+        <h3>The conversation that made him</h3>
+        <p>The opening scene, Subhūti's question, the bodhisattva vow, and giving without abiding — the beginning of the text that turned one entry on a Pāli list into one of the most recognised names in East Asia.</p>
+        <span class="go">Read it <span class="arw">→</span></span>
+      </a>
+
+      <!-- PART 4 -->
+      <div class="dp-part" data-rv><div class="pn">Part 4</div><h2>The rebuke<span class="rf">The most alarming passage in the chapter</span></h2></div>
+
+      <p data-rv>Vimalakīrti takes Subhūti's bowl, fills it with rice, and does not hand it back. What follows is a list of conditions on eating it.</p>
+
+      <div class="dp-rebuke" data-rv>
+        <div class="l">Vimalakīrti, to Subhūti</div>
+        <p>"Ah, Subhūti — if you can be equal-minded about food, then you are equal-minded about every phenomenon; and if you are equal-minded about every phenomenon, then you are equal-minded about food as well. Begging in this way, only then may you take this food … if you neither see the four noble truths nor fail to see them; if you neither attain a fruit of the path nor fail to attain one; if you are neither an ordinary person nor apart from the ways of an ordinary person; if you are neither a sage nor not a sage; if, though accomplishing every phenomenon, you remain apart from the mark of every phenomenon — only then may you take this food."</p>
+        <div class="zh">唯，須菩提！若能於食等者，諸法亦等，諸法等者，於食亦等；如是行乞，乃可取食。……不見四諦，非不見諦；非得果，非不得果；非凡夫，非離凡夫法；非聖人，非不聖人；雖成就一切法，而離諸法相，乃可取食。</div>
+        <a class="bk" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>And then it gets much worse. The six heterodox teachers are your teachers, and you fall where they fall. You dwell among the eight difficulties. Whoever gives to you <em>gains no merit</em>; whoever makes offering to you <em>falls into the three evil destinies</em>. You are joined hand in hand with every demon. You slander every buddha. <strong>You will never in the end attain extinction.</strong> If you are like this, only then may you take this food.</p>
+
+      <p data-rv>Subhūti's reaction is the most human moment in the whole chapter. 茫然 — utterly at a loss. He says he did not know what kind of talk this was, did not know how to answer, <strong>set down the bowl and made to leave the house.</strong></p>
+
+      <p data-rv>The site's reading note faces this squarely rather than smoothing it, and names what is happening with Sengzhao's technical term: from the six heterodox teachers onward, the passage is a deliberate case of <strong>逆談以成大順</strong>, "speaking in reverse in order to arrive at great accord." Each clause is built so its surface meaning is the opposite of what it points at — <em>"if you don't see the Buddha"</em> secretly means <em>"if you understand there is no fixed, graspable Buddha to be seen."</em></p>
+
+      <p data-rv>Why phrase it so violently? Because the target is subtle. The passage is designed to make grasping at <em>any</em> fixed spiritual attainment visible as attachment — including "I have correctly seen the Buddha," including "<em>I am not like the six heretical teachers</em>" — by stating the alternative in the most alarming terms available.</p>
+
+      <p data-rv>And notice where it lands. Subhūti is <strong>foremost in emptiness</strong>. He is the one disciple who should be unshakeable when language stops behaving. Instead he takes it at face value, becomes frightened, and tries to leave.</p>
+
+      <p data-rv>Vimalakīrti's answer does not walk any of it back: <em>"take the bowl, and do not be afraid."</em> If a person conjured by the Buddha were challenged like this, would they be afraid? No. Then neither should you be — <strong>"it is precisely because they are not attached to words that they have nothing to fear."</strong></p>
+
+      <!-- PART 5 -->
+      <div class="dp-part" data-rv><div class="pn">Part 5</div><h2>One practice, for this week</h2></div>
+
+      <div class="dp-prac" data-rv>
+        <b class="h">Find where your own vocabulary stops working</b>
+        <p>Subhūti's fault is not that he lacked understanding. It is that his understanding had <strong>a form of words</strong>, and when the words were inverted the understanding went with them.</p>
+        <p>This week, take one thing you are sure you understand — in your work, your practice, your field — and try to say it in a register you never use for it. Explain it to a ten-year-old. Or in one sentence with no technical term at all. Or in the terms of somebody who disagrees with you.</p>
+        <div class="how">Watch for the moment you reach for the familiar phrase and find you are not allowed to have it. That moment is the whole exercise. If the understanding survives the change of vocabulary, it was never resting on the vocabulary. If it does not — if you find you can only think the thought in one set of words — you have located something worth knowing, and you are in good company: so did the disciple foremost in emptiness.</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dp-part" data-rv><div class="pn">Part 6</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="dp-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How often does Subhūti appear in the Visuddhimagga?</div>
+          <button class="opt"><span class="ltr">A</span>More often than any other disciple except Sāriputta</button>
+          <button class="opt"><span class="ltr">B</span>Once, in the chapter on the direct knowledges</button>
+          <button class="opt"><span class="ltr">C</span>Not at all — zero times</button>
+          <button class="opt"><span class="ltr">D</span>Only in the chapter on emptiness</button>
+          <div class="expl"><strong>Correct: C.</strong> Every other disciple in this course has something in the South's great handbook. He has nothing, and the session says so rather than manufacturing symmetry.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is he in the Pāli material, and what changed?</div>
+          <button class="opt"><span class="ltr">A</span>A chief disciple, later demoted in the Mahāyāna sources</button>
+          <button class="opt"><span class="ltr">B</span>Two thin entries on the etadagga list — worthy of gifts, and dwelling without conflict — until, eight hundred years later, the Diamond Sūtra made him the Buddha's interlocutor</button>
+          <button class="opt"><span class="ltr">C</span>Absent from the Pāli canon entirely, and a Mahāyāna invention</button>
+          <button class="opt"><span class="ltr">D</span>Named foremost in emptiness in the Pāli list as well</button>
+          <div class="expl"><strong>Correct: B.</strong> Nothing in the Pāli predicts what happened; nothing forbids it either. The Prajñāpāramitā literature went to the roster and found a man whose thin entries were the right shape.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">How does Subhūti describe his own method in the Śūraṅgama?</div>
+          <button class="opt"><span class="ltr">A</span>Contemplating the impurity of the body until desire ceased</button>
+          <button class="opt"><span class="ltr">B</span>Listening to the Buddha expound the four noble truths repeatedly</button>
+          <button class="opt"><span class="ltr">C</span>Attending on the Buddha and remembering everything said</button>
+          <button class="opt"><span class="ltr">D</span>Turning all appearances into "not," exhausting even "not," and returning the Dharma to nothing at all</button>
+          <div class="expl"><strong>Correct: D.</strong> Negation, then negation of the negation, and then no residue — including no residue of having negated. That is the method the Diamond Sūtra runs on.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does Subhūti actually do when Vimalakīrti finishes the list of conditions?</div>
+          <button class="opt"><span class="ltr">A</span>茫然 — utterly at a loss, not knowing what kind of talk it was or how to answer, he sets down the bowl and makes to leave the house</button>
+          <button class="opt"><span class="ltr">B</span>He answers each clause in turn, correctly</button>
+          <button class="opt"><span class="ltr">C</span>He accepts the food without comment</button>
+          <button class="opt"><span class="ltr">D</span>He calls for the Buddha to arbitrate</button>
+          <div class="expl"><strong>Correct: A.</strong> The disciple foremost in emptiness takes it at face value, becomes frightened, and tries to leave. Vimalakīrti's reply: "take the bowl, and do not be afraid."</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What is Sengzhao's name for what the alarming passage is doing?</div>
+          <button class="opt"><span class="ltr">A</span>A scribal corruption, to be emended</button>
+          <button class="opt"><span class="ltr">B</span>A literal instruction for advanced practitioners only</button>
+          <button class="opt"><span class="ltr">C</span>逆談以成大順 — "speaking in reverse in order to arrive at great accord," where each clause's surface meaning is the opposite of what it points at</button>
+          <button class="opt"><span class="ltr">D</span>A test of Subhūti's memory of the monastic code</button>
+          <div class="expl"><strong>Correct: C.</strong> "If you don't see the Buddha" means "if you understand there is no fixed, graspable Buddha to be seen." The violence of the phrasing is the point: it makes grasping at any fixed attainment — including "I am not like the six heretical teachers" — visible as attachment.</div>
+        </div>
+
+        <div class="dp-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="dp-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="dp-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>A minor entry on a list became a household name because one text needed him. What does that tell you about the names you have heard of?</p>
+        <p class="sm">Be careful with the cynical version, which is too easy: this is not a story about fraud. Subhūti is genuinely in the earliest material, the Diamond Sūtra genuinely needed someone who dwelt without conflict, and the fit is real. What the case shows is subtler and applies well beyond Buddhism — that being remembered and being significant are two different variables, that later needs do a great deal of the selecting, and that the figures you have heard of are, in part, the ones who turned out to be useful to somebody writing later. Including, probably, the people you regard as most important in your own field.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="dp-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 6 · Pūrṇa 富樓那 · 說法第一</h3>
+        <p>The great preacher, whom you have already met once — he is the one Vimalakīrti caught teaching a group of monks who had forgotten, lifetimes ago, that they had already vowed themselves to the Great Vehicle. The fault is the same one Maudgalyāyana was charged with, and the Lotus Sūtra's answer to it is startling: he was never really a śrāvaka at all.</p>
+      </div>
+
+      <div class="dp-foot">
+        <a class="dp-btn ghost" href="{{ '/courses/ten-disciples/' | relative_url }}">← Course overview</a>
+        <button type="button" class="dp-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.dp');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
