@@ -1,0 +1,437 @@
+---
+layout: default
+title: "Session 6 · Pūrṇa, foremost in preaching (Ten Who Knew Him)"
+permalink: /courses/ten-disciples/session-6/
+excerpt: Session 6 of Ten Who Knew Him — two Mahāyāna sūtras on this site contradict each other outright about whether Pūrṇa could read his listeners.
+---
+
+<style>
+  .dp{--stone:#6b5a52;--stone-mid:#443832;--stone-deep:#1e1815;--copper:#c9743f;--copper-deep:#8d4a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f9f6f1;--ink:#241d19;--ink-soft:#6a5e56;--line:#e6ded4;}
+  .dp *{box-sizing:border-box;}
+  .dp-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dp [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dp [data-rv].in{opacity:1;transform:none;}
+
+  .dp-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dp-crumb .dp-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dp-crumb a{color:var(--stone);text-decoration:none;}
+  .dp-crumb a:hover{text-decoration:underline;}
+
+  .dp-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(201,116,63,.22),transparent 62%),
+    linear-gradient(158deg,#6b5a52 0%,#443832 46%,#1e1815 100%);color:#fff;}
+  .dp-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dp-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--copper);font-weight:600;}
+  .dp-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dp-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .dp-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dp-hero .rd b{color:var(--copper);}
+
+  .dp-body{background:#fff;padding:44px 0 24px;}
+  .dp-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dp-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dp-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--stone);}
+  .dp-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dp-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dp-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--stone);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dp-scr{position:relative;border-left:4px solid var(--copper);background:linear-gradient(180deg,#fdfbf8,#f4efe8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dp-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);margin-bottom:10px;}
+  .dp-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--stone-deep);margin:0 0 12px;}
+  .dp-scr p:last-of-type{margin-bottom:0;}
+  .dp-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .dp-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--stone);text-decoration:none;border-bottom:1px solid rgba(107,90,82,.4);}
+  .dp-scr a.bk:hover{border-bottom-color:var(--stone);}
+
+  .dp-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--copper-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dp-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dp-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dp-terms span b{color:var(--stone);}
+
+  .dp-take{background:linear-gradient(180deg,#fdfbf8,#f1eae2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dp-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--stone);margin-bottom:8px;}
+  .dp-take ul{margin:0;padding-left:20px;}
+  .dp-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dp-take li b{color:var(--copper-deep);}
+
+  .dp-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dp-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dp-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dp-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dp-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dp-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dp-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dp-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .dp-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .dp-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--copper);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .dp-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .dp-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--stone);
+    background:#f1eae2;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .dp-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dp-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dp-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dp-prac p:last-child{margin-bottom:0;}
+  .dp-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .dp-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dp-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dp-quiz .q:first-of-type{padding-top:2px;}
+  .dp-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dp-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--stone);text-transform:uppercase;margin-bottom:6px;}
+  .dp-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dp-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dp-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--stone);}
+  .dp-quiz .opt:hover:not(:disabled){background:#f6efe8;border-color:var(--stone);}
+  .dp-quiz .opt:disabled{cursor:default;}
+  .dp-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dp-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dp-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dp-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dp-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .dp-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .dp-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--copper);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dp-quiz .expl.show{display:block;}
+  .dp-quiz .expl strong{color:var(--ink);}
+  .dp-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dp-score strong{color:var(--stone);font-size:17px;}
+
+  .dp-reflect{background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dp-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#cdc1b6;line-height:1.7;margin-top:14px;}
+
+  .dp-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dp-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper-deep);font-weight:700;}
+  .dp-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dp-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dp-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dp-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dp-btn.primary{background:linear-gradient(158deg,#6b5a52,#302722);color:#fff;box-shadow:0 12px 26px -14px rgba(48,39,34,.85);}
+  .dp-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(48,39,34,.95);text-decoration:none;}
+  .dp-btn.ghost{border:1.5px solid var(--stone);color:var(--stone);background:transparent;}
+  .dp-btn.ghost:hover{background:var(--stone);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dp .dp-crumb,.dp-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dp [data-rv]{opacity:1 !important;transform:none !important;}
+    .dp-hero{background:none;color:#000;padding:0;}
+    .dp-hero-in{padding:0 0 12px;}
+    .dp-eyebrow,.dp-hero .subt,.dp-hero .rd{color:#444;}
+    .dp-hero h1{color:#000;}
+    .dp-body{padding:0;}
+    .dp-body p,.dp-body h3,.dp-part h2,.dp-take li,.dp-prac p{color:#000;}
+    .dp-scr,.dp-take,.dp-prac,.dp-quiz,.dp-next{background:#fff !important;border:1px solid #bbb;}
+    .dp-scr p{color:#000;}
+    .dp-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-reflect p,.dp-reflect .l,.dp-reflect p.sm{color:#000;}
+    .dp-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-textcard h3,.dp-textcard p,.dp-textcard .go,.dp-textcard .trad{color:#000;}
+    .dp{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Ten Who Knew Him: course-specific components --- */
+  .dp-best{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--accent,var(--copper));border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-best .n{font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-best .nm{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);}
+  .dp-best .nm .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:18px;color:var(--ink-soft);margin-left:7px;}
+  .dp-best .first{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#fff;
+    background:var(--accent,var(--copper));border-radius:20px;padding:5px 14px;}
+  .dp-best .pali{font-size:14px;color:var(--ink-soft);font-style:italic;}
+
+  .dp-south{border-left:4px solid #b08a3c;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);
+    border-radius:0 14px 14px 0;padding:24px 28px;margin:24px 0;}
+  .dp-south .l{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#8a6a1f;margin-bottom:10px;}
+  .dp-south p{font-size:16px;line-height:1.72;color:var(--ink);margin:0 0 12px;}
+  .dp-south p:last-child{margin-bottom:0;}
+  .dp-south .thin{font-size:15px;color:#8a7146;font-style:italic;}
+  .dp-south a{color:#8a6a1f;font-weight:600;}
+
+  .dp-rebuke{position:relative;border-radius:16px;padding:28px 32px;margin:26px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-rebuke .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-rebuke p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-rebuke .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.32);line-height:1.85;}
+  .dp-rebuke a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--copper);text-decoration:none;border-bottom:1px solid rgba(201,116,63,.4);}
+  .dp-rebuke a.bk:hover{border-bottom-color:var(--copper);}
+</style>
+
+
+<div class="dp" style="--accent:#b0572c">
+
+  <nav class="dp-crumb"><div class="dp-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/ten-disciples/' | relative_url }}">Ten Who Knew Him</a> → Session 6</div></nav>
+
+  <!-- HERO -->
+  <section class="dp-hero">
+    <div class="dp-hero-in">
+      <div class="dp-eyebrow">Session 6 · The ten · Teacher 5 of 10</div>
+      <h1>Pūrṇa</h1>
+      <div class="subt">說法第一 — accused of not knowing his audience in one sūtra, praised for exactly that skill in another</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty-five minutes</span>
+        <span><b>Before class</b> Session 5</span>
+        <span><b>The hinge</b> two sūtras, flatly disagreeing</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dp-body">
+    <div class="dp-wrap">
+
+      <div class="dp-best" data-rv>
+        <span class="n">Five of ten</span>
+        <span class="nm">Pūrṇa<span class="zh">富樓那彌多羅尼子</span></span>
+        <span class="first">說法第一 · Preaching</span>
+        <span class="pali">Pāli: Puṇṇa son of Mantāṇī · foremost among those who speak on the teaching</span>
+      </div>
+
+      <!-- PART 1 -->
+      <div class="dp-part" data-rv><div class="pn">Part 1</div><h2>Who he was<span class="rf">A man with almost no biography and an enormous job</span></h2></div>
+
+      <p data-rv>Start with an absence. The anthology this course has been drawing its life-stories from has <strong>no story about Pūrṇa</strong> — his name appears in it once, in passing, in somebody else's episode. There is no birth, no conversion, no family, no anecdote.</p>
+
+      <p data-rv>What there is instead is a job description, and it is the largest in the course. The Lotus Sūtra's account of him does not begin with his life at all; it begins with a claim about his career across other lifetimes.</p>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">The Lotus Sūtra, Part 10 · Pūrṇa's prediction</div>
+        <p>"Do you see this Pūrṇamaitrāyaṇīputra? I have always called him foremost among those who teach the Dharma, and have always praised his every kind of merit, his diligent upholding and proclaiming of my Dharma, his ability to teach, instruct, benefit, and delight the fourfold assembly, his complete explanation of the Buddha's true Dharma …"</p>
+        <div class="zh">汝等見是富樓那彌多羅尼子不？我常稱其於說法人中最為第一，亦常歎其種種功德，精勤護持助宣我法，能於四眾示教利喜，具足解釋佛之正法……</div>
+        <a class="bk" href="{{ '/sutras/lotus-sutra/the-jeweled-robe-and-the-priceless-pearl.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>The Buddha then says something that should stop you: 自捨如來，無能盡其言論之辯 — <em>apart from the Tathāgata himself, nobody can exhaust his eloquence in argument.</em> And that he was foremost among Dharma-teachers under <strong>nine billion past buddhas</strong>, foremost for seven buddhas, foremost now, and will be foremost for the buddhas of this present aeon still to come.</p>
+
+      <p data-rv>Then the passage does something stranger. It says that in those past buddha-fields, 彼佛世人咸皆謂之實是聲聞 — "the people of that buddha's world all took him to be truly a śrāvaka" — and that this was not the truth about him. The verse states it directly:</p>
+
+      <div class="dp-pull" data-rv>內祕菩薩行，外現是聲聞 — "secretly holding the practice of a bodhisattva, outwardly appearing as a śrāvaka."</div>
+
+      <p data-rv>And the line immediately after that one is worth carrying into the rest of this course: 示眾有三毒，又現邪見相 — <em>"they show the assembly that they have the three poisons, and manifest even the marks of wrong view."</em> If you took <a href="{{ '/courses/fifty-three-teachers/' | relative_url }}" style="color:var(--copper-deep);font-weight:600;">Fifty-Three Teachers</a>, you have already spent three sessions on exactly that claim.</p>
+
+      <!-- PART 2 -->
+      <div class="dp-part" data-rv><div class="pn">Part 2</div><h2>In his own words<span class="rf">Which door he came in by</span></h2></div>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">The Śūraṅgama Sūtra, Fascicle 5 · 15 · Sound · 富樓那彌多羅尼子</div>
+        <p>"Through boundless kalpas my eloquence has been unobstructed, proclaiming suffering and emptiness and penetrating deeply into true reality — expounding even the secret Dharma-gates of Buddhas numerous as the sands of the Ganges, without fear. Knowing my great eloquence, the World-Honored One taught me to develop it through the very turning of sound itself. Subduing demons and enemies through the sound of the Dharma, extinguishing all outflows, is foremost."</p>
+        <a class="bk" href="{{ '/sutras/surangama-sutra/fascicle-005/' | relative_url }}">Read all twenty-five accounts →</a>
+      </div>
+
+      <p data-rv>Notice the pedagogy in the middle sentence. The Buddha does not teach him to overcome a weakness; <strong>he notices what the man already has and tells him to develop that</strong> — 知我有大辯才，以音聲輪教我發揚. This is the twenty-five gates' whole premise: not one method, but each person sent in by the faculty they already possess.</p>
+
+      <!-- PART 3 -->
+      <div class="dp-part" data-rv><div class="pn">Part 3</div><h2>The Southern column<span class="rf">Thin on biography, and pointed on something else</span></h2></div>
+
+      <div class="dp-south" data-rv>
+        <div class="l">Two cautions and one genuinely useful finding.</div>
+        <p><strong>First, a name problem.</strong> The Pāli canon has more than one Puṇṇa, and they are easy to confuse. The one who matches this session is <em>Puṇṇa son of Mantāṇī</em> — Pūrṇa Maitrāyaṇīputra, 富樓那彌多羅尼子 — named at AN 1.196 as "foremost among those who speak on the teaching." A different Puṇṇa has a famous discourse of his own. This course is careful about that distinction because the Chinese anthology's own entry on a "Pūrṇa" who rose from slavery is <strong>a different man again</strong>, and conflating them would be easy and wrong.</p>
+        <p><strong>Second, the scale.</strong> The Visuddhimagga mentions him only a couple of times. There is no Southern life-story here any more than there is a Northern one.</p>
+        <p><strong>Third — and this is the useful part.</strong> The Pāli title he holds is <em>dhammakathika</em>, "one who speaks on the teaching." It is not a title reserved for him, or for monks. This site's own reading guide to the lay chapter makes the point:</p>
+        <p style="padding-left:16px;border-left:2px solid #d8bd7e;"><em>"Citta Macchikāsaṇḍika is foremost among laymen who speak on the teaching — the same category, dhammakathika, that Puṇṇa holds among the monks and Dhammadinnā among the nuns. A householder is named unsurpassed at teaching the Dhamma. Elsewhere in the canon Citta is shown out-arguing senior monastics on doctrinal points."</em></p>
+        <p class="thin">Hold that beside what is about to happen in Part 4, where a layman out-teaches this monk in the street. The Vimalakīrti Sūtra is often read as a Mahāyāna provocation against a monastic establishment. The Pāli list had already named a householder unsurpassed in the same category, several centuries earlier, without any polemic at all.</p>
+        <p><a href="{{ '/discourses/anguttara-nikaya/an-1.188-197.html' | relative_url }}">AN 1.188–197, where Puṇṇa is named →</a> · <a href="{{ '/discourses/anguttara-nikaya/an-1.248-257.html' | relative_url }}">AN 1.248–257, the foremost laymen →</a></p>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="dp-part" data-rv><div class="pn">Part 4</div><h2>The rebuke<span class="rf">Two sūtras, one man, opposite verdicts on the same skill</span></h2></div>
+
+      <p data-rv>You met this scene in Session 3, from the other side. Vimalakīrti's charge against Maudgalyāyana was that he had misjudged who was in front of him. Here the same charge is made again, and this time it is made against <strong>the man whose entire reputation is knowing how to address an audience</strong>.</p>
+
+      <div class="dp-rebuke" data-rv>
+        <div class="l">Pūrṇa, recalling it himself</div>
+        <p>"Vimalakīrti then taught them the Dharma, so that they would never again turn back from unsurpassed, perfect and complete awakening. I reflected that a śrāvaka who does not first observe a person's faculties should not teach the Dharma — this is why I am not able to go and inquire after his illness."</p>
+        <a class="bk" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>What had happened: Pūrṇa was teaching a group of monks, pitched at what he judged they could take. Vimalakīrti did not argue with him. He entered meditative absorption and <em>let the monks recover their own memory</em> of a vow they had made, lifetimes earlier, to the Great Vehicle — a vow Pūrṇa had just judged them incapable of.</p>
+
+      <p data-rv>Sengzhao's note on the page gives the stakes precisely, and it is more generous to Pūrṇa than the surface reading. Even śrāvakas with the deepest concentration can see back perhaps eighty thousand aeons into a being's past — <em>and only while actually absorbed in that concentration, not as a standing capacity</em>. A bodhisattva's vision is described as reaching without limit. So: <strong>"Pūrṇa's fault was not laziness but exactly this gap"</strong> — judging readiness from what his own considerable but bounded perception showed him.</p>
+
+      <p data-rv>Now put that next to the Lotus Sūtra, on this site, describing the same man:</p>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">The Lotus Sūtra, Part 10 · from the verse</div>
+        <p>"Already having crossed over with great spiritual powers, complete with the four unobstructed wisdoms, <strong>knowing beings' faculties, sharp or dull, he constantly taught the pure Dharma.</strong>"</p>
+        <div class="zh">已度大神通，　具四無礙智，知諸根利鈍，　常說清淨法。</div>
+        <a class="bk" href="{{ '/sutras/lotus-sutra/the-jeweled-robe-and-the-priceless-pearl.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>知諸根利鈍. <strong>That is the exact capacity Vimalakīrti says he lacks.</strong> Two Mahāyāna sūtras, both translated on this site, disagree outright about the one thing this man is supposed to be best at.</p>
+
+      <p data-rv>It is possible to reconcile them, and the Lotus supplies the material to do it: if Pūrṇa is 內祕菩薩行，外現是聲聞 — secretly a bodhisattva, outwardly a śrāvaka — then the monk who appeared to misjudge his listeners in Vaiśālī was <em>playing a part</em>, and the misjudgement is itself the performance.</p>
+
+      <p data-rv>But notice what that costs. It makes the rebuke unfalsifiable, and it drains the scene of the thing that made it useful: a real teacher, making a real error about real people, corrected. <strong>You can have the consoling reading or the instructive one.</strong> This course's preference is to leave both texts standing and not pick, but the preference is a preference, and you should know it is being exercised.</p>
+
+      <!-- PART 5 -->
+      <div class="dp-part" data-rv><div class="pn">Part 5</div><h2>One practice, for this week</h2></div>
+
+      <div class="dp-prac" data-rv>
+        <b class="h">Ask instead of estimating</b>
+        <p>Pūrṇa's error is the most professional error there is: he assessed his audience competently, and was wrong, and had no way of finding out. The bodhisattva's advantage in this story is not better teaching. It is <strong>better information</strong>.</p>
+        <p>This week, in one situation where you would normally pitch something at the level you judge appropriate — a lesson, a briefing, a conversation with a child or a parent — <strong>ask first</strong>. Not "does that make sense?" after the fact. Before: what do you already know about this? what would actually be useful here?</p>
+        <div class="how">Then notice how strong the resistance is. Asking costs a little authority, makes the exchange slower, and risks an answer that obliges you to change your plan. That cost is exactly why competent people estimate instead. Sengzhao's line is the one to hold: the fault was not laziness — it was judging from what his own bounded perception showed him. Yours is bounded too, and unlike Pūrṇa you have the option of simply asking.</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dp-part" data-rv><div class="pn">Part 6</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="dp-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does the Lotus Sūtra say the people of past buddha-fields believed about Pūrṇa?</div>
+          <button class="opt"><span class="ltr">A</span>That he was a buddha in disguise</button>
+          <button class="opt"><span class="ltr">B</span>彼佛世人咸皆謂之實是聲聞 — that they all took him to be truly a śrāvaka, when he was 內祕菩薩行，外現是聲聞, secretly holding a bodhisattva's practice while outwardly appearing as one</button>
+          <button class="opt"><span class="ltr">C</span>That he had never taught the Dharma before this life</button>
+          <button class="opt"><span class="ltr">D</span>That he was the Buddha's own brother</button>
+          <div class="expl"><strong>Correct: B.</strong> And the next line goes further: 示眾有三毒，又現邪見相 — they show the assembly the three poisons and manifest even the marks of wrong view. That is the claim Fifty-Three Teachers spends three sessions on.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">How did the Buddha teach Pūrṇa, according to Pūrṇa's own Śūraṅgama account?</div>
+          <button class="opt"><span class="ltr">A</span>By assigning him the contemplation of impurity to counter his pride in speech</button>
+          <button class="opt"><span class="ltr">B</span>By silencing him for twelve years</button>
+          <button class="opt"><span class="ltr">C</span>By noticing the great eloquence he already had, and teaching him to develop it through the turning of sound itself</button>
+          <button class="opt"><span class="ltr">D</span>By sending him to Śāriputra for instruction</button>
+          <div class="expl"><strong>Correct: C.</strong> Not correcting a weakness — developing what was already there. That is the premise of all twenty-five gates.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Who else, in the Pāli list, holds the same category — <em>dhammakathika</em> — that Puṇṇa holds among the monks?</div>
+          <button class="opt"><span class="ltr">A</span>Nobody; it is reserved for him alone</button>
+          <button class="opt"><span class="ltr">B</span>Only Sāriputta, among the chief disciples</button>
+          <button class="opt"><span class="ltr">C</span>Only other monks of his own generation</button>
+          <button class="opt"><span class="ltr">D</span>Dhammadinnā among the nuns, and Citta Macchikāsaṇḍika among the laymen — a householder named unsurpassed at teaching the Dhamma</button>
+          <div class="expl"><strong>Correct: D.</strong> Worth holding beside Part 4, where a layman out-teaches a monk: the Pāli list had already done that, without polemic, centuries earlier.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">On Sengzhao's reading, what exactly was Pūrṇa's fault?</div>
+          <button class="opt"><span class="ltr">A</span>Not laziness, but a gap in perceptual range — judging the monks' readiness from what his own considerable but bounded perception showed him</button>
+          <button class="opt"><span class="ltr">B</span>Teaching without permission from the Buddha</button>
+          <button class="opt"><span class="ltr">C</span>Teaching the Great Vehicle to people unready for it</button>
+          <button class="opt"><span class="ltr">D</span>Preferring eloquence to accuracy</button>
+          <div class="expl"><strong>Correct: A.</strong> Even the deepest śrāvaka concentration reaches back perhaps eighty thousand aeons — and only while absorbed, not as a standing capacity. What mattered was invisible from where he stood.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What do the Vimalakīrti and Lotus sūtras say about Pūrṇa's ability to read his listeners?</div>
+          <button class="opt"><span class="ltr">A</span>Both say he lacked it</button>
+          <button class="opt"><span class="ltr">B</span>Both say he possessed it</button>
+          <button class="opt"><span class="ltr">C</span>They contradict each other: Vimalakīrti says he did not first observe faculties; the Lotus says 知諸根利鈍, knowing beings' faculties sharp or dull, he constantly taught the pure Dharma</button>
+          <button class="opt"><span class="ltr">D</span>Neither addresses the question</button>
+          <div class="expl"><strong>Correct: C.</strong> The Lotus supplies the materials to reconcile them — the misjudgement would be a performance — but that reading makes the rebuke unfalsifiable and drains the scene of its use. This course leaves both standing.</div>
+        </div>
+
+        <div class="dp-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="dp-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="dp-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>If someone's failure can always be re-described as a deliberate performance, what has the description cost you?</p>
+        <p class="sm">內祕菩薩行，外現是聲聞 is a beautiful idea and a dangerous habit of mind. Applied once, it rescues a revered figure from an embarrassing scene. Applied as a reflex, it makes every error of every admired person into hidden skill, and there is then nothing anyone could do that would count as being wrong. You will recognise the move outside religion too — in politics, in institutions, in families, wherever loyalty needs a mechanism. The question is not whether it is ever true. It is what you would accept as evidence that, this time, it is not.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="dp-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 7 · Kātyāyana 迦旃延 · 論議第一</h3>
+        <p>Foremost in exposition — the man who takes a brief statement of the Buddha's and explains it at length. The anthology remembers him for something else entirely: teaching a destitute old woman how to <em>sell her poverty</em>, which is either the kindest thing in this course or the strangest.</p>
+      </div>
+
+      <div class="dp-foot">
+        <a class="dp-btn ghost" href="{{ '/courses/ten-disciples/' | relative_url }}">← Course overview</a>
+        <button type="button" class="dp-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.dp');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
