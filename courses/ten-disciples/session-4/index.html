@@ -1,0 +1,444 @@
+---
+layout: default
+title: "Session 4 · Mahākāśyapa, foremost in austerity (Ten Who Knew Him)"
+permalink: /courses/ten-disciples/session-4/
+excerpt: Session 4 of Ten Who Knew Him — the same four characters, 捨豪富從貧乞, told as compassion in one text and named as the fault in another.
+---
+
+<style>
+  .dp{--stone:#6b5a52;--stone-mid:#443832;--stone-deep:#1e1815;--copper:#c9743f;--copper-deep:#8d4a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f9f6f1;--ink:#241d19;--ink-soft:#6a5e56;--line:#e6ded4;}
+  .dp *{box-sizing:border-box;}
+  .dp-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dp [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dp [data-rv].in{opacity:1;transform:none;}
+
+  .dp-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dp-crumb .dp-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dp-crumb a{color:var(--stone);text-decoration:none;}
+  .dp-crumb a:hover{text-decoration:underline;}
+
+  .dp-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(201,116,63,.22),transparent 62%),
+    linear-gradient(158deg,#6b5a52 0%,#443832 46%,#1e1815 100%);color:#fff;}
+  .dp-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dp-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--copper);font-weight:600;}
+  .dp-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dp-hero .subt{font-style:italic;font-size:18px;color:#eaeedb;}
+  .dp-hero .rd{margin-top:24px;font-size:14px;color:#ccd3b4;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dp-hero .rd b{color:var(--copper);}
+
+  .dp-body{background:#fff;padding:44px 0 24px;}
+  .dp-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dp-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dp-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--stone);}
+  .dp-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dp-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dp-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--stone);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dp-scr{position:relative;border-left:4px solid var(--copper);background:linear-gradient(180deg,#fdfbf8,#f4efe8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dp-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);margin-bottom:10px;}
+  .dp-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--stone-deep);margin:0 0 12px;}
+  .dp-scr p:last-of-type{margin-bottom:0;}
+  .dp-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#7d8558;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #dde2c9;line-height:1.85;}
+  .dp-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--stone);text-decoration:none;border-bottom:1px solid rgba(107,90,82,.4);}
+  .dp-scr a.bk:hover{border-bottom-color:var(--stone);}
+
+  .dp-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--copper-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dp-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dp-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dp-terms span b{color:var(--stone);}
+
+  .dp-take{background:linear-gradient(180deg,#fdfbf8,#f1eae2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dp-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--stone);margin-bottom:8px;}
+  .dp-take ul{margin:0;padding-left:20px;}
+  .dp-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dp-take li b{color:var(--copper-deep);}
+
+  .dp-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dp-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dp-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dp-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dp-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dp-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dp-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dp-textcard:hover .go .arw{transform:translateX(5px);}
+
+  /* the referral — each teacher sends Sudhana on */
+  .dp-refer{position:relative;border-radius:16px;padding:26px 30px;margin:30px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-refer .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-refer p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-refer .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.3);line-height:1.85;}
+  /* the teacher card at the head of each session */
+  .dp-who{display:flex;flex-wrap:wrap;gap:12px 26px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--copper);border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-who .n{font-family:'Playfair Display',serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-who .nm{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);}
+  .dp-who .rl{font-size:14.5px;color:var(--ink-soft);font-style:italic;}
+  .dp-who .st{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--stone);
+    background:#f1eae2;border:1px solid var(--line);border-radius:20px;padding:4px 12px;}
+  .dp-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dp-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dp-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dp-prac p:last-child{margin-bottom:0;}
+  .dp-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz — same component as the sūtra pages */
+  .dp-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dp-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dp-quiz .q:first-of-type{padding-top:2px;}
+  .dp-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dp-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--stone);text-transform:uppercase;margin-bottom:6px;}
+  .dp-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dp-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dp-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--stone);}
+  .dp-quiz .opt:hover:not(:disabled){background:#f6efe8;border-color:var(--stone);}
+  .dp-quiz .opt:disabled{cursor:default;}
+  .dp-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dp-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dp-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dp-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dp-quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .dp-quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .dp-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--copper);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dp-quiz .expl.show{display:block;}
+  .dp-quiz .expl strong{color:var(--ink);}
+  .dp-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dp-score strong{color:var(--stone);font-size:17px;}
+
+  .dp-reflect{background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dp-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#cdc1b6;line-height:1.7;margin-top:14px;}
+
+  .dp-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dp-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper-deep);font-weight:700;}
+  .dp-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dp-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dp-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dp-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dp-btn.primary{background:linear-gradient(158deg,#6b5a52,#302722);color:#fff;box-shadow:0 12px 26px -14px rgba(48,39,34,.85);}
+  .dp-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(48,39,34,.95);text-decoration:none;}
+  .dp-btn.ghost{border:1.5px solid var(--stone);color:var(--stone);background:transparent;}
+  .dp-btn.ghost:hover{background:var(--stone);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dp .dp-crumb,.dp-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dp [data-rv]{opacity:1 !important;transform:none !important;}
+    .dp-hero{background:none;color:#000;padding:0;}
+    .dp-hero-in{padding:0 0 12px;}
+    .dp-eyebrow,.dp-hero .subt,.dp-hero .rd{color:#444;}
+    .dp-hero h1{color:#000;}
+    .dp-body{padding:0;}
+    .dp-body p,.dp-body h3,.dp-part h2,.dp-take li,.dp-prac p{color:#000;}
+    .dp-scr,.dp-take,.dp-prac,.dp-quiz,.dp-next{background:#fff !important;border:1px solid #bbb;}
+    .dp-scr p{color:#000;}
+    .dp-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-reflect p,.dp-reflect .l,.dp-reflect p.sm{color:#000;}
+    .dp-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dp-textcard h3,.dp-textcard p,.dp-textcard .go,.dp-textcard .trad{color:#000;}
+    .dp{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Ten Who Knew Him: course-specific components --- */
+  .dp-best{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:baseline;background:var(--cream);
+    border:1px solid var(--line);border-left:4px solid var(--accent,var(--copper));border-radius:0 12px 12px 0;padding:18px 24px;margin:22px 0;}
+  .dp-best .n{font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--copper-deep);}
+  .dp-best .nm{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);}
+  .dp-best .nm .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:18px;color:var(--ink-soft);margin-left:7px;}
+  .dp-best .first{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#fff;
+    background:var(--accent,var(--copper));border-radius:20px;padding:5px 14px;}
+  .dp-best .pali{font-size:14px;color:var(--ink-soft);font-style:italic;}
+
+  .dp-south{border-left:4px solid #b08a3c;background:linear-gradient(180deg,#fdfaf3,#f8f1e3);
+    border-radius:0 14px 14px 0;padding:24px 28px;margin:24px 0;}
+  .dp-south .l{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#8a6a1f;margin-bottom:10px;}
+  .dp-south p{font-size:16px;line-height:1.72;color:var(--ink);margin:0 0 12px;}
+  .dp-south p:last-child{margin-bottom:0;}
+  .dp-south .thin{font-size:15px;color:#8a7146;font-style:italic;}
+  .dp-south a{color:#8a6a1f;font-weight:600;}
+
+  .dp-rebuke{position:relative;border-radius:16px;padding:28px 32px;margin:26px 0 10px;
+    background:linear-gradient(158deg,#6b5a52 0%,#443832 48%,#1e1815 100%);color:#e8e0d6;
+    box-shadow:0 24px 48px -30px rgba(30,24,21,.8);overflow:hidden;}
+  .dp-rebuke .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--copper);font-weight:700;}
+  .dp-rebuke p{font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dp-rebuke .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15px;color:#cdc1b6;
+    margin-top:14px;padding-top:12px;border-top:1px dashed rgba(201,116,63,.32);line-height:1.85;}
+  .dp-rebuke a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--copper);text-decoration:none;border-bottom:1px solid rgba(201,116,63,.4);}
+  .dp-rebuke a.bk:hover{border-bottom-color:var(--copper);}
+</style>
+
+
+<div class="dp" style="--accent:#a9803c">
+
+  <nav class="dp-crumb"><div class="dp-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/ten-disciples/' | relative_url }}">Ten Who Knew Him</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="dp-hero">
+    <div class="dp-hero-in">
+      <div class="dp-eyebrow">Session 4 · The ten · Teacher 3 of 10</div>
+      <h1>Mahākāśyapa</h1>
+      <div class="subt">頭陀第一 — he begged only from the poor, and two texts on this site disagree completely about why</div>
+      <div class="rd">
+        <span><b>Reading time</b> about twenty-five minutes</span>
+        <span><b>Before class</b> Session 3</span>
+        <span><b>The hinge</b> four characters, in two sūtras</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dp-body">
+    <div class="dp-wrap">
+
+      <div class="dp-best" data-rv>
+        <span class="n">Three of ten</span>
+        <span class="nm">Mahākāśyapa<span class="zh">大迦葉</span></span>
+        <span class="first">頭陀第一 · Austerity</span>
+        <span class="pali">Pāli: Mahākassapa · foremost among those who advocate ascetic practices</span>
+      </div>
+
+      <!-- PART 1 -->
+      <div class="dp-part" data-rv><div class="pn">Part 1</div><h2>Who he was<span class="rf">A marriage nobody wanted, and a body still sitting in a mountain</span></h2></div>
+
+      <p data-rv>He was born to the richest brahmin family in Magadha — the anthology says their wealth was second only to the king's, and by a thousandth part. His skin was the colour of gold and he gave off light. The physiognomists warned his parents that if this child ever went forth he would certainly attain the path, which alarmed them, so at fifteen they set about marrying him off.</p>
+
+      <p data-rv>He objected, and when that failed he tried something cleverer: <em>very well — but only a woman the colour of violet-gold, flawless beyond compare.</em> He meant it to be impossible.</p>
+
+      <p data-rv>His parents had a gold statue of a goddess cast and carried from kingdom to kingdom, announcing that any woman who came out to venerate it would later be matched with a husband of golden body and incomparable wisdom. Women poured out everywhere. In one town, one woman "remained alone in her own quiet chamber and would not go out," answering her friends "that her own resolve was set on tranquility and wanted nothing else" — until, "pressed further that a single glance could cost her nothing, she finally went along with them to see it, and her own golden radiance outshone the goddess itself."</p>
+
+      <p data-rv>So two people who each wanted a solitary religious life were married to each other against the will of both. And on the first night they made an agreement: separate beds, and <strong>never touch</strong>. His parents heard about the separate beds and had one removed, "forcing them to share a single bed — at which the wife made a further vow with her husband: that while she slept, he would remain awake, walking in meditation."</p>
+
+      <p data-rv>Then the moment the whole story turns on. She is asleep, one arm hanging down to the floor, and a venomous snake comes for it. He picks up her arm — wrapping his hand in his robe so as not to break the vow — and lays it back on the bed. She wakes, furious, and accuses him of breaking the agreement. He explains about the snake.</p>
+
+      <div class="dp-pull" data-rv>An act of rescue, performed at arm's length inside a vow, mistaken for a violation. Both of them eventually went forth.</div>
+
+      <p data-rv>What he became is the extreme ascetic of the tradition — one robe, outdoors, the practices called <em>dhutaṅga</em>. And the last thing he does, after the First Council, is not die.</p>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">經律異相, Fascicle 13 · Kāśyapa enters Kukkuṭapāda</div>
+        <p>"Having completed the compilation of the Dharma-treasury, Kāśyapa entered Mount Kukkuṭapāda, 'Cock's Foot,' which split into three peaks around him; spreading grass upon the ground within, he reflected and spoke to his own body: 'The Tathāgata once covered you with a discarded, patched robe — you must now remain here until Maitreya's own Dharma-treasury arises' … He then entered the threefold samādhi, and, as though passing into his own nirvāṇa, the three peaks closed over his body, as a child returns unharmed into its own mother's womb."</p>
+        <div class="zh">迦葉結法藏竟。入鷄足山。破為三分。於中鋪草布地。即自思惟。而語身言。如來昔以糞掃衣。覆蔽於汝。乃至為彌勒法藏應住於此。……即起三三昧。如一入涅槃以三山覆身。如子入母腹。而自不失壞。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-013/' | relative_url }}">Read this story in full →</a>
+      </div>
+
+      <p data-rv>He is, on this account, <strong>still there</strong> — holding the Buddha's own discarded robe, waiting to hand it to the next Buddha. You met that mountain already if you took <a href="{{ '/courses/fifty-three-teachers/' | relative_url }}" style="color:var(--copper-deep);font-weight:600;">Fifty-Three Teachers</a>, where Maitreya is teacher fifty-one.</p>
+
+      <!-- PART 2 -->
+      <div class="dp-part" data-rv><div class="pn">Part 2</div><h2>In his own words<span class="rf">Which door he came in by</span></h2></div>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">The Śūraṅgama Sūtra, Fascicle 5 · 6 · Dharmas · 摩訶迦葉及紫金光比丘尼</div>
+        <p>"Observing that the six sense-objects of the world all decay and perish, I cultivated only through emptiness and stillness, extinguishing all activity, so that body and mind could pass through a hundred thousand kalpas as quickly as a finger-snap. I attained arhatship through the dharma of emptiness; the World-Honored One named me foremost in austere practice. The cause of dharmas is foremost."</p>
+        <a class="bk" href="{{ '/sutras/surangama-sutra/fascicle-005/' | relative_url }}">Read all twenty-five accounts →</a>
+      </div>
+
+      <p data-rv>Look at who is speaking. The entry is given to <strong>two people</strong> — 摩訶迦葉及紫金光比丘尼, Mahākāśyapa <em>and the nun Golden-Light</em>. That is his wife. The two who agreed never to touch each other, and who both went forth, are recorded in the Śūraṅgama as having come in by the same door and as answering together.</p>
+
+      <p data-rv>And notice what his own account is <em>not</em> about. Not robes, not sleeping outdoors, not fasting. It is about watching things decay, and cultivating through emptiness and stillness. The austerity is the by-product; the observation is the practice.</p>
+
+      <!-- PART 3 -->
+      <div class="dp-part" data-rv><div class="pn">Part 3</div><h2>The Southern column<span class="rf">Thin — and the one place it is unmistakably him</span></h2></div>
+
+      <div class="dp-south" data-rv>
+        <div class="l">Honest scale: thinner than the last two sessions.</div>
+        <p>In the Pāli list he is foremost among those who advocate the ascetic practices, and that is the whole of his entry. The Visuddhimagga names him only twice, in its chapter on the direct knowledges — nothing like the sustained presence Sāriputta and Mahāmoggallāna have there.</p>
+        <p>But the Southern tradition does give him something the Chinese sources do not organise as well: <strong>the ascetic practices themselves, set out and regulated</strong>. The Visuddhimagga devotes an entire chapter to the <em>dhutaṅga</em> — thirteen practices, each with its undertaking, its grades, its breach, and its benefit. That chapter is what "foremost in austerity" actually names, and it is on this site in Ru-Yi's own translation from the Pāli.</p>
+        <p class="thin">Read it against his own Śūraṅgama account and something useful appears: the Pāli treatment is relentlessly practical about when each practice is <em>broken</em>, and equally clear that none of them is required. Austerity, in the Southern handling, is a technique with a specification — not a temperament and not a virtue.</p>
+        <p><a href="{{ '/theravada/visuddhimagga/dhutanga-niddesa/' | relative_url }}">Visuddhimagga, Chapter 2 · Dhutaṅganiddesa — the thirteen ascetic practices →</a> · <a href="{{ '/discourses/anguttara-nikaya/an-1.188-197.html' | relative_url }}">his etadagga entry (linked, not quoted)</a></p>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="dp-part" data-rv><div class="pn">Part 4</div><h2>The rebuke<span class="rf">The same four characters, in two sūtras, meaning opposite things</span></h2></div>
+
+      <p data-rv>Here is the sharpest disagreement in this course, and it is not between two traditions. It is between two texts <strong>on this site</strong>, about one habit, described in almost identical Chinese.</p>
+
+      <p data-rv>First, the anthology, where the habit is the point of the story. Kāśyapa goes into Rājagṛha looking specifically for the poorest person there, and finds a dying woman living in a hole dug into a rubbish heap, whose only food is foul rice-water thrown out by a rich household's servant, caught in a broken shard.</p>
+
+      <div class="dp-scr" data-rv>
+        <div class="src">經律異相, Fascicle 13 · Kāśyapa begs from a poor old woman</div>
+        <p>"Kāśyapa, giving up begging from the wealthy in favor of the poor, once entered Rājagṛha and came upon a lone, destitute woman, the poorest of the poor … The old woman, in verse, protested that it was too foul to offer — but Kāśyapa, in his own compassion, insisted and accepted it regardless. Delighted, she gave it to him; and, fearing she might doubt whether he could truly eat such filth, he drank it before her at once and rinsed his own bowl clean …"</p>
+        <div class="zh">迦葉捨豪富而從貧乞。入王舍城見一孤獨母。最甚貧困。……老母說偈。言其臭惡。迦葉猶以慈悲。忍而乞之。老母歡喜即以施。迦葉恐母不信豈能食之。即於母前飲畢盪鉢。</div>
+        <a class="bk" href="{{ '/anthology/jinglvyixiang/fascicle-013/' | relative_url }}">Read this story in full →</a>
+      </div>
+
+      <p data-rv>She dies within days and is reborn in the Trāyastriṃśa heaven. The story's own verdict on the habit is in its first five characters: 捨豪富而從貧乞, <em>giving up the wealthy in favour of the poor</em> — an act of deliberate compassion toward someone with nothing to give, so that she could give.</p>
+
+      <p data-rv>Now Vimalakīrti, who finds him doing exactly that, and uses <strong>the same words</strong>.</p>
+
+      <div class="dp-rebuke" data-rv>
+        <div class="l">Vimalakīrti, to Mahākāśyapa</div>
+        <p>"Ah, Mahākāśyapa — you have a compassionate mind, but it does not extend everywhere; you avoid the wealthy and beg only among the poor. Kāśyapa, one who abides in the Dharma of equality should beg for alms house by house, in order. One should beg for the sake of not-eating; one should accept a lump of food for the sake of breaking apart the mark of what is only assembled together … Enter the village with the perception of an empty village; regard what you see as no different from what the blind see; regard what you hear as no different from an echo; regard what you smell as no different from the wind; do not discriminate among the tastes of what you eat …"</p>
+        <div class="zh">唯，大迦葉！有慈悲心而不能普，捨豪富從貧乞。迦葉！住平等法，應次行乞食。為不食故，應行乞食，為壞和合相故，應取揣食……以空聚想，入於聚落，所見色與盲等，所聞聲與響等，所嗅香與風等，所食味不分別……</div>
+        <a class="bk" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">Read this passage in full →</a>
+      </div>
+
+      <p data-rv>捨豪富從貧乞. The anthology tells the story to praise it. Vimalakīrti names it as the defect. Neither text has been adjusted to accommodate the other, and both are a click away from this page.</p>
+
+      <p data-rv>The charge is precise, and it is worth not softening: <strong>有慈悲心而不能普</strong> — <em>a compassionate mind that does not extend everywhere.</em> Not an absence of compassion. A compassion with a shape, which means it also has an outside. Choosing the poor is still choosing, and the instruction is 應次行乞食 — beg <em>in order</em>, house by house, taking whatever door comes next.</p>
+
+      <p data-rv>And Kāśyapa's own reaction is the most gracious in the chapter. He does not merely fall silent. 得未曾有 — he had never encountered anything like it — and from that day, he says, "I have never again urged anyone toward the practice of the śrāvaka or the pratyekabuddha."</p>
+
+      <p data-rv>One last thing, from the anthology, which keeps a detail no hagiographer would invent. After the poor woman is reborn in heaven, Śakra and his queen disguise themselves as an impoverished old couple weaving mats, so that she can repay Kāśyapa with an offering. He begs from them, lowers his bowl — and the vessel they open releases a fragrance that fills the entire city. <strong>Caught out, he is annoyed.</strong> 迦葉即嫌: displeased at being deceived, he enters samādhi and flies away — "snapping his fingers in joy nonetheless."</p>
+
+      <!-- PART 5 -->
+      <div class="dp-part" data-rv><div class="pn">Part 5</div><h2>One practice, for this week</h2></div>
+
+      <div class="dp-prac" data-rv>
+        <b class="h">Find the shape of your own compassion</b>
+        <p>Everyone who gives anything gives it in a pattern. Some people help the struggling and cannot be in a room with the successful. Some do the reverse and call it realism. Most of us have a type we find it easy to be generous toward, and one we do not notice we are skipping.</p>
+        <p>This week, write down the last six times you actually helped somebody at some cost to yourself. Then look for what the six have in common — <strong>and name who is on the other side of that line.</strong></p>
+        <div class="how">Vimalakīrti's instruction is not "help the rich instead." It is 應次行乞食, go in order, take the next door. The exercise is not to reverse your pattern but to notice that you have one, and that a compassion with a shape has an outside — which is the whole of 有慈悲心而不能普. If you find no pattern at all in six examples, either you are unusual or the list is too short.</div>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dp-part" data-rv><div class="pn">Part 6</div><h2>Five questions</h2></div>
+
+      <p data-rv>Answer from what you read. One attempt each.</p>
+
+      <div class="dp-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How did Kāśyapa try to make his own marriage impossible?</div>
+          <button class="opt"><span class="ltr">A</span>By leaving home before the wedding could be arranged</button>
+          <button class="opt"><span class="ltr">B</span>By demanding a dowry his family could not raise</button>
+          <button class="opt"><span class="ltr">C</span>By taking a vow of celibacy in public</button>
+          <button class="opt"><span class="ltr">D</span>By stipulating a bride the colour of violet-gold, flawless beyond compare — and such a woman turned out to exist</button>
+          <div class="expl"><strong>Correct: D.</strong> His parents had a gold statue carried from kingdom to kingdom to find her. The one woman who refused to come out and look was the one they were looking for.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Who else is named alongside Mahākāśyapa in his Śūraṅgama entry?</div>
+          <button class="opt"><span class="ltr">A</span>Śāriputra, with whom he shares the entry on dharmas</button>
+          <button class="opt"><span class="ltr">B</span>紫金光比丘尼, the nun Golden-Light — his wife, recorded as coming in by the same door and answering together with him</button>
+          <button class="opt"><span class="ltr">C</span>Ānanda, who recorded the account</button>
+          <button class="opt"><span class="ltr">D</span>Nobody; his is the only solo entry among the twenty-five</button>
+          <div class="expl"><strong>Correct: B.</strong> The two who agreed never to touch each other, and who both went forth, are given one entry between them.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">The phrase 捨豪富從貧乞 appears in both texts this session reads. What does each do with it?</div>
+          <button class="opt"><span class="ltr">A</span>Both treat it as a fault to be corrected</button>
+          <button class="opt"><span class="ltr">B</span>Both treat it as the height of compassion</button>
+          <button class="opt"><span class="ltr">C</span>經律異相 tells a whole story to praise it; Vimalakīrti names it as the defect — 有慈悲心而不能普, a compassionate mind that does not extend everywhere</button>
+          <button class="opt"><span class="ltr">D</span>The phrase appears only in the Vimalakīrti Sūtra</button>
+          <div class="expl"><strong>Correct: C.</strong> Almost identical Chinese, opposite verdicts, both on this site. Neither has been adjusted to accommodate the other.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does Vimalakīrti tell him to do instead?</div>
+          <button class="opt"><span class="ltr">A</span>應次行乞食 — beg in order, house by house, taking whatever door comes next</button>
+          <button class="opt"><span class="ltr">B</span>Beg only from the wealthy, whose merit is greater</button>
+          <button class="opt"><span class="ltr">C</span>Stop begging and accept invitations instead</button>
+          <button class="opt"><span class="ltr">D</span>Beg only where he is not recognised</button>
+          <div class="expl"><strong>Correct: A.</strong> Not a reversal — an abolition of the choosing. Choosing the poor is still choosing, and a compassion with a shape has an outside.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What happens when Śakra and his queen disguise themselves as a poor mat-weaving couple to give him an offering?</div>
+          <button class="opt"><span class="ltr">A</span>He accepts gratefully, unaware of the deception</button>
+          <button class="opt"><span class="ltr">B</span>He recognises them immediately and refuses to approach</button>
+          <button class="opt"><span class="ltr">C</span>He lowers his bowl, the opened vessel's fragrance fills the whole city, and — 迦葉即嫌, displeased at being deceived — he enters samādhi and flies away, snapping his fingers in joy nonetheless</button>
+          <button class="opt"><span class="ltr">D</span>He reports them to the Buddha</button>
+          <div class="expl"><strong>Correct: C.</strong> The great ascetic, caught out, is annoyed — and the tradition kept the detail. It is the kind of thing hagiography removes.</div>
+        </div>
+
+        <div class="dp-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- PART 7 -->
+      <div class="dp-part" data-rv><div class="pn">Part 7</div><h2>One question, left open</h2></div>
+
+      <div class="dp-reflect" data-rv>
+        <div class="l">Sit with this</div>
+        <p>One habit, two scriptures, opposite verdicts, both on this site. Which one do you want to be right, and why?</p>
+        <p class="sm">Notice the pull before you answer. Most readers arrive wanting the anthology's version — the great monk walking past the mansions to take a dying woman's rice-water is a better story, and it is a true story about real kindness. Vimalakīrti's objection is colder and harder to like, and it is also difficult to refute: he is not denying that Kāśyapa was compassionate, he is pointing at the edge of it. The useful question is not which text wins. It is why you find one of them so much easier to agree with, and whether that is a judgement about the texts or about yourself.</p>
+      </div>
+
+      <!-- NEXT -->
+      <div class="dp-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · Subhūti 須菩提 · 解空第一</h3>
+        <p>The strangest session in the course, because the Southern column is empty. Subhūti appears in the Visuddhimagga zero times and is an ordinary entry on the Pāli list of foremost disciples — and then, eight hundred years later, a Mahāyāna sūtra makes him the man the Buddha is talking to for the whole of the Diamond Sūtra, and he becomes one of the most recognisable names in East Asian Buddhism. That gap is the session.</p>
+      </div>
+
+      <div class="dp-foot">
+        <a class="dp-btn ghost" href="{{ '/courses/ten-disciples/' | relative_url }}">← Course overview</a>
+        <button type="button" class="dp-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var root=document.querySelector('.dp');
+    if(!root) return;
+    var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+      els.forEach(function(e){e.classList.add('in');}); return;
+    }
+    var ticking=false;
+    function sweep(){
+      ticking=false;
+      var vh=window.innerHeight||document.documentElement.clientHeight;
+      for(var i=els.length-1;i>=0;i--){
+        if(els[i].getBoundingClientRect().top < vh*0.94){ els[i].classList.add('in'); els.splice(i,1); }
+      }
+      if(!els.length){ window.removeEventListener('scroll',onScroll); window.removeEventListener('resize',onScroll); }
+    }
+    function onScroll(){ if(!ticking){ ticking=true; requestAnimationFrame(sweep); } }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    window.addEventListener('load',sweep);
+    window.addEventListener('pageshow',sweep);
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden){ sweep(); } });
+    sweep();
+  })();
+
+  (function(){
+    var quiz=document.getElementById('quiz');
+    if(!quiz) return;
+    var answeredEl=document.getElementById('answered-count'), correctEl=document.getElementById('correct-count');
+    var answered=0, correct=0;
+    quiz.querySelectorAll('.q').forEach(function(q){
+      var ci=parseInt(q.dataset.correct,10);
+      var opts=q.querySelectorAll('.opt');
+      var expl=q.querySelector('.expl');
+      opts.forEach(function(btn,idx){
+        btn.addEventListener('click',function(){
+          if(q.dataset.answered) return;
+          q.dataset.answered='1';
+          opts.forEach(function(b){b.disabled=true;});
+          if(idx===ci){btn.classList.add('correct');correct++;}
+          else{btn.classList.add('wrong');opts[ci].classList.add('correct');}
+          expl.classList.add('show');
+          answered++;
+          answeredEl.textContent=answered;
+          correctEl.textContent=correct;
+        });
+      });
+    });
+  })();
+</script>
