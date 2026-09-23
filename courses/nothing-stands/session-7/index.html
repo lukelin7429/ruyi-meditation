@@ -1,0 +1,505 @@
+---
+layout: default
+title: "Session 7 · Nirvana is not somewhere else (Nothing Stands)"
+permalink: /courses/nothing-stands/session-7/
+excerpt: "Session 7 of Nothing Stands — nirvana as the absence of an activity rather than the presence of a state, and the claim that between nirvana and the world there is not the slightest difference."
+---
+
+<style>
+  .md{--base:#41525c;--mid:#25313a;--deep:#0d1317;--acc:#9db8c6;--acc-deep:#456170;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f5f7f8;--ink:#161d21;--ink-soft:#5a666d;--line:#e0e6e9;}
+  .md *{box-sizing:border-box;}
+  .md-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .md [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .md [data-rv].in{opacity:1;transform:none;}
+
+  .md-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .md-crumb .md-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .md-crumb a{color:var(--base);text-decoration:none;}
+  .md-crumb a:hover{text-decoration:underline;}
+
+  .md-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(157,184,198,.20),transparent 62%),
+    linear-gradient(158deg,#41525c 0%,#25313a 46%,#0d1317 100%);color:#fff;}
+  .md-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .md-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .md-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .md-hero .subt{font-style:italic;font-size:18px;color:#d3e0e6;}
+  .md-hero .rd{margin-top:24px;font-size:14px;color:#a9bcc5;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .md-hero .rd b{color:var(--acc);}
+
+  .md-body{background:#fff;padding:44px 0 24px;}
+  .md-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .md-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .md-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .md-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .md-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .md-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .md-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#eef2f4);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .md-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .md-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .md-scr p:last-of-type{margin-bottom:0;}
+  .md-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5f7683;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8e1e5;line-height:1.85;}
+  .md-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .md-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .md-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .md-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .md-terms span b{color:var(--base);}
+
+  .md-take{background:linear-gradient(180deg,#fdfbf8,#e9eff1);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .md-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .md-take ul{margin:0;padding-left:20px;}
+  .md-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .md-take li b{color:var(--acc-deep);}
+
+  .md-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .md-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .md-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .md-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .md-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .md-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .md-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .md-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .md-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .md-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .md-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .md-prac p:last-child{margin-bottom:0;}
+  .md-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .md-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .md-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .md-quiz .q:first-of-type{padding-top:2px;}
+  .md-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .md-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .md-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .md-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .md-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .md-quiz .opt:hover:not(:disabled){background:#eef3f5;border-color:var(--base);}
+  .md-quiz .opt:disabled{cursor:default;}
+  .md-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .md-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .md-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .md-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .md-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .md-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .md-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .md-quiz .expl.show{display:block;}
+  .md-quiz .expl strong{color:var(--ink);}
+  .md-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .md-score strong{color:var(--base);font-size:17px;}
+
+  .md-reflect{background:linear-gradient(158deg,#41525c 0%,#25313a 48%,#0d1317 100%);color:#d7e2e7;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .md-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .md-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .md-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#a9bcc5;line-height:1.7;margin-top:14px;}
+
+  .md-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .md-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .md-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .md-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .md-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .md-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .md-btn.primary{background:linear-gradient(158deg,#41525c,#0d1317);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .md-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .md-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .md-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .md .md-crumb,.md-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .md [data-rv]{opacity:1 !important;transform:none !important;}
+    .md-hero{background:none;color:#000;padding:0;}
+    .md-hero-in{padding:0 0 12px;}
+    .md-eyebrow,.md-hero .subt,.md-hero .rd{color:#444;}
+    .md-hero h1{color:#000;}
+    .md-body{padding:0;}
+    .md-body p,.md-body h3,.md-part h2,.md-take li,.md-prac p{color:#000;}
+    .md-scr,.md-take,.md-prac,.md-quiz,.md-next{background:#fff !important;border:1px solid #bbb;}
+    .md-scr p{color:#000;}
+    .md-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-reflect p,.md-reflect .l,.md-reflect p.sm{color:#000;}
+    .md-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-textcard h3,.md-textcard p,.md-textcard .go,.md-textcard .trad{color:#000;}
+    .md{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Nothing Stands: course-specific components --- */
+
+  /* a root verse — the kārikā itself, set apart from the prose commentary */
+  .md-verse{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 12px 12px;
+    background:linear-gradient(180deg,#fbfcfd,#eef2f4);padding:24px 28px 22px;margin:26px 0;}
+  .md-verse .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:12px;}
+  .md-verse .en{font-family:'Playfair Display',serif;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .en p{margin:0;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:16px;color:#5f7683;
+    margin-top:16px;padding-top:13px;border-top:1px dashed #d8e1e5;line-height:2;}
+  .md-verse .zh p{margin:0;font-family:inherit;font-size:16px;color:#5f7683;line-height:2;}
+  .md-verse a.bk{display:inline-block;margin-top:14px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-verse a.bk:hover{border-bottom-color:var(--base);}
+
+  /* the treatise argues as a dialogue — 問曰 / 答曰 */
+  .md-qa{margin:26px 0;border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .md-qa .turn{padding:18px 24px 16px;}
+  .md-qa .turn.q{background:linear-gradient(180deg,#f1f5f7,#e7eef1);border-bottom:1px solid var(--line);}
+  .md-qa .turn.a{background:#fff;}
+  .md-qa .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .md-qa .turn.q .l{color:#6b8593;}
+  .md-qa .turn.a .l{color:var(--acc-deep);}
+  .md-qa .l .zhl{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;letter-spacing:.06em;margin-left:7px;opacity:.75;}
+  .md-qa p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 10px;}
+  .md-qa p:last-child{margin-bottom:0;}
+  .md-qa .turn.q p{font-style:italic;}
+  .md-qa .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;color:var(--ink-soft);
+    line-height:1.85;margin-top:11px;padding-top:9px;border-top:1px dashed #d8e1e5;}
+
+  /* the four corners, shown as four shut doors */
+  .md-four{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0;}
+  @media(max-width:520px){.md-four{grid-template-columns:1fr;}}
+  .md-four .d{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .md-four .d b{display:block;font-family:'Playfair Display',serif;font-size:16.5px;color:var(--ink);margin-bottom:3px;}
+  .md-four .d .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:13.5px;color:var(--acc-deep);font-weight:600;}
+  .md-four .d span{display:block;font-size:14.5px;line-height:1.58;color:var(--ink-soft);margin-top:5px;}
+</style>
+
+<div class="md">
+
+  <nav class="md-crumb"><div class="md-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/nothing-stands/' | relative_url }">Nothing Stands</a> → Session 7</div></nav>
+
+  <!-- HERO -->
+  <section class="md-hero">
+    <div class="md-hero-in">
+      <div class="md-eyebrow">Session 7 · Chapter 25</div>
+      <h1>Nirvāṇa is not somewhere else</h1>
+      <div class="subt">Not obtained, not arrived at — and not the slightest difference from here</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–6</span>
+        <span><b>The text</b> Mūlamadhyamakakārikā, chapter 25</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="md-body">
+    <div class="md-wrap">
+
+      <!-- PART 1 -->
+      <div class="md-part" data-rv><div class="pn">Part 1</div><h2>The same trade, in two verses<span class="rf">The opponent stands in the hole he is pointing at</span></h2></div>
+
+      <p data-rv>Chapter 24 took forty verses. Chapter 25 makes the same exchange in two, and the speed is the point — by now the reader should be able to see it coming.</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 25 · the objection</div>
+        <div class="en">
+          <p>"If all things are empty,</p>
+          <p>with neither arising nor ceasing,</p>
+          <p>what is cut off, what extinguished,</p>
+          <p>that one should call it nirvāṇa?"</p>
+        </div>
+        <div class="zh">
+          <p>若一切法空， 無生無滅者，</p>
+          <p>何斷何所滅， 而稱為涅槃？</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 25, "Examining Nirvāṇa" →</a>
+      </div>
+
+      <p data-rv>The reply changes a single word. If things were <em>not</em> empty, nothing would arise or cease; and with nothing arising or ceasing, nothing could be extinguished, and nirvāṇa would be impossible. The objector thought he was standing on solid ground pointing at a hole. He was standing in it.</p>
+
+      <p data-rv>Then the definition, and every clause of it removes something the reader wanted:</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 25 · what nirvāṇa is</div>
+        <div class="en">
+          <p>"Not obtained and not arrived at,</p>
+          <p>not cut off and not permanent,</p>
+          <p>not arising and not ceasing:</p>
+          <p>this is what is called nirvāṇa."</p>
+        </div>
+        <div class="zh">
+          <p>無得亦無至， 不斷亦不常，</p>
+          <p>不生亦不滅， 是說名涅槃。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 25, "Examining Nirvāṇa" →</a>
+      </div>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>""Not obtained": there is nothing obtained, whether in the practice or in the fruit. "Not arrived at": there is no place to arrive at. "Not cut off": because the five aggregates have from the beginning been ultimately empty, so that when one attains the path and enters nirvāṇa without remainder there is nothing cut off either."</p>
+          <div class="zh">無得者，於行於果無所得。無至者，無處可至。不斷者，五陰先來畢竟空故，得道入無餘涅槃時亦無所斷。</div>
+        </div>
+      </div>
+
+      <p data-rv>The first two clauses dismantle the picture nearly everyone carries: nirvāṇa as a destination, a state entered, something one comes to have. Nothing is obtained, in the practising or in the fruit; and there is nowhere to go.</p>
+
+      <p data-rv>The third is the strangest and the most important. Not even <em>cut off</em> — because the aggregates were empty from the beginning, so that even at final nirvāṇa nothing is actually severed. What would you cut? The chain was never a chain.</p>
+
+      <!-- PART 2 -->
+      <div class="md-part" data-rv><div class="pn">Part 2</div><h2>The absence of an activity<span class="rf">The chapter's one positive statement</span></h2></div>
+
+      <p data-rv>After refuting nirvāṇa as an existent thing and as a non-existent one, the chapter makes its single affirmative claim — and it is easy to read past.</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 25 · grasping and not grasping</div>
+        <div class="en">
+          <p>"Because one grasps at causes and conditions</p>
+          <p>one turns in the round of birth and death;</p>
+          <p>not grasping at causes and conditions —</p>
+          <p>this is what is called nirvāṇa."</p>
+        </div>
+        <div class="zh">
+          <p>受諸因緣故， 輪轉生死中；</p>
+          <p>不受諸因緣， 是名為涅槃。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 25, "Examining Nirvāṇa" →</a>
+      </div>
+
+      <p data-rv>Notice what is <em>not</em> said. Not: the conditions stop. Not: the world goes away. Not: one departs for elsewhere. The same conditions, the same aggregates, the same street and weather and body — with one thing subtracted, the appropriating that turns all of it into a self and its possessions.</p>
+
+      <p data-rv>The commentary's term for the ordinary condition is exact: 五受陰, the five <em>grasped</em> aggregates. The grasping is what makes them a life that somebody is having.</p>
+
+      <div class="md-pull" data-rv>Nirvāṇa is not an object with unusual properties. It is the absence of an activity. Nothing new appears; something long-running stops.</div>
+
+      <p data-rv>That is also why it can be neither an existent thing nor the destruction of one. If it existed as a thing it would be conditioned, and everything conditioned ages and ends — a nirvāṇa that ages is not nirvāṇa. And it cannot be sheer non-existence either, for a reason worth keeping: "non-existent" only ever means <em>what was here and is now gone</em>. Non-existence is a report of a loss, and nirvāṇa is not the loss of anything, because nothing was ever there in the fixed way that would make its absence a loss.</p>
+
+      <!-- PART 3 -->
+      <div class="md-part" data-rv><div class="pn">Part 3</div><h2>Not the slightest difference<span class="rf">The sentence that stops every first-time reader</span></h2></div>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 25 · saṃsāra and nirvāṇa</div>
+        <div class="en">
+          <p>"Between nirvāṇa and the world</p>
+          <p>there is not the slightest difference;</p>
+          <p>between the world and nirvāṇa</p>
+          <p>there is not the slightest difference either."</p>
+        </div>
+        <div class="zh">
+          <p>涅槃與世間， 無有少分別；</p>
+          <p>世間與涅槃， 亦無少分別。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 25, "Examining Nirvāṇa" →</a>
+      </div>
+
+      <p data-rv>Said twice, with the terms reversed so that nobody can take it as a one-way claim — and the next verse says it a third time, with a unit of measurement: not a hair's breadth.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"Because the five aggregates continue in succession, coming and going by way of causes and conditions, this is called the world. The nature of the five aggregates is ultimately empty, free of grasping and quiescent — this meaning has already been stated. And since all things neither arise nor cease, there is no difference between the world and nirvāṇa, and no difference between nirvāṇa and the world."</p>
+          <div class="zh">五陰相續往來因緣故，說名世間。五陰性畢竟空無受寂滅，此義先已說。以一切法不生不滅故，世間與涅槃無有分別，涅槃與世間亦無分別。</div>
+        </div>
+      </div>
+
+      <p data-rv>The argument is short and has been earned across twenty-five chapters. The world is not a location; it is the aggregates continuing in succession, grasped at. Nirvāṇa is not a location either — the definition already said there is no place to arrive at. And when either is searched for as a thing with a nature of its own, neither can be found. Two things can differ only if there are two things.</p>
+
+      <h3>The caution that matters more than anything else here</h3>
+
+      <p data-rv>This verse does <strong>not</strong> say that suffering is unreal, or that it makes no difference whether a person is in anguish or at peace, or that a bombed city and a quiet room are the same. Nothing in the treatise licenses that, and Chapter 24 has just spent forty verses establishing the opposite: emptiness is exactly what makes suffering real enough to arise and dependent enough to end.</p>
+
+      <p data-rv>To hear this verse as <em>so it doesn't matter</em> is to make precisely the mistake the previous chapter was written to prevent — taking the ultimate as a replacement for the conventional rather than as its fine print. On the conventional level, which is where every being actually lives and every act lands, the difference between torment and freedom is the most important difference there is.</p>
+
+      <p data-rv>What the verse denies is a metaphysical gap: that saṃsāra and nirvāṇa are two <em>realms</em>, one to be escaped and one to be reached, made of different stuff, with a border between them. There is no such border — and the practical consequence is enormous. Liberation is not migration. There is no elsewhere to get to, no better world that this one is a waiting room for, and nothing about your circumstances that has to change first.</p>
+
+      <p data-rv>This is the single verse from which the whole East Asian conviction descends: that awakening is found here, in this life, in ordinary conditions, or nowhere. Chan's insistence on the everyday, and Pure Land's insistence that this defiled world is not other than the pure one, are both in the end commentaries on these twenty characters.</p>
+
+      <!-- PART 4 -->
+      <div class="md-part" data-rv><div class="pn">Part 4</div><h2>"And the Buddha taught nothing at all"<span class="rf">How twenty-seven chapters end</span></h2></div>
+
+      <p data-rv>The treatise closes by naming the questions the Buddha had famously refused to answer — whether the world is eternal, whether it has an edge, whether the Tathāgata exists after death. And it does something nobody had done before: it explains <em>why</em> the silence was right. Not because the questions are unprofitable. Because they are malformed. Each asks for a property of something with a fixed nature, and there is no such something. "Does it have an edge?" presupposes an <em>it</em>.</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · the final verse</div>
+        <div class="en">
+          <p>"Things cannot be found;</p>
+          <p>all conceptual elaboration is quieted;</p>
+          <p>there is no person and no place —</p>
+          <p>and the Buddha taught nothing at all."</p>
+        </div>
+        <div class="zh">
+          <p>諸法不可得， 滅一切戲論，</p>
+          <p>無人亦無處， 佛亦無所說。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 25, "Examining Nirvāṇa" →</a>
+      </div>
+
+      <p data-rv>佛亦無所說 — and the Buddha taught nothing at all. After twenty-five chapters of extremely determined argument this can look like paradox or showmanship. It is neither, and the commentary's gloss is deflationary and precise: at no time and in no place did the Tathāgata teach anyone a <em>fixed character</em> of nirvāṇa. Nothing was ever handed over as a thing to hold. The teaching was always a set of removals, and when the removals are complete there is no residue to point at and say <em>that is what he gave me</em>.</p>
+
+      <p data-rv>And notice what the commentary says the outcome is, because it is neither a blank nor despair:</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"Everything that might be obtained comes to rest; all conceptual elaboration is extinguished. And because elaboration is extinguished, one penetrates the real character of things and attains the path of peace."</p>
+          <div class="zh">諸有所得皆息、戲論皆滅。戲論滅故，通達諸法實相得安隱道。</div>
+        </div>
+      </div>
+
+      <p data-rv>安隱 is a quiet, domestic word: security, ease, not being under threat. The end of the treatise is not vertigo. It is the relief of putting down something that had been carried a very long way for no reason, and finding that the world is still there, unchanged, and no longer requires defending.</p>
+
+      <p data-rv>The commentary then offers a summary that works as the treatise's own table of contents read backwards: <em>from the chapter on Conditions onward, things have been distinguished and pressed with questions: the existent is not, the non-existent is not, both existent and non-existent is not, neither existent nor non-existent is not</em>. Four corners, chapter after chapter — on arising, motion, the senses, the aggregates, fire and fuel, the self, time, karma, the Tathāgata, the truths, and now nirvāṇa. And what that relentlessness arrives at is given four names in one breath: the real character of things, suchness, the nature of things, the true limit. And then a fifth — nirvāṇa. Not a place at the end of the road. The road, seen without anything added to it.</p>
+
+      <div class="md-take" data-rv>
+        <b class="h">What Session 7 establishes</b>
+        <ul>
+          <li><b>Not obtained, not arrived at, not cut off.</b> No acquisition, no destination, and nothing severed — the chain was never a chain.</li>
+          <li><b>Nirvāṇa is the absence of an activity</b>, not the presence of a state. Nothing new appears; grasping stops.</li>
+          <li><b>Non-existence is a report of a loss</b>, so nirvāṇa cannot be one — nothing was ever there in the fixed way that would make its absence a loss.</li>
+          <li><b>Not the slightest difference</b> — because neither is a location, and two things can differ only if there are two things.</li>
+          <li><b>This is not "so it doesn't matter."</b> Conventionally, the difference between torment and freedom is the most important there is. What is denied is a border between realms.</li>
+          <li><b>Nothing was ever handed over.</b> The teaching was a set of removals, and what it leaves is ease.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="md-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Subtracting the one thing</span></h2></div>
+
+      <div class="md-prac" data-rv>
+        <b class="h">The five grasped aggregates</b>
+        <p>Verse 9 makes a claim that can be examined in small: that the difference between the round of birth and death and its cessation is not in the conditions but in the grasping at them.</p>
+        <div class="how">
+          Sit for twenty minutes, in an ordinary state — not calm, not prepared. Let whatever is going on go on.<br><br>
+          Now attend to one thing only: the <strong>appropriating</strong>. Not the sensation, but the small movement that makes it <em>my</em> discomfort. Not the thought, but the claiming that makes it <em>my</em> thought, something I am responsible for or can take credit for. It is fast and almost invisible, and it is happening constantly.<br><br>
+          When you catch one, do not try to stop it. Just notice that the sensation or thought was already fully present before it, and would have been there without it.
+        </div>
+        <p>What you are looking for is a gap between the arising and the claiming. Most people find, at best, brief ones. That is a reasonable outcome — and note that even a brief one demonstrates the chapter's point: the condition and the grasping are separable, which is the whole of what the verse claims.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="md-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="md-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What is strange about "not cut off" in the definition of nirvāṇa?</div>
+          <button class="opt"><span class="ltr">A</span>That the afflictions return after nirvāṇa</button>
+          <button class="opt"><span class="ltr">B</span>That only some aggregates are severed and others remain</button>
+          <button class="opt"><span class="ltr">C</span>That even at final nirvāṇa nothing is actually severed, because the aggregates were empty from the beginning</button>
+          <button class="opt"><span class="ltr">D</span>That cutting off is a conventional description of an ultimate event</button>
+          <div class="expl"><strong>Correct: C.</strong> What would you cut? The chain was never a chain.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is the chapter's one positive statement about nirvāṇa?</div>
+          <button class="opt"><span class="ltr">A</span>That it is beyond existence and non-existence</button>
+          <button class="opt"><span class="ltr">B</span>That grasping at conditions is the round of birth and death, and not grasping at them is nirvāṇa</button>
+          <button class="opt"><span class="ltr">C</span>That it is the cessation of the five aggregates</button>
+          <button class="opt"><span class="ltr">D</span>That it is attained at the moment the path is completed</button>
+          <div class="expl"><strong>Correct: B.</strong> A is explicitly refused as the most refined version of the mistake. The conditions do not stop — the appropriating does.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Why can nirvāṇa not be sheer non-existence?</div>
+          <button class="opt"><span class="ltr">A</span>Because "non-existent" means what was here and is now gone — a report of a loss — and nothing was ever there in the fixed way that would make its absence a loss</button>
+          <button class="opt"><span class="ltr">B</span>Because the scriptures describe nirvāṇa as blissful</button>
+          <button class="opt"><span class="ltr">C</span>Because something must remain to experience it</button>
+          <button class="opt"><span class="ltr">D</span>Because non-existence cannot be attained</button>
+          <div class="expl"><strong>Correct: A.</strong> Non-existence is parasitic on existence, and nirvāṇa is not the destruction of anything.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does "not the slightest difference" deny?</div>
+          <button class="opt"><span class="ltr">A</span>That suffering is real</button>
+          <button class="opt"><span class="ltr">B</span>That it matters whether a person is in anguish or at peace</button>
+          <button class="opt"><span class="ltr">C</span>That the path produces any change at all</button>
+          <button class="opt"><span class="ltr">D</span>A metaphysical gap — that these are two realms made of different stuff with a border between them</button>
+          <div class="expl"><strong>Correct: D.</strong> Conventionally the difference between torment and freedom is the most important there is. What goes is the border, and with it the idea that liberation is migration.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">In what sense did the Buddha "teach nothing at all"?</div>
+          <button class="opt"><span class="ltr">A</span>That his teaching was later invented by his followers</button>
+          <button class="opt"><span class="ltr">B</span>That silence was his only genuine instruction</button>
+          <button class="opt"><span class="ltr">C</span>That he never taught a fixed character of nirvāṇa — the teaching was a set of removals, leaving no residue to hold</button>
+          <button class="opt"><span class="ltr">D</span>That words cannot express the ultimate, so all teaching is false</button>
+          <div class="expl"><strong>Correct: C.</strong> And the outcome named is not a blank: elaboration is extinguished, and one attains the path of peace — 安隱, ease.</div>
+        </div>
+
+        <div class="md-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="md-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If there is nowhere else to get to, what have you been doing all this time?</p>
+        <p class="sm">The treatise's answer is: carrying something. Not travelling, and not failing to travel. The road was never a road to somewhere, and what changes at the end is not your location but that you are no longer defending a world that never needed it.</p>
+      </div>
+
+      <div class="md-next" data-rv>
+        <div class="l">Final session</div>
+        <h3>Session 8 · How the school describes itself</h3>
+        <p>The last session steps back from Nāgārjuna to the tradition he founded — the Three Treatise school as it explains its own method in the <em>Sanlun Xuanyi</em>: refuting error is the whole of revealing the truth, and there is no separate truth to be revealed afterwards.</p>
+      </div>
+
+      <div class="md-foot" data-rv>
+        <a class="md-btn ghost" href="{{ '/courses/nothing-stands/session-6/' | relative_url }}">← Session 6</a>
+        <a class="md-btn primary" href="{{ '/courses/nothing-stands/session-8/' | relative_url }}">Session 8 · How the school describes itself →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.md [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.md-quiz .q').length;
+  document.querySelectorAll('.md-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

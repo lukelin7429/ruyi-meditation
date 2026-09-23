@@ -1,0 +1,461 @@
+---
+layout: default
+title: "Session 4 · Fire and fuel (Nothing Stands)"
+permalink: /courses/nothing-stands/session-4/
+excerpt: "Session 4 of Nothing Stands — the self and the aggregates, argued through a fire and the wood it burns, and the charge that the treatise refutes itself every time it speaks."
+---
+
+<style>
+  .md{--base:#41525c;--mid:#25313a;--deep:#0d1317;--acc:#9db8c6;--acc-deep:#456170;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f5f7f8;--ink:#161d21;--ink-soft:#5a666d;--line:#e0e6e9;}
+  .md *{box-sizing:border-box;}
+  .md-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .md [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .md [data-rv].in{opacity:1;transform:none;}
+
+  .md-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .md-crumb .md-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .md-crumb a{color:var(--base);text-decoration:none;}
+  .md-crumb a:hover{text-decoration:underline;}
+
+  .md-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(157,184,198,.20),transparent 62%),
+    linear-gradient(158deg,#41525c 0%,#25313a 46%,#0d1317 100%);color:#fff;}
+  .md-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .md-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .md-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .md-hero .subt{font-style:italic;font-size:18px;color:#d3e0e6;}
+  .md-hero .rd{margin-top:24px;font-size:14px;color:#a9bcc5;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .md-hero .rd b{color:var(--acc);}
+
+  .md-body{background:#fff;padding:44px 0 24px;}
+  .md-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .md-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .md-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .md-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .md-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .md-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .md-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#eef2f4);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .md-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .md-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .md-scr p:last-of-type{margin-bottom:0;}
+  .md-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5f7683;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8e1e5;line-height:1.85;}
+  .md-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .md-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .md-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .md-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .md-terms span b{color:var(--base);}
+
+  .md-take{background:linear-gradient(180deg,#fdfbf8,#e9eff1);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .md-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .md-take ul{margin:0;padding-left:20px;}
+  .md-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .md-take li b{color:var(--acc-deep);}
+
+  .md-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .md-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .md-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .md-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .md-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .md-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .md-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .md-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .md-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .md-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .md-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .md-prac p:last-child{margin-bottom:0;}
+  .md-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .md-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .md-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .md-quiz .q:first-of-type{padding-top:2px;}
+  .md-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .md-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .md-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .md-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .md-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .md-quiz .opt:hover:not(:disabled){background:#eef3f5;border-color:var(--base);}
+  .md-quiz .opt:disabled{cursor:default;}
+  .md-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .md-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .md-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .md-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .md-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .md-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .md-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .md-quiz .expl.show{display:block;}
+  .md-quiz .expl strong{color:var(--ink);}
+  .md-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .md-score strong{color:var(--base);font-size:17px;}
+
+  .md-reflect{background:linear-gradient(158deg,#41525c 0%,#25313a 48%,#0d1317 100%);color:#d7e2e7;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .md-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .md-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .md-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#a9bcc5;line-height:1.7;margin-top:14px;}
+
+  .md-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .md-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .md-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .md-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .md-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .md-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .md-btn.primary{background:linear-gradient(158deg,#41525c,#0d1317);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .md-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .md-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .md-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .md .md-crumb,.md-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .md [data-rv]{opacity:1 !important;transform:none !important;}
+    .md-hero{background:none;color:#000;padding:0;}
+    .md-hero-in{padding:0 0 12px;}
+    .md-eyebrow,.md-hero .subt,.md-hero .rd{color:#444;}
+    .md-hero h1{color:#000;}
+    .md-body{padding:0;}
+    .md-body p,.md-body h3,.md-part h2,.md-take li,.md-prac p{color:#000;}
+    .md-scr,.md-take,.md-prac,.md-quiz,.md-next{background:#fff !important;border:1px solid #bbb;}
+    .md-scr p{color:#000;}
+    .md-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-reflect p,.md-reflect .l,.md-reflect p.sm{color:#000;}
+    .md-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-textcard h3,.md-textcard p,.md-textcard .go,.md-textcard .trad{color:#000;}
+    .md{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Nothing Stands: course-specific components --- */
+
+  /* a root verse — the kārikā itself, set apart from the prose commentary */
+  .md-verse{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 12px 12px;
+    background:linear-gradient(180deg,#fbfcfd,#eef2f4);padding:24px 28px 22px;margin:26px 0;}
+  .md-verse .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:12px;}
+  .md-verse .en{font-family:'Playfair Display',serif;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .en p{margin:0;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:16px;color:#5f7683;
+    margin-top:16px;padding-top:13px;border-top:1px dashed #d8e1e5;line-height:2;}
+  .md-verse .zh p{margin:0;font-family:inherit;font-size:16px;color:#5f7683;line-height:2;}
+  .md-verse a.bk{display:inline-block;margin-top:14px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-verse a.bk:hover{border-bottom-color:var(--base);}
+
+  /* the treatise argues as a dialogue — 問曰 / 答曰 */
+  .md-qa{margin:26px 0;border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .md-qa .turn{padding:18px 24px 16px;}
+  .md-qa .turn.q{background:linear-gradient(180deg,#f1f5f7,#e7eef1);border-bottom:1px solid var(--line);}
+  .md-qa .turn.a{background:#fff;}
+  .md-qa .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .md-qa .turn.q .l{color:#6b8593;}
+  .md-qa .turn.a .l{color:var(--acc-deep);}
+  .md-qa .l .zhl{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;letter-spacing:.06em;margin-left:7px;opacity:.75;}
+  .md-qa p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 10px;}
+  .md-qa p:last-child{margin-bottom:0;}
+  .md-qa .turn.q p{font-style:italic;}
+  .md-qa .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;color:var(--ink-soft);
+    line-height:1.85;margin-top:11px;padding-top:9px;border-top:1px dashed #d8e1e5;}
+
+  /* the four corners, shown as four shut doors */
+  .md-four{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0;}
+  @media(max-width:520px){.md-four{grid-template-columns:1fr;}}
+  .md-four .d{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .md-four .d b{display:block;font-family:'Playfair Display',serif;font-size:16.5px;color:var(--ink);margin-bottom:3px;}
+  .md-four .d .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:13.5px;color:var(--acc-deep);font-weight:600;}
+  .md-four .d span{display:block;font-size:14.5px;line-height:1.58;color:var(--ink-soft);margin-top:5px;}
+</style>
+
+<div class="md">
+
+  <nav class="md-crumb"><div class="md-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/nothing-stands/' | relative_url }">Nothing Stands</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="md-hero">
+    <div class="md-hero-in">
+      <div class="md-eyebrow">Session 4 · Chapter 10</div>
+      <h1>Fire and fuel</h1>
+      <div class="subt">The one who has the experience, and the experience he has</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–3</span>
+        <span><b>The text</b> Mūlamadhyamakakārikā, chapter 10</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="md-body">
+    <div class="md-wrap">
+
+      <!-- PART 1 -->
+      <div class="md-part" data-rv><div class="pn">Part 1</div><h2>Now for something you care about<span class="rf">The same argument, with the stakes raised</span></h2></div>
+
+      <p data-rv>Session 3 practised on motion, where nobody has anything invested. Chapter 10 turns the identical argument on the one thing every reader does have invested in, and it picks its image with care.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn q">
+          <div class="l">Objection <span class="zhl">問曰</span></div>
+          <p>"There must be what is appropriated and one who appropriates it, as there are fire and fuel: fire is the appropriator and fuel is what is appropriated — namely, the five aggregates."</p>
+          <div class="zh">問曰：應有受、受者，如燃、可燃，燃是受者、可燃是受，所謂五陰。</div>
+        </div>
+        <div class="turn a">
+          <div class="l">Answer <span class="zhl">答曰</span></div>
+          <p>"It is not so. Why? Because neither fire nor fuel is established. Whether fire and fuel are established as one thing or as two, neither way holds."</p>
+          <div class="zh">答曰：是事不然。何以故？燃、可燃俱不成故。燃、可燃若以一法成，若以二法成，二俱不成。</div>
+        </div>
+      </div>
+
+      <p data-rv>The technical word is 受 — <em>appropriation</em>, grasping, taking-up. The objector's claim is simple and is what almost everyone believes: there is experience, and there is someone who has it. Body, feelings, perceptions, impulses, awareness are what is taken up; a self is the one taking them.</p>
+
+      <p data-rv>And the image is well chosen, because fire genuinely does look like a thing that consumes another thing. A flame has a shape, a colour, a behaviour; wood is wood. Two items, one acting on the other.</p>
+
+      <!-- PART 2 -->
+      <div class="md-part" data-rv><div class="pn">Part 2</div><h2>"Your own word refutes itself"<span class="rf">The best objection in the treatise, and it is aimed at the method</span></h2></div>
+
+      <p data-rv>Before the argument proper, the objector makes a move that is worth the whole chapter — because it is not about fire at all. It is about whether Nāgārjuna is entitled to speak.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn q">
+          <div class="l">Objection <span class="zhl">問曰</span></div>
+          <p>"Set identity and difference aside for a moment. If you say there is no fire and no fuel, how can you then break them by way of the marks of identity and difference? A hare's horn or a tortoise's hair, being nothing at all, cannot be broken. It is only where the world's eyes see that something really is there that one can go on to reflect on it: there must first be gold before it can be smelted and forged."</p>
+          <div class="zh">問曰：且置一異法。若言無燃、可燃，今云何以一異相破？如兔角龜毛，無故不可破。世間眼見實有事，而後可思惟。如有金，然後可燒可鍛。</div>
+        </div>
+      </div>
+
+      <p data-rv>This is excellent, and every careful reader of the treatise has felt it. You cannot take apart what is not there. Nobody writes a chapter refuting a hare's horn, because there is nothing to refute. The very fact that Nāgārjuna is <em>arguing</em> about fire and fuel concedes that there is something to argue about — and to grant that, the objector says, is to have them already.</p>
+
+      <p data-rv>The answer is the clearest statement in the treatise of what the whole enterprise takes itself to be doing.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">Answer <span class="zhl">答曰</span></div>
+          <p>"To speak in accordance with conventional usage incurs no fault. To speak of fire and fuel as one, or as different, is not to accept them. Apart from conventional speech there would be nothing to discuss at all. If one does not speak of fire and fuel, what would there be to break? And if nothing is said, the meaning cannot be made clear."</p>
+          <p>"A debater who wishes to refute existence and non-existence must speak of existence and non-existence, and he does not accept existence and non-existence merely because he has named them. So there is no blame in speaking as the world speaks. If having a word in one's mouth were already to accept the thing, then your own word "refute" would refute itself."</p>
+          <div class="zh">答曰：隨世俗法言說，不應有過。燃、可燃若說一若說異，不名為受。若離世俗言說，則無所論。若不說燃、可燃，云何能有所破？若無所說，則義不可明。<br>
+          如有論者欲破有無，必應言有無，不以稱有無故而受有無。是以隨世間言說故無咎。若口有言便是受者，汝言破即為自破，</div>
+        </div>
+      </div>
+
+      <p data-rv>Naming is not endorsing. The treatise speaks of fire and fuel the way the world speaks of them, because there is no other way to speak, and because without speaking there is nothing to examine. Using a word does not commit you to the metaphysics the word implies.</p>
+
+      <p data-rv>And then the counter-thrust, which is genuinely funny if you read it slowly: <em>if having a word in one's mouth were already to accept the thing, then your own word "refute" would refute itself</em>. The objector said "you cannot refute what is not there." If speaking of a thing commits you to it, the objector has just committed himself to the existence of a refutation — which is precisely what he was denying could occur.</p>
+
+      <div class="md-pull" data-rv>Apart from conventional speech there would be nothing to discuss at all.</div>
+
+      <p data-rv>This is the seed of the two truths, which Session 6 reads in full. Conventional speech is not a concession or a regrettable necessity. It is the only medium in which the ultimate can be pointed at — and the treatise says so here, in passing, four hundred years before anyone made it a doctrine.</p>
+
+      <!-- PART 3 -->
+      <div class="md-part" data-rv><div class="pn">Part 3</div><h2>One, or different<span class="rf">The potter and the pot</span></h2></div>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 10 · 觀燃可燃品</div>
+        <div class="en">
+          <p>"If fire is the very fuel,</p>
+          <p>then act and agent are one;</p>
+          <p>and if fire is other than fuel,</p>
+          <p>then there is fire apart from fuel."</p>
+        </div>
+        <div class="zh">
+          <p>若燃是可燃， 作作者則一；</p>
+          <p>若燃異可燃， 離可燃有燃。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/fire-fuel-and-the-self/' | relative_url }}">Read this passage in its place — chapter 10, "Examining Fire and Fuel" →</a>
+      </div>
+
+      <p data-rv>Two horns, and the commentary takes them in turn with an image anyone can check.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"If fire and fuel were one, then act and agent would have to be one too. And if act and agent were one, the potter would be one with the pot. The agent is the potter and the act is the pot; but the potter is not the pot and the pot is not the potter — how could they be one?"</p>
+          <div class="zh">若燃、可燃一，則作、作者亦應一。若作、作者一，則陶師與瓶一。作者是陶師、作是瓶，陶師非瓶、瓶非陶師，云何為一？</div>
+        </div>
+      </div>
+
+      <p data-rv>The first horn collapses the distinction the objector needed. If the self simply <em>is</em> the aggregates, then there is no one having the experience — there is only the experience, which is what the objector was trying to avoid. And the aggregates are many and changing, so the self would be many and changing too.</p>
+
+      <p data-rv>The second horn is where the image does its work:</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"If fire were other than fuel, there would have to be a fire found separately, apart from fuel. One could say of this that it is fuel and of that that it is fire, and everywhere apart from fuel there ought to be fire. But in fact it is not so; and so difference will not do either."</p>
+          <div class="zh">若燃與可燃異，應離可燃別有燃。分別是可燃、是燃，處處離可燃應有燃。而實不爾，是故異亦不可。</div>
+        </div>
+      </div>
+
+      <p data-rv>Fire is not a substance that arrives and takes up residence in wood. There is no flame waiting in the air for fuel to occupy. Burning is what happens when certain conditions obtain, and to speak of "the fire" as a thing that then consumes "the fuel" is to have taken a process and split it into two items after the fact.</p>
+
+      <p data-rv>Turn that on the self and the point lands. If the self is genuinely other than body, feeling, perception, impulse and awareness, then it ought to be findable on its own, the way a separate fire would be findable apart from wood. It is not. And a self that can never be found apart from what it is supposed to be appropriating is not related to them as an owner to what is owned.</p>
+
+      <!-- PART 4 -->
+      <div class="md-part" data-rv><div class="pn">Part 4</div><h2>What the chapter leaves you with<span class="rf">And where the Yogācārins object</span></h2></div>
+
+      <p data-rv>Chapter 10 does not conclude that there is no person. It concludes that the relation between a person and their experience is not the relation of an owner to a possession, because neither term can be established as the kind of self-standing item that relation requires.</p>
+
+      <p data-rv>What is left is burning. A process, dependent, entirely real as a process, with no separable flame and no separable wood — and also with nobody standing outside it holding a match.</p>
+
+      <p data-rv>It is worth naming, here, where the other great Mahāyāna school parts company. The <a href="{{ '/courses/eight-consciousnesses/' | relative_url }}">Yogācārins</a> accept nearly all of this and then insist on one exception: the dependent process itself is not empty. Something is happening, and that happening has to be real, or there is nothing for the analysis to be about. Nāgārjuna's heirs reply that a "really real dependent process" is one more thing with a nature of its own, smuggled in at the last moment.</p>
+
+      <p data-rv>Neither school thinks the other is stupid, and the argument ran for centuries. What you can do with this course is see the disagreement clearly rather than pick a side early — which is why the two electives are built to be read together.</p>
+
+      <div class="md-take" data-rv>
+        <b class="h">What Session 4 establishes</b>
+        <ul>
+          <li><b>Naming is not endorsing.</b> Conventional speech is the only medium available, and using a word commits you to nothing.</li>
+          <li><b>The self-refutation charge backfires</b> — if speaking of a thing accepts it, the word "refute" refutes itself.</li>
+          <li><b>If self and aggregates are one</b>, there is no one having the experience, and the self is many and changing.</li>
+          <li><b>If they are different</b>, the self should be findable alone, as a separate fire would be findable without wood.</li>
+          <li><b>What is left is burning</b> — a real process with no separable flame, no separable fuel, and nobody outside it.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="md-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Looking for the one who is appropriating</span></h2></div>
+
+      <div class="md-prac" data-rv>
+        <b class="h">Fire without a fire</b>
+        <p>The chapter's claim is checkable in one direction only: you cannot prove the self is not there, but you can look for it where the objector says it must be, and see what you find.</p>
+        <div class="how">
+          Sit for fifteen minutes. Let experience be as it is — sounds, sensations, thoughts arriving. Then take the objector's position seriously and go looking for the appropriator.<br><br>
+          Try the first horn: <strong>is it the same as what is happening?</strong> If the one having the experience simply is the experience, notice that there is then no one having it — check whether that is in fact how it seems.<br><br>
+          Then the second horn: <strong>is it separate?</strong> Look for it apart from every sound, sensation and thought — apart from all of them at once, not one at a time. If you find something, check whether what you found is itself a sensation or a thought, in which case you have found more fuel and not the fire.
+        </div>
+        <p>The honest outcome is usually neither of the two horns but a third thing: a strong, persistent sense of a self that cannot be located when looked for. That is not a failure of the exercise. It is the exact situation the chapter describes, and the Yogācāra elective's Session 6 offers a specific account of what is producing that sense.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="md-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="md-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does the fire-and-fuel image stand for?</div>
+          <button class="opt"><span class="ltr">A</span>Craving consuming the practitioner</button>
+          <button class="opt"><span class="ltr">B</span>Karma burning up over successive lives</button>
+          <button class="opt"><span class="ltr">C</span>The one who appropriates and what is appropriated — a self, and the five aggregates</button>
+          <button class="opt"><span class="ltr">D</span>Wisdom consuming ignorance</button>
+          <div class="expl"><strong>Correct: C.</strong> Well chosen, because fire genuinely does look like a thing that consumes another thing.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is the hare's-horn objection?</div>
+          <button class="opt"><span class="ltr">A</span>That you cannot refute what does not exist — so arguing about fire and fuel concedes that they are there</button>
+          <button class="opt"><span class="ltr">B</span>That the aggregates are as unreal as a hare's horn</button>
+          <button class="opt"><span class="ltr">C</span>That conventional objects are illusions with no causal power</button>
+          <button class="opt"><span class="ltr">D</span>That only what is perceived by the senses can be discussed</button>
+          <div class="expl"><strong>Correct: A.</strong> There must first be gold before it can be smelted. A genuinely good objection, aimed at the method rather than the topic.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">How does the treatise answer it?</div>
+          <button class="opt"><span class="ltr">A</span>By conceding that fire and fuel conventionally exist and abandoning the refutation</button>
+          <button class="opt"><span class="ltr">B</span>By appealing to scriptural authority</button>
+          <button class="opt"><span class="ltr">C</span>By arguing that refutation is itself ultimately real</button>
+          <button class="opt"><span class="ltr">D</span>That naming is not endorsing — and if it were, the objector's own word "refute" would refute itself</button>
+          <div class="expl"><strong>Correct: D.</strong> And in passing it states the principle behind the two truths: apart from conventional speech there would be nothing to discuss at all.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the potter-and-pot image showing?</div>
+          <button class="opt"><span class="ltr">A</span>That the agent shapes the act as a potter shapes clay</button>
+          <button class="opt"><span class="ltr">B</span>That act and agent cannot be one — the potter is not the pot — so fire and fuel cannot be one either</button>
+          <button class="opt"><span class="ltr">C</span>That every effect is contained in its cause</button>
+          <button class="opt"><span class="ltr">D</span>That conventional objects are made, not found</button>
+          <div class="expl"><strong>Correct: B.</strong> The first horn collapses the distinction the objector needed in the first place.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why does difference fail?</div>
+          <button class="opt"><span class="ltr">A</span>Because fire and fuel arise at the same moment</button>
+          <button class="opt"><span class="ltr">B</span>Because difference implies permanence</button>
+          <button class="opt"><span class="ltr">C</span>Because a genuinely separate fire should be findable apart from fuel — everywhere, in fact — and it is not</button>
+          <button class="opt"><span class="ltr">D</span>Because the Abhidharma classifies them as a single dharma</button>
+          <div class="expl"><strong>Correct: C.</strong> There is no flame waiting in the air for wood to occupy. Burning is what happens when conditions obtain.</div>
+        </div>
+
+        <div class="md-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="md-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>When you say "my experience," what is the relation you take the word "my" to name?</p>
+        <p class="sm">The chapter's claim is that it is not ownership, because neither an owner nor a possession can be established here. What it does not say is that the word is wrong. It says the word works, conventionally, exactly as it has always worked — and that nothing about how it works requires the picture you had behind it.</p>
+      </div>
+
+      <div class="md-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · If nothing has a nature, who acts?</h3>
+        <p>The objection that has followed the treatise since it was written. Take away own-nature and you seem to take away the agent, the deed, and the consequence — and with them the entire moral structure of the tradition. Chapters 8 and 17, on act and agent, and on karma.</p>
+      </div>
+
+      <div class="md-foot" data-rv>
+        <a class="md-btn ghost" href="{{ '/courses/nothing-stands/session-3/' | relative_url }}">← Session 3</a>
+        <a class="md-btn primary" href="{{ '/courses/nothing-stands/session-5/' | relative_url }}">Session 5 · If nothing has a nature, who acts? →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.md [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.md-quiz .q').length;
+  document.querySelectorAll('.md-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

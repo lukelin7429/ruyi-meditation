@@ -1,0 +1,473 @@
+---
+layout: default
+title: "Session 1 · Four doors, eight handles (Nothing Stands)"
+permalink: /courses/nothing-stands/session-1/
+excerpt: "Session 1 of Nothing Stands — the eight negations, why they come in pairs, and the uncomfortable fact that the Middle Treatise was written for Buddhists."
+---
+
+<style>
+  .md{--base:#41525c;--mid:#25313a;--deep:#0d1317;--acc:#9db8c6;--acc-deep:#456170;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f5f7f8;--ink:#161d21;--ink-soft:#5a666d;--line:#e0e6e9;}
+  .md *{box-sizing:border-box;}
+  .md-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .md [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .md [data-rv].in{opacity:1;transform:none;}
+
+  .md-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .md-crumb .md-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .md-crumb a{color:var(--base);text-decoration:none;}
+  .md-crumb a:hover{text-decoration:underline;}
+
+  .md-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(157,184,198,.20),transparent 62%),
+    linear-gradient(158deg,#41525c 0%,#25313a 46%,#0d1317 100%);color:#fff;}
+  .md-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .md-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .md-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .md-hero .subt{font-style:italic;font-size:18px;color:#d3e0e6;}
+  .md-hero .rd{margin-top:24px;font-size:14px;color:#a9bcc5;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .md-hero .rd b{color:var(--acc);}
+
+  .md-body{background:#fff;padding:44px 0 24px;}
+  .md-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .md-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .md-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .md-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .md-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .md-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .md-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#eef2f4);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .md-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .md-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .md-scr p:last-of-type{margin-bottom:0;}
+  .md-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5f7683;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8e1e5;line-height:1.85;}
+  .md-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .md-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .md-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .md-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .md-terms span b{color:var(--base);}
+
+  .md-take{background:linear-gradient(180deg,#fdfbf8,#e9eff1);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .md-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .md-take ul{margin:0;padding-left:20px;}
+  .md-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .md-take li b{color:var(--acc-deep);}
+
+  .md-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .md-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .md-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .md-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .md-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .md-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .md-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .md-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .md-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .md-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .md-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .md-prac p:last-child{margin-bottom:0;}
+  .md-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .md-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .md-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .md-quiz .q:first-of-type{padding-top:2px;}
+  .md-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .md-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .md-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .md-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .md-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .md-quiz .opt:hover:not(:disabled){background:#eef3f5;border-color:var(--base);}
+  .md-quiz .opt:disabled{cursor:default;}
+  .md-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .md-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .md-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .md-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .md-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .md-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .md-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .md-quiz .expl.show{display:block;}
+  .md-quiz .expl strong{color:var(--ink);}
+  .md-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .md-score strong{color:var(--base);font-size:17px;}
+
+  .md-reflect{background:linear-gradient(158deg,#41525c 0%,#25313a 48%,#0d1317 100%);color:#d7e2e7;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .md-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .md-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .md-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#a9bcc5;line-height:1.7;margin-top:14px;}
+
+  .md-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .md-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .md-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .md-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .md-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .md-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .md-btn.primary{background:linear-gradient(158deg,#41525c,#0d1317);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .md-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .md-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .md-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .md .md-crumb,.md-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .md [data-rv]{opacity:1 !important;transform:none !important;}
+    .md-hero{background:none;color:#000;padding:0;}
+    .md-hero-in{padding:0 0 12px;}
+    .md-eyebrow,.md-hero .subt,.md-hero .rd{color:#444;}
+    .md-hero h1{color:#000;}
+    .md-body{padding:0;}
+    .md-body p,.md-body h3,.md-part h2,.md-take li,.md-prac p{color:#000;}
+    .md-scr,.md-take,.md-prac,.md-quiz,.md-next{background:#fff !important;border:1px solid #bbb;}
+    .md-scr p{color:#000;}
+    .md-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-reflect p,.md-reflect .l,.md-reflect p.sm{color:#000;}
+    .md-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-textcard h3,.md-textcard p,.md-textcard .go,.md-textcard .trad{color:#000;}
+    .md{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Nothing Stands: course-specific components --- */
+
+  /* a root verse — the kārikā itself, set apart from the prose commentary */
+  .md-verse{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 12px 12px;
+    background:linear-gradient(180deg,#fbfcfd,#eef2f4);padding:24px 28px 22px;margin:26px 0;}
+  .md-verse .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:12px;}
+  .md-verse .en{font-family:'Playfair Display',serif;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .en p{margin:0;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:16px;color:#5f7683;
+    margin-top:16px;padding-top:13px;border-top:1px dashed #d8e1e5;line-height:2;}
+  .md-verse .zh p{margin:0;font-family:inherit;font-size:16px;color:#5f7683;line-height:2;}
+  .md-verse a.bk{display:inline-block;margin-top:14px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-verse a.bk:hover{border-bottom-color:var(--base);}
+
+  /* the treatise argues as a dialogue — 問曰 / 答曰 */
+  .md-qa{margin:26px 0;border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .md-qa .turn{padding:18px 24px 16px;}
+  .md-qa .turn.q{background:linear-gradient(180deg,#f1f5f7,#e7eef1);border-bottom:1px solid var(--line);}
+  .md-qa .turn.a{background:#fff;}
+  .md-qa .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .md-qa .turn.q .l{color:#6b8593;}
+  .md-qa .turn.a .l{color:var(--acc-deep);}
+  .md-qa .l .zhl{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;letter-spacing:.06em;margin-left:7px;opacity:.75;}
+  .md-qa p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 10px;}
+  .md-qa p:last-child{margin-bottom:0;}
+  .md-qa .turn.q p{font-style:italic;}
+  .md-qa .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;color:var(--ink-soft);
+    line-height:1.85;margin-top:11px;padding-top:9px;border-top:1px dashed #d8e1e5;}
+
+  /* the four corners, shown as four shut doors */
+  .md-four{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0;}
+  @media(max-width:520px){.md-four{grid-template-columns:1fr;}}
+  .md-four .d{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .md-four .d b{display:block;font-family:'Playfair Display',serif;font-size:16.5px;color:var(--ink);margin-bottom:3px;}
+  .md-four .d .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:13.5px;color:var(--acc-deep);font-weight:600;}
+  .md-four .d span{display:block;font-size:14.5px;line-height:1.58;color:var(--ink-soft);margin-top:5px;}
+</style>
+
+<div class="md">
+
+  <nav class="md-crumb"><div class="md-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/nothing-stands/' | relative_url }">Nothing Stands</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="md-hero">
+    <div class="md-hero-in">
+      <div class="md-eyebrow">Session 1 · The homage</div>
+      <h1>Four doors, eight handles</h1>
+      <div class="subt">Nagarjuna states his entire position before arguing for any of it</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>The text</b> Mūlamadhyamakakārikā, chapter 1</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="md-body">
+    <div class="md-wrap">
+
+      <!-- PART 1 -->
+      <div class="md-part" data-rv><div class="pn">Part 1</div><h2>Who this was written for<span class="rf">Not the people you would expect</span></h2></div>
+
+      <p data-rv>The <em>Middle Treatise</em> has a reputation as the most destructive book in Buddhist philosophy — twenty-seven chapters taking apart motion, time, causation, the self, karma, the Buddha, and nirvāṇa, leaving nothing standing. The reputation is not wrong. But it gives a misleading impression of the target.</p>
+
+      <p data-rv>The commentary that comes down with the text — by Piṅgala, translated into Chinese with the verses by Kumārajīva in 409 CE, and translated on this site along with them — opens by naming the rival theories of the day. Things come from Maheśvara, or Viṣṇu, or a combination of elements, or Time, or primordial nature, or transformation, or spontaneity, or atoms. A crowded room, everyone with a theory of where things come from.</p>
+
+      <p data-rv>And then the passage turns, and this is the news:</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"After the Buddha's final passing, in the five hundred years of the semblance Dharma, people's faculties grew duller and they clung deeply to things, hunting for fixed characteristics in the twelve links, the five aggregates, the twelve sense-fields, the eighteen elements. Not knowing the Buddha's intention, they held only to his words. And when they heard the Great Vehicle's teaching of ultimate emptiness, they did not know for what reason things are empty, and doubt arose in them:"</p>
+          <p>"Seizing on this mark of emptiness, they gave rise to craving and clinging, and produced every sort of fault inside ultimate emptiness itself. It was for people such as these that the bodhisattva Nāgārjuna composed this <em>Middle Treatise</em>."</p>
+          <div class="zh">取是空相而起貪著，於畢竟空中生種種過。龍樹菩薩為是等故，造此中論。</div>
+        </div>
+      </div>
+
+      <p data-rv>The treatise was written for Buddhists. Specifically, for two kinds: those who took the Buddha's analytical lists and went hunting inside them for <em>fixed characteristics</em> — real, findable units where the analysis finally bottoms out — and those who, hearing that all of it is empty and not knowing why, concluded that emptiness cancels morality.</p>
+
+      <p data-rv>And then the sentence that should stop anyone who has ever enjoyed the word: <strong>seizing on this mark of emptiness, they gave rise to craving and clinging</strong>. Emptiness had become one more thing to have. The <em>Middle Treatise</em> exists because a medicine had been turned into a disease.</p>
+
+      <div class="md-pull" data-rv>Every reader of this book is, in the relevant sense, one of the people it was written against.</div>
+
+      <!-- PART 2 -->
+      <div class="md-part" data-rv><div class="pn">Part 2</div><h2>The homage<span class="rf">The whole position, before a single argument</span></h2></div>
+
+      <p data-rv>Indian treatises open with homage to the Buddha. Nāgārjuna uses the convention to state his entire thesis — and notice what he praises the Buddha <em>for</em>. Not a miracle, not a lineage, not a heaven.</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · root verses 1–2 · 八不</div>
+        <div class="en">
+          <p>"Neither arising nor ceasing,</p>
+          <p>neither permanent nor annihilated,</p>
+          <p>neither identical nor different,</p>
+          <p>neither coming nor going out —</p>
+        </div>
+        <div class="en" style="margin-top:14px;">
+          <p>whoever can teach this, dependent arising,</p>
+          <p>the good quieting of all elaboration:</p>
+          <p>to him, the Buddha, I bow my head,</p>
+          <p>first among all who have taught."</p>
+        </div>
+        <div class="zh">
+          <p>不生亦不滅， 不常亦不斷，</p>
+          <p>不一亦不異， 不來亦不出。</p>
+          <p>能說是因緣， 善滅諸戲論，</p>
+          <p>我稽首禮佛， 諸說中第一。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/eight-negations-and-four-conditions/' | relative_url }}">Read this passage in its place — chapter 1, "The Homage: Eight Negations" →</a>
+      </div>
+
+      <p data-rv>Eight negations, 八不. The most famous line in Madhyamaka, and the whole treatise is in some sense their unpacking.</p>
+
+      <p data-rv>The Buddha is praised for two things, and the second is the one to hold onto. He taught dependent arising — and he accomplished <em>the good quieting of all elaboration</em>. 戲論, Sanskrit <em>prapañca</em>: the mind's habit of spinning out ever finer categories and then mistaking the categories for the world. This is a self, that is other, this is mine, that is a thing with a fixed nature that will still be that thing tomorrow.</p>
+
+      <p data-rv>Nāgārjuna praises the Buddha not for having explained the universe but for having <em>stopped</em> something. For putting the machinery down. That tells you what the twenty-seven chapters are for: not a better theory, but the end of theorising.</p>
+
+      <!-- PART 3 -->
+      <div class="md-part" data-rv><div class="pn">Part 3</div><h2>Why eight, and why in pairs<span class="rf">The architecture of the whole treatise, explained in one exchange</span></h2></div>
+
+      <p data-rv>The commentary immediately asks the obvious question, and the answer is more interesting than it looks.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn q">
+          <div class="l">Objection <span class="zhl">問曰</span></div>
+          <p>"Things are beyond counting. Why break them all with just these eight?"</p>
+          <div class="zh">問曰：諸法無量，何故但以此八事破？</div>
+        </div>
+        <div class="turn a">
+          <div class="l">Answer <span class="zhl">答曰</span></div>
+          <p>"Though things are beyond counting, to state these eight in brief is to break all things at once."</p>
+          <p>"The mark of arising cannot in the end be found: therefore, not arising. And "not ceasing": if there is no arising, how could there be any ceasing? And because there is no arising and no ceasing, the remaining six do not stand either."</p>
+          <div class="zh">答曰：法雖無量，略說八事則為總破一切法。<br>
+          生相決定不可得，故不生。不滅者，若無生何得有滅？以無生、無滅故，餘六事亦無。</div>
+        </div>
+      </div>
+
+      <p data-rv>So the first negation does all the logical work, and the other seven follow from it. Which raises a sharper question, and the treatise asks that too — why bother with six more?</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn q">
+          <div class="l">Objection <span class="zhl">問曰</span></div>
+          <p>""Not arising, not ceasing" has already broken all things at once. Why state six more?"</p>
+          <div class="zh">問曰：不生、不滅已總破一切法。何故復說六事？</div>
+        </div>
+        <div class="turn a">
+          <div class="l">Answer <span class="zhl">答曰</span></div>
+          <p>"In order to establish the meaning of not-arising and not-ceasing. There are people who will not accept "not arising, not ceasing," but who do believe "not permanent, not annihilated" — and if one searches deeply into not-permanent and not-annihilated, that <em>is</em> not-arising and not-ceasing."</p>
+          <p>"And there are people who, though they have heard these four break all things, still try to build things back up through identity and difference."</p>
+          <div class="zh">答曰：為成不生不滅義故。有人不受不生不滅，而信不常不斷。若深求不常不斷，即是不生不滅。<br>
+          有人雖聞四種破諸法，猶以四門成諸法。</div>
+        </div>
+      </div>
+
+      <p data-rv>This is a piece of pedagogical honesty that explains the architecture of the entire book. Logically, one negation would have sufficed. The other seven exist because <strong>people do not accept the first one</strong>. So the argument is restated in a second vocabulary for readers who balk at the first, and then a third, and then a fourth.</p>
+
+      <p data-rv>Watch the escalation, because it is a map of your own mind reading this. Denied arising and ceasing, the mind takes refuge in duration — <em>fine, but surely things last, or surely they stop</em>. Denied permanence and annihilation, it takes refuge in relation — <em>fine, but surely the seed and the sprout are either the same thing or two things</em>. Denied identity and difference, it takes refuge in transit — <em>fine, but surely it came from somewhere</em>.</p>
+
+      <div class="md-four" data-rv>
+        <div class="d"><b>Arising / ceasing</b><div class="zh">不生亦不滅</div><span>The door on existence itself. Everything else follows from this one.</span></div>
+        <div class="d"><b>Permanent / annihilated</b><div class="zh">不常亦不斷</div><span>The door on duration, for those who balked at the first.</span></div>
+        <div class="d"><b>Identical / different</b><div class="zh">不一亦不異</div><span>The door on relation, for those who rebuilt through sameness.</span></div>
+        <div class="d"><b>Coming / going out</b><div class="zh">不來亦不出</div><span>The door on transit — where the eight origin-stories walk back in wearing the word <em>from</em>.</span></div>
+      </div>
+
+      <p data-rv>Four doors, and each has two handles. That is why the negations come in pairs: a reader told that things do not truly arise will reach at once for the opposite — <em>then nothing is there, and nothing happens</em>. The verse blocks that reach in the same breath. There is no shore on either side, and the lack of a shore is the point.</p>
+
+      <p data-rv>So the <em>Middle Treatise</em> is twenty-seven chapters long not because the argument needs twenty-seven chapters, but because grasping has that many hiding places. The repetitiveness readers complain about is the method.</p>
+
+      <!-- PART 4 -->
+      <div class="md-part" data-rv><div class="pn">Part 4</div><h2>What is being denied, and what is not<span class="rf">The single most common misreading, blocked at the outset</span></h2></div>
+
+      <p data-rv>It is worth being exact about the target now, before eight sessions of demolition make it easy to lose.</p>
+
+      <p data-rv>Nāgārjuna is not saying nothing exists. He is saying nothing exists <strong>in the way you take it to</strong> — with 自性, a nature of its own, standing on its own, independent of conditions. The technical term the treatise breaks is <em>fixed characteristic</em>, 決定相: the property that would make a thing be what it is regardless of anything else.</p>
+
+      <p data-rv>And the argument is always the same in shape, whatever the topic. If a thing had a nature of its own, it would not need conditions. But everything that appears does depend on conditions. So nothing that appears has a nature of its own — and if it does not have a nature of its own, then the thing you thought you were pointing at, the self-standing item, was never there to be found.</p>
+
+      <p data-rv>Notice that this leaves the appearance entirely alone. The sprout grows. The chapter on motion will not deny that people walk to the market. What it will deny is that there is a findable act of going, with its own nature, that the walking consists in.</p>
+
+      <p data-rv>Readers coming from the <a href="{{ '/courses/eight-consciousnesses/' | relative_url }}">Yogācāra elective</a> will recognise the shape of this — that school also targets independence rather than existence. The two schools will part company over what survives the analysis, and Session 6 is where the disagreement becomes explicit. For now it is enough to see that they share a move.</p>
+
+      <div class="md-take" data-rv>
+        <b class="h">What Session 1 establishes</b>
+        <ul>
+          <li><b>The treatise was written for Buddhists</b> — for people hunting fixed characteristics in the Buddha's own lists, and for people who made emptiness into a thing to have.</li>
+          <li><b>The homage states the whole thesis</b> before any argument is made.</li>
+          <li><b>The Buddha is praised for stopping something</b>, not for explaining anything — the quieting of elaboration.</li>
+          <li><b>One negation does the logical work.</b> The other seven exist because people will not accept the first.</li>
+          <li><b>They come in pairs because every denial invites its opposite</b>, and both doors are shut in the same breath.</li>
+          <li><b>The target is own-nature, not existence.</b> Nothing is being denied except independence.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="md-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Finding your own fixed characteristic</span></h2></div>
+
+      <div class="md-prac" data-rv>
+        <b class="h">Where the analysis bottoms out</b>
+        <p>The people the treatise was written for were not fools. They were doing something reasonable — analysing experience into parts, and assuming the analysis had to stop somewhere real. Almost everyone does this, usually without noticing where they have stopped.</p>
+        <div class="how">
+          Take fifteen minutes. Pick anything in front of you — an object, a feeling, a relationship. Take it apart: what is it made of, what does it depend on, what would have to be different for it not to be there?<br><br>
+          Keep going until you hit something that feels like it will not come apart — something that is <em>just what it is</em>. Everyone hits one. It might be matter, or awareness, or a particular person's character, or the bare fact of existing.<br><br>
+          Then ask one question about it: <strong>does it depend on anything?</strong> Not "is it made of parts" — does it require any condition at all in order to be what it is? If it does, it is not the floor. If it genuinely does not, ask how you came to know about it.
+        </div>
+        <p>The exercise is not designed to produce an answer. It is designed to locate the place where you stop asking, because that place is what the next seven sessions are about.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="md-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="md-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">According to the commentary, who was the <em>Middle Treatise</em> written for?</div>
+          <button class="opt"><span class="ltr">A</span>The Śaiva and Vaiśeṣika schools, whose origin-stories it lists</button>
+          <button class="opt"><span class="ltr">B</span>Beginners with no philosophical training</button>
+          <button class="opt"><span class="ltr">C</span>Buddhists — those hunting fixed characteristics in the Buddha's own lists, and those who seized on emptiness and gave rise to craving and clinging</button>
+          <button class="opt"><span class="ltr">D</span>Monks who had abandoned the precepts</button>
+          <div class="expl"><strong>Correct: C.</strong> The rival schools are named first, but the passage turns: the treatise exists because a medicine had been turned into a disease.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What does the homage praise the Buddha for?</div>
+          <button class="opt"><span class="ltr">A</span>His awakening under the bodhi tree</button>
+          <button class="opt"><span class="ltr">B</span>Teaching dependent arising, and the good quieting of all elaboration</button>
+          <button class="opt"><span class="ltr">C</span>Establishing the monastic order</button>
+          <button class="opt"><span class="ltr">D</span>Explaining the true origin of the world</button>
+          <div class="expl"><strong>Correct: B.</strong> Praised for <em>stopping</em> something — 戲論, the manufacture of categories mistaken for the world.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Why does the treatise state eight negations when one would logically suffice?</div>
+          <button class="opt"><span class="ltr">A</span>Because each negation refutes a different school</button>
+          <button class="opt"><span class="ltr">B</span>Because eight is a traditionally auspicious number</button>
+          <button class="opt"><span class="ltr">C</span>Because the eight are logically independent of one another</button>
+          <button class="opt"><span class="ltr">D</span>Because people do not accept the first one, so the argument is restated in a second vocabulary, then a third, then a fourth</button>
+          <div class="expl"><strong>Correct: D.</strong> Four doors, because the mind keeps finding a window. The repetitiveness is the method.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Why do the negations come in pairs?</div>
+          <button class="opt"><span class="ltr">A</span>Because denying one extreme makes the mind reach for the opposite, so both are shut in the same breath</button>
+          <button class="opt"><span class="ltr">B</span>Because Sanskrit verse required couplets</button>
+          <button class="opt"><span class="ltr">C</span>Because each pair refers to a different stage of the path</button>
+          <button class="opt"><span class="ltr">D</span>Because one member of each pair is conventional and the other ultimate</button>
+          <div class="expl"><strong>Correct: A.</strong> There is no shore on either side to swim to, and the lack of a shore is the point.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What exactly is Nāgārjuna denying?</div>
+          <button class="opt"><span class="ltr">A</span>That anything exists at all</button>
+          <button class="opt"><span class="ltr">B</span>That the Buddha's teaching is reliable</button>
+          <button class="opt"><span class="ltr">C</span>That anything has a nature of its own — a fixed characteristic that makes it what it is independently of conditions</button>
+          <button class="opt"><span class="ltr">D</span>That causes produce effects</button>
+          <div class="expl"><strong>Correct: C.</strong> The appearance is left entirely alone. The chapter on motion will not deny that people walk to the market.</div>
+        </div>
+
+        <div class="md-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="md-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>Where did your analysis stop — and what made you think that was the floor rather than the place you got tired?</p>
+        <p class="sm">The treatise's wager is that there is no floor, and that the search for one is itself the elaboration the Buddha was praised for quieting. But the wager is only interesting if you have actually located your own stopping place, which is why this session's practice comes before any of the arguments.</p>
+      </div>
+
+      <div class="md-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · Nothing arises, in four ways</h3>
+        <p>The first argument proper, and the template for everything after it: things arise neither from themselves, nor from another, nor from both, nor without a cause. Then the four conditions — the standard Buddhist account of causation — taken apart one at a time by the school that accepted them.</p>
+      </div>
+
+      <div class="md-foot" data-rv>
+        <a class="md-btn ghost" href="{{ '/courses/nothing-stands/' | relative_url }}">← Course overview</a>
+        <a class="md-btn primary" href="{{ '/courses/nothing-stands/session-2/' | relative_url }}">Session 2 · Nothing arises, in four ways →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.md [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.md-quiz .q').length;
+  document.querySelectorAll('.md-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

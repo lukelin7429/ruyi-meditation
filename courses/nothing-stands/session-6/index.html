@@ -1,0 +1,530 @@
+---
+layout: default
+title: "Session 6 · Your emptiness destroys everything (Nothing Stands)"
+permalink: /courses/nothing-stands/session-6/
+excerpt: "Session 6 of Nothing Stands — the accusation that emptiness destroys the four truths and the three jewels, the two truths that answer it, and the warning about the snake caught wrongly."
+---
+
+<style>
+  .md{--base:#41525c;--mid:#25313a;--deep:#0d1317;--acc:#9db8c6;--acc-deep:#456170;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f5f7f8;--ink:#161d21;--ink-soft:#5a666d;--line:#e0e6e9;}
+  .md *{box-sizing:border-box;}
+  .md-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .md [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .md [data-rv].in{opacity:1;transform:none;}
+
+  .md-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .md-crumb .md-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .md-crumb a{color:var(--base);text-decoration:none;}
+  .md-crumb a:hover{text-decoration:underline;}
+
+  .md-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(157,184,198,.20),transparent 62%),
+    linear-gradient(158deg,#41525c 0%,#25313a 46%,#0d1317 100%);color:#fff;}
+  .md-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .md-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .md-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .md-hero .subt{font-style:italic;font-size:18px;color:#d3e0e6;}
+  .md-hero .rd{margin-top:24px;font-size:14px;color:#a9bcc5;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .md-hero .rd b{color:var(--acc);}
+
+  .md-body{background:#fff;padding:44px 0 24px;}
+  .md-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .md-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .md-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .md-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .md-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .md-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .md-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#eef2f4);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .md-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .md-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .md-scr p:last-of-type{margin-bottom:0;}
+  .md-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#5f7683;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #d8e1e5;line-height:1.85;}
+  .md-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .md-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .md-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .md-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .md-terms span b{color:var(--base);}
+
+  .md-take{background:linear-gradient(180deg,#fdfbf8,#e9eff1);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .md-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .md-take ul{margin:0;padding-left:20px;}
+  .md-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .md-take li b{color:var(--acc-deep);}
+
+  .md-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .md-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .md-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .md-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .md-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .md-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .md-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .md-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .md-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .md-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .md-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .md-prac p:last-child{margin-bottom:0;}
+  .md-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .md-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .md-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .md-quiz .q:first-of-type{padding-top:2px;}
+  .md-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .md-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .md-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .md-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .md-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .md-quiz .opt:hover:not(:disabled){background:#eef3f5;border-color:var(--base);}
+  .md-quiz .opt:disabled{cursor:default;}
+  .md-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .md-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .md-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .md-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .md-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .md-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .md-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .md-quiz .expl.show{display:block;}
+  .md-quiz .expl strong{color:var(--ink);}
+  .md-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .md-score strong{color:var(--base);font-size:17px;}
+
+  .md-reflect{background:linear-gradient(158deg,#41525c 0%,#25313a 48%,#0d1317 100%);color:#d7e2e7;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .md-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .md-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .md-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#a9bcc5;line-height:1.7;margin-top:14px;}
+
+  .md-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .md-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .md-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .md-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .md-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .md-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .md-btn.primary{background:linear-gradient(158deg,#41525c,#0d1317);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .md-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .md-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .md-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .md .md-crumb,.md-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .md [data-rv]{opacity:1 !important;transform:none !important;}
+    .md-hero{background:none;color:#000;padding:0;}
+    .md-hero-in{padding:0 0 12px;}
+    .md-eyebrow,.md-hero .subt,.md-hero .rd{color:#444;}
+    .md-hero h1{color:#000;}
+    .md-body{padding:0;}
+    .md-body p,.md-body h3,.md-part h2,.md-take li,.md-prac p{color:#000;}
+    .md-scr,.md-take,.md-prac,.md-quiz,.md-next{background:#fff !important;border:1px solid #bbb;}
+    .md-scr p{color:#000;}
+    .md-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-reflect p,.md-reflect .l,.md-reflect p.sm{color:#000;}
+    .md-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .md-textcard h3,.md-textcard p,.md-textcard .go,.md-textcard .trad{color:#000;}
+    .md{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- Nothing Stands: course-specific components --- */
+
+  /* a root verse — the kārikā itself, set apart from the prose commentary */
+  .md-verse{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 12px 12px;
+    background:linear-gradient(180deg,#fbfcfd,#eef2f4);padding:24px 28px 22px;margin:26px 0;}
+  .md-verse .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:12px;}
+  .md-verse .en{font-family:'Playfair Display',serif;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .en p{margin:0;font-size:19.5px;line-height:1.62;color:var(--deep);}
+  .md-verse .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:16px;color:#5f7683;
+    margin-top:16px;padding-top:13px;border-top:1px dashed #d8e1e5;line-height:2;}
+  .md-verse .zh p{margin:0;font-family:inherit;font-size:16px;color:#5f7683;line-height:2;}
+  .md-verse a.bk{display:inline-block;margin-top:14px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(65,82,92,.4);}
+  .md-verse a.bk:hover{border-bottom-color:var(--base);}
+
+  /* the treatise argues as a dialogue — 問曰 / 答曰 */
+  .md-qa{margin:26px 0;border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .md-qa .turn{padding:18px 24px 16px;}
+  .md-qa .turn.q{background:linear-gradient(180deg,#f1f5f7,#e7eef1);border-bottom:1px solid var(--line);}
+  .md-qa .turn.a{background:#fff;}
+  .md-qa .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .md-qa .turn.q .l{color:#6b8593;}
+  .md-qa .turn.a .l{color:var(--acc-deep);}
+  .md-qa .l .zhl{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;letter-spacing:.06em;margin-left:7px;opacity:.75;}
+  .md-qa p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 10px;}
+  .md-qa p:last-child{margin-bottom:0;}
+  .md-qa .turn.q p{font-style:italic;}
+  .md-qa .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;color:var(--ink-soft);
+    line-height:1.85;margin-top:11px;padding-top:9px;border-top:1px dashed #d8e1e5;}
+
+  /* the four corners, shown as four shut doors */
+  .md-four{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0;}
+  @media(max-width:520px){.md-four{grid-template-columns:1fr;}}
+  .md-four .d{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .md-four .d b{display:block;font-family:'Playfair Display',serif;font-size:16.5px;color:var(--ink);margin-bottom:3px;}
+  .md-four .d .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:13.5px;color:var(--acc-deep);font-weight:600;}
+  .md-four .d span{display:block;font-size:14.5px;line-height:1.58;color:var(--ink-soft);margin-top:5px;}
+</style>
+
+<div class="md">
+
+  <nav class="md-crumb"><div class="md-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/nothing-stands/' | relative_url }">Nothing Stands</a> → Session 6</div></nav>
+
+  <!-- HERO -->
+  <section class="md-hero">
+    <div class="md-hero-in">
+      <div class="md-eyebrow">Session 6 · Chapter 24</div>
+      <h1>Your emptiness destroys everything</h1>
+      <div class="subt">The most important chapter in the treatise, and the most misused idea in Buddhism</div>
+      <div class="rd">
+        <span><b>Reading time</b> about forty minutes</span>
+        <span><b>Before class</b> Sessions 1–5</span>
+        <span><b>The text</b> Mūlamadhyamakakārikā, chapter 24</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="md-body">
+    <div class="md-wrap">
+
+      <!-- PART 1 -->
+      <div class="md-part" data-rv><div class="pn">Part 1</div><h2>The accusation, in full<span class="rf">Twenty-three chapters of demolition, and the bill arrives</span></h2></div>
+
+      <p data-rv>This is the chapter the <em>Middle Treatise</em> exists for. Everything before it has been argument; this is the reckoning. And the objector does not hold back — he lays out, in the treatise's own verses, exactly what he thinks emptiness costs.</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 24 · the objector's accusation</div>
+        <div class="en">
+          <p>"If everything is empty,</p>
+          <p>with neither arising nor ceasing,</p>
+          <p>then it follows that there is no such thing</p>
+          <p>as the Dharma of the Four Noble Truths.</p>
+          <p>And because there are no Four Truths,</p>
+          <p>seeing suffering and cutting off its origin,</p>
+          <p>realizing cessation and cultivating the path —</p>
+          <p>none of these things exist.</p>
+          <p>And because these do not exist,</p>
+          <p>there are no four fruits of the path;</p>
+          <p>and because there are no four fruits,</p>
+          <p>there is no one who attains them or approaches them.</p>
+          <p>If there are no eight noble persons,</p>
+          <p>there is no Jewel of the Saṅgha;</p>
+          <p>and because there are no Four Truths,</p>
+          <p>there is no Jewel of the Dharma;</p>
+        </div>
+        <div class="zh">
+          <p>若一切皆空， 無生亦無滅，</p>
+          <p>如是則無有， 四聖諦之法。</p>
+          <p>以無四諦故， 見苦與斷集，</p>
+          <p>證滅及修道， 如是事皆無。</p>
+          <p>以是事無故， 則無四道果；</p>
+          <p>無有四果故， 得向者亦無。</p>
+          <p>若無八賢聖， 則無有僧寶；</p>
+          <p>以無四諦故， 亦無有法寶；</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 24, "Examining the Four Noble Truths" →</a>
+      </div>
+
+      <p data-rv>The chain runs all the way down. No four truths, so no practice; no practice, so no attainment; no attainment, so no Saṅgha, no Dharma — and, the verse continues, no Buddha either. Emptiness has demolished Buddhism.</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn q">
+          <div class="l">And in prose <span class="zhl">問曰</span></div>
+          <p>"Whoever accepts the doctrine of emptiness breaks wrongdoing and merit and the ripening of wrongdoing and merit, and breaks the conventions of the world as well. Because of faults such as these, things ought not to be empty."</p>
+          <div class="zh">若受空法者，則破罪福及罪福果報，亦破世俗法。有如是等諸過故，諸法不應空。</div>
+        </div>
+      </div>
+
+      <p data-rv>It is worth pausing to notice that this is not a hostile outsider. This is a Buddhist defending the tradition against what he takes to be a nihilist inside it — and on the evidence of the preceding chapters, his reading is not unreasonable.</p>
+
+      <!-- PART 2 -->
+      <div class="md-part" data-rv><div class="pn">Part 2</div><h2>"And so you torment yourself"<span class="rf">Three failures, precisely sorted</span></h2></div>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 24 · the reply begins</div>
+        <div class="en">
+          <p>"You truly do not know</p>
+          <p>what emptiness is, or why it is taught,</p>
+          <p>or what emptiness means —</p>
+          <p>and so you torment yourself."</p>
+        </div>
+        <div class="zh">
+          <p>汝今實不能， 知空空因緣，</p>
+          <p>及知於空義， 是故自生惱。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 24, "Examining the Four Noble Truths" →</a>
+      </div>
+
+      <p data-rv>Three distinct failures, and they are not the same failure. The objector does not know <em>what</em> emptiness is — its mark. He does not know <em>why</em> it is taught — its purpose. And he does not know what the word <em>means</em> — its sense. Nearly all the trouble people have with this doctrine sorts into those three bins.</p>
+
+      <p data-rv>But the line that matters is the last: 是故自生惱, <em>and so you torment yourself</em>. The objector is not being told he is stupid. He is being told that his distress is real, is his own manufacture, and is unnecessary. He has built the catastrophe out of a misunderstanding and is now standing in it.</p>
+
+      <!-- PART 3 -->
+      <div class="md-part" data-rv><div class="pn">Part 3</div><h2>Two truths<span class="rf">And why the upper one cannot be reached except through the lower</span></h2></div>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 24 · 二諦</div>
+        <div class="en">
+          <p>"The buddhas rely on two truths</p>
+          <p>in teaching the Dharma to sentient beings:</p>
+          <p>the first is conventional truth,</p>
+          <p>the second is the truth of the ultimate.</p>
+          <p>Whoever is unable to know</p>
+          <p>how to distinguish these two truths</p>
+          <p>does not know the real meaning</p>
+          <p>of the deep teaching of the Buddha."</p>
+        </div>
+        <div class="zh">
+          <p>諸佛依二諦， 為眾生說法：</p>
+          <p>一以世俗諦， 二第一義諦。</p>
+          <p>若人不能知， 分別於二諦，</p>
+          <p>則於深佛法， 不知真實義。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 24, "Examining the Four Noble Truths" →</a>
+      </div>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"As to conventional truth: all things are empty by nature, but the world is inverted and so brings forth false things, which for the world are real. The noble ones truly know the nature of that inversion, and so know that all things are empty and unarisen; for the noble ones this is the ultimate truth and is what is real."</p>
+          <div class="zh">世俗諦者，一切法性空，而世間顛倒，故生虛妄法，於世間是實。諸賢聖真知顛倒性，故知一切法皆空無生，於聖人是第一義諦名為實。</div>
+        </div>
+      </div>
+
+      <p data-rv>Conventional truth is not a polite fiction or a lower grade of falsehood. It is how things function — cause and effect, wrongdoing and merit, teacher and student, illness and medicine — and the commentary says of it exactly the right thing: <em>for the world it is real</em>. Ultimate truth is that none of it has a nature of its own.</p>
+
+      <p data-rv>The objector's mistake, and it is the standard one, is to hear the second and assume it cancels the first. It does not — any more than knowing a rainbow has no substance stops it being visible from here and not from there.</p>
+
+      <p data-rv>Then the verse that makes this stranger and more interesting than a tidy two-storey scheme:</p>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"The ultimate is in every case conveyed by means of speech, and speech is conventional; therefore, if one does not rely on the conventional, the ultimate cannot be spoken at all. And if the ultimate is not attained, how could one arrive at nirvāṇa? Therefore, although things do not arise, there are still two truths."</p>
+          <div class="zh">第一義皆因言說，言說是世俗，是故若不依世俗，第一義則不可說。若不得第一義，云何得至涅槃？是故諸法雖無生，而有二諦。</div>
+        </div>
+      </div>
+
+      <p data-rv>The reason is disarmingly concrete. The ultimate has to be <em>said</em>, and all saying is conventional. There is no direct channel — every sūtra, every argument on this page, every word for emptiness is conventional through and through, and there is no other vehicle available.</p>
+
+      <div class="md-pull" data-rv>The two truths are not two floors with the wise living upstairs. The upper is only ever reached by way of the lower.</div>
+
+      <p data-rv>Which settles something practical. The conventional is not a stage the practitioner graduates out of, and realising emptiness does not mean having less to do with ordinary life. It means the opposite: ordinary life is the only place the work can be done.</p>
+
+      <!-- PART 4 -->
+      <div class="md-part" data-rv><div class="pn">Part 4</div><h2>The snake, and the inversion<span class="rf">The most dangerous idea in Buddhism, and the sentence that turns the argument around</span></h2></div>
+
+      <p data-rv>Before the conclusion, a warning — and it should be read as a real one, not a rhetorical flourish.</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 24 · the snake</div>
+        <div class="en">
+          <p>"One of dull faculties, unable</p>
+          <p>to contemplate emptiness rightly, harms himself,</p>
+          <p>like a spell badly cast,</p>
+          <p>like a poisonous snake badly caught."</p>
+        </div>
+        <div class="zh">
+          <p>不能正觀空， 鈍根則自害，</p>
+          <p>如不善呪術， 不善捉毒蛇。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 24, "Examining the Four Noble Truths" →</a>
+      </div>
+
+      <div class="md-qa" data-rv>
+        <div class="turn a">
+          <div class="l">The commentary <span class="zhl">釋</span></div>
+          <p>"If a person of dull faculties does not understand the teaching of emptiness well, he goes wrong about emptiness and gives rise to wrong views. It is like catching a poisonous snake for profit: not catching it well, one is harmed by it instead."</p>
+          <div class="zh">若人鈍根不善解空法，於空有失而生邪見。如為利捉毒蛇，不能善捉反為所害。</div>
+        </div>
+      </div>
+
+      <p data-rv>Snake-catchers in India caught venomous snakes on purpose — for venom, for display, for a living. The snake is not the problem; the grip is. Take it behind the head and you have your livelihood. Take it in the middle and it turns and kills you.</p>
+
+      <p data-rv>Emptiness is like that. Correctly held it releases everything; incorrectly held it is the most dangerous idea in Buddhism, because it can be used to dissolve every restraint a person has while feeling like wisdom the entire time. The chapter goes on to say that this danger is why the Buddha hesitated to teach at all — which gives the famous reluctance under the tree a specific content. He was not worried that nobody would listen. He was worried about those who would listen badly.</p>
+
+      <p data-rv>And then the verse the whole treatise has been travelling toward:</p>
+
+      <div class="md-verse" data-rv>
+        <div class="l">Mūlamadhyamakakārikā · chapter 24 · the inversion</div>
+        <div class="en">
+          <p>"Because emptiness holds,</p>
+          <p>everything can be established;</p>
+          <p>if emptiness did not hold,</p>
+          <p>nothing could be established at all."</p>
+        </div>
+        <div class="zh">
+          <p>以有空義故， 一切法得成；</p>
+          <p>若無空義者， 一切則不成。</p>
+        </div>
+        <a class="bk" href="{{ '/sutras/mulamadhyamakakarika/four-truths-and-nirvana/' | relative_url }}">Read this passage in its place — chapter 24, "Examining the Four Noble Truths" →</a>
+      </div>
+
+      <p data-rv>The accusation is turned completely around. The objector said emptiness destroys the four truths. Nāgārjuna replies that emptiness is what makes them <em>possible</em> — and that it is the objector's own position that destroys them.</p>
+
+      <p data-rv>Follow it through, because it is the same inversion as Session 5. If suffering had a fixed nature, it could not arise from causes and could not be ended: a thing that is what it is independently cannot be produced and cannot be stopped. If a person had a fixed nature, no ordinary being could ever become a noble one — becoming requires not already being fixed. The four truths describe a process of change. Only what is empty can change.</p>
+
+      <p data-rv>This is the point at which readers most often go wrong, and it is worth stating flatly: it looks as though emptiness is the threat and inherent existence the safe option. The reverse is the case. Inherent existence is what would make the path impossible, and it is what the whole treatise has been removing.</p>
+
+      <div class="md-take" data-rv>
+        <b class="h">What Session 6 establishes</b>
+        <ul>
+          <li><b>The accusation is stated at full length</b>, in the treatise's own verses, by a Buddhist defending the tradition.</li>
+          <li><b>Three distinct failures</b> — what emptiness is, why it is taught, what the word means — and the distress is self-manufactured.</li>
+          <li><b>Conventional truth is real for the world.</b> Not a polite fiction; it is how things function.</li>
+          <li><b>The ultimate must be spoken, and all speech is conventional</b> — so the conventional is never graduated out of.</li>
+          <li><b>The snake is caught for a living.</b> The danger is in the grip, not the snake — and the Buddha's hesitation had this specific content.</li>
+          <li><b>Only what is empty can change</b> — so emptiness is what makes the four truths possible, not what destroys them.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="md-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Checking your own grip</span></h2></div>
+
+      <div class="md-prac" data-rv>
+        <b class="h">How are you holding it?</b>
+        <p>The snake verse is the one piece of this treatise that is addressed directly to the reader, and it invites a specific kind of self-examination — not about whether you understand emptiness, but about what you have been doing with it.</p>
+        <div class="how">
+          Set aside twenty minutes and answer three questions in writing, plainly.<br><br>
+          <strong>One.</strong> In the last year, has "it's all empty" or any near relative of it ever arrived in your mind at a moment when you were about to be asked for something — effort, an apology, money, attention? Note the occasions without defending them.<br><br>
+          <strong>Two.</strong> Has it made any obligation lighter? Specifically: name a duty you take less seriously than you did.<br><br>
+          <strong>Three.</strong> The test from this chapter: has it made the conventional <em>more</em> vivid or less? Correctly held, emptiness is the reason cause and effect work. Incorrectly held, it is a solvent.
+        </div>
+        <p>If the honest answers point toward dissolution rather than toward engagement, that is the middle of the snake. This is not a reason to put the teaching down — the chapter is explicit that the snake is caught on purpose, for a living. It is a reason to notice the grip while there is still time to change it.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="md-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="md-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Who makes the accusation in Chapter 24?</div>
+          <button class="opt"><span class="ltr">A</span>A Vaiśeṣika philosopher defending real atoms</button>
+          <button class="opt"><span class="ltr">B</span>A Buddhist defending the tradition against what he takes to be a nihilist inside it</button>
+          <button class="opt"><span class="ltr">C</span>A Yogācārin defending the dependent nature</button>
+          <button class="opt"><span class="ltr">D</span>A layman who has misunderstood a sermon</button>
+          <div class="expl"><strong>Correct: B.</strong> And on the evidence of the preceding chapters, his reading is not unreasonable.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What three things does the objector fail to know?</div>
+          <button class="opt"><span class="ltr">A</span>The four truths, the eightfold path, and dependent arising</button>
+          <button class="opt"><span class="ltr">B</span>Scripture, reasoning, and meditative experience</button>
+          <button class="opt"><span class="ltr">C</span>Conventional truth, ultimate truth, and their relation</button>
+          <button class="opt"><span class="ltr">D</span>What emptiness is, why it is taught, and what the word means</button>
+          <div class="expl"><strong>Correct: D.</strong> Three distinct failures — and the closing line is humane: <em>and so you torment yourself</em>.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Why can the ultimate truth not be reached without the conventional?</div>
+          <button class="opt"><span class="ltr">A</span>Because the ultimate has to be spoken, and all speech is conventional — there is no other vehicle</button>
+          <button class="opt"><span class="ltr">B</span>Because beginners must start with simpler teachings</button>
+          <button class="opt"><span class="ltr">C</span>Because the conventional is a necessary illusion sustaining the world</button>
+          <button class="opt"><span class="ltr">D</span>Because only monastics can access the ultimate directly</button>
+          <div class="expl"><strong>Correct: A.</strong> Which means the conventional is never something the practitioner graduates out of.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the point of the snake image?</div>
+          <button class="opt"><span class="ltr">A</span>That emptiness should not be taught to beginners at all</button>
+          <button class="opt"><span class="ltr">B</span>That wrong views are as venomous as a snake's bite</button>
+          <button class="opt"><span class="ltr">C</span>That the snake is caught deliberately, for a living — the danger is in the grip, not in the snake</button>
+          <button class="opt"><span class="ltr">D</span>That emptiness must be handled only under a teacher's supervision</button>
+          <div class="expl"><strong>Correct: C.</strong> Held correctly it releases everything; held wrongly it dissolves every restraint while feeling like wisdom.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why does emptiness make the four noble truths possible rather than impossible?</div>
+          <button class="opt"><span class="ltr">A</span>Because the truths are conventional and emptiness is ultimate, so they never conflict</button>
+          <button class="opt"><span class="ltr">B</span>Because only what is empty can change — a suffering with a fixed nature could not arise from causes or be ended, and a person with a fixed nature could never become a noble one</button>
+          <button class="opt"><span class="ltr">C</span>Because emptiness is itself the third truth, cessation</button>
+          <button class="opt"><span class="ltr">D</span>Because the Buddha taught emptiness before he taught the four truths</button>
+          <div class="expl"><strong>Correct: B.</strong> The accusation is turned completely around: it is inherent existence that would make the path impossible.</div>
+        </div>
+
+        <div class="md-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="md-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>What would have to be true of you for change to be possible at all?</p>
+        <p class="sm">The chapter's answer is: that you are not already, fixedly, what you are. Which is the same finding the treatise has been delivering since Chapter 1, arriving this time as the ground of the whole path rather than as a demolition of it.</p>
+      </div>
+
+      <div class="md-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 7 · Nirvāṇa is not somewhere else</h3>
+        <p>Chapter 25, and the most startling claim in the treatise: that there is not the slightest difference between saṃsāra and nirvāṇa. Then Chapter 27, where the twenty-seven chapters end — not with a conclusion, but with the quieting of views.</p>
+      </div>
+
+      <div class="md-foot" data-rv>
+        <a class="md-btn ghost" href="{{ '/courses/nothing-stands/session-5/' | relative_url }}">← Session 5</a>
+        <a class="md-btn primary" href="{{ '/courses/nothing-stands/session-7/' | relative_url }}">Session 7 · Nirvāṇa is not somewhere else →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.md [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.md-quiz .q').length;
+  document.querySelectorAll('.md-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
