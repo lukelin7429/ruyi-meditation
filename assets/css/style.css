@@ -259,13 +259,40 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
 .mobile-nav-drawer {
   display: none;
 }
-@media (max-width: 720px) {
-  .header-inner { padding: 0 20px; min-height: 64px; gap: 0; }
+/* ---- keeping the bar from overflowing between phone and desktop ----
+   At full size the bar needs about 1259px: brand 217 + nav 560 + actions
+   306 + two 32px gaps + two 56px paddings. The container maxes out at
+   1280px, so every width below that has to give something back. Without
+   the two stages below, the nav overflowed at every width from 721px to
+   1258px — which is most laptops and every tablet in landscape. */
+
+/* 1279px and down — trim the outer padding, the gaps, and the search
+   button's text label. Holds the full six-item nav to about 1024px. */
+@media (max-width: 1279px) {
+  .header-inner { padding: 0 24px; gap: 18px; }
+  .site-nav { gap: 20px; }
+  .nav-search-label, .nav-search-btn kbd { display: none; }
+}
+
+/* 1060px and down — drop the brand subtitle and tighten the type.
+   Holds the full nav to about 900px, which is as far as six links go. */
+@media (max-width: 1060px) {
+  .brand-name em { display: none; }
+  .site-nav { gap: 15px; }
+  .site-nav a { font-size: 14px; }
+  .nav-login { padding: 9px 10px; }
+  .nav-signup { padding: 9px 15px; }
+}
+
+/* 940px and down — six links cannot fit honestly below this, so hand over
+   to the hamburger. This was 720px, which is what left the broken band. */
+@media (max-width: 940px) {
+  .header-inner { padding: 0 24px; min-height: 64px; gap: 0; }
   .brand-name { display: block; }
   .brand-name em { display: none; }
-  .site-nav { display: none; } /* desktop nav hidden on mobile */
+  .site-nav { display: none; } /* desktop nav hidden; drawer takes over */
   .nav-hamburger { display: flex; }
-  .nav-search-label, kbd { display: none; }
+  .nav-search-label, .nav-search-btn kbd { display: none; }
 
   /* drawer */
   .mobile-nav-drawer {
@@ -300,6 +327,21 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   .mobile-nav-drawer nav a.active { color: #b8431c; }
   .mobile-nav-drawer nav a:hover { color: #b8431c; background: #fdf6f3; }
 }
+
+@media (max-width: 720px) {
+  .header-inner { padding: 0 20px; }
+}
+
+/* 400px and down — the bar still needs 367px with Log In in it, which is
+   more than a 360px or 320px phone has. Log In is in the drawer as well,
+   so drop it from the bar and keep Sign Up, the primary action. */
+@media (max-width: 400px) {
+  .nav-login { display: none; }
+}
+
+/* header.html adds this class when the drawer opens; without a rule the
+   page behind the drawer kept scrolling. */
+body.nav-overlay-open { overflow: hidden; }
 
 /* ============ HERO ============ */
 
