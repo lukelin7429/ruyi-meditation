@@ -1,0 +1,439 @@
+---
+layout: default
+title: "Session 1 · An unremarkable morning (The Diamond Sutra)"
+permalink: /courses/diamond-sutra/session-1/
+excerpt: "Session 1 of The Diamond Sutra — sections 1 to 4. The sutra answers its own question once, silently, before anyone asks it."
+---
+
+<style>
+  .dm{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .dm *{box-sizing:border-box;}
+  .dm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dm [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dm [data-rv].in{opacity:1;transform:none;}
+
+  .dm-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dm-crumb .dm-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dm-crumb a{color:var(--base);text-decoration:none;}
+  .dm-crumb a:hover{text-decoration:underline;}
+
+  .dm-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,189,106,.24),transparent 62%),
+    linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);color:#fff;}
+  .dm-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dm-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .dm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dm-hero .subt{font-style:italic;font-size:18px;color:#dcd9ea;}
+  .dm-hero .rd{margin-top:24px;font-size:14px;color:#b6b3c9;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dm-hero .rd b{color:var(--acc);}
+
+  .dm-body{background:#fff;padding:44px 0 24px;}
+  .dm-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dm-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dm-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .dm-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dm-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dm-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dm-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f1ea);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dm-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .dm-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .dm-scr p:last-of-type{margin-bottom:0;}
+  .dm-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6e6a55;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.85;}
+  .dm-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .dm-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dm-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dm-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dm-terms span b{color:var(--base);}
+
+  .dm-take{background:linear-gradient(180deg,#fdfbf8,#efece2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dm-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .dm-take ul{margin:0;padding-left:20px;}
+  .dm-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dm-take li b{color:var(--acc-deep);}
+
+  .dm-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dm-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dm-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dm-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dm-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dm-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dm-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dm-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .dm-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dm-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dm-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dm-prac p:last-child{margin-bottom:0;}
+  .dm-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .dm-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dm-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dm-quiz .q:first-of-type{padding-top:2px;}
+  .dm-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dm-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .dm-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dm-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dm-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .dm-quiz .opt:hover:not(:disabled){background:#f4f1e8;border-color:var(--base);}
+  .dm-quiz .opt:disabled{cursor:default;}
+  .dm-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dm-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dm-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dm-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dm-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .dm-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .dm-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dm-quiz .expl.show{display:block;}
+  .dm-quiz .expl strong{color:var(--ink);}
+  .dm-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dm-score strong{color:var(--base);font-size:17px;}
+
+  .dm-reflect{background:linear-gradient(158deg,#2f4468 0%,#1a2842 48%,#080d18 100%);color:#ddd9ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dm-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .dm-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dm-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b6b3c9;line-height:1.7;margin-top:14px;}
+
+  .dm-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dm-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .dm-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dm-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dm-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dm-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dm-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .dm-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .dm-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .dm-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dm .dm-crumb,.dm-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dm [data-rv]{opacity:1 !important;transform:none !important;}
+    .dm-hero{background:none;color:#000;padding:0;}
+    .dm-hero-in{padding:0 0 12px;}
+    .dm-eyebrow,.dm-hero .subt,.dm-hero .rd{color:#444;}
+    .dm-hero h1{color:#000;}
+    .dm-body{padding:0;}
+    .dm-body p,.dm-body h3,.dm-part h2,.dm-take li,.dm-prac p{color:#000;}
+    .dm-scr,.dm-take,.dm-prac,.dm-quiz,.dm-next{background:#fff !important;border:1px solid #bbb;}
+    .dm-scr p{color:#000;}
+    .dm-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-reflect p,.dm-reflect .l,.dm-reflect p.sm{color:#000;}
+    .dm-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-textcard h3,.dm-textcard p,.dm-textcard .go,.dm-textcard .trad{color:#000;}
+    .dm{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Diamond Sutra: course-specific components --- */
+
+  /* one of the thirty-two sections, quoted whole */
+  .dm-sec{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 13px 13px;
+    background:linear-gradient(180deg,#fdfcf9,#f3f1ea);padding:24px 28px 22px;margin:26px 0;}
+  .dm-sec .hd{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:14px;}
+  .dm-sec .num{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    font-weight:800;color:var(--acc-deep);}
+  .dm-sec .ttl{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .dm-sec .zhn{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14px;
+    color:var(--ink-soft);margin-left:auto;}
+  .dm-sec p{font-size:17px;line-height:1.74;color:var(--ink);margin:0 0 12px;}
+  .dm-sec p:last-of-type{margin-bottom:0;}
+  .dm-sec .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;
+    color:var(--zh,#6e6a55);margin-top:15px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.95;}
+  .dm-sec .zh p{font-family:inherit;font-size:15.5px;color:#6e6a55;line-height:1.95;margin:0 0 6px;}
+  .dm-sec a.bk{display:inline-block;margin-top:13px;font-size:13px;color:var(--base);text-decoration:none;
+    border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-sec a.bk:hover{border-bottom-color:var(--base);}
+
+  /* Taixu's 1927 lecture notes, quoted as commentary and labelled as such */
+  .dm-taixu{border-left:4px solid var(--acc-deep);background:linear-gradient(180deg,#fbf9f2,#f4f0e2);
+    border-radius:0 13px 13px 0;padding:22px 26px;margin:24px 0;}
+  .dm-taixu .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:9px;}
+  .dm-taixu p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 11px;}
+  .dm-taixu p:last-child{margin-bottom:0;}
+  .dm-taixu a.bk{display:inline-block;margin-top:11px;font-size:13px;color:var(--acc-deep);text-decoration:none;
+    border-bottom:1px solid rgba(138,106,31,.45);}
+
+  /* the is-not / is-called formula, shown as a shape */
+  .dm-formula{display:grid;grid-template-columns:1fr;gap:10px;margin:24px 0;}
+  @media(min-width:660px){.dm-formula{grid-template-columns:repeat(3,1fr);}}
+  .dm-formula .step{border:1px solid var(--line);border-radius:12px;padding:15px 18px;background:var(--cream);text-align:center;}
+  .dm-formula .step .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:19px;color:var(--acc-deep);font-weight:600;}
+  .dm-formula .step b{display:block;font-family:'Playfair Display',serif;font-size:16px;color:var(--ink);margin:5px 0 4px;}
+  .dm-formula .step span{display:block;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+</style>
+
+<div class="dm">
+
+  <nav class="dm-crumb"><div class="dm-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/diamond-sutra/' | relative_url }">The Diamond Sūtra</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="dm-hero">
+    <div class="dm-hero-in">
+      <div class="dm-eyebrow">Session 1 · Sections 1–4</div>
+      <h1>An unremarkable morning</h1>
+      <div class="subt">The sūtra answers its question once, silently, before anyone asks it</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> nothing required</span>
+        <span><b>The text</b> Diamond Sūtra, sections 1–4</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dm-body">
+    <div class="dm-wrap">
+
+      <!-- PART 1 -->
+      <div class="dm-part" data-rv><div class="pn">Part 1</div><h2>Reading it as an argument<span class="rf">What this course does that a first reading does not</span></h2></div>
+
+      <p data-rv>The Diamond Sūtra is short enough to read in an hour and has been read that way for twelve centuries. The Academy's <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">beginners' course</a> reads it once, whole, as a complete scripture — which is the right way to meet it the first time.</p>
+
+      <p data-rv>This course does something else. Eight sessions, four of the thirty-two sections each, following Taixu's 1927 lecture notes the whole way — and reading the sūtra not as a devotional text but as the <em>argument</em> that the Perfection of Wisdom literature makes. There is a structure here, it is repetitive on purpose, and by section 32 it has done something specific to the reader that a single pass will not accomplish.</p>
+
+      <p data-rv>One thing to hold from the start. This sūtra is not obscure and it is not mystical. Nearly every difficulty in it is the same difficulty, restated: the mind wants to land somewhere, and the text will not let it.</p>
+
+      <!-- PART 2 -->
+      <div class="dm-part" data-rv><div class="pn">Part 2</div><h2>Section 1<span class="rf">Where other sūtras open with the earth shaking</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 1</span><span class="ttl">The Occasion</span><span class="zhn">法會因由分</span></div>
+        <p>"Thus have I heard. At one time the Buddha was staying at Jetavana, in Anāthapiṇḍada's Park near Śrāvastī, together with a great assembly of monks, twelve hundred and fifty in all. When it came time to eat, the World-Honored One put on his robe, took up his bowl, and went into the great city of Śrāvastī to beg for food. Going from door to door in order, he returned to his own place when he had finished. He ate the food, put away his robe and bowl, washed his feet, and sat down on the seat prepared for him."</p>
+        <div class="zh"><p>如是我聞。一時，佛在舍衛國祇樹給孤獨園，與大比丘眾千二百五十人俱。爾時，世尊食時，著衣持缽，入舍衛大城乞食。於其城中，次第乞已，還至本處。飯食訖，收衣缽，洗足已，敷座而坐。</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read this section in its place — Diamond Sūtra, sections 1–4 →</a>
+      </div>
+
+      <p data-rv>Read that without hurrying, because nothing else happens in it. He gets dressed. He walks into town. He begs from door to door <em>in order</em> — the phrase 次第 matters; no skipping the poor houses for the rich ones, and no skipping the rich for the poor. He comes back. He eats. He washes his feet. He sits down.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"Other Mahāyāna sūtras open with the earth shaking or light streaming from the Buddha's brow. This one opens with him getting dressed, taking his bowl, walking door to door without favoring the rich over the poor, eating, washing his feet, and sitting down. "Ordinary daily conduct is itself the Buddha-dharma," he writes — walking, standing, sitting, lying down, the ordinary mind itself, none of it separate from the teaching. Before Subhūti asks a single question, the sūtra has already shown its answer once, silently, in the shape of an unremarkable morning."</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <p data-rv>That last observation is the key to the whole course, and it is worth planting now. Everything the next thirty-one sections will say in increasingly paradoxical language has already been demonstrated, without comment, by a man washing his feet.</p>
+
+      <!-- PART 3 -->
+      <div class="dm-part" data-rv><div class="pn">Part 3</div><h2>Sections 2 and 3<span class="rf">The question, and an answer that removes the questioner</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 2</span><span class="ttl">Subhūti Asks the Question</span><span class="zhn">善現啟請分</span></div>
+        <p>"At that time the elder Subhūti rose from his seat in the midst of the assembly, bared his right shoulder, knelt on his right knee, and, joining his palms together in reverence, said to the Buddha: "How rare, World-Honored One! The Tathāgata watches over and cares for all bodhisattvas, and entrusts all bodhisattvas with his teaching. World-Honored One — when a good son or good daughter sets out for unsurpassed, perfect, complete awakening, how should they stand, and how should they subdue their own mind?""</p>
+        <div class="zh"><p>時，長老須菩提，在大眾中，即從座起，偏袒右肩，右膝著地，合掌恭敬。而白佛言：「希有世尊！如來善護念諸菩薩，善付囑諸菩薩。世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？云何降伏其心？」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Two questions, and the whole sūtra is their answer: <strong>how should they stand</strong> (應云何住) and <strong>how should they subdue their own mind</strong> (云何降伏其心). Everything from here to section 32 is addressed to one or the other.</p>
+
+      <p data-rv>The questioner matters too. Subhūti is the disciple foremost in understanding emptiness — and, Taixu notes, his family's storehouse was found mysteriously empty on the day he was born, so he was named <em>Born Into Emptiness</em>. The sūtra's one interlocutor is the man already best equipped to follow it.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"Taixu's sharpest observation is about the answer the Buddha promises but has not yet given: "abide like this, subdue the mind like this" points forward to what the next two sections will actually say — there is no separate technique for subduing the mind on top of learning how to abide; grasping after one more method to control the mind is itself the disturbance. He compares it to Bodhidharma and his student Huike: Huike begged him, "my mind is not at peace — pacify it for me." Bodhidharma answered, "bring me this mind, and I will pacify it." Huike searched, and said, "I have looked for it, and it cannot be found." "Then," said Bodhidharma, "I have already pacified it for you.""</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <p data-rv>That exchange, six centuries after the sūtra and in a different country, is the best short gloss anyone has written on what the Buddha is about to do. The answer to "subdue my mind" is not a better technique. It is the discovery that there was never a fixed thing there to subdue.</p>
+
+      <p data-rv>And the answer, when it comes, is startling — because it answers by taking away the one asking.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 3</span><span class="ttl">The True Doctrine of the Great Vehicle</span><span class="zhn">大乘正宗分</span></div>
+        <p>"The Buddha told Subhūti: "All bodhisattva-mahāsattvas should subdue their mind like this: of every kind of sentient being there is — born from an egg, born from a womb, born from moisture, born by transformation; possessing form or without form; possessing perception, without perception, or neither possessing nor lacking perception — I will lead every one of them to final nirvāṇa, and there liberate them all. And when I have liberated these countless, immeasurable, boundless beings, in truth no being at all has been liberated. Why is this? Subhūti, if a bodhisattva still holds the notion of a self, a person, a being, or a lifespan, that bodhisattva is no bodhisattva at all.""</p>
+        <div class="zh"><p>佛告須菩提：「諸菩薩摩訶薩，應如是降伏其心：所有一切眾生之類，若卵生、若胎生、若濕生、若化生；若有色、若無色；若有想、若無想、若非有想非無想，我皆令入無餘涅槃而滅度之。如是滅度無量無數無邊眾生，實無眾生得滅度者。何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，即非菩薩。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The structure of that sentence is the structure of the entire sūtra, and it arrives in section 3. <em>I will liberate every being that exists — and no being has been liberated.</em> Not a qualification. Not a mystery. The largest possible commitment, followed immediately by the removal of the one who would be making it.</p>
+
+      <p data-rv>The four notions named at the end — self, person, being, lifespan — will recur perhaps twenty times before section 32, and Taixu's gloss on why they come as a set is worth keeping: call yourself "I," and there is already a self; grant that self a human shape among others, and there is a person; place it among the kinds of beings, and there is a being; grant it a duration, and there is a lifespan. Pull one and you have all four.</p>
+
+      <div class="dm-pull" data-rv>A bodhisattva who thinks <em>I am the one liberating them</em> has, in that very thought, stopped being one.</div>
+
+      <!-- PART 4 -->
+      <div class="dm-part" data-rv><div class="pn">Part 4</div><h2>Section 4<span class="rf">The first thing the reader is actually told to do</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 4</span><span class="ttl">Wondrous Practice, Without Dwelling</span><span class="zhn">妙行無住分</span></div>
+        <p>"Furthermore, Subhūti, when a bodhisattva practices giving, they should give without dwelling on anything at all — giving without dwelling on form, and without dwelling on sound, smell, taste, touch, or mental object. Subhūti, a bodhisattva should give like this, not dwelling on any mark. Why is this? If a bodhisattva gives without dwelling on marks, their merit cannot be measured."</p>
+        <p>"Subhūti, what do you think — can the empty space to the east be measured?" "No, World-Honored One." "Subhūti, can the empty space to the south, west, north, above, and below be measured?" "No, World-Honored One." "Subhūti, the merit of a bodhisattva who gives without dwelling on marks is just as unmeasurable as that. Subhūti, a bodhisattva should stand only in the way I have taught.""</p>
+        <div class="zh"><p>「復次，須菩提！菩薩於法，應無所住，行於布施。所謂不住色布施，不住聲、香、味、觸、法布施。須菩提！菩薩應如是布施，不住於相。何以故？若菩薩不住相布施。其福德不可思量。」</p><p>「須菩提！於意云何？東方虛空，可思量不？」「不也，世尊！」「須菩提！南、西、北方，四維上下虛空，可思量不？」「不也，世尊！」「須菩提！菩薩無住相布施，福德亦復如是不可思量。須菩提！菩薩但應如所教住。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Section 3 answered <em>how do I subdue my mind</em>. Section 4 answers <em>how should I stand</em> — and the answer is not a posture of mind at all. It is an instruction to do something.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"His gloss on the space-in-ten-directions comparison is direct: giving that still dwells on a mark nets only the finite, countable rewards of gods and humans — a return that can, in principle, be measured. Giving that dwells on nothing is unmeasurable for the plainest of reasons — it was never gathered up as a possession belonging to anyone in the first place, so there is nothing there to add up. This is, Taixu says, exactly how a bodhisattva "abides": not by fixing the mind on some higher object, but by giving in a way that leaves the mind nowhere to land."</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/opening-and-non-abiding-giving.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <p data-rv>That deflates the "unmeasurable merit" language considerably, and helpfully. It is not a promise of an enormous reward. It is a remark about arithmetic: a merit that was never taken up as anybody's possession has nothing to be counted.</p>
+
+      <p data-rv>Notice that this does not tell you to give more, or to give to better recipients. It tells you to give <em>without the mind fastening on anything</em> — not on the gift, not on the recipient, not on yourself as giver, and, the hardest one, not on the merit. Four sections in, the sūtra has already made its characteristic demand: the move it asks for is a subtraction, not an addition.</p>
+
+      <div class="dm-take" data-rv>
+        <b class="h">What Session 1 establishes</b>
+        <ul>
+          <li><b>The answer is shown before it is asked for</b> — in a morning containing nothing but dressing, begging in order, eating, washing, sitting.</li>
+          <li><b>Two questions run the whole sūtra:</b> how should one stand, and how should one subdue the mind.</li>
+          <li><b>There is no technique for subduing the mind.</b> Looking for one is the disturbance — which is what Bodhidharma told Huike.</li>
+          <li><b>The formula arrives in section 3:</b> the largest possible commitment, followed at once by the removal of the one making it.</li>
+          <li><b>The four notions come as a set.</b> Pull one and you have all four.</li>
+          <li><b>Unmeasurable merit is an arithmetic remark</b>, not a promise — what was never anyone's possession has nothing to add up.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dm-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Giving with nowhere to land</span></h2></div>
+
+      <div class="dm-prac" data-rv>
+        <b class="h">Without dwelling</b>
+        <p>Section 4 is the only instruction in the first four sections that can be carried out directly, and it is more difficult than it sounds — not because giving is hard, but because the fourth thing it asks you to let go of is almost invisible.</p>
+        <div class="how">
+          Once a day for a week, give something small — money, time, help, attention. Nothing dramatic; the scale is not the point.<br><br>
+          Then watch for the four landing places in order. <strong>The gift:</strong> did you note what it cost? <strong>The recipient:</strong> did you assess whether they deserved it? <strong>Yourself:</strong> did the thought <em>I am someone who does this</em> arrive? And <strong>the merit:</strong> the faintest and most persistent — a sense of something accrued, an account in credit.<br><br>
+          Do not try to suppress any of them. Only notice which of the four you had not previously noticed at all.
+        </div>
+        <p>Most people find the fourth invisible until it is named, and then find it everywhere. That is the honest result of the exercise. The sūtra does not say the four are wicked; it says that giving which dwells on them is measurable, and that this is a smaller thing than it could have been.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dm-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="dm-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Why does the sūtra open with an ordinary morning?</div>
+          <button class="opt"><span class="ltr">A</span>To establish the historical authenticity of the setting</button>
+          <button class="opt"><span class="ltr">B</span>To show the Buddha's humility before teaching a lofty doctrine</button>
+          <button class="opt"><span class="ltr">C</span>Because it demonstrates the answer silently before anyone asks — ordinary daily conduct is itself the Buddha-dharma</button>
+          <button class="opt"><span class="ltr">D</span>Because the sūtra was recorded by a monk present at the meal</button>
+          <div class="expl"><strong>Correct: C.</strong> Other Mahāyāna sūtras open with the earth shaking. This one opens with a man washing his feet.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What are Subhūti's two questions?</div>
+          <button class="opt"><span class="ltr">A</span>What is emptiness, and how is it realised?</button>
+          <button class="opt"><span class="ltr">B</span>How should one stand, and how should one subdue one's own mind?</button>
+          <button class="opt"><span class="ltr">C</span>What is merit, and how is it accumulated?</button>
+          <button class="opt"><span class="ltr">D</span>Who is a bodhisattva, and who is a buddha?</button>
+          <div class="expl"><strong>Correct: B.</strong> Everything from here to section 32 is addressed to one or the other.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What does the Bodhidharma and Huike exchange illustrate?</div>
+          <button class="opt"><span class="ltr">A</span>That a teacher must sometimes refuse to help a student</button>
+          <button class="opt"><span class="ltr">B</span>That meditation is more effective than study</button>
+          <button class="opt"><span class="ltr">C</span>That the mind is pacified gradually, over many years</button>
+          <button class="opt"><span class="ltr">D</span>That there is no separate technique for subduing the mind — looking for one is itself the disturbance, and the search finds nothing fixed to subdue</button>
+          <div class="expl"><strong>Correct: D.</strong> "Bring me this mind, and I will pacify it." "I have looked for it, and it cannot be found."</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the structure of the sentence in section 3?</div>
+          <button class="opt"><span class="ltr">A</span>The largest possible commitment, followed at once by the removal of the one who would be making it</button>
+          <button class="opt"><span class="ltr">B</span>A vow made conditionally, to be fulfilled only if beings are willing</button>
+          <button class="opt"><span class="ltr">C</span>A claim that beings are already liberated and need no help</button>
+          <button class="opt"><span class="ltr">D</span>A warning that the vow is too great for any single bodhisattva</button>
+          <div class="expl"><strong>Correct: A.</strong> Not a qualification and not a mystery — and the same structure will recur through all thirty-two sections.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why is merit from non-dwelling giving "unmeasurable"?</div>
+          <button class="opt"><span class="ltr">A</span>Because it is infinitely large</button>
+          <button class="opt"><span class="ltr">B</span>Because only a buddha can calculate it</button>
+          <button class="opt"><span class="ltr">C</span>Because it was never gathered up as anybody's possession, so there is nothing there to add up</button>
+          <button class="opt"><span class="ltr">D</span>Because merit is a conventional fiction with no reality at all</button>
+          <div class="expl"><strong>Correct: C.</strong> An arithmetic remark rather than a promise — which deflates the language considerably, and helpfully.</div>
+        </div>
+
+        <div class="dm-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="dm-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>Of the four places a mind can land when giving — the gift, the receiver, the giver, the merit — which one had you never noticed?</p>
+        <p class="sm">The sūtra's interest is not in your generosity, which it takes for granted. It is in where the mind comes to rest afterwards, and whether you knew it was resting there.</p>
+      </div>
+
+      <div class="dm-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · Sections 5–8</h3>
+        <p>Seeing the Buddha by his marks, and being told that what has marks is false; the rarity of anyone believing this at all; and the sūtra's flat statement that there is no fixed thing called awakening and nothing the Buddha ever taught.</p>
+      </div>
+
+      <div class="dm-foot" data-rv>
+        <a class="dm-btn ghost" href="{{ '/courses/diamond-sutra/' | relative_url }}">← Course overview</a>
+        <a class="dm-btn primary" href="{{ '/courses/diamond-sutra/session-2/' | relative_url }}">Session 2 · Sections 5–8 →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.dm [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.dm-quiz .q').length;
+  document.querySelectorAll('.dm-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

@@ -1,0 +1,245 @@
+---
+layout: default
+title: The Diamond Sutra, All Thirty-Two
+permalink: /courses/diamond-sutra/
+excerpt: An eight-session elective reading the Diamond Sutra whole — four sections a week, following Taixu's 1927 lecture notes, as the argument the Perfection of Wisdom literature makes.
+---
+
+<style>
+  .ci{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .ci *{box-sizing:border-box;}
+  .ci-wrap{max-width:940px;margin:0 auto;padding:0 26px;}
+
+  .js .ci [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ci [data-rv].in{opacity:1;transform:none;}
+
+  .ci-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ci-crumb .ci-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);}
+  .ci-crumb a{color:var(--base);text-decoration:none;}
+  .ci-crumb a:hover{text-decoration:underline;}
+
+  .ci-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 82% 12%,rgba(224,189,106,.26),transparent 62%),
+      linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);}
+  .ci-hero-in{position:relative;z-index:2;max-width:940px;margin:0 auto;padding:78px 26px 70px;}
+  .ci-eyebrow{font-size:12.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .ci-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.6vw,58px);line-height:1.06;margin:16px 0 6px;max-width:16ch;}
+  .ci-hero .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:19px;color:#b6b3c9;}
+  .ci-rule{width:62px;height:3px;background:var(--acc);border-radius:3px;margin:22px 0;}
+  .ci-hero p{max-width:600px;font-size:18.5px;line-height:1.72;color:#dcd9ea;}
+  .ci-hero .facts{display:flex;flex-wrap:wrap;gap:9px 20px;margin-top:26px;font-size:14px;color:#b6b3c9;}
+  .ci-hero .facts b{color:var(--acc);}
+
+  /* hero art — a faceted stone, with a light crossing its facets */
+  .ci-art{position:absolute;right:-20px;top:50%;transform:translateY(-50%);width:340px;height:340px;z-index:1;opacity:.92;}
+  @media(max-width:900px){.ci-art{opacity:.22;right:-100px;}}
+  .ci-art .fac{fill:none;stroke:rgba(224,189,106,.6);stroke-width:1.8;stroke-linejoin:round;}
+  .ci-art .out{stroke:rgba(224,189,106,.95);stroke-width:2.4;}
+  .ci-art .gl{fill:rgba(224,189,106,.85);}
+  .ci-art .sweep{animation:cigleam 6s ease-in-out infinite;}
+  @keyframes cigleam{0%,100%{opacity:.15;transform:translateX(-34px);}50%{opacity:1;transform:translateX(34px);}}
+
+  .ci-body{background:#fff;padding:66px 0 40px;}
+  .ci-body h2{font-family:'Playfair Display',serif;font-size:clamp(25px,3.8vw,34px);color:var(--ink);margin:0 0 14px;line-height:1.16;}
+  .ci-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;max-width:72ch;}
+  .ci-sec{padding-bottom:46px;margin-bottom:46px;border-bottom:1px solid var(--line);}
+  .ci-sec:last-child{border-bottom:0;margin-bottom:0;}
+
+  .ci-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:21px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:20px 0;margin:28px 0;text-align:center;}
+
+  .ci-ses{display:block;text-decoration:none;border:1px solid var(--line);border-left:4px solid var(--base);
+    border-radius:0 13px 13px 0;padding:18px 22px;margin-bottom:12px;background:#fff;
+    transition:transform .28s cubic-bezier(.22,.61,.36,1),box-shadow .28s,border-left-color .28s;}
+  .ci-ses:hover{transform:translateX(5px);text-decoration:none;box-shadow:0 18px 34px -26px rgba(8,13,24,.7);border-left-color:var(--acc);}
+  .ci-ses .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;}
+  .ci-ses .n{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);}
+  .ci-ses h3{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:0;transition:color .25s;}
+  .ci-ses:hover h3{color:var(--base);}
+  .ci-ses .src{font-size:12.5px;color:var(--ink-soft);font-style:italic;margin-left:auto;}
+  .ci-ses p{font-size:15px;line-height:1.62;color:var(--ink-soft);margin:7px 0 0;max-width:none;}
+
+  .ci-srcs{display:grid;gap:16px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:760px){.ci-srcs{grid-template-columns:1fr 1fr;}}
+  .ci-card{display:block;text-decoration:none;border:1px solid var(--line);border-radius:14px;padding:20px 22px;background:var(--cream);
+    transition:transform .28s,box-shadow .28s;}
+  .ci-card:hover{transform:translateY(-4px);text-decoration:none;box-shadow:0 20px 38px -26px rgba(8,13,24,.6);}
+  .ci-card b{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);margin-bottom:3px;}
+  .ci-card .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:13.5px;color:var(--acc-deep);font-weight:600;margin-bottom:8px;}
+  .ci-card span{display:block;font-size:14.5px;line-height:1.6;color:var(--ink-soft);}
+
+  .ci-note{border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfcf7,#f5f2e7);
+    border-radius:0 14px 14px 0;padding:24px 28px;margin:26px 0;}
+  .ci-note b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--acc-deep);margin-bottom:8px;}
+  .ci-note p{font-size:16px;line-height:1.72;color:var(--ink);margin:0 0 12px;}
+  .ci-note p:last-child{margin-bottom:0;}
+
+  .ci-start{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin:36px 0 70px;}
+  .ci-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;
+    transition:transform .2s,box-shadow .2s;}
+  .ci-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 14px 28px -14px rgba(8,13,24,.85);}
+  .ci-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -14px rgba(8,13,24,.95);}
+  .ci-btn.ghost{border:1.5px solid var(--base);color:var(--base);}
+  .ci-btn.ghost:hover{background:var(--base);color:#fff;text-decoration:none;}
+</style>
+
+<div class="ci">
+
+  <nav class="ci-crumb"><div class="ci-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → The Diamond Sūtra</div></nav>
+
+  <section class="ci-hero">
+    <svg class="ci-art" viewBox="0 0 300 300" aria-hidden="true">
+      <defs><clipPath id="dmclip"><path d="M150 40 L232 112 L150 262 L68 112 Z"/></clipPath></defs>
+      <path class="fac out" d="M150 40 L232 112 L150 262 L68 112 Z"/>
+      <path class="fac" d="M68 112 L232 112"/>
+      <path class="fac" d="M150 40 L150 112"/>
+      <path class="fac" d="M109 112 L150 262"/>
+      <path class="fac" d="M191 112 L150 262"/>
+      <path class="fac" d="M150 40 L109 112"/>
+      <path class="fac" d="M150 40 L191 112"/>
+      <g clip-path="url(#dmclip)"><rect class="gl sweep" x="120" y="20" width="26" height="260" transform="rotate(14 150 150)"/></g>
+    </svg>
+    <div class="ci-hero-in">
+      <div class="ci-eyebrow">Ru-Yi Academy · Layer 4 elective</div>
+      <h1>The Diamond Sūtra, All Thirty-Two</h1>
+      <div class="zh">金剛般若波羅蜜經 — the Perfection of Wisdom, at full length</div>
+      <div class="ci-rule"></div>
+      <p>Four sections a week, first line to last, following Grand Master Taixu's 1927 lecture notes the whole way — and reading this sūtra not as a devotional text but as the argument the Perfection of Wisdom literature makes.</p>
+      <div class="facts">
+        <span><b>8 sessions</b> · all live</span>
+        <span><b>Hard</b> · an elective, and meant to be</span>
+        <span><b>English</b>, with the Chinese beside every quotation</span>
+        <span><b>Free</b> · all 32 sections on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="ci-body">
+    <div class="ci-wrap">
+
+      <div class="ci-sec" data-rv>
+        <h2>Short enough to read in an hour, and usually read that way</h2>
+        <p>The Diamond Sūtra has been chanted, copied and memorised for fifteen centuries, and it is short. The Academy's <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">beginners' course</a> reads it once, whole, as a complete scripture — which is the right way to meet it the first time.</p>
+        <p>This course does something else. It goes at a quarter of the sūtra's speed, four of the thirty-two sections a session, and treats the text as what it also is: a sustained argument, repetitive on purpose, that does something specific to a reader by section 32 which a single pass will not accomplish.</p>
+        <div class="ci-pull">Nearly every difficulty in this sūtra is the same difficulty, restated: the mind wants to land somewhere, and the text will not let it.</div>
+        <p>The course's spine is the sūtra's own three-step formula — <em>what is called X, is not X, therefore it is called X</em> — which appears more than twenty times and which most readers stop at the second step. Getting the third step is the difference between hearing this text as paradox and hearing it as an argument.</p>
+        <p>Every quotation is from this site's own translation of Kumārajīva's Chinese, with the original beside it and a link back to the section in place. Taixu's commentary is quoted separately, always labelled as commentary, never blended into the sūtra's own voice.</p>
+      </div>
+
+      <div class="ci-sec" data-rv>
+        <h2>The eight sessions</h2>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-1/' | relative_url }}">
+          <div class="top"><span class="n">Session 1</span><h3>An unremarkable morning</h3><span class="src">sections 1–4</span></div>
+          <p>Where other sūtras open with the earth shaking, this one opens with a man getting dressed, begging door to door in order, and washing his feet. The answer is shown once, silently, before anyone asks.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-2/' | relative_url }}">
+          <div class="top"><span class="n">Session 2</span><h3>The raft, and the formula</h3><span class="src">sections 5–8</span></div>
+          <p>Wherever there is a mark, it is false. Grasping at a non-teaching is the same fault as grasping at a teaching. And the three-step formula, stated for the first time.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-3/' | relative_url }}">
+          <div class="top"><span class="n">Session 3</span><h3>A mind that dwells nowhere</h3><span class="src">sections 9–12</span></div>
+          <p>Four attainments held by people who do not think they hold them, and the ten characters that, in the traditional account, woke an illiterate firewood seller and redirected the whole of Chan.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-4/' | relative_url }}">
+          <div class="top"><span class="n">Session 4</span><h3>The sūtra names itself, and Subhūti weeps</h3><span class="src">sections 13–16</span></div>
+          <p>A title given and withdrawn in one breath; the only moment of visible emotion in the text; and a body cut apart limb from limb, told to make one point about the four notions.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-5/' | relative_url }}">
+          <div class="top"><span class="n">Session 5</span><h3>The same question, asked again</h3><span class="src">sections 17–20</span></div>
+          <p>Subhūti's opening question returns word for word — and you have not moved, which is the design. Then the three minds that cannot be grasped.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-6/' | relative_url }}">
+          <div class="top"><span class="n">Session 6</span><h3>Not the least thing whatsoever</h3><span class="src">sections 21–24</span></div>
+          <p>Saying the Buddha taught something slanders him; nothing at all was attained; the teaching is level ground with nothing higher and nothing lower — and, in the same sentence, an instruction to cultivate <em>every</em> wholesome teaching.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-7/' | relative_url }}">
+          <div class="top"><span class="n">Session 7</span><h3>Form and sound, and a mistaken path</h3><span class="src">sections 25–28</span></div>
+          <p>The one place where Subhūti answers wrongly, after twenty-five sections of being right — and the verse Chan treated as the sūtra's centre of gravity, followed at once by a warning against hearing any of it as annihilation.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/diamond-sutra/session-8/' | relative_url }}">
+          <div class="top"><span class="n">Session 8</span><h3>A bubble, dew, a flash of lightning</h3><span class="src">sections 29–32</span></div>
+          <p>Coming from nowhere and going nowhere; a universe ground into dust, where neither the dust nor the whole survives; and the six similes the sūtra sets itself down on.</p>
+        </a>
+      </div>
+
+      <div class="ci-sec" data-rv>
+        <h2>What the course reads</h2>
+        <div class="ci-srcs">
+          <a class="ci-card" href="{{ '/sutras/diamond-sutra.html' | relative_url }}">
+            <b>The Diamond Sūtra</b><div class="zh">金剛般若波羅蜜經 · 三十二分</div>
+            <span>Kumārajīva's Chinese with Ru-Yi's English, all thirty-two sections across eight pages, with reading notes drawn from Taixu's 1927 講錄.</span>
+          </a>
+          <a class="ci-card" href="{{ '/sutras/heart-sutra.html' | relative_url }}">
+            <b>The Heart Sūtra</b><div class="zh">般若波羅蜜多心經</div>
+            <span>The same material compressed into a single page — the shortest text in the Perfection of Wisdom family, and the most chanted.</span>
+          </a>
+          <a class="ci-card" href="{{ '/courses/nothing-stands/' | relative_url }}">
+            <b>Nothing Stands</b><div class="zh">中觀 — the Madhyamaka elective</div>
+            <span>Nāgārjuna, who took this literature as his ground and argued that nothing has a nature of its own. Reads chapter 24's two truths at length.</span>
+          </a>
+          <a class="ci-card" href="{{ '/courses/eight-consciousnesses/' | relative_url }}">
+            <b>The Eight Consciousnesses</b><div class="zh">唯識 — the Yogācāra elective</div>
+            <span>The school that agreed about almost everything and refused one step: that the dependent process itself is empty.</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="ci-sec" data-rv>
+        <h2>Before you start</h2>
+
+        <div class="ci-note">
+          <b class="h">How this differs from reading it once</b>
+          <p>If you have never read the Diamond Sūtra, reading it straight through in an hour is genuinely the right first move, and <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> does exactly that alongside seven other short scriptures. This course assumes you want the second reading: slower, structural, and following a commentary.</p>
+          <p>Four sections a week is the intended pace. The sūtra repeats itself in a spiral rather than a circle — each return is at a slightly different depth — and that is only visible if you are far enough along to remember where you were.</p>
+        </div>
+
+        <div class="ci-note">
+          <b class="h">Why this course and not one on the Mahāprajñāpāramitā-śāstra</b>
+          <p>The Academy's five-layer plan originally named the <em>Mahāprajñāpāramitā-śāstra</em> — the hundred-fascicle commentary attributed to Nāgārjuna — as the Perfection of Wisdom elective. That translation is under way on this site, and at present it stands in its opening fascicles: the reasons the Buddha taught this literature, the First Council, the setting, and the meaning of "bodhisattva." The body of its argument is not yet translated.</p>
+          <p>Building a Perfection of Wisdom course out of a preface would have meant claiming more than the material supports. The Diamond Sūtra is complete, its commentary is complete, and it is the text the tradition itself treated as the compressed form of the whole. A course on the <a href="{{ '/sutras/mahaprajnaparamita-sastra/' | relative_url }}">śāstra</a> becomes possible when the translation reaches its main body.</p>
+        </div>
+
+        <div class="ci-note">
+          <b class="h">The misreading this sūtra expects</b>
+          <p>Section 27 stops the argument to say that one who sets out for awakening <em>does not teach that anything is cut off or annihilated</em>. Section 6 says grasping at a non-teaching is the same fault as grasping at a teaching. Section 23 puts an instruction to cultivate every wholesome teaching in the same sentence as its most sweeping denial.</p>
+          <p>All three Layer 4 electives issue this warning, in texts centuries apart, and this course keeps it visible rather than leaving it to be inferred. If reading this sūtra makes you do less, it has been read backwards.</p>
+        </div>
+      </div>
+
+      <div class="ci-start" data-rv>
+        <a class="ci-btn primary" href="{{ '/courses/diamond-sutra/session-1/' | relative_url }}">Begin with Session 1 →</a>
+        <a class="ci-btn ghost" href="{{ '/courses/' | relative_url }}">← All courses</a>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.ci [data-rv]'));
+  var ticking = false;
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      if (rv[i].getBoundingClientRect().top < vh - 60){ rv[i].classList.add('in'); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+})();
+</script>

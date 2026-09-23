@@ -1,0 +1,447 @@
+---
+layout: default
+title: "Session 2 · The raft, and the formula (The Diamond Sutra)"
+permalink: /courses/diamond-sutra/session-2/
+excerpt: "Session 2 of The Diamond Sutra — sections 5 to 8. Wherever there is a mark it is false, even the teaching must be let go of, and the sutra's central formula appears for the first time."
+---
+
+<style>
+  .dm{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .dm *{box-sizing:border-box;}
+  .dm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dm [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dm [data-rv].in{opacity:1;transform:none;}
+
+  .dm-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dm-crumb .dm-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dm-crumb a{color:var(--base);text-decoration:none;}
+  .dm-crumb a:hover{text-decoration:underline;}
+
+  .dm-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,189,106,.24),transparent 62%),
+    linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);color:#fff;}
+  .dm-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dm-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .dm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dm-hero .subt{font-style:italic;font-size:18px;color:#dcd9ea;}
+  .dm-hero .rd{margin-top:24px;font-size:14px;color:#b6b3c9;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dm-hero .rd b{color:var(--acc);}
+
+  .dm-body{background:#fff;padding:44px 0 24px;}
+  .dm-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dm-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dm-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .dm-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dm-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dm-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dm-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f1ea);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dm-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .dm-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .dm-scr p:last-of-type{margin-bottom:0;}
+  .dm-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6e6a55;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.85;}
+  .dm-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .dm-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dm-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dm-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dm-terms span b{color:var(--base);}
+
+  .dm-take{background:linear-gradient(180deg,#fdfbf8,#efece2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dm-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .dm-take ul{margin:0;padding-left:20px;}
+  .dm-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dm-take li b{color:var(--acc-deep);}
+
+  .dm-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dm-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dm-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dm-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dm-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dm-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dm-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dm-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .dm-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dm-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dm-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dm-prac p:last-child{margin-bottom:0;}
+  .dm-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .dm-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dm-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dm-quiz .q:first-of-type{padding-top:2px;}
+  .dm-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dm-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .dm-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dm-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dm-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .dm-quiz .opt:hover:not(:disabled){background:#f4f1e8;border-color:var(--base);}
+  .dm-quiz .opt:disabled{cursor:default;}
+  .dm-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dm-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dm-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dm-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dm-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .dm-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .dm-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dm-quiz .expl.show{display:block;}
+  .dm-quiz .expl strong{color:var(--ink);}
+  .dm-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dm-score strong{color:var(--base);font-size:17px;}
+
+  .dm-reflect{background:linear-gradient(158deg,#2f4468 0%,#1a2842 48%,#080d18 100%);color:#ddd9ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dm-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .dm-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dm-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b6b3c9;line-height:1.7;margin-top:14px;}
+
+  .dm-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dm-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .dm-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dm-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dm-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dm-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dm-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .dm-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .dm-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .dm-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dm .dm-crumb,.dm-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dm [data-rv]{opacity:1 !important;transform:none !important;}
+    .dm-hero{background:none;color:#000;padding:0;}
+    .dm-hero-in{padding:0 0 12px;}
+    .dm-eyebrow,.dm-hero .subt,.dm-hero .rd{color:#444;}
+    .dm-hero h1{color:#000;}
+    .dm-body{padding:0;}
+    .dm-body p,.dm-body h3,.dm-part h2,.dm-take li,.dm-prac p{color:#000;}
+    .dm-scr,.dm-take,.dm-prac,.dm-quiz,.dm-next{background:#fff !important;border:1px solid #bbb;}
+    .dm-scr p{color:#000;}
+    .dm-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-reflect p,.dm-reflect .l,.dm-reflect p.sm{color:#000;}
+    .dm-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-textcard h3,.dm-textcard p,.dm-textcard .go,.dm-textcard .trad{color:#000;}
+    .dm{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Diamond Sutra: course-specific components --- */
+
+  /* one of the thirty-two sections, quoted whole */
+  .dm-sec{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 13px 13px;
+    background:linear-gradient(180deg,#fdfcf9,#f3f1ea);padding:24px 28px 22px;margin:26px 0;}
+  .dm-sec .hd{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:14px;}
+  .dm-sec .num{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    font-weight:800;color:var(--acc-deep);}
+  .dm-sec .ttl{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .dm-sec .zhn{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14px;
+    color:var(--ink-soft);margin-left:auto;}
+  .dm-sec p{font-size:17px;line-height:1.74;color:var(--ink);margin:0 0 12px;}
+  .dm-sec p:last-of-type{margin-bottom:0;}
+  .dm-sec .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;
+    color:var(--zh,#6e6a55);margin-top:15px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.95;}
+  .dm-sec .zh p{font-family:inherit;font-size:15.5px;color:#6e6a55;line-height:1.95;margin:0 0 6px;}
+  .dm-sec a.bk{display:inline-block;margin-top:13px;font-size:13px;color:var(--base);text-decoration:none;
+    border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-sec a.bk:hover{border-bottom-color:var(--base);}
+
+  /* Taixu's 1927 lecture notes, quoted as commentary and labelled as such */
+  .dm-taixu{border-left:4px solid var(--acc-deep);background:linear-gradient(180deg,#fbf9f2,#f4f0e2);
+    border-radius:0 13px 13px 0;padding:22px 26px;margin:24px 0;}
+  .dm-taixu .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:9px;}
+  .dm-taixu p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 11px;}
+  .dm-taixu p:last-child{margin-bottom:0;}
+  .dm-taixu a.bk{display:inline-block;margin-top:11px;font-size:13px;color:var(--acc-deep);text-decoration:none;
+    border-bottom:1px solid rgba(138,106,31,.45);}
+
+  /* the is-not / is-called formula, shown as a shape */
+  .dm-formula{display:grid;grid-template-columns:1fr;gap:10px;margin:24px 0;}
+  @media(min-width:660px){.dm-formula{grid-template-columns:repeat(3,1fr);}}
+  .dm-formula .step{border:1px solid var(--line);border-radius:12px;padding:15px 18px;background:var(--cream);text-align:center;}
+  .dm-formula .step .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:19px;color:var(--acc-deep);font-weight:600;}
+  .dm-formula .step b{display:block;font-family:'Playfair Display',serif;font-size:16px;color:var(--ink);margin:5px 0 4px;}
+  .dm-formula .step span{display:block;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+</style>
+
+<div class="dm">
+
+  <nav class="dm-crumb"><div class="dm-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/diamond-sutra/' | relative_url }">The Diamond Sūtra</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="dm-hero">
+    <div class="dm-hero-in">
+      <div class="dm-eyebrow">Session 2 · Sections 5–8</div>
+      <h1>The raft, and the formula</h1>
+      <div class="subt">Wherever there is a mark, it is false — including the teaching that says so</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Session 1</span>
+        <span><b>The text</b> Diamond Sūtra, sections 5–8</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dm-body">
+    <div class="dm-wrap">
+
+      <!-- PART 1 -->
+      <div class="dm-part" data-rv><div class="pn">Part 1</div><h2>Section 5<span class="rf">The test that will be applied to everything else</span></h2></div>
+
+      <p data-rv>Section 5 is four lines long and contains the sūtra's method in miniature. The Buddha asks whether he can be recognised by his bodily marks — the thirty-two physical signs the tradition attributes to a buddha — and Subhūti gives the answer that will be given, in one form or another, thirty more times before the end.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 5</span><span class="ttl">Seeing Reality As It Truly Is</span><span class="zhn">如理實見分</span></div>
+        <p>"Subhūti, what do you think — can the Tathāgata be seen by his bodily marks?" "No, World-Honored One, the Tathāgata cannot be seen by his bodily marks. Why is this? What the Tathāgata calls bodily marks are no bodily marks at all."</p>
+        <p>The Buddha told Subhūti: "Wherever there is a mark, it is empty and false. See that all marks are no marks, and you see the Tathāgata."</p>
+        <div class="zh"><p>「須菩提。於意云何？可以身相見如來不？」「不也，世尊，不可以身相得見如來。何以故？如來所說身相，即非身相。」</p><p>佛告須菩提：「凡所有相，皆是虛妄。若見諸相非相，即見如來。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/seeing-truly-and-rare-faith.html' | relative_url }}">Read this section in its place — Diamond Sūtra, sections 5–8 →</a>
+      </div>
+
+      <p data-rv>凡所有相，皆是虛妄 — <em>wherever there is a mark, it is empty and false</em>. Twelve characters, and probably the most quoted line in East Asian Buddhism after the Heart Sūtra's.</p>
+
+      <p data-rv>A <strong>mark</strong> (相, <em>lakṣaṇa</em>) is a distinguishing characteristic — whatever makes a thing identifiable as the thing it is. The claim is not that marks do not appear. It is that a mark is never the thing; it is how the thing shows up to a mind that is sorting.</p>
+
+      <p data-rv>And the second half is the instruction, which is more precise than it first looks. Not <em>ignore the marks</em>, and not <em>see through to something behind them</em>. <em>See that all marks are no marks</em> — see the marks, as marks, and see that being a mark is not being a thing. There is nothing behind them to look for. The Tathāgata is not hiding.</p>
+
+      <!-- PART 2 -->
+      <div class="dm-part" data-rv><div class="pn">Part 2</div><h2>Section 6<span class="rf">The raft — and the trap of letting go wrongly</span></h2></div>
+
+      <p data-rv>Subhūti's next question is an honest one, and it is about us: <em>will anyone actually believe this?</em></p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 6</span><span class="ttl">True Faith Is Rare</span><span class="zhn">正信希有分</span></div>
+        <p>Subhūti said to the Buddha: "World-Honored One, will there really be beings who, hearing words and passages like these, give rise to true faith?" The Buddha told Subhūti: "Do not speak like that. Five hundred years after the Tathāgata's final passing, there will be those who keep the precepts and cultivate merit, who are able to give rise to faith in these very words, and take them as true."</p>
+        <div class="zh"><p>須菩提白佛言：「世尊！頗有眾生，得聞如是言說章句，生實信不？」佛告須菩提：「莫作是說。如來滅後，後五百歲，有持戒修福者，於此章句能生信心，以此為實，</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/seeing-truly-and-rare-faith.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Note what the Buddha says such a person will be doing: <em>keeping the precepts and cultivating merit</em>. Not studying philosophy. The capacity to hear this teaching without misusing it is attached, here, to ordinary moral practice.</p>
+
+      <p data-rv>Then the section turns to the danger, and this is the passage that makes the Diamond Sūtra difficult in a way people underestimate.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 6</span><span class="ttl">continued — the raft</span><span class="zhn">正信希有分</span></div>
+        <p>"If they grasp at the mark of a teaching, they thereby cling to a self, a person, a being, a lifespan. Why is this? If they grasp at the mark of a non-teaching, they thereby cling to a self, a person, a being, a lifespan. For this reason you should not grasp at a teaching, and you should not grasp at a non-teaching either. This is why the Tathāgata always says: monks, know that my teaching is like a raft — even the teaching itself should be let go of, how much more so what is not the teaching."</p>
+        <div class="zh"><p>「若取法相，即著我、人、眾生、壽者。何以故？若取非法相，即著我、人、眾生、壽者。是故不應取法，不應取非法。以是義故，如來常說：汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/seeing-truly-and-rare-faith.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The raft is one of the oldest similes in the canon: you build a raft to cross the river, and you do not carry it on your head afterwards. But watch the sentence immediately before it, because that is where the section does its real work.</p>
+
+      <p data-rv><strong>Grasping at the mark of a non-teaching is the same fault as grasping at the mark of a teaching.</strong> Both produce the four notions; both re-install a self. The reader who concludes "so there is no teaching, and nothing to hold" has not let go of anything — they have grasped the other end.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"Taixu explains this with the classic raft: a man fleeing bandits builds a raft from wooden planks, crosses the river on it, and — reaching the other shore — leaves the raft behind rather than carrying it on his back. The teaching gets you across; hauling it around afterward as a trophy misses the entire point of having crossed."</p>
+        <p>"His example is the Sixth Chan Patriarch, Huineng: an illiterate woodcutter who overheard a single line of this very sūtra recited in a marketplace and felt his own "vajra seed" awaken on the spot. Someone without roots already laid down could hear the Buddha teach this in person and still not truly understand it; someone with those roots can wake from a single overheard phrase, lifetimes later."</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/seeing-truly-and-rare-faith.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <div class="dm-pull" data-rv>You should not grasp at a teaching, and you should not grasp at a non-teaching either.</div>
+
+      <p data-rv>This is the same warning the <a href="{{ '/courses/nothing-stands/' | relative_url }}">Madhyamaka elective</a> finds in Nāgārjuna and in Jizang, and the same one the <a href="{{ '/courses/eight-consciousnesses/' | relative_url }}">Yogācāra elective</a> finds in the <em>Cheng Weishi Lun</em>. All three texts issue it early, unprompted, and in almost the same words. That is not coincidence: it is the mistake each of them expects its own readers to make.</p>
+
+      <!-- PART 3 -->
+      <div class="dm-part" data-rv><div class="pn">Part 3</div><h2>Section 7<span class="rf">No fixed teaching, and nothing attained</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 7</span><span class="ttl">Nothing Attained, Nothing Taught</span><span class="zhn">無得無說分</span></div>
+        <p>"Subhūti, what do you think — has the Tathāgata attained unsurpassed, perfect, complete awakening? Has the Tathāgata taught any fixed teaching?" Subhūti said: "As I understand what the Buddha has taught, there is no fixed teaching called 'unsurpassed, perfect, complete awakening,' and there is no fixed teaching that the Tathāgata could teach. Why is this? What the Tathāgata teaches can none of it be grasped, and none of it be spoken; it is neither a teaching nor a non-teaching. And why is that? Because all the sages and worthies are distinguished by the unconditioned."</p>
+        <div class="zh"><p>「須菩提！於意云何？如來得阿耨多羅三藐三菩提耶？如來有所說法耶？」須菩提言：「如我解佛所說義，無有定法，名『阿耨多羅三藐三菩提』，亦無有定法，如來可說。何以故？如來所說法。皆不可取、不可說；非法，非非法。所以者何？一切賢聖，皆以無為法而有差別。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/seeing-truly-and-rare-faith.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The operative word throughout is 定 — <em>fixed</em>. Not "there is no awakening" but "there is no <em>fixed thing</em> called awakening." Not "the Buddha taught nothing" but "there is no fixed teaching he could teach." The same qualifier the Madhyamaka elective found doing all the work in 決定有作者.</p>
+
+      <p data-rv>And Subhūti's closing line is the most interesting thing in the section, because it is a positive claim in a passage full of denials: <em>all the sages and worthies are distinguished by the unconditioned</em>. Practitioners genuinely do differ from one another, and the difference is real. But it is not a difference in what they have <em>acquired</em>. It is a difference in relation to what was never made.</p>
+
+      <!-- PART 4 -->
+      <div class="dm-part" data-rv><div class="pn">Part 4</div><h2>Section 8<span class="rf">The formula, stated for the first time</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 8</span><span class="ttl">Born From This Teaching</span><span class="zhn">依法出生分</span></div>
+        <p>"Subhūti, what do you think — if someone filled a billion-world universe with the seven treasures and gave it all away, would the merit that person gained be great?" Subhūti said: "Very great, World-Honored One. Why is this? Because this merit has no fixed nature as merit — that is exactly why the Tathāgata calls it great merit."</p>
+        <p>"But if someone else took up even a single four-line verse of this sūtra, upheld it, and explained it to others, their merit would surpass the first person's. Why is this? Subhūti, all buddhas, and the teaching of unsurpassed, perfect, complete awakening that all buddhas hold, come forth from this very sūtra. Subhūti, what is called the buddha-dharma is no buddha-dharma at all — that is why it is called the buddha-dharma."</p>
+        <div class="zh"><p>「須菩提！於意云何？若人滿三千大千世界七寶以用布施，是人所得福德，寧為多不？」須菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如來說福德多。」</p><p>「若復有人，於此經中受持，乃至四句偈等，為他人說，其福勝彼。何以故？須菩提！一切諸佛，及諸佛阿耨多羅三藐三菩提法，皆從此經出。須菩提！所謂佛法者，即非佛法，是名佛法。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/seeing-truly-and-rare-faith.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Here it is — the sentence-shape the sūtra will use more than twenty times, and the single most important thing to understand in this course:</p>
+
+      <div class="dm-formula" data-rv>
+        <div class="step"><div class="zh">所謂佛法者</div><b>What is called X</b><span>The ordinary name, used as the world uses it. Nothing is denied yet.</span></div>
+        <div class="step"><div class="zh">即非佛法</div><b>is not X</b><span>There is no fixed thing the name picks out. The mark is not the thing.</span></div>
+        <div class="step"><div class="zh">是名佛法</div><b>therefore it is called X</b><span>And so the name works — <em>because</em> it names nothing fixed.</span></div>
+      </div>
+
+      <p data-rv>The third step is what most readers miss, and it is where the formula stops being paradoxical. The sūtra does not end on the negation. It returns the word, and the word now has a different standing: it is a usable name rather than a claim about a findable thing.</p>
+
+      <p data-rv>Notice that section 8 runs the formula twice in a few lines, first on merit and then on the buddha-dharma itself. <em>This merit has no fixed nature as merit — that is exactly why the Tathāgata calls it great merit.</em> The merit is great <em>because</em> it is not a fixed quantity of anything; a fixed quantity would be finite. And the same move applied to the Buddha's own teaching, in the same paragraph in which that teaching is said to be the source of all buddhas.</p>
+
+      <p data-rv>Once you can hear the third step, most of the remaining twenty-four sections stop being difficult. They are this shape, applied to a new noun.</p>
+
+      <div class="dm-take" data-rv>
+        <b class="h">What Session 2 establishes</b>
+        <ul>
+          <li><b>Wherever there is a mark, it is false</b> — and the instruction is to see marks <em>as</em> marks, not to look behind them.</li>
+          <li><b>The capacity to hear this is tied to ordinary moral practice</b>, not to philosophical training.</li>
+          <li><b>Grasping at a non-teaching is the same fault</b> as grasping at a teaching. Letting go wrongly is not letting go.</li>
+          <li><b>The word is 定, <em>fixed</em></b> — there is no fixed awakening and no fixed teaching, which is not the same as none.</li>
+          <li><b>Sages really do differ</b>, but by relation to the unconditioned, not by what they have acquired.</li>
+          <li><b>The formula has three steps, not two.</b> The name is returned, and now works <em>because</em> it names nothing fixed.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dm-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Running the formula on something of yours</span></h2></div>
+
+      <div class="dm-prac" data-rv>
+        <b class="h">Three steps, on one word</b>
+        <p>The formula is not a riddle to admire. It is an operation, and it can be performed — carefully, on one thing at a time.</p>
+        <div class="how">
+          Pick one word you use about yourself that carries weight. A role: <em>teacher, mother, engineer</em>. Or a judgment: <em>anxious, reliable, a failure</em>. Choose one you would defend.<br><br>
+          <strong>Step one.</strong> Write the sentence as you normally mean it. "What is called my being a teacher…"<br><br>
+          <strong>Step two.</strong> Go looking for the fixed thing the word names. Not the activities — the <em>thing</em>. Where is it when you are asleep? Was it there at twenty? Is it in the students, the contract, the feeling?<br><br>
+          <strong>Step three, and do not skip it.</strong> Now use the word again, out loud, in an ordinary sentence about tomorrow. Notice that it still works, and notice what it feels like to use a word you have just failed to find a referent for.
+        </div>
+        <p>If the exercise leaves you unable to use the word, you have stopped at step two — which is the mistake section 6 describes as grasping at the mark of a non-teaching. The sūtra returns every word it takes away. That return is not a concession; it is the point.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dm-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="dm-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does "see that all marks are no marks" instruct?</div>
+          <button class="opt"><span class="ltr">A</span>To ignore appearances and attend only to the formless</button>
+          <button class="opt"><span class="ltr">B</span>To look through appearances to the reality hidden behind them</button>
+          <button class="opt"><span class="ltr">C</span>To see marks as marks, and see that being a mark is not being a thing — there is nothing behind them to find</button>
+          <button class="opt"><span class="ltr">D</span>To recognise the Buddha by his thirty-two signs correctly rather than carelessly</button>
+          <div class="expl"><strong>Correct: C.</strong> The Tathāgata is not hiding.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What does section 6 say about grasping at a non-teaching?</div>
+          <button class="opt"><span class="ltr">A</span>That it is a lesser fault than grasping at a teaching</button>
+          <button class="opt"><span class="ltr">B</span>That it is the correct attitude once the raft has served its purpose</button>
+          <button class="opt"><span class="ltr">C</span>That it applies only to non-Buddhist doctrines</button>
+          <button class="opt"><span class="ltr">D</span>That it produces the same four notions and the same clinging to a self — letting go wrongly is not letting go</button>
+          <div class="expl"><strong>Correct: D.</strong> The reader who concludes "so there is nothing to hold" has grasped the other end.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is denied in section 7?</div>
+          <button class="opt"><span class="ltr">A</span>That the Buddha attained awakening at all</button>
+          <button class="opt"><span class="ltr">B</span>That there is any <em>fixed</em> thing called awakening, or any fixed teaching that could be taught</button>
+          <button class="opt"><span class="ltr">C</span>That sages differ from ordinary people</button>
+          <button class="opt"><span class="ltr">D</span>That the sūtra itself has any value</button>
+          <div class="expl"><strong>Correct: B.</strong> The operative word is 定, fixed — and C is explicitly affirmed: sages are distinguished by the unconditioned.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What are the three steps of the formula?</div>
+          <button class="opt"><span class="ltr">A</span>What is called X — is not X — therefore it is called X</button>
+          <button class="opt"><span class="ltr">B</span>X exists conventionally — X does not exist ultimately — X is beyond both</button>
+          <button class="opt"><span class="ltr">C</span>X is asserted — X is denied — X is neither asserted nor denied</button>
+          <button class="opt"><span class="ltr">D</span>X is a mark — the mark is false — the mark should be abandoned</button>
+          <div class="expl"><strong>Correct: A.</strong> The third step is the one readers miss: the word is returned, and now works <em>because</em> it names nothing fixed.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why does merit with no fixed nature count as <em>great</em> merit?</div>
+          <button class="opt"><span class="ltr">A</span>Because the Buddha promises to reward it generously</button>
+          <button class="opt"><span class="ltr">B</span>Because it is transferred to all beings rather than kept</button>
+          <button class="opt"><span class="ltr">C</span>Because a fixed quantity would be finite — it is great precisely by not being a fixed amount of anything</button>
+          <button class="opt"><span class="ltr">D</span>Because it arises from the seven treasures, the most valuable of gifts</button>
+          <div class="expl"><strong>Correct: C.</strong> The same arithmetic point section 4 made about space in the ten directions.</div>
+        </div>
+
+        <div class="dm-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="dm-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>Which end of the raft are you holding?</p>
+        <p class="sm">Section 6 names two ways to fail and treats them as equally serious. One is to carry the teaching on your head after crossing. The other is to put it down so firmly that the putting-down becomes the thing you carry. The sūtra assumes its readers are liable to both, and says so before it has finished its first quarter.</p>
+      </div>
+
+      <div class="dm-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 3 · Sections 9–12</h3>
+        <p>The four fruits of the path, each held by someone who does not think they have attained it; the buddha-land that is adorned by not being adorned; and a body the size of Mount Sumeru that is not called a body.</p>
+      </div>
+
+      <div class="dm-foot" data-rv>
+        <a class="dm-btn ghost" href="{{ '/courses/diamond-sutra/session-1/' | relative_url }}">← Session 1</a>
+        <a class="dm-btn primary" href="{{ '/courses/diamond-sutra/session-3/' | relative_url }}">Session 3 · Sections 9–12 →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.dm [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.dm-quiz .q').length;
+  document.querySelectorAll('.dm-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

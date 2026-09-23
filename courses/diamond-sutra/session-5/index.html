@@ -1,0 +1,443 @@
+---
+layout: default
+title: "Session 5 · The same question, asked again (The Diamond Sutra)"
+permalink: /courses/diamond-sutra/session-5/
+excerpt: "Session 5 of The Diamond Sutra — sections 17 to 20. Subhuti asks his opening question a second time, and the sutra says the three minds cannot be grasped."
+---
+
+<style>
+  .dm{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .dm *{box-sizing:border-box;}
+  .dm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dm [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dm [data-rv].in{opacity:1;transform:none;}
+
+  .dm-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dm-crumb .dm-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dm-crumb a{color:var(--base);text-decoration:none;}
+  .dm-crumb a:hover{text-decoration:underline;}
+
+  .dm-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,189,106,.24),transparent 62%),
+    linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);color:#fff;}
+  .dm-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dm-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .dm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dm-hero .subt{font-style:italic;font-size:18px;color:#dcd9ea;}
+  .dm-hero .rd{margin-top:24px;font-size:14px;color:#b6b3c9;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dm-hero .rd b{color:var(--acc);}
+
+  .dm-body{background:#fff;padding:44px 0 24px;}
+  .dm-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dm-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dm-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .dm-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dm-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dm-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dm-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f1ea);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dm-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .dm-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .dm-scr p:last-of-type{margin-bottom:0;}
+  .dm-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6e6a55;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.85;}
+  .dm-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .dm-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dm-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dm-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dm-terms span b{color:var(--base);}
+
+  .dm-take{background:linear-gradient(180deg,#fdfbf8,#efece2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dm-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .dm-take ul{margin:0;padding-left:20px;}
+  .dm-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dm-take li b{color:var(--acc-deep);}
+
+  .dm-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dm-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dm-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dm-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dm-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dm-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dm-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dm-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .dm-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dm-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dm-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dm-prac p:last-child{margin-bottom:0;}
+  .dm-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .dm-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dm-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dm-quiz .q:first-of-type{padding-top:2px;}
+  .dm-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dm-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .dm-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dm-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dm-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .dm-quiz .opt:hover:not(:disabled){background:#f4f1e8;border-color:var(--base);}
+  .dm-quiz .opt:disabled{cursor:default;}
+  .dm-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dm-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dm-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dm-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dm-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .dm-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .dm-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dm-quiz .expl.show{display:block;}
+  .dm-quiz .expl strong{color:var(--ink);}
+  .dm-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dm-score strong{color:var(--base);font-size:17px;}
+
+  .dm-reflect{background:linear-gradient(158deg,#2f4468 0%,#1a2842 48%,#080d18 100%);color:#ddd9ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dm-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .dm-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dm-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b6b3c9;line-height:1.7;margin-top:14px;}
+
+  .dm-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dm-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .dm-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dm-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dm-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dm-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dm-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .dm-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .dm-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .dm-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dm .dm-crumb,.dm-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dm [data-rv]{opacity:1 !important;transform:none !important;}
+    .dm-hero{background:none;color:#000;padding:0;}
+    .dm-hero-in{padding:0 0 12px;}
+    .dm-eyebrow,.dm-hero .subt,.dm-hero .rd{color:#444;}
+    .dm-hero h1{color:#000;}
+    .dm-body{padding:0;}
+    .dm-body p,.dm-body h3,.dm-part h2,.dm-take li,.dm-prac p{color:#000;}
+    .dm-scr,.dm-take,.dm-prac,.dm-quiz,.dm-next{background:#fff !important;border:1px solid #bbb;}
+    .dm-scr p{color:#000;}
+    .dm-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-reflect p,.dm-reflect .l,.dm-reflect p.sm{color:#000;}
+    .dm-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-textcard h3,.dm-textcard p,.dm-textcard .go,.dm-textcard .trad{color:#000;}
+    .dm{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Diamond Sutra: course-specific components --- */
+
+  /* one of the thirty-two sections, quoted whole */
+  .dm-sec{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 13px 13px;
+    background:linear-gradient(180deg,#fdfcf9,#f3f1ea);padding:24px 28px 22px;margin:26px 0;}
+  .dm-sec .hd{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:14px;}
+  .dm-sec .num{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    font-weight:800;color:var(--acc-deep);}
+  .dm-sec .ttl{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .dm-sec .zhn{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14px;
+    color:var(--ink-soft);margin-left:auto;}
+  .dm-sec p{font-size:17px;line-height:1.74;color:var(--ink);margin:0 0 12px;}
+  .dm-sec p:last-of-type{margin-bottom:0;}
+  .dm-sec .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;
+    color:var(--zh,#6e6a55);margin-top:15px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.95;}
+  .dm-sec .zh p{font-family:inherit;font-size:15.5px;color:#6e6a55;line-height:1.95;margin:0 0 6px;}
+  .dm-sec a.bk{display:inline-block;margin-top:13px;font-size:13px;color:var(--base);text-decoration:none;
+    border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-sec a.bk:hover{border-bottom-color:var(--base);}
+
+  /* Taixu's 1927 lecture notes, quoted as commentary and labelled as such */
+  .dm-taixu{border-left:4px solid var(--acc-deep);background:linear-gradient(180deg,#fbf9f2,#f4f0e2);
+    border-radius:0 13px 13px 0;padding:22px 26px;margin:24px 0;}
+  .dm-taixu .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:9px;}
+  .dm-taixu p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 11px;}
+  .dm-taixu p:last-child{margin-bottom:0;}
+  .dm-taixu a.bk{display:inline-block;margin-top:11px;font-size:13px;color:var(--acc-deep);text-decoration:none;
+    border-bottom:1px solid rgba(138,106,31,.45);}
+
+  /* the is-not / is-called formula, shown as a shape */
+  .dm-formula{display:grid;grid-template-columns:1fr;gap:10px;margin:24px 0;}
+  @media(min-width:660px){.dm-formula{grid-template-columns:repeat(3,1fr);}}
+  .dm-formula .step{border:1px solid var(--line);border-radius:12px;padding:15px 18px;background:var(--cream);text-align:center;}
+  .dm-formula .step .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:19px;color:var(--acc-deep);font-weight:600;}
+  .dm-formula .step b{display:block;font-family:'Playfair Display',serif;font-size:16px;color:var(--ink);margin:5px 0 4px;}
+  .dm-formula .step span{display:block;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+</style>
+
+<div class="dm">
+
+  <nav class="dm-crumb"><div class="dm-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/diamond-sutra/' | relative_url }">The Diamond Sūtra</a> → Session 5</div></nav>
+
+  <!-- HERO -->
+  <section class="dm-hero">
+    <div class="dm-hero-in">
+      <div class="dm-eyebrow">Session 5 · Sections 17–20</div>
+      <h1>The same question, asked again</h1>
+      <div class="subt">And a line about past, present and future mind that Chan never stopped quoting</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–4</span>
+        <span><b>The text</b> Diamond Sūtra, sections 17–20</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dm-body">
+    <div class="dm-wrap">
+
+      <!-- PART 1 -->
+      <div class="dm-part" data-rv><div class="pn">Part 1</div><h2>Section 17<span class="rf">The question from section 2, word for word</span></h2></div>
+
+      <p data-rv>Something happens here that readers often take for a scribal error or a sign that the text was assembled from two recensions. Subhūti asks his opening question again — the same question, in the same words.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 17</span><span class="ttl">Ultimately, No Self</span><span class="zhn">究竟無我分</span></div>
+        <p>At that time Subhūti said to the Buddha: "World-Honored One, when a good son or good daughter sets out for unsurpassed, perfect, complete awakening, how should they stand, and how should they subdue their mind?" The Buddha told Subhūti: "A good son or good daughter who sets out for unsurpassed, perfect, complete awakening should give rise to a mind like this: I must liberate every single being. And once every being is liberated, in truth not one being at all has been liberated. Why is this? Subhūti, if a bodhisattva holds the notion of a self, a person, a being, a lifespan, they are no bodhisattva."</p>
+        <div class="zh"><p>爾時，須菩提白佛言：「世尊！善男子、善女人，發阿耨多羅三藐三菩提心，云何應住？云何降伏其心？」佛告須菩提：「善男子、善女人，發阿耨多羅三藐三菩提心者，當生如是心：我應滅度一切眾生。滅度一切眾生已，而無有一眾生實滅度者。何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，則非菩薩。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read this section in its place — Diamond Sūtra, sections 17–20 →</a>
+      </div>
+
+      <p data-rv>The question is identical to section 2, and the answer is nearly identical to section 3. Whatever the text's compositional history, the effect on a reader who has come through sixteen sections is specific and worth naming: <strong>you have not moved</strong>. Fourteen sections of argument, and the question is exactly where it was.</p>
+
+      <p data-rv>That is not a failure of the sūtra. It is the sūtra's shape. This is not a text that builds toward a conclusion you did not have at the start; it is a text that returns you to the same place repeatedly until the place is different. The answer was always available in section 3. What has changed by section 17 is only what you can hear in it.</p>
+
+      <p data-rv>Then the second half makes the inversion explicit, using Dīpaṃkara again:</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 17</span><span class="ttl">continued — why the prediction was given</span><span class="zhn">究竟無我分</span></div>
+        <p>"Subhūti, if there had been such a fixed teaching, Dīpaṃkara Buddha would not have given me the prediction, saying, 'In a future age you will become a buddha, named Śākyamuni.' It was precisely because there is no fixed teaching to attain unsurpassed, perfect, complete awakening that Dīpaṃkara Buddha gave me this prediction, saying, 'In a future age you will become a buddha, named Śākyamuni.' Why is this? 'Tathāgata' means precisely 'suchness of all things.'"</p>
+        <div class="zh"><p>「須菩提！若有法，如來得阿耨多羅三藐三菩提者，燃燈佛則不與我授記：『汝於來世，當得作佛，號釋迦牟尼。』以實無有法得阿耨多羅三藐三菩提，是故燃燈佛與我授記，作是言：『汝於來世，當得作佛，號釋迦牟尼。』何以故？如來者，即諸法如義。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Section 10 said nothing was attained in Dīpaṃkara's presence. Section 17 goes further and makes it the <em>reason</em> the prediction could be made at all. Had there been a fixed thing to get, the prediction would have been impossible — because a fixed thing already fixed is not something anyone becomes.</p>
+
+      <p data-rv>This is the same inversion the Madhyamaka elective found in the chapter on the four truths: only what is empty can change, so only where nothing is fixed can anyone become anything. The Diamond Sūtra reaches it by a different road and states it in a sentence.</p>
+
+      <!-- PART 2 -->
+      <div class="dm-part" data-rv><div class="pn">Part 2</div><h2>Section 18<span class="rf">Five eyes, every mind — and three that cannot be grasped</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 18</span><span class="ttl">One Body, One Seeing</span><span class="zhn">一體同觀分</span></div>
+        <p>"Subhūti, what do you think — does the Tathāgata have the physical eye?" "Yes, World-Honored One, the Tathāgata has the physical eye." … "Does the Tathāgata have the buddha eye?" "Yes, World-Honored One, the Tathāgata has the buddha eye."</p>
+        <div class="zh"><p>「須菩提！於意云何？如來有肉眼不？」「如是，世尊！如來有肉眼。」……「須菩提！於意云何？如來有佛眼不？」「如是，世尊！如來有佛眼。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Worth noticing before the famous part: this is a run of five straight <em>yes</em> answers. The physical eye, the divine eye, the wisdom eye, the dharma eye, the buddha eye — the Tathāgata has all of them, affirmed without qualification. A sūtra that has spent seventeen sections denying things here affirms five in a row, starting with the ordinary physical eye. Whatever this text is doing, it is not denial for its own sake.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"the physical eye, the ordinary human eye, so limited that a sheet of paper is enough to block it entirely; the heavenly eye, gained by rebirth in the heavens or by deep meditation, which sees far and passes through solid obstruction; the wisdom eye, held by śrāvakas and pratyekabuddhas, which sees every being as empty — the four elements and five aggregates only, like flowers reflected in a mirror or the moon reflected in water; the dharma eye, held by bodhisattvas, which sees further still, that every single thing arises from conditions and has no nature of its own, so that "one is all, and all is one," moving through every phenomenon without obstruction; and the buddha eye, which holds all four at once and sees every realm — human, heavenly, arhat, bodhisattva — in a single instant, without gap or excess."</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 18</span><span class="ttl">continued — the three minds</span><span class="zhn">一體同觀分</span></div>
+        <p>The Buddha told Subhūti: "The Tathāgata knows completely every kind of mind that every being in all those lands has. Why is this? What the Tathāgata calls 'minds' are all no minds at all — that is why they are called minds. And why is that, Subhūti? <strong>The mind of the past cannot be grasped, the mind of the present cannot be grasped, the mind of the future cannot be grasped.</strong>"</p>
+        <div class="zh"><p>佛告須菩提：「爾所國土中，所有眾生，若干種心，如來悉知。何以故？如來說：諸心皆為非心，是名為心。所以者何？須菩提！過去心不可得，現在心不可得，未來心不可得。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>過去心不可得，現在心不可得，未來心不可得. Eighteen characters, and along with section 10's ten, the most quoted passage in Chan.</p>
+
+      <p data-rv>There is a famous Chan story attached to it, well outside this sūtra: a renowned scholar of the Diamond Sūtra, travelling south with his commentaries, stops to buy refreshment from an old woman selling rice cakes. She asks what he carries, learns it is a commentary on this text, and says she will give him the cakes for free if he can answer one question — <em>the mind of the past cannot be grasped, the mind of the present cannot be grasped, the mind of the future cannot be grasped; with which mind will you eat?</em> He cannot answer. In the tradition, he burns the commentaries.</p>
+
+      <p data-rv>The story is not in the sūtra and is not evidence of anything. It is worth telling because it identifies precisely what the line does. It is not a metaphysical claim to be filed; it is a question that can be asked of you at any moment and has no available answer, and its effect is to stop the thing that was about to answer.</p>
+
+      <p data-rv>And notice the logical order. The Buddha knows every mind — <em>because</em> minds are no minds. The knowing is not compromised by the ungraspability; it is grounded in it. What cannot be grasped as an object is precisely what is not separate enough to be missed.</p>
+
+      <!-- PART 3 -->
+      <div class="dm-part" data-rv><div class="pn">Part 3</div><h2>Sections 19 and 20<span class="rf">Merit without substance, and a perfect body that is not one</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 19</span><span class="ttl">Pervading the Whole Dharma Realm</span><span class="zhn">法界通化分</span></div>
+        <p>"Subhūti, what do you think — if someone filled a billion-world universe with the seven treasures and gave it all away, would that person, through this cause, gain great merit?" "Yes, World-Honored One, through this cause that person would gain very great merit." "Subhūti, if merit had a substantial nature, the Tathāgata would not speak of gaining great merit; it is precisely because merit has no such nature that the Tathāgata speaks of gaining great merit."</p>
+        <div class="zh"><p>「須菩提！於意云何？若有人滿三千大千世界七寶，以用布施，是人以是因緣，得福多不？」「如是，世尊！此人以是因緣，得福甚多。」「須菩提！若福德有實，如來不說得福德多；以福德無故，如來說得福德多。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>This is the clearest statement of the arithmetic point the course has met three times now, and it is worth quoting to anyone who thinks emptiness diminishes things. <em>If merit had a substantial nature, the Tathāgata would not speak of gaining great merit.</em> Substance would be the limitation. Greatness is possible only where nothing is fixed.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 20</span><span class="ttl">Beyond Form, Beyond Every Mark</span><span class="zhn">離色離相分</span></div>
+        <p>"Subhūti, what do you think — can the Buddha be seen through his perfectly formed body?" "No, World-Honored One, the Tathāgata should not be seen through his perfectly formed body. Why is this? The Tathāgata says a perfectly formed body is no perfectly formed body at all — that is why it is called a perfectly formed body."</p>
+        <p>"Subhūti, what do you think — can the Tathāgata be seen through his perfectly formed marks?" "No, World-Honored One, the Tathāgata should not be seen through his perfectly formed marks. Why is this? The Tathāgata says perfectly formed marks are no perfection at all — that is why they are called perfectly formed marks."</p>
+        <div class="zh"><p>「須菩提！於意云何？佛可以具足色身見不？」「不也，世尊！如來不應以具足色身見。何以故？如來說：具足色身，即非具足色身，是名具足色身。」</p><p>「須菩提！於意云何？如來可以具足諸相見不？」「不也，世尊！如來不應以具足諸相見。何以故？如來說：諸相具足，即非具足。是名諸相具足。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-self-and-unity.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The question from section 5 returns for the third time. Body, then marks; twice in one section; the formula run out in full each time. By now the repetition should feel less like padding and more like what it is — the sūtra applying pressure at the same point until something gives.</p>
+
+      <div class="dm-take" data-rv>
+        <b class="h">What Session 5 establishes</b>
+        <ul>
+          <li><b>The question returns unchanged</b> — and the reader's not having moved is the design, not a defect.</li>
+          <li><b>The prediction was possible <em>because</em> nothing was fixed.</b> Only where nothing is fixed can anyone become anything.</li>
+          <li><b>Five eyes affirmed in a row</b>, starting with the ordinary physical one. This is not denial for its own sake.</li>
+          <li><b>The three minds cannot be grasped</b> — a question that stops the thing about to answer it, rather than a claim to be filed.</li>
+          <li><b>Every mind is known <em>because</em> minds are no minds.</b> Ungraspability grounds the knowing rather than limiting it.</li>
+          <li><b>Substance would be the limitation.</b> If merit had a fixed nature, it could not be called great.</li>
+        </ul>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="dm-part" data-rv><div class="pn">Part 4</div><h2>One practice<span class="rf">The old woman's question</span></h2></div>
+
+      <div class="dm-prac" data-rv>
+        <b class="h">With which mind?</b>
+        <p>Section 18's line is the one passage in this sūtra that is more useful as an interruption than as a subject of study, and the rice-cake seller understood how to use it.</p>
+        <div class="how">
+          Pick one recurring moment tomorrow — reaching for the phone, the first sip of something hot, sitting down at your desk, opening a door. Choose one and only one.<br><br>
+          Each time it happens, ask, without hurrying to an answer: <strong>with which mind am I doing this?</strong> Past, present, future — and find that each of the three, looked for, is not there to be found. The past one is gone. The future one has not arrived. The present one will not hold still long enough to be inspected.<br><br>
+          Then continue doing the thing. Do not wait for a resolution.
+        </div>
+        <p>What the exercise is for is not insight into time. It is the very short gap between the question and the resumption — the moment in which something that was running was not running. The sūtra makes no claim about that gap, and neither should you; but it is the only thing here that can actually be observed rather than considered.</p>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dm-part" data-rv><div class="pn">Part 5</div><h2>A note on the repetition<span class="rf">Why the second half looks like the first</span></h2></div>
+
+      <p data-rv>From section 17 onwards, a reader keeping track will notice that the sūtra is covering ground it has covered. The bodhisattva vow, Dīpaṃkara, the thirty-two marks, the merit comparison, the four notions — all of them have appeared before, several of them twice.</p>
+
+      <p data-rv>Scholars have long read this as evidence that the text grew in layers, and it may well have. But the repetitions are not identical, and the differences are the interesting part. Section 3 stated the vow; section 17 states it and then explains why the prediction was possible. Section 5 asked about bodily marks and gave two steps of the formula; section 13 gave three; section 20 runs it twice in one section, on the body and on the marks separately.</p>
+
+      <p data-rv>The pattern is a spiral rather than a circle. Each return is at a slightly different depth, and the text assumes you will notice the difference rather than the sameness. That is also why reading four sections a week works better than reading the whole thing in an hour: the spiral is only visible if you are far enough along to remember where you were.</p>
+
+      <!-- PART 6 -->
+      <div class="dm-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="dm-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Why does Subhūti's question return unchanged in section 17?</div>
+          <button class="opt"><span class="ltr">A</span>Because he has forgotten the earlier answer</button>
+          <button class="opt"><span class="ltr">B</span>Because the first answer was provisional and is now replaced</button>
+          <button class="opt"><span class="ltr">C</span>Because a scribe duplicated the passage in error</button>
+          <button class="opt"><span class="ltr">D</span>Because the sūtra returns you to the same place repeatedly until the place is different — what changes is what you can hear in the answer</button>
+          <div class="expl"><strong>Correct: D.</strong> Not a text that builds toward a conclusion you did not have at the start.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Why could Dīpaṃkara give the prediction?</div>
+          <button class="opt"><span class="ltr">A</span>Because the future Buddha had already attained the teaching in an earlier life</button>
+          <button class="opt"><span class="ltr">B</span>Precisely because there was no fixed teaching to attain — a fixed thing already fixed is not something anyone becomes</button>
+          <button class="opt"><span class="ltr">C</span>Because predictions are conventional and carry no ultimate weight</button>
+          <button class="opt"><span class="ltr">D</span>Because Dīpaṃkara could see the future directly</button>
+          <div class="expl"><strong>Correct: B.</strong> The same inversion Madhyamaka reaches in its chapter on the four truths: only what is empty can change.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is notable about the five eyes passage?</div>
+          <button class="opt"><span class="ltr">A</span>It is five straight affirmations, beginning with the ordinary physical eye — a sūtra full of denials affirming without qualification</button>
+          <button class="opt"><span class="ltr">B</span>It denies that the Buddha has any eye at all</button>
+          <button class="opt"><span class="ltr">C</span>It ranks the eyes from lowest to highest and discards the first four</button>
+          <button class="opt"><span class="ltr">D</span>It is the only passage Subhūti answers incorrectly</button>
+          <div class="expl"><strong>Correct: A.</strong> Whatever this text is doing, it is not denial for its own sake.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the logical order in "the Tathāgata knows every mind… because minds are no minds"?</div>
+          <button class="opt"><span class="ltr">A</span>The knowing is limited by the ungraspability of minds</button>
+          <button class="opt"><span class="ltr">B</span>The two claims are unrelated and simply adjacent</button>
+          <button class="opt"><span class="ltr">C</span>The ungraspability grounds the knowing — what cannot be grasped as an object is not separate enough to be missed</button>
+          <button class="opt"><span class="ltr">D</span>Only a buddha's mind can be grasped; others cannot</button>
+          <div class="expl"><strong>Correct: C.</strong> The knowing is not compromised by the ungraspability; it rests on it.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does section 19 say about merit?</div>
+          <button class="opt"><span class="ltr">A</span>That merit is a fiction and should be disregarded</button>
+          <button class="opt"><span class="ltr">B</span>That if merit had a substantial nature the Buddha could not call it great — substance would be the limitation</button>
+          <button class="opt"><span class="ltr">C</span>That merit is great only when dedicated to others</button>
+          <button class="opt"><span class="ltr">D</span>That merit accrues only to those who uphold this sūtra</button>
+          <div class="expl"><strong>Correct: B.</strong> Greatness is possible only where nothing is fixed — the clearest statement of a point the course has now met three times.</div>
+        </div>
+
+        <div class="dm-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="dm-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>You are sixteen sections further on than when this question was first asked. What has changed?</p>
+        <p class="sm">The sūtra's design assumes the honest answer may be <em>nothing yet</em>, and does not treat that as failure. It asks the question again anyway, and will ask it in other words twelve more times before section 32.</p>
+      </div>
+
+      <div class="dm-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 6 · Sections 21–24</h3>
+        <p>The Buddha says that anyone who claims he has taught anything is slandering him; that there is nothing whatsoever to attain, not even the least thing; and that the practice is level ground — no high and no low.</p>
+      </div>
+
+      <div class="dm-foot" data-rv>
+        <a class="dm-btn ghost" href="{{ '/courses/diamond-sutra/session-4/' | relative_url }}">← Session 4</a>
+        <a class="dm-btn primary" href="{{ '/courses/diamond-sutra/session-6/' | relative_url }}">Session 6 · Sections 21–24 →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.dm [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.dm-quiz .q').length;
+  document.querySelectorAll('.dm-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

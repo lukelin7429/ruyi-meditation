@@ -1,0 +1,437 @@
+---
+layout: default
+title: "Session 4 · The sutra names itself, and Subhuti weeps (The Diamond Sutra)"
+permalink: /courses/diamond-sutra/session-4/
+excerpt: "Session 4 of The Diamond Sutra — sections 13 to 16. The text names itself and unnames itself in one breath, and then the only place where anyone in it cries."
+---
+
+<style>
+  .dm{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .dm *{box-sizing:border-box;}
+  .dm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dm [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dm [data-rv].in{opacity:1;transform:none;}
+
+  .dm-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dm-crumb .dm-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dm-crumb a{color:var(--base);text-decoration:none;}
+  .dm-crumb a:hover{text-decoration:underline;}
+
+  .dm-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,189,106,.24),transparent 62%),
+    linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);color:#fff;}
+  .dm-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dm-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .dm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dm-hero .subt{font-style:italic;font-size:18px;color:#dcd9ea;}
+  .dm-hero .rd{margin-top:24px;font-size:14px;color:#b6b3c9;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dm-hero .rd b{color:var(--acc);}
+
+  .dm-body{background:#fff;padding:44px 0 24px;}
+  .dm-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dm-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dm-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .dm-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dm-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dm-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dm-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f1ea);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dm-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .dm-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .dm-scr p:last-of-type{margin-bottom:0;}
+  .dm-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6e6a55;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.85;}
+  .dm-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .dm-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dm-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dm-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dm-terms span b{color:var(--base);}
+
+  .dm-take{background:linear-gradient(180deg,#fdfbf8,#efece2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dm-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .dm-take ul{margin:0;padding-left:20px;}
+  .dm-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dm-take li b{color:var(--acc-deep);}
+
+  .dm-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dm-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dm-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dm-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dm-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dm-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dm-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dm-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .dm-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dm-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dm-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dm-prac p:last-child{margin-bottom:0;}
+  .dm-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .dm-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dm-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dm-quiz .q:first-of-type{padding-top:2px;}
+  .dm-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dm-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .dm-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dm-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dm-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .dm-quiz .opt:hover:not(:disabled){background:#f4f1e8;border-color:var(--base);}
+  .dm-quiz .opt:disabled{cursor:default;}
+  .dm-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dm-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dm-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dm-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dm-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .dm-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .dm-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dm-quiz .expl.show{display:block;}
+  .dm-quiz .expl strong{color:var(--ink);}
+  .dm-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dm-score strong{color:var(--base);font-size:17px;}
+
+  .dm-reflect{background:linear-gradient(158deg,#2f4468 0%,#1a2842 48%,#080d18 100%);color:#ddd9ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dm-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .dm-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dm-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b6b3c9;line-height:1.7;margin-top:14px;}
+
+  .dm-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dm-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .dm-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dm-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dm-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dm-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dm-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .dm-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .dm-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .dm-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dm .dm-crumb,.dm-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dm [data-rv]{opacity:1 !important;transform:none !important;}
+    .dm-hero{background:none;color:#000;padding:0;}
+    .dm-hero-in{padding:0 0 12px;}
+    .dm-eyebrow,.dm-hero .subt,.dm-hero .rd{color:#444;}
+    .dm-hero h1{color:#000;}
+    .dm-body{padding:0;}
+    .dm-body p,.dm-body h3,.dm-part h2,.dm-take li,.dm-prac p{color:#000;}
+    .dm-scr,.dm-take,.dm-prac,.dm-quiz,.dm-next{background:#fff !important;border:1px solid #bbb;}
+    .dm-scr p{color:#000;}
+    .dm-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-reflect p,.dm-reflect .l,.dm-reflect p.sm{color:#000;}
+    .dm-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-textcard h3,.dm-textcard p,.dm-textcard .go,.dm-textcard .trad{color:#000;}
+    .dm{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Diamond Sutra: course-specific components --- */
+
+  /* one of the thirty-two sections, quoted whole */
+  .dm-sec{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 13px 13px;
+    background:linear-gradient(180deg,#fdfcf9,#f3f1ea);padding:24px 28px 22px;margin:26px 0;}
+  .dm-sec .hd{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:14px;}
+  .dm-sec .num{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    font-weight:800;color:var(--acc-deep);}
+  .dm-sec .ttl{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .dm-sec .zhn{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14px;
+    color:var(--ink-soft);margin-left:auto;}
+  .dm-sec p{font-size:17px;line-height:1.74;color:var(--ink);margin:0 0 12px;}
+  .dm-sec p:last-of-type{margin-bottom:0;}
+  .dm-sec .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;
+    color:var(--zh,#6e6a55);margin-top:15px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.95;}
+  .dm-sec .zh p{font-family:inherit;font-size:15.5px;color:#6e6a55;line-height:1.95;margin:0 0 6px;}
+  .dm-sec a.bk{display:inline-block;margin-top:13px;font-size:13px;color:var(--base);text-decoration:none;
+    border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-sec a.bk:hover{border-bottom-color:var(--base);}
+
+  /* Taixu's 1927 lecture notes, quoted as commentary and labelled as such */
+  .dm-taixu{border-left:4px solid var(--acc-deep);background:linear-gradient(180deg,#fbf9f2,#f4f0e2);
+    border-radius:0 13px 13px 0;padding:22px 26px;margin:24px 0;}
+  .dm-taixu .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:9px;}
+  .dm-taixu p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 11px;}
+  .dm-taixu p:last-child{margin-bottom:0;}
+  .dm-taixu a.bk{display:inline-block;margin-top:11px;font-size:13px;color:var(--acc-deep);text-decoration:none;
+    border-bottom:1px solid rgba(138,106,31,.45);}
+
+  /* the is-not / is-called formula, shown as a shape */
+  .dm-formula{display:grid;grid-template-columns:1fr;gap:10px;margin:24px 0;}
+  @media(min-width:660px){.dm-formula{grid-template-columns:repeat(3,1fr);}}
+  .dm-formula .step{border:1px solid var(--line);border-radius:12px;padding:15px 18px;background:var(--cream);text-align:center;}
+  .dm-formula .step .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:19px;color:var(--acc-deep);font-weight:600;}
+  .dm-formula .step b{display:block;font-family:'Playfair Display',serif;font-size:16px;color:var(--ink);margin:5px 0 4px;}
+  .dm-formula .step span{display:block;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+</style>
+
+<div class="dm">
+
+  <nav class="dm-crumb"><div class="dm-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/diamond-sutra/' | relative_url }">The Diamond Sūtra</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="dm-hero">
+    <div class="dm-hero-in">
+      <div class="dm-eyebrow">Session 4 · Sections 13–16</div>
+      <h1>The sūtra names itself, and Subhūti weeps</h1>
+      <div class="subt">A title that undoes itself, and a body cut apart without anger</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–3</span>
+        <span><b>The text</b> Diamond Sūtra, sections 13–16</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dm-body">
+    <div class="dm-wrap">
+
+      <!-- PART 1 -->
+      <div class="dm-part" data-rv><div class="pn">Part 1</div><h2>Section 13<span class="rf">A title, and its immediate withdrawal</span></h2></div>
+
+      <p data-rv>Halfway through, Subhūti asks a practical question — what is this called, and how are we to carry it? — and the answer is the sūtra's most compressed self-description.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 13</span><span class="ttl">Upholding It As Taught</span><span class="zhn">如法受持分</span></div>
+        <p>At that time Subhūti said to the Buddha: "World-Honored One, what should this sūtra be called? How should we hold and carry it?" The Buddha told Subhūti: "This sūtra is named the Diamond Perfection of Wisdom. By this name you should hold and carry it. Why is that? Subhūti, what the Buddha calls the Perfection of Wisdom is no Perfection of Wisdom — that is why it is called the Perfection of Wisdom.</p>
+        <div class="zh"><p>爾時，須菩提白佛言：「世尊！當何名此經？我等云何奉持？」佛告須菩提：「是經名為金剛般若波羅蜜，以是名字，汝當奉持。所以者何？須菩提！佛說般若波羅蜜，即非般若波羅蜜。是名般若波羅蜜。</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read this section in its place — Diamond Sūtra, sections 13–16 →</a>
+      </div>
+
+      <p data-rv>The title is given and taken back in one breath, and both halves of the instruction stand: <em>by this name you should hold and carry it</em>, and <em>what the Buddha calls the Perfection of Wisdom is no Perfection of Wisdom</em>.</p>
+
+      <p data-rv>This is the third step of the formula doing something no other instance of it does: applying to the text you are currently reading. The sūtra names itself, un-names itself, and tells you to go on using the name anyway. If you can hold both of those at once you have understood the formula; if one of them has to go, you have not.</p>
+
+      <p data-rv>The section then returns to the thirty-two marks from section 5, this time with the full formula attached — <em>the thirty-two marks are no marks at all, that is why they are called the thirty-two marks</em>. Section 5 gave the first two steps; section 13 supplies the third. The sūtra is repeating itself on purpose, and each repetition adds one turn.</p>
+
+      <!-- PART 2 -->
+      <div class="dm-part" data-rv><div class="pn">Part 2</div><h2>Section 14<span class="rf">The one place in the sūtra where somebody cries</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 14</span><span class="ttl">Beyond All Marks, Utter Stillness</span><span class="zhn">離相寂滅分</span></div>
+        <p>At that time, hearing this sūtra taught, Subhūti understood its meaning deeply, and, weeping, said to the Buddha: "How rare, World-Honored One! Since I first gained the eye of wisdom, I have never before heard a sūtra as profound as this. World-Honored One, if someone hears this sūtra with a pure and believing mind, true reality will arise in them, and know that this person accomplishes the rarest merit."</p>
+        <div class="zh"><p>爾時，須菩提聞說是經，深解義趣，涕淚悲泣，而白佛言：「希有世尊！佛說如是甚深經典，我從昔來所得慧眼，未曾得聞如是之經。世尊！若復有人，得聞是經，信心清淨，則生實相，當知是人，成就第一希有功德。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>涕淚悲泣 — weeping. It is the only moment of visible emotion in the whole text, and it belongs to the disciple foremost in understanding emptiness, who has been calmly supplying the right answers for twelve sections.</p>
+
+      <p data-rv>Worth sitting with, because it complicates a reading the sūtra otherwise invites. Nothing here is cold. The man who best understands this material, on hearing it stated fully, does not nod. He cries — and says that in a very long life of insight he has never heard anything like it.</p>
+
+      <p data-rv>His phrase for what happens to a person who hears it with a pure and believing mind is 生實相, <em>true reality will arise in them</em>. Not: they will understand a doctrine.</p>
+
+      <!-- PART 3 -->
+      <div class="dm-part" data-rv><div class="pn">Part 3</div><h2>King Kalī<span class="rf">Why the story is told, and why it is not told to impress</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 14</span><span class="ttl">continued — the sage of patience</span><span class="zhn">離相寂滅分</span></div>
+        <p>"Why is this? Subhūti, long ago when <strong>King Kalī</strong> cut my body limb from limb, I held no notion of a self, no notion of a person, no notion of a being, no notion of a lifespan. Why do I say this? Because if, as my limbs were cut away piece by piece, I had held the notion of a self, a person, a being, a lifespan, I would surely have given rise to anger and resentment. Subhūti, I also recall that in ages past, for five hundred lives, I was a sage who practiced patience — and through all those lives I held no notion of a self, a person, a being, a lifespan."</p>
+        <div class="zh"><p>「何以故？須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。何以故？我於往昔，節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。須菩提！又念過去，於五百世，作忍辱仙人，於爾所世，無我相、無人相、無眾生相、無壽者相。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The story is old and was well known to the sūtra's first hearers: in a former life, the future Buddha was a sage practising patience; a king, enraged, dismembered him; he felt no anger.</p>
+
+      <p data-rv>What matters is the <em>direction of the reasoning</em>, and it is easy to get backwards. The passage is not saying: he was so patient that he did not get angry. It says the opposite. <strong>Because there was no notion of a self there, anger had nothing to arise around.</strong> The absence of the four notions is the cause; the absence of anger is the consequence.</p>
+
+      <div class="dm-pull" data-rv>Not patience heroically maintained. No one there for the injury to be an injury to.</div>
+
+      <p data-rv>This is why the story sits here and not in a collection of edifying tales. It is offered as <em>evidence</em> — the sūtra's claim is that the four notions are not merely a philosophical error but the thing that converts an event into an outrage, and this is the most extreme available test case. The limbs are cut either way. What changes is whether there is a someone for it to be happening to.</p>
+
+      <p data-rv>And then the second sentence, which quietly rescales the first: five hundred lives as a sage of patience. The dismemberment was not a single heroic performance. It was the outcome of something practised for an unimaginably long time. The sūtra is not suggesting a reader could do this tomorrow.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"On King Kalī's cruelty, Taixu adds a detail easy to miss on a fast read: in that past life as the patient sage, endlessly wronged, the bodhisattva held not only no anger but made a private vow toward his tormentor — "when I attain the path, I will be the first to liberate you." The absence of resentment was never numbness; it was patience with nowhere left for anger to grab hold, because there was no fixed self left standing behind the pain to defend."</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="dm-part" data-rv><div class="pn">Part 4</div><h2>Sections 15 and 16<span class="rf">Bodies given away, and being treated with contempt</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 15</span><span class="ttl">The Merit of Upholding This Sūtra</span><span class="zhn">持經功德分</span></div>
+        <p>"Subhūti, if a good son or good daughter gave up as many bodies as there are grains of sand in the Ganges in the morning, gave up as many bodies again at midday, and gave up as many bodies again in the evening, and kept giving up bodies like this for countless hundreds of thousands of millions of aeons; and if someone else, on hearing this sūtra, believed it without resistance — this person's merit would surpass the first, how much more so one who copies it, upholds it, recites it, and explains it to others."</p>
+        <div class="zh"><p>「須菩提！若有善男子、善女人，初日分以恆河沙等身布施，中日分復以恆河沙等身布施，後日分亦以恆河沙等身布施，如是無量百千萬億劫，以身布施；若復有人，聞此經典，信心不逆，其福勝彼，何況書寫、受持、讀誦、為人解說。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The comparison has escalated from treasure to bodies, but the logic is the one Session 3 identified: everything on the first side is countable, however vast. And note the modesty of what is asked on the other side — not understanding, not realisation. 信心不逆, <em>believed it without resistance</em>. Merely not flinching away from it.</p>
+
+      <p data-rv>Then section 16, which is the strangest passage in the sūtra and the most practically useful.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 16</span><span class="ttl">Purifying Karmic Obstruction</span><span class="zhn">能淨業障分</span></div>
+        <p>"Furthermore, Subhūti, if a good son or good daughter upholds and recites this sūtra and is treated with contempt, that is because of wrongdoing from a former life which should have brought them down into a lower realm; but because they are treated with contempt in this present life, the wrongdoing of that former life is thereby dissolved, and they will attain unsurpassed, perfect, complete awakening."</p>
+        <div class="zh"><p>「復次，須菩提！善男子、善女人，受持讀誦此經，若為人輕賤，是人先世罪業，應墮惡道，以今世人輕賤故，先世罪業則為消滅，當得阿耨多羅三藐三菩提。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/upholding-the-text.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>This is the sūtra at its most concrete, and it is addressed to an experience its readers evidently had: you take this teaching seriously, and people think less of you for it.</p>
+
+      <p data-rv>It is worth being careful here, because the passage can be read badly. It is not a licence to interpret every slight as spiritual progress, and it is certainly not a reason to seek contempt. What it says is narrower: that being thought little of, by someone upholding this text, is not evidence that the practice has failed. The passage reframes a specific experience that would otherwise be read as failure.</p>
+
+      <p data-rv>And there is a structural reason it belongs immediately after King Kalī. The previous section described the most extreme injury imaginable and located the whole question in whether there was a self for it to be an injury to. This section takes the smallest, most ordinary injury — someone thinking less of you — and puts it in the same frame. The scale is incomparable; the analysis is identical.</p>
+
+      <div class="dm-take" data-rv>
+        <b class="h">What Session 4 establishes</b>
+        <ul>
+          <li><b>The formula applies to the text itself.</b> Named, un-named, and to be carried by that name anyway.</li>
+          <li><b>Repetition adds a turn.</b> Section 5 gave two steps of the thirty-two marks; section 13 supplies the third.</li>
+          <li><b>Subhūti weeps</b> — the only visible emotion in the sūtra, from the disciple who understands it best.</li>
+          <li><b>King Kalī runs the reasoning forwards, not backwards.</b> No self, therefore no anger — not heroic patience.</li>
+          <li><b>Five hundred lives.</b> The sūtra rescales its own example rather than presenting it as reachable.</li>
+          <li><b>Contempt is reframed, not sought.</b> Being thought little of is not evidence that the practice has failed.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dm-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">The smallest version of King Kalī</span></h2></div>
+
+      <div class="dm-prac" data-rv>
+        <b class="h">Who is it happening to?</b>
+        <p>Sections 14 and 16 apply one analysis at two scales. The extreme end is not available to anyone reading this. The ordinary end is available constantly.</p>
+        <div class="how">
+          For one week, watch for the small slight: being talked over, being corrected publicly, being left off something, someone's tone.<br><br>
+          When one lands, do not manage it and do not reframe it. Ask one question, and ask it about the <em>sting</em> rather than about the person: <strong>what is this happening to?</strong> Look for the thing being damaged. A standing, a picture, a position.<br><br>
+          Then notice whether the event and the sting are separable — whether the words said to you and the injury they constituted are in fact the same item.
+        </div>
+        <p>Do not expect the sting to go. Section 14's whole point is that it goes only where the four notions have already gone, and section 14 puts that after five hundred lives of practice. What is available now is smaller and still worth having: seeing that the event and the injury are two things and not one.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dm-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="dm-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What is unusual about the sūtra naming itself in section 13?</div>
+          <button class="opt"><span class="ltr">A</span>That it gives itself two different names</button>
+          <button class="opt"><span class="ltr">B</span>That it refuses to be named at all</button>
+          <button class="opt"><span class="ltr">C</span>That it gives the name, withdraws it, and tells you to carry it by that name anyway — the formula applied to the text you are reading</button>
+          <button class="opt"><span class="ltr">D</span>That the name was added by a later editor</button>
+          <div class="expl"><strong>Correct: C.</strong> If one of the two halves has to go, the formula has not been understood.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is notable about Subhūti weeping?</div>
+          <button class="opt"><span class="ltr">A</span>It is the only visible emotion in the sūtra, and it comes from the disciple who understands emptiness best</button>
+          <button class="opt"><span class="ltr">B</span>It shows that he has not yet understood the teaching</button>
+          <button class="opt"><span class="ltr">C</span>It is a conventional gesture required of a questioner</button>
+          <button class="opt"><span class="ltr">D</span>It marks the end of the sūtra's first half</button>
+          <div class="expl"><strong>Correct: A.</strong> Nothing here is cold — which complicates a reading the text otherwise invites.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Which way does the reasoning run in the King Kalī passage?</div>
+          <button class="opt"><span class="ltr">A</span>He was patient, and therefore held no notion of a self</button>
+          <button class="opt"><span class="ltr">B</span>He suppressed his anger through meditative concentration</button>
+          <button class="opt"><span class="ltr">C</span>The pain was unreal, so there was nothing to be angry about</button>
+          <button class="opt"><span class="ltr">D</span>There was no notion of a self, and therefore anger had nothing to arise around</button>
+          <div class="expl"><strong>Correct: D.</strong> The absence of the four notions is the cause; the absence of anger is the consequence. And note the pain is not denied.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does section 15 ask of the person whose merit surpasses the giver of bodies?</div>
+          <button class="opt"><span class="ltr">A</span>Full realisation of the sūtra's meaning</button>
+          <button class="opt"><span class="ltr">B</span>Only that they believe it without resistance — not flinching away from it</button>
+          <button class="opt"><span class="ltr">C</span>That they copy it out a thousand times</button>
+          <button class="opt"><span class="ltr">D</span>That they take monastic ordination</button>
+          <div class="expl"><strong>Correct: B.</strong> 信心不逆 — strikingly modest, given what it is being compared to.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">How should section 16 on contempt be read?</div>
+          <button class="opt"><span class="ltr">A</span>As encouragement to seek out humiliation deliberately</button>
+          <button class="opt"><span class="ltr">B</span>As a guarantee that practitioners will be persecuted</button>
+          <button class="opt"><span class="ltr">C</span>As a narrow reframing — being thought little of is not evidence that the practice has failed, and it sits beside King Kalī as the same analysis at the smallest scale</button>
+          <button class="opt"><span class="ltr">D</span>As a promise that enemies will be punished in a future life</button>
+          <div class="expl"><strong>Correct: C.</strong> Not a licence to read every slight as progress. The scale is incomparable; the analysis is identical.</div>
+        </div>
+
+        <div class="dm-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="dm-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>The last time something stung, what exactly was damaged?</p>
+        <p class="sm">Section 14 claims that when you look carefully the answer is always a notion rather than a person, and that where the notion is absent no damage occurs. It also says this took five hundred lives. Both halves are the sūtra's, and leaving out either one misrepresents it.</p>
+      </div>
+
+      <div class="dm-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · Sections 17–20</h3>
+        <p>The sūtra returns to Subhūti's opening question and answers it a second time, differently. Then the Buddha's five eyes, every mind in every world known at once, and a statement about past, present and future mind that Chan would not stop quoting for a thousand years.</p>
+      </div>
+
+      <div class="dm-foot" data-rv>
+        <a class="dm-btn ghost" href="{{ '/courses/diamond-sutra/session-3/' | relative_url }}">← Session 3</a>
+        <a class="dm-btn primary" href="{{ '/courses/diamond-sutra/session-5/' | relative_url }}">Session 5 · Sections 17–20 →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.dm [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.dm-quiz .q').length;
+  document.querySelectorAll('.dm-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

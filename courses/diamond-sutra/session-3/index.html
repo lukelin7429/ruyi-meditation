@@ -1,0 +1,444 @@
+---
+layout: default
+title: "Session 3 · A mind that dwells nowhere (The Diamond Sutra)"
+permalink: /courses/diamond-sutra/session-3/
+excerpt: "Session 3 of The Diamond Sutra — sections 9 to 12. The four fruits held by people who do not think they hold them, and the line that woke Huineng."
+---
+
+<style>
+  .dm{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .dm *{box-sizing:border-box;}
+  .dm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dm [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dm [data-rv].in{opacity:1;transform:none;}
+
+  .dm-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dm-crumb .dm-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dm-crumb a{color:var(--base);text-decoration:none;}
+  .dm-crumb a:hover{text-decoration:underline;}
+
+  .dm-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,189,106,.24),transparent 62%),
+    linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);color:#fff;}
+  .dm-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dm-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .dm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dm-hero .subt{font-style:italic;font-size:18px;color:#dcd9ea;}
+  .dm-hero .rd{margin-top:24px;font-size:14px;color:#b6b3c9;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dm-hero .rd b{color:var(--acc);}
+
+  .dm-body{background:#fff;padding:44px 0 24px;}
+  .dm-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dm-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dm-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .dm-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dm-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dm-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dm-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f1ea);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dm-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .dm-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .dm-scr p:last-of-type{margin-bottom:0;}
+  .dm-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6e6a55;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.85;}
+  .dm-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .dm-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dm-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dm-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dm-terms span b{color:var(--base);}
+
+  .dm-take{background:linear-gradient(180deg,#fdfbf8,#efece2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dm-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .dm-take ul{margin:0;padding-left:20px;}
+  .dm-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dm-take li b{color:var(--acc-deep);}
+
+  .dm-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dm-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dm-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dm-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dm-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dm-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dm-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dm-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .dm-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dm-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dm-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dm-prac p:last-child{margin-bottom:0;}
+  .dm-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .dm-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dm-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dm-quiz .q:first-of-type{padding-top:2px;}
+  .dm-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dm-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .dm-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dm-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dm-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .dm-quiz .opt:hover:not(:disabled){background:#f4f1e8;border-color:var(--base);}
+  .dm-quiz .opt:disabled{cursor:default;}
+  .dm-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dm-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dm-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dm-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dm-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .dm-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .dm-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dm-quiz .expl.show{display:block;}
+  .dm-quiz .expl strong{color:var(--ink);}
+  .dm-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dm-score strong{color:var(--base);font-size:17px;}
+
+  .dm-reflect{background:linear-gradient(158deg,#2f4468 0%,#1a2842 48%,#080d18 100%);color:#ddd9ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dm-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .dm-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dm-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b6b3c9;line-height:1.7;margin-top:14px;}
+
+  .dm-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dm-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .dm-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dm-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dm-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dm-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dm-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .dm-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .dm-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .dm-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dm .dm-crumb,.dm-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dm [data-rv]{opacity:1 !important;transform:none !important;}
+    .dm-hero{background:none;color:#000;padding:0;}
+    .dm-hero-in{padding:0 0 12px;}
+    .dm-eyebrow,.dm-hero .subt,.dm-hero .rd{color:#444;}
+    .dm-hero h1{color:#000;}
+    .dm-body{padding:0;}
+    .dm-body p,.dm-body h3,.dm-part h2,.dm-take li,.dm-prac p{color:#000;}
+    .dm-scr,.dm-take,.dm-prac,.dm-quiz,.dm-next{background:#fff !important;border:1px solid #bbb;}
+    .dm-scr p{color:#000;}
+    .dm-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-reflect p,.dm-reflect .l,.dm-reflect p.sm{color:#000;}
+    .dm-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-textcard h3,.dm-textcard p,.dm-textcard .go,.dm-textcard .trad{color:#000;}
+    .dm{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Diamond Sutra: course-specific components --- */
+
+  /* one of the thirty-two sections, quoted whole */
+  .dm-sec{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 13px 13px;
+    background:linear-gradient(180deg,#fdfcf9,#f3f1ea);padding:24px 28px 22px;margin:26px 0;}
+  .dm-sec .hd{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:14px;}
+  .dm-sec .num{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    font-weight:800;color:var(--acc-deep);}
+  .dm-sec .ttl{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .dm-sec .zhn{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14px;
+    color:var(--ink-soft);margin-left:auto;}
+  .dm-sec p{font-size:17px;line-height:1.74;color:var(--ink);margin:0 0 12px;}
+  .dm-sec p:last-of-type{margin-bottom:0;}
+  .dm-sec .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;
+    color:var(--zh,#6e6a55);margin-top:15px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.95;}
+  .dm-sec .zh p{font-family:inherit;font-size:15.5px;color:#6e6a55;line-height:1.95;margin:0 0 6px;}
+  .dm-sec a.bk{display:inline-block;margin-top:13px;font-size:13px;color:var(--base);text-decoration:none;
+    border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-sec a.bk:hover{border-bottom-color:var(--base);}
+
+  /* Taixu's 1927 lecture notes, quoted as commentary and labelled as such */
+  .dm-taixu{border-left:4px solid var(--acc-deep);background:linear-gradient(180deg,#fbf9f2,#f4f0e2);
+    border-radius:0 13px 13px 0;padding:22px 26px;margin:24px 0;}
+  .dm-taixu .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:9px;}
+  .dm-taixu p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 11px;}
+  .dm-taixu p:last-child{margin-bottom:0;}
+  .dm-taixu a.bk{display:inline-block;margin-top:11px;font-size:13px;color:var(--acc-deep);text-decoration:none;
+    border-bottom:1px solid rgba(138,106,31,.45);}
+
+  /* the is-not / is-called formula, shown as a shape */
+  .dm-formula{display:grid;grid-template-columns:1fr;gap:10px;margin:24px 0;}
+  @media(min-width:660px){.dm-formula{grid-template-columns:repeat(3,1fr);}}
+  .dm-formula .step{border:1px solid var(--line);border-radius:12px;padding:15px 18px;background:var(--cream);text-align:center;}
+  .dm-formula .step .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:19px;color:var(--acc-deep);font-weight:600;}
+  .dm-formula .step b{display:block;font-family:'Playfair Display',serif;font-size:16px;color:var(--ink);margin:5px 0 4px;}
+  .dm-formula .step span{display:block;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+</style>
+
+<div class="dm">
+
+  <nav class="dm-crumb"><div class="dm-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/diamond-sutra/' | relative_url }">The Diamond Sūtra</a> → Session 3</div></nav>
+
+  <!-- HERO -->
+  <section class="dm-hero">
+    <div class="dm-hero-in">
+      <div class="dm-eyebrow">Session 3 · Sections 9–12</div>
+      <h1>A mind that dwells nowhere</h1>
+      <div class="subt">Four attainments nobody claims, and the sentence that woke Huineng</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–2</span>
+        <span><b>The text</b> Diamond Sūtra, sections 9–12</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dm-body">
+    <div class="dm-wrap">
+
+      <!-- PART 1 -->
+      <div class="dm-part" data-rv><div class="pn">Part 1</div><h2>Section 9<span class="rf">Four attainments, and nobody who has them</span></h2></div>
+
+      <p data-rv>Section 9 applies the formula to the four fruits of the path — stream-enterer, once-returner, non-returner, arhat — and it does so by asking, of each, whether the person could have the thought <em>I have attained this</em>.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 9</span><span class="ttl">One Mark Is No Mark</span><span class="zhn">一相無相分</span></div>
+        <p>"Subhūti, what do you think — can a stream-enterer have the thought, 'I have attained the fruit of stream-entry'?" Subhūti said: "No, World-Honored One. Why is this? 'Stream-enterer' means one who has entered the stream, yet there is nothing entered — not entering form, sound, smell, taste, touch, or mental object. That is why they are called a stream-enterer."</p>
+        <div class="zh"><p>「須菩提！於意云何？須陀洹能作是念：『我得須陀洹果』不？」須菩提言：「不也，世尊！何以故？須陀洹名為入流，而無所入；不入色、聲、香、味、觸、法，是名須陀洹。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read this section in its place — Diamond Sūtra, sections 9–12 →</a>
+      </div>
+
+      <p data-rv>The reasoning is a pun that happens to be true. "Stream-enterer" means <em>one who has entered</em>, and what such a person has actually done is <em>stop entering</em> — stopped being drawn into form, sound, smell, taste, touch, thought. The name describes an entering, and the reality is a not-entering. The formula again: entered the stream — nothing entered — that is why they are called a stream-enterer.</p>
+
+      <p data-rv>Then the section does something the sūtra rarely does. It stops speaking in the third person, and Subhūti testifies about himself.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 9</span><span class="ttl">continued — Subhūti's own case</span><span class="zhn">一相無相分</span></div>
+        <p>"World-Honored One, the Buddha has said that I have attained the state free of contention and am foremost among people — the foremost arhat free of desire. But World-Honored One, I do not have the thought, 'I am an arhat free of desire.' World-Honored One, if I had the thought, 'I have attained the path of arhatship,' the World-Honored One would not say that Subhūti is one who delights in the practice of stillness. It is only because Subhūti in truth practices nothing at all that he is called Subhūti, one who delights in the practice of stillness."</p>
+        <div class="zh"><p>「世尊！佛說我得無諍三昧，人中最為第一，是第一離欲阿羅漢。世尊！我不作是念：『我是離欲阿羅漢。』世尊！我若作是念：『我得阿羅漢道。』世尊則不說須菩提是樂阿蘭那行者。以須菩提實無所行，而名須菩提，是樂阿蘭那行。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>This is the strongest form the argument can take, because it is not hypothetical. Subhūti has the attainment; the Buddha has publicly said so; and Subhūti's point is that the moment he thought <em>I have it</em>, the Buddha would stop saying it.</p>
+
+      <p data-rv>And notice the reason he gives — 實無所行, <em>in truth practices nothing at all</em>. Not that he is modest about his practice. That there is no findable practising, and it is precisely on that ground that the title fits.</p>
+
+      <div class="dm-pull" data-rv>The claim and the attainment cannot both be present. Not because claiming is impolite — because claiming installs the one who claims.</div>
+
+      <!-- PART 2 -->
+      <div class="dm-part" data-rv><div class="pn">Part 2</div><h2>Section 10<span class="rf">Nothing received, and a land adorned by no adorning</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 10</span><span class="ttl">Adorning the Buddha-Land</span><span class="zhn">莊嚴淨土分</span></div>
+        <p>The Buddha told Subhūti: "What do you think — long ago, in the presence of Dīpaṃkara Buddha, did the Tathāgata attain anything in the teaching?" "No, World-Honored One. In the presence of Dīpaṃkara Buddha, the Tathāgata in truth attained nothing in the teaching." "Subhūti, what do you think — does a bodhisattva adorn a buddha-land?" "No, World-Honored One. Why is this? To adorn a buddha-land is no adorning at all — that is why it is called adorning."</p>
+        <div class="zh"><p>佛告須菩提：「於意云何？如來昔在燃燈佛所，於法有所得不？」「不也，世尊！如來在燃燈佛所，於法實無所得。」「須菩提！於意云何？菩薩莊嚴佛土不？」「不也，世尊！何以故？莊嚴佛土者，即非莊嚴，是名莊嚴。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>Dīpaṃkara is the buddha under whom, in the tradition, the future Śākyamuni received his prediction of awakening — the single most important transaction in his career across all his lives. And the sūtra says nothing was received.</p>
+
+      <p data-rv>The second question is aimed at something readers of Mahāyāna literature will recognise: the buddha-lands, described in other sūtras in extraordinary sensory detail — jewelled trees, lakes of the seven treasures, birds teaching the Dharma. Adorning one is a bodhisattva's classical work. Here the formula lands on it too, and if you have been following since section 8 you can hear the third step doing its job: <em>that is why it is called adorning</em>. The work is not cancelled. It is the naming that has been adjusted.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"What Dīpaṃkara spoke and what the future Buddha heard, Taixu answers, were both only language, with no fixed essence behind either; giving and receiving a prediction is itself just more of the "no giver, no gift" pattern already taught."</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <!-- PART 3 -->
+      <div class="dm-part" data-rv><div class="pn">Part 3</div><h2>The line that woke Huineng<span class="rf">Ten characters, in the middle of section 10</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 10</span><span class="ttl">continued — the pure mind</span><span class="zhn">莊嚴淨土分</span></div>
+        <p>"For this reason, Subhūti, all bodhisattva-mahāsattvas should give rise to a pure mind like this: they should not give rise to a mind dwelling on form, nor give rise to a mind dwelling on sound, smell, taste, touch, or mental object. <strong>They should give rise to a mind that dwells nowhere at all.</strong>" "Subhūti, suppose there were a person whose body was as great as Mount Sumeru, king of mountains — what do you think, would that body be large?" Subhūti said: "Very large, World-Honored One. Why is this? The Buddha speaks of no-body — that is why it is called a great body."</p>
+        <div class="zh"><p>「是故，須菩提！諸菩薩摩訶薩，應如是生清淨心，不應住色生心，不應住聲、香、味、觸、法生心，應無所住而生其心。」「須菩提！譬如有人，身如須彌山王，於意云何？是身為大不？」須菩提言：「甚大，世尊！何以故？佛說非身，是名大身。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>應無所住而生其心 — <em>they should give rise to a mind that dwells nowhere at all</em>.</p>
+
+      <p data-rv>This is the most consequential sentence in the history of Chinese Buddhism, and it is worth knowing why. In the traditional account, Huineng — an illiterate firewood seller — heard a stranger reciting this line in a marketplace, and that was the beginning of everything that became Chan. He later received the robe of the Sixth Patriarch after hearing the same line again. Whatever one makes of the account, the effect on the tradition is not in doubt: the Diamond Sūtra displaced the Laṅkāvatāra as Chan's central text, and it did so on the strength of these ten characters.</p>
+
+      <p data-rv>What makes it work is the second half. A great many teachings will tell you to let go, to stop clinging, to rest. This one says <em>give rise to</em> a mind — 生其心, actively produce it — that dwells nowhere. Not a blank mind and not a withdrawn one. A mind that arises, engages, does the day's work, and does not land.</p>
+
+      <p data-rv>Read against section 1, the shape of the course becomes visible. The Buddha dressing, begging in order, eating, washing his feet: that was a mind arising and not landing, shown before it was described. Nine sections later the sūtra puts it in words.</p>
+
+      <p data-rv>And then, immediately, Mount Sumeru — because the sūtra never lets a good line sit. A body the size of the world-mountain is large <em>because</em> the Buddha calls it no-body. The formula, applied to size itself.</p>
+
+      <!-- PART 4 -->
+      <div class="dm-part" data-rv><div class="pn">Part 4</div><h2>Sections 11 and 12<span class="rf">Sand, and why the text's location is a shrine</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 11</span><span class="ttl">The Merit of the Unconditioned Surpasses</span><span class="zhn">無為福勝分</span></div>
+        <p>"Subhūti, if there were as many Ganges Rivers as there are grains of sand in the Ganges, what do you think — would the grains of sand in all those Ganges Rivers be many?" Subhūti said: "Very many, World-Honored One. Just the Ganges Rivers themselves would be beyond counting, how much more so their grains of sand."</p>
+        <div class="zh"><p>「須菩提！如恆河中所有沙數，如是沙等恆河，於意云何？是諸恆河沙，寧為多不？」須菩提言：「甚多，世尊！但諸恆河，尚多無數，何況其沙。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The comparison that follows — fill that many universes with treasure and give it away, and four lines of this sūtra explained to someone else surpasses it — is the sūtra's most repeated device, and it can read as promotional. It is worth taking it as an argument instead.</p>
+
+      <p data-rv>Everything on the giving side of the comparison is <em>countable</em>. Enormous, unimaginable, and in principle finite: sand can be counted in principle, universes can be counted in principle, treasure can be weighed. What is on the other side is not a bigger quantity. It is the thing that has no fixed nature to be quantified, which section 8 already established is why such merit cannot be measured. The comparison is not <em>much</em> against <em>more</em>. It is measurable against unmeasurable, and no amount of the first reaches the second.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 12</span><span class="ttl">Honoring the True Teaching</span><span class="zhn">尊重正教分</span></div>
+        <p>"Furthermore, Subhūti, wherever this sūtra is spoken, even a single four-line verse of it, know that this place should be venerated by every being in every world — gods, humans, and asuras alike — as they would venerate a buddha's stūpa or shrine. How much more so where someone can uphold, recite, and fully embody it. Subhūti, know that such a person accomplishes the highest, foremost, rarest teaching. And wherever this sūtra is found, there the Buddha is present, honored among his disciples."</p>
+        <div class="zh"><p>「復次，須菩提！隨說是經，乃至四句偈等，當知此處，一切世間，天、人、阿修羅，皆應供養，如佛塔廟。何況有人，盡能受持讀誦。須菩提！當知是人成就最上第一希有之法，若是經典所在之處，即為有佛，若尊重弟子。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/no-fixed-attainment.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>A stūpa contains relics — the physical remains of a buddha, the most venerated objects in the early tradition. Section 12 says that any place where four lines of this text are spoken has the same standing.</p>
+
+      <p data-rv>Which is, on reflection, consistent with section 5 rather than a departure from it. If the Tathāgata cannot be seen by his bodily marks, then bodily remains are not where he is to be found either. <em>Wherever this sūtra is found, there the Buddha is present</em> — and by this sūtra's own logic, that is not a lesser presence than a relic. It is a more accurate one.</p>
+
+      <div class="dm-take" data-rv>
+        <b class="h">What Session 3 establishes</b>
+        <ul>
+          <li><b>"Stream-enterer" names an entering that is a not-entering</b> — and the four fruits each fail the same way.</li>
+          <li><b>Subhūti testifies about himself.</b> He has the attainment, and says that thinking so would end it.</li>
+          <li><b>Nothing was received from Dīpaṃkara</b> — not even the prediction of awakening.</li>
+          <li><b>A mind that dwells nowhere is <em>given rise to</em></b>, not merely rested in. Active, engaged, and not landing.</li>
+          <li><b>The merit comparison is measurable against unmeasurable</b>, not much against more.</li>
+          <li><b>Where the sūtra is, the Buddha is</b> — which follows from section 5 rather than departing from it.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dm-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Arising, and not landing</span></h2></div>
+
+      <div class="dm-prac" data-rv>
+        <b class="h">Give rise to a mind that dwells nowhere</b>
+        <p>The line that woke Huineng is an instruction, and it is not an instruction to meditate. Both halves have to be kept: a mind that <em>arises</em>, and a mind that does not <em>dwell</em>.</p>
+        <div class="how">
+          Choose one ordinary task tomorrow that takes twenty minutes and requires real attention — cooking something, writing an email that matters, repairing a thing, listening to a person.<br><br>
+          Do it at full engagement. Do not try to be detached; detachment is the wrong half. Care about doing it well.<br><br>
+          And watch for the <strong>landing</strong>: the moment the mind stops being with the task and comes to rest on something about it — how it is going, how you are doing, what it will mean, whether you are the sort of person who does this well. When you catch it, do not correct it. Return to the task, and note that the returning cost nothing.
+        </div>
+        <p>The failure mode worth naming: doing the task in a deliberately distant, half-present way and calling that non-dwelling. That is a mind that has not arisen. The sūtra asks for the harder thing — full engagement with nowhere to come to rest.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="dm-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="dm-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Why can a stream-enterer not think "I have attained stream-entry"?</div>
+          <button class="opt"><span class="ltr">A</span>Because the attainment is too subtle to be noticed</button>
+          <button class="opt"><span class="ltr">B</span>Because what "entering the stream" names is a <em>not</em>-entering — not being drawn into form, sound, smell, taste, touch or thought</button>
+          <button class="opt"><span class="ltr">C</span>Because the four fruits are conventional fictions with no reality</button>
+          <button class="opt"><span class="ltr">D</span>Because only a buddha can verify an attainment</button>
+          <div class="expl"><strong>Correct: B.</strong> The name describes an entering; the reality is a not-entering. The formula again.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What makes Subhūti's testimony the strongest form of the argument?</div>
+          <button class="opt"><span class="ltr">A</span>That he is the most learned of the disciples</button>
+          <button class="opt"><span class="ltr">B</span>That he speaks on the Buddha's behalf</button>
+          <button class="opt"><span class="ltr">C</span>That he denies having any attainment at all</button>
+          <button class="opt"><span class="ltr">D</span>That it is not hypothetical — he has the attainment, the Buddha has said so publicly, and he says the thought "I have it" would end it</button>
+          <div class="expl"><strong>Correct: D.</strong> And his reason is 實無所行 — in truth he practises nothing at all, which is precisely why the title fits.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is distinctive about "give rise to a mind that dwells nowhere"?</div>
+          <button class="opt"><span class="ltr">A</span>That it asks for a mind actively produced and fully engaged, not a blank or withdrawn one — both halves matter</button>
+          <button class="opt"><span class="ltr">B</span>That it describes a meditative absorption available only to monastics</button>
+          <button class="opt"><span class="ltr">C</span>That it instructs the practitioner to stop thinking</button>
+          <button class="opt"><span class="ltr">D</span>That it is the only instruction in the sūtra addressed to laypeople</button>
+          <div class="expl"><strong>Correct: A.</strong> A great many teachings say let go. This one says give rise to — and then says: and do not land.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the merit comparison in section 11 actually contrasting?</div>
+          <button class="opt"><span class="ltr">A</span>Material giving against spiritual giving</button>
+          <button class="opt"><span class="ltr">B</span>A smaller number against a much larger one</button>
+          <button class="opt"><span class="ltr">C</span>The measurable against the unmeasurable — sand, universes and treasure are all countable in principle, and no amount of them reaches what has no fixed nature to quantify</button>
+          <button class="opt"><span class="ltr">D</span>Lay practice against monastic practice</button>
+          <div class="expl"><strong>Correct: C.</strong> Which is why the device is an argument rather than promotion.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why is "wherever this sūtra is found, there the Buddha is" consistent with section 5?</div>
+          <button class="opt"><span class="ltr">A</span>Because the sūtra contains the Buddha's relics in written form</button>
+          <button class="opt"><span class="ltr">B</span>Because if the Tathāgata cannot be seen by bodily marks, bodily remains are not where he is found — so the text is not a lesser presence than a relic but a more accurate one</button>
+          <button class="opt"><span class="ltr">C</span>Because stūpas were later replaced by scriptures in Indian practice</button>
+          <button class="opt"><span class="ltr">D</span>Because the sūtra was spoken in the Buddha's own voice</button>
+          <div class="expl"><strong>Correct: B.</strong> Section 12 follows from section 5 rather than departing from it.</div>
+        </div>
+
+        <div class="dm-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="dm-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>What would you lose if you stopped keeping the account of how you are doing?</p>
+        <p class="sm">Subhūti's answer, and the sūtra's, is: only the account. The practice, the attainment and the title all survive the loss of the record. It is the record that cannot survive being kept.</p>
+      </div>
+
+      <div class="dm-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 4 · Sections 13–16</h3>
+        <p>The sūtra names itself, and immediately says the name is not the thing. Then the most personal passage in the text, where Subhūti weeps — and a story of a body cut apart limb by limb, told to make one point about marks.</p>
+      </div>
+
+      <div class="dm-foot" data-rv>
+        <a class="dm-btn ghost" href="{{ '/courses/diamond-sutra/session-2/' | relative_url }}">← Session 2</a>
+        <a class="dm-btn primary" href="{{ '/courses/diamond-sutra/session-4/' | relative_url }}">Session 4 · Sections 13–16 →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.dm [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.dm-quiz .q').length;
+  document.querySelectorAll('.dm-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

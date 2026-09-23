@@ -1,0 +1,442 @@
+---
+layout: default
+title: "Session 8 · A star, a bubble, a flash of lightning (The Diamond Sutra)"
+permalink: /courses/diamond-sutra/session-8/
+excerpt: "Session 8 of The Diamond Sutra — sections 29 to 32. Coming from nowhere and going nowhere, a universe ground into dust, and the verse the whole sutra sets itself down on."
+---
+
+<style>
+  .dm{--base:#2f4468;--mid:#1a2842;--deep:#080d18;--acc:#e0bd6a;--acc-deep:#8a6a1f;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f7f3;--ink:#1a1c22;--ink-soft:#5f6472;--line:#e6e4dc;}
+  .dm *{box-sizing:border-box;}
+  .dm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .dm [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .dm [data-rv].in{opacity:1;transform:none;}
+
+  .dm-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .dm-crumb .dm-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .dm-crumb a{color:var(--base);text-decoration:none;}
+  .dm-crumb a:hover{text-decoration:underline;}
+
+  .dm-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(224,189,106,.24),transparent 62%),
+    linear-gradient(158deg,#2f4468 0%,#1a2842 46%,#080d18 100%);color:#fff;}
+  .dm-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .dm-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .dm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .dm-hero .subt{font-style:italic;font-size:18px;color:#dcd9ea;}
+  .dm-hero .rd{margin-top:24px;font-size:14px;color:#b6b3c9;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .dm-hero .rd b{color:var(--acc);}
+
+  .dm-body{background:#fff;padding:44px 0 24px;}
+  .dm-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .dm-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .dm-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .dm-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .dm-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .dm-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .dm-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f1ea);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .dm-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .dm-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .dm-scr p:last-of-type{margin-bottom:0;}
+  .dm-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6e6a55;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.85;}
+  .dm-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .dm-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .dm-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .dm-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .dm-terms span b{color:var(--base);}
+
+  .dm-take{background:linear-gradient(180deg,#fdfbf8,#efece2);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .dm-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .dm-take ul{margin:0;padding-left:20px;}
+  .dm-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .dm-take li b{color:var(--acc-deep);}
+
+  .dm-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .dm-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .dm-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .dm-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .dm-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .dm-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dm-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .dm-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .dm-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .dm-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .dm-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .dm-prac p:last-child{margin-bottom:0;}
+  .dm-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .dm-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .dm-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .dm-quiz .q:first-of-type{padding-top:2px;}
+  .dm-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .dm-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .dm-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .dm-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .dm-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .dm-quiz .opt:hover:not(:disabled){background:#f4f1e8;border-color:var(--base);}
+  .dm-quiz .opt:disabled{cursor:default;}
+  .dm-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .dm-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .dm-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .dm-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .dm-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .dm-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .dm-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .dm-quiz .expl.show{display:block;}
+  .dm-quiz .expl strong{color:var(--ink);}
+  .dm-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .dm-score strong{color:var(--base);font-size:17px;}
+
+  .dm-reflect{background:linear-gradient(158deg,#2f4468 0%,#1a2842 48%,#080d18 100%);color:#ddd9ea;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .dm-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .dm-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .dm-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#b6b3c9;line-height:1.7;margin-top:14px;}
+
+  .dm-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .dm-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .dm-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .dm-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .dm-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .dm-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .dm-btn.primary{background:linear-gradient(158deg,#2f4468,#080d18);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .dm-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .dm-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .dm-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .dm .dm-crumb,.dm-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .dm [data-rv]{opacity:1 !important;transform:none !important;}
+    .dm-hero{background:none;color:#000;padding:0;}
+    .dm-hero-in{padding:0 0 12px;}
+    .dm-eyebrow,.dm-hero .subt,.dm-hero .rd{color:#444;}
+    .dm-hero h1{color:#000;}
+    .dm-body{padding:0;}
+    .dm-body p,.dm-body h3,.dm-part h2,.dm-take li,.dm-prac p{color:#000;}
+    .dm-scr,.dm-take,.dm-prac,.dm-quiz,.dm-next{background:#fff !important;border:1px solid #bbb;}
+    .dm-scr p{color:#000;}
+    .dm-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-reflect p,.dm-reflect .l,.dm-reflect p.sm{color:#000;}
+    .dm-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .dm-textcard h3,.dm-textcard p,.dm-textcard .go,.dm-textcard .trad{color:#000;}
+    .dm{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Diamond Sutra: course-specific components --- */
+
+  /* one of the thirty-two sections, quoted whole */
+  .dm-sec{border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:0 0 13px 13px;
+    background:linear-gradient(180deg,#fdfcf9,#f3f1ea);padding:24px 28px 22px;margin:26px 0;}
+  .dm-sec .hd{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:14px;}
+  .dm-sec .num{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    font-weight:800;color:var(--acc-deep);}
+  .dm-sec .ttl{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);}
+  .dm-sec .zhn{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14px;
+    color:var(--ink-soft);margin-left:auto;}
+  .dm-sec p{font-size:17px;line-height:1.74;color:var(--ink);margin:0 0 12px;}
+  .dm-sec p:last-of-type{margin-bottom:0;}
+  .dm-sec .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;
+    color:var(--zh,#6e6a55);margin-top:15px;padding-top:12px;border-top:1px dashed #e0dccb;line-height:1.95;}
+  .dm-sec .zh p{font-family:inherit;font-size:15.5px;color:#6e6a55;line-height:1.95;margin:0 0 6px;}
+  .dm-sec a.bk{display:inline-block;margin-top:13px;font-size:13px;color:var(--base);text-decoration:none;
+    border-bottom:1px solid rgba(47,68,104,.4);}
+  .dm-sec a.bk:hover{border-bottom-color:var(--base);}
+
+  /* Taixu's 1927 lecture notes, quoted as commentary and labelled as such */
+  .dm-taixu{border-left:4px solid var(--acc-deep);background:linear-gradient(180deg,#fbf9f2,#f4f0e2);
+    border-radius:0 13px 13px 0;padding:22px 26px;margin:24px 0;}
+  .dm-taixu .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:9px;}
+  .dm-taixu p{font-size:16.5px;line-height:1.74;color:var(--ink);margin:0 0 11px;}
+  .dm-taixu p:last-child{margin-bottom:0;}
+  .dm-taixu a.bk{display:inline-block;margin-top:11px;font-size:13px;color:var(--acc-deep);text-decoration:none;
+    border-bottom:1px solid rgba(138,106,31,.45);}
+
+  /* the is-not / is-called formula, shown as a shape */
+  .dm-formula{display:grid;grid-template-columns:1fr;gap:10px;margin:24px 0;}
+  @media(min-width:660px){.dm-formula{grid-template-columns:repeat(3,1fr);}}
+  .dm-formula .step{border:1px solid var(--line);border-radius:12px;padding:15px 18px;background:var(--cream);text-align:center;}
+  .dm-formula .step .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:19px;color:var(--acc-deep);font-weight:600;}
+  .dm-formula .step b{display:block;font-family:'Playfair Display',serif;font-size:16px;color:var(--ink);margin:5px 0 4px;}
+  .dm-formula .step span{display:block;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+</style>
+
+<div class="dm">
+
+  <nav class="dm-crumb"><div class="dm-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/diamond-sutra/' | relative_url }">The Diamond Sūtra</a> → Session 8</div></nav>
+
+  <!-- HERO -->
+  <section class="dm-hero">
+    <div class="dm-hero-in">
+      <div class="dm-eyebrow">Session 8 · Sections 29–32</div>
+      <h1>A bubble, dew, a flash of lightning</h1>
+      <div class="subt">Where thirty-two sections set themselves down</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–7</span>
+        <span><b>The text</b> Diamond Sūtra, sections 29–32</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="dm-body">
+    <div class="dm-wrap">
+
+      <!-- PART 1 -->
+      <div class="dm-part" data-rv><div class="pn">Part 1</div><h2>Section 29<span class="rf">What the title has meant all along</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 29</span><span class="ttl">Still, in Every Posture</span><span class="zhn">威儀寂靜分</span></div>
+        <p>"Subhūti, if someone says that the Tathāgata comes, or goes, or sits, or lies down, that person has not understood the meaning of what I teach. Why is this? 'Tathāgata' means one who comes from nowhere and goes nowhere — that is why he is called the Tathāgata, the Thus-Come One."</p>
+        <div class="zh"><p>「須菩提！若有人言：如來若來若去，若坐若臥，是人不解我所說義。何以故？如來者，無所從來，亦無所去，故名如來。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read this section in its place — Diamond Sūtra, sections 29–32 →</a>
+      </div>
+
+      <p data-rv>This section unpacks the word that has been used on every page. 如來, Tathāgata, is standardly read as <em>Thus-Come</em>, and section 29 reads it as <em>coming from nowhere and going nowhere</em>.</p>
+
+      <p data-rv>Now return to section 1. The Buddha put on his robe, walked into the city, begged, came back, ate, washed his feet, sat down — coming and going and sitting for an entire paragraph. Thirty-one sections later the sūtra says that anyone who describes him coming and going has not understood.</p>
+
+      <p data-rv>Both are true, and holding them together is the whole exercise. The walking happened. What did not happen is a someone who went from one place to another. This is section 3's structure — the largest commitment, and no one making it — applied now to the plainest physical fact in the text.</p>
+
+      <!-- PART 2 -->
+      <div class="dm-part" data-rv><div class="pn">Part 2</div><h2>Section 30<span class="rf">A universe ground to dust, and the thing ordinary people crave</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 30</span><span class="ttl">The Principle of the Single Whole</span><span class="zhn">一合理相分</span></div>
+        <p>"Subhūti, if a good son or good daughter ground a billion-world universe into fine dust — what do you think, would that mass of dust be great?" Subhūti said: "Very great, World-Honored One. Why is this? If that mass of dust truly existed as such, the Buddha would not call it a mass of dust. And why is that? What the Buddha calls a mass of dust is no mass of dust at all — that is why it is called a mass of dust."</p>
+        <p>"World-Honored One, the billion-world universe that the Tathāgata speaks of is no universe at all — that is why it is called a universe. Why is this? If a universe truly existed as such, it would be a single, indivisible whole. The Tathāgata speaks of a single, indivisible whole, yet it is no single whole at all — that is why it is called a single, indivisible whole." "Subhūti, a single, indivisible whole is, in truth, beyond words — it is only ordinary people who crave and cling to it as a thing."</p>
+        <div class="zh"><p>「須菩提！若善男子、善女人，以三千大千世界碎為微塵，於意云何？是微塵眾寧為多不？」須菩提言「甚多，世尊！何以故？若是微塵眾實有者，佛則不說是微塵眾。所以者何？佛說微塵眾，則非微塵眾，是名微塵眾。」</p><p>「世尊！如來所說三千大千世界，則非世界，是名世界。何以故？若世界實有者，則是一合相。如來說一合相，則非一合相，是名一合相。」「須菩提！一合相者，則是不可說；但凡夫之人貪著其事。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The argument runs in both directions at once, and this is the only place the sūtra does that. Grind the universe into dust: the dust is not a fixed thing. Take the universe whole: it is not a fixed thing either. Neither the parts nor the assembly of the parts survives — the same dilemma the Madhyamaka elective found in the search for the fruit, arriving here by a different road.</p>
+
+      <p data-rv>一合相 is the technical term: a single, indivisible whole, the thing that would be genuinely one rather than a collection under a name. And the closing line names the problem exactly: it is <em>beyond words</em>, and <em>it is only ordinary people who crave and cling to it as a thing</em>.</p>
+
+      <p data-rv>貪著 — crave and cling. Not <em>mistakenly believe in</em>. The sūtra's diagnosis is not that unity is an intellectual error; it is that the mind <em>wants</em> there to be one solid thing, and reaches for it. That is a claim about desire, not about metaphysics, and it is the reason thirty-two sections were needed rather than one good argument.</p>
+
+      <!-- PART 3 -->
+      <div class="dm-part" data-rv><div class="pn">Part 3</div><h2>Section 31<span class="rf">The last instruction</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 31</span><span class="ttl">Knowing and Seeing, Without Grasping</span><span class="zhn">知見不生分</span></div>
+        <p>"Subhūti, if someone says that the Buddha teaches the view of a self, the view of a person, the view of a being, the view of a lifespan — Subhūti, what do you think, has that person understood the meaning of what I teach?" "No, World-Honored One, that person has not understood what the Tathāgata teaches. Why is this? What the World-Honored One calls the view of a self, a person, a being, a lifespan, are no such views at all — that is why they are called the view of a self, a person, a being, a lifespan."</p>
+        <p>"Subhūti, one who sets out for unsurpassed, perfect, complete awakening should, with regard to all things, know them, see them, and believe and understand them exactly like this — without giving rise to any notion of a thing. Subhūti, what is called the notion of a thing, the Tathāgata says, is no notion of a thing at all — that is why it is called the notion of a thing."</p>
+        <div class="zh"><p>「須菩提！若人言：佛說我見、人見、眾生見、壽者見。須菩提！於意云何？是人解我所說義不？」「不也，世尊！是人不解如來所說義。何以故？世尊說我見、人見、眾生見、壽者見，即非我見、人見、眾生見、壽者見，是名我見、人見、眾生見、壽者見。」</p><p>「須菩提！發阿耨多羅三藐三菩提心者，於一切法，應如是知，如是見，如是信解，不生法相。須菩提！所言法相者，如來說即非法相，是名法相。」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>The four notions have been the sūtra's running target since section 3, and here, at the last opportunity, the formula is applied to <em>them</em>. Even the thing being removed is not a fixed thing. Someone who thinks the Buddha has been teaching a doctrine about four real views has, by the sūtra's own reckoning, missed it.</p>
+
+      <p data-rv>And then the final instruction of the sūtra proper, which is worth having in mind at the end of the course: <strong>know them, see them, and believe and understand them exactly like this — without giving rise to any notion of a thing</strong>.</p>
+
+      <p data-rv>Three positive verbs — know, see, understand — and one negative condition. Not <em>stop knowing</em>. Not <em>stop seeing</em>. Know and see fully, and do not let a 法相, a notion of a thing, congeal out of it. That is section 10's <em>give rise to a mind that dwells nowhere</em>, restated as an instruction about cognition rather than about practice.</p>
+
+      <!-- PART 4 -->
+      <div class="dm-part" data-rv><div class="pn">Part 4</div><h2>Section 32<span class="rf">How to explain it, and where the sūtra sets itself down</span></h2></div>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 32</span><span class="ttl">A Manifestation Is Not the Real</span><span class="zhn">應化非真分</span></div>
+        <p>"Subhūti, if someone filled countless, incalculable universes with the seven treasures and gave it all away; and if a good son or good daughter who has set out for awakening took up even a single four-line verse of this sūtra, upheld it, recited it, and explained it to others — their merit would surpass the first's. And how should they explain it to others? Without grasping at any mark, unmoved, just as things are. Why is this?</p>
+        <div class="zh"><p>「須菩提！若有人以滿無量阿僧祇世界七寶，持用布施；若有善男子、善女人，發菩提心者，持於此經，乃至四句偈等，受持讀誦，為人演說，其福勝彼。云何為人演說，不取於相，如如不動。何以故？」</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <p data-rv>不取於相，如如不動 — <em>without grasping at any mark, unmoved, just as things are</em>. The sūtra's last practical instruction is about <em>teaching</em>, and it is addressed to anyone who explains this text to another person. Including, uncomfortably, a course like this one.</p>
+
+      <p data-rv>And then the verse. Whatever else the Diamond Sūtra is, this is the part that has been chanted daily for fifteen centuries.</p>
+
+      <div class="dm-sec" data-rv>
+        <div class="hd"><span class="num">Section 32</span><span class="ttl">the closing verse</span><span class="zhn">應化非真分</span></div>
+        <p>"All conditioned things are like a dream, an illusion, a bubble, a shadow; like dew, and like a flash of lightning — see them all like this."</p>
+        <div class="zh"><p>一切有為法，如夢幻泡影，如露亦如電，應作如是觀。</p></div>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read this section in its place →</a>
+      </div>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's lecture notes, 1927 — as rendered on this site</div>
+        <p>"A <strong>dream</strong>: vivid and entirely convincing while it lasts, entirely gone the instant one wakes. An <strong>illusion</strong>: a conjurer's trick — the audience sees objects appear that were never actually there. A <strong>bubble</strong>: sunlight catches its surface and, for a moment, it gleams like a jewel; reach for it, and there was never a jewel at all. A <strong>shadow</strong>: it exists only exactly as long as the object casting it exists, and has no substance of its own even then. <strong>Dew</strong>: it gathers in the clear stillness of early morning and is gone within the hour — never something that was going to last. And <strong>lightning</strong>: here in one instant, gone in the next, striking one place and then another, neither constant nor evenly spread."</p>
+        <p>"Taixu's point in listing all six rather than resting on one image is that no single simile exhausts the point — each catches conditioned existence from a slightly different angle, and together they close off any last place the mind might try to smuggle in a "but this part, at least, must be solid.""</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <p data-rv>That last clause is the reason there are six and not one, and it is the same reason there are thirty-two sections and not one argument. Every image closes a different exit.</p>
+
+      <p data-rv>And it is worth being exact about what the verse does not say, because it is very often read as saying it. It does not say conditioned things are unreal. Dew is wet. Lightning kills people. A dream is doing something while it runs. The claim is about <em>solidity and duration</em>, not about existence — which is precisely what section 27 stopped to insist on five sections earlier.</p>
+
+      <div class="dm-taixu" data-rv>
+        <div class="l">Taixu's closing verse, 1927 — as rendered on this site</div>
+        <p>""Abiding the mind and subduing the mind; the selflessness of the person and the selflessness of things — this is called prajñā, the very cause and fruit of the Great Vehicle.""</p>
+        <a class="bk" href="{{ '/sutras/diamond-sutra/closing-verse.html' | relative_url }}">Read the note in its place →</a>
+      </div>
+
+      <p data-rv>Taixu ends his commentary on the whole sūtra with those four lines, and they are a fair summary of the course. Subhūti's two questions in section 2 — how to stand, how to subdue the mind — answered by two selflessnesses, of the person and of things. Everything between section 2 and section 32 is the working out.</p>
+
+      <div class="dm-take" data-rv>
+        <b class="h">What Session 8 establishes — and what the course has read</b>
+        <ul>
+          <li><b>Coming from nowhere and going nowhere</b> — applied to the very walking section 1 described in detail.</li>
+          <li><b>Neither the dust nor the whole survives.</b> Not the parts, not their assembly.</li>
+          <li><b>Ordinary people <em>crave</em> a single indivisible whole.</b> A claim about desire, not about error — and the reason one argument was never going to be enough.</li>
+          <li><b>Even the four notions get the formula.</b> Nothing, including what is being removed, is left as a fixed thing.</li>
+          <li><b>Know, see, understand — and let no notion congeal.</b> Three positive verbs, one negative condition.</li>
+          <li><b>Six similes, because each closes a different exit</b> — and none of them says conditioned things are unreal.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="dm-part" data-rv><div class="pn">Part 5</div><h2>Where to go from here<span class="rf">The rest of the library</span></h2></div>
+
+      <p data-rv>The Diamond Sūtra is complete on this site in eight pages, all thirty-two sections, Chinese beside English, with Taixu's 1927 lecture notes throughout. This course has quoted perhaps a third of it.</p>
+
+      <a class="dm-textcard" href="{{  '/sutras/diamond-sutra.html' | relative_url }}">
+        <div class="trad">Prajñāpāramitā · 金剛般若波羅蜜經 · all 32 sections</div>
+        <h3>The Diamond Sūtra, complete</h3>
+        <p>Kumārajīva's Chinese with Ru-Yi's English, section by section, and reading notes drawn from Grand Master Taixu's 1927 金剛般若波羅蜜經講錄.</p>
+        <span class="go">Read the sūtra <span class="arw">→</span></span>
+      </a>
+
+      <p data-rv>Its shorter companion, the <a href="{{  '/sutras/heart-sutra.html' | relative_url }}">Heart Sūtra</a>, compresses the same material into a page. And the enormous commentary on the Perfection of Wisdom literature — the <a href="{{ '/sutras/mahaprajnaparamita-sastra/' | relative_url }}"><em>Mahāprajñāpāramitā-śāstra</em></a>, attributed to Nāgārjuna and running to a hundred fascicles — is being translated on this site now. When it reaches the body of its argument, a fourth Layer 4 elective becomes possible; at present the translation is in its opening fascicles, and it would be dishonest to build a course on the Perfection of Wisdom out of a preface.</p>
+
+      <p data-rv>The two other Layer 4 electives read the schools that took this literature as their ground. <a href="{{ '/courses/nothing-stands/' | relative_url }}"><strong>Nothing Stands</strong></a> follows Nāgārjuna, who argued that nothing has a nature of its own. <a href="{{ '/courses/eight-consciousnesses/' | relative_url }}"><strong>The Eight Consciousnesses</strong></a> follows the Yogācārins, who agreed about almost everything and refused one step. Both of them quote this sūtra.</p>
+
+      <!-- PART 6 -->
+      <div class="dm-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="dm-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">How does section 29 relate to section 1?</div>
+          <button class="opt"><span class="ltr">A</span>It corrects section 1, which was added later</button>
+          <button class="opt"><span class="ltr">B</span>It says the Buddha did not really beg for food</button>
+          <button class="opt"><span class="ltr">C</span>Section 1 described him coming and going at length; section 29 says the walking happened and no one went from one place to another</button>
+          <button class="opt"><span class="ltr">D</span>It explains that his movements were a display for the assembly</button>
+          <div class="expl"><strong>Correct: C.</strong> Section 3's structure — the act, and no one performing it — applied to the plainest physical fact in the text.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What does section 30 establish about the dust and the universe?</div>
+          <button class="opt"><span class="ltr">A</span>That neither the parts nor their assembly is a fixed thing — the argument runs in both directions</button>
+          <button class="opt"><span class="ltr">B</span>That the dust is real and the universe is a convention built on it</button>
+          <button class="opt"><span class="ltr">C</span>That the universe is real and the dust is an abstraction</button>
+          <button class="opt"><span class="ltr">D</span>That grinding the universe to dust would destroy it</button>
+          <div class="expl"><strong>Correct: A.</strong> The same dilemma the Madhyamaka elective found in the search for the fruit, arriving by a different road.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What does 貪著 ("crave and cling") indicate about the single indivisible whole?</div>
+          <button class="opt"><span class="ltr">A</span>That only philosophers make this mistake</button>
+          <button class="opt"><span class="ltr">B</span>That the whole is real but cannot be described</button>
+          <button class="opt"><span class="ltr">C</span>That craving produces the universe out of dust</button>
+          <button class="opt"><span class="ltr">D</span>That the diagnosis is about desire rather than intellectual error — the mind <em>wants</em> there to be one solid thing</button>
+          <div class="expl"><strong>Correct: D.</strong> Which is why thirty-two sections were needed rather than one good argument.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What is the final instruction of the sūtra proper, in section 31?</div>
+          <button class="opt"><span class="ltr">A</span>To cease knowing and seeing altogether</button>
+          <button class="opt"><span class="ltr">B</span>To know, see, believe and understand all things fully — without letting any notion of a thing congeal out of it</button>
+          <button class="opt"><span class="ltr">C</span>To recite the sūtra daily without analysis</button>
+          <button class="opt"><span class="ltr">D</span>To teach the four views correctly to others</button>
+          <div class="expl"><strong>Correct: B.</strong> Three positive verbs and one negative condition — section 10's instruction, restated for cognition.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does the closing verse claim?</div>
+          <button class="opt"><span class="ltr">A</span>That conditioned things do not exist and should be ignored</button>
+          <button class="opt"><span class="ltr">B</span>That only unconditioned things are worth attending to</button>
+          <button class="opt"><span class="ltr">C</span>That conditioned things lack solidity and duration — six images, each closing a different exit — not that they are unreal</button>
+          <button class="opt"><span class="ltr">D</span>That the world will end as suddenly as lightning</button>
+          <div class="expl"><strong>Correct: C.</strong> Dew is wet; lightning kills people. Section 27 stopped five sections earlier precisely to block reading A.</div>
+        </div>
+
+        <div class="dm-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="dm-reflect" data-rv>
+        <div class="l">One question to close on</div>
+        <p>Thirty-two sections asked one question in many forms. Where does your mind still want to land?</p>
+        <p class="sm">The sūtra's last word on that is not an answer but a description: it is only ordinary people who crave and cling to a single solid thing. Not <em>believe in</em> — crave. Which means the work this text asks for was never mainly a matter of getting the argument right, and that is probably why it ends with an image to carry rather than a conclusion to hold.</p>
+      </div>
+
+      <div class="dm-next" data-rv>
+        <div class="l">You have finished the course</div>
+        <h3>Eight sessions, thirty-two sections</h3>
+        <p>From an unremarkable morning to a flash of lightning, with Taixu's 1927 lecture notes the whole way. This completes the Academy's three Layer 4 electives — the other two read the schools that built on this literature, and both of them quote this sūtra.</p>
+      </div>
+
+      <div class="dm-foot" data-rv>
+        <a class="dm-btn ghost" href="{{ '/courses/diamond-sutra/session-7/' | relative_url }}">← Session 7</a>
+        <a class="dm-btn primary" href="{{ '/courses/diamond-sutra/' | relative_url }}">Back to the course overview →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.dm [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.dm-quiz .q').length;
+  document.querySelectorAll('.dm-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
