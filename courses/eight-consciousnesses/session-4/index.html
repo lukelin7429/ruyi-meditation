@@ -1,0 +1,454 @@
+---
+layout: default
+title: "Session 4 · Seeds and perfuming (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-4/
+excerpt: "Session 4 of The Eight Consciousnesses — what a seed actually is, whether seeds are innate or laid down by experience, and the four conditions something must meet before experience can leave a trace in it."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 4 · What the storehouse holds</div>
+      <h1>Seeds and perfuming</h1>
+      <div class="subt">How an experience leaves something behind, and what it leaves it in</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Session 3</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicle 2</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>Not a thing in a box<span class="rf">What the treatise means by a seed</span></h2></div>
+
+      <p data-rv>The storehouse holds seeds. Session 3 said so repeatedly without saying what one is, and the word invites exactly the wrong picture: little objects in a container, waiting.</p>
+
+      <div class="cw-eight" data-rv>
+        <div class="c"><span class="n">1–5</span><span class="nm">The five senses</span><span class="zh">前五識</span></div>
+        <div class="c"><span class="n">6</span><span class="nm">Thinking mind</span><span class="zh">意識</span></div>
+        <div class="c"><span class="n">7</span><span class="nm">Manas</span><span class="zh">末那識</span></div>
+        <div class="c on"><span class="n">8</span><span class="nm">Storehouse</span><span class="zh">阿賴耶識</span></div>
+      </div>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · what is a seed</div>
+        <p>"What, in this context, is meant by "seed"? It is a distinct functional capacity within the root consciousness that directly gives rise to its own result."</p>
+        <div class="zh">此中何法名為種子？謂本識中親生自果，功能差別。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "What Is a Seed?" →</a>
+      </div>
+
+      <p data-rv>A <em>capacity</em>, not an object. Closer to a disposition than to a deposit — and "distinct" is doing work: not a general tendency toward badness, but the specific capacity to produce this particular result. The word 種子 was probably always a metaphor for the tradition, and the definition quietly unpicks it.</p>
+
+      <p data-rv>The treatise then raises an objection against itself that shows what it has learned from Session 2. A seed is neither identical with the storehouse nor separate from it — but "neither identical nor different" was exactly the formula used against the pot, to show something was merely conventional. Does that not make seeds provisional too?</p>
+
+      <p data-rv>Its answer is an unusual piece of intellectual honesty: yes, and it accepts the consequence. Seeds are "really existent only in the sense of conventional truth" — real enough to do causal work, not real in the way suchness is. The model is being offered as a working account of how a mind operates, not as a description of what ultimately exists.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>Were they always there, or did you put them there?<span class="rf">The debate the treatise takes most seriously</span></h2></div>
+
+      <p data-rv>Here the <em>Cheng Weishi Lun</em> does the thing that makes it what it is. Rather than assert a position, it stages a dispute between earlier masters and works through it — and the question is a real one, with a modern shape. Is your capacity for compassion, or for cruelty, something you were born with, or something laid down by what has happened to you?</p>
+
+      <p data-rv>The first position: all seeds are <strong>inherently pre-existent</strong> (本有). They are in the ripening consciousness from beginningless time, "existing just as they naturally are." The scriptural warrant is the Buddha's remark that beings possess various elements from beginningless time, clustered like <em>akṣa</em> seeds. On this view experience does not create capacities; it only triggers what was already stocked.</p>
+
+      <p data-rv>The second position: all seeds are <strong>newly arisen</strong> (新熏), produced by repeated perfuming. Nothing is pre-stocked; everything is deposited by what actually happens.</p>
+
+      <p data-rv>The treatise rejects both and takes the third option — both kinds exist — and the argument it uses against pure innatism is the one worth following:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · why seeds cannot be innate only</div>
+        <p>"The Mahāyānasaṃgraha says: the ālayavijñāna and defiled dharmas serve as each other's cause and condition, just as a wick and its flame continually give rise to one another's burning, or as bundled reeds mutually lean on and sustain each other"</p>
+        <div class="zh">《攝大乘》說：阿賴耶識與雜染法互為因緣，如炷與焰展轉生燒，又如束蘆互相依住，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Synthesis — Both Kinds of Seeds Exist" →</a>
+      </div>
+
+      <p data-rv>If seeds were <em>only</em> pre-existent, causation would run one way: storehouse produces experience, and experience does nothing back. But the tradition's own texts say the relation is mutual. A wick makes the flame; the flame consumes the wick and keeps itself alight. Neither is prior. Pull one reed from the bundle and the others fall.</p>
+
+      <p data-rv>And the argument against pure novelty is the mirror image: if nothing were pre-stocked, there would be nothing for the very first experience to perfume, and no explanation of why a being has the specific range of capacities it has rather than any other.</p>
+
+      <div class="cw-pull" data-rv>Neither inherited nor acquired. Both, leaning on each other, with no first term.</div>
+
+      <p data-rv>It is worth noticing how unfashionable the treatise's procedure is here. It does not split the difference for the sake of harmony; it shows that each pure position destroys something the tradition needs, and that the mixed position is the only one that keeps both.</p>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Six marks, and the first one is the strangest<span class="rf">What a capacity has to be like to count as a seed</span></h2></div>
+
+      <p data-rv>The treatise then lists six conditions a capacity must meet. Two of them reward attention.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the six marks of a seed</div>
+        <p>"First, momentary cessation: as soon as its substance arises, it must cease without interruption — only then, possessing a superior functional capacity, does it count as a seed. This rules out permanent things, since a changeless thing cannot be said to have any capacity to generate something new."</p>
+        <div class="zh">一、剎那滅。謂體纔生無間必滅，有勝功力，方成種子。此遮常法，常無轉變，不可說有能生用故。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Six Marks of a Seed" →</a>
+      </div>
+
+      <p data-rv>The seed must perish the instant it arises. That sounds like it destroys the whole idea — what use is a store whose contents vanish immediately? — until you remember the scale beam from Session 3. A seed does not persist; it is replaced, moment by moment, by a successor it causes. What you carry from childhood is not an old object still sitting there. It is the current member of an unbroken series.</p>
+
+      <p data-rv>This is the same argument as the refutation of the self, applied one level down. Anything that genuinely does something must change, and anything that changes is a succession rather than an endurance. The treatise applies its own rule to its own machinery.</p>
+
+      <p data-rv>The second mark — that a seed coexists with the result it produces, in the same moment — closes the door the first one opened. Cause and effect are not separated by a gap that something has to leap. They are simultaneous, like the two ends of the scale.</p>
+
+      <div class="cw-gloss" data-rv>
+        <div class="g"><b>Momentary cessation</b><div class="zh">剎那滅</div><span>It perishes as soon as it arises. A permanent thing could not generate anything.</span></div>
+        <div class="g"><b>Co-existing with its result</b><div class="zh">果俱有</div><span>Seed and manifest result are present in the same moment — no gap to bridge.</span></div>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>What can be marked, and what cannot<span class="rf">Four conditions — and two consequences most readers do not expect</span></h2></div>
+
+      <p data-rv>"Perfuming" (熏習) is the treatise's word for how an experience leaves a seed behind, and the metaphor is exact: incense in cloth. The smoke is gone; the cloth is different. Nothing was added that you could point to.</p>
+
+      <p data-rv>But not everything can be perfumed, and not everything can do the perfuming. Four conditions apply on each side, and they are not decorative — they are what makes this a mechanism rather than a mood. What must be true of the thing that receives a trace?</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the second mark of what can be perfumed</div>
+        <p>"Second, moral neutrality: only something even-tempered and unresisting, able to accommodate habitual tendencies, can be perfumed — ruling out anything with an intensely wholesome or defiled force, which has no room left to accommodate anything further. This is why the Tathāgata's pure eighth consciousness, at buddhahood, carries only its old seeds and no longer receives new perfuming."</p>
+        <div class="zh">二、無記性。若法平等，無所違逆，能容習氣，乃是所熏。此遮善染勢力強盛，無所容納，故非所熏。由此如來第八淨識，唯帶舊種，非新受熏。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "What Can Perfume, and What Can Be Perfumed" →</a>
+      </div>
+
+      <p data-rv>Now the moral neutrality from Session 3 turns out to have been load-bearing. Only something with no character of its own can take an impression. A strongly scented cloth cannot be perfumed; there is no room. This is why the storehouse has to be the blank thing it is — and why, at buddhahood, it stops recording. A mind that has become wholly good can no longer be marked by anything.</p>
+
+      <p data-rv>The fourth condition has a consequence that is easy to read past and hard to forget once seen:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the fourth mark</div>
+        <p>"Fourth, capacity for union with what perfumes it: only something existing at the same time and place as what perfumes it, neither identical with it nor separate from it, can be perfumed — ruling out another person's mind-stream, and any moment before or after the present one, neither of which can genuinely unite with a given act of perfuming."</p>
+        <div class="zh">四、與能熏共和合性。若與能熏同時、同處，不即、不離，乃是所熏。此遮他身、剎那前後，無和合義，故非所熏。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "What Can Perfume, and What Can Be Perfumed" →</a>
+      </div>
+
+      <p data-rv><strong>No one can perfume anyone else's storehouse.</strong> Not a teacher, not a parent, not a buddha. Influence is real, but it works by prompting activity in <em>your</em> consciousnesses, which then perfume <em>your</em> storehouse. The traces are always self-deposited. Whatever a teacher does, the marking is done by the student.</p>
+
+      <p data-rv>And nothing can perfume across time. Only the present moment can leave a trace, because only the present moment exists to do it. Regret cannot reach back and unmark what was marked; resolution cannot reach forward and mark in advance. Both can only work now, which is the one place where work is possible.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 4 establishes</b>
+        <ul>
+          <li><b>A seed is a capacity, not an object</b> — and a specific one, for a specific result.</li>
+          <li><b>The model is conventional, by its own admission.</b> Seeds are real enough to cause things, not real in the ultimate sense.</li>
+          <li><b>Innate and acquired both, with no first term.</b> Wick and flame; reeds leaning on each other.</li>
+          <li><b>Seeds perish the moment they arise.</b> What you carry is the current member of an unbroken series, not an old object.</li>
+          <li><b>Only a neutral thing can be marked</b> — which is why the storehouse is characterless, and why a buddha's stops recording.</li>
+          <li><b>Nobody can perfume anyone else.</b> All traces are self-deposited, and only ever in the present.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Noticing a seed arrive</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">The cloth and the smoke</b>
+        <p>The claim that only the present moment deposits anything is testable in a small way, and the test is more useful than agreeing with it.</p>
+        <div class="how">
+          Pick one recurring irritation you know well — a particular person's tone, a specific kind of interruption, something that reliably produces the same reaction in you. For one week, do not try to change the reaction. Only do this: at the moment it fires, notice it, and notice that the noticing is itself happening now and is itself an activity.<br><br>
+          At the end of the week, ask two questions. <strong>Did the reaction get faster or slower?</strong> And, more to the point: <strong>which of the two — reacting, or noticing — did you do more often?</strong> On this treatise's model, both were perfuming. You spent the week laying down seeds of whichever you practised.
+        </div>
+        <p>This is not a technique for stopping the reaction, and it would be dishonest to present it as one. It is a way of seeing that the mechanism is running whether or not you are attending to it — and that attention is not outside the mechanism, but one more thing being deposited.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What is a seed, on the treatise's own definition?</div>
+          <button class="opt"><span class="ltr">A</span>A subtle material particle deposited in the body by action</button>
+          <button class="opt"><span class="ltr">B</span>A memory image stored for later recall</button>
+          <button class="opt"><span class="ltr">C</span>A distinct functional capacity within the root consciousness that directly gives rise to its own result</button>
+          <button class="opt"><span class="ltr">D</span>A permanent disposition carried unchanged from life to life</button>
+          <div class="expl"><strong>Correct: C.</strong> A capacity, not a deposit — and a specific one, not a general tendency.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Why does the treatise reject the view that all seeds are inherently pre-existent?</div>
+          <button class="opt"><span class="ltr">A</span>Because scripture nowhere mentions pre-existent seeds</button>
+          <button class="opt"><span class="ltr">B</span>Because it would make liberation impossible</button>
+          <button class="opt"><span class="ltr">C</span>Because pre-existent seeds would have to be permanent, and nothing permanent exists</button>
+          <button class="opt"><span class="ltr">D</span>Because causation would then run one way only, whereas the texts say storehouse and evolving consciousnesses cause each other — wick and flame, bundled reeds</button>
+          <div class="expl"><strong>Correct: D.</strong> The treatise takes the third option: both kinds exist, mutually, with no first term.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Why must a seed cease the instant it arises?</div>
+          <button class="opt"><span class="ltr">A</span>Because only something that changes can generate anything, so a persisting seed could do no work — it is replaced by a successor it causes</button>
+          <button class="opt"><span class="ltr">B</span>Because seeds are destroyed by the results they produce</button>
+          <button class="opt"><span class="ltr">C</span>Because the storehouse has limited capacity and must clear space</button>
+          <button class="opt"><span class="ltr">D</span>Because otherwise past karma could never be exhausted</button>
+          <div class="expl"><strong>Correct: A.</strong> The same argument used against the self, now applied to the treatise's own machinery.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Why does moral neutrality matter for what can be perfumed?</div>
+          <button class="opt"><span class="ltr">A</span>Because a wholesome mind should not be contaminated by defiled seeds</button>
+          <button class="opt"><span class="ltr">B</span>Because only something with no character of its own has room to take an impression — which is also why a buddha's eighth consciousness stops receiving new perfuming</button>
+          <button class="opt"><span class="ltr">C</span>Because morality is conventional and seeds are ultimate</button>
+          <button class="opt"><span class="ltr">D</span>Because neutral experiences leave stronger traces than strong ones</button>
+          <div class="expl"><strong>Correct: B.</strong> A strongly scented cloth cannot be perfumed. The blankness of the storehouse turns out to be load-bearing.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What follows from the fourth mark of what can be perfumed?</div>
+          <button class="opt"><span class="ltr">A</span>That a sufficiently realised teacher can plant seeds directly in a student</button>
+          <button class="opt"><span class="ltr">B</span>That seeds can be transferred between beings through merit-dedication</button>
+          <button class="opt"><span class="ltr">C</span>That no one can perfume anyone else's stream, and nothing can perfume across time — all traces are self-deposited, and only in the present</button>
+          <button class="opt"><span class="ltr">D</span>That perfuming happens continuously whether or not anything is occurring</button>
+          <div class="expl"><strong>Correct: C.</strong> Influence is real, but it works by prompting activity in your own consciousnesses — the marking is always done by you.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If nobody can leave a mark in you but you, what have you been practising this week without meaning to?</p>
+        <p class="sm">The treatise is not making a point about willpower. It is observing that every moment of activity deposits something, and that most of what gets deposited is deposited inattentively — which makes the ordinary, unremarkable hours of a life the place where almost all of the work is actually done.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 5 · The four parts of a single knowing</h3>
+        <p>The treatise's most original contribution, and the one least represented in English. A single act of cognition divides into what is seen, what sees, what is aware of the seeing, and what confirms that awareness — four parts, with an argument for why the series stops at four and not at five or at infinity. It also explains how billions of private minds can share one world.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-3/' | relative_url }}">← Session 3</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-5/' | relative_url }}">Session 5 · The four parts of a single knowing →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

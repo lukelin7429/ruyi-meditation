@@ -1,0 +1,432 @@
+---
+layout: default
+title: "Session 2 · And against everything else (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-2/
+excerpt: "Session 2 of The Eight Consciousnesses — creator gods, eternal sound, eternal atoms, four corners and no fifth, and the warning that Consciousness-Only can itself become an attachment."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 2 · The rest of the clearing</div>
+      <h1>And against everything else</h1>
+      <div class="subt">Gods, atoms, eternal sound, rival Buddhists — and a warning aimed at the treatise's own readers</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Session 1</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicles 1–2</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>The other half of the sentence<span class="rf">Self and <em>dharmas</em> are only provisionally spoken of</span></h2></div>
+
+      <p data-rv>The opening verse made two claims, and Session 1 only followed the first. <em>Self</em> is provisionally spoken of — that argument is finished. But the verse said <em>self and dharmas</em>, and the second half is much the larger job. It takes the rest of fascicle 1 and most of fascicle 2.</p>
+
+      <p data-rv>"Dharma" here does not mean the teaching. It means, roughly, <em>a thing that holds its own pattern</em> — any item you might claim is really out there, with its own nature, independent of being known. Matter. Atoms. Time. Space. God. Sound. Existence itself. And, awkwardly for a Buddhist treatise, a good many of the technical categories other Buddhists were using.</p>
+
+      <p data-rv>This session is the demolition half of the course, and it is worth being honest about why a modern reader should sit through it. Two reasons. First, the arguments are unexpectedly good, and several of them are recognisably the arguments a philosopher would still make. Second — and this matters more — the way the treatise clears the ground tells you what it will accept as an explanation later. A reader who skips it will meet the storehouse consciousness in Session 3 with no sense of what work it is doing or what would count against it.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>The god, the sound, and the atom<span class="rf">Three eternal things, refuted by the same move</span></h2></div>
+
+      <p data-rv>The treatise works through the non-Buddhist schools of its day one at a time — Sāṃkhya, Vaiśeṣika, and then a cluster of positions it handles together. What the cluster has in common is that each posits something <em>eternal</em> to explain something that changes. And the treatise's reply to all three is, at bottom, a single argument.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1 · against a creator god</div>
+        <p>"Some hold that there is a single great sovereign god (Maheśvara), whose substance is real, all-pervading, and eternal, and who generates all dharmas. This is unreasonable. Why? Whatever is capable of generating something cannot be eternal; whatever is not eternal cannot be all-pervading; and whatever is not all-pervading cannot be truly real in the way claimed."</p>
+        <div class="zh">有執有一大自在天，體實、遍、常，能生諸法。彼執非理，所以者何？若法能生，必非常故；諸非常者，必不遍故；諸不遍者，非真實故。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Against a Creator God, Eternal Sound, and Eternal Atoms" →</a>
+      </div>
+
+      <p data-rv>Notice the shape. To generate is to do something, and doing something is a change; whatever changes is not eternal. The argument does not appeal to scripture and does not depend on Buddhism being true. It is a dilemma about causation, and it is pressed further: if the cause really were eternal and complete in itself, everything it can produce should already have been produced, everywhere, always, at once. If it waits on some condition, it was not a sufficient cause after all.</p>
+
+      <p data-rv>The treatise then says, more or less, <em>and the same goes for the rest of the list</em> — Brahmā, time, space, a primordial origin, nature, the void, a cosmic self. One argument, applied to a column of names.</p>
+
+      <p data-rv>Eternal sound gets the same treatment. Some schools held the Vedic recitation to be beginningless and self-authenticating; the treatise observes that a sound which conveys meaning is, by that fact, doing something, and like a pot or a cloth depends on conditions to arise.</p>
+
+      <p data-rv>Then the atoms — and here the argument turns into a genuine dilemma about the structure of matter, one that has not aged:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1 · against eternal atoms</div>
+        <p>"Why? If the atoms they posit have spatial parts, then, like a line of marching ants, their substance cannot be truly single and real. If they have no spatial parts, then, like mind and mental factors, they should be incapable of clustering together to produce gross matter as an effect."</p>
+        <div class="zh">彼亦非理，所以者何？所執極微，若有方分，如蟻行等，體應非實。若無方分，如心、心所應不共聚生麁果色，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Against a Creator God, Eternal Sound, and Eternal Atoms" →</a>
+      </div>
+
+      <p data-rv>Either the smallest thing has a left side and a right side — in which case it has parts and is not the smallest thing — or it has no sides at all, in which case nothing can be placed next to anything, and no quantity of them will ever add up to a visible object. The atom was introduced to be the floor of analysis. The treatise's point is that it cannot be both the floor and a building block.</p>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Four corners, and no fifth<span class="rf">The move that Madhyamaka made famous, used here as a filing system</span></h2></div>
+
+      <p data-rv>Having taken the schools one at a time, the treatise steps back and does something more ambitious. Instead of refuting positions, it enumerates the <em>possible</em> positions and refutes the list.</p>
+
+      <p data-rv>The question is the relation between a particular thing and the universal "Existence" that is supposed to account for it being there at all. There are, logically, four options: the two are identical, they are different, they are both, or they are neither. Sāṃkhya took the first. Vaiśeṣika took the second. Each of the remaining two also had takers. The treatise argues that the third inherits every fault of the first two at once, and then turns on the fourth — the one that sounds most sophisticated:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1 · four ways to get it wrong</div>
+        <p>"If purely an assertion, it should not be phrased as a double negation; if purely a denial, then nothing is actually being claimed; if both denial and assertion at once, the two sides contradict each other; if neither assertion nor denial, it collapses into empty chatter."</p>
+        <div class="zh">非一、異言為遮為表？若唯是表，應不雙非；若但是遮，應無所執；亦遮、亦表應互相違；非表、非遮應成戲論。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Four Ways to Get It Wrong, and No Fifth" →</a>
+      </div>
+
+      <p data-rv>This is the four-cornered analysis — the pattern Nāgārjuna is famous for, being used here by the school Nāgārjuna's heirs spent centuries arguing with. It is worth registering that the two great Mahāyāna schools share a toolkit and disagree about what to build with it. If you go on to the Madhyamaka elective, you will meet this move again with the dial turned all the way up.</p>
+
+      <p data-rv>The complaint against the fourth corner is specific, and it is one to remember whenever a teaching sounds profound: a double negation that denies nothing and asserts nothing is not a subtle middle position. It is an evasion. The treatise's own word for it is <em>empty chatter</em>.</p>
+
+      <p data-rv>Then the treatise turns on other Buddhists — the schools holding that atoms, or karma as a kind of subtle matter, or abstract structural items like "possession" and "sameness of kind," are real things in their own right. The section on karma is the sharpest: bodily and verbal action are not shape, not motion, and not a mysterious material force left behind by a deed. What acts is volition. Everything else is the body moving.</p>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>The warning at the end<span class="rf">Aimed not at opponents but at readers of this treatise</span></h2></div>
+
+      <p data-rv>Ten refutations in, the reader has been trained into a rhythm: a school proposes something real and independent, and the treatise shows it cannot be. The natural conclusion to draw is that consciousness survives the cull — that we have found the one thing that <em>is</em> really and independently there.</p>
+
+      <p data-rv>The treatise closes the section by blocking exactly that conclusion.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the refutation of dharmas concludes</div>
+        <p>"It is in order to dispel the mistaken clinging to some real object existing outside mind and mental factors that "Consciousness-Only" is taught. But if one then clings to Consciousness-Only itself as truly, independently real — the very same way one clung to an external object before — that too is dharma-attachment."</p>
+        <div class="zh">為遣妄執心、心所外實有境故，說唯有識。若執唯識真實有者，如執外境，亦是法執。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "Even Consciousness-Only Can Become an Attachment" →</a>
+      </div>
+
+      <p data-rv>This single sentence changes what kind of book you are reading. "Consciousness-Only" is not being offered as the correct inventory of the universe, with mind in the slot where matter used to be. It is a corrective aimed at one specific mistake. Aim it at yourself and you have not arrived anywhere; you have relocated the error.</p>
+
+      <div class="cw-pull" data-rv>A raft for crossing, not a new shore to build a house on.</div>
+
+      <p data-rv>Read this way, the next eight sessions are not a metaphysics. They are a description of how the mistake gets made — repeatedly, mechanically, below the level of choice — and what would have to change for it to stop.</p>
+
+      <p data-rv>The treatise adds one more distinction before moving on, and it is worth carrying forward. Attachment to dharmas comes in two kinds. <strong>Discriminated</strong> attachment is learned: it needs a doctrine to teach it, lives in the sixth consciousness, is coarse, and goes early. <strong>Innate</strong> attachment needs no teaching at all — it "arises constantly together with the body," runs by itself, and one strand of it is continuous and unbroken in the seventh consciousness. That strand is subtle, and the treatise says plainly that it is only eliminated late, across the ten grounds.</p>
+
+      <p data-rv>Which is to say: finishing this course will not dislodge it. What the course can do is show you the machinery.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 2 establishes</b>
+        <ul>
+          <li><b>One argument does most of the work.</b> Whatever acts, changes; whatever changes is not eternal. Gods, sound, and atoms fall to the same move.</li>
+          <li><b>The atom faces a dilemma, not a refutation.</b> With parts, it is not fundamental; without parts, nothing can be built from it.</li>
+          <li><b>Four corners exhaust the options</b> — and a double negation that asserts nothing is not profundity but evasion.</li>
+          <li><b>Consciousness-Only is a corrective, not a bedrock.</b> Clinging to it is the same error under a better name.</li>
+          <li><b>The deep attachment is innate, not taught</b>, lives in the seventh consciousness, and is not removed by understanding an argument.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Turning the argument on your own conclusion</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">Find where you set it down</b>
+        <p>The warning in Part 4 is not abstract. Everyone who studies contemplative material for a while acquires a resting place — some formulation that has stopped being examined because it is where the examining stops.</p>
+        <div class="how">
+          Take fifteen minutes and a piece of paper. Write down the one thing you currently believe is <em>actually</em> the case about mind or reality — the sentence you would defend if pressed. Awareness is primary. Everything is empty. It is all just brain. Consciousness is fundamental. Whatever yours is, write it plainly, without hedging.<br><br>
+          Then apply the treatise's own two questions to it, in order. <strong>Does it do anything?</strong> If it acts, causes, or produces, then by this treatise's argument it changes, and is not the fixed ground you were treating it as. <strong>And if it does nothing at all</strong> — is it doing any explanatory work, or is it empty chatter in the treatise's sense?
+        </div>
+        <p>The exercise is not meant to leave you with nothing. It is meant to show you the difference between a conclusion you hold and a conclusion you have stopped looking at.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What single argument does the treatise use against a creator god, eternal sound, and eternal atoms alike?</div>
+          <button class="opt"><span class="ltr">A</span>That scripture denies them</button>
+          <button class="opt"><span class="ltr">B</span>That no one has ever perceived any of them</button>
+          <button class="opt"><span class="ltr">C</span>That whatever generates or acts thereby changes, and whatever changes is not eternal</button>
+          <button class="opt"><span class="ltr">D</span>That they are all names for the eighth consciousness</button>
+          <div class="expl"><strong>Correct: C.</strong> A dilemma about causation, pressed further: a complete eternal cause should already have produced everything, everywhere, at once.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What is the dilemma the treatise poses for the atom?</div>
+          <button class="opt"><span class="ltr">A</span>With spatial parts it is not truly single and real; without them, nothing can cluster to produce gross matter</button>
+          <button class="opt"><span class="ltr">B</span>Atoms are too small to be perceived, so their existence cannot be established</button>
+          <button class="opt"><span class="ltr">C</span>Atoms must be eternal, and nothing eternal can be material</button>
+          <button class="opt"><span class="ltr">D</span>Atoms are mental images and therefore not external</button>
+          <div class="expl"><strong>Correct: A.</strong> The atom was introduced to be the floor of analysis; it cannot also serve as a building block.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is the treatise's objection to "neither identical nor different"?</div>
+          <button class="opt"><span class="ltr">A</span>It is correct but was stated by the wrong school</button>
+          <button class="opt"><span class="ltr">B</span>It contradicts the Buddha's own words</button>
+          <button class="opt"><span class="ltr">C</span>It cannot be understood without meditative attainment</button>
+          <button class="opt"><span class="ltr">D</span>Taken as assertion, as denial, as both, or as neither, it either says nothing or contradicts itself — an evasion, not a middle position</button>
+          <div class="expl"><strong>Correct: D.</strong> The treatise's own term for the last option is "empty chatter."</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Why does the treatise warn against clinging to Consciousness-Only itself?</div>
+          <button class="opt"><span class="ltr">A</span>Because Consciousness-Only is only a provisional teaching for beginners and is later abandoned as false</button>
+          <button class="opt"><span class="ltr">B</span>Because it is taught to dispel clinging to real external objects, and clinging to it the same way is the very same error relocated</button>
+          <button class="opt"><span class="ltr">C</span>Because consciousness is in fact unreal, as are all dharmas</button>
+          <button class="opt"><span class="ltr">D</span>Because only the Madhyamaka formulation is ultimately correct</button>
+          <div class="expl"><strong>Correct: B.</strong> A corrective, not a bedrock — which is why the rest of the treatise reads as mechanism rather than metaphysics.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What distinguishes innate from discriminated dharma-attachment?</div>
+          <button class="opt"><span class="ltr">A</span>Innate attachment belongs to non-Buddhists; discriminated attachment belongs to Buddhists</button>
+          <button class="opt"><span class="ltr">B</span>Innate attachment is coarse and easy to sever; discriminated attachment is subtle and hard</button>
+          <button class="opt"><span class="ltr">C</span>Discriminated attachment requires a mistaken teaching and lives in the sixth consciousness; innate attachment needs no teaching, runs by itself, and one strand of it is unbroken in the seventh</button>
+          <button class="opt"><span class="ltr">D</span>Innate attachment ends at the first ground; discriminated attachment lasts through all ten</button>
+          <div class="expl"><strong>Correct: C.</strong> Which is why understanding this session's arguments removes the learned layer and leaves the deeper one untouched.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If the teaching you trust most is also something you could cling to wrongly, how would you be able to tell that you were?</p>
+        <p class="sm">The treatise offers one test, and it is uncomfortably simple: notice whether the teaching has become something you defend rather than something you use. An external object and a favourite doctrine are grasped by the same hand.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 3 · The storehouse</h3>
+        <p>The ground is clear. Now the treatise builds — and it starts at the bottom, with the consciousness nobody notices: the one that holds the results of everything you have ever done, runs without interruption through dreamless sleep and death, and is compared to a torrent that is neither permanent nor ever broken off.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-1/' | relative_url }}">← Session 1</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-3/' | relative_url }}">Session 3 · The storehouse →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

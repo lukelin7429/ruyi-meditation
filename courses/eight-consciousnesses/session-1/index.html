@@ -1,0 +1,454 @@
+---
+layout: default
+title: "Session 1 · The self that cannot be found (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-1/
+excerpt: "Session 1 of The Eight Consciousnesses — six ways of being a self, why the Cheng Weishi Lun rejects all six, and what it puts in the place of the one who remembers."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 1 · The ground is cleared</div>
+      <h1>The self that cannot be found</h1>
+      <div class="subt">Six ways of being a self, and a treatise that will not accept any of them</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> nothing at all</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicle 1</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>Why a psychology has to start by losing something<span class="rf">The question the whole treatise exists to answer</span></h2></div>
+
+      <p data-rv>This course is about a model of the mind — eight consciousnesses, fifty-one mental factors, a storehouse underneath them all. It is the most detailed account of how experience gets assembled that anyone produced before the twentieth century, and almost none of it is available in English outside specialist libraries.</p>
+
+      <p data-rv>But the treatise does not begin by building. It begins by clearing. Before it will tell you what is there, it spends most of a fascicle establishing what is not — and it will not let you move on until you have followed the argument.</p>
+
+      <p data-rv>The reason is structural rather than pious. A psychology that still has a self in it does not need eight consciousnesses. It needs one owner and some equipment. Everything the storehouse consciousness will later be asked to do — hold memory, carry the results of action, survive sleep and death, link one moment of experience to the next — is work that a self, if there were one, would already be doing. So the eight only become necessary once the one is gone.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1</div>
+        <p>"If there is only consciousness, how is it that the world, and the sacred teachings themselves, speak of a self and of dharmas?"</p>
+        <div class="zh">若唯有識，云何世間及諸聖教說有我、法？</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Self and Dharmas Are Only Provisionally Spoken Of" →</a>
+      </div>
+
+      <p data-rv>That is the opening challenge, and it is a fair one. Everybody talks this way. Ordinary people say "I"; so do the scriptures, which are full of stream-enterers and once-returners and the Buddha saying "I". If there is only consciousness, what exactly is everyone referring to?</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>The verse that sets the whole architecture<span class="rf">Thirty verses, and everything is in the first one</span></h2></div>
+
+      <p data-rv>The treatise answers in verse first, then spends ten fascicles explaining the verse. Here is the answer entire — and it is worth noticing that the course you are starting is, in outline, already contained in it.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1 · verse 1</div>
+        <p>"The verse says: Because self and dharmas are only provisionally spoken of, all their various characteristics arise. These depend on what consciousness transforms — and this capacity for transformation is of only three kinds: the ripening consciousness, the deliberating consciousness, and the consciousnesses that discriminate objects."</p>
+        <div class="zh">頌曰：由假說我、法，有種種相轉。彼依識所變，此能變唯三：謂異熟、思量，及了別境識。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Self and Dharmas Are Only Provisionally Spoken Of" →</a>
+      </div>
+
+      <p data-rv>Three kinds of transformation. That is the eight consciousnesses, grouped by what they do rather than counted off one by one — and it is the map this course will spend ten sessions filling in.</p>
+
+      <div class="cw-eight" data-rv>
+        <div class="c"><span class="n">1–5</span><span class="nm">The five senses</span><span class="zh">前五識</span></div>
+        <div class="c"><span class="n">6</span><span class="nm">Thinking mind</span><span class="zh">意識</span></div>
+        <div class="c"><span class="n">7</span><span class="nm">Manas</span><span class="zh">末那識</span></div>
+        <div class="c"><span class="n">8</span><span class="nm">Storehouse</span><span class="zh">阿賴耶識</span></div>
+      </div>
+
+      <p data-rv>The verse's three groups run right to left across that map. <strong>The ripening consciousness</strong> (異熟) is the eighth, the storehouse, which holds the results of past action and slowly ripens them into present experience. <strong>The deliberating consciousness</strong> (思量) is the seventh, manas, which does nothing but consider the storehouse and take it for a self. <strong>The consciousnesses that discriminate objects</strong> (了別境識) are the familiar six — five senses and the thinking mind that works with what they bring.</p>
+
+      <p data-rv>Everything else in the treatise is commentary on this. And note what the verse has already conceded: self and dharmas <em>are</em> spoken of, and the speaking is not simply an error to be stamped out. It is provisional — a name laid over something that really is happening.</p>
+
+      <div class="cw-pull" data-rv>The claim is not that you do not exist. It is that what you are is not the kind of thing you take it for.</div>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Six ways of being a self<span class="rf">And why the treatise rejects every one</span></h2></div>
+
+      <p data-rv>Having stated its position, the treatise turns to demolition — and it is unusually systematic about it. It does not attack a straw self. It lays out six specific accounts of what a self could be, which between them cover the live options in the philosophy of its day, and takes each one apart on its own terms.</p>
+
+      <p data-rv>The first three sort selves by <em>size</em>. A self the size of space, present everywhere at once. A self that expands and contracts to fit whatever body it is in. A self as small as a single atom, moving about inside the body to do its work. Each was a real position held by a real school.</p>
+
+      <p data-rv>The refutations are brisk. A self the size of space cannot move, so it cannot act through a body; and if every being's self is everywhere, then when one person acts, everyone acts, and when one person is liberated, everyone is. A self that stretches and shrinks is, by that fact, not unchanging. And the third gets the best line in the fascicle:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1 · refuting a real self</div>
+        <p>"The third view is likewise unreasonable. Why? If self is as minute as a single atom, how could it move an entire large body throughout? If one answers that, though small, it races through the body so fast — like a whirling firebrand that seems to trace a whole ring of fire — that it appears to move everywhere at once, then the self so described is neither a single unity nor permanent, since whatever comes and goes in this way cannot be both permanent and one."</p>
+        <div class="zh">後亦非理，所以者何？我量至小如一極微，如何能令大身遍動？若謂雖小而速巡身，如旋火輪，似遍動者，則所執我非一、非常，諸有往來，非常、一故。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Refuting a Real Self, Six Ways" →</a>
+      </div>
+
+      <p data-rv>The whirling firebrand is worth sitting with, because the treatise is not merely scoring a point. A torch spun fast enough shows you a continuous ring of fire. The ring is not nothing — you can see it, photograph it, be burned by it. But there is no ring. There is a moving point and a slow eye. Every later claim this treatise makes about the self is already folded into that image.</p>
+
+      <p data-rv>The second three sort selves by their <em>relation to the aggregates</em> — to the body-and-mind process you can actually observe. Is the self identical with that process, separate from it, or somehow neither? Identical fails, because the process is plural and changing and the self was supposed to be neither. Separate fails, because something wholly outside body and mind could no more act or feel than empty space can. And the third — neither identical nor separate — gets an answer that is almost rude in its plainness: that is exactly the situation of a pot and its parts, and a pot is not a self.</p>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>Then who is it that remembers?<span class="rf">The objection that matters, and the first appearance of the storehouse</span></h2></div>
+
+      <p data-rv>Here the treatise does something that makes it worth reading rather than summarising. Having demolished the self, it stops and states the strongest objections to its own position — and it states them well.</p>
+
+      <p data-rv>They all have the same shape. Continuity is real: you remember your childhood, you are held responsible for what you did last year, you can be released from a condition you have been in for a long time. Each of those seems to need somebody who persists. Take the self away and who is left to do the persisting?</p>
+
+      <div class="cw-obj" data-rv>
+        <div class="oq">
+          <div class="l">The objection</div>
+          <p>"If there is really no self, how could there be such things as memory, recognition, recitation, habit, gratitude, and resentment?"</p>
+          <div class="zh">實我若無，云何得有憶、識、誦、習、恩、怨等事？</div>
+        </div>
+        <div class="oa">
+          <div class="l">The treatise answers</div>
+          <p>"It is, rather, that every sentient being has its own root consciousness, continuing on as a single stream, maintaining seeds, and serving as a mutual cause together with all dharmas — and it is through the power of this habituation that memory, recognition, and the rest are possible."</p>
+          <div class="zh">然諸有情，各有本識，一類相續，任持種子，與一切法更互為因，熏習力故，得有如是憶、識等事。</div>
+        </div>
+      </div>
+
+      <p data-rv>That answer is the hinge of the entire course, and on a first reading it goes by much too fast. Three technical terms have just been introduced without ceremony — <strong>root consciousness</strong>, <strong>seeds</strong>, and <strong>habituation</strong> — and they are what the next four sessions are about.</p>
+
+      <div class="cw-gloss" data-rv>
+        <div class="g"><b>Root consciousness</b><div class="zh">本識</div><span>The eighth consciousness under one of its many names. Not a self, because it changes every moment; but continuous, because each moment causes the next. Session 3.</span></div>
+        <div class="g"><b>Seeds</b><div class="zh">種子</div><span>The capacity for a future experience, left behind by a past one. What the storehouse stores. Session 4.</span></div>
+        <div class="g"><b>Habituation</b><div class="zh">熏習</div><span>Literally <em>perfuming</em> — how an experience deposits a seed, the way incense leaves its smell in cloth. Session 4.</span></div>
+      </div>
+
+      <p data-rv>The move being made is easy to miss because it is so economical. The objector assumes continuity requires something unchanging to carry it. The treatise simply denies that assumption. A stream can carry things. Nothing in the river stays, and the river gets all the way to the sea.</p>
+
+      <p data-rv>The same answer is then given twice more, for the two objections people actually care about. Who creates karma and receives its result, if there is no self? Mind and mental factors, continuing without interruption, create it and receive it. Who revolves through birth and death, and who grows weary and seeks nirvāṇa? A self that never changes could not revolve through anything, and, being untroubled by suffering, would have no reason to want out. The treatise's verdict on that objection is sharp: <em>what you say only ever undercuts your own position</em>.</p>
+
+      <p data-rv>Then the fascicle closes the argument:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 1 · the refutation concludes</div>
+        <p>"From all this, it can be known for certain that there is no real self. There are only the various consciousnesses which, from beginningless time, cease and arise in succession, continuing on as cause and effect; and, through deluded habituation, they give rise to an appearance resembling a self, which the unenlightened mistakenly cling to as self."</p>
+        <div class="zh">由此故知定無實我，但有諸識無始時來前滅後生，因果相續，由妄熏習，似我相現，愚者於中妄執為我。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-001/' | relative_url }}">Read this passage in its place — fascicle 1, "Four Objections, Answered" →</a>
+      </div>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 1 establishes</b>
+        <ul>
+          <li><b>The question is not whether you exist.</b> It is whether what exists is the kind of thing that rules and possesses — and the treatise argues it is not, six times over.</li>
+          <li><b>Continuity does not require permanence.</b> This is the move everything later depends on. A stream is continuous and nothing in it stays.</li>
+          <li><b>The eight consciousnesses are not decoration.</b> They are what has to be true if there is no self and memory still works.</li>
+          <li><b>An appearance resembling a self really does arise.</b> The treatise never says the sense of "I" is absent. It says it is produced — and Session 6 is about the consciousness that produces it.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Looking for the one who is looking</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">Find the owner</b>
+        <p>The treatise's six refutations are not devotional exercises; they are searches. It is worth running one yourself, once, slowly, rather than agreeing with the conclusion on credit.</p>
+        <div class="how">
+          Sit for ten minutes. Give the first few to settling — nothing to achieve. Then ask one question and look, rather than think: <strong>where is the one who is aware of this?</strong> Not <em>what am I</em> — that invites an answer in words. Where. Try the obvious places. Behind the eyes. In the chest. Everywhere at once. Somewhere small. Each time you locate it, check whether the thing you found is doing the looking, or is one more thing being looked at. When the ten minutes are up, stop. Do not try to reach a conclusion.
+        </div>
+        <p>Two failure modes, both worth expecting. The first is finding nothing and deciding that means nothing is there — the treatise explicitly refuses that extreme. The second is finding a vague spacious awareness and settling in it as the true self, which is the first of the six positions rediscovered from the inside.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">Why does a treatise about eight consciousnesses spend its first fascicle refuting a self?</div>
+          <button class="opt"><span class="ltr">A</span>Because refuting a self is a traditional opening required of all Buddhist treatises</button>
+          <button class="opt"><span class="ltr">B</span>Because everything the eight consciousnesses are needed for — memory, karma, continuity — would already be done by a self, so the eight only become necessary once the self is gone</button>
+          <button class="opt"><span class="ltr">C</span>Because the author wanted to attack rival schools before explaining his own view</button>
+          <button class="opt"><span class="ltr">D</span>Because the eighth consciousness is itself a kind of self, and the others must be cleared away first</button>
+          <div class="expl"><strong>Correct: B.</strong> The structure is an argument, not an etiquette. A psychology with an owner in it does not need a storehouse.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">The opening verse says the capacity for transformation is "of only three kinds." What are they?</div>
+          <button class="opt"><span class="ltr">A</span>Body, speech, and mind</button>
+          <button class="opt"><span class="ltr">B</span>Perceived aspect, perceiving aspect, and self-witnessing aspect</button>
+          <button class="opt"><span class="ltr">C</span>The ripening consciousness, the deliberating consciousness, and the consciousnesses that discriminate objects</button>
+          <button class="opt"><span class="ltr">D</span>Seeds, habituation, and the storehouse</button>
+          <div class="expl"><strong>Correct: C.</strong> The eighth, the seventh, and the six — the whole architecture, named in a single line of verse.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is the point of the whirling firebrand?</div>
+          <button class="opt"><span class="ltr">A</span>A continuous ring is genuinely seen, yet there is no ring — only a moving point and a slow eye</button>
+          <button class="opt"><span class="ltr">B</span>The self is like fire — it consumes whatever it touches</button>
+          <button class="opt"><span class="ltr">C</span>Meditation moves too fast for ordinary perception to follow</button>
+          <button class="opt"><span class="ltr">D</span>The self is real but moves too quickly to be located</button>
+          <div class="expl"><strong>Correct: A.</strong> And note the care in it — the appearance is not dismissed as nothing. It is explained.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">How does the treatise answer "if there is no self, who remembers?"</div>
+          <button class="opt"><span class="ltr">A</span>Memory is an illusion and nothing is really remembered</button>
+          <button class="opt"><span class="ltr">B</span>A subtle self persists for exactly as long as memory requires</button>
+          <button class="opt"><span class="ltr">C</span>The question cannot be answered in words and should be dropped</button>
+          <button class="opt"><span class="ltr">D</span>Each being has a root consciousness continuing as a single stream, maintaining seeds — continuity without anything unchanging to carry it</button>
+          <div class="expl"><strong>Correct: D.</strong> The objector's hidden assumption is that continuity needs a permanent carrier. That is precisely what gets denied.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">According to the fascicle's closing line, what happens to the appearance of a self?</div>
+          <button class="opt"><span class="ltr">A</span>It ceases entirely once the refutation is understood</button>
+          <button class="opt"><span class="ltr">B</span>It really does arise, through deluded habituation, and the unenlightened cling to it as a self</button>
+          <button class="opt"><span class="ltr">C</span>It never arises in the first place; only philosophers imagine it</button>
+          <button class="opt"><span class="ltr">D</span>It is the eighth consciousness correctly perceived</button>
+          <div class="expl"><strong>Correct: B.</strong> The treatise is careful here. The appearance is produced, not absent — which is why understanding the argument does not dissolve the feeling.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If nothing in you stays, what is it that you have been protecting all this time?</p>
+        <p class="sm">The treatise's answer is that you have been protecting an appearance — something produced, moment by moment, by a consciousness whose only job is to look at the storehouse and call it "I." That consciousness has a name and a chapter of its own, and we reach it in Session 6. But the question is better held open for a while first.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 2 · And against everything else</h3>
+        <p>Having removed the self, the treatise spends the rest of fascicle 1 and most of fascicle 2 removing everything else — creator gods, eternal atoms, eternal sound, the categories of rival schools, and finally the realist positions of other Buddhists. It ends somewhere unexpected: with a warning that "Consciousness-Only" can itself become one more thing to cling to.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/' | relative_url }}">← Course overview</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-2/' | relative_url }}">Session 2 · And against everything else →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

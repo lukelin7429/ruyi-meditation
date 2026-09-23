@@ -1,0 +1,454 @@
+---
+layout: default
+title: "Session 3 · The storehouse (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-3/
+excerpt: "Session 3 of The Eight Consciousnesses — the eighth consciousness, why it is called a storehouse three times over, and the torrent that is neither permanent nor ever broken off."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 3</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 3 · The eighth consciousness</div>
+      <h1>The storehouse</h1>
+      <div class="subt">A consciousness you never notice, running underneath the one you do</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–2</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicles 2–3</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>The job description, written before the applicant<span class="rf">What the last two sessions have quietly required</span></h2></div>
+
+      <p data-rv>Two sessions of demolition have left a list of unpaid debts. Memory works, and nothing permanent carries it. Actions have consequences that arrive years later, and no self is waiting to collect them. You fall into dreamless sleep, or faint, or die, and something continues — the person who wakes is the person who slept, without anyone having minded the shop.</p>
+
+      <p data-rv>Each of those was answered in Session 1 with a phrase the treatise dropped without explanation: <em>every sentient being has its own root consciousness, continuing on as a single stream, maintaining seeds</em>. This session is about that consciousness.</p>
+
+      <div class="cw-eight" data-rv>
+        <div class="c"><span class="n">1–5</span><span class="nm">The five senses</span><span class="zh">前五識</span></div>
+        <div class="c"><span class="n">6</span><span class="nm">Thinking mind</span><span class="zh">意識</span></div>
+        <div class="c"><span class="n">7</span><span class="nm">Manas</span><span class="zh">末那識</span></div>
+        <div class="c on"><span class="n">8</span><span class="nm">Storehouse</span><span class="zh">阿賴耶識</span></div>
+      </div>
+
+      <p data-rv>It is worth saying at the outset what this is not. The eighth consciousness is not a soul with the serial numbers filed off, and it is not the "true self" that the previous two sessions were clearing space for. It changes every moment. It has no moral character of its own. It does not know anything in the ordinary sense, and — the treatise is emphatic — it cannot be observed.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>The verse<span class="rf">Everything about the eighth consciousness, in ten lines</span></h2></div>
+
+      <p data-rv>As with the opening, the treatise states its whole position in verse before explaining any of it. Read this once now and once again at the end of the course; almost every remaining session is an unpacking of one of its lines.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the ālayavijñāna verse</div>
+        <p>"The verse says: The first is the ālayavijñāna — ripening, holding all seeds. What it grasps and sustains, and its own domain, are unknowable. It is constantly joined with contact, attention, feeling, perception, and volition, and only ever with neutral feeling. It is unobstructed and morally indeterminate; contact and the other mental factors that accompany it are likewise so. It flows on constantly, like a rushing torrent, and is relinquished at the stage of the arhat."</p>
+        <div class="zh">頌曰：初阿賴耶識，異熟一切種，不可知執受，處了常與觸，作意、受、想、思，相應唯捨受。是無覆無記，觸等亦如是，恒轉如瀑流，阿羅漢位捨。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Ālayavijñāna Verse" →</a>
+      </div>
+
+      <p data-rv>Three things in that verse should stop a careful reader.</p>
+
+      <p data-rv><strong>"Unknowable."</strong> Not <em>subtle</em>, not <em>hard to notice</em> — the verse says what this consciousness grasps, and the domain it operates in, cannot be known. The one thing holding your life together is structurally unavailable to introspection. Every argument for its existence will therefore have to be indirect, and Part 4 is about that.</p>
+
+      <p data-rv><strong>"Only ever with neutral feeling."</strong> The storehouse never enjoys anything and never suffers anything. Pleasure and pain belong to the consciousnesses further up. Whatever is doing the suffering in your life, it is not this.</p>
+
+      <p data-rv><strong>"Unobstructed and morally indeterminate."</strong> The storehouse is not good and not bad. It holds the seeds of murders and the seeds of kindnesses with exactly the same grip. This is not moral indifference in the modern sense — it is a claim about storage. A container that favoured good contents would not be a container.</p>
+
+      <h3>Why "storehouse" three times over</h3>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the threefold meaning</div>
+        <p>"the first transforming consciousness is called, in both Mahāyāna and Hīnayāna teaching, the ālaya — the "storehouse" — because this consciousness carries a threefold meaning: that which stores, that which is stored, and that which is clung to as a store."</p>
+        <div class="zh">初能變識，大小乘教名阿賴耶，此識具有能藏、所藏、執藏義故。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Ālayavijñāna Verse" →</a>
+      </div>
+
+      <p data-rv>Three relations, not three things. It <strong>stores</strong> — it holds the seeds. It <strong>is stored</strong> — the defilements deposit into it, so it is also the passive party. And it <strong>is clung to</strong> as a store — somebody is holding onto it and calling it "me."</p>
+
+      <p data-rv>That third meaning is the one to mark. It tells you that the eighth consciousness is not merely a mechanism but a <em>target</em>. Something is grasping it. The treatise will not say what until Session 6, but the sense of being a self is already, at this stage, being traced to a specific error made by a specific part of the mind about this specific object.</p>
+
+      <div class="cw-gloss" data-rv>
+        <div class="g"><b>Self-characteristic</b><div class="zh">自相</div><span>What it <em>is</em> — a storehouse, holding cause and effect together.</span></div>
+        <div class="g"><b>Result-characteristic</b><div class="zh">果相</div><span>What it <em>is the outcome of</em> — "ripening," the matured fruit of past action across a whole life.</span></div>
+        <div class="g"><b>Cause-characteristic</b><div class="zh">因相</div><span>What it <em>causes</em> — "holding all seeds," which nothing else can do.</span></div>
+      </div>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Neither permanent nor interrupted<span class="rf">The image the whole model rests on</span></h2></div>
+
+      <p data-rv>Here is the pressure point. A storehouse that changes cannot hold anything reliably; a storehouse that does not change is the permanent self this treatise has spent a fascicle destroying. The verse answers in four characters — <em>恒轉如瀑流</em>, it flows on constantly like a rushing torrent — and fascicle 3 spends a section on the image.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 3 · the torrent</div>
+        <p>"Just as the water of a rushing torrent is neither interrupted nor permanent, and yet, continuing over a long span, carries things along and can drown them — so too this consciousness, continuing in arising and ceasing from beginningless time, is neither permanent nor interrupted, and carries sentient beings along, keeping them from escaping saṃsāra. And just as a torrent, though struck by wind, raises waves on its surface without its flow ever breaking — so too this consciousness, though it encounters countless conditions and gives rise to the eye-consciousness and the rest, nevertheless continues constantly, without interruption. And just as a torrent carries fish, grass, and other things along on and beneath its surface, never releasing them from the current — so too this consciousness moves constantly together with its own inner habitual tendencies and outer factors like contact."</p>
+        <div class="zh">如瀑流水，非斷、非常，相續長時有所漂溺，此識亦爾，從無始來生滅相續，非常、非斷，漂溺有情令不出離。又如瀑流，雖風等擊，起諸波浪而流不斷，此識亦爾，雖遇眾緣，起眼識等而恒相續。又如瀑流，漂水下上魚、草等物，隨流不捨，此識亦爾，與內習氣外觸等法恒相隨轉。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-003/' | relative_url }}">Read this passage in its place — fascicle 3, "Neither Permanent Nor Interrupted — The Torrent" →</a>
+      </div>
+
+      <p data-rv>Three similes, and they are doing three different jobs. The <strong>drowning</strong> says the river has power over what is in it — this is not a neutral metaphor about flux, it is about being carried somewhere you did not choose. The <strong>waves</strong> answer the obvious objection: if the eighth consciousness is continuous, why does experience come in bursts? Because the surface is not the current. Seeing, hearing and thinking are wind-raised waves; the flow beneath them never breaks. And the <strong>fish and grass</strong> say the river is never empty — it is always carrying the whole accumulated freight of habit.</p>
+
+      <p data-rv>Then the treatise gives the mechanism in one image, and it is the most precise thing in the section:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 3 · the scale beam</div>
+        <p>"At the very moment a prior cause ceases, the subsequent result arises at once — just as the two ends of a scale rise and fall at exactly the same time."</p>
+        <div class="zh">前因滅位後果即生，如秤兩頭低、昂時等，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-003/' | relative_url }}">Read this passage in its place — fascicle 3, "Neither Permanent Nor Interrupted — The Torrent" →</a>
+      </div>
+
+      <p data-rv>This is why no gap opens and no bridge is needed. There is no instant in which the cause has gone and the result has not yet come — the falling and the rising are one event, seen from two ends. Continuity is not something added to a series of moments. It is what the series <em>is</em>.</p>
+
+      <div class="cw-pull" data-rv>Because the result arises, it is not interrupted; because the cause ceases, it is not permanent.</div>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>How would you know?<span class="rf">An unobservable consciousness, and the problem that creates</span></h2></div>
+
+      <p data-rv>A consciousness whose domain is "unknowable" is in an awkward evidential position, and the treatise knows it. Fascicle 3 turns to the question directly and spends the rest of itself, and part of fascicle 4, answering it — first from scripture, then with <em>ten arguments from reason alone</em>.</p>
+
+      <p data-rv>The arguments are all of one type, and it is a type worth naming, because it is how the eighth consciousness is argued for and also how it could be argued against. Each one identifies something the tradition already accepts as happening, shows that none of the six familiar consciousnesses can account for it, and concludes that something else must be doing the work.</p>
+
+      <p data-rv>The strongest case is the meditative attainment called <em>cessation</em>, in which — by everyone's account, including that of the rival schools — the six consciousnesses stop entirely. The person is not dead. Something maintains the body, holds the seeds, and lets ordinary consciousness resume. Whatever that is, it is not any of the six, because by definition none of them is running. Sleep, fainting and death are the everyday versions of the same argument.</p>
+
+      <p data-rv>Read charitably, this is an inference to the best explanation, and it stands or falls on whether a better one is available. Read uncharitably, a critic will say the same work could be done by the body, or by dispositions, without positing a consciousness at all. The treatise's answer is that a storehouse of <em>seeds</em> — of specific capacities for specific future experiences — is doing more than a body can, which is what Session 4 is about.</p>
+
+      <h3>When the storehouse is given up</h3>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 3 · relinquishing the name</div>
+        <p>"This consciousness constantly flows, like a torrent, from beginningless time — so at what stage is it finally, ultimately relinquished? Only at the stage of the arhat."</p>
+        <div class="zh">此識無始恒轉如流，乃至何位當究竟捨？阿羅漢位方究竟捨。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-003/' | relative_url }}">Read this passage in its place — fascicle 3, "When Is the Name Ālaya Finally Relinquished?" →</a>
+      </div>
+
+      <p data-rv>This line is regularly misread, so it is worth being careful. What ends at arhatship is not the eighth consciousness. It is the <em>name</em> — "storehouse" — and the name goes because its third meaning has gone. Nothing is clinging to it as a self any more, so it is no longer a store in the sense that mattered. The stream continues; it is simply no longer being mistaken for someone. The treatise gives it other names for that condition, and Session 10 follows it all the way to what it becomes.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 3 establishes</b>
+        <ul>
+          <li><b>The eighth consciousness is a storehouse three times over</b> — it stores, it is stored into, and it is clung to. The third is the one that produces a self.</li>
+          <li><b>It is unknowable, neutral, and morally indeterminate.</b> Whatever you can observe in yourself, it is not this.</li>
+          <li><b>Constant and flowing at once.</b> The waves are not the current; the current never breaks.</li>
+          <li><b>No gap ever opens.</b> The cause ceases and the result arises in one motion, like the two ends of a scale.</li>
+          <li><b>The case for it is inference, not observation</b> — from sleep, cessation, and death, where the other six are not running and something still is.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Watching the surface, inferring the current</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">The waves and the flow</b>
+        <p>You cannot observe the eighth consciousness; the verse says so. But you can observe the thing the second simile is about — that experience arrives in bursts while something underneath does not seem to be starting and stopping.</p>
+        <div class="how">
+          Sit for fifteen minutes with your eyes open, somewhere with a little ambient sound. Do not try to concentrate. Instead, watch the <em>arrivals</em>: a sound registering, a thought forming, an itch, a visual shift. Notice that each is a discrete event with an edge — it begins.<br><br>
+          Then ask, without answering in words: <strong>in between two arrivals, was there a gap in me?</strong> Not "was I aware of a gap" — whether anything was interrupted. Keep returning to that. When you notice you have drifted into a story about continuity, go back to watching arrivals.
+        </div>
+        <p>What the exercise can show is modest and real: the discreteness of the waves is directly observable, and the unbrokenness underneath is not something you can catch — you only ever find it already resumed. That gap between what you can watch and what you must infer is exactly the evidential situation the treatise is in.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What are the three meanings packed into the word "storehouse"?</div>
+          <button class="opt"><span class="ltr">A</span>Past, present, and future seeds</button>
+          <button class="opt"><span class="ltr">B</span>Body, sensation, and memory</button>
+          <button class="opt"><span class="ltr">C</span>Storing, ripening, and relinquishing</button>
+          <button class="opt"><span class="ltr">D</span>That which stores, that which is stored, and that which is clung to as a store</button>
+          <div class="expl"><strong>Correct: D.</strong> The third is the important one — it means something is grasping this consciousness and calling it "me."</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What does the second torrent simile — the wind raising waves — answer?</div>
+          <button class="opt"><span class="ltr">A</span>Why the storehouse is morally neutral</button>
+          <button class="opt"><span class="ltr">B</span>Why experience arrives in bursts even though the eighth consciousness is unbroken: the surface is not the current</button>
+          <button class="opt"><span class="ltr">C</span>Why meditation calms the mind</button>
+          <button class="opt"><span class="ltr">D</span>Why the storehouse can be perceived by advanced practitioners</button>
+          <div class="expl"><strong>Correct: B.</strong> Seeing, hearing and thinking are wind-raised waves; the flow beneath them never breaks.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is the point of the scale-beam image?</div>
+          <button class="opt"><span class="ltr">A</span>That good and bad karma must balance exactly</button>
+          <button class="opt"><span class="ltr">B</span>That the mind weighs its options before acting</button>
+          <button class="opt"><span class="ltr">C</span>That the cause ceasing and the result arising are one event, so no gap ever opens and no permanent carrier is needed</button>
+          <button class="opt"><span class="ltr">D</span>That past and future must be substantially real for causation to work</button>
+          <div class="expl"><strong>Correct: C.</strong> The treatise is explicitly arguing <em>against</em> D — that is the position it raises in order to refuse.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What form do the arguments for the eighth consciousness take?</div>
+          <button class="opt"><span class="ltr">A</span>Inference: something accepted as real — sleep, cessation, death — cannot be accounted for by any of the six consciousnesses, so something else must be doing the work</button>
+          <button class="opt"><span class="ltr">B</span>Direct observation in deep meditation</button>
+          <button class="opt"><span class="ltr">C</span>Scriptural authority alone, since reason cannot reach it</button>
+          <button class="opt"><span class="ltr">D</span>Logical necessity, since its denial is self-contradictory</button>
+          <div class="expl"><strong>Correct: A.</strong> The verse calls its domain unknowable, so the case has to be indirect — an inference to the best explanation, and it can be argued with on those terms.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What exactly is relinquished at the stage of the arhat?</div>
+          <button class="opt"><span class="ltr">A</span>The eighth consciousness ceases altogether</button>
+          <button class="opt"><span class="ltr">B</span>The name "storehouse" — because nothing is clinging to it as a self any longer, so it is no longer a store in the sense that mattered</button>
+          <button class="opt"><span class="ltr">C</span>All the seeds it has held since beginningless time</button>
+          <button class="opt"><span class="ltr">D</span>The ability to be reborn in any realm</button>
+          <div class="expl"><strong>Correct: B.</strong> The stream continues; it has simply stopped being mistaken for someone.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If the thing that carries your whole life cannot be observed, what exactly have you been attending to all these years?</p>
+        <p class="sm">The treatise's answer is: the waves. Not an error — the waves are real, and they are what there is to attend to. But it means introspection, however patient, is watching the surface of something it cannot reach, and it is worth knowing that before drawing conclusions from what you find there.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 4 · Seeds and perfuming</h3>
+        <p>What is actually in the storehouse, how it got there, and the treatise's answer to a question it takes with unusual seriousness — whether the seeds were there all along or are laid down by experience. The answer it settles on is neither, and the argument is one of the sharpest in the ten fascicles.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-2/' | relative_url }}">← Session 2</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-4/' | relative_url }}">Session 4 · Seeds and perfuming →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

@@ -1,0 +1,263 @@
+---
+layout: default
+title: The Eight Consciousnesses
+permalink: /courses/eight-consciousnesses/
+excerpt: A ten-session elective reading the Cheng Weishi Lun straight through — the most detailed account of how experience is assembled that anyone produced before the twentieth century.
+---
+
+<style>
+  .ci{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .ci *{box-sizing:border-box;}
+  .ci-wrap{max-width:940px;margin:0 auto;padding:0 26px;}
+
+  .js .ci [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ci [data-rv].in{opacity:1;transform:none;}
+
+  .ci-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ci-crumb .ci-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);}
+  .ci-crumb a{color:var(--base);text-decoration:none;}
+  .ci-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .ci-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 82% 12%,rgba(215,178,99,.22),transparent 62%),
+      linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);}
+  .ci-hero-in{position:relative;z-index:2;max-width:940px;margin:0 auto;padding:78px 26px 70px;}
+  .ci-eyebrow{font-size:12.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .ci-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(36px,6vw,62px);line-height:1.06;margin:16px 0 6px;max-width:16ch;}
+  .ci-hero .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:19px;color:#bdb5d6;}
+  .ci-rule{width:62px;height:3px;background:var(--acc);border-radius:3px;margin:22px 0;}
+  .ci-hero p{max-width:600px;font-size:18.5px;line-height:1.72;color:#ddd7ef;}
+  .ci-hero .facts{display:flex;flex-wrap:wrap;gap:9px 20px;margin-top:26px;font-size:14px;color:#bdb5d6;}
+  .ci-hero .facts b{color:var(--acc);}
+
+  /* hero art — eight strata with a light rising through them */
+  .ci-art{position:absolute;right:-40px;top:50%;transform:translateY(-50%);width:380px;height:380px;z-index:1;opacity:.85;}
+  @media(max-width:900px){.ci-art{opacity:.22;right:-120px;}}
+  .ci-art .lay{stroke:rgba(215,178,99,.5);stroke-width:2;fill:none;}
+  .ci-art .lay.deep{stroke:rgba(215,178,99,.85);}
+  .ci-art .spark{fill:var(--acc);}
+  .ci-art .rise{animation:cirise 7s cubic-bezier(.5,0,.5,1) infinite;}
+  @keyframes cirise{0%{transform:translateY(0);opacity:0;}8%{opacity:1;}
+    88%{transform:translateY(-224px);opacity:1;}100%{transform:translateY(-244px);opacity:0;}}
+  .ci-art .pulse{animation:cipulse 7s ease-in-out infinite;transform-origin:center;}
+  @keyframes cipulse{0%,100%{opacity:.35;}50%{opacity:1;}}
+
+  /* BODY */
+  .ci-body{background:#fff;padding:66px 0 40px;}
+  .ci-body h2{font-family:'Playfair Display',serif;font-size:clamp(25px,3.8vw,34px);color:var(--ink);margin:0 0 14px;line-height:1.16;}
+  .ci-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;max-width:72ch;}
+  .ci-sec{padding-bottom:46px;margin-bottom:46px;border-bottom:1px solid var(--line);}
+  .ci-sec:last-child{border-bottom:0;margin-bottom:0;}
+
+  .ci-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:21px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:20px 0;margin:28px 0;text-align:center;}
+
+  /* SCHEDULE */
+  .ci-ses{display:block;text-decoration:none;border:1px solid var(--line);border-left:4px solid var(--base);
+    border-radius:0 13px 13px 0;padding:18px 22px;margin-bottom:12px;background:#fff;
+    transition:transform .28s cubic-bezier(.22,.61,.36,1),box-shadow .28s,border-left-color .28s;}
+  .ci-ses:hover{transform:translateX(5px);text-decoration:none;box-shadow:0 18px 34px -26px rgba(21,18,44,.7);border-left-color:var(--acc);}
+  .ci-ses .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;}
+  .ci-ses .n{font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);}
+  .ci-ses h3{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:0;transition:color .25s;}
+  .ci-ses:hover h3{color:var(--base);}
+  .ci-ses .src{font-size:12.5px;color:var(--ink-soft);font-style:italic;margin-left:auto;}
+  .ci-ses p{font-size:15px;line-height:1.62;color:var(--ink-soft);margin:7px 0 0;max-width:none;}
+
+  /* SOURCE CARDS */
+  .ci-srcs{display:grid;gap:16px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:760px){.ci-srcs{grid-template-columns:1fr 1fr;}}
+  .ci-card{display:block;text-decoration:none;border:1px solid var(--line);border-radius:14px;padding:20px 22px;background:var(--cream);
+    transition:transform .28s,box-shadow .28s;}
+  .ci-card:hover{transform:translateY(-4px);text-decoration:none;box-shadow:0 20px 38px -26px rgba(21,18,44,.6);}
+  .ci-card b{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);margin-bottom:3px;}
+  .ci-card .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:13.5px;color:var(--acc-deep);font-weight:600;margin-bottom:8px;}
+  .ci-card span{display:block;font-size:14.5px;line-height:1.6;color:var(--ink-soft);}
+
+  .ci-note{border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf6,#f6f1e6);
+    border-radius:0 14px 14px 0;padding:24px 28px;margin:26px 0;}
+  .ci-note b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--acc-deep);margin-bottom:8px;}
+  .ci-note p{font-size:16px;line-height:1.72;color:var(--ink);margin:0 0 12px;}
+  .ci-note p:last-child{margin-bottom:0;}
+
+  .ci-start{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin:36px 0 70px;}
+  .ci-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;
+    transition:transform .2s,box-shadow .2s;}
+  .ci-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 14px 28px -14px rgba(21,18,44,.85);}
+  .ci-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -14px rgba(21,18,44,.95);}
+  .ci-btn.ghost{border:1.5px solid var(--base);color:var(--base);}
+  .ci-btn.ghost:hover{background:var(--base);color:#fff;text-decoration:none;}
+</style>
+
+<div class="ci">
+
+  <nav class="ci-crumb"><div class="ci-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → The Eight Consciousnesses</div></nav>
+
+  <section class="ci-hero">
+    <svg class="ci-art" viewBox="0 0 300 300" aria-hidden="true">
+      <g class="pulse">
+        <line class="lay" x1="60" y1="46" x2="240" y2="46"/>
+        <line class="lay" x1="60" y1="74" x2="240" y2="74"/>
+        <line class="lay" x1="60" y1="102" x2="240" y2="102"/>
+        <line class="lay" x1="60" y1="130" x2="240" y2="130"/>
+        <line class="lay" x1="60" y1="158" x2="240" y2="158"/>
+        <line class="lay" x1="60" y1="186" x2="240" y2="186"/>
+        <line class="lay deep" x1="60" y1="234" x2="240" y2="234"/>
+        <line class="lay deep" x1="60" y1="272" x2="240" y2="272"/>
+      </g>
+      <g class="rise"><circle class="spark" cx="150" cy="272" r="5"/></g>
+    </svg>
+    <div class="ci-hero-in">
+      <div class="ci-eyebrow">Ru-Yi Academy · Layer 4 elective</div>
+      <h1>The Eight Consciousnesses</h1>
+      <div class="zh">八識 · 唯識 — Yogācāra as a psychology</div>
+      <div class="ci-rule"></div>
+      <p>Ten sessions straight through the <em>Cheng Weishi Lun</em> — the most detailed account of how experience is assembled that anyone produced before the twentieth century, and one that is almost entirely absent from English-language Buddhism.</p>
+      <div class="facts">
+        <span><b>10 sessions</b> · all live</span>
+        <span><b>Hard</b> · an elective, and meant to be</span>
+        <span><b>English</b>, with the Chinese beside every quotation</span>
+        <span><b>Free</b> · the whole treatise is on this site</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="ci-body">
+    <div class="ci-wrap">
+
+      <div class="ci-sec" data-rv>
+        <h2>A mind taken apart, piece by piece</h2>
+        <p>Most English writing about Buddhist psychology stops at mindfulness. The <em>Cheng Weishi Lun</em> does not begin there. It asks what a moment of experience is <em>made of</em> — and answers with eight consciousnesses, fifty-one mental factors, a storehouse holding the results of everything you have ever done, and a fourfold division inside every single act of knowing.</p>
+        <p>It was assembled in 659 CE by Xuanzang, who had studied at Nālandā and came back to China with ten Indian commentaries on Vasubandhu's <em>Thirty Verses</em>. Rather than choose one, he wove all ten into a single continuous argument. The result is the most rigorous philosophical treatment of mind in the Buddhist canon, and it reads less like scripture than like a court transcript: a position is stated, an opponent objects, the objection is answered, and the reader is expected to keep up.</p>
+        <div class="ci-pull">The claim is not that you do not exist. It is that what you are is not the kind of thing you take it for.</div>
+        <p>This course takes a single route through all ten fascicles. It does not summarise the treatise — every session quotes it directly, in Ru-Yi's own translation, with the Chinese beside the English and a link back to the passage in place. What the course adds is a road: which arguments to read in which order, what each one is for, and where the treatise is strongest and where, honestly assessed, it is not.</p>
+      </div>
+
+      <div class="ci-sec" data-rv>
+        <h2>The ten sessions</h2>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-1/' | relative_url }}">
+          <div class="top"><span class="n">Session 1</span><h3>The self that cannot be found</h3><span class="src">fascicle 1</span></div>
+          <p>Six accounts of what a self could be, and why the treatise rejects all six — including the whirling firebrand. Then the objection that matters: if there is no self, who remembers?</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-2/' | relative_url }}">
+          <div class="top"><span class="n">Session 2</span><h3>And against everything else</h3><span class="src">fascicles 1–2</span></div>
+          <p>Creator gods, eternal sound, eternal atoms, four corners and no fifth — ending with a warning aimed at the treatise's own readers: Consciousness-Only can itself become an attachment.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-3/' | relative_url }}">
+          <div class="top"><span class="n">Session 3</span><h3>The storehouse</h3><span class="src">fascicles 2–3</span></div>
+          <p>The eighth consciousness — unknowable, morally blank, and never interrupted. The torrent that is neither permanent nor broken off, and the scale beam that explains why no gap ever opens.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-4/' | relative_url }}">
+          <div class="top"><span class="n">Session 4</span><h3>Seeds and perfuming</h3><span class="src">fascicle 2</span></div>
+          <p>What a seed actually is, whether seeds are innate or laid down by experience, and the four conditions something must meet before experience can mark it — including the one that means nobody can mark anyone but themselves.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-5/' | relative_url }}">
+          <div class="top"><span class="n">Session 5</span><h3>The four parts of a single knowing</h3><span class="src">fascicle 2</span></div>
+          <p>The treatise's most original contribution: seen, seeing, awareness of seeing, and confirmation of that awareness — with a real argument for why the series stops at four. And how billions of private minds share one world.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-6/' | relative_url }}">
+          <div class="top"><span class="n">Session 6</span><h3>The one that takes it for a self</h3><span class="src">fascicles 4–5</span></div>
+          <p>Manas — one object, one activity, four permanent afflictions, and no interruption for sleep. The part of the model with no Western counterpart, and the reason understanding the argument changes nothing.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-7/' | relative_url }}">
+          <div class="top"><span class="n">Session 7</span><h3>The six, and the fifty-one</h3><span class="src">fascicles 5–7</span></div>
+          <p>The consciousnesses you actually notice, and the full inventory of what accompanies them — five always present, eleven wholesome, twenty-six kinds of trouble. Including a definition of faith that is not belief.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-8/' | relative_url }}">
+          <div class="top"><span class="n">Session 8</span><h3>Is this idealism?</h3><span class="src">fascicle 7</span></div>
+          <p>What the word <em>only</em> negates and what it leaves standing; why other minds are genuinely real and permanently out of direct reach; and one argument that, assessed honestly, does not succeed.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-9/' | relative_url }}">
+          <div class="top"><span class="n">Session 9</span><h3>Three natures, five stages</h3><span class="src">fascicles 8–9</span></div>
+          <p>Three ways of being real, the single word that stops the system collapsing into nihilism, and a path whose longest stage comes <em>after</em> the moment of seeing.</p>
+        </a>
+
+        <a class="ci-ses" href="{{ '/courses/eight-consciousnesses/session-10/' | relative_url }}">
+          <div class="top"><span class="n">Session 10</span><h3>Transformation at the base</h3><span class="src">fascicle 10</span></div>
+          <p>The eight become four wisdoms — and nothing is replaced. The organ of self-division turns into the organ of compassion, and a ten-fascicle treatise ends by giving its merit away.</p>
+        </a>
+      </div>
+
+      <div class="ci-sec" data-rv>
+        <h2>What the course reads</h2>
+        <p>Every quotation is from this site's own translations, made directly from the Chinese. The course's spine is the <em>Cheng Weishi Lun</em> itself; the rest of the school is here for anyone who wants to go further.</p>
+        <div class="ci-srcs">
+          <a class="ci-card" href="{{ '/sutras/cheng-weishi-lun/' | relative_url }}">
+            <b>Cheng Weishi Lun</b><div class="zh">成唯識論 · 十卷</div>
+            <span>The spine of the course. All ten fascicles complete, Chinese beside English, with reading notes throughout. Taishō T31, no. 1585.</span>
+          </a>
+          <a class="ci-card" href="{{ '/sutras/stages-of-yogic-practice/' | relative_url }}">
+            <b>Yogācārabhūmi</b><div class="zh">瑜伽師地論 · 一百卷</div>
+            <span>The school's foundational encyclopedia, in a hundred fascicles. The treatise cites it constantly; it is complete here.</span>
+          </a>
+          <a class="ci-card" href="{{ '/sutras/mahayanasamgraha/' | relative_url }}">
+            <b>Mahāyānasaṃgraha</b><div class="zh">攝大乘論</div>
+            <span>Asaṅga's summary of the Mahāyāna. Source of the wick-and-flame and bundled-reeds images used in Session 4.</span>
+          </a>
+          <a class="ci-card" href="{{ '/sutras/samdhinirmocana-sutra/' | relative_url }}">
+            <b>Saṃdhinirmocana Sūtra</b><div class="zh">解深密經</div>
+            <span>The sūtra the school treats as its scriptural charter, where the storehouse consciousness and the three natures are first taught.</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="ci-sec" data-rv>
+        <h2>Before you start</h2>
+
+        <div class="ci-note">
+          <b class="h">This is an elective, and it is hard</b>
+          <p>No prior course is strictly required, but this is the deep end of the Academy. If you have not read a Buddhist text closely before, <a href="{{ '/courses/read-a-whole-sutra/' | relative_url }}">Read a Whole Sūtra</a> is the place to begin, and <a href="{{ '/courses/six-questions/' | relative_url }}">Six Questions</a> introduces several of the ideas this course assumes — its first two sessions use the opening fascicles of this same treatise, read comparatively against the Theravāda tradition rather than straight through.</p>
+          <p>The sessions are about thirty-five minutes each and are meant to be read slowly, one a week rather than one an evening. Each ends with a practice and five questions.</p>
+        </div>
+
+        <div class="ci-note">
+          <b class="h">What this course leaves out</b>
+          <p>A great deal. The course quotes perhaps a fiftieth of the treatise. Left out entirely: the ten arguments from reason for the eighth consciousness, the four conditions and ten causes, the five fruits, the twelve links, the ten grounds with their obstacles and their kinds of suchness, and most of the detailed debates between the ten Indian masters that Xuanzang wove together.</p>
+          <p>The course is a route, not a replacement. Everything it skips is on this site, in full.</p>
+        </div>
+
+        <div class="ci-note">
+          <b class="h">Where the treatise is argued with</b>
+          <p>This course does not present the <em>Cheng Weishi Lun</em> as settled. Session 8 states plainly that one of its arguments — the appeal to waking from a dream — converts all possible counter-evidence into confirmation, and so functions as a frame rather than a demonstration. Other schools disagreed with it at length, and the Madhyamaka elective, <strong>Nothing Stands</strong>, reads the tradition that pressed hardest on its central claim.</p>
+        </div>
+      </div>
+
+      <div class="ci-start" data-rv>
+        <a class="ci-btn primary" href="{{ '/courses/eight-consciousnesses/session-1/' | relative_url }}">Begin with Session 1 →</a>
+        <a class="ci-btn ghost" href="{{ '/courses/' | relative_url }}">← All courses</a>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.ci [data-rv]'));
+  var ticking = false;
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      if (rv[i].getBoundingClientRect().top < vh - 60){ rv[i].classList.add('in'); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+})();
+</script>

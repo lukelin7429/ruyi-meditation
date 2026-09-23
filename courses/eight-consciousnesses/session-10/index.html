@@ -1,0 +1,452 @@
+---
+layout: default
+title: "Session 10 · Transformation at the base (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-10/
+excerpt: "Session 10 of The Eight Consciousnesses — the eight consciousnesses become four wisdoms, the storehouse becomes a mirror, and a ten-fascicle treatise ends by giving its merit away."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 10</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 10 · Where the course has been going</div>
+      <h1>Transformation at the base</h1>
+      <div class="subt">The eight become four wisdoms — and nothing is replaced</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–9</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicle 10</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>Turning, not swapping<span class="rf">What 轉依 actually names</span></h2></div>
+
+      <p data-rv>The phrase has been arriving since Session 6 without explanation: <em>the transformation of the basis</em>, 轉依. It is where the course ends, and the whole weight of the model rests on getting the word right.</p>
+
+      <div class="cw-eight" data-rv>
+        <div class="c on"><span class="n">1–5</span><span class="nm">The five senses</span><span class="zh">前五識</span></div>
+        <div class="c on"><span class="n">6</span><span class="nm">Thinking mind</span><span class="zh">意識</span></div>
+        <div class="c on"><span class="n">7</span><span class="nm">Manas</span><span class="zh">末那識</span></div>
+        <div class="c on"><span class="n">8</span><span class="nm">Storehouse</span><span class="zh">阿賴耶識</span></div>
+      </div>
+
+      <p data-rv>轉 is to turn, to revolve, to convert — the same character used in 轉識, the "evolving" consciousnesses, and in 恒轉, the constant flowing of the torrent. 依 is what something rests on, its basis. So: the basis turns.</p>
+
+      <p data-rv>Not: the basis is discarded and a better one installed. Not: you acquire something you did not have. The very thing that has been going wrong is the thing that turns. This is the same grammar as Session 9's three natures — take what is happening, subtract what was added, and nothing new appears.</p>
+
+      <p data-rv>It is worth pausing on how unusual this is as a soteriology. There is no arrival anywhere else. There is no true self uncovered beneath the false one. The storehouse that has been carrying your accumulated freight since beginningless time does not stop and hand over; it turns, and what it turns into is described next.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>Four wisdoms<span class="rf">Each one is a consciousness you have already met</span></h2></div>
+
+      <p data-rv>The treatise's account of buddhahood is not a description of a state. It is a list of four functioning minds, and the elegance of the scheme is that each maps onto one of the eight.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 10 · the great perfect mirror wisdom</div>
+        <p>"First, the mind associated with the great, perfect mirror wisdom: this mind is free of every discrimination; its object and mode of activity are subtle and difficult to know; it neither forgets nor is deluded; every objective aspect is, in nature and characteristic, pure, free of every defilement, possessing purely pure and perfect virtue; it serves as the basis sustaining both manifest activity and seeds, capable of manifesting and generating the reflected images of body, land, and wisdom, without interruption, throughout all future time — like a great, perfect mirror, manifesting every form of image."</p>
+        <div class="zh">一、大圓鏡智相應心品：謂此心品，離諸分別，所緣、行相，微細難知，不忘不愚，一切境相，性相清淨，離諸雜染，純淨圓德，現種依持，能現、能生身、土智影，無間無斷，窮未來際，如大圓鏡，現眾色像。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-010/' | relative_url }}">Read this passage in its place — fascicle 10, "What Is Attained — The Four Wisdoms" →</a>
+      </div>
+
+      <p data-rv>Read that against Session 3 and the correspondence is exact. The storehouse's object was <em>unknowable</em>; the mirror wisdom's object is <em>subtle and difficult to know</em>. The storehouse <em>held seeds without letting them be lost</em>; the mirror <em>sustains both manifest activity and seeds</em>. The storehouse ran <em>without interruption</em>; so does this. Every structural feature is retained.</p>
+
+      <p data-rv>What has changed is one thing. The storehouse was morally indeterminate and clung to as a self. The mirror is <em>free of every discrimination</em>, and nothing is holding it. Same function, no grasping — and the image is the point: a mirror holds nothing and reflects everything, and is not altered by what passes across it.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 10 · the wisdom of equality</div>
+        <p>"Second, the mind associated with the wisdom of equality: this mind contemplates all dharmas, oneself, and other sentient beings, as entirely equal alike. It is constantly and jointly associated with great compassion and loving-kindness,"</p>
+        <div class="zh">二、平等性智相應心品：謂此心品，觀一切法，自、他有情，悉皆平等。大慈悲等，恒共相應，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-010/' | relative_url }}">Read this passage in its place — fascicle 10, "What Is Attained — The Four Wisdoms" →</a>
+      </div>
+
+      <p data-rv>This is the one to dwell on. The second wisdom is the turned form of <strong>manas</strong> — the consciousness whose entire business was dividing self from not-self, permanently and without pause. Turned, it becomes the faculty that sees self and others <em>as entirely equal alike</em>.</p>
+
+      <p data-rv>And notice what it is now constantly joined to. Manas was never without its four afflictions. The wisdom of equality is never without <em>great compassion and loving-kindness</em>. The permanence is the same; the content is inverted. Compassion here is not an attitude someone adopts. It is what that machinery does once it stops dividing.</p>
+
+      <div class="cw-pull" data-rv>The organ of self-concern, turned, is the organ of compassion. It is not replaced. It is the same thing, no longer dividing.</div>
+
+      <p data-rv>The remaining two follow the same pattern. The <strong>wisdom of wondrous contemplation</strong> is the turned sixth consciousness — still discerning particular and shared characteristics, exactly as the thinking mind always did, but now "operating without obstruction," severing others' doubts rather than generating its own. And the <strong>wisdom of accomplishing what is to be done</strong> is the turned five senses: the faculties that merely took in sights and sounds become the means by which a buddha acts in the world, "accomplishing whatever task the power of one's original vow calls for."</p>
+
+      <div class="cw-gloss" data-rv>
+        <div class="g"><b>Great perfect mirror</b><div class="zh">大圓鏡智</div><span>The turned <strong>eighth</strong>. Holds nothing, reflects everything, unaltered by what crosses it.</span></div>
+        <div class="g"><b>Equality</b><div class="zh">平等性智</div><span>The turned <strong>seventh</strong>. Self and others equal — and never without compassion.</span></div>
+        <div class="g"><b>Wondrous contemplation</b><div class="zh">妙觀察智</div><span>The turned <strong>sixth</strong>. Still discerning, now unobstructed; severs doubt.</span></div>
+        <div class="g"><b>Accomplishing what is to be done</b><div class="zh">成所作智</div><span>The turned <strong>five senses</strong>. Perception becomes action in the world.</span></div>
+      </div>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 10 · consciousness into wisdom</div>
+        <p>"These four minds, taken together, entirely encompass every conditioned virtue belonging to the stage of buddhahood, and are obtained by transforming the minds associated with the contaminated eighth, seventh, sixth, and five sense-consciousnesses, respectively. Although wisdom is not itself consciousness, it operates in dependence on consciousness, and, since consciousness is the more prominent factor, it is said that consciousness is transformed into wisdom."</p>
+        <div class="zh">此轉有漏八、七、六、五識相應品，如次而得。智雖非識，而依識轉，識為主故，說轉識得。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-010/' | relative_url }}">Read this passage in its place — fascicle 10, "What Is Attained — The Four Wisdoms" →</a>
+      </div>
+
+      <p data-rv>Even here the treatise refuses to let its own formula harden. <em>Wisdom is not itself consciousness</em> — the phrase "consciousness is transformed into wisdom" is a manner of speaking, adopted because consciousness is the more prominent factor, and, the text adds, in order to encourage beings to rely on wisdom and relinquish consciousness. Ten fascicles in, it is still marking its own vocabulary as provisional.</p>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>The last refusal, and the last verse<span class="rf">How a treatise this exacting decides to stop</span></h2></div>
+
+      <p data-rv>The treatise has one more move before it closes, and it is the one this course has watched it make at every level. Having described buddha-bodies and buddha-lands in detail, it immediately declines to let them be taken as real things standing on their own: the perceived aspects, <em>though depending on consciousness to transform and manifest, are not genuinely real in the same way that consciousness's own nature, as the dependent nature, is genuinely real</em>. Even a pure land is a transformation. Even at the end, the rule holds.</p>
+
+      <p data-rv>Then the title, explained: three parts establishing Consciousness-Only — its characteristics, its nature, its stages. Which is exactly the shape of this course: Sessions 3 to 7 were the characteristics, Sessions 8 and 9 the nature, Sessions 9 and 10 the stages.</p>
+
+      <p data-rv>And then, after ten fascicles of the most exacting technical argument in the Buddhist canon — hundreds of mental factors, dozens of rival masters weighed against each other, every position tested and most of them rejected — this is the last thing it says:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 10 · the closing dedication</div>
+        <p>"Having, in reliance on the sacred teachings and correct reasoning, distinguished the meaning of Consciousness-Only's nature and characteristics, may the merit thereby obtained be bestowed upon all beings, that we may together swiftly ascend to unsurpassed awakening."</p>
+        <div class="zh">已依聖教及正理，分別唯識性相義，所獲功德施群生，願共速登無上覺。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-010/' | relative_url }}">Read this passage in its place — fascicle 10, "The Treatise's Own Name, and Its Closing Dedication" →</a>
+      </div>
+
+      <p data-rv>No claim to have settled anything. No summary of results. The last gesture of the most rigorous work in this tradition is to give away whatever it was worth — and the word is <em>together</em>, 共.</p>
+
+      <p data-rv>That ending is not decoration on the argument; it follows from it. A treatise that spent fascicle 7 insisting there is not one consciousness but many, and fascicle 10 describing the seventh consciousness turning into the faculty that sees self and other as equal, could not coherently end with a private accomplishment.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 10 establishes — and what the course has argued</b>
+        <ul>
+          <li><b>轉依 is a turning, not a replacement.</b> Nothing is discarded and nothing new is installed.</li>
+          <li><b>Each wisdom is a consciousness you already have.</b> Eighth to mirror, seventh to equality, sixth to contemplation, five senses to action.</li>
+          <li><b>Compassion is structural.</b> It is what the organ of self-concern does once it stops dividing — not an attitude adopted.</li>
+          <li><b>The vocabulary stays provisional to the last page.</b> "Consciousness becomes wisdom" is a manner of speaking.</li>
+          <li><b>The treatise ends by giving the merit away</b> — the only ending consistent with everything it argued.</li>
+        </ul>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>Where to go from here<span class="rf">The rest of the library</span></h2></div>
+
+      <p data-rv>The <em>Cheng Weishi Lun</em> is complete on this site in all ten fascicles, Chinese beside English, and this course has quoted perhaps a fiftieth of it. Almost everything has been left out — the ten arguments for the eighth consciousness, the four conditions and ten causes, the twelve links, the ten grounds with their obstacles and their kinds of suchness. If any session here made you want the full argument rather than a route through it, the treatise itself is the next thing to read.</p>
+
+      <a class="cw-textcard" href="{{ '/sutras/cheng-weishi-lun/' | relative_url }}">
+        <div class="trad">Yogācāra · 成唯識論 · Taishō T31, no. 1585</div>
+        <h3>The Cheng Weishi Lun, complete</h3>
+        <p>Ten fascicles, Chinese source beside Ru-Yi's own English translation, with reading notes throughout. Xuanzang's 659 CE synthesis of ten Indian commentaries on Vasubandhu's Thirty Verses.</p>
+        <span class="go">Read the treatise <span class="arw">→</span></span>
+      </a>
+
+      <p data-rv>Beyond it, the same library holds the hundred fascicles of the <em>Yogācārabhūmi</em>, the <em>Mahāyānasaṃgraha</em>, the <em>Madhyāntavibhāga</em>, the <em>Abhidharmasamuccaya</em> and the <em>Saṃdhinirmocana Sūtra</em> — the rest of the school, all translated here.</p>
+
+      <p data-rv>And the obvious next course is the argument on the other side. Yogācāra says the dependent nature is not empty. Madhyamaka is the school that spent centuries pressing on exactly that claim, and <strong>Nothing Stands</strong>, the second Layer 4 elective, reads Nāgārjuna at length.</p>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">The last one, and the smallest</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">The same faculty, not dividing</b>
+        <p>Nine sessions of practices have each isolated one piece of the machinery. This one is for the claim that the second wisdom rests on: that the faculty producing self-concern and the faculty producing compassion are not two faculties.</p>
+        <div class="how">
+          Sit for fifteen minutes. Spend the first five noticing the ordinary background hum of self-reference — the low, continuous monitoring of how things stand for you. Do not suppress it; just register that it is running.<br><br>
+          Then bring to mind one person you find genuinely difficult. Not an enemy; someone who reliably irritates you. Notice that the same monitoring immediately reorganises itself around them: how they affect you, what they owe you, how you compare.<br><br>
+          Now do not try to feel warmly toward them. Instead, hold one question steadily, without answering it: <strong>is the thing doing the comparing capable of doing anything else?</strong> When it produces an answer, drop the answer and hold the question again.
+        </div>
+        <p>This is not a technique for generating compassion, and it will very likely not produce any. What it can show is the machinery from Session 6 running in real time on a real case — which is the closest ordinary experience gets to the claim this session ends on. The treatise puts the actual turning at buddhahood, and it would be a poor finish to a course this careful to imply otherwise.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does "transformation of the basis" mean?</div>
+          <button class="opt"><span class="ltr">A</span>The eight consciousnesses cease and are replaced by four wisdoms</button>
+          <button class="opt"><span class="ltr">B</span>A true self is uncovered beneath the false one</button>
+          <button class="opt"><span class="ltr">C</span>The very basis that has been going wrong turns — nothing is discarded and nothing new is installed</button>
+          <button class="opt"><span class="ltr">D</span>Consciousness is exchanged for suchness</button>
+          <div class="expl"><strong>Correct: C.</strong> The same grammar as the three natures: subtract what was added, and nothing new appears.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Which consciousness becomes the great perfect mirror wisdom?</div>
+          <button class="opt"><span class="ltr">A</span>The eighth — and every structural feature is retained: it still sustains seeds, still runs without interruption, its object is still subtle and hard to know</button>
+          <button class="opt"><span class="ltr">B</span>The seventh</button>
+          <button class="opt"><span class="ltr">C</span>The sixth</button>
+          <button class="opt"><span class="ltr">D</span>The five sense consciousnesses</button>
+          <div class="expl"><strong>Correct: A.</strong> What changes is that it is free of discrimination and nothing is clinging to it. A mirror holds nothing and reflects everything.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is significant about the wisdom of equality?</div>
+          <button class="opt"><span class="ltr">A</span>It is the only wisdom not derived from a consciousness</button>
+          <button class="opt"><span class="ltr">B</span>It arises only after the other three</button>
+          <button class="opt"><span class="ltr">C</span>It replaces the seventh consciousness with an entirely new faculty</button>
+          <button class="opt"><span class="ltr">D</span>It is the turned seventh consciousness — the organ of self-division becomes the one that sees self and others as equal, permanently joined to compassion as it was once permanently joined to four afflictions</button>
+          <div class="expl"><strong>Correct: D.</strong> The permanence is the same; the content is inverted. Compassion is what that machinery does once it stops dividing.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Why does the treatise say wisdom is "not itself consciousness"?</div>
+          <button class="opt"><span class="ltr">A</span>Because wisdom belongs to a ninth consciousness not previously discussed</button>
+          <button class="opt"><span class="ltr">B</span>To mark its own formula as a manner of speaking — adopted because consciousness is the more prominent factor, and to encourage beings to rely on wisdom and relinquish consciousness</button>
+          <button class="opt"><span class="ltr">C</span>Because wisdom is unconditioned and therefore cannot arise</button>
+          <button class="opt"><span class="ltr">D</span>Because the four wisdoms are metaphorical rather than real</button>
+          <div class="expl"><strong>Correct: B.</strong> Ten fascicles in, still refusing to let its own vocabulary harden — the same move as Session 2's warning about Consciousness-Only itself.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">How does the treatise end, and why is that ending consistent?</div>
+          <button class="opt"><span class="ltr">A</span>With a summary of its conclusions, since it has established them by reason</button>
+          <button class="opt"><span class="ltr">B</span>With a warning against rival schools</button>
+          <button class="opt"><span class="ltr">C</span>By dedicating whatever merit it gained to all beings, to ascend together — which is the only ending open to a work arguing that minds are many and that the faculty of self-division turns into equality</button>
+          <button class="opt"><span class="ltr">D</span>With a list of the questions it was unable to settle</button>
+          <div class="expl"><strong>Correct: C.</strong> The word is 共 — <em>together</em>. Not decoration on the argument, but a consequence of it.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to close on</div>
+        <p>If nothing about you has to be got rid of, and nothing has to be added, what exactly is the work?</p>
+        <p class="sm">Ten sessions have given one answer, and it is worth stating plainly at the end. The work is not acquisition and not destruction. It is that a mistake which is being made continuously, below the level of choice, by a faculty you cannot reach directly, stops being made — and the treatise is honest that this takes longer than understanding it, and that understanding it is nonetheless where anyone has to begin.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">You have finished the course</div>
+        <h3>Ten sessions, one treatise</h3>
+        <p>From the refutation of a self through the storehouse, the seeds, the four parts of a knowing, manas, the fifty-one factors, the objection from idealism, the three natures and the five stages, to the turning at the base. The next elective, <strong>Nothing Stands</strong>, reads the school that spent centuries arguing with this one.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-9/' | relative_url }}">← Session 9</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/' | relative_url }}">Back to the course overview →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

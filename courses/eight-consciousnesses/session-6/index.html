@@ -1,0 +1,443 @@
+---
+layout: default
+title: "Session 6 · The one that takes it for a self (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-6/
+excerpt: "Session 6 of The Eight Consciousnesses — manas, the seventh consciousness, which does one thing without interruption and is the reason you have felt like somebody all your life."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 6</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 6 · The seventh consciousness</div>
+      <h1>The one that takes it for a self</h1>
+      <div class="subt">A consciousness with one object, one activity, and four permanent companions</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 3–5</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicles 4–5</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>The part with no Western name<span class="rf">Why a seventh consciousness was needed at all</span></h2></div>
+
+      <p data-rv>If you have followed the course this far, a question should have been accumulating. Session 3 said the storehouse is unknowable, neutral, and never feels anything. Session 1 said the sense of being a self is <em>produced</em>. But by what? Not the storehouse — it does not know anything in the ordinary sense. Not the thinking mind — the sense of self does not switch off when you stop thinking about yourself, and it does not go away in dreamless sleep.</p>
+
+      <div class="cw-eight" data-rv>
+        <div class="c"><span class="n">1–5</span><span class="nm">The five senses</span><span class="zh">前五識</span></div>
+        <div class="c"><span class="n">6</span><span class="nm">Thinking mind</span><span class="zh">意識</span></div>
+        <div class="c on"><span class="n">7</span><span class="nm">Manas</span><span class="zh">末那識</span></div>
+        <div class="c"><span class="n">8</span><span class="nm">Storehouse</span><span class="zh">阿賴耶識</span></div>
+      </div>
+
+      <p data-rv>The seventh consciousness is the answer, and it is the most distinctive item in Yogācāra. Other Buddhist schools had six. This school added one, and the addition is not a refinement — it changes what the sense of self <em>is</em>. Not a belief, not a habit of thought, not a cultural construction. A continuously running cognitive process with its own object.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 4 · the manas verses</div>
+        <p>"Next, the second transformation is the consciousness called manas. It turns in dependence on that <em>[first consciousness]</em>, takes it as its object, and has deliberation as its nature and characteristic."</p>
+        <p>"Four afflictions constantly accompany it: self-delusion and self-view, together with self-conceit and self-love, and other factors such as contact besides."</p>
+        <p>"It belongs to the covered-yet-neutral moral category, and is bound according to wherever it is born. It is absent in arhats, in cessation-attainment, and on the supramundane path."</p>
+        <div class="zh">次第二能變，是識名末那，依彼轉，緣彼，思量為性相。<br>
+        四煩惱常俱，謂：我癡、我見，并我慢、我愛，及餘觸等俱。<br>
+        有覆無記攝，隨所生所繫。阿羅漢、滅定、出世道無有。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-004/' | relative_url }}">Read this passage in its place — fascicle 4, "Introducing Manas, the Second Transformation" →</a>
+      </div>
+
+      <p data-rv>Everything about this consciousness is in those three lines. It has exactly one object — the storehouse. It has exactly one activity — deliberation, 思量, a continuous considering-and-appraising. And it is never without its four companions.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>One object, held without pause<span class="rf">What manas is actually looking at</span></h2></div>
+
+      <p data-rv>The relation between the seventh and the eighth is the engine of the whole model, and it is worth stating slowly.</p>
+
+      <p data-rv>The storehouse is a stream — changing every instant, carrying the accumulated freight of everything that has happened. Manas observes it. But it does not observe it accurately. It sees a continuity, and it reads that continuity as an <em>entity</em>. It sees something that is always there, and concludes that there is something that is always there, and that this something is itself.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 4 · the constant object</div>
+        <p>"from beginningless time until the transformation of basis, this manas spontaneously and constantly takes the storehouse consciousness as its object, and is associated with four root afflictions."</p>
+        <div class="zh">謂從無始，至未轉依，此意任運恒緣藏識，與四根本煩惱相應。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-004/' | relative_url }}">Read this passage in its place — fascicle 4, "The Four Afflictions That Never Leave Manas" →</a>
+      </div>
+
+      <p data-rv>Three words in that sentence carry the weight. <strong>Spontaneously</strong> (任運) — it runs by itself, not as anything you do. <strong>Constantly</strong> (恒) — without interruption, including in dreamless sleep, under anaesthetic, and between thoughts. And <strong>from beginningless time until the transformation of basis</strong> — meaning it does not stop when you understand that it is happening. Session 10 is about what "transformation of basis" means; the point here is that it names something further along than comprehension.</p>
+
+      <p data-rv>This explains the odd persistence of the thing. You can follow the argument in Session 1, agree with every step, and still flinch when someone insults you. There is no contradiction. The argument was conducted in the sixth consciousness. The flinch belongs to a different process, which was not consulted and has not stopped.</p>
+
+      <div class="cw-pull" data-rv>The mistake is not being made by the part of you that is reading this.</div>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Four afflictions, and why exactly four<span class="rf">Delusion, view, conceit, love — all with the same prefix</span></h2></div>
+
+      <p data-rv>Manas never travels alone. Four afflictions accompany it permanently, and the treatise defines each in a single clause.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 4 · the four defined</div>
+        <p>"Self-delusion is ignorance: being benighted about the mark of self, deluded about the principle of no-self — hence it is called self-delusion. Self-view is self-grasping: falsely conceiving what is not a self to be a self — hence it is called self-view. Self-conceit is arrogance: relying on this clung-to self, it makes the mind swell with pride — hence it is called self-conceit. Self-love is craving for self: growing deeply attached and infatuated with this clung-to self — hence it is called self-love."</p>
+        <div class="zh">我癡者：謂無明，愚於我相，迷無我理，故名我癡。我見者：謂我執，於非我法，妄計為我，故名我見。我慢者：謂倨傲，恃所執我，令心高舉，故名我慢。我愛者：謂我貪，於所執我，深生耽著，故名我愛。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-004/' | relative_url }}">Read this passage in its place — fascicle 4, "The Four Afflictions That Never Leave Manas" →</a>
+      </div>
+
+      <p data-rv>Notice that these are not four separate problems. They are one movement in four stages, and the Chinese makes it visible: every one of them begins with 我, <em>self</em>. Not-knowing produces a misidentification; the misidentification produces something to defend; what is defended becomes what is cherished.</p>
+
+      <div class="cw-gloss" data-rv>
+        <div class="g"><b>Self-delusion</b><div class="zh">我癡</div><span>Not knowing. Benighted about the mark of self, deluded about the principle of no-self.</span></div>
+        <div class="g"><b>Self-view</b><div class="zh">我見</div><span>Misidentifying. Falsely conceiving what is not a self to be a self.</span></div>
+        <div class="g"><b>Self-conceit</b><div class="zh">我慢</div><span>Elevating. Relying on the clung-to self, the mind swells with pride.</span></div>
+        <div class="g"><b>Self-love</b><div class="zh">我愛</div><span>Cherishing. Deeply attached and infatuated with the clung-to self.</span></div>
+      </div>
+
+      <p data-rv>The treatise then asks its own best question: there are ten root afflictions in the standard list — why does manas have only these four? The answer is precise and tells you a great deal about how the model works. Anger cannot be here, <em>because it loves what it looks at</em>; you do not resent what you cherish. Doubt cannot be here, because self-view has already decided the matter, and a decision leaves no room for a question. And no second view can be here, because a single mind cannot hold two acts of discriminating judgment at once.</p>
+
+      <p data-rv>So the seventh consciousness is not the seat of your bad temper. It is something quieter and worse-placed: a permanent, untroubled, affectionate certainty about something that is not the case.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 4 · what the four do</div>
+        <p>"These four constantly arise, disturbing and clouding the inner mind, and causing the outer, evolving consciousnesses to become permanently defiled. It is because of these that sentient beings revolve through birth and death, unable to escape — hence they are called "afflictions.""</p>
+        <div class="zh">此四常起，擾濁內心，令外轉識恒成雜染。有情由此生死輪迴，不能出離，故名煩惱。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-004/' | relative_url }}">Read this passage in its place — fascicle 4, "The Four Afflictions That Never Leave Manas" →</a>
+      </div>
+
+      <p data-rv>This is the claim that makes the seventh consciousness matter practically rather than only architecturally. Manas does not merely hold a false view privately. It <em>colours everything upstream</em>. Every act of seeing, hearing and thinking passes through a mind already committed to there being someone this is happening to — which is why ordinary perception is never quite neutral, and why the correction cannot be made at the level of perception.</p>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>Covered, but not wicked<span class="rf">And the three places where it stops</span></h2></div>
+
+      <p data-rv>The verse's moral classification is easy to skim and worth pausing on: manas is <strong>covered-yet-neutral</strong> (有覆無記). It is not morally bad. It does not commit wrongdoing, and it produces no karma of its own. What it does is <em>cover</em> — obscure, veil, keep something from being seen.</p>
+
+      <p data-rv>This distinction matters, and it is one the tradition insists on. The problem at the root of things is not wickedness. It is a structural obscuration that operates continuously, impartially, and without malice. You cannot repent your way out of it, because it is not a fault. It is a lens.</p>
+
+      <p data-rv>The verse ends by naming the only three conditions in which manas is absent: <em>in arhats, in cessation-attainment, and on the supramundane path</em>. The second is instructive — a meditative attainment in which it temporarily stops, which is exactly the state Session 3 used to argue for the eighth consciousness in the first place. It does not stop in ordinary sleep. It does not stop in deep concentration. It does not stop when you are absorbed in work and "lose yourself," which turns out to be a figure of speech.</p>
+
+      <p data-rv>Fascicle 5 gives the argument that it must exist, and the form is the same one used for the eighth: identify something everyone accepts, show the six cannot account for it. The best of them concerns ordinary wholesome activity. You can act generously without any thought of yourself present — and yet the act still reinforces, rather than dissolves, the sense of being a person who did something. Something must be adding that, and it cannot be the sixth consciousness, which was occupied with the giving.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 6 establishes</b>
+        <ul>
+          <li><b>The sense of self is a process, not a belief.</b> It has an object — the storehouse — and it runs whether or not you are thinking.</li>
+          <li><b>It misreads continuity as identity.</b> Something is always there, so it concludes something is always there, and that it is itself.</li>
+          <li><b>Four afflictions, one movement:</b> not knowing, misidentifying, elevating, cherishing.</li>
+          <li><b>No anger and no doubt here</b> — it cannot resent what it loves, and self-view has already settled the question.</li>
+          <li><b>Covered, not wicked.</b> An obscuration that produces no karma of its own — which is why it cannot be repented away.</li>
+          <li><b>It does not stop when you understand it.</b> It stops in arhats, in cessation, and on the supramundane path.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Catching the fourth affliction in the wild</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">The flinch</b>
+        <p>Manas cannot be observed directly — it takes the unknowable as its object, and it is not the thing doing your looking. But its effects upstream are observable, and the fourth affliction, self-love, is the easiest to catch, because it is fastest.</p>
+        <div class="how">
+          For three days, watch for the <strong>flinch</strong>: the involuntary contraction when something touches your standing. Being corrected in front of someone. Being left out. Hearing your work described inaccurately. Catching your own reflection unexpectedly.<br><br>
+          Do not analyse it and do not try to stop it. Note only two things. <strong>How fast was it?</strong> — specifically, did it arrive before or after you had time to think anything. And <strong>what was being protected?</strong> Not "my reputation" or "my feelings," which are already stories. Something simpler and more like a position being defended.
+        </div>
+        <p>What the exercise can show is the timing, and the timing is the whole point. If the flinch reliably precedes thought, then whatever produced it was not thinking — and that is the one thing about the seventh consciousness that ordinary experience can actually corroborate.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What is the object of the seventh consciousness?</div>
+          <button class="opt"><span class="ltr">A</span>The five senses and their objects</button>
+          <button class="opt"><span class="ltr">B</span>Itself</button>
+          <button class="opt"><span class="ltr">C</span>The storehouse consciousness — which it constantly and spontaneously takes as its object</button>
+          <button class="opt"><span class="ltr">D</span>Whatever the thinking mind is currently considering</button>
+          <div class="expl"><strong>Correct: C.</strong> One object, held without pause, from beginningless time until the transformation of basis.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">What mistake does manas make?</div>
+          <button class="opt"><span class="ltr">A</span>It reads the storehouse's continuity as an entity, and takes that entity to be itself</button>
+          <button class="opt"><span class="ltr">B</span>It confuses the five senses with their objects</button>
+          <button class="opt"><span class="ltr">C</span>It believes external objects exist outside consciousness</button>
+          <button class="opt"><span class="ltr">D</span>It forgets the seeds stored in the eighth consciousness</button>
+          <div class="expl"><strong>Correct: A.</strong> Something is always there, so it concludes there is something that is always there — and that it is "I."</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">Why is anger not among the four afflictions of manas?</div>
+          <button class="opt"><span class="ltr">A</span>Because anger belongs only to the five sense consciousnesses</button>
+          <button class="opt"><span class="ltr">B</span>Because manas is morally good</button>
+          <button class="opt"><span class="ltr">C</span>Because anger is a secondary rather than a root affliction</button>
+          <button class="opt"><span class="ltr">D</span>Because manas loves the self it clings to, and one does not resent what one cherishes</button>
+          <div class="expl"><strong>Correct: D.</strong> For the same kind of reason, doubt is excluded too: self-view has already settled the matter, and a decision leaves no room for a question.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">What does "covered-yet-neutral" mean for manas?</div>
+          <button class="opt"><span class="ltr">A</span>That it is sometimes wholesome and sometimes unwholesome depending on circumstances</button>
+          <button class="opt"><span class="ltr">B</span>That it is not morally bad and produces no karma of its own, but obscures — which is why it cannot be repented away</button>
+          <button class="opt"><span class="ltr">C</span>That it is hidden from other people but visible to oneself</button>
+          <button class="opt"><span class="ltr">D</span>That it is neutral in feeling, like the eighth consciousness</button>
+          <div class="expl"><strong>Correct: B.</strong> The root problem is a lens, not a fault — a distinction the tradition insists on.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">Why does understanding the argument against the self not dissolve the sense of self?</div>
+          <button class="opt"><span class="ltr">A</span>Because the argument is only provisionally true</button>
+          <button class="opt"><span class="ltr">B</span>Because understanding must be repeated many times before it takes effect</button>
+          <button class="opt"><span class="ltr">C</span>Because the understanding happens in the sixth consciousness, while the sense of self is produced by a seventh that was not consulted and has not stopped</button>
+          <button class="opt"><span class="ltr">D</span>Because the eighth consciousness continues to store seeds of self-view</button>
+          <div class="expl"><strong>Correct: C.</strong> Which is why the treatise puts the end of manas at arhatship and not at comprehension.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If something in you has been affectionately certain of your existence for as long as there has been a you, what would it even mean to argue with it?</p>
+        <p class="sm">The treatise's answer is that you would not argue with it, because it is not holding a position it could be talked out of. What changes it is not persuasion but a change at the base — which is the subject of the last session of this course, and is described there as a transformation rather than a correction.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 7 · The six, and the fifty-one</h3>
+        <p>The consciousnesses you actually notice, and the full inventory of mental factors that accompany them — five that are always present, five that come and go, eleven wholesome, and twenty-six varieties of trouble. The most granular map of the mind in Buddhist literature, and the one that most rewards slow reading.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-5/' | relative_url }}">← Session 5</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-7/' | relative_url }}">Session 7 · The six, and the fifty-one →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

@@ -1,0 +1,448 @@
+---
+layout: default
+title: "Session 5 · The four parts of a single knowing (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-5/
+excerpt: "Session 5 of The Eight Consciousnesses — how one act of cognition divides into seen, seeing, awareness of seeing, and confirmation of that awareness, and why the series stops at four."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 5</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 5 · Inside one moment</div>
+      <h1>The four parts of a single knowing</h1>
+      <div class="subt">How one event becomes a knower and a known — and where the regress stops</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 3–4</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicle 2</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>One event, two halves<span class="rf">The problem hiding inside the word "experience"</span></h2></div>
+
+      <p data-rv>This is the session that has least competition in English, and it is where the <em>Cheng Weishi Lun</em> earns its reputation among philosophers rather than among practitioners.</p>
+
+      <p data-rv>Start with something ordinary. You see a cup. Describe it and you will produce two items: a cup, and you-seeing-it. An object and a subject. Every account of perception in any tradition has to say something about how those two are related, and there are only so many options — the object causes the subject's state, or the subject constructs the object, or they are two aspects of one thing.</p>
+
+      <p data-rv>The first session of this course already quoted the treatise's answer, though it went by quickly: <em>"Transforms" means that the substance of consciousness turns and manifests as two divisions: a perceived aspect and a perceiving aspect</em>. One event, appearing as two. This session is the detailed version, and it turns out that two is not enough.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the self-witnessing aspect</div>
+        <p>"the perceived-aspect is what is grasped; the perceiving-aspect is the perceiving-activity; and the underlying substance both aspects depend on is called the "self-witnessing aspect." If this did not exist, one could never remember one's own past mental states — just as one can never remember an object one has never actually experienced."</p>
+        <div class="zh">則說相分是所緣，見分名行相，相、見所依自體名事，即自證分。此若無者，應不自憶心、心所法，如不曾更境必不能憶故，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Four Parts of Every Act of Cognition" →</a>
+      </div>
+
+      <p data-rv>That argument deserves a moment, because it is doing something unusual: it is an argument from <em>memory</em> to the structure of perception.</p>
+
+      <p data-rv>You can remember the cup. You can also remember <em>seeing</em> the cup — remember being tired when you saw it, remember the seeing being blurry. But you cannot remember what you never experienced. So if the act of seeing itself is remembered, the act of seeing itself must have been experienced at the time. Something was aware of the seeing, while the seeing was happening. A perceived aspect and a perceiving aspect are not enough to account for that; there has to be a third thing, and the treatise calls it the <strong>self-witnessing aspect</strong>.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>Measuring, and the result of measuring<span class="rf">A borrowed framework, and what it clarifies</span></h2></div>
+
+      <p data-rv>The treatise now reaches for a model from the Buddhist logicians — the school this Academy's <a href="{{ '/courses/pramanavarttika/' | relative_url }}">Pramāṇavārttika</a> course is about. Their word for a valid cognition is <em>pramāṇa</em>, which in Chinese becomes 量, a measure. And any measurement has three components: the thing measured, the measuring, and the result.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · three parts</div>
+        <p>"In fact, whenever mind or a mental factor arises, careful examination shows it has three parts: what is measured, what does the measuring, and the result of measuring are distinct, and the perceived- and perceiving-aspects must have some substance they depend on."</p>
+        <div class="zh">然心、心所一一生時，以理推徵各有三分，所量、能量、量果別故，相、見必有所依體故。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Four Parts of Every Act of Cognition" →</a>
+      </div>
+
+      <p data-rv>The analogy is worth spelling out, because it is the clearest thing in the section. Put a cloth on a scale. There is the cloth; there is the weighing; and there is the reading — <em>two kilos</em>. The reading is not the cloth and it is not the act of weighing. It is what the weighing yields.</p>
+
+      <p data-rv>Self-witnessing is the reading. It is not the cup and not the looking; it is what the looking delivers, the registering of the seeing as having occurred. And the treatise is careful to add, quoting the logicians directly, that <em>these three have no separate substance</em>. Three functions, one consciousness. Nothing has been added to the scene — the same single event, described at three levels.</p>
+
+      <div class="cw-gloss" data-rv>
+        <div class="g"><b>Perceived aspect</b><div class="zh">相分</div><span>The object as it appears. What is measured. The only part that is never a subject.</span></div>
+        <div class="g"><b>Perceiving aspect</b><div class="zh">見分</div><span>The seeing. What does the measuring. Can be accurate or mistaken.</span></div>
+        <div class="g"><b>Self-witnessing aspect</b><div class="zh">自證分</div><span>The registering of the seeing. The result. Always direct and accurate.</span></div>
+        <div class="g"><b>Witnessing of the witnessing</b><div class="zh">證自證分</div><span>What confirms the third. Also always direct — and where the series stops.</span></div>
+      </div>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Why four and not three, and why not five<span class="rf">The regress, and the argument that stops it</span></h2></div>
+
+      <p data-rv>Here is the move the treatise is known for, and the reason this section is still discussed. Having established a third part, it notices that the third part has the same problem as the first two.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the fourth part</div>
+        <p>"Analyzed more finely, mind and mental factors should be seen to have a fourth part as well: the three already given, plus the self-witnessing of the self-witnessing. Without this fourth part, what would verify the third part itself?"</p>
+        <div class="zh">又心、心所若細分別應有四分，三分如前，復有第四證自證分。此若無者，誰證第三？</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Four Parts of Every Act of Cognition" →</a>
+      </div>
+
+      <p data-rv>Anyone who has met this kind of argument can see the cliff coming. If the third needs a fourth to verify it, the fourth needs a fifth, and so on forever. An infinite regress here would be fatal: it would mean no cognition is ever complete, because the verification never finishes.</p>
+
+      <p data-rv>The treatise's way out is the most elegant thing in the ten fascicles, and it is not a dodge:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · no infinite regress</div>
+        <p>"The fourth takes only the third as its object, not the second, since that would serve no purpose — the third and fourth are both, without exception, accurate, direct perception. Mind and mental factors are thus composed of these four parts together, each equipped with an object-side and a subject-side relative to its neighbors, with no infinite regress — the fourth verifies the third, and needs nothing further to verify itself."</p>
+        <div class="zh">第四證自證分，唯緣第三，非第二者，以無用故，第三、第四皆現量攝，故心、心所四分合成，具所、能緣，無無窮過，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "The Four Parts of Every Act of Cognition" →</a>
+      </div>
+
+      <p data-rv>The third and fourth <em>verify each other</em>. The fourth confirms the third; the third, already established, confirms the fourth. They form a closed pair, and the closure is legitimate because of a property neither of the first two parts has: the inner pair are <strong>always accurate direct perception</strong>, never mistaken and never inferential.</p>
+
+      <p data-rv>That is the whole argument, and it is worth being clear about why it is not circular in the vicious sense. A circle is vicious when each term needs the other to <em>establish</em> it and neither has independent standing. Here the claim is that the inner pair cannot be wrong — they are not making a judgment about anything that could fail to be the case. The second part can misperceive: you can see a rope as a snake. But the registering that seeing occurred is not the sort of thing that can be in error. You may be wrong about what you saw. You cannot be wrong that seeing happened.</p>
+
+      <p data-rv>Whether that holds is a genuine philosophical question, and the treatise does not pretend otherwise. But notice the shape of the solution: the regress is stopped not by declaring a foundation by fiat, but by identifying a level at which the thing that generates the regress — the possibility of error — no longer applies.</p>
+
+      <div class="cw-pull" data-rv>You may be wrong about what you saw. You cannot be wrong that seeing happened.</div>
+
+      <p data-rv>The treatise then adds, with characteristic flexibility, that the four can be counted as three, or as two, or as one, depending on how finely you want to divide — because they were never four things in the first place. They are one event, analysed.</p>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>Many lamps, one light<span class="rf">The objection everybody raises, and the treatise's answer</span></h2></div>
+
+      <p data-rv>Every reader of Consciousness-Only eventually asks the same question, usually in a slightly triumphant tone. If the world is what my consciousness transforms into, why do we all see the same cup? Why can I not simply transform it into something better?</p>
+
+      <p data-rv>The treatise's answer is one of its most quoted images.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 2 · the shared world</div>
+        <p>"Although what each individual sentient being transforms is, strictly speaking, separate, the appearances resemble one another and occupy no distinct locations — just as the light of many lamps, each entirely filling the room, appears to be a single, unified light."</p>
+        <div class="zh">雖諸有情所變各別而相相似，處所無異，如眾燈明各遍似一。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-002/' | relative_url }}">Read this passage in its place — fascicle 2, "How Billions of Private Minds Share One World" →</a>
+      </div>
+
+      <p data-rv>Light a dozen lamps in a room. Each one fills the whole space; no lamp owns a region. Take one away and the room dims slightly everywhere, not in one corner. You cannot point to where one lamp's light stops and another's begins — and yet there is no single collective lamp anywhere. There are only the individual lamps and the one illumination they make.</p>
+
+      <p data-rv>The mechanism underneath the image is the <strong>shared-characteristic seed</strong> (共相種). Beings whose past actions were of a similar kind ripen similar seeds, and so construct similar worlds, in what amounts to the same place. The world is not a public object that private minds observe. It is a convergence.</p>
+
+      <p data-rv>And notice the answer to "why can I not transform it into something better": the seeds ripening are the ones you have. You are not choosing the construction any more than you are choosing to see the rope before you see it is not a snake. The transformation is a result, not an act.</p>
+
+      <p data-rv>The treatise even records a disagreement about scope — whether <em>every</em> being's consciousness contributes to this world, or only those living here or about to be. It comes down on the narrower side, and the reasoning is refreshingly practical: a buddha would otherwise have to be generating this defiled world, and someone reborn in the formless realm would be maintaining a place they will never return to.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 5 establishes</b>
+        <ul>
+          <li><b>Subject and object are one event described twice</b>, not two things that meet.</li>
+          <li><b>Memory of your own seeing proves a third part.</b> You cannot remember what was never experienced.</li>
+          <li><b>Three parts, on the logicians' model</b> — what is measured, the measuring, and the reading that the measuring yields.</li>
+          <li><b>Four, not three, and not infinitely many.</b> The inner pair verify each other, and the regress stops because error has no purchase there.</li>
+          <li><b>The shared world is a convergence, not a public object</b> — many lamps, one light, built from shared-characteristic seeds.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Looking for the third part</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">The reading on the scale</b>
+        <p>Unlike the eighth consciousness, the structure described in this session is claimed to be present in every moment of ordinary experience — which means it can be checked, at least partially, rather than only accepted.</p>
+        <div class="how">
+          Sit where you can see something plain — a wall, a cup, a patch of floor. Look at it for a minute without doing anything about it.<br><br>
+          Now separate three things, slowly, one at a time. <strong>First:</strong> the appearance — colour, edge, shape. That is the perceived aspect. <strong>Second:</strong> the looking — the directedness, the fact that this is being attended to rather than something else. That is the perceiving aspect. <strong>Third, and this is the one worth the time:</strong> not the wall and not the looking, but <em>the fact that looking is registering as happening</em>. Do not try to see it as a further object; if you go looking for it, you will only find another appearance. Ask instead whether, had it been absent, you could report afterwards that you had been looking.
+        </div>
+        <p>Most people find the first two easy and the third slippery — which is exactly what the treatise would predict, since the third is not an object and cannot be made into one without turning it into the first. If you end the exercise unsure whether you found it, that is a more accurate result than confidence.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What argument establishes the self-witnessing aspect?</div>
+          <button class="opt"><span class="ltr">A</span>That perception would otherwise be impossible</button>
+          <button class="opt"><span class="ltr">B</span>That we remember not only objects but our own past acts of seeing — and nothing unexperienced can be remembered, so the seeing itself must have been experienced at the time</button>
+          <button class="opt"><span class="ltr">C</span>That scripture states it directly</button>
+          <button class="opt"><span class="ltr">D</span>That the eighth consciousness requires it in order to store seeds</button>
+          <div class="expl"><strong>Correct: B.</strong> An argument from memory to the structure of perception — unusual, and rather elegant.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">In the measuring analogy, what corresponds to the self-witnessing aspect?</div>
+          <button class="opt"><span class="ltr">A</span>The cloth being weighed</button>
+          <button class="opt"><span class="ltr">B</span>The act of weighing</button>
+          <button class="opt"><span class="ltr">C</span>The reading the weighing yields</button>
+          <button class="opt"><span class="ltr">D</span>The person deciding to weigh it</button>
+          <div class="expl"><strong>Correct: C.</strong> And the logicians' verse adds that the three "have no separate substance" — three functions of one consciousness.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">How does the treatise stop the infinite regress?</div>
+          <button class="opt"><span class="ltr">A</span>The third and fourth parts verify each other, and the closure holds because both are always accurate direct perception, so the possibility of error that drives the regress does not apply</button>
+          <button class="opt"><span class="ltr">B</span>By declaring the fourth part a self-evident foundation that needs no justification</button>
+          <button class="opt"><span class="ltr">C</span>By denying that verification is needed at all</button>
+          <button class="opt"><span class="ltr">D</span>By allowing the regress but arguing it is harmless</button>
+          <div class="expl"><strong>Correct: A.</strong> Not a foundation declared by fiat, but a level at which what generates the regress no longer operates.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">Which part can be mistaken?</div>
+          <button class="opt"><span class="ltr">A</span>The self-witnessing aspect</button>
+          <button class="opt"><span class="ltr">B</span>The witnessing of the witnessing</button>
+          <button class="opt"><span class="ltr">C</span>All four equally</button>
+          <button class="opt"><span class="ltr">D</span>The perceiving aspect — it may be accurate or mistaken, direct or inferential</button>
+          <div class="expl"><strong>Correct: D.</strong> You can see a rope as a snake. But that seeing occurred is not the sort of thing that can be in error.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What does the image of many lamps explain?</div>
+          <button class="opt"><span class="ltr">A</span>That individual minds are illusory and only one mind exists</button>
+          <button class="opt"><span class="ltr">B</span>That each being constructs its own world from shared-characteristic seeds, and the constructions converge so completely that no boundary between them can be found</button>
+          <button class="opt"><span class="ltr">C</span>That the world is a public object which private minds observe</button>
+          <button class="opt"><span class="ltr">D</span>That enlightened beings illuminate the world for others</button>
+          <div class="expl"><strong>Correct: B.</strong> Take one lamp away and the room dims everywhere, not in one corner — and there is still no collective lamp anywhere.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If the world you live in is a convergence rather than a place, what exactly are you sharing it with other people?</p>
+        <p class="sm">The treatise's answer is: similar karma. Which is a stranger claim than it first sounds — it says the reason you and the person beside you inhabit the same room is not that the room is there, but that the two of you have done sufficiently similar things.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 6 · The one that takes it for a self</h3>
+        <p>The seventh consciousness — the part of the model with no counterpart in Western psychology and no obvious counterpart in ordinary experience either. It does only one thing, it never stops doing it, and it is the reason you have felt like somebody all your life. Four afflictions accompany it permanently, and it is not interrupted by sleep.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-4/' | relative_url }}">← Session 4</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-6/' | relative_url }}">Session 6 · The one that takes it for a self →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>

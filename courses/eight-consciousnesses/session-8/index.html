@@ -1,0 +1,459 @@
+---
+layout: default
+title: "Session 8 · Is this idealism? (The Eight Consciousnesses)"
+permalink: /courses/eight-consciousnesses/session-8/
+excerpt: "Session 8 of The Eight Consciousnesses — what the word only actually negates, why the world looks solid, how other minds are known, and the treatise's own rejection of both solipsism and nihilism."
+---
+
+<style>
+  .cw{--base:#453f78;--mid:#2b2650;--deep:#15122c;--acc:#d7b263;--acc-deep:#8f6a20;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#f8f6fb;--ink:#1e1b2b;--ink-soft:#615c73;--line:#e4e0ec;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .cw [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .cw [data-rv].in{opacity:1;transform:none;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .cw-crumb a{color:var(--base);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  .cw-hero{background:radial-gradient(120% 90% at 84% 10%,rgba(215,178,99,.22),transparent 62%),
+    linear-gradient(158deg,#453f78 0%,#2b2650 46%,#15122c 100%);color:#fff;}
+  .cw-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--acc);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .cw-hero .subt{font-style:italic;font-size:18px;color:#ddd7ef;}
+  .cw-hero .rd{margin-top:24px;font-size:14px;color:#bdb5d6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .cw-hero .rd b{color:var(--acc);}
+
+  .cw-body{background:#fff;padding:44px 0 24px;}
+  .cw-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .cw-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .cw-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--base);}
+  .cw-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .cw-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .cw-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--base);margin:34px 0 10px;}
+
+  /* scripture quote */
+  .cw-scr{position:relative;border-left:4px solid var(--acc);background:linear-gradient(180deg,#fdfbf8,#f3f0f8);
+    padding:22px 26px 20px;border-radius:0 12px 12px 0;margin:22px 0;}
+  .cw-scr .src{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--acc-deep);margin-bottom:10px;}
+  .cw-scr p{font-family:'Playfair Display',serif;font-size:18px;line-height:1.66;color:var(--deep);margin:0 0 12px;}
+  .cw-scr p:last-of-type{margin-bottom:0;}
+  .cw-scr .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:15.5px;color:#6d6490;
+    margin-top:14px;padding-top:12px;border-top:1px dashed #ddd7ea;line-height:1.85;}
+  .cw-scr a.bk{display:inline-block;margin-top:12px;font-size:13px;color:var(--base);text-decoration:none;border-bottom:1px solid rgba(69,63,120,.4);}
+  .cw-scr a.bk:hover{border-bottom-color:var(--base);}
+
+  .cw-pull{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:var(--acc-deep);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0;text-align:center;}
+
+  .cw-terms{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .cw-terms span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:13.5px;color:var(--ink);}
+  .cw-terms span b{color:var(--base);}
+
+  .cw-take{background:linear-gradient(180deg,#fdfbf8,#efecf6);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .cw-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--base);margin-bottom:8px;}
+  .cw-take ul{margin:0;padding-left:20px;}
+  .cw-take li{font-size:16px;line-height:1.66;color:var(--ink);margin-bottom:9px;}
+  .cw-take li b{color:var(--acc-deep);}
+
+  .cw-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .cw-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .cw-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .cw-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .cw-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .cw-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .cw-textcard .go .arw{transition:transform .25s;display:inline-block;}
+  .cw-textcard:hover .go .arw{transform:translateX(5px);}
+
+  .cw-prac{border:1px solid var(--line);border-radius:14px;padding:24px 26px;margin:16px 0;background:#fff;}
+  .cw-prac b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .cw-prac p{font-size:16.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+  .cw-prac p:last-child{margin-bottom:0;}
+  .cw-prac .how{background:var(--cream);border-radius:10px;padding:14px 18px;font-size:15.5px;line-height:1.65;color:var(--ink);}
+
+  /* quiz */
+  .cw-quiz{background:#fdfbf8;border:1px solid var(--line);border-radius:14px;padding:26px;}
+  .cw-quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .cw-quiz .q:first-of-type{padding-top:2px;}
+  .cw-quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .cw-quiz .q-num{display:inline-block;font-family:'Playfair Display',serif;font-size:12.5px;letter-spacing:.1em;color:var(--base);text-transform:uppercase;margin-bottom:6px;}
+  .cw-quiz .q-text{font-size:17.5px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .cw-quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:8px;padding:11px 16px;margin-bottom:8px;
+    font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .cw-quiz .opt .ltr{display:inline-block;width:22px;font-weight:700;color:var(--base);}
+  .cw-quiz .opt:hover:not(:disabled){background:#f2effa;border-color:var(--base);}
+  .cw-quiz .opt:disabled{cursor:default;}
+  .cw-quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .cw-quiz .opt.correct .ltr{color:#4f7a4b;}
+  .cw-quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .cw-quiz .opt.wrong .ltr{color:#c87b6f;}
+  .cw-quiz .opt.correct::after{content:"  \2713";color:#4f7a4b;font-weight:700;}
+  .cw-quiz .opt.wrong::after{content:"  \2717";color:#c87b6f;font-weight:700;}
+  .cw-quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--acc);font-size:15px;color:var(--ink-soft);line-height:1.65;border-radius:0 4px 4px 0;}
+  .cw-quiz .expl.show{display:block;}
+  .cw-quiz .expl strong{color:var(--ink);}
+  .cw-score{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:14.5px;color:var(--ink-soft);text-align:center;}
+  .cw-score strong{color:var(--base);font-size:17px;}
+
+  .cw-reflect{background:linear-gradient(158deg,#453f78 0%,#2b2650 48%,#15122c 100%);color:#ded8ef;border-radius:16px;padding:30px 34px;margin:24px 0;}
+  .cw-reflect .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc);font-weight:700;}
+  .cw-reflect p{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.6;color:#fff;margin:12px 0 0;}
+  .cw-reflect p.sm{font-family:inherit;font-style:normal;font-size:15.5px;color:#bdb5d6;line-height:1.7;margin-top:14px;}
+
+  .cw-next{background:var(--cream);border:1px solid var(--line);border-radius:16px;padding:26px 30px;margin:34px 0 20px;}
+  .cw-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-deep);font-weight:700;}
+  .cw-next h3{font-family:'Playfair Display',serif;color:var(--ink);font-size:22px;margin:8px 0 8px;}
+  .cw-next p{color:var(--ink-soft);font-size:15.5px;line-height:1.68;margin:0;}
+
+  .cw-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#453f78,#15122c);color:#fff;box-shadow:0 12px 26px -14px rgba(20,18,40,.85);}
+  .cw-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(20,18,40,.95);text-decoration:none;}
+  .cw-btn.ghost{border:1.5px solid var(--base);color:var(--base);background:transparent;}
+  .cw-btn.ghost:hover{background:var(--base);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .cw .cw-crumb,.cw-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .js .cw [data-rv]{opacity:1 !important;transform:none !important;}
+    .cw-hero{background:none;color:#000;padding:0;}
+    .cw-hero-in{padding:0 0 12px;}
+    .cw-eyebrow,.cw-hero .subt,.cw-hero .rd{color:#444;}
+    .cw-hero h1{color:#000;}
+    .cw-body{padding:0;}
+    .cw-body p,.cw-body h3,.cw-part h2,.cw-take li,.cw-prac p{color:#000;}
+    .cw-scr,.cw-take,.cw-prac,.cw-quiz,.cw-next{background:#fff !important;border:1px solid #bbb;}
+    .cw-scr p{color:#000;}
+    .cw-reflect{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-reflect p,.cw-reflect .l,.cw-reflect p.sm{color:#000;}
+    .cw-textcard{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .cw-textcard h3,.cw-textcard p,.cw-textcard .go,.cw-textcard .trad{color:#000;}
+    .cw{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+
+  /* --- The Eight Consciousnesses: course-specific components --- */
+
+  /* the running map of the eight — which one this session is about */
+  .cw-eight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:24px 0 28px;}
+  @media(max-width:560px){.cw-eight{grid-template-columns:repeat(2,1fr);}}
+  .cw-eight .c{border:1px solid var(--line);border-radius:11px;padding:12px 10px;text-align:center;background:var(--cream);
+    transition:background .3s,border-color .3s,transform .3s;}
+  .cw-eight .c .n{display:block;font-family:'Playfair Display',serif;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:var(--ink-soft);}
+  .cw-eight .c .nm{display:block;font-size:14.5px;color:var(--ink);margin-top:4px;line-height:1.3;}
+  .cw-eight .c .zh{display:block;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:13px;color:var(--ink-soft);margin-top:2px;}
+  .cw-eight .c.on{background:linear-gradient(158deg,var(--base),var(--deep));border-color:var(--deep);transform:translateY(-3px);
+    box-shadow:0 14px 28px -18px rgba(21,18,44,.8);}
+  .cw-eight .c.on .n{color:var(--acc);}
+  .cw-eight .c.on .nm,.cw-eight .c.on .zh{color:#fff;}
+
+  /* the treatise argues by objection and reply — show that shape */
+  .cw-obj{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:26px 0;}
+  .cw-obj .oq{background:linear-gradient(180deg,#f6f3fb,#ece8f6);padding:18px 24px 16px;border-bottom:1px solid var(--line);}
+  .cw-obj .oa{background:#fff;padding:18px 24px 16px;}
+  .cw-obj .l{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;margin-bottom:8px;}
+  .cw-obj .oq .l{color:#7a6fae;}
+  .cw-obj .oa .l{color:var(--acc-deep);}
+  .cw-obj p{font-size:16.5px;line-height:1.72;color:var(--ink);margin:0 0 10px;}
+  .cw-obj p:last-child{margin-bottom:0;}
+  .cw-obj .oq p{font-style:italic;}
+  .cw-obj .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;font-size:14.5px;
+    color:var(--ink-soft);line-height:1.8;margin-top:10px;padding-top:9px;border-top:1px dashed #ddd7ea;}
+
+  /* a technical term, given its three names at once */
+  .cw-gloss{display:grid;gap:12px;grid-template-columns:1fr;margin:22px 0;}
+  @media(min-width:640px){.cw-gloss{grid-template-columns:1fr 1fr;}}
+  .cw-gloss .g{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:0 10px 10px 0;
+    padding:14px 18px;background:var(--cream);}
+  .cw-gloss .g b{display:block;font-family:'Playfair Display',serif;font-size:17px;color:var(--ink);}
+  .cw-gloss .g .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',serif;
+    font-size:14px;color:var(--acc-deep);font-weight:600;margin:2px 0 6px;}
+  .cw-gloss .g span{display:block;font-size:14.5px;color:var(--ink-soft);line-height:1.58;}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{ '/courses/' | relative_url }">Ru-Yi Academy</a> → <a href="{ '/courses/eight-consciousnesses/' | relative_url }">The Eight Consciousnesses</a> → Session 8</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Session 8 · The objection</div>
+      <h1>Is this idealism?</h1>
+      <div class="subt">What the word <em>only</em> negates, and what it deliberately leaves standing</div>
+      <div class="rd">
+        <span><b>Reading time</b> about thirty-five minutes</span>
+        <span><b>Before class</b> Sessions 1–7</span>
+        <span><b>The text</b> Cheng Weishi Lun, fascicle 7</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <!-- PART 1 -->
+      <div class="cw-part" data-rv><div class="pn">Part 1</div><h2>The objection you have been carrying since Session 1<span class="rf">Stated properly before it is answered</span></h2></div>
+
+      <p data-rv>Every Western reader arrives at Yogācāra with the same word ready, and it is usually a dismissal: <em>idealism</em>. Berkeley in a saffron robe. The world is in your head. Nothing is really there.</p>
+
+      <p data-rv>The treatise faces the objection in fascicle 7 and does not duck it. But it is worth stating the objection in its strongest form first, because the answer is only interesting if the question is.</p>
+
+      <p data-rv>Three things seem to resist the doctrine. <strong>The world is stable.</strong> Shut your eyes and open them and the room is unchanged, in every detail, including details you never noticed. <strong>Perception is direct.</strong> When you see red, you are not inferring anything; it is simply given, and it does not feel constructed. <strong>Other people exist.</strong> If everything is my consciousness, either you are a figment — which is monstrous — or you are not, and then something is real outside my mind after all.</p>
+
+      <p data-rv>Those are good objections. The treatise's answers are better than most readers expect, and one of them, honestly assessed, does not fully succeed.</p>
+
+      <!-- PART 2 -->
+      <div class="cw-part" data-rv><div class="pn">Part 2</div><h2>What "only" actually negates<span class="rf">The most misread word in the school</span></h2></div>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · the verse</div>
+        <p>"These consciousnesses undergo transformation into what discriminates and what is discriminated; because of this, both are without real, independent existence; hence, everything is Consciousness-Only."</p>
+        <div class="zh">頌曰：是諸識轉變，分別所分別，由此彼皆無，故一切唯識。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Proving Consciousness-Only" →</a>
+      </div>
+
+      <p data-rv>Read that verse carefully and it says something stranger than idealism. <em>Both</em> are without real independent existence — not just the object, but the subject too. An idealist keeps the mind and dissolves the world. This keeps neither as an independent thing; it says the pair arise together as a transformation, and neither member has standing apart from the other.</p>
+
+      <p data-rv>Then the treatise defines its own key term, and this sentence should be attached to every English discussion of Yogācāra:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · the word "only"</div>
+        <p>"The word "only" serves to negate any real thing existing apart from consciousness — it does not negate mental factors and the like that are themselves not apart from consciousness."</p>
+        <div class="zh">「唯」言為遮離識實物，非不離識心所法等。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Proving Consciousness-Only" →</a>
+      </div>
+
+      <p data-rv>"Only" is a <em>negation of a specific claim</em>, not an assertion of a lone substance. What is being denied is existence <strong>apart from</strong> consciousness — the thing-in-itself, standing there fully formed and independent of any knowing of it. What is not being denied is that anything exists.</p>
+
+      <p data-rv>This is exactly the warning from Session 2 applied to the school's own slogan. The target has never been the world. The target is a particular relation the world is imagined to have: independence.</p>
+
+      <!-- PART 3 -->
+      <div class="cw-part" data-rv><div class="pn">Part 3</div><h2>Why the room stays put<span class="rf">And an argument that does not quite work</span></h2></div>
+
+      <p data-rv>To the first objection — the world's stubborn stability — the treatise gives the answer Session 5 prepared: shared-characteristic seeds, ripening in parallel, in beings whose past actions were similar. Stability is not evidence of a thing standing outside; it is evidence of a process running reliably. Your seeds are not arbitrary, so your world is not arbitrary.</p>
+
+      <p data-rv>To the second — the directness of perception — the answer is sharper, and it is the best single sentence in the section:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · direct perception</div>
+        <p>"At the very moment of direct perception, one does not yet grasp them as external; it is only the subsequent mental discrimination that falsely gives rise to the notion of something external."</p>
+        <div class="zh">現量證時，不執為外，後意分別，妄生外想。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Answering the Standing Objections" →</a>
+      </div>
+
+      <p data-rv>This is worth testing rather than accepting. In the bare instant of seeing red, is <em>externality</em> part of what is given? Or is red given, and "out there, independent of me" added immediately afterwards, so fast that the addition is invisible? The treatise says the second, and claims that direct perception is therefore not evidence against it — because direct perception never delivered the externality in the first place. The judgment that something is external is a later act, and later acts can be wrong.</p>
+
+      <p data-rv>Then comes the dream argument, and here a critical reader should slow down.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · the dream</div>
+        <p>"Just as, while still dreaming, one is incapable of recognizing this for oneself, and can only recognize it retrospectively upon waking, the color-form objects of the waking state, too, should be understood the same way: while not yet genuinely awakened, one is incapable of recognizing this for oneself, and can only recognize it retrospectively once genuine awakening is reached."</p>
+        <div class="zh">如夢未覺不能自知，要至覺時方能追覺，覺時境色應知亦爾，未真覺位不能自知，至真覺時亦能追覺。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Answering the Standing Objections" →</a>
+      </div>
+
+      <p data-rv>The objection it answers is a fair one: if waking life is like a dream, why can I tell when I have woken from a dream but not from this? The reply is that recognition is always retrospective — you could not tell inside the dream either.</p>
+
+      <p data-rv>That is a real answer, and it is also the weakest argument in the session, for a reason worth naming plainly: it cannot be checked from where the reader is standing. Any evidence you might raise against the position is, by the structure of the reply, exactly what someone still dreaming would raise. An argument that converts all possible counter-evidence into confirmation has stopped being an argument and become a frame. The treatise is entitled to say that awakening is the vantage point from which this is seen — but it is not entitled to treat that as a demonstration, and a reader who notices this is reading correctly rather than resisting.</p>
+
+      <p data-rv>Worth holding both things at once: the analysis of direct perception in the previous quote is testable and rather good; the dream argument is not, and does not become good by being traditional.</p>
+
+      <!-- PART 4 -->
+      <div class="cw-part" data-rv><div class="pn">Part 4</div><h2>Other minds, and the mirror<span class="rf">The objection the treatise takes most seriously — and answers best</span></h2></div>
+
+      <p data-rv>The third objection is the one with moral weight. If everything is my consciousness, are you real?</p>
+
+      <p data-rv>The treatise's answer is immediate and unambiguous: <em>another's mind genuinely exists</em>. Not a figment, not a projection. And then it makes a distinction that is the most philosophically careful thing in fascicle 7.</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · knowing another mind</div>
+        <p>"That is: when a consciousness arises, it involves no genuine causal action — unlike a hand actually grasping an external object, or the sun actually casting its light to illuminate an external object; rather, it is simply like a mirror, appearing to resemble an external object — this is what is called "cognizing another's mind," not "directly cognizing it.""</p>
+        <div class="zh">謂識生時無實作用，非如手等親執外物，日等舒光親照外境；但如鏡等似外境現，名「了他心」，非「親能了」。</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Answering the Standing Objections" →</a>
+      </div>
+
+      <p data-rv>You know other minds, but not the way a hand grips a cup. Your consciousness forms an image resembling the other mind — and that image, not the other mind, is what you directly cognize. The other mind is fully real and remains permanently out of direct reach.</p>
+
+      <p data-rv>The general principle behind it is stated as a scriptural quotation, and it applies to everything, not only to minds: <em>no dharma whatsoever is capable of grasping another dharma; it is simply that, when a consciousness arises, it appears resembling that thing's characteristic, and this is called grasping that thing.</em> Knowing is never contact. It is always resemblance.</p>
+
+      <p data-rv>Then the treatise loses patience, in one of the few places where its voice becomes audible:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · against solipsism</div>
+        <p>"How remarkable — clinging so stubbornly that doubt arises at every turn! Does the teaching of Consciousness-Only really claim that there is only a single consciousness? It is not so — then how is it? You should listen carefully: were there truly only a single consciousness, how could there be the distinctions of the ten directions, of the ordinary and the noble, of the exalted and the lowly, of cause and effect, and the rest? Who would be teaching, and to whom? What dharma would be sought, and by what means?"</p>
+        <div class="zh">既有異境，何名唯識？奇哉！固執觸處生疑！豈唯識教但說一識？不爾，如何？汝應諦聽：若唯一識，寧有十方凡聖、尊卑、因果等別？誰為誰說？何法何求？</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Answering the Standing Objections" →</a>
+      </div>
+
+      <p data-rv><em>Who would be teaching, and to whom?</em> The whole Buddhist project presupposes a plurality of minds — someone ignorant, someone who has seen, and a road between them. A single mind would make the tradition's own activity incoherent. Consciousness-Only means every being has eight consciousnesses; it does not mean there is one consciousness that everything is inside.</p>
+
+      <p data-rv>And the section ends by closing the other exit, which is the one this course's Session 2 warned about from the opposite side:</p>
+
+      <div class="cw-scr" data-rv>
+        <div class="src">Cheng Weishi Lun · fascicle 7 · and against nihilism</div>
+        <p>"this is not something that one who entirely denies everything, taking emptiness to a ruinous nihilistic extreme in defiance of scriptural and rational teaching, could ever accomplish."</p>
+        <div class="zh">非全撥無惡取空者，違背教理能成是事，</div>
+        <a class="bk" href="{{ '/sutras/cheng-weishi-lun/fascicle-007/' | relative_url }}">Read this passage in its place — fascicle 7, "Answering the Standing Objections" →</a>
+      </div>
+
+      <p data-rv>Not one mind, and not no world. The position is narrower than either caricature, and harder to hold, because it refuses both of the comfortable places a reader would rather put it.</p>
+
+      <div class="cw-take" data-rv>
+        <b class="h">What Session 8 establishes</b>
+        <ul>
+          <li><b>"Only" negates independence, not existence</b> — specifically, existence <em>apart from</em> consciousness.</li>
+          <li><b>Both subject and object lose independent standing.</b> This is not idealism, which keeps the mind.</li>
+          <li><b>Externality is added after perception, not given in it.</b> A testable claim, and the strongest in the session.</li>
+          <li><b>The dream argument does not succeed</b> — it converts all counter-evidence into confirmation, which makes it a frame rather than a demonstration.</li>
+          <li><b>Other minds are genuinely real</b> and are known by resemblance, never by contact. Knowing is never gripping.</li>
+          <li><b>Explicitly not solipsism</b> — a single mind would make teaching, seeking, and the path itself incoherent.</li>
+        </ul>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="cw-part" data-rv><div class="pn">Part 5</div><h2>One practice<span class="rf">Looking for the moment externality is added</span></h2></div>
+
+      <div class="cw-prac" data-rv>
+        <b class="h">Before the notion of outside</b>
+        <p>The claim in Part 3 — that direct perception does not deliver externality, and that the notion is added immediately afterwards — is unusual among this treatise's claims in being partly checkable.</p>
+        <div class="how">
+          Find somewhere with an uncomplicated visual field. Let your eyes rest without focusing on any one thing, and let the field become what it is — colour and shape, without naming.<br><br>
+          Now look for the <strong>distance</strong>. Not whether things appear near or far — depth is part of the appearance. Look for the sense that these appearances are <em>out there, independent of this seeing</em>. Ask whether that independence is visible, the way colour is visible, or whether it is something you know rather than see.<br><br>
+          Then, without forcing anything, watch for the moment the ordinary attitude returns — the shift from <em>appearing</em> to <em>things, there, whether or not I look</em>. That shift is what the treatise calls subsequent mental discrimination.
+        </div>
+        <p>Two honest caveats. The exercise cannot establish that the treatise is right — at most it shows that independence is not itself an observed property. And extended practice of this kind can produce a spacey, derealised state that is not insight and is not pleasant; if that starts, stop, and do something ordinary.</p>
+      </div>
+
+      <!-- PART 6 -->
+      <div class="cw-part" data-rv><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Five questions</span></h2></div>
+
+      <div class="cw-quiz" id="quiz" data-rv>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 1 of 5</span>
+          <div class="q-text">What does the word "only" negate?</div>
+          <button class="opt"><span class="ltr">A</span>The existence of the external world</button>
+          <button class="opt"><span class="ltr">B</span>The existence of mental factors other than consciousness itself</button>
+          <button class="opt"><span class="ltr">C</span>Any real thing existing <em>apart from</em> consciousness — while leaving standing whatever is not apart from it</button>
+          <button class="opt"><span class="ltr">D</span>The existence of other minds</button>
+          <div class="expl"><strong>Correct: C.</strong> The target is independence, never existence — the same distinction Session 2 drew about the school's own slogan.</div>
+        </div>
+
+        <div class="q" data-correct="1">
+          <span class="q-num">Question 2 of 5</span>
+          <div class="q-text">Why is the verse's position not idealism in the ordinary sense?</div>
+          <button class="opt"><span class="ltr">A</span>Because it accepts that matter exists independently of mind</button>
+          <button class="opt"><span class="ltr">B</span>Because both the discriminating and the discriminated lack independent existence — an idealist keeps the mind and dissolves the world</button>
+          <button class="opt"><span class="ltr">C</span>Because it denies that consciousness exists at all</button>
+          <button class="opt"><span class="ltr">D</span>Because it treats the question as meaningless</button>
+          <div class="expl"><strong>Correct: B.</strong> Neither member of the pair has standing apart from the other.</div>
+        </div>
+
+        <div class="q" data-correct="0">
+          <span class="q-num">Question 3 of 5</span>
+          <div class="q-text">What is the treatise's answer to the directness of perception?</div>
+          <button class="opt"><span class="ltr">A</span>That externality is not given in the bare moment of perception but added by subsequent mental discrimination</button>
+          <button class="opt"><span class="ltr">B</span>That direct perception is always mistaken</button>
+          <button class="opt"><span class="ltr">C</span>That only meditators have genuine direct perception</button>
+          <button class="opt"><span class="ltr">D</span>That perception is inference all the way down</button>
+          <div class="expl"><strong>Correct: A.</strong> So direct perception is not evidence against the position, because it never delivered the externality in the first place.</div>
+        </div>
+
+        <div class="q" data-correct="3">
+          <span class="q-num">Question 4 of 5</span>
+          <div class="q-text">How are other minds known, on this account?</div>
+          <button class="opt"><span class="ltr">A</span>They are not known; other minds are inferred and may not exist</button>
+          <button class="opt"><span class="ltr">B</span>Directly, since minds can touch other minds although they cannot touch matter</button>
+          <button class="opt"><span class="ltr">C</span>They are projections of one's own storehouse consciousness</button>
+          <button class="opt"><span class="ltr">D</span>They genuinely exist, and are known by resemblance — like a mirror, never like a hand grasping</button>
+          <div class="expl"><strong>Correct: D.</strong> And the principle generalises: no dharma ever grasps another dharma. Knowing is resemblance, not contact.</div>
+        </div>
+
+        <div class="q" data-correct="2">
+          <span class="q-num">Question 5 of 5</span>
+          <div class="q-text">What is the treatise's argument against reading Consciousness-Only as "there is only one mind"?</div>
+          <button class="opt"><span class="ltr">A</span>That scripture forbids the interpretation</button>
+          <button class="opt"><span class="ltr">B</span>That a single mind could not store enough seeds</button>
+          <button class="opt"><span class="ltr">C</span>That it would make the distinctions of ordinary and noble, cause and effect — and the very acts of teaching and seeking — incoherent</button>
+          <button class="opt"><span class="ltr">D</span>That each of the eight consciousnesses is itself a separate mind</button>
+          <div class="expl"><strong>Correct: C.</strong> "Who would be teaching, and to whom?" Every being has eight consciousnesses; there is not one consciousness everything is inside.</div>
+        </div>
+
+        <div class="cw-score">Answered <strong id="answered-count">0</strong> of 5 · Correct <strong id="correct-count">0</strong></div>
+      </div>
+
+      <!-- REFLECTION -->
+      <div class="cw-reflect" data-rv>
+        <div class="l">One question to sit with</div>
+        <p>If you can never touch another mind, only ever resemble it, what does that make of every close relationship you have?</p>
+        <p class="sm">The treatise does not draw the consequence, and it is not obviously a bleak one. The other person is fully real; what you have of them is an image your own mind forms. That is either a statement of permanent isolation or an unusually precise account of why understanding another person takes a lifetime of correction — and the treatise leaves you to decide which.</p>
+      </div>
+
+      <div class="cw-next" data-rv>
+        <div class="l">Next session</div>
+        <h3>Session 9 · Three natures, five stages</h3>
+        <p>The framework that reorganises everything you have read so far into three ways of being real, and the path laid out in five stages — from the first accumulation of provisions to the moment of seeing, and the long cultivation that follows it.</p>
+      </div>
+
+      <div class="cw-foot" data-rv>
+        <a class="cw-btn ghost" href="{{ '/courses/eight-consciousnesses/session-7/' | relative_url }}">← Session 7</a>
+        <a class="cw-btn primary" href="{{ '/courses/eight-consciousnesses/session-9/' | relative_url }}">Session 9 · Three natures, five stages →</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.cw [data-rv]'));
+  var ticking = false;
+  function show(el){ el.classList.add('in'); }
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      /* top past the trigger line is enough — a card jumped over must not stay hidden */
+      if (rv[i].getBoundingClientRect().top < vh - 60){ show(rv[i]); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  sweep(); setTimeout(sweep, 120);
+
+  var answered = 0, correct = 0;
+  var total = document.querySelectorAll('.cw-quiz .q').length;
+  document.querySelectorAll('.cw-quiz .q').forEach(function(q){
+    var want = q.getAttribute('data-correct');
+    q.querySelectorAll('.opt').forEach(function(btn, i){
+      btn.addEventListener('click', function(){
+        if (q.getAttribute('data-done')) return;
+        q.setAttribute('data-done','1');
+        answered++;
+        var pick = String(i);
+        if (pick === want) correct++;
+        q.querySelectorAll('.opt').forEach(function(b, j){
+          b.disabled = true;
+          if (String(j) === want) b.classList.add('correct');
+          else if (j === i) b.classList.add('wrong');
+        });
+        var ex = q.querySelector('.expl'); if (ex) ex.classList.add('show');
+        var ac = document.getElementById('answered-count'), cc = document.getElementById('correct-count');
+        if (ac) ac.textContent = answered;
+        if (cc) cc.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
