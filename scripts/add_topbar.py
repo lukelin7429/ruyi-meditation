@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+SUPERSEDED by scripts/sync_topbar.py, which adds *and* updates the bar on every
+standalone page. Kept for reference; sync_topbar.py is the one to run.
+
 Add the canonical Ru-Yi top bar to the standalone (non-Jekyll) pages that don't
 get it from the shared _includes/header.html — namely the Forbearance page and
 every Majjhima Nikāya discourse page (index + mn-*.html).
