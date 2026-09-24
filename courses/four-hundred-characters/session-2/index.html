@@ -1,0 +1,440 @@
+---
+layout: default
+title: "Session 2 · At That Time, the World-Honored One (Four Hundred Characters)"
+permalink: /courses/four-hundred-characters/session-2/
+excerpt: Session 2 of Four Hundred Characters — the speech formulas of Classical Chinese scripture, where the verb itself tells you whether a disciple is addressing the Buddha or the Buddha a disciple.
+---
+<style>
+  .fh{--ink:#1f1c18;--ink-mid:#3c362e;--ink-soft:#6f6659;
+      --cinnabar:#b02e26;--cinnabar-deep:#7d1d18;--cinnabar-pale:#f0dfdb;
+      --paper:#f8f3e8;--paper-deep:#efe7d6;--line:#e4dccb;--jade:#2f6d5e;
+      --zh:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;
+      --zh-serif:'Songti TC','Apple LiSung','PingFang TC',serif;}
+  .fh *{box-sizing:border-box;}
+  .fh-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+  .fh-wrap.wide{max-width:900px;}
+  .fh .zh{font-family:var(--zh);}
+
+  .js .fh [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .fh [data-rv].in{opacity:1;transform:none;}
+
+  .fh-crumb{background:var(--paper);border-bottom:1px solid var(--line);}
+  .fh-crumb .fh-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);}
+  .fh-crumb a{color:var(--cinnabar-deep);text-decoration:none;}
+  .fh-crumb a:hover{text-decoration:underline;}
+
+  .fh-hero{background:
+      radial-gradient(120% 90% at 86% 8%,rgba(176,46,38,.26),transparent 60%),
+      linear-gradient(158deg,#3c352c 0%,#282320 48%,#14120f 100%);color:#fff;}
+  .fh-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .fh-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:#e0a59c;font-weight:600;}
+  .fh-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 10px;}
+  .fh-hero .subt{font-style:italic;font-size:18px;color:#ded6c8;}
+  .fh-hero .lede{font-size:17px;line-height:1.7;color:#cfc7b8;margin:16px 0 0;max-width:58ch;}
+  .fh-hero .rd{margin-top:24px;font-size:14px;color:#bfb6a6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .fh-hero .rd b{color:#e0a59c;}
+  .fh-hero-zh{font-family:var(--zh-serif);font-size:clamp(17px,3.9vw,26px);line-height:1.9;
+    letter-spacing:.04em;color:#fff;margin:26px 0 0;}
+  .fh-hero-gloss{font-style:italic;color:#a9a091;font-size:14.5px;line-height:1.65;margin:10px 0 0;max-width:60ch;}
+
+  .fh-body{background:#fff;padding:44px 0 30px;}
+  .fh-body p{font-size:17.5px;line-height:1.78;color:var(--ink-mid);margin:0 0 20px;}
+  .fh-body.paper{background:var(--paper);}
+
+  .fh-part{margin:52px 0 22px;padding-top:26px;border-top:2px solid var(--line);}
+  .fh-part:first-child{margin-top:0;padding-top:0;border-top:0;}
+  .fh-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .fh-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .fh-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+
+  /* stat band */
+  .fh-stats{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 24px;}
+  .fh-stat{background:#fff;padding:18px 16px;}
+  .fh-stat b{display:block;font-family:'Playfair Display',serif;font-size:28px;line-height:1.05;
+    color:var(--cinnabar-deep);font-variant-numeric:tabular-nums;}
+  .fh-stat span{display:block;font-size:12.5px;color:var(--ink-soft);margin-top:6px;line-height:1.45;}
+
+  /* character tiles */
+  .fh-tiles{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 10px;padding:0;list-style:none;}
+  .fh-tile{all:unset;cursor:pointer;display:flex;flex-direction:column;align-items:center;
+    width:74px;padding:10px 4px 8px;background:var(--paper);border:1px solid var(--line);
+    transition:border-color .15s,transform .15s;}
+  .fh-tile:hover{border-color:var(--cinnabar);transform:translateY(-1px);}
+  .fh-tile:focus-visible{outline:2px solid var(--cinnabar);outline-offset:2px;}
+  .fh-tile .ch{font-family:var(--zh-serif);font-size:32px;line-height:1.15;color:var(--ink);}
+  .fh-tile .rk{font-size:10.5px;color:var(--ink-soft);font-variant-numeric:tabular-nums;letter-spacing:.03em;}
+  .fh-tile[aria-expanded="true"]{border-color:var(--cinnabar);background:var(--cinnabar-pale);}
+  .fh-tile.block .ch{color:var(--ink-soft);}
+
+  .fh-card{border:1px solid var(--line);border-left:3px solid var(--cinnabar);background:var(--paper);
+    padding:16px 18px;margin:0 0 20px;}
+  .fh-card h3{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:0 0 4px;line-height:1.3;}
+  .fh-card .chb{font-family:var(--zh-serif);font-size:26px;color:var(--cinnabar-deep);margin-right:9px;}
+  .fh-card p{font-size:15px;line-height:1.65;margin:6px 0 0;}
+  .fh-card dl{margin:12px 0 0;display:grid;grid-template-columns:auto 1fr;gap:2px 14px;font-size:13.5px;}
+  .fh-card dt{color:var(--ink-soft);}
+  .fh-card dd{margin:0;font-variant-numeric:tabular-nums;color:var(--ink-mid);}
+  .fh-hint{font-size:13.5px;color:var(--ink-soft);font-style:italic;}
+
+  /* scripture box */
+  .fh-frame{font-family:var(--zh-serif);font-size:clamp(17px,3.5vw,23px);line-height:2.05;
+    letter-spacing:.03em;background:var(--paper);border:1px solid var(--line);
+    border-left:3px solid var(--cinnabar);padding:22px 20px;color:var(--ink);}
+  .fh-frame.center{text-align:center;}
+  .fh-fixed{color:var(--ink);}
+  .fh-slot{color:var(--cinnabar-deep);border-bottom:2px solid var(--cinnabar);padding-bottom:1px;}
+  .fh-en{font-size:15px;color:var(--ink-soft);font-style:italic;line-height:1.66;margin:14px 0 0;}
+  .fh-swap{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0;padding:0;list-style:none;}
+  .fh-swap button{all:unset;cursor:pointer;font-size:13px;font-weight:600;padding:7px 14px;
+    border:1px solid var(--line);border-radius:999px;color:var(--ink-mid);background:#fff;transition:all .15s;}
+  .fh-swap button:hover{border-color:var(--cinnabar);color:var(--cinnabar-deep);}
+  .fh-swap button:focus-visible{outline:2px solid var(--cinnabar);outline-offset:2px;}
+  .fh-swap button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink);}
+
+  /* side-by-side comparison */
+  .fh-twins{display:grid;gap:14px;margin:22px 0 0;}
+  .fh-twin{background:#fff;border:1px solid var(--line);padding:18px 20px;}
+  .fh-body.paper .fh-twin{background:#fff;}
+  .fh-twin .who{font-size:11.5px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+    color:var(--ink-soft);margin:0 0 10px;}
+  .fh-twin .txt{font-family:var(--zh-serif);font-size:clamp(16px,3.2vw,20px);line-height:1.95;
+    letter-spacing:.03em;color:var(--ink);margin:0;}
+  .fh-twin .txt.full{font-size:clamp(15px,2.9vw,18px);line-height:2.05;}
+  .fh mark{background:var(--cinnabar-pale);color:var(--cinnabar-deep);padding:0 3px;font-weight:600;}
+
+  /* exercises */
+  .fh-ex{border-top:1px solid var(--line);padding-top:20px;margin-top:20px;}
+  .fh-ex:first-of-type{border-top:0;padding-top:0;margin-top:0;}
+  .fh-ex .q{font-family:var(--zh-serif);font-size:20px;line-height:1.9;letter-spacing:.03em;
+    color:var(--ink);margin:0 0 12px;}
+  .fh-reveal{all:unset;cursor:pointer;font-size:12.5px;font-weight:700;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--cinnabar-deep);border-bottom:1px solid var(--cinnabar);padding-bottom:1px;}
+  .fh-reveal:focus-visible{outline:2px solid var(--cinnabar);outline-offset:3px;}
+  .fh-ans{margin-top:14px;border-left:2px solid var(--jade);padding-left:14px;}
+  .fh-ans p{font-size:15.5px;margin:0 0 8px;}
+  .fh-ans p:last-child{margin-bottom:0;}
+  .fh-ans .sm{font-size:14px;color:var(--ink-soft);}
+
+  /* tables */
+  .fh-tscroll{overflow-x:auto;margin:22px 0 0;}
+  .fh table{width:100%;border-collapse:collapse;font-size:14.5px;}
+  .fh th,.fh td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);color:var(--ink-mid);}
+  .fh th{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;}
+  .fh td.n{text-align:right;font-variant-numeric:tabular-nums;}
+  .fh td.zh{font-family:var(--zh);font-size:16px;}
+
+  /* session list on the index */
+  .fh-sess{display:grid;gap:14px;margin:24px 0 0;padding:0;list-style:none;}
+  .fh-sesscard{border:1px solid var(--line);background:#fff;padding:20px 22px;display:block;
+    text-decoration:none;transition:border-color .15s,transform .15s;}
+  .fh-sesscard:hover{border-color:var(--cinnabar);transform:translateY(-1px);}
+  .fh-sesscard .sn{font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .fh-sesscard h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);margin:6px 0 4px;line-height:1.2;}
+  .fh-sesscard .zht{font-family:var(--zh);font-size:14.5px;color:var(--ink-soft);margin:0 0 8px;}
+  .fh-sesscard p{font-size:15px;line-height:1.6;color:var(--ink-mid);margin:0;}
+
+  /* prev / next */
+  .fh-nav{border-top:2px solid var(--line);margin-top:48px;padding:26px 0 0;
+    display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;}
+  .fh-nav a{font-size:14.5px;color:var(--cinnabar-deep);text-decoration:none;font-weight:600;}
+  .fh-nav a:hover{text-decoration:underline;}
+  .fh-nav .sp{color:var(--ink-soft);font-weight:400;}
+
+  .fh-note{background:var(--paper-deep);border:1px solid var(--line);padding:18px 20px;margin:24px 0 0;}
+  .fh-note h4{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);margin:0 0 6px;}
+  .fh-note p{font-size:15px;line-height:1.66;margin:0;}
+
+  .fh-method{background:var(--ink);color:#b8afa0;padding:36px 0 40px;}
+  .fh-method h4{font-family:'Playfair Display',serif;font-size:19px;color:#fff;margin:0 0 10px;}
+  .fh-method p{font-size:14.5px;line-height:1.7;margin:0 0 12px;max-width:66ch;}
+  .fh-method code{font-size:13px;color:#e0a59c;}
+  .fh-method a{color:#e0a59c;}
+
+  @media (prefers-reduced-motion:reduce){.fh *{transition:none !important;}}
+</style>
+
+<div class="fh">
+
+  <nav class="fh-crumb"><div class="fh-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/four-hundred-characters/' | relative_url }}">Four Hundred Characters</a> → Session 2</div></nav>
+
+  <section class="fh-hero">
+    <div class="fh-hero-in">
+      <div class="fh-eyebrow">Session 2 &middot; Following the conversation</div>
+      <h1>At That Time, the World-Honored One</h1>
+      <p class="lede">Session 1 got you into the room. Now you have to follow the conversation &mdash; and the canon gives you no quotation marks, no capital letters, and no verb tenses to do it with. What it gives you instead is a set of formulas that mark who spoke, in which direction, and what kind of move they were making.</p>
+      <p class="fh-hero-zh" lang="zh-Hant">時，長者須菩提在大眾中即從座起，偏褒右肩，<br>右膝著地，合掌恭敬而白佛言</p>
+      <p class="fh-hero-gloss">Then the elder Subhūti rose from his seat in the assembly, bared his right shoulder, placed his right knee on the ground, joined his palms in reverence, and addressed the Buddha, saying&hellip;</p>
+    </div>
+  </section>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+
+      <div class="fh-part"><div class="pn">Part 1</div><h2>This is the next sentence</h2></div>
+
+      <p data-rv>Last session you read the opening of the Diamond Sutra: the Buddha at Jeta's Grove with 1,250 monks. Two sentences later he has walked into Śrāvastī, begged his food, come back, washed his feet, and sat down. Then the sentence above happens, and the sutra proper begins.</p>
+
+      <p data-rv>We are not skipping around. Sessions 1, 2, and 3 walk straight down the opening of one text, in order, which is the only honest way to learn to read one.</p>
+
+      <div class="fh-stats" data-rv>
+        <div class="fh-stat"><b>42,743</b><span>occurrences of 爾時, across 1,020 sutras</span></div>
+        <div class="fh-stat"><b>67,271</b><span>occurrences of 世尊, across 1,009 sutras</span></div>
+        <div class="fh-stat"><b>13,381</b><span>occurrences of 白佛言, across 747 sutras</span></div>
+        <div class="fh-stat"><b>13,090</b><span>occurrences of 佛告, across 740 sutras</span></div>
+      </div>
+
+      <div class="fh-part"><div class="pn">Part 2</div><h2>爾時 &mdash; the cut between shots</h2></div>
+
+      <p data-rv><span class="zh">爾時</span> means <em>at that time</em>, and it does the work a paragraph break or a scene change does in English. It appears in <strong>1,020 of the canon's 1,482 sutras</strong> &mdash; sixty-nine percent &mdash; and when you see it, the camera has moved.</p>
+
+      <p data-rv>It pairs almost always with <span class="zh">世尊</span>, <em>World-Honored One</em>, which is what the texts call the Buddha when they are being formal about him. <span class="zh">佛</span> is his name in narration; <span class="zh">世尊</span> is how he is addressed and how the narrator refers to him at a solemn moment. Both are extremely common and they are not interchangeable in tone.</p>
+
+      <ul class="fh-tiles" id="nar-tiles"></ul>
+      <div id="nar-card"><p class="fh-hint">Tap a character above.</p></div>
+
+      <p data-rv>One practical note: <span class="zh">爾</span> ranks 116th in the canon and you will meet it almost nowhere except inside <span class="zh">爾時</span>. Do not learn it as a word. Learn the pair.</p>
+
+      <div class="fh-part"><div class="pn">Part 3</div><h2>Speech has a direction<span class="rf">The most useful thing in this session</span></h2></div>
+
+      <p data-rv>Classical Chinese marks the <em>social direction</em> of speech in the verb itself, and the canon is rigid about it.</p>
+
+      <p data-rv>A disciple speaking to the Buddha uses <span class="zh">白</span>: <span class="zh">白佛言</span>, <em>addressed the Buddha, saying</em>. The ordinary meaning of <span class="zh">白</span> is the color white; here it is a verb, and it means to report upward to someone senior. It occurs <strong>13,381 times across 747 sutras</strong>.</p>
+
+      <p data-rv>The Buddha speaking to a disciple uses <span class="zh">告</span>: <span class="zh">佛告須菩提</span>, <em>the Buddha told Subhūti</em>. It occurs <strong>13,090 times across 740 sutras</strong> &mdash; almost exactly as often, which makes sense, since scripture is mostly people taking turns.</p>
+
+      <p data-rv><strong>The two are never swapped.</strong> A monk does not <span class="zh">告</span> the Buddha. So when you find either verb you immediately know which way the sentence is pointing, before you have understood a single other word in it.</p>
+
+      <ul class="fh-tiles" id="spk-tiles"></ul>
+      <div id="spk-card"><p class="fh-hint">Tap a character above.</p></div>
+
+      <p data-rv><span class="zh">言</span> closes the formula. It sits at the end &mdash; <span class="zh">白佛言</span>, <span class="zh">佛告須菩提…言</span> &mdash; and everything after it is the quotation. That is your quotation mark.</p>
+    </div>
+  </div>
+
+  <div class="fh-body paper">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 4</div><h2>The body of respect</h2></div>
+
+      <p data-rv>Before Subhūti says anything he does five things: <span class="zh">從座起</span> rises from his seat, <span class="zh">偏褒右肩</span> bares his right shoulder, <span class="zh">右膝著地</span> puts his right knee to the ground, <span class="zh">合掌</span> joins his palms, <span class="zh">恭敬</span> reverently. Then he speaks.</p>
+
+      <p data-rv>Notice the ranks. <span class="zh">偏</span> is 1,184th in the canon. <span class="zh">褒</span> is 1,436th. <span class="zh">肩</span> is 1,101st, <span class="zh">膝</span> 1,034th. These are genuinely rare characters &mdash; and you have just met all four in a single clause.</p>
+
+      <p data-rv>This is the same lesson as the garden in Session 1, and it is the central skill of the course, so here it is as a rule:</p>
+
+      <div class="fh-note" data-rv>
+        <h4>When rare characters cluster, you are looking at a block</h4>
+        <p>Scripture's rarest characters almost never appear alone. They arrive in fixed strings &mdash; a place name, a gesture, a title, a transliterated Sanskrit word &mdash; that recur unchanged across hundreds of texts. Recognize the string; do not drill the characters. Your four hundred characters are spent on the connective tissue, not on these.</p>
+      </div>
+
+      <ul class="fh-tiles" id="ges-tiles"></ul>
+      <div id="ges-card"><p class="fh-hint">Tap a character above.</p></div>
+    </div>
+  </div>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 5</div><h2>何以故 &mdash; the canon interrogates itself</h2></div>
+
+      <p data-rv>Buddhist scripture argues, and it argues by asking itself questions. Three connectives carry almost all of that structure, and once you can see them the shape of an argument appears on the page even where the content is still beyond you.</p>
+
+      <div class="fh-tscroll" data-rv>
+        <table>
+          <thead><tr><th>Connective</th><th>Force</th><th class="n">Times</th><th class="n">Sutras</th></tr></thead>
+          <tbody>
+            <tr><td class="zh">何以故</td><td>Why is that? &mdash; a question the text then answers itself</td><td class="n">25,706</td><td class="n">457</td></tr>
+            <tr><td class="zh">是故</td><td>Therefore &mdash; the conclusion is arriving</td><td class="n">19,513</td><td class="n">764</td></tr>
+            <tr><td class="zh">復次</td><td>Furthermore &mdash; a new point, the canon's paragraph break</td><td class="n">18,551</td><td class="n">489</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p data-rv style="margin-top:22px"><span class="zh">何以故</span> is not a rhetorical flourish. It is a structural signal: the sentence before it was a claim, and the sentence after it is the reason. In the Diamond Sutra it appears again and again, and each time it tells you the text is about to undercut what it just said.</p>
+
+      <ul class="fh-tiles" id="con-tiles"></ul>
+      <div id="con-card"><p class="fh-hint">Tap a character above.</p></div>
+    </div>
+  </div>
+
+  <div class="fh-body paper">
+    <div class="fh-wrap wide">
+      <div class="fh-part"><div class="pn">Part 6</div><h2>A complete exchange<span class="rf">Four turns, in the order the text gives them</span></h2></div>
+      <p data-rv>Here is Subhūti's question and the Buddha's reply, in sequence. Read it for the traffic pattern first &mdash; who is speaking to whom &mdash; and only then for the content. Watch the speech verb change on every turn, and then vanish.</p>
+      <div class="fh-twins">
+        <div class="fh-twin" data-rv>
+          <p class="who">Turn 1 &middot; Subhūti asks &middot; upward</p>
+          <p class="txt" lang="zh-Hant">而<mark>白佛言</mark>：「希有世尊！如來善護念諸菩薩，善付囑諸菩薩。世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？云何降伏其心？」</p>
+          <p class="fh-en">&hellip;and addressed the Buddha, saying: "How rare, World-Honored One! The Thus-Come One well watches over the bodhisattvas, well entrusts the bodhisattvas. World-Honored One — a good man or good woman who has set their mind on unsurpassed perfect awakening: how should they abide? How should they subdue their mind?"</p>
+        </div>
+        <div class="fh-twin" data-rv>
+          <p class="who">Turn 2 &middot; the Buddha approves &middot; bare <span class="zh">佛言</span>, no addressee</p>
+          <p class="txt" lang="zh-Hant"><mark>佛言</mark>：「善哉，善哉！須菩提！如汝所說：『如來善護念諸菩薩，善付囑諸菩薩。』汝今諦聽，當為汝說。」</p>
+          <p class="fh-en">The Buddha said: "Excellent, excellent! Subhūti! It is as you say — the Thus-Come One well watches over the bodhisattvas, well entrusts the bodhisattvas. Listen closely now, and I will tell you." Here the verb is the bare <span class="zh">佛言</span> with nobody named: he is answering, not initiating.</p>
+        </div>
+        <div class="fh-twin" data-rv>
+          <p class="who">Turn 3 &middot; Subhūti assents &middot; no speech verb at all</p>
+          <p class="txt" lang="zh-Hant">「唯然。世尊！願樂欲聞。」</p>
+          <p class="fh-en">"Just so. World-Honored One! Gladly would we hear it." Seven characters, and nothing marks who is speaking. The canon drops the formula once the turn-taking is established, exactly as English drops "he said" in a fast exchange. The vocative <span class="zh">世尊</span> is the only clue, and it is enough — only a disciple would use it.</p>
+        </div>
+        <div class="fh-twin" data-rv>
+          <p class="who">Turn 4 &middot; the Buddha begins &middot; downward</p>
+          <p class="txt" lang="zh-Hant"><mark>佛告</mark>須菩提：「諸菩薩摩訶薩應如是降伏其心&hellip;」</p>
+          <p class="fh-en">The Buddha told Subhūti: "The bodhisattva-mahāsattvas should subdue their mind thus&hellip;" The verb returns, and with an addressee, because a new movement is starting.</p>
+        </div>
+      </div>
+      <p data-rv style="margin-top:22px">Four turns, four different ways of marking speech: <span class="zh">白佛言</span> going up, bare <span class="zh">佛言</span> answering, nothing at all, then <span class="zh">佛告</span> going back down. In Classical Chinese scripture the speech verb <em>is</em> the punctuation.</p>
+    </div>
+  </div>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 7</div><h2>Check yourself</h2></div>
+
+      <div class="fh-ex" data-rv>
+        <p class="q" lang="zh-Hant">爾時世尊告阿難言：「此是無量壽佛極樂世界。」</p>
+        <button class="fh-reveal" type="button" aria-expanded="false">Reveal</button>
+        <div class="fh-ans" hidden>
+          <p>"At that time the World-Honored One addressed Ānanda, saying: 'This is the Land of Ultimate Bliss of the Buddha of Immeasurable Life.'"</p>
+          <p class="sm">Ratnakūṭa Sutra 大寶積經, T0310. The complete downward formula: <span class="zh">爾時</span> scene change, <span class="zh">世尊</span> speaker, <span class="zh">告</span> direction, <span class="zh">阿難</span> addressee, <span class="zh">言</span> quotation opens. <span class="zh">世尊告</span> alone occurs 4,002 times across 439 sutras. The next sentence in the original tells Ānanda to rise and <span class="zh">合掌恭敬</span> &mdash; the gesture block from Part 4.</p>
+        </div>
+      </div>
+
+      <div class="fh-ex" data-rv>
+        <p class="q" lang="zh-Hant">爾時，須菩提白佛言：「世尊！當何名此經？我等云何奉持？」佛告須菩提&hellip;</p>
+        <button class="fh-reveal" type="button" aria-expanded="false">Reveal</button>
+        <div class="fh-ans" hidden>
+          <p>"At that time Subhūti addressed the Buddha, saying: 'World-Honored One! What should this sutra be called? How are we to uphold it?' The Buddha told Subhūti&hellip;"</p>
+          <p class="sm">Both directions in one passage, from the Diamond Sutra itself: <span class="zh">白</span> going up, then <span class="zh">告</span> coming back down. Subhūti is asking what to name the text he is sitting inside. Note the two question words &mdash; <span class="zh">當何名</span> what should it be called, <span class="zh">云何</span> in what manner &mdash; both built on <span class="zh">何</span>.</p>
+        </div>
+      </div>
+
+      <div class="fh-ex" data-rv>
+        <p class="q" lang="zh-Hant">何以故？若取非法相，即著我、人、眾生、壽者。是故不應取法，不應取非法。</p>
+        <button class="fh-reveal" type="button" aria-expanded="false">Reveal</button>
+        <div class="fh-ans" hidden>
+          <p>"Why is that? If one grasps the mark of non-dharma, one is attached to self, to person, to being, to life span. Therefore one should not grasp at dharmas, nor grasp at non-dharmas."</p>
+          <p class="sm">Both connectives doing their jobs in one breath: <span class="zh">何以故</span> opens the reason, <span class="zh">是故</span> lands the conclusion. And <span class="zh">非</span> appears twice &mdash; the third negation, which is Session 3's business. Diamond Sutra, T0235.</p>
+        </div>
+      </div>
+
+      <div class="fh-part"><div class="pn">Next</div><h2>Session 3 &mdash; The Grammar of Not</h2></div>
+      <p data-rv>You can now get into a sutra and follow who is talking. What they are actually saying is mostly negative &mdash; and that is not a figure of speech. The most common character in the entire Buddhist canon is <span class="zh">無</span>, <em>there is not</em>. The second is <span class="zh">不</span>. Together they account for one character in every twenty-seven.</p>
+      <p data-rv style="font-size:15px;color:var(--ink-soft)">Running total after Session 2: <strong>48 characters</strong>, 9 formulas, and the opening of the Diamond Sutra read in the original.</p>
+
+      <div class="fh-nav"><a href="{{ '/courses/four-hundred-characters/session-1/' | relative_url }}">← Session 1</a><a href="{{ '/courses/four-hundred-characters/session-3/' | relative_url }}">Session 3 →</a></div>
+
+    </div>
+  </div>
+
+  <section class="fh-method">
+    <div class="fh-wrap">
+      <h4>Where the numbers come from</h4>
+      <p>Every frequency on this page was counted, not estimated. The corpus is the 1,482 texts tagged
+        <code>三藏/經</code> in the Taishō canon — 26,422,454 Chinese characters after stripping front
+        matter, headings, and the CBETA apparatus. Ranks are positions in the frequency list built from
+        that corpus; formula counts are string occurrences, given with the number of separate sutras they
+        appear in, because a formula used 10,000 times in one text is a quirk while one used in 700 texts
+        is a convention.</p>
+      <p>Counting scripture separately from commentary matters. Run the same analysis over a corpus that
+        includes the śāstras and the vocabulary tilts hard toward Abhidharma technical terms, and the
+        character list ends up teaching you to read treatises rather than sutras. This course teaches
+        sutras first. On how Ru-Yi translates and why, see
+        <a href="{{ '/dharma/translation-method/' | relative_url }}">Translation Method</a>.</p>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  "use strict";
+  document.documentElement.classList.add('js');
+  var DATA = {"爾":{r:116,n:53068,en:"that, thereupon",note:"Almost only ever seen in \u723e\u6642."},"時":{r:30,n:142112,en:"time, occasion",note:"\u4e00\u6642 = on one occasion."},"世":{r:25,n:162306,en:"world, age",note:""},"尊":{r:67,n:95003,en:"honored, venerable",note:"\u4e16\u5c0a = World-Honored One, the Buddha."},"白":{r:187,n:35104,en:"to address respectfully [upward]",note:"A disciple \u767d the Buddha. Its plain sense is white."},"告":{r:232,n:26799,en:"to tell, to address [downward]",note:"The Buddha \u544a a disciple. Never the reverse."},"言":{r:36,n:136909,en:"to say; words",note:"Closes a speech formula: \u2026\u544a\u2026\u8a00."},"問":{r:267,n:21996,en:"to ask",note:""},"答":{r:378,n:13716,en:"to answer",note:""},"從":{r:135,n:43635,en:"from",note:""},"座":{r:466,n:9919,en:"seat",note:""},"起":{r:179,n:36338,en:"to rise",note:""},"合":{r:101,n:61876,en:"to join, to put together",note:""},"掌":{r:520,n:7988,en:"palm of the hand",note:"\u5408\u638c = palms joined, a\u00f1jali."},"恭":{r:492,n:9004,en:"reverent",note:""},"敬":{r:306,n:17730,en:"respectful",note:"\u606d\u656c = reverently."},"何":{r:41,n:126627,en:"what, why",note:"\u4f55\u4ee5\u6545 = why is that?"},"故":{r:17,n:209111,en:"reason, cause; therefore",note:"Both the question and the answer hinge on it."},"是":{r:3,n:367401,en:"this; to be",note:"Third most common character in the canon."},"復":{r:55,n:105773,en:"again, further",note:"\u5fa9\u6b21 = furthermore, the canon's paragraph break."},"次":{r:158,n:40044,en:"next, in order",note:""}};
+  var GROUPS = [{"host": "nar-tiles", "card": "nar-card", "chars": "爾時世尊", "dim": ""}, {"host": "spk-tiles", "card": "spk-card", "chars": "白告言問答", "dim": ""}, {"host": "ges-tiles", "card": "ges-card", "chars": "從座起合掌恭敬", "dim": "座掌恭敬"}, {"host": "con-tiles", "card": "con-card", "chars": "何故是復次", "dim": ""}];
+
+  function fmt(n){ return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
+
+  function render(cardEl, ch){
+    var d = DATA[ch]; if(!d) return;
+    var pct = d.n / 26422454 * 100;
+    cardEl.innerHTML = '<div class="fh-card">'
+      + '<h3><span class="chb" lang="zh-Hant">' + ch + '</span>' + d.en + '</h3>'
+      + (d.note ? '<p>' + d.note + '</p>' : '')
+      + '<dl><dt>Rank in the sutras</dt><dd>#' + d.r + '</dd>'
+      + '<dt>Times it occurs</dt><dd>' + fmt(d.n) + '</dd>'
+      + '<dt>Share of the canon</dt><dd>' + (pct < 0.02 ? pct.toFixed(3) : pct.toFixed(2)) + '%</dd>'
+      + '</dl></div>';
+  }
+
+  GROUPS.forEach(function(g){
+    var host = document.getElementById(g.host), card = document.getElementById(g.card);
+    if(!host || !card) return;
+    g.chars.split("").forEach(function(ch){
+      var d = DATA[ch]; if(!d) return;
+      var li = document.createElement("li");
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "fh-tile" + ((g.dim||"").indexOf(ch) > -1 ? " block" : "");
+      b.setAttribute("aria-expanded","false");
+      b.innerHTML = '<span class="ch" lang="zh-Hant">' + ch + '</span><span class="rk">#' + d.r + '</span>';
+      b.addEventListener("click", function(){
+        Array.prototype.forEach.call(host.querySelectorAll(".fh-tile"), function(t){
+          t.setAttribute("aria-expanded","false");
+        });
+        b.setAttribute("aria-expanded","true");
+        render(card, ch);
+      });
+      li.appendChild(b); host.appendChild(li);
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll(".fh-reveal"), function(btn){
+    btn.addEventListener("click", function(){
+      var ans = btn.parentNode.querySelector(".fh-ans"); if(!ans) return;
+      var open = ans.hidden === false;
+      ans.hidden = open;
+      btn.setAttribute("aria-expanded", String(!open));
+      btn.textContent = open ? "Reveal" : "Hide";
+    });
+  });
+
+  var swap = document.querySelectorAll(".fh-swap button");
+  if(swap.length){
+    var sv=document.getElementById("s-verb"), sp=document.getElementById("s-place"),
+        sn=document.getElementById("s-num"), fe=document.getElementById("frame-en");
+    Array.prototype.forEach.call(swap, function(b){
+      b.addEventListener("click", function(){
+        Array.prototype.forEach.call(swap, function(o){ o.setAttribute("aria-pressed","false"); });
+        b.setAttribute("aria-pressed","true");
+        if(sv) sv.textContent = b.getAttribute("data-v");
+        if(sp) sp.textContent = b.getAttribute("data-p");
+        if(sn) sn.textContent = b.getAttribute("data-n");
+        if(fe) fe.textContent = b.getAttribute("data-en");
+      });
+    });
+  }
+
+  GROUPS.forEach(function(g){
+    var host = document.getElementById(g.host);
+    if(host){ var first = host.querySelector(".fh-tile"); if(first) first.click(); }
+  });
+
+  /* scroll reveal — same behavior as the other Academy courses */
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.fh [data-rv]'));
+  var ticking = false;
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      var r = rv[i].getBoundingClientRect();
+      if (r.top < vh * 0.92){ rv[i].classList.add('in'); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll);
+  window.addEventListener('pageshow', sweep);
+  document.addEventListener('visibilitychange', function(){ if(!document.hidden){ sweep(); } });
+  sweep();
+})();
+</script>

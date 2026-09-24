@@ -1,0 +1,393 @@
+---
+layout: default
+title: "Session 1 · How Every Sutra Opens (Four Hundred Characters)"
+permalink: /courses/four-hundred-characters/session-1/
+excerpt: Session 1 of Four Hundred Characters — the opening formula that begins four in every ten sutras in the canon, and why the Diamond and Amitabha sutras start with the same twenty-two characters, one character apart.
+---
+<style>
+  .fh{--ink:#1f1c18;--ink-mid:#3c362e;--ink-soft:#6f6659;
+      --cinnabar:#b02e26;--cinnabar-deep:#7d1d18;--cinnabar-pale:#f0dfdb;
+      --paper:#f8f3e8;--paper-deep:#efe7d6;--line:#e4dccb;--jade:#2f6d5e;
+      --zh:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;
+      --zh-serif:'Songti TC','Apple LiSung','PingFang TC',serif;}
+  .fh *{box-sizing:border-box;}
+  .fh-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+  .fh-wrap.wide{max-width:900px;}
+  .fh .zh{font-family:var(--zh);}
+
+  .js .fh [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .fh [data-rv].in{opacity:1;transform:none;}
+
+  .fh-crumb{background:var(--paper);border-bottom:1px solid var(--line);}
+  .fh-crumb .fh-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);}
+  .fh-crumb a{color:var(--cinnabar-deep);text-decoration:none;}
+  .fh-crumb a:hover{text-decoration:underline;}
+
+  .fh-hero{background:
+      radial-gradient(120% 90% at 86% 8%,rgba(176,46,38,.26),transparent 60%),
+      linear-gradient(158deg,#3c352c 0%,#282320 48%,#14120f 100%);color:#fff;}
+  .fh-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .fh-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:#e0a59c;font-weight:600;}
+  .fh-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 10px;}
+  .fh-hero .subt{font-style:italic;font-size:18px;color:#ded6c8;}
+  .fh-hero .lede{font-size:17px;line-height:1.7;color:#cfc7b8;margin:16px 0 0;max-width:58ch;}
+  .fh-hero .rd{margin-top:24px;font-size:14px;color:#bfb6a6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .fh-hero .rd b{color:#e0a59c;}
+  .fh-hero-zh{font-family:var(--zh-serif);font-size:clamp(17px,3.9vw,26px);line-height:1.9;
+    letter-spacing:.04em;color:#fff;margin:26px 0 0;}
+  .fh-hero-gloss{font-style:italic;color:#a9a091;font-size:14.5px;line-height:1.65;margin:10px 0 0;max-width:60ch;}
+
+  .fh-body{background:#fff;padding:44px 0 30px;}
+  .fh-body p{font-size:17.5px;line-height:1.78;color:var(--ink-mid);margin:0 0 20px;}
+  .fh-body.paper{background:var(--paper);}
+
+  .fh-part{margin:52px 0 22px;padding-top:26px;border-top:2px solid var(--line);}
+  .fh-part:first-child{margin-top:0;padding-top:0;border-top:0;}
+  .fh-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .fh-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .fh-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+
+  /* stat band */
+  .fh-stats{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 24px;}
+  .fh-stat{background:#fff;padding:18px 16px;}
+  .fh-stat b{display:block;font-family:'Playfair Display',serif;font-size:28px;line-height:1.05;
+    color:var(--cinnabar-deep);font-variant-numeric:tabular-nums;}
+  .fh-stat span{display:block;font-size:12.5px;color:var(--ink-soft);margin-top:6px;line-height:1.45;}
+
+  /* character tiles */
+  .fh-tiles{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 10px;padding:0;list-style:none;}
+  .fh-tile{all:unset;cursor:pointer;display:flex;flex-direction:column;align-items:center;
+    width:74px;padding:10px 4px 8px;background:var(--paper);border:1px solid var(--line);
+    transition:border-color .15s,transform .15s;}
+  .fh-tile:hover{border-color:var(--cinnabar);transform:translateY(-1px);}
+  .fh-tile:focus-visible{outline:2px solid var(--cinnabar);outline-offset:2px;}
+  .fh-tile .ch{font-family:var(--zh-serif);font-size:32px;line-height:1.15;color:var(--ink);}
+  .fh-tile .rk{font-size:10.5px;color:var(--ink-soft);font-variant-numeric:tabular-nums;letter-spacing:.03em;}
+  .fh-tile[aria-expanded="true"]{border-color:var(--cinnabar);background:var(--cinnabar-pale);}
+  .fh-tile.block .ch{color:var(--ink-soft);}
+
+  .fh-card{border:1px solid var(--line);border-left:3px solid var(--cinnabar);background:var(--paper);
+    padding:16px 18px;margin:0 0 20px;}
+  .fh-card h3{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:0 0 4px;line-height:1.3;}
+  .fh-card .chb{font-family:var(--zh-serif);font-size:26px;color:var(--cinnabar-deep);margin-right:9px;}
+  .fh-card p{font-size:15px;line-height:1.65;margin:6px 0 0;}
+  .fh-card dl{margin:12px 0 0;display:grid;grid-template-columns:auto 1fr;gap:2px 14px;font-size:13.5px;}
+  .fh-card dt{color:var(--ink-soft);}
+  .fh-card dd{margin:0;font-variant-numeric:tabular-nums;color:var(--ink-mid);}
+  .fh-hint{font-size:13.5px;color:var(--ink-soft);font-style:italic;}
+
+  /* scripture box */
+  .fh-frame{font-family:var(--zh-serif);font-size:clamp(17px,3.5vw,23px);line-height:2.05;
+    letter-spacing:.03em;background:var(--paper);border:1px solid var(--line);
+    border-left:3px solid var(--cinnabar);padding:22px 20px;color:var(--ink);}
+  .fh-frame.center{text-align:center;}
+  .fh-fixed{color:var(--ink);}
+  .fh-slot{color:var(--cinnabar-deep);border-bottom:2px solid var(--cinnabar);padding-bottom:1px;}
+  .fh-en{font-size:15px;color:var(--ink-soft);font-style:italic;line-height:1.66;margin:14px 0 0;}
+  .fh-swap{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0;padding:0;list-style:none;}
+  .fh-swap button{all:unset;cursor:pointer;font-size:13px;font-weight:600;padding:7px 14px;
+    border:1px solid var(--line);border-radius:999px;color:var(--ink-mid);background:#fff;transition:all .15s;}
+  .fh-swap button:hover{border-color:var(--cinnabar);color:var(--cinnabar-deep);}
+  .fh-swap button:focus-visible{outline:2px solid var(--cinnabar);outline-offset:2px;}
+  .fh-swap button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink);}
+
+  /* side-by-side comparison */
+  .fh-twins{display:grid;gap:14px;margin:22px 0 0;}
+  .fh-twin{background:#fff;border:1px solid var(--line);padding:18px 20px;}
+  .fh-body.paper .fh-twin{background:#fff;}
+  .fh-twin .who{font-size:11.5px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+    color:var(--ink-soft);margin:0 0 10px;}
+  .fh-twin .txt{font-family:var(--zh-serif);font-size:clamp(16px,3.2vw,20px);line-height:1.95;
+    letter-spacing:.03em;color:var(--ink);margin:0;}
+  .fh-twin .txt.full{font-size:clamp(15px,2.9vw,18px);line-height:2.05;}
+  .fh mark{background:var(--cinnabar-pale);color:var(--cinnabar-deep);padding:0 3px;font-weight:600;}
+
+  /* exercises */
+  .fh-ex{border-top:1px solid var(--line);padding-top:20px;margin-top:20px;}
+  .fh-ex:first-of-type{border-top:0;padding-top:0;margin-top:0;}
+  .fh-ex .q{font-family:var(--zh-serif);font-size:20px;line-height:1.9;letter-spacing:.03em;
+    color:var(--ink);margin:0 0 12px;}
+  .fh-reveal{all:unset;cursor:pointer;font-size:12.5px;font-weight:700;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--cinnabar-deep);border-bottom:1px solid var(--cinnabar);padding-bottom:1px;}
+  .fh-reveal:focus-visible{outline:2px solid var(--cinnabar);outline-offset:3px;}
+  .fh-ans{margin-top:14px;border-left:2px solid var(--jade);padding-left:14px;}
+  .fh-ans p{font-size:15.5px;margin:0 0 8px;}
+  .fh-ans p:last-child{margin-bottom:0;}
+  .fh-ans .sm{font-size:14px;color:var(--ink-soft);}
+
+  /* tables */
+  .fh-tscroll{overflow-x:auto;margin:22px 0 0;}
+  .fh table{width:100%;border-collapse:collapse;font-size:14.5px;}
+  .fh th,.fh td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);color:var(--ink-mid);}
+  .fh th{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;}
+  .fh td.n{text-align:right;font-variant-numeric:tabular-nums;}
+  .fh td.zh{font-family:var(--zh);font-size:16px;}
+
+  /* session list on the index */
+  .fh-sess{display:grid;gap:14px;margin:24px 0 0;padding:0;list-style:none;}
+  .fh-sesscard{border:1px solid var(--line);background:#fff;padding:20px 22px;display:block;
+    text-decoration:none;transition:border-color .15s,transform .15s;}
+  .fh-sesscard:hover{border-color:var(--cinnabar);transform:translateY(-1px);}
+  .fh-sesscard .sn{font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .fh-sesscard h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);margin:6px 0 4px;line-height:1.2;}
+  .fh-sesscard .zht{font-family:var(--zh);font-size:14.5px;color:var(--ink-soft);margin:0 0 8px;}
+  .fh-sesscard p{font-size:15px;line-height:1.6;color:var(--ink-mid);margin:0;}
+
+  /* prev / next */
+  .fh-nav{border-top:2px solid var(--line);margin-top:48px;padding:26px 0 0;
+    display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;}
+  .fh-nav a{font-size:14.5px;color:var(--cinnabar-deep);text-decoration:none;font-weight:600;}
+  .fh-nav a:hover{text-decoration:underline;}
+  .fh-nav .sp{color:var(--ink-soft);font-weight:400;}
+
+  .fh-note{background:var(--paper-deep);border:1px solid var(--line);padding:18px 20px;margin:24px 0 0;}
+  .fh-note h4{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);margin:0 0 6px;}
+  .fh-note p{font-size:15px;line-height:1.66;margin:0;}
+
+  .fh-method{background:var(--ink);color:#b8afa0;padding:36px 0 40px;}
+  .fh-method h4{font-family:'Playfair Display',serif;font-size:19px;color:#fff;margin:0 0 10px;}
+  .fh-method p{font-size:14.5px;line-height:1.7;margin:0 0 12px;max-width:66ch;}
+  .fh-method code{font-size:13px;color:#e0a59c;}
+  .fh-method a{color:#e0a59c;}
+
+  @media (prefers-reduced-motion:reduce){.fh *{transition:none !important;}}
+</style>
+
+<div class="fh">
+
+  <nav class="fh-crumb"><div class="fh-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/four-hundred-characters/' | relative_url }}">Four Hundred Characters</a> → Session 1</div></nav>
+
+  <section class="fh-hero">
+    <div class="fh-hero-in">
+      <div class="fh-eyebrow">Session 1 &middot; The opening frame</div>
+      <h1>How Every Sutra Opens</h1>
+      <p class="lede">By the end of this session you will have read the first sentence of the Diamond Sutra in Chinese &mdash; not a translation of it, the sentence itself. The same sentence opens the Amitabha Sutra almost character for character.</p>
+      <p class="fh-hero-zh" lang="zh-Hant">如是我聞：一時，佛在舍衛國祇樹給孤獨園，<br>與大比丘眾千二百五十人俱。</p>
+      <p class="fh-hero-gloss">Thus have I heard. At one time, the Buddha was in the land of Śrāvastī, in Jeta's Grove, the Park of the Giver to the Orphaned and Solitary, together with a great assembly of bhikṣus, one thousand two hundred fifty in all.</p>
+    </div>
+  </section>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+
+      <div class="fh-part"><div class="pn">Part 1</div><h2>Read the frame, then the filling</h2></div>
+
+      <p data-rv>Scripture is built from formulas &mdash; fixed blocks that recur across hundreds of texts with a few variable slots. Learn one formula and you have the opening of half the canon. Tap a sutra below to drop its own details into the slots.</p>
+
+      <div class="fh-frame" lang="zh-Hant" data-rv><span class="fh-fixed">如是我聞：一時，佛</span><span class="fh-slot" id="s-verb">在</span><span class="fh-slot" id="s-place">舍衛國祇樹給孤獨園</span><span class="fh-fixed">，與大比丘眾</span><span class="fh-slot" id="s-num">千二百五十人</span><span class="fh-fixed">俱。</span></div>
+      <ul class="fh-swap" data-rv>
+        <li><button type="button" data-v="在" data-p="舍衛國祇樹給孤獨園" data-n="千二百五十人" data-en="&hellip;was in the land of Śrāvastī, in Jeta's Grove, the Park of the Giver to the Orphaned and Solitary, together with a great assembly of bhikṣus, 1,250 in all." aria-pressed="true">Diamond Sutra 金剛經</button></li>
+        <li><button type="button" data-v="在" data-p="舍衛國祇樹給孤獨園" data-n="千二百五十人" data-en="Identical — except that this text writes the assembly as 比丘僧 rather than 比丘眾. One character apart." aria-pressed="false">Amitabha Sutra 阿彌陀經</button></li>
+        <li><button type="button" data-v="住" data-p="王舍城耆闍崛山中" data-n="萬二千人" data-en="&hellip;dwelt on Mount Gṛdhrakūṭa at Rājagṛha, together with a great assembly of bhikṣus, twelve thousand in all." aria-pressed="false">Lotus Sutra 法華經</button></li>
+        <li><button type="button" data-v="在" data-p="王舍城耆闍崛山中" data-n="及菩薩眾" data-en="&hellip;was on Mount Gṛdhrakūṭa at Rājagṛha, together with a great assembly of bhikṣus and an assembly of bodhisattvas. (The long recension, T0253.)" aria-pressed="false">Heart Sutra 心經</button></li>
+      </ul>
+      <p class="fh-en" id="frame-en">&hellip;was in the land of Śrāvastī, in Jeta's Grove, the Park of the Giver to the Orphaned and Solitary, together with a great assembly of bhikṣus, 1,250 in all.</p>
+
+      <p data-rv style="margin-top:24px">Notice what did <em>not</em> move. <span class="zh">如是我聞</span>, <span class="zh">一時，佛</span>, and <span class="zh">與大比丘眾…俱</span> hold still in all four. Only the verb, the place, and the headcount change.</p>
+
+      <div class="fh-part"><div class="pn">Part 2</div><h2>Eight characters, 6.55% of the canon</h2></div>
+
+      <p data-rv>These eight open the sentence. Together they occur <strong>1,731,644 times</strong> across the sutras &mdash; one character in every fifteen you will ever meet. None ranks lower than 104th. Tap any of them.</p>
+
+      <ul class="fh-tiles" id="frame-tiles"></ul>
+      <div id="frame-card"><p class="fh-hint">Tap a character above.</p></div>
+
+      <p data-rv><span class="zh">如是我聞</span> is Ānanda speaking. At the first council he recited what he had heard, and every recitation opens by saying so: <em>thus</em> &mdash; <span class="zh">如是</span>, like-this &mdash; <em>have I heard</em>. It stands at the head of <strong>596 of the 1,482 sutras</strong>.</p>
+
+      <p data-rv><span class="zh">一時</span> is doing something careful. It does not mean "once upon a time" and it does not give a date. It means <em>on one occasion</em> &mdash; a single stretch of time the sutra declines to locate. The tradition is precise about what it does not claim to know.</p>
+
+      <div class="fh-part"><div class="pn">Part 3</div><h2>The place is one word, not nine</h2></div>
+
+      <p data-rv>Here is where beginners waste months. <span class="zh">舍衛國祇樹給孤獨園</span> looks like nine characters to memorize, and four of them are genuinely rare &mdash; <span class="zh">孤</span> ranks 836th, <span class="zh">給</span> 686th, <span class="zh">衛</span> 672nd. You would meet them almost nowhere else.</p>
+
+      <p data-rv>So do not learn them as characters. Learn the whole string as one proper noun, the way you learned <em>Massachusetts</em>. It appears <strong>2,100 times across 245 sutras</strong>, always meaning the same garden outside the same city.</p>
+
+      <ul class="fh-tiles" id="place-tiles"></ul>
+      <div id="place-card"><p class="fh-hint">Tap a character above.</p></div>
+
+      <p data-rv>One detail worth carrying with you, because it shows how Kumārajīva worked. The name has two halves and he treated them oppositely. <span class="zh">舍衛</span> is <em>sound</em>: Śrāvastī pushed through Chinese phonetics, meaning nothing in Chinese at all. <span class="zh">給孤獨</span> is <em>sense</em>: the donor's name was Anāthapiṇḍika, "he who gives to the destitute," and rather than transliterate it he translated it &mdash; give, orphaned, solitary. Same name, same line, two strategies.</p>
+
+      <p data-rv>Once you can see that switch happening, a great deal of Buddhist Chinese stops being arbitrary.</p>
+
+      <div class="fh-part"><div class="pn">Part 4</div><h2>Who was there</h2></div>
+
+      <p data-rv>The assembly clause closes the opening. <span class="zh">與大比丘眾…俱</span> &mdash; <em>together with a great assembly of bhikṣus&hellip; all present</em> &mdash; wraps a number in the middle. The clause appears in <strong>264 sutras</strong>; the number inside it is what changes.</p>
+
+      <ul class="fh-tiles" id="asm-tiles"></ul>
+      <div id="asm-card"><p class="fh-hint">Tap a character above.</p></div>
+
+      <p data-rv><span class="zh">比丘</span> is sound again (<em>bhikṣu</em>), and <span class="zh">俱</span> is the quiet hinge at the end &mdash; <em>all of them, together</em>. Chinese has no plural ending, so <span class="zh">俱</span> does that work by sitting at the close of the clause.</p>
+    </div>
+  </div>
+
+  <div class="fh-body paper">
+    <div class="fh-wrap wide">
+      <div class="fh-part"><div class="pn">Part 5</div><h2>You have just read two sutras</h2></div>
+      <p data-rv>These are the opening lines of two of the most recited texts in East Asian Buddhism, as Kumārajīva left them. Read them against each other.</p>
+      <div class="fh-twins">
+        <div class="fh-twin" data-rv>
+          <p class="who">Diamond Sutra &middot; T0235 &middot; 金剛般若波羅蜜經</p>
+          <p class="txt" lang="zh-Hant">如是我聞：一時，佛在舍衛國祇樹給孤獨園，與大比丘<mark>眾</mark>千二百五十人俱。</p>
+        </div>
+        <div class="fh-twin" data-rv>
+          <p class="who">Amitabha Sutra &middot; T0366 &middot; 佛說阿彌陀經</p>
+          <p class="txt" lang="zh-Hant">如是我聞：一時，佛在舍衛國祇樹給孤獨園，與大比丘<mark>僧</mark>千二百五十人俱，皆是大阿羅漢，眾所知識。</p>
+        </div>
+      </div>
+      <p data-rv style="margin-top:22px">Twenty-two characters, and they differ in exactly one: <span class="zh">眾</span> against <span class="zh">僧</span>. Both name the monastic community; the second is the word that gave English <em>Sangha</em>. One sentence learned, two sutras opened.</p>
+    </div>
+  </div>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 6</div><h2>Check yourself<span class="rf">Work each line out before you reveal it</span></h2></div>
+
+      <div class="fh-ex" data-rv>
+        <p class="q" lang="zh-Hant">如是我聞：一時佛住王舍城耆闍崛山。</p>
+        <button class="fh-reveal" type="button" aria-expanded="false">Reveal</button>
+        <div class="fh-ans" hidden>
+          <p>"Thus have I heard. At one time the Buddha dwelt on Mount Gṛdhrakūṭa at Rājagṛha."</p>
+          <p class="sm">Ratnakūṭa Sutra 大寶積經, T0310. The verb shifted from <span class="zh">在</span> to <span class="zh">住</span> &mdash; <em>was at</em> becoming <em>dwelt at</em> &mdash; and the assembly clause is simply dropped. <span class="zh">王舍城</span> is sense-for-sense: king–house–city, Rājagṛha.</p>
+        </div>
+      </div>
+
+      <div class="fh-ex" data-rv>
+        <p class="q" lang="zh-Hant">爾時，世尊食時，著衣持鉢，入舍衛大城乞食。</p>
+        <button class="fh-reveal" type="button" aria-expanded="false">Reveal</button>
+        <div class="fh-ans" hidden>
+          <p>"At that time, when it was time to eat, the World-Honored One put on his robe, took up his bowl, and entered the great city of Śrāvastī to beg for food."</p>
+          <p class="sm">The Diamond Sutra's next sentence. Two new formulas arrive here: <span class="zh">爾時</span> (<em>at that time</em>) occurs 42,743 times across 1,020 sutras, and <span class="zh">世尊</span> (<em>World-Honored One</em>) 67,271 times across 1,009. Session 2 is built on them.</p>
+        </div>
+      </div>
+
+      <div class="fh-ex" data-rv>
+        <p class="q" lang="zh-Hant">如是我聞：一時佛在王舍城耆闍崛山中，與大比丘眾及菩薩眾俱。</p>
+        <button class="fh-reveal" type="button" aria-expanded="false">Reveal</button>
+        <div class="fh-ans" hidden>
+          <p>"Thus have I heard. At one time the Buddha was on Mount Gṛdhrakūṭa at Rājagṛha, together with a great assembly of bhikṣus and an assembly of bodhisattvas."</p>
+          <p class="sm">The Heart Sutra, T0253 &mdash; the long recension, which has an opening. The short version most people recite drops the frame entirely and starts at <span class="zh">觀自在菩薩</span>. Here the headcount slot holds no number at all: <span class="zh">及菩薩眾</span>, <em>and an assembly of bodhisattvas</em>.</p>
+        </div>
+      </div>
+
+      <div class="fh-part"><div class="pn">Next</div><h2>Session 2 &mdash; At That Time, the World-Honored One</h2></div>
+      <p data-rv>The opening formula gets you into the room. The next one moves the scene along, and it is the most common structure in the canon: <span class="zh">爾時，世尊告……言</span>. Once you have it you can follow who is speaking to whom through any sutra on the shelf, which is most of what reading scripture consists of.</p>
+      <p data-rv style="font-size:15px;color:var(--ink-soft)">Running total after Session 1: <strong>29 characters</strong>, 2 formulas, and the opening of the Diamond Sutra read in the original.</p>
+
+      <div class="fh-nav"><span class="sp">Start of the course</span><a href="{{ '/courses/four-hundred-characters/session-2/' | relative_url }}">Session 2 →</a></div>
+
+    </div>
+  </div>
+
+  <section class="fh-method">
+    <div class="fh-wrap">
+      <h4>Where the numbers come from</h4>
+      <p>Every frequency on this page was counted, not estimated. The corpus is the 1,482 texts tagged
+        <code>三藏/經</code> in the Taishō canon — 26,422,454 Chinese characters after stripping front
+        matter, headings, and the CBETA apparatus. Ranks are positions in the frequency list built from
+        that corpus; formula counts are string occurrences, given with the number of separate sutras they
+        appear in, because a formula used 10,000 times in one text is a quirk while one used in 700 texts
+        is a convention.</p>
+      <p>Counting scripture separately from commentary matters. Run the same analysis over a corpus that
+        includes the śāstras and the vocabulary tilts hard toward Abhidharma technical terms, and the
+        character list ends up teaching you to read treatises rather than sutras. This course teaches
+        sutras first. On how Ru-Yi translates and why, see
+        <a href="{{ '/dharma/translation-method/' | relative_url }}">Translation Method</a>.</p>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  "use strict";
+  document.documentElement.classList.add('js');
+  var DATA = {"如":{r:4,n:347740,en:"thus, like, in accordance with",note:"Half of \u5982\u662f. Also the \u5982 of \u5982\u4f86, Tath\u0101gata."},"是":{r:3,n:367401,en:"this; to be",note:"Third most common character in the canon."},"我":{r:33,n:140942,en:"I, me",note:"\u0100nanda's I. Later, the self the teaching dismantles."},"聞":{r:93,n:66260,en:"to hear, to have heard",note:"Hearing, not reading."},"一":{r:5,n:327176,en:"one, a single",note:""},"時":{r:30,n:142112,en:"time, occasion",note:"\u4e00\u6642 = on one occasion."},"佛":{r:8,n:279420,en:"Buddha",note:"Short for \u4f5b\u9640, a transliteration of buddha."},"在":{r:104,n:60593,en:"to be at, to be located in",note:"Swaps with \u4f4f across recensions."},"舍":{r:164,n:39250,en:"[sound only] \u015br\u0101-; also: dwelling",note:"Phonetic here. Its ordinary sense is a house."},"衛":{r:672,n:4956,en:"[sound only] -vast\u012b",note:"Rare outside place names. Do not drill it."},"國":{r:212,n:29259,en:"country, land, city-state",note:""},"祇":{r:514,n:8317,en:"[sound only] Jeta",note:"The prince who owned the grove."},"樹":{r:294,n:18680,en:"tree, grove",note:"\u7947\u6a39 = Jeta's grove."},"給":{r:686,n:4689,en:"to give, to provide",note:"Sense, not sound \u2014 part of a translated name."},"孤":{r:836,n:3038,en:"orphaned, parentless",note:"Rarest character in the sentence."},"獨":{r:380,n:13576,en:"alone, solitary",note:"\u7d66\u5b64\u7368 = the giver to the orphaned and solitary."},"園":{r:552,n:6912,en:"park, garden",note:""},"與":{r:142,n:42286,en:"together with",note:"Opens the assembly clause."},"大":{r:20,n:188034,en:"great, large",note:""},"比":{r:144,n:41949,en:"[sound only] bhi-",note:""},"丘":{r:173,n:37774,en:"[sound only] -k\u1e63u",note:"\u6bd4\u4e18 = bhik\u1e63u, a fully ordained monk."},"眾":{r:35,n:139035,en:"assembly, multitude, community",note:"Alternates with \u50e7 (sa\u1e45gha) in this slot."},"千":{r:161,n:39758,en:"thousand",note:""},"二":{r:29,n:149754,en:"two",note:""},"百":{r:180,n:36256,en:"hundred",note:"\u5343\u4e8c\u767e\u4e94\u5341 = 1,250."},"五":{r:105,n:60469,en:"five",note:""},"十":{r:44,n:119354,en:"ten",note:""},"人":{r:32,n:141119,en:"person, people",note:""},"俱":{r:333,n:16048,en:"all together, all present",note:"Closes the clause. Chinese has no plural ending; \u4ff1 does the work."}};
+  var GROUPS = [{"host": "frame-tiles", "card": "frame-card", "chars": "如是我聞一時佛在", "dim": ""}, {"host": "place-tiles", "card": "place-card", "chars": "舍衛國祇樹給孤獨園", "dim": "衛給孤祇園"}, {"host": "asm-tiles", "card": "asm-card", "chars": "與大比丘眾千二百五十人俱", "dim": ""}];
+
+  function fmt(n){ return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
+
+  function render(cardEl, ch){
+    var d = DATA[ch]; if(!d) return;
+    var pct = d.n / 26422454 * 100;
+    cardEl.innerHTML = '<div class="fh-card">'
+      + '<h3><span class="chb" lang="zh-Hant">' + ch + '</span>' + d.en + '</h3>'
+      + (d.note ? '<p>' + d.note + '</p>' : '')
+      + '<dl><dt>Rank in the sutras</dt><dd>#' + d.r + '</dd>'
+      + '<dt>Times it occurs</dt><dd>' + fmt(d.n) + '</dd>'
+      + '<dt>Share of the canon</dt><dd>' + (pct < 0.02 ? pct.toFixed(3) : pct.toFixed(2)) + '%</dd>'
+      + '</dl></div>';
+  }
+
+  GROUPS.forEach(function(g){
+    var host = document.getElementById(g.host), card = document.getElementById(g.card);
+    if(!host || !card) return;
+    g.chars.split("").forEach(function(ch){
+      var d = DATA[ch]; if(!d) return;
+      var li = document.createElement("li");
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "fh-tile" + ((g.dim||"").indexOf(ch) > -1 ? " block" : "");
+      b.setAttribute("aria-expanded","false");
+      b.innerHTML = '<span class="ch" lang="zh-Hant">' + ch + '</span><span class="rk">#' + d.r + '</span>';
+      b.addEventListener("click", function(){
+        Array.prototype.forEach.call(host.querySelectorAll(".fh-tile"), function(t){
+          t.setAttribute("aria-expanded","false");
+        });
+        b.setAttribute("aria-expanded","true");
+        render(card, ch);
+      });
+      li.appendChild(b); host.appendChild(li);
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll(".fh-reveal"), function(btn){
+    btn.addEventListener("click", function(){
+      var ans = btn.parentNode.querySelector(".fh-ans"); if(!ans) return;
+      var open = ans.hidden === false;
+      ans.hidden = open;
+      btn.setAttribute("aria-expanded", String(!open));
+      btn.textContent = open ? "Reveal" : "Hide";
+    });
+  });
+
+  var swap = document.querySelectorAll(".fh-swap button");
+  if(swap.length){
+    var sv=document.getElementById("s-verb"), sp=document.getElementById("s-place"),
+        sn=document.getElementById("s-num"), fe=document.getElementById("frame-en");
+    Array.prototype.forEach.call(swap, function(b){
+      b.addEventListener("click", function(){
+        Array.prototype.forEach.call(swap, function(o){ o.setAttribute("aria-pressed","false"); });
+        b.setAttribute("aria-pressed","true");
+        if(sv) sv.textContent = b.getAttribute("data-v");
+        if(sp) sp.textContent = b.getAttribute("data-p");
+        if(sn) sn.textContent = b.getAttribute("data-n");
+        if(fe) fe.textContent = b.getAttribute("data-en");
+      });
+    });
+  }
+
+  GROUPS.forEach(function(g){
+    var host = document.getElementById(g.host);
+    if(host){ var first = host.querySelector(".fh-tile"); if(first) first.click(); }
+  });
+
+  /* scroll reveal — same behavior as the other Academy courses */
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.fh [data-rv]'));
+  var ticking = false;
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      var r = rv[i].getBoundingClientRect();
+      if (r.top < vh * 0.92){ rv[i].classList.add('in'); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll);
+  window.addEventListener('pageshow', sweep);
+  document.addEventListener('visibilitychange', function(){ if(!document.hidden){ sweep(); } });
+  sweep();
+})();
+</script>

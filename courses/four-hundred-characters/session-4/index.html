@@ -1,0 +1,395 @@
+---
+layout: default
+title: "Session 4 · Two Hundred Sixty Characters (Four Hundred Characters)"
+permalink: /courses/four-hundred-characters/session-4/
+excerpt: Session 4 of Four Hundred Characters — the whole Heart Sutra read in Chinese, all 260 characters in order, from Avalokiteśvara's contemplation to the last syllable of the mantra.
+---
+<style>
+  .fh{--ink:#1f1c18;--ink-mid:#3c362e;--ink-soft:#6f6659;
+      --cinnabar:#b02e26;--cinnabar-deep:#7d1d18;--cinnabar-pale:#f0dfdb;
+      --paper:#f8f3e8;--paper-deep:#efe7d6;--line:#e4dccb;--jade:#2f6d5e;
+      --zh:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;
+      --zh-serif:'Songti TC','Apple LiSung','PingFang TC',serif;}
+  .fh *{box-sizing:border-box;}
+  .fh-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+  .fh-wrap.wide{max-width:900px;}
+  .fh .zh{font-family:var(--zh);}
+
+  .js .fh [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .fh [data-rv].in{opacity:1;transform:none;}
+
+  .fh-crumb{background:var(--paper);border-bottom:1px solid var(--line);}
+  .fh-crumb .fh-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);}
+  .fh-crumb a{color:var(--cinnabar-deep);text-decoration:none;}
+  .fh-crumb a:hover{text-decoration:underline;}
+
+  .fh-hero{background:
+      radial-gradient(120% 90% at 86% 8%,rgba(176,46,38,.26),transparent 60%),
+      linear-gradient(158deg,#3c352c 0%,#282320 48%,#14120f 100%);color:#fff;}
+  .fh-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .fh-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:#e0a59c;font-weight:600;}
+  .fh-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 10px;}
+  .fh-hero .subt{font-style:italic;font-size:18px;color:#ded6c8;}
+  .fh-hero .lede{font-size:17px;line-height:1.7;color:#cfc7b8;margin:16px 0 0;max-width:58ch;}
+  .fh-hero .rd{margin-top:24px;font-size:14px;color:#bfb6a6;display:flex;flex-wrap:wrap;gap:8px 18px;}
+  .fh-hero .rd b{color:#e0a59c;}
+  .fh-hero-zh{font-family:var(--zh-serif);font-size:clamp(17px,3.9vw,26px);line-height:1.9;
+    letter-spacing:.04em;color:#fff;margin:26px 0 0;}
+  .fh-hero-gloss{font-style:italic;color:#a9a091;font-size:14.5px;line-height:1.65;margin:10px 0 0;max-width:60ch;}
+
+  .fh-body{background:#fff;padding:44px 0 30px;}
+  .fh-body p{font-size:17.5px;line-height:1.78;color:var(--ink-mid);margin:0 0 20px;}
+  .fh-body.paper{background:var(--paper);}
+
+  .fh-part{margin:52px 0 22px;padding-top:26px;border-top:2px solid var(--line);}
+  .fh-part:first-child{margin-top:0;padding-top:0;border-top:0;}
+  .fh-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .fh-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .fh-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+
+  /* stat band */
+  .fh-stats{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 24px;}
+  .fh-stat{background:#fff;padding:18px 16px;}
+  .fh-stat b{display:block;font-family:'Playfair Display',serif;font-size:28px;line-height:1.05;
+    color:var(--cinnabar-deep);font-variant-numeric:tabular-nums;}
+  .fh-stat span{display:block;font-size:12.5px;color:var(--ink-soft);margin-top:6px;line-height:1.45;}
+
+  /* character tiles */
+  .fh-tiles{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 10px;padding:0;list-style:none;}
+  .fh-tile{all:unset;cursor:pointer;display:flex;flex-direction:column;align-items:center;
+    width:74px;padding:10px 4px 8px;background:var(--paper);border:1px solid var(--line);
+    transition:border-color .15s,transform .15s;}
+  .fh-tile:hover{border-color:var(--cinnabar);transform:translateY(-1px);}
+  .fh-tile:focus-visible{outline:2px solid var(--cinnabar);outline-offset:2px;}
+  .fh-tile .ch{font-family:var(--zh-serif);font-size:32px;line-height:1.15;color:var(--ink);}
+  .fh-tile .rk{font-size:10.5px;color:var(--ink-soft);font-variant-numeric:tabular-nums;letter-spacing:.03em;}
+  .fh-tile[aria-expanded="true"]{border-color:var(--cinnabar);background:var(--cinnabar-pale);}
+  .fh-tile.block .ch{color:var(--ink-soft);}
+
+  .fh-card{border:1px solid var(--line);border-left:3px solid var(--cinnabar);background:var(--paper);
+    padding:16px 18px;margin:0 0 20px;}
+  .fh-card h3{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:0 0 4px;line-height:1.3;}
+  .fh-card .chb{font-family:var(--zh-serif);font-size:26px;color:var(--cinnabar-deep);margin-right:9px;}
+  .fh-card p{font-size:15px;line-height:1.65;margin:6px 0 0;}
+  .fh-card dl{margin:12px 0 0;display:grid;grid-template-columns:auto 1fr;gap:2px 14px;font-size:13.5px;}
+  .fh-card dt{color:var(--ink-soft);}
+  .fh-card dd{margin:0;font-variant-numeric:tabular-nums;color:var(--ink-mid);}
+  .fh-hint{font-size:13.5px;color:var(--ink-soft);font-style:italic;}
+
+  /* scripture box */
+  .fh-frame{font-family:var(--zh-serif);font-size:clamp(17px,3.5vw,23px);line-height:2.05;
+    letter-spacing:.03em;background:var(--paper);border:1px solid var(--line);
+    border-left:3px solid var(--cinnabar);padding:22px 20px;color:var(--ink);}
+  .fh-frame.center{text-align:center;}
+  .fh-fixed{color:var(--ink);}
+  .fh-slot{color:var(--cinnabar-deep);border-bottom:2px solid var(--cinnabar);padding-bottom:1px;}
+  .fh-en{font-size:15px;color:var(--ink-soft);font-style:italic;line-height:1.66;margin:14px 0 0;}
+  .fh-swap{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0;padding:0;list-style:none;}
+  .fh-swap button{all:unset;cursor:pointer;font-size:13px;font-weight:600;padding:7px 14px;
+    border:1px solid var(--line);border-radius:999px;color:var(--ink-mid);background:#fff;transition:all .15s;}
+  .fh-swap button:hover{border-color:var(--cinnabar);color:var(--cinnabar-deep);}
+  .fh-swap button:focus-visible{outline:2px solid var(--cinnabar);outline-offset:2px;}
+  .fh-swap button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink);}
+
+  /* side-by-side comparison */
+  .fh-twins{display:grid;gap:14px;margin:22px 0 0;}
+  .fh-twin{background:#fff;border:1px solid var(--line);padding:18px 20px;}
+  .fh-body.paper .fh-twin{background:#fff;}
+  .fh-twin .who{font-size:11.5px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+    color:var(--ink-soft);margin:0 0 10px;}
+  .fh-twin .txt{font-family:var(--zh-serif);font-size:clamp(16px,3.2vw,20px);line-height:1.95;
+    letter-spacing:.03em;color:var(--ink);margin:0;}
+  .fh-twin .txt.full{font-size:clamp(15px,2.9vw,18px);line-height:2.05;}
+  .fh mark{background:var(--cinnabar-pale);color:var(--cinnabar-deep);padding:0 3px;font-weight:600;}
+
+  /* exercises */
+  .fh-ex{border-top:1px solid var(--line);padding-top:20px;margin-top:20px;}
+  .fh-ex:first-of-type{border-top:0;padding-top:0;margin-top:0;}
+  .fh-ex .q{font-family:var(--zh-serif);font-size:20px;line-height:1.9;letter-spacing:.03em;
+    color:var(--ink);margin:0 0 12px;}
+  .fh-reveal{all:unset;cursor:pointer;font-size:12.5px;font-weight:700;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--cinnabar-deep);border-bottom:1px solid var(--cinnabar);padding-bottom:1px;}
+  .fh-reveal:focus-visible{outline:2px solid var(--cinnabar);outline-offset:3px;}
+  .fh-ans{margin-top:14px;border-left:2px solid var(--jade);padding-left:14px;}
+  .fh-ans p{font-size:15.5px;margin:0 0 8px;}
+  .fh-ans p:last-child{margin-bottom:0;}
+  .fh-ans .sm{font-size:14px;color:var(--ink-soft);}
+
+  /* tables */
+  .fh-tscroll{overflow-x:auto;margin:22px 0 0;}
+  .fh table{width:100%;border-collapse:collapse;font-size:14.5px;}
+  .fh th,.fh td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);color:var(--ink-mid);}
+  .fh th{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;}
+  .fh td.n{text-align:right;font-variant-numeric:tabular-nums;}
+  .fh td.zh{font-family:var(--zh);font-size:16px;}
+
+  /* session list on the index */
+  .fh-sess{display:grid;gap:14px;margin:24px 0 0;padding:0;list-style:none;}
+  .fh-sesscard{border:1px solid var(--line);background:#fff;padding:20px 22px;display:block;
+    text-decoration:none;transition:border-color .15s,transform .15s;}
+  .fh-sesscard:hover{border-color:var(--cinnabar);transform:translateY(-1px);}
+  .fh-sesscard .sn{font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;font-weight:800;color:var(--cinnabar);}
+  .fh-sesscard h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--ink);margin:6px 0 4px;line-height:1.2;}
+  .fh-sesscard .zht{font-family:var(--zh);font-size:14.5px;color:var(--ink-soft);margin:0 0 8px;}
+  .fh-sesscard p{font-size:15px;line-height:1.6;color:var(--ink-mid);margin:0;}
+
+  /* prev / next */
+  .fh-nav{border-top:2px solid var(--line);margin-top:48px;padding:26px 0 0;
+    display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;}
+  .fh-nav a{font-size:14.5px;color:var(--cinnabar-deep);text-decoration:none;font-weight:600;}
+  .fh-nav a:hover{text-decoration:underline;}
+  .fh-nav .sp{color:var(--ink-soft);font-weight:400;}
+
+  .fh-note{background:var(--paper-deep);border:1px solid var(--line);padding:18px 20px;margin:24px 0 0;}
+  .fh-note h4{font-family:'Playfair Display',serif;font-size:18px;color:var(--ink);margin:0 0 6px;}
+  .fh-note p{font-size:15px;line-height:1.66;margin:0;}
+
+  .fh-method{background:var(--ink);color:#b8afa0;padding:36px 0 40px;}
+  .fh-method h4{font-family:'Playfair Display',serif;font-size:19px;color:#fff;margin:0 0 10px;}
+  .fh-method p{font-size:14.5px;line-height:1.7;margin:0 0 12px;max-width:66ch;}
+  .fh-method code{font-size:13px;color:#e0a59c;}
+  .fh-method a{color:#e0a59c;}
+
+  @media (prefers-reduced-motion:reduce){.fh *{transition:none !important;}}
+</style>
+
+<div class="fh">
+
+  <nav class="fh-crumb"><div class="fh-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/four-hundred-characters/' | relative_url }}">Four Hundred Characters</a> → Session 4</div></nav>
+
+  <section class="fh-hero">
+    <div class="fh-hero-in">
+      <div class="fh-eyebrow">Session 4 &middot; A whole sutra</div>
+      <h1>Two Hundred Sixty Characters</h1>
+      <p class="lede">This is the session the first three were for. The Heart Sutra is 260 characters long, uses only 117 distinct ones, and eighty-nine percent of them sit in the canon's top four hundred. You are going to read all of it &mdash; every character, in order, to the last syllable of the mantra. Nothing will be summarized for you.</p>
+      <p class="fh-hero-zh" lang="zh-Hant">觀自在菩薩行深般若波羅蜜多時，<br>照見五蘊皆空，度一切苦厄。</p>
+      <p class="fh-hero-gloss">When the Bodhisattva Who Contemplates Freely was practicing the deep perfection of wisdom, he saw clearly that the five aggregates are all empty, and he crossed beyond all suffering and distress.</p>
+    </div>
+  </section>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+
+      <div class="fh-part"><div class="pn">Part 1</div><h2>Why this text</h2></div>
+
+      <div class="fh-stats" data-rv>
+        <div class="fh-stat"><b>260</b><span>characters in the whole sutra</span></div>
+        <div class="fh-stat"><b>117</b><span>distinct characters used</span></div>
+        <div class="fh-stat"><b>89.2%</b><span>of them in the canon's top 400</span></div>
+        <div class="fh-stat"><b>21&times;</b><span>occurrences of 無 &mdash; 8% of the text</span></div>
+      </div>
+
+      <p data-rv>The Heart Sutra is the most recited text in East Asian Buddhism and the shortest complete sutra in the canon. It is also almost entirely built out of Session 3: <span class="zh">無</span> twenty-one times, <span class="zh">不</span> nine times, <span class="zh">空</span> seven times. If you can handle three negations and a handful of nouns, you can handle this.</p>
+
+      <p data-rv>We are reading Xuanzang's version, T0251, finished in 649. Note his opening: <span class="zh">觀自在菩薩</span>, <em>the Bodhisattva Who Contemplates Freely</em>. Kumārajīva had rendered the same name <span class="zh">觀世音</span>, <em>Regarder of the World's Sounds</em> &mdash; the form that became Guanyin. Same bodhisattva, two translators, two readings of the Sanskrit.</p>
+
+      <div class="fh-part"><div class="pn">Part 2</div><h2>The opening<span class="rf">One of six</span></h2></div>
+
+      <div class="fh-frame" lang="zh-Hant" data-rv>觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。</div>
+      <p class="fh-en">When the Bodhisattva Who Contemplates Freely was practicing the deep perfection of wisdom, he saw clearly that the five aggregates are all empty, and he crossed beyond all suffering and distress.</p>
+
+      <p data-rv style="margin-top:22px"><span class="zh">時</span> at the end of the first clause is Session 1's <span class="zh">一時</span> doing a different job: here it marks <em>when</em> something was happening, not <em>once upon a time</em>. Chinese has no tense, so a bare <span class="zh">時</span> carries the whole "while he was doing X" construction.</p>
+
+      <p data-rv>The <span class="zh">五蘊</span>, five aggregates, are the inventory of a person: form, sensation, perception, volition, consciousness. They arrive as a set and come back twice more in this text, so learn them here.</p>
+
+      <ul class="fh-tiles" id="agg-tiles"></ul>
+      <div id="agg-card"><p class="fh-hint">Tap a character above.</p></div>
+    </div>
+  </div>
+
+  <div class="fh-body paper">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 3</div><h2>Form and emptiness, four ways</h2></div>
+      <div class="fh-frame" lang="zh-Hant" data-rv>舍利子！色不異空，空不異色，色即是空，空即是色；受、想、行、識，亦復如是。</div>
+      <p class="fh-en">Śāriputra! Form is not different from emptiness, emptiness is not different from form; form is precisely emptiness, emptiness is precisely form. Sensation, perception, volition, and consciousness are likewise the same.</p>
+      <p data-rv style="margin-top:22px">Four clauses, and the move from the first pair to the second is the point. <span class="zh">不異</span> says <em>not different from</em> &mdash; a cautious, negative formulation. <span class="zh">即是</span> says <em>is precisely</em> &mdash; the positive identity, asserted flat out. The text says the weaker thing first and then the stronger, in both directions.</p>
+      <p data-rv>Then <span class="zh">亦復如是</span> &mdash; <em>likewise the same</em> &mdash; and the other four aggregates are folded in without repeating the argument. That formula occurs 8,143 times across 440 sutras; it is how scripture avoids saying everything four times.</p>
+
+      <div class="fh-part"><div class="pn">Part 4</div><h2>Six negations in a row</h2></div>
+      <div class="fh-frame" lang="zh-Hant" data-rv>舍利子！是諸法空相，不生不滅，不垢不淨，不增不減。</div>
+      <p class="fh-en">Śāriputra! These dharmas are empty of characteristics: not arising, not ceasing; not defiled, not pure; not increasing, not decreasing.</p>
+      <p data-rv style="margin-top:22px">Three pairs of opposites, each pair canceled with <span class="zh">不</span>, because every one of these words is a verb. Arising and ceasing; defilement and purity; increase and decrease. The pairs are not random &mdash; they answer the three things one might still want to claim about something declared empty: that it began, that it is stained or clean, that it can grow.</p>
+      <p data-rv><span class="zh">諸</span> at the front is doing the plural: <span class="zh">諸法</span>, <em>the dharmas</em>, all phenomena whatsoever. Chinese has no plural ending, so <span class="zh">諸</span> ranks ninth in the canon on that job alone.</p>
+    </div>
+  </div>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 5</div><h2>Emptying the inventory<span class="rf">The passage people find overwhelming, and the easiest in the sutra</span></h2></div>
+      <div class="fh-frame" lang="zh-Hant" data-rv>是故，空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界；無無明亦無無明盡，乃至無老死亦無老死盡；無苦、集、滅、道；無智，亦無得。</div>
+      <p class="fh-en">Therefore, in emptiness there is no form, no sensation, perception, volition, or consciousness; no eye, ear, nose, tongue, body, or mind; no form, sound, scent, taste, touch, or dharma; no field of the eye, and so on up to no field of mind-consciousness; no ignorance and no end of ignorance, and so on up to no aging-and-death and no end of aging-and-death; no suffering, arising, cessation, or path; no knowledge and no attainment.</p>
+      <p data-rv style="margin-top:22px">It is a list of lists with one word in front of each: <span class="zh">無</span>.</p>
+      <p data-rv>Six sense organs. Six sense objects. The eighteen fields, abbreviated with <span class="zh">乃至</span> &mdash; <em>and so on up to</em> &mdash; which saves the text from printing all eighteen. The twelve links of dependent arising, abbreviated the same way, from <span class="zh">無明</span> ignorance at one end to <span class="zh">老死</span> aging-and-death at the other. The four noble truths: <span class="zh">苦集滅道</span>. Then knowledge and attainment.</p>
+      <p data-rv><span class="zh">乃至</span> is the pair to take away from this section. It appears twice here and it does what an ellipsis does &mdash; <em>first item &hellip; and so on up to &hellip; last item</em> &mdash; for a list the reader is assumed to know by heart.</p>
+      <ul class="fh-tiles" id="sen-tiles"></ul>
+      <div id="sen-card"><p class="fh-hint">Tap a character above.</p></div>
+    </div>
+  </div>
+
+  <div class="fh-body paper">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 6</div><h2>What follows from having nothing to gain</h2></div>
+      <div class="fh-frame" lang="zh-Hant" data-rv>以無所得故，菩提薩埵依般若波羅蜜多故，心無罣礙；無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。三世諸佛依般若波羅蜜多故，得阿耨多羅三藐三菩提。</div>
+      <p class="fh-en">Because there is nothing attained: the bodhisattva, relying on the perfection of wisdom, has a mind without hindrance; and having no hindrance, has no dread, leaves inverted dreaming far behind, and reaches final nirvāṇa. The buddhas of the three times, relying on the perfection of wisdom, attain unsurpassed perfect awakening.</p>
+      <p data-rv style="margin-top:22px">Watch <span class="zh">故</span> here. Session 2 gave it to you inside <span class="zh">何以故</span> and <span class="zh">是故</span>; in this passage it appears four times as a clause-final <em>because</em>, chaining cause to cause: because nothing is attained &rarr; because they rely on wisdom &rarr; because there is no hindrance &rarr; therefore no dread. The logic is carried entirely by one character in one position.</p>
+      <p data-rv><span class="zh">菩提薩埵</span> is worth noticing. This is <em>bodhisattva</em> transliterated in full, four characters. The familiar <span class="zh">菩薩</span> is an abbreviation of it &mdash; first and third characters only &mdash; which is why <span class="zh">薩</span> ranks tenth in the canon while <span class="zh">埵</span> ranks 846th.</p>
+      <ul class="fh-tiles" id="tra-tiles"></ul>
+      <div id="tra-card"><p class="fh-hint">Tap a character above.</p></div>
+      <p data-rv>The same applies to <span class="zh">阿耨多羅三藐三菩提</span> &mdash; nine characters, pure sound, <em>anuttara-samyak-saṃbodhi</em>, unsurpassed perfect complete awakening. You met it in Session 2 in Subhūti's question. Do not parse it. Recognize it.</p>
+      <ul class="fh-tiles" id="end-tiles"></ul>
+      <div id="end-card"><p class="fh-hint">Tap a character above.</p></div>
+    </div>
+  </div>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 7</div><h2>The mantra, untranslated</h2></div>
+      <div class="fh-frame" lang="zh-Hant" data-rv>故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛，故說般若波羅蜜多咒。即說咒曰：揭帝揭帝般羅揭帝般羅僧揭帝菩提莎婆訶</div>
+      <p class="fh-en">Therefore know that the perfection of wisdom is the great numinous mantra, the great bright mantra, the unsurpassed mantra, the mantra unequalled among equals; it can remove all suffering; it is true and not false. Therefore the mantra of the perfection of wisdom is spoken. And it is spoken thus: gate gate pāragate pārasaṃgate bodhi svāhā.</p>
+      <p data-rv style="margin-top:22px">Four <span class="zh">是…咒</span> clauses in parallel, each escalating: <span class="zh">大神</span> great and numinous, <span class="zh">大明</span> great and bright, <span class="zh">無上</span> unsurpassed, <span class="zh">無等等</span> &mdash; literally <em>no-equal-equal</em>, unequalled even among things that have no equal. Two of the four are built with <span class="zh">無</span>.</p>
+      <p data-rv>Then the text stops translating. The last fourteen characters are sound and nothing else &mdash; Sanskrit pushed through Chinese phonetics, meaning nothing in Chinese. A reader in 649 could pronounce it and could not read it, which was the point.</p>
+      <div class="fh-note" data-rv>
+        <h4>A note on 咒 &mdash; you will meet a different character</h4>
+        <p>This edition writes <span class="zh">咒</span>. The canon overwhelmingly does not: <span class="zh">呪</span> appears <strong>17,301 times across 589 sutras</strong>, while <span class="zh">咒</span> appears only <strong>31 times in 15</strong>. They are the same word and the same meaning &mdash; <span class="zh">呪</span> is the form the old blocks were cut with, <span class="zh">咒</span> the form modern editions prefer. Expect <span class="zh">呪</span> everywhere else you read, and do not treat it as a new character.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fh-body paper">
+    <div class="fh-wrap wide">
+      <div class="fh-part"><div class="pn">Part 8</div><h2>You have read a sutra</h2></div>
+      <p data-rv>Here it is entire, with no English beside it. Four sessions ago this was a wall.</p>
+      <div class="fh-twins">
+        <div class="fh-twin" data-rv>
+          <p class="who">般若波羅蜜多心經 &middot; T0251 &middot; 玄奘譯 &middot; 649 CE</p>
+          <p class="txt full" lang="zh-Hant">觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。舍利子！色不異空，空不異色，色即是空，空即是色；受、想、行、識，亦復如是。舍利子！是諸法空相，不生不滅，不垢不淨，不增不減。是故，空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界；無無明亦無無明盡，乃至無老死亦無老死盡；無苦、集、滅、道；無智，亦無得。以無所得故，菩提薩埵依般若波羅蜜多故，心無罣礙；無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。三世諸佛依般若波羅蜜多故，得阿耨多羅三藐三菩提。故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛，故說般若波羅蜜多咒。即說咒曰：揭帝揭帝般羅揭帝般羅僧揭帝菩提莎婆訶</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="fh-body">
+    <div class="fh-wrap">
+      <div class="fh-part"><div class="pn">Part 9</div><h2>What four hundred characters actually buys</h2></div>
+      <p data-rv>You are not fluent, and this course will not make you fluent. What you have is different and more useful than it sounds: you can now open a Chinese sutra and find the handholds. You know where the opening frame ends and the text proper begins. You know who is speaking to whom. You can tell a denial of existence from a denial of identity. You can recognize a transliterated block and stop trying to parse it.</p>
+      <p data-rv>That is the threshold where a bilingual edition becomes usable rather than decorative &mdash; where you read the Chinese, get most of it, and check the English for the rest, instead of reading the English and glancing at the Chinese. Every translation on this site is laid out for exactly that; the <a href="{{ '/sutras/' | relative_url }}">sūtra collection</a> is the place to go next.</p>
+      <p data-rv style="font-size:15px;color:var(--ink-soft)">Running total after Session 4: <strong>102 characters</strong> taught explicitly, 19 formulas, the opening of the Diamond Sutra and the whole of the Heart Sutra read in the original.</p>
+
+      <div class="fh-nav"><a href="{{ '/courses/four-hundred-characters/session-3/' | relative_url }}">← Session 3</a><a href="{{ '/courses/' | relative_url }}">Back to the Academy →</a></div>
+
+    </div>
+  </div>
+
+  <section class="fh-method">
+    <div class="fh-wrap">
+      <h4>Where the numbers come from</h4>
+      <p>Every frequency on this page was counted, not estimated. The corpus is the 1,482 texts tagged
+        <code>三藏/經</code> in the Taishō canon — 26,422,454 Chinese characters after stripping front
+        matter, headings, and the CBETA apparatus. Ranks are positions in the frequency list built from
+        that corpus; formula counts are string occurrences, given with the number of separate sutras they
+        appear in, because a formula used 10,000 times in one text is a quirk while one used in 700 texts
+        is a convention.</p>
+      <p>Counting scripture separately from commentary matters. Run the same analysis over a corpus that
+        includes the śāstras and the vocabulary tilts hard toward Abhidharma technical terms, and the
+        character list ends up teaching you to read treatises rather than sutras. This course teaches
+        sutras first. On how Ru-Yi translates and why, see
+        <a href="{{ '/dharma/translation-method/' | relative_url }}">Translation Method</a>.</p>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  "use strict";
+  document.documentElement.classList.add('js');
+  var DATA = {"五":{r:105,n:60469,en:"five",note:""},"蘊":{r:774,n:3605,en:"aggregate, heap",note:"skandha. Rare as a character; always this term."},"色":{r:102,n:61394,en:"form, matter; color",note:"r\u016bpa, the first of the five aggregates."},"受":{r:69,n:85760,en:"sensation, feeling",note:"vedan\u0101, the second aggregate."},"想":{r:159,n:40032,en:"perception, conception",note:""},"行":{r:26,n:160571,en:"to practice; conduct",note:"Also the \u884c of the five aggregates."},"識":{r:156,n:40148,en:"consciousness",note:"vij\u00f1\u0101na, the fifth aggregate."},"眼":{r:193,n:33873,en:"eye",note:""},"耳":{r:293,n:18778,en:"ear",note:""},"鼻":{r:337,n:15830,en:"nose",note:""},"舌":{r:343,n:15438,en:"tongue",note:""},"身":{r:60,n:99267,en:"body",note:""},"意":{r:99,n:62812,en:"mind, mental faculty",note:"The sixth sense organ in Buddhist reckoning."},"聲":{r:150,n:41196,en:"sound",note:""},"香":{r:200,n:32180,en:"scent",note:""},"味":{r:387,n:13263,en:"taste",note:""},"觸":{r:203,n:31242,en:"touch",note:""},"界":{r:48,n:114329,en:"realm, field, sphere",note:"dh\u0101tu. \u773c\u754c = the field of the eye."},"般":{r:115,n:53890,en:"[sound only] pra-",note:"\u822c\u82e5 = praj\u00f1\u0101, wisdom."},"波":{r:70,n:85485,en:"[sound only] p\u0101-",note:""},"羅":{r:22,n:174549,en:"[sound only] -ra-",note:"One of the busiest phonetic characters in the canon."},"蜜":{r:84,n:72781,en:"[sound only] -mit\u0101",note:"\u6ce2\u7f85\u871c\u591a = p\u0101ramit\u0101, perfection."},"多":{r:54,n:106479,en:"many; [sound only] -t\u0101",note:""},"菩":{r:13,n:236338,en:"[sound only] bo-",note:""},"薩":{r:10,n:257588,en:"[sound only] -dhi-sattva",note:"\u83e9\u85a9 is short for \u83e9\u63d0\u85a9\u57f5."},"埵":{r:846,n:2950,en:"[sound only] -tva",note:"\u83e9\u63d0\u85a9\u57f5 = bodhisattva, written out in full."},"罣":{r:1336,n:1011,en:"obstruction, snag",note:"Rare. \u7f63\u7919 = hindrance."},"礙":{r:367,n:14000,en:"obstacle",note:""},"恐":{r:662,n:5100,en:"fear",note:""},"怖":{r:460,n:10264,en:"terror",note:"\u6050\u6016 = dread."},"遠":{r:272,n:21621,en:"far, to keep far from",note:""},"離":{r:95,n:64929,en:"to leave, to be free of",note:"\u9060\u96e2 = to leave far behind."},"顛":{r:740,n:4001,en:"upside down",note:""},"倒":{r:623,n:5628,en:"inverted",note:"\u985b\u5012 = topsy-turvy, delusion."},"夢":{r:627,n:5578,en:"dream",note:""},"究":{r:558,n:6851,en:"to investigate; ultimate",note:""},"竟":{r:312,n:17444,en:"end, finally",note:"\u7a76\u7adf = ultimate, final."},"涅":{r:339,n:15627,en:"[sound only] nir-",note:""},"槃":{r:338,n:15826,en:"[sound only] -v\u0101\u1e47a",note:"\u6d85\u69c3 = nirv\u0101\u1e47a."}};
+  var GROUPS = [{"host": "agg-tiles", "card": "agg-card", "chars": "五蘊色受想行識", "dim": "蘊"}, {"host": "sen-tiles", "card": "sen-card", "chars": "眼耳鼻舌身意聲香味觸界", "dim": ""}, {"host": "tra-tiles", "card": "tra-card", "chars": "般波羅蜜多菩薩埵", "dim": "般波羅蜜埵"}, {"host": "end-tiles", "card": "end-card", "chars": "罣礙恐怖遠離顛倒夢究竟涅槃", "dim": "罣顛倒夢究竟涅槃"}];
+
+  function fmt(n){ return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
+
+  function render(cardEl, ch){
+    var d = DATA[ch]; if(!d) return;
+    var pct = d.n / 26422454 * 100;
+    cardEl.innerHTML = '<div class="fh-card">'
+      + '<h3><span class="chb" lang="zh-Hant">' + ch + '</span>' + d.en + '</h3>'
+      + (d.note ? '<p>' + d.note + '</p>' : '')
+      + '<dl><dt>Rank in the sutras</dt><dd>#' + d.r + '</dd>'
+      + '<dt>Times it occurs</dt><dd>' + fmt(d.n) + '</dd>'
+      + '<dt>Share of the canon</dt><dd>' + (pct < 0.02 ? pct.toFixed(3) : pct.toFixed(2)) + '%</dd>'
+      + '</dl></div>';
+  }
+
+  GROUPS.forEach(function(g){
+    var host = document.getElementById(g.host), card = document.getElementById(g.card);
+    if(!host || !card) return;
+    g.chars.split("").forEach(function(ch){
+      var d = DATA[ch]; if(!d) return;
+      var li = document.createElement("li");
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "fh-tile" + ((g.dim||"").indexOf(ch) > -1 ? " block" : "");
+      b.setAttribute("aria-expanded","false");
+      b.innerHTML = '<span class="ch" lang="zh-Hant">' + ch + '</span><span class="rk">#' + d.r + '</span>';
+      b.addEventListener("click", function(){
+        Array.prototype.forEach.call(host.querySelectorAll(".fh-tile"), function(t){
+          t.setAttribute("aria-expanded","false");
+        });
+        b.setAttribute("aria-expanded","true");
+        render(card, ch);
+      });
+      li.appendChild(b); host.appendChild(li);
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll(".fh-reveal"), function(btn){
+    btn.addEventListener("click", function(){
+      var ans = btn.parentNode.querySelector(".fh-ans"); if(!ans) return;
+      var open = ans.hidden === false;
+      ans.hidden = open;
+      btn.setAttribute("aria-expanded", String(!open));
+      btn.textContent = open ? "Reveal" : "Hide";
+    });
+  });
+
+  var swap = document.querySelectorAll(".fh-swap button");
+  if(swap.length){
+    var sv=document.getElementById("s-verb"), sp=document.getElementById("s-place"),
+        sn=document.getElementById("s-num"), fe=document.getElementById("frame-en");
+    Array.prototype.forEach.call(swap, function(b){
+      b.addEventListener("click", function(){
+        Array.prototype.forEach.call(swap, function(o){ o.setAttribute("aria-pressed","false"); });
+        b.setAttribute("aria-pressed","true");
+        if(sv) sv.textContent = b.getAttribute("data-v");
+        if(sp) sp.textContent = b.getAttribute("data-p");
+        if(sn) sn.textContent = b.getAttribute("data-n");
+        if(fe) fe.textContent = b.getAttribute("data-en");
+      });
+    });
+  }
+
+  GROUPS.forEach(function(g){
+    var host = document.getElementById(g.host);
+    if(host){ var first = host.querySelector(".fh-tile"); if(first) first.click(); }
+  });
+
+  /* scroll reveal — same behavior as the other Academy courses */
+  var rv = Array.prototype.slice.call(document.querySelectorAll('.fh [data-rv]'));
+  var ticking = false;
+  function sweep(){
+    ticking = false;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    for (var i = rv.length - 1; i >= 0; i--){
+      var r = rv[i].getBoundingClientRect();
+      if (r.top < vh * 0.92){ rv[i].classList.add('in'); rv.splice(i,1); }
+    }
+  }
+  function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(sweep); } }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll);
+  window.addEventListener('pageshow', sweep);
+  document.addEventListener('visibilitychange', function(){ if(!document.hidden){ sweep(); } });
+  sweep();
+})();
+</script>
