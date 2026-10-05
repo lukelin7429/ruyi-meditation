@@ -75,16 +75,39 @@ excerpt: A plain-English guide to sitting meditation for complete beginners — 
 
   /* ---- POSTURE ---- */
   .mb-posture{display:grid;gap:40px;grid-template-columns:1fr;align-items:start;}
-  @media(min-width:860px){.mb-posture{grid-template-columns:300px 1fr;gap:56px;}}
-  .mb-figwrap{position:sticky;top:30px;background:linear-gradient(158deg,#33475f,#27384d 55%,#182231);border-radius:20px;padding:30px 24px 20px;text-align:center;box-shadow:0 30px 60px -34px rgba(20,29,40,.7);}
-  .mb-figwrap svg{width:100%;max-width:210px;color:var(--gold);}
-  .mb-figwrap .cap{margin-top:6px;font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;color:rgba(227,183,101,.8);font-weight:600;}
+  @media(min-width:860px){.mb-posture{grid-template-columns:372px 1fr;gap:56px;}}
+  .mb-figwrap{background:linear-gradient(158deg,#33475f,#27384d 55%,#182231);border-radius:20px;padding:30px 22px 18px;text-align:center;box-shadow:0 30px 60px -34px rgba(20,29,40,.7);}
+  @media(min-width:860px){.mb-figwrap{position:sticky;top:104px;}}
+  .mb-figwrap .cap{margin-top:14px;font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;color:rgba(227,183,101,.8);font-weight:600;}
+  .mb-figwrap .credit{margin-top:7px;font-size:11px;line-height:1.55;color:rgba(255,255,255,.48);}
+  .mb-figwrap .credit a{color:rgba(227,183,101,.78);text-decoration:none;border-bottom:1px solid rgba(227,183,101,.3);}
+  .mb-statue{position:relative;width:100%;max-width:328px;margin:0 auto;}
+  .mb-statue img{display:block;width:100%;height:auto;filter:drop-shadow(0 20px 22px rgba(0,0,0,.42));}
+  .mb-lines{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible;}
+  .mb-lines path{fill:none;stroke:var(--gold);stroke-linecap:round;vector-effect:non-scaling-stroke;}
+  .mb-lines .lead{stroke-width:1;opacity:.5;}
+  .mb-lines .show{stroke-width:2;stroke-dasharray:5 6;opacity:0;transition:opacity .45s ease;}
+  .mb-lines .show.on{opacity:1;}
+  .mb-dot{position:absolute;width:28px;height:28px;margin:-14px 0 0 -14px;padding:0;border-radius:50%;border:1.5px solid var(--gold);
+    background:rgba(20,29,40,.78);color:var(--gold);font-family:'Playfair Display',serif;font-size:14px;font-weight:600;line-height:1;
+    display:flex;align-items:center;justify-content:center;cursor:pointer;-webkit-tap-highlight-color:transparent;
+    transition:transform .25s ease,background .25s ease,color .25s ease,box-shadow .25s ease;}
+  .mb-dot::after{content:"";position:absolute;inset:-1.5px;border-radius:50%;border:1.5px solid var(--gold);opacity:0;
+    animation:mbPulse 3s ease-out infinite;animation-delay:calc(var(--i) * .4s);}
+  @keyframes mbPulse{0%{transform:scale(1);opacity:.7;}65%,100%{transform:scale(2.1);opacity:0;}}
+  .mb-dot:hover,.mb-dot:focus-visible,.mb-dot.on{background:var(--gold);color:var(--indigo-deep);transform:scale(1.2);box-shadow:0 0 0 6px rgba(227,183,101,.22);outline:none;}
+  .mb-dot.on::after{animation:none;}
+  @media(prefers-reduced-motion:reduce){.mb-dot::after{animation:none;}}
   .mb-points{list-style:none;margin:0;padding:0;counter-reset:pt;}
   .mb-points li{position:relative;padding:0 0 22px 60px;}
   .mb-points li:last-child{padding-bottom:0;}
   .mb-points li::before{counter-increment:pt;content:counter(pt);position:absolute;left:0;top:-2px;width:40px;height:40px;border-radius:50%;
     background:var(--indigo);color:var(--gold);font-family:'Playfair Display',serif;font-size:19px;font-weight:600;
-    display:flex;align-items:center;justify-content:center;box-shadow:0 8px 18px -8px rgba(39,56,77,.6);}
+    display:flex;align-items:center;justify-content:center;box-shadow:0 8px 18px -8px rgba(39,56,77,.6);
+    transition:background .25s ease,color .25s ease,transform .25s ease;}
+  .mb-points li[data-pt]{cursor:pointer;}
+  .mb-points li.on::before{background:var(--gold);color:var(--indigo-deep);transform:scale(1.1);}
+  .mb-points li.on p{color:var(--ink);}
   .mb-points li::after{content:"";position:absolute;left:19.5px;top:40px;bottom:6px;width:1px;background:var(--line-cool);}
   .mb-points li:last-child::after{display:none;}
   .mb-points h4{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:2px 0 5px;}
@@ -272,21 +295,70 @@ excerpt: A plain-English guide to sitting meditation for complete beginners — 
       </div>
       <div class="mb-posture">
         <div class="mb-figwrap" data-rv>
-          <svg viewBox="0 0 200 230" aria-hidden="true"><use href="#seated"/></svg>
+          <div class="mb-statue" id="mbStatue">
+            <img src="{{ '/assets/images/meditation/seated-buddha-hadda.webp' | relative_url }}" width="900" height="1249" alt="A stucco Buddha seated in meditation: legs crossed, hands resting in the lap, back upright, eyes lowered.">
+            <svg class="mb-lines" viewBox="0 0 100 138.78" preserveAspectRatio="none" aria-hidden="true">
+              <path class="lead" d="M64.5 106.9 L53 110.3"/>
+              <path class="lead" d="M66 45.1 L55.5 42.6"/>
+              <path class="lead" d="M33 43 L47.5 36.6"/>
+              <path class="lead" d="M72 18 L60 27.8"/>
+              <path class="show" data-line="3" d="M51.5 45.8 L51.5 102.7"/>
+              <path class="show" data-line="4" d="M22 56.2 L79 56.2"/>
+              <path class="show" data-line="7" d="M51.3 29.8 L51.3 37.5"/>
+            </svg>
+            <button type="button" class="mb-dot" data-pt="1" style="left:88%;top:86%;--i:0" aria-label="Point 1: Legs">1</button>
+            <button type="button" class="mb-dot" data-pt="2" style="left:64.5%;top:77%;--i:1" aria-label="Point 2: Hands">2</button>
+            <button type="button" class="mb-dot" data-pt="3" style="left:51.5%;top:52%;--i:2" aria-label="Point 3: Spine">3</button>
+            <button type="button" class="mb-dot" data-pt="4" style="left:76%;top:40.5%;--i:3" aria-label="Point 4: Shoulders">4</button>
+            <button type="button" class="mb-dot" data-pt="5" style="left:66%;top:32.5%;--i:4" aria-label="Point 5: Neck and chin">5</button>
+            <button type="button" class="mb-dot" data-pt="6" style="left:33%;top:31%;--i:5" aria-label="Point 6: Tongue">6</button>
+            <button type="button" class="mb-dot" data-pt="7" style="left:72%;top:13%;--i:6" aria-label="Point 7: Eyes">7</button>
+          </div>
           <div class="cap">Steady as a mountain</div>
+          <div class="credit">Seated Buddha, c. 300 CE, Hadda, Afghanistan.<br><a href="https://clevelandart.org/art/1967.39" target="_blank" rel="noopener">Cleveland Museum of Art</a> · CC0 · image mirrored</div>
         </div>
         <ol class="mb-points">
-          <li data-rv><h4>Legs <span class="zh">· 雙足跏趺</span></h4><p>Sit on a cushion with the hips a little higher than the knees, and cross the legs — full lotus, half lotus, or simply cross-legged, whichever you can hold without strain. If the legs won't allow it, a chair is a legitimate seat (see the questions below).</p></li>
-          <li data-rv style="transition-delay:.04s"><h4>Hands <span class="zh">· 手結定印</span></h4><p>Rest the hands in the lap, a few finger-widths below the navel, the left palm resting on the right, the thumb-tips lightly touching to make a small oval. Let the arms hang loose, a little space under the armpits.</p></li>
-          <li data-rv style="transition-delay:.08s"><h4>Spine <span class="zh">· 脊背正直</span></h4><p>Straight, like a stack of golden coins — upright but not stiff. Keep the natural curve of the lower back; don't tuck under and don't slump.</p></li>
-          <li data-rv style="transition-delay:.12s"><h4>Shoulders <span class="zh">· 肩平張</span></h4><p>Let the shoulders open evenly to both sides, broad and level, like wings gently spread. The chest stays open — never hunched forward, never forced stiffly back.</p></li>
-          <li data-rv style="transition-delay:.16s"><h4>Neck &amp; chin <span class="zh">· 頸微俯</span></h4><p>Lengthen the back of the neck and tuck the chin slightly, so the neck curves a little forward. The head stays balanced on top of the spine, as if the crown were lifted by a thread.</p></li>
-          <li data-rv style="transition-delay:.2s"><h4>Tongue <span class="zh">· 舌抵上顎</span></h4><p>Rest the tip of the tongue lightly against the upper palate, just behind the front teeth. It keeps the jaw soft and the mouth from drying out. Lips gently closed; breathe naturally through the nose.</p></li>
-          <li data-rv style="transition-delay:.24s"><h4>Eyes <span class="zh">· 眼觀鼻端 · 三分眼</span></h4><p>Keep the eyes open about three-tenths (三分眼) — a soft slit, neither shut nor wide — and let the gaze rest down along the line of the nose, as if lightly watching its tip, without focusing on anything. Closed eyes invite dullness and daydreams; wide eyes invite restlessness. Three-tenths open keeps the mind awake and still.</p></li>
+          <li data-pt="1" data-rv><h4>Legs <span class="zh">· 雙足跏趺</span></h4><p>Sit on a cushion with the hips a little higher than the knees, and cross the legs — full lotus, half lotus, or simply cross-legged, whichever you can hold without strain. If the legs won't allow it, a chair is a legitimate seat (see the questions below).</p></li>
+          <li data-pt="2" data-rv style="transition-delay:.04s"><h4>Hands <span class="zh">· 手結定印</span></h4><p>Rest the hands in the lap, a few finger-widths below the navel, the left palm resting on the right, the thumb-tips lightly touching to make a small oval. Let the arms hang loose, a little space under the armpits.</p></li>
+          <li data-pt="3" data-rv style="transition-delay:.08s"><h4>Spine <span class="zh">· 脊背正直</span></h4><p>Straight, like a stack of golden coins — upright but not stiff. Keep the natural curve of the lower back; don't tuck under and don't slump.</p></li>
+          <li data-pt="4" data-rv style="transition-delay:.12s"><h4>Shoulders <span class="zh">· 肩平張</span></h4><p>Let the shoulders open evenly to both sides, broad and level, like wings gently spread. The chest stays open — never hunched forward, never forced stiffly back.</p></li>
+          <li data-pt="5" data-rv style="transition-delay:.16s"><h4>Neck &amp; chin <span class="zh">· 頸微俯</span></h4><p>Lengthen the back of the neck and tuck the chin slightly, so the neck curves a little forward. The head stays balanced on top of the spine, as if the crown were lifted by a thread.</p></li>
+          <li data-pt="6" data-rv style="transition-delay:.2s"><h4>Tongue <span class="zh">· 舌抵上顎</span></h4><p>Rest the tip of the tongue lightly against the upper palate, just behind the front teeth. It keeps the jaw soft and the mouth from drying out. Lips gently closed; breathe naturally through the nose.</p></li>
+          <li data-pt="7" data-rv style="transition-delay:.24s"><h4>Eyes <span class="zh">· 眼觀鼻端 · 三分眼</span></h4><p>Keep the eyes open about three-tenths (三分眼) — a soft slit, neither shut nor wide — and let the gaze rest down along the line of the nose, as if lightly watching its tip, without focusing on anything. Closed eyes invite dullness and daydreams; wide eyes invite restlessness. Three-tenths open keeps the mind awake and still.</p></li>
         </ol>
       </div>
     </div>
   </section>
+
+  <script>
+  (function(){
+    var w=document.getElementById('mbStatue'); if(!w) return;
+    var dots=w.querySelectorAll('.mb-dot'), lines=w.querySelectorAll('[data-line]'),
+        items=document.querySelectorAll('.mb-points li[data-pt]');
+    function set(n){
+      dots.forEach(function(d){d.classList.toggle('on',d.getAttribute('data-pt')===n);});
+      items.forEach(function(li){li.classList.toggle('on',li.getAttribute('data-pt')===n);});
+      lines.forEach(function(l){l.classList.toggle('on',l.getAttribute('data-line')===n);});
+    }
+    dots.forEach(function(d){
+      var n=d.getAttribute('data-pt');
+      d.addEventListener('mouseenter',function(){set(n);});
+      d.addEventListener('focus',function(){set(n);});
+      d.addEventListener('click',function(){
+        set(n);
+        if(window.matchMedia('(max-width:859px)').matches){
+          var li=document.querySelector('.mb-points li[data-pt="'+n+'"]');
+          if(li) li.scrollIntoView({behavior:'smooth',block:'center'});
+        }
+      });
+    });
+    items.forEach(function(li){
+      var n=li.getAttribute('data-pt');
+      li.addEventListener('mouseenter',function(){set(n);});
+      li.addEventListener('click',function(){set(n);});
+    });
+  })();
+  </script>
 
   <!-- BREATH -->
   <section class="mb-sec white">
