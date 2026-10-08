@@ -106,6 +106,28 @@ excerpt: Every month we gather on Fengguidou mountain for a day of recitation an
   .de-btn{display:inline-block;background:#c9912f;color:#231a08;font-weight:700;font-size:16px;letter-spacing:.01em;padding:15px 32px;border-radius:8px;text-decoration:none;transition:transform .2s ease,background .2s ease;box-shadow:0 14px 30px -12px rgba(0,0,0,.5);}
   .de-btn:hover{background:#dca63f;transform:translateY(-2px);text-decoration:none;}
   .de-join .meta{margin-top:22px;font-size:14px;color:#cdd3cf;letter-spacing:.01em;}
+  /* ---- CHANTING BOOK entry card ---- */
+  .de-book{padding:0 0 88px;background:#fff;}
+  .de-book-card{max-width:1028px;margin:0 26px;display:grid;grid-template-columns:1fr;gap:26px;align-items:center;
+    background:linear-gradient(135deg,#2a1710 0%,#5c2412 52%,#8c2f12 100%);color:#fff;border-radius:18px;padding:38px 32px;
+    text-decoration:none;position:relative;overflow:hidden;box-shadow:0 34px 60px -30px rgba(140,47,18,.75);
+    transition:transform .3s ease,box-shadow .3s ease;}
+  @media(min-width:1080px){.de-book-card{margin:0 auto;}}
+  @media(min-width:800px){.de-book-card{grid-template-columns:1.5fr 1fr;padding:48px 52px;gap:44px;}}
+  .de-book-card:hover{transform:translateY(-5px);box-shadow:0 44px 70px -30px rgba(140,47,18,.85);text-decoration:none;color:#fff;}
+  .de-book-card::after{content:"佛";position:absolute;right:-18px;bottom:-70px;font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;font-size:300px;line-height:1;color:rgba(255,255,255,.05);pointer-events:none;}
+  .de-book-card .eyebrow{color:#f0c98a;letter-spacing:.2em;font-size:12.5px;text-transform:uppercase;font-weight:700;}
+  .de-book-card h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);line-height:1.08;color:#fff;margin:12px 0 6px;}
+  .de-book-card .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;font-size:18px;letter-spacing:.28em;color:#f3d9a8;}
+  .de-book-card p{font-size:17.5px;line-height:1.66;color:#f1e9e2;margin:16px 0 22px;max-width:520px;}
+  .de-book-cta{display:inline-block;background:#f0c98a;color:#2a1710;font-weight:700;font-size:16px;padding:14px 28px;border-radius:8px;transition:background .2s ease;}
+  .de-book-card:hover .de-book-cta{background:#fbe0ae;}
+  .de-book-sample{position:relative;z-index:1;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);border-radius:12px;padding:22px 20px;text-align:center;}
+  .de-book-sample .row{display:flex;justify-content:center;gap:6px;}
+  .de-book-sample .row span{display:flex;flex-direction:column;align-items:center;min-width:1.7em;}
+  .de-book-sample b{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;font-weight:500;font-size:28px;color:#fff;line-height:1.25;}
+  .de-book-sample i{font-style:normal;font-size:12.5px;color:#f0c98a;line-height:1.3;}
+  .de-book-sample .en{margin-top:14px;padding-top:12px;border-top:1px solid rgba(255,255,255,.18);font-size:15px;line-height:1.5;color:#f1e9e2;font-style:italic;}
 </style>
 
 <!-- ===== HERO ===== -->
@@ -133,6 +155,23 @@ excerpt: Every month we gather on Fengguidou mountain for a day of recitation an
       <span class="de-pill">Free · open to everyone</span>
     </div>
   </div>
+</section>
+
+<!-- ===== CHANTING BOOK ENTRY ===== -->
+<section class="de-book">
+  <a class="de-book-card" href="{{ '/community/dharma-events/liturgy/' | relative_url }}" data-reveal>
+    <div style="position:relative;z-index:1">
+      <div class="eyebrow">New · Chanting Book</div>
+      <h2>Chant along with us.</h2>
+      <div class="zh">念佛法會儀軌</div>
+      <p>Everything we chant on a retreat day, from the 5:00 AM morning service to the last session of the afternoon — in Chinese, with pinyin under every character and the meaning in plain English.</p>
+      <span class="de-book-cta">Open the chanting book →</span>
+    </div>
+    <div class="de-book-sample" aria-hidden="true">
+      <div class="row"><span><b>南</b><i>ná</i></span><span><b>無</b><i>mó</i></span><span><b>阿</b><i>ā</i></span><span><b>彌</b><i>mí</i></span><span><b>陀</b><i>tuó</i></span><span><b>佛</b><i>fó</i></span></div>
+      <div class="en">“Homage to Amitābha Buddha”</div>
+    </div>
+  </a>
 </section>
 
 <!-- ===== SCHEDULE ===== -->
