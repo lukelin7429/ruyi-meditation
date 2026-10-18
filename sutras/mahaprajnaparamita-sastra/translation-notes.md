@@ -53,6 +53,13 @@ Preferred translation:
 
 > Sutra: Thus have I heard: at one time.
 
+## Translation progress — 2026-10-18
+
+- Fascicle 8 now ends at 「皆蒙解脫得生天上，是名為戲。」 in the explanation of the samādhi called Lion's Play.
+- Resume with 「問曰：佛何以故入此三昧？」 and 「答曰：欲動三千大千世界，出三惡道眾生，著二道中故。」
+- This update translated 1,634 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. All 27 Chinese paragraphs were checked in sequence against CBETA XML, Taishō T25, no. 1509.
+- The Viṣṇu and Brahmā account is translated as part of the treatise's explanation of following worldly convention; do not present it as an added editorial account of Buddhist creation doctrine.
+
 ## Translation progress — 2026-10-17
 
 - Fascicle 7 is complete, ending with the explanation of light from all the pores: 「笑因緣，如上說。」
