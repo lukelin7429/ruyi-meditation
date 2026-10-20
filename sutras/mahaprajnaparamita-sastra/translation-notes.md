@@ -53,6 +53,13 @@ Preferred translation:
 
 > Sutra: Thus have I heard: at one time.
 
+## Translation progress — 2026-10-20
+
+- Fascicle 8 now ends with the verse 「有念墮魔網，無念則得出；心動故非道，不動是法印。」
+- Resume with 「〖經〗是諸天人自識宿命，皆大歡喜，來詣佛所頭面禮佛足，却住一面。」
+- This update translated 1,615 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. All 33 Chinese paragraphs were checked in sequence against CBETA XML, Taishō T25, no. 1509.
+- The lunar-mansion and earthquake account remains attributed to 「有人言」. Chinese mansion names accompany their romanizations to distinguish names that share the same spelling.
+
 ## Translation progress — 2026-10-18
 
 - Fascicle 8 now ends at 「皆蒙解脫得生天上，是名為戲。」 in the explanation of the samādhi called Lion's Play.
