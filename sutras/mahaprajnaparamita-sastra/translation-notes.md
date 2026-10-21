@@ -53,6 +53,13 @@ Preferred translation:
 
 > Sutra: Thus have I heard: at one time.
 
+## Translation progress — 2026-10-21
+
+- Fascicle 8 now ends at 「復次，有人貧窮無衣，或弊衣藍縷，以佛力故，令其得衣。」
+- Resume with 「問曰：「飢者得飽，渴者得飲」，云何飢渴？」
+- This update translated 1,813 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. All 37 Chinese paragraphs were checked in sequence against CBETA XML, Taishō T25, no. 1509.
+- Chinese romanizations with source characters are retained for Aluopo (阿羅婆), Shenajia (闍那迦), and Chishega Gautamī (翅舍伽憍曇), rather than silently supplying uncertain Indic reconstructions.
+
 ## Translation progress — 2026-10-20
 
 - Fascicle 8 now ends with the verse 「有念墮魔網，無念則得出；心動故非道，不動是法印。」
