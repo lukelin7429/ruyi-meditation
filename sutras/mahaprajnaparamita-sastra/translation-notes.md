@@ -53,6 +53,13 @@ Preferred translation:
 
 > Sutra: Thus have I heard: at one time.
 
+## Translation progress — 2026-10-22
+
+- Fascicle 8 now ends at 「後三雖非業，能起業；又復為業故生，是故總名業道。」
+- Resume with 「「淨修梵行，無諸瑕穢」者。問曰：上說行十善業道，此理已足，今何以復言「淨修梵行」？」
+- This update translated 1,747 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. All 30 Chinese paragraphs were checked in sequence against CBETA XML, Taishō T25, no. 1509.
+- Jiandi (犍抵) is kept in Chinese romanization rather than an uncertain Indic reconstruction. The ten courses distinguish the first seven, which are karma, from the final three mental courses, following the treatise's question and answer.
+
 ## Translation progress — 2026-10-21
 
 - Fascicle 8 now ends at 「復次，有人貧窮無衣，或弊衣藍縷，以佛力故，令其得衣。」
