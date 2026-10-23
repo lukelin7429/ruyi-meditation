@@ -53,6 +53,10 @@ Preferred translation:
 
 > Sutra: Thus have I heard: at one time.
 
+## Paragraph alignment — Fascicle 9
+
+Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
+
 ## Translation progress — 2026-10-23
 
 - Fascicle 8 is complete, ending at 「以是故言：「得好慧，持戒、自守，不嬈眾生。」」
