@@ -53,6 +53,14 @@ Preferred translation:
 
 > Sutra: Thus have I heard: at one time.
 
+## Translation progress — 2026-10-23
+
+- Fascicle 8 is complete, ending at 「以是故言：「得好慧，持戒、自守，不嬈眾生。」」
+- Fascicle 9 is in progress, ending at 「以有二種佛故，受諸罪無咎。」
+- Resume with 「復次，佛即得道時，一切不善法盡斷，一切善法皆成就，云何今實有不善法報可受？」
+- This update translated 1,712 Chinese characters: 1,021 in fascicle 8 and 691 in fascicle 9, excluding punctuation, whitespace, and sutra/treatise markers. All 28 Chinese paragraphs were checked in sequence against CBETA XML, Taishō T25, no. 1509.
+- Translate 法性身 as "body of Dharma nature" and 父母生身 as "body born of parents," preserving this passage's own distinction.
+
 ## Translation progress — 2026-10-22
 
 - Fascicle 8 now ends at 「後三雖非業，能起業；又復為業故生，是故總名業道。」
