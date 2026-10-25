@@ -57,6 +57,13 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-10-25
+
+- Fascicle 9 now ends at 「乃至淨居亦復如是。」 after the explanation of the deva abodes.
+- Resume with 「如是諸天見佛身清淨、大光明淨，持諸供具水陸諸華——陸地生華須漫提為第一，水中生華青蓮華為第一。」
+- This update translated 1,584 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. The Chinese text is a continuous match to CBETA XML, Taishō T25, no. 1509.
+- All 24 new paragraph pairs use one Chinese paragraph and one English paragraph per `translation-row`, continuing the fascicle 9 alignment rule above.
+
 ## Translation progress — 2026-10-23
 
 - Fascicle 8 is complete, ending at 「以是故言：「得好慧，持戒、自守，不嬈眾生。」」
