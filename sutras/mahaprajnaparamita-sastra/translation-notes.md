@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-10-26 (continued)
+
+- Fascicle 9 now ends at 「復次，佛智慧力、方便、神通，舍利弗等大阿羅漢、大菩薩彌勒等尚不能知，何況凡人！」
+- Resume with 「復次，諸佛大菩薩，有時眾生恐懼急難，一心念，或時來度之。」
+- This update translated 2,290 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers, including the original inline gloss on 離越 and 隸跋陀. The complete Chinese addition is a continuous match to CBETA XML, Taishō T25, no. 1509.
+- All 36 new paragraph pairs use one Chinese paragraph and one English paragraph per `translation-row`, preserving aligned paragraph starts and blank space beneath the shorter paragraph.
+- This passage covers the four reliances, arguments for Buddhas in the ten directions, and why beings may not see them. Preserve the distinction between an objection and its reply. Retain Chinese romanizations for uncertain names, including Duochi, Yier, Jibin, and Libatuo.
+
 ## Translation progress — 2026-10-26
 
 - Fascicle 9 now ends at 「然眾生不盡，以是故應更有餘佛。」, the first reply to the objection that Śākyamuni alone is sufficient.
