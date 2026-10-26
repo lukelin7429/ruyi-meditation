@@ -57,6 +57,15 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-10-26
+
+- Fascicle 9 now ends at 「然眾生不盡，以是故應更有餘佛。」, the first reply to the objection that Śākyamuni alone is sufficient.
+- Resume with 「復次，汝言：「佛自說：女人不得作五事；二轉輪聖王不得同時出世，佛亦如是，同時一世亦無二佛。」汝不解此義！」, followed by the four reliances.
+- This update translated 2,650 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers, including the original inline glosses. The Chinese text is a continuous match to CBETA XML, Taishō T25, no. 1509, with navigation metadata and the section heading excluded from the comparison and count.
+- All 52 new paragraph pairs use one Chinese paragraph and one English paragraph per `translation-row`. Part Fifteen is identified in its section heading.
+- Preserve original `<note place="inline">` content when extracting the source; editorial apparatus and navigation metadata may be removed. This includes the gloss on bodhisattva jewels, the older name of Dīpaṃkara, and the name meanings introduced by 秦言. Do not strip these original inline explanations along with the apparatus.
+- The long argument for a single Buddha remains explicitly framed as an objection, followed by the treatise's reply; it must not be presented as the treatise's final position.
+
 ## Translation progress — 2026-10-25
 
 - Fascicle 9 now ends at 「乃至淨居亦復如是。」 after the explanation of the deva abodes.
