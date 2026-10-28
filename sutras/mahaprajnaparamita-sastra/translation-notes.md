@@ -57,6 +57,16 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-10-28
+
+- Fascicle 9 is complete, ending at 「是故問佛：「大德！何因何緣有此大光明、地大震動，又見佛身？」」.
+- Fascicle 10 is now available and ends at 「是諸菩薩三昧中得自在，佛三昧中少多入，而未得自在故耳。」
+- Resume with 「〖經〗佛告普明：「欲往隨意，宜知是時。」爾時，寶積佛以千葉金色蓮華與普明菩薩而告之曰」 at T25, 0128c02.
+- This update translated 2,280 Chinese characters: 770 in fascicle 9 and 1,510 in fascicle 10, excluding punctuation, whitespace, and sutra/treatise markers. Each fascicle's addition is a continuous match to CBETA XML, Taishō T25, no. 1509. Original inline notes are retained; fascicle headings and author/translator credits are not counted.
+- All 44 new paragraph pairs (17 in fascicle 9, 27 in fascicle 10) use one Chinese paragraph and one English paragraph per `translation-row`. Apply the paragraph-start alignment rule to fascicle 10 and subsequent fascicles as well as fascicle 9.
+- Continue using Jewel Accumulation for 寶積佛, matching the earlier explanation of his name; use Universal Radiance for 普明. Preserve the inline explanation that 遍吉 and 普賢 refer to Samantabhadra. Accounts of appearances and relics remain the treatise's narrated accounts.
+- The index links to fascicle 10; fascicle 9 links forward to 10, and 10 links back to 9. Fascicle 10 continues Part Fifteen.
+
 ## Translation progress — 2026-10-26 (continued)
 
 - Fascicle 9 now ends at 「復次，佛智慧力、方便、神通，舍利弗等大阿羅漢、大菩薩彌勒等尚不能知，何況凡人！」
