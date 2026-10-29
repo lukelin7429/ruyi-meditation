@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-10-29
+
+- Fascicle 10 now ends at 「以是事故，是娑婆世界中菩薩難近。」, completing the explanation of why bodhisattvas of Sahā are difficult to surpass or approach.
+- Resume with 「〖經〗爾時，普明菩薩從寶積佛受千葉金色蓮花，與無數出家、在家菩薩，及諸童男、童女，俱共發引。」 at T25, 0130a20.
+- This update translated 2,137 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. The entire Chinese addition is a continuous match to CBETA XML, Taishō T25, no. 1509, from 0128c02 through 0130a19, including the original inline gloss on Buddha jewels.
+- All 48 new paragraph pairs use one Chinese paragraph and one English paragraph per `translation-row`, with aligned paragraph starts and space beneath the shorter cell. Continue this rule in future updates.
+- Preserve the question-and-answer sequence concerning offerings and merit. The accounts of the blind monk and Upagupta, and the comparison between pleasant worlds and Sahā, remain the treatise's accounts. Translate 信 in the discussion of a messenger's gift as a token; distinguish this from faith elsewhere.
+
 ## Translation progress — 2026-10-28
 
 - Fascicle 9 is complete, ending at 「是故問佛：「大德！何因何緣有此大光明、地大震動，又見佛身？」」.
