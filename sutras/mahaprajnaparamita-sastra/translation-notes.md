@@ -57,6 +57,15 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-10-31
+
+- Fascicle 10 now ends at 「以是故，雖不求果而行等供養。」, after the explanation of offerings to inferiors, superiors, and equals and the account of Mahāprajāpatī's funeral.
+- Resume with 「復次，唯佛應供養佛，餘人不知佛德。如偈說」 at T25, 0132a14.
+- This update translated 2,668 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers. The entire Chinese addition is a continuous match to CBETA XML, Taishō T25, no. 1509, from 0130a20 into 0132a14. Count supplementary CJK characters, including 𧂐, as one character each.
+- All 58 new paragraph pairs use one Chinese paragraph and one English paragraph per `translation-row`; preserve aligned starts and blank space beneath the shorter paragraph.
+- The greeting passage distinguishes bodily health, strength, and mental peace. Retain both types of Buddha body as this passage states them: a body manifested through supernatural power and a body born of parents.
+- Preserve the treatise's narrative framing of Medicine King's offering and its analogy of bodily illness; these are translated source passages. Use Daerjia (達貳迦) and Mount Moli (摩梨) rather than supplying uncertain Indic names.
+
 ## Translation progress — 2026-10-29
 
 - Fascicle 10 now ends at 「以是事故，是娑婆世界中菩薩難近。」, completing the explanation of why bodhisattvas of Sahā are difficult to surpass or approach.
