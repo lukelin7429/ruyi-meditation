@@ -57,6 +57,16 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-01
+
+- Fascicle 10 now ends at 「如是等種種眾寶，以除眾生貧窮苦厄。」 in the explanation of human, heavenly, and bodhisattva jewels.
+- Resume with 「問曰：是諸珍寶從何處出？答曰：金出山石沙赤銅中」 at T25, 0134a17.
+- This update translated 2,600 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers, counting supplementary CJK characters as single characters. The complete addition is a continuous match to CBETA XML, Taishō T25, no. 1509, from within 0132a14 into 0134a17.
+- All 59 new paragraph pairs use one Chinese paragraph and one English paragraph per `translation-row`, with aligned starts and space beneath the shorter paragraph.
+- Preserve original inline glosses on red pearls and the named jewels. The definitions and powers of jewels remain the source's account. Keep vaiḍūrya as a traditional gem name rather than imposing an uncertain modern mineral identification.
+- The discussion of directions contains an opponent's argument invoking six categories and dravya, followed by the treatise's reply. Keep both sides and the source's cosmological examples distinct. The conventional use of directions does not imply an independently real directional substance.
+- The verses give the Buddha's titles in sequence; translate their meanings consistently with the prose and retain the stanza-by-stanza Chinese-English pairing. Use Yiyi (儀意) rather than an uncertain Indic reconstruction.
+
 ## Translation progress — 2026-10-31
 
 - Fascicle 10 now ends at 「以是故，雖不求果而行等供養。」, after the explanation of offerings to inferiors, superiors, and equals and the account of Mahāprajāpatī's funeral.
