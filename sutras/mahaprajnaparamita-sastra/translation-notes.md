@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-03
+
+- Fascicle 10 is complete, ending at 「及諸菩薩紹尊位者，如先說。」 The final addition runs from within T25, 0134a17 to 0135c28.
+- Fascicle 11 opens Part Sixteen and currently ends with the verse 「於十六分中，猶尚不及一。」 Resume at T25, 0136a14: 「復次，舍利弗智慧多聞，有大功德。年始八歲，誦十八部經，通解一切經書義理。」
+- Translated 2,545 Chinese characters: 2,463 in fascicle 10 and 82 in fascicle 11, excluding punctuation, whitespace, and sutra/treatise markers. Both passages were checked as continuous matches against CBETA XML. The 53 new paragraph pairs retain the individual `translation-row` layout.
+- Preserve the inline glosses on the fragrant and flowering trees and the meaning of 童籠磨. Keep the treatise's accounts and opposing arguments on the five and six destinies distinct.
+- The index links to both fascicles, and fascicles 10 and 11 link to each other.
+
 ## Translation progress — 2026-11-01
 
 - Fascicle 10 now ends at 「如是等種種眾寶，以除眾生貧窮苦厄。」 in the explanation of human, heavenly, and bodhisattva jewels.
