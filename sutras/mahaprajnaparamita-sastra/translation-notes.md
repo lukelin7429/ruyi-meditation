@@ -57,6 +57,15 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-05
+
+- Fascicle 11 now ends with 「問曰：云何名『一切種』？云何名『一切法』？」 at T25, 0137c29.
+- Resume with 「答曰：智慧門名為『種』。有人以一智慧門觀，有以二、三、十、百、千、萬乃至恒河沙等阿僧祇智慧門觀諸法。」 at 0137c29–0138a02.
+- This update translated 2,519 Chinese characters, excluding punctuation, whitespace, and sutra/treatise markers, retaining original inline glosses. The complete addition is a continuous match to CBETA XML from 0136a14 into 0137c29.
+- All 43 new paragraph pairs preserve individual `translation-row` alignment. The passage covers Śāriputra and Maudgalyāyana's search, Aśvajit's verse, Subhūti's contemplation, Śāriputra's family and names, and the next sutra instruction.
+- Keep the inline explanations of Aśvajit, Kauṣṭhila, Upatiṣya, and putra. Translate 秦言 as a meaning gloss, never literally as “in Qin.” Retain Jili, Agaluo, and Matuoluo where the Indic reconstruction is uncertain.
+- The source's account of the queen's death remains attributed to Sañjaya; the account of Flower Color's transformation and the comments about women remain within the translated narrative.
+
 ## Translation progress — 2026-11-03
 
 - Fascicle 10 is complete, ending at 「及諸菩薩紹尊位者，如先說。」 The final addition runs from within T25, 0134a17 to 0135c28.
