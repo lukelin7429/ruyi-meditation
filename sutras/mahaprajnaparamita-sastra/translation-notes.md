@@ -57,6 +57,11 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-07
+
+- Added 2,814 Chinese characters in 39 aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. Continuous CBETA match verified from within 0137c29 into 0140a01, preserving inline glosses.
+- Fascicle 11 now ends at 「是名真實般若波羅蜜，最勝無過者。」 Resume with 「如轉輪聖王降伏諸敵而不自高；般若波羅蜜亦如是，能破一切語言戲論，亦不有所破。」
+- Preserve Part Seventeen's heading and distinguish the various attributed explanations of Prajñāpāramitā. Each paragraph retains one Chinese and one English cell in its own translation-row.
 ## Translation progress — 2026-11-05
 
 - Fascicle 11 now ends with 「問曰：云何名『一切種』？云何名『一切法』？」 at T25, 0137c29.
