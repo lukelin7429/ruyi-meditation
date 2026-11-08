@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-08
+
+- Added 2,945 Chinese characters in 28 aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers and counting supplementary CJK characters individually.
+- Continuous CBETA source match verified from within 0140a01 through part of 0142a13. The addition includes Parts Eighteen (benefits of giving) and Nineteen (the character of giving), with original inline annotations retained.
+- Fascicle 11 now ends at 「以是故言『難得之物盡用布施其福最多』。」 Resume with 「復次，有世間檀，有出世間檀；有聖人所稱譽檀，有聖人所不稱譽檀；有佛菩薩檀，有聲聞檀。」
+- Preserve individual translation-row pairs and blank space beneath shorter paragraphs. The account of the painter and his family is the treatise's narrative; preserve its dialogue and attribution.
+- Retain Chinese romanizations Qianna, Fuluojialuo, and Duochatuoluo rather than uncertain Indic reconstructions. Keep the original annotations on timely giving and virtuous givers and recipients.
+
 ## Translation progress — 2026-11-07
 
 - Added 2,814 Chinese characters in 39 aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. Continuous CBETA match verified from within 0137c29 into 0140a01, preserving inline glosses.
