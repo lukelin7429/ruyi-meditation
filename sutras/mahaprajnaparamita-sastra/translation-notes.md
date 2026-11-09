@@ -57,6 +57,13 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-09
+
+- Added 2,846 Chinese characters in 42 aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers, counting supplementary CJK characters individually. Continuous CBETA match verified from within 0142a13 into 0144b06.
+- Fascicle 11 now ends at 「比丘言：『此名為華，未是果也。』」 Resume with 「王言：『其果云何？願為演說！』答言：『果，略說有十，王諦聽之！』」 and the verses on the ten fruits of Dharma teaching.
+- Preserve the individual translation-row layout. Part Twenty begins with the definitions of Dharma-giving, followed by the account of King Aśoka and the fragrant-mouthed teacher.
+- The account of Velāma and the internal-giving former-birth stories remain translated narrative, with dialogue and attribution preserved. Retain Poluopo where the source differs from Vāsava, without silently harmonizing it.
+
 ## Translation progress — 2026-11-08
 
 - Added 2,945 Chinese characters in 28 aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers and counting supplementary CJK characters individually.
