@@ -57,6 +57,13 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-10
+
+- Fascicle 11 is complete, ending at 「若不說六波羅蜜，則應具說四捨。」 Fascicle 12 now ends after Sarvadatta's gift of himself, at 「送與新王，大得財物。」
+- Resume in fascicle 12 with 「亦如月光太子，出行遊觀。癩人見之要車」.
+- Added 2,580 Chinese characters: 766 in fascicle 11 and 1,814 in fascicle 12, excluding punctuation, whitespace, and textual-layer markers. Both additions are continuous matches to CBETA XML, retaining original inline glosses.
+- All 27 new paragraph pairs use individual translation-row elements. Fascicle 12 inherits the aligned paragraph-start layout. Both fascicles are linked from the index and link to each other.
+- Preserve the source's distinction between the other shore of śrāvakas and the perfection of giving, and its etymological glosses of pāramitā, Sudāna, and Sarvadatta. The internal-giving stories remain attributed source narratives.
 ## Translation progress — 2026-11-09
 
 - Added 2,846 Chinese characters in 42 aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers, counting supplementary CJK characters individually. Continuous CBETA match verified from within 0142a13 into 0144b06.
