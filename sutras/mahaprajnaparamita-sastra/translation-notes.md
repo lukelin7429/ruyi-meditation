@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-12
+
+- Added 2,554 Chinese characters in 29 individually aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. The complete addition is a continuous CBETA match from within 0146b11 into 0148a26, with original inline glosses retained.
+- Fascicle 12 ends at 「分分求之，亦不可得。」 in the first explanation that the giver cannot be apprehended. Resume with 「復次，一切眾、界、入中，我不可得，我不可得故，施人不可得。」
+- Preserve the distinction between an objection asserting the reality of cloth or atoms and the treatise's replies. The three kinds of existence and the contemplative examples are part of this developing argument.
+- The Moonlight, six-tusked elephant, and bird narratives remain attributed source accounts. Keep name-meaning glosses for Aśoka and zhuli; do not render 秦言 literally.
+- Each Chinese paragraph and English counterpart uses its own translation-row, retaining top alignment and blank space beneath shorter cells.
+
 ## Translation progress — 2026-11-10
 
 - Fascicle 11 is complete, ending at 「若不說六波羅蜜，則應具說四捨。」 Fascicle 12 now ends after Sarvadatta's gift of himself, at 「送與新王，大得財物。」
