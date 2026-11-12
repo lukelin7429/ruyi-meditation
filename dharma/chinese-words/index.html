@@ -1,0 +1,191 @@
+---
+layout: default
+title: Chinese Dharma Words
+permalink: /dharma/chinese-words/
+excerpt: Essential Buddhist words in Chinese, with characters, pinyin, Taiwanese Mandarin pronunciation, and English meanings. Start with the Three Jewels, 佛 法 僧. Ru-Yi Academy.
+---
+
+<style>
+  .dw{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;--gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--paper:#fffdf9;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;--bad:#a3402e;--bad-soft:#f7e3dd;--good-soft:#e2efe9;
+      --han:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei","Noto Sans TC",sans-serif;}
+  .dw *{box-sizing:border-box;}
+  .dw{color:var(--ink);}
+  .dw-wrap{max-width:980px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-left,0px)) 0 max(16px,env(safe-area-inset-right,0px));}
+  .dw-hero{background:var(--maroon-deep);color:var(--cream);padding:56px 0 44px;position:relative;overflow:hidden;}
+  .dw-hero::after{content:"佛 法 僧";position:absolute;right:-10px;bottom:-40px;font-family:var(--han);font-size:150px;font-weight:700;letter-spacing:.1em;color:rgba(227,183,101,.10);white-space:nowrap;pointer-events:none;}
+  .dw-eyebrow{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:0 0 12px;}
+  .dw-hero h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(32px,5vw,46px);line-height:1.1;margin:0 0 14px;color:#fff;text-wrap:balance;}
+  .dw-hero p{max-width:640px;font-size:18px;line-height:1.6;margin:0;color:#f3e6d2;}
+  .dw-bar{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--line);}
+  .dw-bar .dw-wrap{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;justify-content:space-between;padding-block:12px;}
+  .dw-tabs,.dw-voice{display:flex;gap:6px;flex-wrap:wrap;align-items:center;}
+  .dw-voice span{font-size:14px;color:var(--ink-soft);margin-right:4px;}
+  .dw-pill{border:1px solid var(--line);background:#fff;color:var(--ink-soft);border-radius:999px;padding:7px 14px;font:inherit;font-size:15px;cursor:pointer;transition:all .15s ease;}
+  .dw-pill:hover{border-color:var(--saffron);color:var(--saffron-deep);}
+  .dw-pill[aria-pressed="true"]{background:var(--jade);border-color:var(--jade);color:#fff;}
+  .dw-pill:focus-visible,.dw-play:focus-visible,.dw-opt:focus-visible{outline:3px solid var(--gold);outline-offset:2px;}
+  .dw-sec{padding:40px 0 8px;}
+  .dw-sec h2{font-family:Georgia,serif;font-size:28px;margin:0 0 6px;color:var(--maroon);}
+  .dw-sec .dw-sub{color:var(--ink-soft);margin:0 0 22px;font-size:17px;}
+  .dw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;}
+  .dw-card{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:18px 18px 16px;display:grid;gap:6px;align-content:start;transition:transform .18s ease,box-shadow .18s ease;animation:dwIn .4s ease both;}
+  .dw-card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(61,23,18,.10);}
+  .dw-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .dw-han{font-family:var(--han);font-size:44px;line-height:1.1;font-weight:600;color:var(--maroon-deep);}
+  .dw-han.long{font-size:34px;}
+  .dw-py{font-size:19px;color:var(--saffron-deep);font-style:italic;}
+  .dw-en{font-size:17px;font-weight:600;color:var(--ink);}
+  .dw-src{font-size:13.5px;color:var(--jade);}
+  .dw-note{font-size:14.5px;color:var(--ink-soft);line-height:1.5;}
+  .dw-play{flex:none;width:46px;height:46px;border-radius:50%;border:0;background:var(--saffron);color:#fff;cursor:pointer;display:grid;place-items:center;transition:transform .12s ease,background .12s ease;}
+  .dw-play:hover{background:var(--saffron-deep);transform:scale(1.06);}
+  .dw-play.on{animation:dwPulse .9s ease infinite;}
+  .dw-play svg{width:20px;height:20px;}
+  .dw-learned{font-size:13px;color:var(--jade);display:flex;gap:6px;align-items:center;cursor:pointer;user-select:none;margin-top:4px;}
+  .dw-learned input{accent-color:var(--jade);width:16px;height:16px;}
+  .dw-progress{font-size:15px;color:var(--ink-soft);font-variant-numeric:tabular-nums;}
+  .dw-progress b{color:var(--jade);}
+  .dw-practice{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:24px;display:grid;gap:16px;margin-bottom:48px;}
+  .dw-modes{display:flex;gap:8px;flex-wrap:wrap;}
+  .dw-q{display:grid;gap:14px;min-height:240px;align-content:start;}
+  .dw-qhead{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:14px;color:var(--ink-soft);letter-spacing:.04em;}
+  .dw-prompt{display:flex;gap:16px;align-items:center;flex-wrap:wrap;}
+  .dw-prompt .dw-han{font-size:56px;}
+  .dw-opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;}
+  .dw-opt{text-align:left;border:1px solid var(--line);background:#fff;border-radius:10px;padding:12px 14px;font:inherit;font-size:17px;cursor:pointer;transition:border-color .12s ease,background .12s ease;color:var(--ink);}
+  .dw-opt .h{font-family:var(--han);font-size:28px;color:var(--maroon-deep);}
+  .dw-opt:hover:not(:disabled){border-color:var(--saffron);}
+  .dw-opt.right{border-color:var(--jade);background:var(--good-soft);}
+  .dw-opt.wrong{border-color:var(--bad);background:var(--bad-soft);}
+  .dw-opt:disabled{cursor:default;}
+  .dw-fb{font-size:16px;color:var(--ink-soft);min-height:1.5em;}
+  .dw-btn{justify-self:start;border:0;background:var(--jade);color:#fff;border-radius:999px;padding:10px 20px;font:inherit;font-size:16px;cursor:pointer;}
+  .dw-btn:hover{background:var(--jade-deep);}
+  .dw-foot{font-size:14px;color:var(--ink-soft);padding:0 0 48px;line-height:1.6;}
+  @keyframes dwIn{from{transform:translateY(8px);}to{transform:none;}}
+  @keyframes dwPulse{50%{box-shadow:0 0 0 8px rgba(217,139,43,.18);}}
+  @media (prefers-reduced-motion: reduce){.dw *{animation:none!important;transition:none!important;}}
+  @media (max-width:520px){.dw-hero::after{font-size:96px;}.dw-han{font-size:40px;}}
+</style>
+
+<div class="dw">
+  <section class="dw-hero">
+    <div class="dw-wrap">
+      <p class="dw-eyebrow">Ru-Yi Academy · Chinese for Dharma students</p>
+      <h1>Chinese Dharma Words</h1>
+      <p>The essential Buddhist words in Chinese: how they are written, how they sound, and what they mean. Tap the button on any card to hear it spoken in Taiwanese Mandarin. Start with the Three Jewels: 佛 fó, 法 fǎ, 僧 sēng.</p>
+    </div>
+  </section>
+
+  <div class="dw-bar">
+    <div class="dw-wrap">
+      <div class="dw-tabs" role="group" aria-label="Level">
+        <button class="dw-pill" aria-pressed="true" data-level="1">Level 1 · The Three Jewels and first steps</button>
+      </div>
+      <div class="dw-voice" role="group" aria-label="Voice">
+        <span>Voice</span>
+        <button class="dw-pill" data-voice="f" aria-pressed="true">Female</button>
+        <button class="dw-pill" data-voice="m" aria-pressed="false">Male</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="dw-wrap">
+    <section class="dw-sec">
+      <h2>The words</h2>
+      <p class="dw-sub">Listen, say it aloud, then tick "I know this" when it sticks. <span class="dw-progress" id="dwProgress"></span></p>
+      <div class="dw-grid" id="dwGrid"></div>
+    </section>
+
+    <section class="dw-sec">
+      <h2>Practice</h2>
+      <p class="dw-sub">Ten quick questions, mixed each time.</p>
+      <div class="dw-practice">
+        <div class="dw-modes" role="group" aria-label="Practice mode">
+          <button class="dw-pill" data-mode="listen" aria-pressed="true">Listen and choose the word</button>
+          <button class="dw-pill" data-mode="meaning" aria-pressed="false">Read and choose the meaning</button>
+          <button class="dw-pill" data-mode="pinyin" aria-pressed="false">Read and choose the pinyin</button>
+        </div>
+        <div class="dw-q" id="dwQuiz" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <p class="dw-foot">Pronunciations are generated with Taiwanese Mandarin voices and checked by Ru-Yi teachers. Some words have a special Buddhist reading, such as 南無 ná mó (not nán wú); those are noted on the card. Your "I know this" marks are saved only in this browser.</p>
+  </div>
+</div>
+
+<script>
+(function () {
+  var TERMS = [{"id": "fo", "han": "佛", "py": "fó", "en": "Buddha", "src": "Pāli/Sanskrit: Buddha", "note": "The Awakened One. Short for 佛陀."}, {"id": "fa", "han": "法", "py": "fǎ", "en": "Dharma; the teaching", "src": "Pāli: Dhamma · Sanskrit: Dharma", "note": "The Buddha's teaching, and the truth it points to."}, {"id": "seng", "han": "僧", "py": "sēng", "en": "Sangha; the monastic community", "src": "Pāli/Sanskrit: Saṅgha", "note": "The community of monks and nuns. On its own, 僧 can also mean a monk."}, {"id": "sanbao", "han": "三寶", "py": "sān bǎo", "en": "the Three Jewels", "src": "Pāli: tiratana · Sanskrit: triratna", "note": "The Buddha, the Dharma, and the Sangha. 寶 means treasure or jewel."}, {"id": "guiyi", "han": "皈依", "py": "guī yī", "en": "taking refuge", "src": "Pāli: saraṇagamana", "note": "Going to the Three Jewels for refuge: the step that makes one a Buddhist."}, {"id": "fotuo", "han": "佛陀", "py": "fó tuó", "en": "the Buddha", "src": "Pāli/Sanskrit: Buddha", "note": "The full sound-transliteration of Buddha; 佛 is its short form."}, {"id": "pusa", "han": "菩薩", "py": "pú sà", "en": "bodhisattva", "src": "Sanskrit: bodhisattva · Pāli: bodhisatta", "note": "One who seeks awakening for the benefit of all beings."}, {"id": "puti", "han": "菩提", "py": "pú tí", "en": "awakening; enlightenment", "src": "Pāli/Sanskrit: bodhi", "note": "The awakening the Buddha attained under the Bodhi tree, 菩提樹 pú tí shù."}, {"id": "fashi", "han": "法師", "py": "fǎ shī", "en": "Dharma master", "src": "a Chinese title", "note": "A respectful title for a monk or nun who teaches the Dharma; it follows the name."}, {"id": "biqiu", "han": "比丘", "py": "bǐ qiū", "en": "monk (fully ordained)", "src": "Pāli: bhikkhu · Sanskrit: bhikṣu", "note": "A man who has received full monastic ordination."}, {"id": "biqiuni", "han": "比丘尼", "py": "bǐ qiū ní", "en": "nun (fully ordained)", "src": "Pāli: bhikkhunī · Sanskrit: bhikṣuṇī", "note": "A woman who has received full monastic ordination."}, {"id": "jing", "han": "經", "py": "jīng", "en": "sutra; scripture", "src": "Pāli: sutta · Sanskrit: sūtra", "note": "A discourse of the Buddha. 經 also means 'classic' or 'to pass through.'"}, {"id": "jie", "han": "戒", "py": "jiè", "en": "precept; ethical conduct", "src": "Pāli: sīla · Sanskrit: śīla", "note": "The first of the three trainings: conduct, concentration, wisdom (戒定慧)."}, {"id": "wujie", "han": "五戒", "py": "wǔ jiè", "en": "the five precepts", "src": "Pāli: pañcasīla", "note": "Not killing, stealing, sexual misconduct, lying, or taking intoxicants."}, {"id": "chanxiu", "han": "禪修", "py": "chán xiū", "en": "meditation practice", "src": "Pāli: bhāvanā", "note": "禪 comes from Pāli jhāna / Sanskrit dhyāna; 修 means to cultivate."}, {"id": "cibei", "han": "慈悲", "py": "cí bēi", "en": "loving-kindness and compassion", "src": "Pāli: mettā, karuṇā", "note": "慈 wishes beings happiness; 悲 wishes them free from suffering."}, {"id": "nianfo", "han": "念佛", "py": "niàn fó", "en": "recollecting the Buddha", "src": "Pāli: buddhānussati", "note": "Keeping the Buddha in mind, or reciting his name; central to Pure Land practice."}, {"id": "hezhang", "han": "合掌", "py": "hé zhǎng", "en": "joining the palms", "src": "Pāli/Sanskrit: añjali", "note": "Palms pressed together: a gesture of respect, greeting, and thanks."}, {"id": "namo", "han": "南無", "py": "ná mó", "en": "homage to; I take refuge in", "src": "Pāli/Sanskrit: namo", "note": "A Buddhist reading: ná mó, not the everyday nán wú.", "tts": "拿摩"}, {"id": "amituofo", "han": "阿彌陀佛", "py": "ā mí tuó fó", "en": "Amitābha Buddha", "src": "Sanskrit: Amitābha, Amitāyus", "note": "The Buddha of Infinite Light and Life. Also a greeting among Buddhists. Some say ē mí tuó fó."}];
+  var AUDIO = "{{ '/assets/audio/dharma-words/' | relative_url }}";
+  var voice = "f", mode = "listen", level = "1";
+  var LS = "ruyi-dharma-words-v1";
+  var known = {};
+  try { known = JSON.parse(localStorage.getItem(LS) || "{}") || {}; } catch (e) { known = {}; }
+  function saveKnown() { try { localStorage.setItem(LS, JSON.stringify(known)); } catch (e) {} }
+  var player = new Audio(), playingBtn = null;
+  player.addEventListener("ended", function () { if (playingBtn) playingBtn.classList.remove("on"); });
+  function play(id, btn) {
+    if (playingBtn) playingBtn.classList.remove("on");
+    player.src = AUDIO + id + "-" + voice + "-v1.mp3";
+    playingBtn = btn || null; if (btn) btn.classList.add("on");
+    var p = player.play(); if (p && p.catch) p.catch(function () { if (btn) btn.classList.remove("on"); });
+  }
+  var ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+
+  function renderGrid() {
+    var grid = document.getElementById("dwGrid"); grid.innerHTML = "";
+    TERMS.forEach(function (t, i) {
+      var card = document.createElement("article"); card.className = "dw-card"; card.style.animationDelay = (i * 25) + "ms";
+      card.innerHTML = '<div class="dw-top"><span class="dw-han' + (t.han.length > 3 ? " long" : "") + '" lang="zh-Hant">' + esc(t.han) + '</span>' +
+        '<button class="dw-play" aria-label="Play ' + esc(t.py) + '">' + ICON + '</button></div>' +
+        '<span class="dw-py">' + esc(t.py) + '</span><span class="dw-en">' + esc(t.en) + '</span>' +
+        '<span class="dw-src">' + esc(t.src) + '</span><span class="dw-note">' + esc(t.note) + '</span>' +
+        '<label class="dw-learned"><input type="checkbox"' + (known[t.id] ? " checked" : "") + '> I know this</label>';
+      card.querySelector(".dw-play").addEventListener("click", function (e) { play(t.id, e.currentTarget); });
+      card.querySelector("input").addEventListener("change", function (e) { if (e.target.checked) known[t.id] = 1; else delete known[t.id]; saveKnown(); renderProgress(); });
+      grid.appendChild(card);
+    });
+    renderProgress();
+  }
+  function renderProgress() {
+    var n = TERMS.filter(function (t) { return known[t.id]; }).length;
+    document.getElementById("dwProgress").innerHTML = "<b>" + n + "</b> of " + TERMS.length + " known.";
+  }
+
+  function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var x = a[i]; a[i] = a[j]; a[j] = x; } return a; }
+  var qs = [], k = 0, score = 0;
+  function startQuiz() { qs = shuffle(TERMS).slice(0, 10); k = 0; score = 0; askQ(); }
+  function askQ() {
+    var box = document.getElementById("dwQuiz");
+    if (k === qs.length) {
+      box.innerHTML = '<div class="dw-qhead"><span>Finished</span></div><p style="font-size:22px;margin:0"><b>' + score + '</b> of ' + qs.length + ' right.</p>' +
+        '<p class="dw-fb">' + (score === qs.length ? "Every one. Try another mode." : "Go back to the cards for the ones you missed, then try again.") + '</p><button class="dw-btn" id="dwAgain">Practice again</button>';
+      document.getElementById("dwAgain").addEventListener("click", startQuiz); return;
+    }
+    var t = qs[k], others = shuffle(TERMS.filter(function (x) { return x.id !== t.id; })).slice(0, 3), opts = shuffle([t].concat(others));
+    var prompt = mode === "listen" ? '<button class="dw-play" id="dwHear" aria-label="Play the word">' + ICON + '</button><span class="dw-fb">Listen, then choose the word you hear.</span>'
+      : '<span class="dw-han" lang="zh-Hant">' + esc(t.han) + '</span>';
+    var label = function (o) { return mode === "listen" ? '<span class="h" lang="zh-Hant">' + esc(o.han) + '</span>' : mode === "pinyin" ? esc(o.py) : esc(o.en); };
+    box.innerHTML = '<div class="dw-qhead"><span>Question ' + (k + 1) + ' of ' + qs.length + '</span><span>' + score + ' right</span></div>' +
+      '<div class="dw-prompt">' + prompt + '</div><div class="dw-opts">' + opts.map(function (o) { return '<button class="dw-opt" data-id="' + o.id + '">' + label(o) + '</button>'; }).join("") + '</div><div class="dw-fb" id="dwFb"></div>';
+    if (mode === "listen") { var hb = document.getElementById("dwHear"); hb.addEventListener("click", function () { play(t.id, hb); }); play(t.id, hb); }
+    box.querySelectorAll(".dw-opt").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var ok = b.dataset.id === t.id; if (ok) score++;
+        box.querySelectorAll(".dw-opt").forEach(function (x) { x.disabled = true; if (x.dataset.id === t.id) x.classList.add("right"); else if (x === b) x.classList.add("wrong"); });
+        var fb = document.getElementById("dwFb");
+        fb.innerHTML = (ok ? "Right: " : "It was ") + '<span lang="zh-Hant" style="font-family:var(--han)">' + esc(t.han) + "</span> " + esc(t.py) + ", " + esc(t.en) + '. <button class="dw-btn" id="dwNext" style="margin-left:8px">' + (k === qs.length - 1 ? "See result" : "Next") + "</button>";
+        if (mode !== "listen") play(t.id, null);
+        var nb = document.getElementById("dwNext"); nb.focus({ preventScroll: true }); nb.addEventListener("click", function () { k++; askQ(); });
+      });
+    });
+  }
+
+  function press(group, attr, val) { document.querySelectorAll("[" + attr + "]").forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute(attr) === val ? "true" : "false"); }); }
+  document.querySelectorAll("[data-voice]").forEach(function (b) { b.addEventListener("click", function () { voice = b.dataset.voice; press(null, "data-voice", voice); }); });
+  document.querySelectorAll("[data-mode]").forEach(function (b) { b.addEventListener("click", function () { mode = b.dataset.mode; press(null, "data-mode", mode); startQuiz(); }); });
+  renderGrid(); startQuiz();
+})();
+</script>
