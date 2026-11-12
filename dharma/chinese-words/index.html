@@ -82,11 +82,7 @@ excerpt: Essential Buddhist words in Chinese, with characters, pinyin, Taiwanese
       <div class="dw-tabs" role="group" aria-label="Level">
         <button class="dw-pill" aria-pressed="true" data-level="1">Level 1 · The Three Jewels and first steps</button>
       </div>
-      <div class="dw-voice" role="group" aria-label="Voice">
-        <span>Voice</span>
-        <button class="dw-pill" data-voice="f" aria-pressed="true">Female</button>
-        <button class="dw-pill" data-voice="m" aria-pressed="false">Male</button>
-      </div>
+      <p class="dw-progress" style="margin:0">Voice: Taiwanese Mandarin</p>
     </div>
   </div>
 
@@ -184,7 +180,6 @@ excerpt: Essential Buddhist words in Chinese, with characters, pinyin, Taiwanese
   }
 
   function press(group, attr, val) { document.querySelectorAll("[" + attr + "]").forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute(attr) === val ? "true" : "false"); }); }
-  document.querySelectorAll("[data-voice]").forEach(function (b) { b.addEventListener("click", function () { voice = b.dataset.voice; press(null, "data-voice", voice); }); });
   document.querySelectorAll("[data-mode]").forEach(function (b) { b.addEventListener("click", function () { mode = b.dataset.mode; press(null, "data-mode", mode); startQuiz(); }); });
   renderGrid(); startQuiz();
 })();
