@@ -31,7 +31,7 @@ Per this site's commentator-vetting convention, reading notes are grounded in a 
 | 7 | 無邊聖諦章第六 (the boundless noble truths); 如來藏章第七 (the tathāgatagarbha, named); 法身章第八 (the dharmakāya) | 917 characters |
 | 8 | 空義隱覆真實章第九 (the empty and not-empty tathāgatagarbha); 一諦章第十 (the one truth); 一依章第十一 (the one basis); 顛倒真實章第十二 (inverted views, and what is real) | 906 characters |
 | 9 | 自性清淨章第十三 (the naturally pure mind, and how it comes to be defiled); 真子章第十四 (the true child of the Buddha) | 938 characters |
-| 10 | 勝鬘章第十五 (Śrīmālā's own lion's roar; the sūtra's fourteen names; its transmission to Śakra and Ānanda) | 877 characters |
+| 10 | 勝鬘章第十五 (Śrīmālā's own lion's roar; the sūtra's fifteen names; its transmission to Śakra and Ānanda) | 877 characters |
 
 Total: roughly 10,200 characters, split at natural topic boundaries — most chapter divisions are the sūtra's own, but the very long Chapter Five is split into three parts (4, 5, 6 above) at the points where its own subject shifts from the One Vehicle itself, to the two kinds of death and four dwelling-grounds, to the closing lion's roar and the one refuge.
 
