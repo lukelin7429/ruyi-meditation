@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-14
+
+- Added 2,813 Chinese characters in 34 individually aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. The entire addition is a continuous CBETA match from within 0148a26 into 0150a27.
+- Fascicle 12 now ends at 「若菩薩行檀波羅蜜，能生六波羅蜜，是時，名為檀波羅蜜具足滿。」 Resume with 「云何布施生檀波羅蜜？檀有下、中、上：從下生中，從中生上。」
+- Preserve each Chinese-English pair in its own translation-row. The discussion alternates objections and replies about self, memory, karmic continuity, and liberation. Keep the distinction between a conventional person and an independently existing soul.
+- The Vinaya passage about killing oneself remains an attributed discussion of offense classification, including its explicit faults of delusion, craving, and anger; do not omit that qualification.
+- The reference to a seventh consciousness belongs to this particular six-consciousness argument. Do not recast it as a discussion of later Yogācāra doctrine.
+
 ## Translation progress — 2026-11-12
 
 - Added 2,554 Chinese characters in 29 individually aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. The complete addition is a continuous CBETA match from within 0146b11 into 0148a26, with original inline glosses retained.
