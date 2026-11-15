@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-15
+
+- Added 2,764 Chinese characters in 28 individually aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. Continuous CBETA source match verified from within 0150a27 into 0152a27.
+- Fascicle 12 now ends at 「如是等，名為菩薩布施生精進波羅蜜。」 Resume with 「云何菩薩布施生禪波羅蜜？菩薩布施時，能除慳貪。」
+- The addition covers giving developing giving, morality, patience, and diligence, including the prince Able to Give's quest for the wish-fulfilling jewel. Preserve narrative attribution and the distinction between past-life stories and the treatise's explanations.
+- Retain Tuoshe and Pojiatuo for uncertain Indic names; preserve the source's differing spellings of the dragon king rather than silently changing the Chinese.
+- Keep each Chinese paragraph and its English counterpart in a separate translation-row with aligned starts and room beneath the shorter cell.
+
 ## Translation progress — 2026-11-14
 
 - Added 2,813 Chinese characters in 34 individually aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. The entire addition is a continuous CBETA match from within 0148a26 into 0150a27.
