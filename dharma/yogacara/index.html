@@ -47,12 +47,12 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
   .bf-legend{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center;margin-top:14px;font-size:12.5px;color:rgba(255,255,255,.78);}
   .bf-legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:-1px;}
   .bf-mos-wrap{justify-self:center;width:100%;max-width:420px;}
-  .bf-tip{position:fixed;z-index:60;pointer-events:none;background:#15191c;color:#fff;border-radius:8px;padding:7px 11px;font-size:13px;line-height:1.35;box-shadow:0 8px 24px rgba(0,0,0,.3);opacity:0;transition:opacity .12s;white-space:nowrap;}
+  .bf-tip{position:fixed;z-index:210;pointer-events:none;background:#15191c;color:#fff;border-radius:8px;padding:7px 11px;font-size:13px;line-height:1.35;box-shadow:0 8px 24px rgba(0,0,0,.3);opacity:0;transition:opacity .12s;white-space:nowrap;}
   .bf-tip.show{opacity:1;}
   .bf-tip .zh{font-size:16px;margin-right:6px;}
 
   /* ── tabs ── */
-  .bf-bar{position:sticky;top:0;z-index:30;background:rgba(255,253,249,.94);backdrop-filter:saturate(1.4) blur(10px);-webkit-backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line);}
+  .bf-bar{position:sticky;top:var(--hdr,0px);z-index:30;background:rgba(255,253,249,.94);backdrop-filter:saturate(1.4) blur(10px);-webkit-backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line);}
   .bf-bar-in{display:flex;align-items:center;gap:10px;min-height:58px;}
   .bf-tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;flex:1;}
   .bf-tabs::-webkit-scrollbar{display:none;}
@@ -195,9 +195,9 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
   .bf-miss button{border:1px solid var(--line);background:var(--cream);border-radius:999px;padding:6px 12px;font-size:14px;}
 
   /* ── card drawer ── */
-  .bf-scrim{position:fixed;inset:0;background:rgba(21,25,28,.45);z-index:70;opacity:0;pointer-events:none;transition:opacity .25s;}
+  .bf-scrim{position:fixed;inset:0;background:rgba(21,25,28,.45);z-index:200;opacity:0;pointer-events:none;transition:opacity .25s;}
   .bf-scrim.open{opacity:1;pointer-events:auto;}
-  .bf-card{position:fixed;z-index:71;background:var(--paper);overflow-y:auto;overscroll-behavior:contain;box-shadow:0 0 60px rgba(0,0,0,.25);
+  .bf-card{position:fixed;z-index:201;background:var(--paper);overflow-y:auto;overscroll-behavior:contain;box-shadow:0 0 60px rgba(0,0,0,.25);
     right:0;top:0;bottom:0;width:min(560px,100vw);transform:translateX(105%);transition:transform .38s cubic-bezier(.22,.8,.3,1);}
   .bf-card.open{transform:none;}
   @media(max-width:640px){.bf-card{top:auto;left:0;width:100%;max-height:88vh;border-radius:20px 20px 0 0;transform:translateY(105%);}}
@@ -235,6 +235,39 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
   .bf-mark{margin-top:26px;width:100%;border:1.5px solid var(--gold);background:#fff;border-radius:12px;padding:13px;font-weight:800;font-size:15px;transition:background .2s;}
   .bf-mark[aria-pressed="true"]{background:var(--gold);color:var(--maroon-deep);}
   .bf-note{font-size:13.5px;color:var(--ink-soft);line-height:1.6;margin-top:40px;border-top:1px solid var(--line);padding-top:18px;}
+  /* ── phone-first ── */
+  .bf-jump{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:0 0 10px;-webkit-overflow-scrolling:touch;}
+  .bf-jump::-webkit-scrollbar{display:none;}
+  .bf-jump[hidden]{display:none;}
+  .bf-jump button{flex:0 0 auto;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-size:13.5px;white-space:nowrap;transition:background .2s,color .2s,border-color .2s;}
+  .bf-jump button i{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--jc);margin-right:6px;vertical-align:1px;}
+  .bf-jump button.on{background:var(--jc);border-color:var(--jc);color:#fff;}
+  .bf-jump button.on i{background:#fff;}
+  .bf-grab{display:none;}
+  @media(max-width:640px){
+    .bf-hero-in{padding-top:30px;padding-bottom:34px;gap:26px;}
+    .bf-bread{margin-bottom:14px;}
+    .bf-hero p{font-size:16px;line-height:1.6;}
+    .bf-hero p.zh{font-size:15px;}
+    .bf-stats{display:none;}
+    .bf-stat b{font-size:28px;}
+    .bf-mos .zh{font-size:12px;}
+    .bf-panel{padding:26px 0 56px;}
+    .bf-order{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;margin-left:-16px;margin-right:-16px;padding:2px 16px 8px;scrollbar-width:none;}
+    .bf-order::-webkit-scrollbar{display:none;}
+    .bf-pos{flex:0 0 76%;scroll-snap-align:start;}
+    .bf-cat{scroll-margin-top:calc(var(--hdr,0px) + 112px);}
+    .bf-grab{display:block;height:9px;}
+    .bf-grab::before{content:"";display:block;width:44px;height:5px;border-radius:9px;background:#d8cbb8;margin:0 auto;}
+    .bf-card-top{flex-wrap:wrap;padding-top:8px;touch-action:none;}
+    .bf-card-top .bf-grab{flex-basis:100%;}
+    .bf-card h2{font-size:46px;}
+    .bf-card-body{padding:18px 18px calc(28px + env(safe-area-inset-bottom,0px));}
+    .bf-go.bf-next{width:100%;}
+    .bf-opt{padding:13px 14px;min-height:52px;}
+    .bf-quiz{padding:18px 14px 20px;margin-left:-4px;margin-right:-4px;}
+  }
+  @media(min-width:641px){.bf-cat{scroll-margin-top:calc(var(--hdr,0px) + 118px);}}
   @media (prefers-reduced-motion:reduce){.bf *{transition:none!important;animation:none!important;}.bf-mos{transform:none;opacity:.9;}}
 </style>
 
@@ -272,6 +305,7 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
         <span><b id="bfKnownN">0</b>/100 <span class="txt">known 已熟</span></span>
       </div>
     </div>
+    <div class="bf-wrap"><div class="bf-jump" id="bfJump" aria-label="Jump to a position"></div></div>
   </nav>
 
   <!-- MAP -->
@@ -323,7 +357,8 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
 
   <div class="bf-scrim" id="bfScrim"></div>
   <aside class="bf-card" id="bfCard" role="dialog" aria-modal="true" aria-labelledby="bfCardTitle" aria-hidden="true">
-    <div class="bf-card-top">
+    <div class="bf-card-top" id="bfCardTop">
+      <span class="bf-grab" aria-hidden="true"></span>
       <button class="bf-icon" id="bfPrev" aria-label="Previous dharma">←</button>
       <button class="bf-icon" id="bfNext" aria-label="Next dharma">→</button>
       <span class="meta" id="bfCardMeta"></span>
@@ -349,6 +384,10 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
   function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;} return a; }
   var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
   root.classList.add('js');
+  /* sit below the site's own sticky header */
+  (function(){ var sh=document.querySelector('.site-header'); if(!sh) return;
+    function upd(){ var cs=getComputedStyle(sh); root.style.setProperty('--hdr', (cs.position==='sticky'||cs.position==='fixed') ? sh.offsetHeight+'px' : '0px'); }
+    upd(); if('ResizeObserver' in window) new ResizeObserver(upd).observe(sh); addEventListener('resize', upd); })();
 
   /* storage (per-viewer convenience only) */
   var KEY='ruyi-baifa-known', BKEY='ruyi-baifa-best', known={}, best={};
@@ -497,12 +536,13 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
     curTab=t;
     root.querySelectorAll('.bf-tab').forEach(function(b){ b.setAttribute('aria-selected', b.dataset.tab===t ? 'true':'false'); });
     ['map','compare','practice'].forEach(function(x){ document.getElementById('bf-'+x).hidden = x!==t; });
+    var jr=document.getElementById('bfJump'); if(jr) jr.hidden = t!=='map';
     if(push){ try{ history.replaceState(null,'', t==='map' ? location.pathname+location.search : '#'+t); }catch(e){} }
     reveal();
   }
   root.querySelectorAll('.bf-tab').forEach(function(b){ b.addEventListener('click', function(){
     showTab(b.dataset.tab, true);
-    var bar=root.querySelector('.bf-bar'); var y=bar.getBoundingClientRect().top+scrollY;
+    var bar=root.querySelector('.bf-bar'); var y=root.querySelector('.bf-hero').getBoundingClientRect().bottom+scrollY-(parseFloat(getComputedStyle(root).getPropertyValue('--hdr'))||0);
     if(scrollY>y) scrollTo({top:y, behavior:reduce?'auto':'smooth'});
   }); });
 
@@ -586,10 +626,11 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
       quiz.querySelector('.bf-prog i').style.width=((qi+1)/Q.length*100)+'%';
       quiz.querySelector('.bf-qtop span:last-child').textContent='✓ '+score;
       var nx=document.getElementById('bfNextQ'); nx.classList.add('show'); nx.focus({preventScroll:true});
+      var r=nx.getBoundingClientRect(); if(r.bottom>innerHeight-8) scrollBy({top:r.bottom-innerHeight+20, behavior:reduce?'auto':'smooth'});
       return;
     }
     var op=e.target.closest('[data-open]'); if(op){ openCard(op.dataset.open, op); return; }
-    if(e.target.closest('#bfNextQ')){ qi++; if(qi<Q.length) ask(); else finish(); return; }
+    if(e.target.closest('#bfNextQ')){ qi++; if(qi<Q.length) ask(); else finish(); var qr=quiz.getBoundingClientRect(); if(qr.top<70) scrollBy({top:qr.top-76, behavior:reduce?'auto':'smooth'}); return; }
     if(e.target.closest('#bfAgain')){ document.getElementById('bfStart').click(); return; }
     var mb=e.target.closest('.bf-miss button'); if(mb) openCard(mb.dataset.id, mb);
   });
@@ -601,6 +642,26 @@ excerpt: An interactive map of Yogācāra's five positions and one hundred dharm
     h+='<button class="bf-go" id="bfAgain">Another round · 再來一回 →</button></div>';
     quiz.innerHTML=h;
   }
+
+  /* ── jump row (five positions) ── */
+  var jump=document.getElementById('bfJump');
+  DATA.cats.forEach(function(c){ jump.appendChild(el('<button data-cat="'+c.id+'" style="--jc:var(--c-'+c.id+')"><i></i><span class="zh">'+esc(c.zh)+'</span> '+c.n+'</button>')); });
+  jump.addEventListener('click', function(e){ var b=e.target.closest('button'); if(!b) return; var t=document.getElementById('cat-'+b.dataset.cat); t.classList.add('in'); t.scrollIntoView({behavior:reduce?'auto':'smooth'}); });
+  if('IntersectionObserver' in window){
+    var jio=new IntersectionObserver(function(es){ es.forEach(function(x){ if(x.isIntersecting){ jump.querySelectorAll('button').forEach(function(b){ var on=b.dataset.cat===x.target.id.slice(4); b.classList.toggle('on',on); if(on && b.scrollIntoView && jump.scrollWidth>jump.clientWidth) jump.scrollTo({left:b.offsetLeft-16,behavior:reduce?'auto':'smooth'}); }); } }); }, {rootMargin:'-45% 0px -50% 0px'});
+    catsBox.querySelectorAll('.bf-cat').forEach(function(s){ jio.observe(s); });
+  }
+
+  /* ── card gestures (phone): swipe down on the top bar to close, swipe sideways to turn ── */
+  (function(){
+    var top=document.getElementById('bfCardTop'), sx=0, sy=0, dragging=false;
+    top.addEventListener('touchstart', function(e){ sy=e.touches[0].clientY; dragging=true; card.style.transition='none'; }, {passive:true});
+    top.addEventListener('touchmove', function(e){ if(!dragging) return; var dy=Math.max(0,e.touches[0].clientY-sy); if(innerWidth<=640) card.style.transform='translateY('+dy+'px)'; }, {passive:true});
+    top.addEventListener('touchend', function(e){ if(!dragging) return; dragging=false; var dy=e.changedTouches[0].clientY-sy; card.style.transition=''; card.style.transform=''; if(innerWidth<=640 && dy>90) closeCard(); });
+    body.addEventListener('touchstart', function(e){ sx=e.touches[0].clientX; sy=e.touches[0].clientY; }, {passive:true});
+    body.addEventListener('touchend', function(e){ var dx=e.changedTouches[0].clientX-sx, dy=e.changedTouches[0].clientY-sy;
+      if(Math.abs(dx)>70 && Math.abs(dx)>Math.abs(dy)*1.8){ step(dx<0?1:-1); } }, {passive:true});
+  })();
 
   /* ── hash routing ── */
   function route(){
