@@ -1,0 +1,613 @@
+---
+layout: default
+title: The Hundred Dharmas Map
+permalink: /dharma/yogacara/
+excerpt: An interactive map of Yogācāra's five positions and one hundred dharmas, with Chinese, pinyin, Sanskrit, English, plain explanations, classical definitions, look-alike pairs, and practice rounds. 百法地圖。
+---
+
+<style>
+  .bf{--maroon:#6f2a22;--maroon-deep:#3d1712;--jade:#2f6d5e;--jade-deep:#1f4a40;--gold:#e3b765;--cream:#fbf5ea;--paper:#fffdf9;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;
+      --c-mind:#7a2e24;--c-factors:#2f6d5e;--c-form:#b5651d;--c-dissoc:#56627a;--c-uncond:#34417a;
+      --g-univ:#2f6d5e;--g-part:#2d6f86;--g-good:#4f7d34;--g-root:#a8401d;--g-sec:#c0603a;--g-indet:#8a6a2f;
+      --good:#2f6d5e;--good-soft:#e2efe9;--bad:#a3402e;--bad-soft:#f7e3dd;
+      --han:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei","Noto Sans TC",sans-serif;
+      --serif:Georgia,"Times New Roman",serif;
+      color:var(--ink);background:var(--paper);}
+  .bf *{box-sizing:border-box;}
+  .bf button{font:inherit;color:inherit;cursor:pointer;}
+  .bf .zh,.bf .han{font-family:var(--han);}
+  .bf-wrap{max-width:1080px;margin:0 auto;padding:0 16px;}
+  @media(min-width:700px){.bf-wrap{padding:0 26px;}}
+
+  /* ── hero ── */
+  .bf-hero{position:relative;overflow:hidden;color:var(--cream);
+    background:radial-gradient(1200px 500px at 85% -10%,rgba(227,183,101,.18),transparent 60%),linear-gradient(155deg,#2f6d5e 0%,#22493f 42%,#15191c 100%);}
+  .bf-hero::after{content:"百法";position:absolute;right:-14px;bottom:-58px;font-family:var(--han);font-size:190px;font-weight:700;letter-spacing:.08em;color:rgba(255,255,255,.05);pointer-events:none;white-space:nowrap;}
+  .bf-hero-in{position:relative;z-index:1;display:grid;gap:34px;padding-top:58px;padding-bottom:50px;}
+  @media(min-width:900px){.bf-hero-in{grid-template-columns:1.05fr .95fr;align-items:center;padding-top:76px;padding-bottom:70px;}}
+  .bf-bread{font-size:13px;letter-spacing:.04em;color:rgba(255,255,255,.7);margin-bottom:22px;}
+  .bf-bread a{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(227,183,101,.45);}
+  .bf-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:700;margin:0 0 12px;}
+  .bf-hero h1{font-family:var(--serif);font-size:clamp(36px,6vw,60px);line-height:1.05;margin:0 0 6px;color:#fff;}
+  .bf-hero h1 .zh{display:block;font-size:.55em;letter-spacing:.18em;color:var(--gold);margin-top:10px;font-weight:600;}
+  .bf-hero p{max-width:560px;font-size:17.5px;line-height:1.7;color:#e8f1ec;margin:16px 0 0;}
+  .bf-hero p.zh{font-size:16px;color:rgba(232,241,236,.82);margin-top:8px;}
+  .bf-stats{display:flex;gap:26px;flex-wrap:wrap;margin-top:26px;}
+  .bf-stat b{display:block;font-family:var(--serif);font-size:34px;color:#fff;line-height:1;}
+  .bf-stat span{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.66);}
+
+  /* mosaic: all 100 dharmas as tiles */
+  .bf-mosaic{display:grid;grid-template-columns:repeat(10,1fr);gap:5px;max-width:420px;width:100%;justify-self:center;}
+  .bf-mos{aspect-ratio:1;border:0;border-radius:5px;padding:0;position:relative;background:var(--mc);opacity:.88;
+    transform:scale(.2);opacity:0;transition:transform .5s cubic-bezier(.2,.9,.3,1.3),opacity .5s,box-shadow .2s,filter .2s;}
+  .bf-mos.on{transform:none;opacity:.9;}
+  .bf-mos:hover,.bf-mos:focus-visible{transform:scale(1.18);opacity:1;box-shadow:0 0 0 2px #fff,0 6px 18px rgba(0,0,0,.4);z-index:2;outline:none;}
+  .bf-mos .zh{position:absolute;inset:0;display:grid;place-items:center;color:rgba(255,255,255,.92);font-size:clamp(9px,1.25vw,13px);font-weight:600;line-height:1;overflow:hidden;}
+  .bf-mos.known::after{content:"";position:absolute;right:3px;top:3px;width:6px;height:6px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 1.5px rgba(0,0,0,.25);}
+  .bf-legend{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center;margin-top:14px;font-size:12.5px;color:rgba(255,255,255,.78);}
+  .bf-legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:-1px;}
+  .bf-mos-wrap{justify-self:center;width:100%;max-width:420px;}
+  .bf-tip{position:fixed;z-index:60;pointer-events:none;background:#15191c;color:#fff;border-radius:8px;padding:7px 11px;font-size:13px;line-height:1.35;box-shadow:0 8px 24px rgba(0,0,0,.3);opacity:0;transition:opacity .12s;white-space:nowrap;}
+  .bf-tip.show{opacity:1;}
+  .bf-tip .zh{font-size:16px;margin-right:6px;}
+
+  /* ── tabs ── */
+  .bf-bar{position:sticky;top:0;z-index:30;background:rgba(255,253,249,.94);backdrop-filter:saturate(1.4) blur(10px);-webkit-backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line);}
+  .bf-bar-in{display:flex;align-items:center;gap:10px;min-height:58px;}
+  .bf-tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;flex:1;}
+  .bf-tabs::-webkit-scrollbar{display:none;}
+  .bf-tab{border:0;background:none;padding:10px 14px;border-radius:999px;font-weight:700;font-size:15px;color:var(--ink-soft);white-space:nowrap;transition:background .2s,color .2s;}
+  .bf-tab .zh{font-weight:600;margin-left:5px;font-size:14px;}
+  .bf-tab[aria-selected="true"]{background:var(--jade);color:#fff;}
+  .bf-tab:not([aria-selected="true"]):hover{background:#f1e8da;color:var(--ink);}
+  .bf-known{font-size:13px;color:var(--ink-soft);white-space:nowrap;display:flex;align-items:center;gap:8px;}
+  .bf-ring{width:30px;height:30px;}
+  .bf-ring circle{fill:none;stroke-width:4;}
+  .bf-ring .bg{stroke:#ece0cf;} .bf-ring .fg{stroke:var(--gold);stroke-linecap:round;transition:stroke-dashoffset .6s;transform:rotate(-90deg);transform-origin:50% 50%;}
+  @media(max-width:560px){.bf-known .txt{display:none;}.bf-tab{padding:9px 10px;font-size:14.5px;}.bf-tab .zh{margin-left:3px;}.bf-tile{padding:9px 9px 8px;min-height:80px;}.bf-tile .zh{font-size:19px;}.bf-tile .en{font-size:12px;}}
+  @media(max-width:400px){.bf-known>span{display:none;}.bf-tab{padding:8px 7px;font-size:14px;}.bf-bar-in{gap:4px;}.bf-tab .zh{font-size:13px;}.bf-tabs{gap:2px;}}
+
+  .bf-panel{padding:40px 0 70px;}
+  .bf-panel[hidden]{display:none;}
+  .bf-h2{font-family:var(--serif);font-size:clamp(26px,3.6vw,34px);margin:0 0 6px;line-height:1.15;}
+  .bf-h2 .zh{font-size:.7em;color:var(--ink-soft);margin-left:10px;font-weight:600;letter-spacing:.08em;}
+  .bf-lead{color:var(--ink-soft);font-size:16.5px;line-height:1.7;max-width:760px;margin:6px 0 0;}
+  .bf-lead.zh{font-size:15.5px;}
+
+  /* ── intro: five positions ── */
+  .bf-order{display:grid;grid-template-columns:1fr;gap:10px;margin:26px 0 8px;counter-reset:pos;}
+  @media(min-width:860px){.bf-order{grid-template-columns:repeat(5,1fr);}}
+  .bf-pos{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px 14px;border-top:4px solid var(--cc);text-decoration:none;color:inherit;display:block;transition:transform .2s,box-shadow .2s;}
+  .bf-pos:hover{transform:translateY(-3px);box-shadow:0 10px 24px -14px rgba(42,33,27,.35);text-decoration:none;}
+  .bf-pos .n{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--cc);font-weight:800;}
+  .bf-pos .t{font-family:var(--han);font-size:19px;font-weight:700;margin:2px 0 0;}
+  .bf-pos .e{font-size:13.5px;color:var(--ink-soft);}
+  .bf-pos .w{font-size:13px;line-height:1.5;margin-top:8px;color:var(--ink);}
+  .bf-pos .w .zh{color:var(--cc);font-weight:700;}
+
+  /* ── search ── */
+  .bf-search{display:flex;gap:10px;align-items:center;margin:26px 0 6px;flex-wrap:wrap;}
+  .bf-search label{flex:1;min-width:220px;position:relative;}
+  .bf-search input{width:100%;font:inherit;font-size:16px;padding:13px 16px 13px 44px;border:1.5px solid var(--line);border-radius:12px;background:#fff;color:var(--ink);transition:border-color .2s,box-shadow .2s;}
+  .bf-search input:focus{outline:none;border-color:var(--jade);box-shadow:0 0 0 4px rgba(47,109,94,.14);}
+  .bf-search svg{position:absolute;left:15px;top:50%;transform:translateY(-50%);width:18px;height:18px;color:var(--ink-soft);}
+  .bf-hits{font-size:14px;color:var(--ink-soft);min-width:120px;}
+
+  /* ── category blocks ── */
+  .bf-cat{margin-top:38px;scroll-margin-top:80px;}
+  .bf-cat-h{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;border-bottom:2px solid var(--cc);padding-bottom:8px;margin-bottom:14px;}
+  .bf-cat-h .num{font-family:var(--serif);font-size:15px;color:#fff;background:var(--cc);border-radius:999px;min-width:28px;height:28px;display:inline-grid;place-items:center;align-self:center;}
+  .bf-cat-h h3{margin:0;font-family:var(--han);font-size:24px;}
+  .bf-cat-h .en{font-family:var(--serif);font-size:19px;color:var(--ink-soft);}
+  .bf-cat-h .cnt{margin-left:auto;font-size:13px;color:var(--cc);font-weight:800;letter-spacing:.06em;}
+  .bf-grp{margin:18px 0 6px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
+  .bf-grp b{font-family:var(--han);font-size:17px;color:var(--gc);}
+  .bf-grp .en{font-size:14.5px;color:var(--gc);font-weight:700;}
+  .bf-grp .d{font-size:13.5px;color:var(--ink-soft);flex-basis:100%;line-height:1.5;}
+  .bf-tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(98px,1fr));gap:8px;}
+  @media(min-width:700px){.bf-tiles{grid-template-columns:repeat(auto-fill,minmax(128px,1fr));}}
+  .bf-tile{position:relative;text-align:left;background:#fff;border:1px solid var(--line);border-left:4px solid var(--tc);border-radius:10px;padding:10px 11px 9px;
+    transition:transform .18s,box-shadow .18s,opacity .25s,filter .25s;min-height:84px;display:flex;flex-direction:column;}
+  .bf-tile:hover,.bf-tile:focus-visible{transform:translateY(-3px);box-shadow:0 12px 22px -14px rgba(42,33,27,.45);outline:none;}
+  .bf-tile:focus-visible{box-shadow:0 0 0 3px rgba(47,109,94,.35);}
+  .bf-tile .no{position:absolute;right:8px;top:7px;font-size:10.5px;color:#b3a594;font-variant-numeric:tabular-nums;}
+  .bf-tile .zh{font-size:21px;font-weight:700;line-height:1.15;color:var(--ink);padding-right:18px;}
+  .bf-tile .py{font-size:11.5px;color:var(--ink-soft);margin-top:2px;}
+  .bf-tile .en{font-size:12.5px;line-height:1.3;color:var(--tc);margin-top:auto;padding-top:5px;font-weight:600;}
+  .bf-tile.known::after{content:"✓";position:absolute;right:7px;bottom:6px;font-size:12px;color:#fff;background:var(--gold);border-radius:50%;width:17px;height:17px;display:grid;place-items:center;font-weight:800;}
+  .bf-tile.dim{opacity:.22;filter:grayscale(.8);}
+  .bf-tile.hit{box-shadow:0 0 0 2px var(--tc);}
+  .bf-empty{display:none;margin:30px 0;padding:24px;border:1px dashed var(--line);border-radius:12px;color:var(--ink-soft);text-align:center;}
+
+  /* reveal */
+  .bf.js [data-rv]{opacity:0;transform:translateY(18px);transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .bf.js [data-rv].in{opacity:1;transform:none;}
+
+  /* ── compare ── */
+  .bf-pairs{display:grid;grid-template-columns:1fr;gap:16px;margin-top:26px;}
+  @media(min-width:820px){.bf-pairs{grid-template-columns:1fr 1fr;}}
+  .bf-pair{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px 18px 16px;}
+  .bf-vs{display:grid;grid-template-columns:1fr auto 1fr;align-items:stretch;gap:8px;margin-bottom:12px;}
+  .bf-vs button{border:1px solid var(--line);background:var(--cream);border-radius:10px;padding:10px 8px;text-align:center;border-top:3px solid var(--tc);transition:transform .15s,box-shadow .15s;}
+  .bf-vs button:hover{transform:translateY(-2px);box-shadow:0 8px 18px -12px rgba(42,33,27,.5);}
+  .bf-vs .zh{font-size:24px;font-weight:700;display:block;line-height:1.15;}
+  .bf-vs .en{font-size:12.5px;color:var(--tc);font-weight:700;display:block;margin-top:2px;}
+  .bf-vs .x{align-self:center;font-family:var(--serif);font-style:italic;color:var(--ink-soft);font-size:15px;}
+  .bf-pair p{margin:6px 0 0;line-height:1.65;font-size:15px;}
+  .bf-pair p.zh{font-size:15px;}
+  .bf-pair p.en{color:var(--ink-soft);}
+
+  /* ── practice ── */
+  .bf-modes{display:grid;grid-template-columns:1fr;gap:14px;margin-top:24px;}
+  @media(min-width:760px){.bf-modes{grid-template-columns:repeat(3,1fr);}}
+  .bf-mode{text-align:left;border:1.5px solid var(--line);background:#fff;border-radius:14px;padding:18px 18px 16px;transition:border-color .2s,transform .2s,box-shadow .2s;position:relative;}
+  .bf-mode:hover{transform:translateY(-3px);box-shadow:0 14px 26px -18px rgba(42,33,27,.5);}
+  .bf-mode[aria-pressed="true"]{border-color:var(--jade);box-shadow:0 0 0 3px rgba(47,109,94,.15);}
+  .bf-mode .ic{font-family:var(--han);font-size:30px;font-weight:700;color:var(--jade);line-height:1;}
+  .bf-mode h4{margin:10px 0 2px;font-size:17px;}
+  .bf-mode h4 .zh{font-size:15px;color:var(--ink-soft);margin-left:6px;}
+  .bf-mode p{margin:4px 0 0;font-size:14px;line-height:1.55;color:var(--ink-soft);}
+  .bf-mode .best{position:absolute;right:14px;top:14px;font-size:12px;color:var(--jade);font-weight:800;}
+  .bf-scope{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 0;align-items:center;}
+  .bf-scope .lbl{font-size:13px;color:var(--ink-soft);margin-right:4px;}
+  .bf-chip{border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:6px 13px;font-size:14px;transition:all .15s;}
+  .bf-chip .zh{margin-left:4px;}
+  .bf-chip[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink);}
+  .bf-go{margin-top:20px;border:0;background:var(--jade);color:#fff;border-radius:12px;padding:14px 24px;font-weight:800;font-size:16px;box-shadow:0 10px 22px -12px rgba(47,109,94,.9);transition:transform .15s,background .2s;}
+  .bf-go:hover{transform:translateY(-2px);background:var(--jade-deep);}
+  .bf-quiz{margin-top:28px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px 20px 22px;box-shadow:0 22px 50px -40px rgba(42,33,27,.6);}
+  @media(min-width:700px){.bf-quiz{padding:30px 34px;}}
+  .bf-qtop{display:flex;align-items:center;gap:12px;font-size:13.5px;color:var(--ink-soft);}
+  .bf-prog{flex:1;height:7px;background:#f1e8da;border-radius:99px;overflow:hidden;}
+  .bf-prog i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--jade),#5aa08c);border-radius:99px;transition:width .45s cubic-bezier(.22,.61,.36,1);}
+  .bf-q{margin:20px 0 6px;min-height:90px;}
+  .bf-q .ask{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;}
+  .bf-q .ask .zh{letter-spacing:.05em;text-transform:none;margin-left:6px;}
+  .bf-q .big{font-family:var(--han);font-size:clamp(40px,7vw,56px);font-weight:700;line-height:1.1;margin:8px 0 2px;}
+  .bf-q .sub{font-size:15px;color:var(--ink-soft);}
+  .bf-q .def{font-size:17px;line-height:1.7;margin:10px 0 0;}
+  .bf-q .def.en{font-size:16px;color:var(--ink-soft);margin-top:6px;}
+  .bf-q .blank{display:inline-block;min-width:2.2em;border-bottom:2px solid var(--gold);}
+  .bf-opts{display:grid;grid-template-columns:1fr;gap:9px;margin-top:16px;}
+  @media(min-width:640px){.bf-opts{grid-template-columns:1fr 1fr;}}
+  .bf-opts.sort{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));}
+  .bf-opt{text-align:left;border:1.5px solid var(--line);background:var(--paper);border-radius:12px;padding:12px 14px;line-height:1.35;transition:border-color .15s,background .15s,transform .15s;border-left:5px solid var(--oc,var(--line));}
+  .bf-opt:hover:not(:disabled){border-color:#cbb99f;transform:translateY(-1px);}
+  .bf-opt .zh{font-size:18px;font-weight:700;margin-right:8px;}
+  .bf-opt .en{font-size:14px;color:var(--ink-soft);}
+  .bf-opt:disabled{cursor:default;}
+  .bf-opt.right{background:var(--good-soft);border-color:var(--good);animation:bfPop .35s;}
+  .bf-opt.wrong{background:var(--bad-soft);border-color:var(--bad);animation:bfShake .35s;}
+  @keyframes bfPop{50%{transform:scale(1.03);}}
+  @keyframes bfShake{20%,60%{transform:translateX(-5px);}40%,80%{transform:translateX(5px);}}
+  .bf-fb{margin-top:16px;border-radius:12px;padding:14px 16px;display:none;line-height:1.6;font-size:15px;}
+  .bf-fb.show{display:block;animation:bfIn .3s;}
+  .bf-fb.ok{background:var(--good-soft);} .bf-fb.no{background:var(--bad-soft);}
+  .bf-fb b{display:block;margin-bottom:2px;}
+  .bf-fb .lnk{border:0;background:none;padding:0;color:var(--jade);font-weight:700;text-decoration:underline;text-underline-offset:3px;}
+  @keyframes bfIn{from{opacity:0;transform:translateY(6px);}}
+  .bf-next{margin-top:14px;display:none;}
+  .bf-next.show{display:inline-block;}
+  .bf-end{text-align:center;padding:10px 0;}
+  .bf-end .score{font-family:var(--serif);font-size:64px;line-height:1;color:var(--jade);}
+  .bf-end .score small{font-size:26px;color:var(--ink-soft);}
+  .bf-miss{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:16px 0 4px;}
+  .bf-miss button{border:1px solid var(--line);background:var(--cream);border-radius:999px;padding:6px 12px;font-size:14px;}
+
+  /* ── card drawer ── */
+  .bf-scrim{position:fixed;inset:0;background:rgba(21,25,28,.45);z-index:70;opacity:0;pointer-events:none;transition:opacity .25s;}
+  .bf-scrim.open{opacity:1;pointer-events:auto;}
+  .bf-card{position:fixed;z-index:71;background:var(--paper);overflow-y:auto;overscroll-behavior:contain;box-shadow:0 0 60px rgba(0,0,0,.25);
+    right:0;top:0;bottom:0;width:min(560px,100vw);transform:translateX(105%);transition:transform .38s cubic-bezier(.22,.8,.3,1);}
+  .bf-card.open{transform:none;}
+  @media(max-width:640px){.bf-card{top:auto;left:0;width:100%;max-height:88vh;border-radius:20px 20px 0 0;transform:translateY(105%);}}
+  .bf-card-top{position:sticky;top:0;z-index:2;display:flex;align-items:center;gap:8px;padding:12px 14px;background:rgba(255,253,249,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);}
+  .bf-card-top .meta{flex:1;font-size:12.5px;color:var(--ink-soft);letter-spacing:.04em;}
+  .bf-icon{border:1px solid var(--line);background:#fff;width:38px;height:38px;border-radius:10px;display:grid;place-items:center;font-size:17px;transition:background .15s;}
+  .bf-icon:hover{background:var(--cream);}
+  .bf-card-body{padding:20px 22px 34px;}
+  .bf-card-hd{border-left:5px solid var(--tc);padding-left:16px;}
+  .bf-chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;}
+  .bf-chips span{font-size:12px;font-weight:700;border-radius:999px;padding:3px 10px;color:#fff;background:var(--tc);}
+  .bf-chips span.lt{background:transparent;color:var(--tc);border:1px solid var(--tc);}
+  .bf-card h2{font-family:var(--han);font-size:52px;line-height:1.05;margin:0;}
+  .bf-card .py{font-size:16px;color:var(--ink-soft);margin-top:6px;}
+  .bf-card .py i{font-family:var(--serif);margin-left:8px;}
+  .bf-card .ename{font-family:var(--serif);font-size:22px;color:var(--tc);margin-top:4px;}
+  .bf-sec{margin-top:24px;}
+  .bf-sec h5{margin:0 0 8px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);}
+  .bf-sec h5 .zh{letter-spacing:.06em;margin-left:6px;}
+  .bf-sec p{margin:0 0 6px;line-height:1.75;font-size:16px;}
+  .bf-sec p.en{color:#4d443b;font-size:15.5px;}
+  .bf-quote{border-left:3px solid var(--gold);background:var(--cream);border-radius:0 10px 10px 0;padding:12px 16px;margin:0;}
+  .bf-quote .zh{font-size:16px;line-height:1.85;margin:0 0 8px;}
+  .bf-quote .en{font-family:var(--serif);font-size:15.5px;line-height:1.65;color:#4d443b;margin:0;}
+  .bf-src{font-size:13px;color:var(--ink-soft);margin-top:8px;}
+  .bf-src a{color:var(--jade);font-weight:700;}
+  .bf-cf{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px;background:#fff;}
+  .bf-cf button{border:0;background:none;padding:0;font-weight:800;color:var(--tc);}
+  .bf-cf button .zh{font-size:18px;margin-right:4px;}
+  .bf-cf p{font-size:14.5px;margin:4px 0 0;}
+  .bf-sib{display:flex;flex-wrap:wrap;gap:6px;}
+  .bf-sib button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 10px;font-size:15px;transition:border-color .15s;}
+  .bf-sib button:hover{border-color:var(--tc);}
+  .bf-sib button[aria-current="true"]{background:var(--tc);color:#fff;border-color:var(--tc);}
+  .bf-mark{margin-top:26px;width:100%;border:1.5px solid var(--gold);background:#fff;border-radius:12px;padding:13px;font-weight:800;font-size:15px;transition:background .2s;}
+  .bf-mark[aria-pressed="true"]{background:var(--gold);color:var(--maroon-deep);}
+  .bf-note{font-size:13.5px;color:var(--ink-soft);line-height:1.6;margin-top:40px;border-top:1px solid var(--line);padding-top:18px;}
+  @media (prefers-reduced-motion:reduce){.bf *{transition:none!important;animation:none!important;}.bf-mos{transform:none;opacity:.9;}}
+</style>
+
+<div class="bf" id="bf">
+  <header class="bf-hero">
+    <div class="bf-wrap bf-hero-in">
+      <div>
+        <div class="bf-bread"><a href="/dharma/">Dharma</a> › <a href="/sutras/hundred-dharmas/">The Hundred Dharmas</a> › Map</div>
+        <p class="bf-eyebrow">Yogācāra Study · 唯識入門</p>
+        <h1>The Hundred Dharmas Map <span class="zh">百法地圖</span></h1>
+        <p>Everything that exists, sorted by Yogācāra into five positions and one hundred dharmas. Tap any square to open its card: Chinese, pinyin, Sanskrit, English, a plain explanation, and the classical definition.</p>
+        <p class="zh">唯識把一切法歸為五位百法。點任何一格，就能看到這個名相的中英說明與論文定義。</p>
+        <div class="bf-stats">
+          <div class="bf-stat"><b data-count="5">0</b><span>Positions 五位</span></div>
+          <div class="bf-stat"><b data-count="100">0</b><span>Dharmas 百法</span></div>
+          <div class="bf-stat"><b data-count="23">0</b><span>Look-alikes 辨析</span></div>
+        </div>
+      </div>
+      <div class="bf-mos-wrap">
+        <div class="bf-mosaic" id="bfMosaic" role="group" aria-label="All one hundred dharmas"></div>
+        <div class="bf-legend" id="bfLegend"></div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="bf-bar" aria-label="Sections">
+    <div class="bf-wrap bf-bar-in">
+      <div class="bf-tabs" role="tablist">
+        <button class="bf-tab" role="tab" data-tab="map" aria-selected="true">Map<span class="zh">地圖</span></button>
+        <button class="bf-tab" role="tab" data-tab="compare" aria-selected="false">Compare<span class="zh">辨析</span></button>
+        <button class="bf-tab" role="tab" data-tab="practice" aria-selected="false">Practice<span class="zh">練習</span></button>
+      </div>
+      <div class="bf-known" title="Dharmas you have marked as known · 已標記熟悉">
+        <svg class="bf-ring" viewBox="0 0 36 36"><circle class="bg" cx="18" cy="18" r="14"/><circle class="fg" id="bfRing" cx="18" cy="18" r="14" stroke-dasharray="87.96" stroke-dashoffset="87.96"/></svg>
+        <span><b id="bfKnownN">0</b>/100 <span class="txt">known 已熟</span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- MAP -->
+  <section class="bf-panel" id="bf-map" role="tabpanel">
+    <div class="bf-wrap">
+      <h2 class="bf-h2" data-rv>Why this order?<span class="zh">五位的次第</span></h2>
+      <p class="bf-lead" data-rv>The treatise lists the five positions in a deliberate sequence. Each one depends on the one before it.</p>
+      <p class="bf-lead zh" data-rv>《百法明門論》五位的排列有道理：後一位依前一位而立。</p>
+      <div class="bf-order" id="bfOrder"></div>
+
+      <div class="bf-search">
+        <label><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="bfFind" type="search" autocomplete="off" placeholder="Search · 搜尋：觸、anger、smṛti、hūn chén…" aria-label="Search the hundred dharmas"></label>
+        <div class="bf-hits" id="bfHits" aria-live="polite"></div>
+      </div>
+      <div id="bfCats"></div>
+      <div class="bf-empty" id="bfEmpty">No dharma matches. Try Chinese, English, pinyin, or Sanskrit. 找不到，換個字試試。</div>
+    </div>
+  </section>
+
+  <!-- COMPARE -->
+  <section class="bf-panel" id="bf-compare" role="tabpanel" hidden>
+    <div class="bf-wrap">
+      <h2 class="bf-h2">Look-alikes<span class="zh">易混淆辨析</span></h2>
+      <p class="bf-lead">Many dharmas come in pairs that students mix up. Read each pair side by side; tap either term to open its card.</p>
+      <p class="bf-lead zh">很多名相成對出現，最容易搞混。兩兩並排對照；點名相可以打開卡片。</p>
+      <div class="bf-pairs" id="bfPairs"></div>
+    </div>
+  </section>
+
+  <!-- PRACTICE -->
+  <section class="bf-panel" id="bf-practice" role="tabpanel" hidden>
+    <div class="bf-wrap">
+      <h2 class="bf-h2">Practice<span class="zh">練習</span></h2>
+      <p class="bf-lead">Ten questions per round. Pick a mode and a range, then begin.</p>
+      <p class="bf-lead zh">每回十題。選好題型與範圍就開始。</p>
+      <div class="bf-modes" id="bfModes">
+        <button class="bf-mode" data-mode="sort" aria-pressed="true"><span class="best"></span><div class="ic">歸位</div><h4>Sort it<span class="zh">放回哪一位</span></h4><p>See a dharma and put it in the right position or group. 看名相，選它屬於五位百法的哪一類。</p></button>
+        <button class="bf-mode" data-mode="meaning" aria-pressed="false"><span class="best"></span><div class="ic">認義</div><h4>Know the meaning<span class="zh">看解說選名相</span></h4><p>Read a plain explanation and choose the dharma it describes. 讀白話解說，選出它在說哪個名相。</p></button>
+        <button class="bf-mode" data-mode="match" aria-pressed="false"><span class="best"></span><div class="ic">中英</div><h4>Match the names<span class="zh">中英對應</span></h4><p>Pair each Chinese term with its English, and the other way around. 中文對英文、英文對中文。</p></button>
+      </div>
+      <div class="bf-scope" id="bfScope"><span class="lbl">Range 範圍：</span></div>
+      <button class="bf-go" id="bfStart">Begin · 開始 →</button>
+      <div class="bf-quiz" id="bfQuiz" hidden></div>
+    </div>
+  </section>
+
+  <div class="bf-wrap"><p class="bf-note">Classical definitions are quoted from Ru-Yi's translations of the <a href="/sutras/hundred-dharmas/part-02/">Treatise on the Five Aggregates</a> and <a href="/sutras/xianyang-shengjiao-lun/fascicle-01/">Illuminating the Sacred Teaching</a>, fascicle 1; English names follow Ru-Yi's <a href="/sutras/hundred-dharmas/part-01/">Treatise on the Hundred Dharmas</a>. Plain explanations are by Ru-Yi Meditation Center, following the Treatise on the Establishment of Consciousness Only. Your “known” marks and best scores stay in this browser only.<br>論文定義引自本站《五蘊論》與《顯揚聖教論》卷一譯文；白話解說依《成唯識論》以本中心的話寫成。標記與成績只存在你的瀏覽器裡。</p></div>
+
+  <div class="bf-scrim" id="bfScrim"></div>
+  <aside class="bf-card" id="bfCard" role="dialog" aria-modal="true" aria-labelledby="bfCardTitle" aria-hidden="true">
+    <div class="bf-card-top">
+      <button class="bf-icon" id="bfPrev" aria-label="Previous dharma">←</button>
+      <button class="bf-icon" id="bfNext" aria-label="Next dharma">→</button>
+      <span class="meta" id="bfCardMeta"></span>
+      <button class="bf-icon" id="bfClose" aria-label="Close">✕</button>
+    </div>
+    <div class="bf-card-body" id="bfCardBody"></div>
+  </aside>
+  <div class="bf-tip" id="bfTip" role="tooltip"></div>
+</div>
+
+<script>
+(function(){
+  var DATA = {"cats":[{"id":"mind","zh":"心法","en":"Mind","n":8,"why_zh":"一切最勝故","why_en":"Supreme above all — mind is the king; everything else is organized around it."},{"id":"factors","zh":"心所有法","en":"Mental Factors","n":51,"why_zh":"與此相應故","why_en":"They correspond with mind and never arise apart from it — the king's ministers."},{"id":"form","zh":"色法","en":"Form","n":11,"why_zh":"二所現影故","why_en":"The image manifested by mind and mental factors; it cannot arise on its own."},{"id":"dissoc","zh":"心不相應行法","en":"Formations Dissociated from Mind","n":24,"why_zh":"三分位差別故","why_en":"Provisional labels laid across the positions of the first three — not further real things."},{"id":"uncond","zh":"無為法","en":"The Unconditioned","n":6,"why_zh":"四所顯示故","why_en":"What the first four disclose when rightly seen — not one more item beside them."}],"groups":[{"id":"univ","zh":"遍行","en":"Universal","n":5,"dzh":"一切心生起時都一定有，八識、三性、九地、一切時都在。","den":"Present whenever any mind arises — in all eight consciousnesses, at every moment."},{"id":"part","zh":"別境","en":"Particular","n":5,"dzh":"各自只緣特定的境，境不對就不起。","den":"Each arises only toward its own kind of object."},{"id":"good","zh":"善","en":"Wholesome","n":11,"dzh":"只和善心相應，能利益此世他世。","den":"Arise only with a wholesome mind; they benefit this life and the next."},{"id":"root","zh":"根本煩惱","en":"Root Afflictions","n":6,"dzh":"煩惱的根，能生出其他隨煩惱。","den":"The roots that give rise to all the secondary afflictions."},{"id":"sec","zh":"隨煩惱","en":"Secondary Afflictions","n":20,"dzh":"隨根本煩惱而起，是根本煩惱的分位或等流。","den":"Follow from the roots — either a phase of one root, or its general outflow."},{"id":"indet","zh":"不定","en":"Indeterminate","n":4,"dzh":"善、惡、無記都不一定，看與什麼心相應。","den":"Not fixed as wholesome or unwholesome; it depends on the mind they join."}],"dharmas":[{"id":"eye-c","zh":"眼識","py":"yǎn shì","skt":"cakṣur-vijñāna","en":"the eye consciousness","cat":"mind","grp":"","qzh":"眼識者，謂從阿賴耶識種子所生，依於眼根，與彼俱轉，緣色境界，了別為性。","qen":"As for eye consciousness: it is produced from a seed in the ālayavijñāna; it depends on the eye faculty and turns together with it; it takes visible form as its object; and its nature is to discriminate.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"依眼根、緣顏色形狀，只認得「現在看到的這個」，不起名字、不作分別判斷。","pen":"Depending on the eye faculty, it knows visible form as it is present — seeing, without yet naming or judging."},{"id":"ear-c","zh":"耳識","py":"ěr shì","skt":"śrotra-vijñāna","en":"the ear consciousness","cat":"mind","grp":"","qzh":"眼識者，謂從阿賴耶識種子所生，依於眼根，與彼俱轉，緣色境界，了別為性。……如是應知，乃至身識。此中差別者，謂各依自根、各緣自境、各別了別。","qen":"As for eye consciousness: it is produced from a seed in the ālayavijñāna; it depends on the eye faculty and turns together with it; it takes visible form as its object; and its nature is to discriminate.……So it should be understood for the rest, down to body consciousness. The differences among them are these: each depends on its own faculty, each takes its own object, and each discriminates separately.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"依耳根、緣聲音。前五識結構相同，差別只在各依自根、各緣自境。","pen":"Depending on the ear faculty, it knows sound. The first five consciousnesses share one structure; each simply has its own faculty and object."},{"id":"nose-c","zh":"鼻識","py":"bí shì","skt":"ghrāṇa-vijñāna","en":"the nose consciousness","cat":"mind","grp":"","qzh":"如是應知，乃至身識。此中差別者，謂各依自根、各緣自境、各別了別。","qen":"So it should be understood for the rest, down to body consciousness. The differences among them are these: each depends on its own faculty, each takes its own object, and each discriminates separately.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"依鼻根、緣香氣。","pen":"Depending on the nose faculty, it knows smell."},{"id":"tongue-c","zh":"舌識","py":"shé shì","skt":"jihvā-vijñāna","en":"the tongue consciousness","cat":"mind","grp":"","qzh":"如是應知，乃至身識。此中差別者，謂各依自根、各緣自境、各別了別。","qen":"So it should be understood for the rest, down to body consciousness. The differences among them are these: each depends on its own faculty, each takes its own object, and each discriminates separately.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"依舌根、緣味道。","pen":"Depending on the tongue faculty, it knows taste."},{"id":"body-c","zh":"身識","py":"shēn shì","skt":"kāya-vijñāna","en":"the body consciousness","cat":"mind","grp":"","qzh":"如是應知，乃至身識。此中差別者，謂各依自根、各緣自境、各別了別。","qen":"So it should be understood for the rest, down to body consciousness. The differences among them are these: each depends on its own faculty, each takes its own object, and each discriminates separately.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"依身根、緣冷熱軟硬等觸覺。","pen":"Depending on the body faculty, it knows the tangible — warmth, cold, softness, hardness."},{"id":"mind-c","zh":"意識","py":"yì shì","skt":"mano-vijñāna","en":"the mind consciousness","cat":"mind","grp":"","qzh":"意識者，謂從阿賴耶識種子所生，依於意根與彼俱轉，緣一切共不共法為境，了別為性。","qen":"As for mental consciousness: it is produced from a seed in the ālayavijñāna; it depends on the faculty of mentation and turns together with it; it takes as its object all things, both those held in common with the other consciousnesses and those not; and its nature is to discriminate.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"第六識，以末那為根，能緣一切法：思考、回憶、想像、命名、判斷都是它。造業與修行的主角。","pen":"The sixth consciousness, rooted in manas, can take any dharma as object — thinking, remembering, imagining, naming, judging. It is the main actor in both making karma and practicing the path."},{"id":"manas","zh":"末那識","py":"mò nà shì","skt":"manas","en":"the manas","cat":"mind","grp":"","qzh":"意者，謂從阿賴耶識種子所生，還緣彼識，我癡我愛我我所執我慢相應或翻彼相應，於一切時恃舉為行或平等行，與彼俱轉，了別為性。","qen":"As for mentation: it is produced from a seed in the ālayavijñāna, and it turns back to take that very consciousness as its object. It is associated with self-delusion, self-love, the grasping at \"I\" and \"mine,\" and self-conceit — or else with the reverse of these. At all times its mode of activity is self-assertion, or else evenness. It turns together with that consciousness, and its nature is to discriminate.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"第七識，恆時審察思量，把阿賴耶識執為「我」，常與我癡、我見、我慢、我愛四煩惱同起。是「我執」最深的根。","pen":"The seventh consciousness, constantly deliberating, takes the ālayavijñāna to be a self and is always joined by four afflictions: self-delusion, self-view, self-conceit, and self-love. It is the deepest root of self-grasping."},{"id":"alaya","zh":"阿賴耶識","py":"ā lài yē shì","skt":"ālaya-vijñāna","en":"the ālayavijñāna","cat":"mind","grp":"","qzh":"阿賴耶識者，謂能攝藏一切種子故，又能攝藏我慢相故，又復緣身為境界故。","qen":"The ālayavijñāna is so called because it is able to store and gather all seeds, because it is able to store and gather the mark of self-conceit, and because it further takes the body as its object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"第八識，含藏一切種子，執持身體、變現器世間，是生死相續的根本；也是異熟果報的主體。","pen":"The eighth consciousness stores all seeds, holds the body together, and manifests the world we live in. It carries life to life, and it is the ripened result of past karma."},{"id":"attention","zh":"作意","py":"zuò yì","skt":"manaskāra","en":"attention","cat":"factors","grp":"univ","qzh":"云何作意？謂能令心發悟為性。","qen":"What is attention? The nature of what rouses the mind to awareness.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"把心「叫醒」並引向對象。一切認識的第一步。","pen":"It rouses the mind and turns it toward an object — the first step of every act of knowing."},{"id":"contact","zh":"觸","py":"chù","skt":"sparśa","en":"contact","cat":"factors","grp":"univ","qzh":"云何為觸？謂三和合分別為性。","qen":"What is contact? The nature of discernment born of the coming together of the three.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"根、境、識三者和合時，讓心與心所「碰觸」到境；受、想、思都依它而起。","pen":"When faculty, object, and consciousness come together, contact lets mind and its factors meet the object. Feeling, perception, and volition all depend on it."},{"id":"feeling","zh":"受","py":"shòu","skt":"vedanā","en":"feeling","cat":"factors","grp":"univ","qzh":"云何受蘊？謂三領納：一、苦，二、樂，三、不苦不樂。樂謂滅時有和合欲；苦謂生時有乖離欲；不苦不樂謂無二欲。","qen":"What is the aggregate of feeling? The threefold experiencing: painful, pleasant, and neither painful nor pleasant. The pleasant is such that, when it ceases, there is a wish to be joined with it again; the painful is such that, when it arises, there is a wish to be parted from it; the neither painful nor pleasant is such that there is neither wish.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"領納境界的感受：苦、樂、不苦不樂。順境生樂、逆境生苦，進一步引起愛憎。","pen":"The experience of an object as pleasant, painful, or neither. Pleasant feeling draws craving; painful feeling draws aversion."},{"id":"perception","zh":"想","py":"xiǎng","skt":"saṃjñā","en":"perception","cat":"factors","grp":"univ","qzh":"云何想蘊？謂於境界，取種種相。","qen":"What is the aggregate of perception? The grasping of the various marks of an object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"在境上「取像」，抓出特徵、安立名稱：「這是紅的」「這是花」。","pen":"It takes the image of an object, picks out its features, and gives it a name: \"this is red,\" \"this is a flower.\""},{"id":"volition","zh":"思","py":"sī","skt":"cetanā","en":"volition","cat":"factors","grp":"univ","qzh":"云何為思？謂於功德過失及俱相違，令心造作，意業為性。","qen":"What is volition? The nature of mental karma, which impels the mind to act with respect to virtue, fault, and what is neither.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"驅使心去造作，就是「業」的本體。善惡業都以思為體。","pen":"It drives the mind to act; volition is what karma essentially is. Every wholesome or unwholesome deed has volition as its substance."},{"id":"aspiration","zh":"欲","py":"yù","skt":"chanda","en":"aspiration","cat":"factors","grp":"part","qzh":"云何為欲？謂於可愛事，希望為性。","qen":"What is aspiration? The nature of longing for something desirable.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對喜歡的境起希望、想要。善欲是精進的依靠。這裡的「欲」本身不一定是貪。","pen":"A wish toward what is desired. Wholesome aspiration is the basis of diligence. In itself it is not the same as craving."},{"id":"resolve","zh":"勝解","py":"shèng jiě","skt":"adhimokṣa","en":"resolve","cat":"factors","grp":"part","qzh":"云何勝解？謂於決定事，即如所了印可為性。","qen":"What is resolve? The nature of affirming, exactly as it has been understood, a matter that is settled.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對已經確定的境，堅定地認可、印持，別人說也不動搖。","pen":"Firm confirmation of something already settled — a conviction others cannot talk you out of."},{"id":"recollection","zh":"念","py":"niàn","skt":"smṛti","en":"recollection","cat":"factors","grp":"part","qzh":"云何為念？謂於串習事，令心不忘明記為性。","qen":"What is recollection? The nature of keeping the mind from forgetting, clearly holding in mind a matter grown familiar through practice.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對曾經熟習的境，明明白白記住不忘。正念是定的基礎。","pen":"Clear, unforgetting recall of what has become familiar. Right recollection is the basis of concentration."},{"id":"concentration","zh":"定","py":"dìng","skt":"samādhi","en":"concentration","cat":"factors","grp":"part","qzh":"云何三摩地？謂於所觀事，令心一境不散為性。","qen":"What is concentration? The nature of keeping the mind on a single object of contemplation, undistracted.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對所觀的境，令心專注不散。定能生慧。","pen":"Keeping the mind on what it contemplates, undistracted. Concentration gives rise to wisdom."},{"id":"wisdom","zh":"慧","py":"huì","skt":"prajñā","en":"wisdom","cat":"factors","grp":"part","qzh":"云何為慧？謂即於彼擇法為性；或如理所引，或不如理所引，或俱非所引。","qen":"What is wisdom? The nature of discerning the dharma with respect to that very object — whether drawn out by correct reasoning, by incorrect reasoning, or by neither.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對所觀的境揀擇、判斷，能斷疑惑。有正慧，也有染污的惡慧。","pen":"Discerning and sorting out what is contemplated, so that doubt is cut off. It can be correct, or it can be defiled."},{"id":"faith","zh":"信","py":"xìn","skt":"śraddhā","en":"faith","cat":"factors","grp":"good","qzh":"云何為信？謂於業果諸諦寶中，極正符順，心淨為性。","qen":"What is faith? The nature of a mind made pure, in complete and correct accord with karma and its fruit, the truths, and the Three Jewels.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對真實的道理、三寶的功德、自己能修成，深深認可、歡喜、想要，心因此清淨。像清水珠讓濁水變清。","pen":"Deep acceptance of what is true, joy in the virtues of the Three Jewels, and confidence that one can attain them. Faith makes the mind clear, as a water-clearing gem clears muddy water."},{"id":"diligence","zh":"精進","py":"jīng jìn","skt":"vīrya","en":"diligence","cat":"factors","grp":"good","qzh":"云何精進？謂懈怠對治，心於善品勇悍為性。","qen":"What is diligence? The antidote to laziness — the nature of a mind bold and vigorous in wholesome things.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"斷惡修善時勇猛不退。對治懈怠。","pen":"Courageous, unflagging effort in abandoning the harmful and cultivating the good. The antidote to laziness."},{"id":"shame","zh":"慚","py":"cán","skt":"hrī","en":"sense of shame","cat":"factors","grp":"good","qzh":"云何為慚？謂自增上，及法增上，於所作罪羞恥為性。","qen":"What is a sense of shame? The nature of feeling shame for a wrong one has done, out of respect for oneself and for the dharma.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"依自己的良知與對法的尊重，崇敬賢善、不肯作惡。向內看：「我不該這樣做。」","pen":"Out of self-respect and regard for the Dharma, one honors the good and refuses to do wrong. It looks inward: \"I should not do this.\""},{"id":"embarrassment","zh":"愧","py":"kuì","skt":"apatrāpya","en":"sense of embarrassment","cat":"factors","grp":"good","qzh":"云何為愧？謂世增上，於所作罪羞恥為性。","qen":"What is a sense of embarrassment? The nature of feeling shame for a wrong one has done, out of respect for the world.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"依世間的評價與監督，輕視、拒絕惡行。向外看：「別人會怎麼看？」","pen":"Out of regard for the world's judgment, one rejects harmful conduct. It looks outward: \"What would others think?\""},{"id":"non-greed","zh":"無貪","py":"wú tān","skt":"alobha","en":"non-greed","cat":"factors","grp":"good","qzh":"云何無貪？謂貪對治，令深厭患無著為性。","qen":"What is non-greed? The antidote to craving — the nature of deep aversion and detachment.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對三界的存在與享受不貪著。對治貪。","pen":"Non-attachment to existence and its enjoyments. The antidote to craving."},{"id":"non-hatred","zh":"無瞋","py":"wú chēn","skt":"adveṣa","en":"non-hatred","cat":"factors","grp":"good","qzh":"云何無瞋？謂瞋對治，以慈為性。","qen":"What is non-hatred? The antidote to hatred — the nature of loving-kindness.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"面對苦和造成苦的人事不起恚恨，以慈為性。對治瞋。","pen":"No hostility toward suffering or its causes; its nature is loving-kindness. The antidote to hatred."},{"id":"non-delusion","zh":"無癡","py":"wú chī","skt":"amoha","en":"non-delusion","cat":"factors","grp":"good","qzh":"云何無癡？謂癡對治，以其如實正行為性。","qen":"What is non-delusion? The antidote to delusion — the nature of correct conduct in accordance with how things really are.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對事理明白通達。對治愚癡。","pen":"Clear understanding of things and principles. The antidote to delusion."},{"id":"pliancy","zh":"輕安","py":"qīng ān","skt":"praśrabdhi","en":"pliancy","cat":"factors","grp":"good","qzh":"云何輕安？謂麁重對治，身心調暢堪能為性。","qen":"What is pliancy? The antidote to coarse heaviness — the nature of a body and mind made pliant and capable.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"遠離身心粗重，調和舒暢、堪能修行。是得定的徵兆，對治惛沈。","pen":"Body and mind freed from heaviness, light and workable for practice. A sign of concentration; the antidote to torpor."},{"id":"heedfulness","zh":"不放逸","py":"bù fàng yì","skt":"apramāda","en":"heedfulness","cat":"factors","grp":"good","qzh":"云何不放逸？謂放逸對治，即是無貪乃至精進。依止此故，捨不善法及即修彼對治善法。","qen":"What is heedfulness? The antidote to heedlessness — it is simply non-greed on through diligence. In dependence on these, one abandons unwholesome things and cultivates the wholesome things that counteract them.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"依精進與三善根，防止惡、修習善。不是獨立的實法，是這四法的作用。","pen":"Relying on diligence and the three wholesome roots, it guards against harm and cultivates the good. Not a separate entity — it is how those four work together."},{"id":"equanimity","zh":"行捨","py":"xíng shě","skt":"upekṣā","en":"equanimity of formations","cat":"factors","grp":"good","qzh":"云何為捨？謂即無貪乃至精進。依止此故，獲得所有心平等性，心正直性，心無發悟性。又由此故，於已除遣染污法中，無染安住。","qen":"What is equanimity? It is simply non-greed on through diligence. In dependence on these, one obtains a mind that is even, upright, and free of the need to be roused. And by this, one abides without defilement among defiled things already dispelled.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"讓心平等、正直、不費力地安住，不掉舉。這是「行蘊」的捨，不是「捨受」。","pen":"Lets the mind rest evenly, upright, without effort, free of restlessness. This is equanimity among formations — not the neutral feeling."},{"id":"non-harming","zh":"不害","py":"bù hài","skt":"ahiṃsā","en":"non-harming","cat":"factors","grp":"good","qzh":"云何不害？謂害對治，以悲為性。","qen":"What is non-harming? The antidote to harmfulness — the nature of compassion.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"不惱害眾生，以悲為性。對治害。","pen":"Not harming sentient beings; its nature is compassion. The antidote to harmfulness."},{"id":"craving","zh":"貪","py":"tān","skt":"rāga","en":"craving","cat":"factors","grp":"root","qzh":"云何為貪？謂於五取蘊染愛耽著為性。","qen":"What is craving? The nature of defiled attachment and addiction to the five appropriated aggregates.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對五取蘊染愛執著。能生苦。","pen":"Defiled attachment to the five appropriated aggregates. It produces suffering."},{"id":"hatred","zh":"瞋","py":"chēn","skt":"pratigha","en":"hatred","cat":"factors","grp":"root","qzh":"云何為瞋？謂於有情樂作損害為性。","qen":"What is hatred? The nature of delighting in doing harm to sentient beings.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對眾生樂於損害，對苦和苦因憎恚。是一切不安與惡行的依靠。","pen":"Delight in harming beings; hostility toward suffering and its causes. It is the basis of unease and harmful deeds."},{"id":"conceit","zh":"慢","py":"màn","skt":"māna","en":"conceit","cat":"factors","grp":"root","qzh":"云何慢？謂於劣計己勝、或於等計己等，心高舉為性。","qen":"What is conceit? The nature of an exalted mind that considers itself superior to an inferior, or equal to an equal.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"依仗自己而高舉於人。比人勝、比人等、甚至自卑，只要心「高舉」都是慢；共七種。","pen":"Exalting oneself over others. Feeling superior, equal, or even inferior — whenever the mind puffs itself up, it is conceit. There are seven kinds."},{"id":"delusion","zh":"無明","py":"wú míng","skt":"avidyā","en":"delusion","cat":"factors","grp":"root","qzh":"云何無明？謂於業果及諦寶中無智為性。此復二種，所謂俱生、分別所起。又欲纏貪、瞋及欲纏無明，名三不善根，謂貪不善根、瞋不善根、癡不善根。","qen":"What is delusion? The nature of ignorance concerning karma and its fruit, the truths, and the Three Jewels. It is again of two kinds: innate, and arisen through discrimination. Further, craving bound to the desire realm, hatred, and delusion bound to the desire realm are named the three unwholesome roots: the unwholesome root of craving, the unwholesome root of hatred, and the unwholesome root of delusion.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"又名「癡」。對業果、四諦、三寶無知。一切雜染都依它而起。","pen":"Also called 癡. Not knowing karma and its fruit, the truths, or the Three Jewels. All defilement depends on it."},{"id":"doubt","zh":"疑","py":"yí","skt":"vicikitsā","en":"doubt","cat":"factors","grp":"root","qzh":"云何為疑？謂於諦等猶豫為性。諸煩惱中，後三見及疑唯分別起，餘通俱生及分別起。","qen":"What is doubt? The nature of wavering with respect to the truths and the rest. Among the afflictions, these last three views and doubt arise only through discrimination; the rest occur both innately and through discrimination.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對真理猶豫不決，障礙善法生起。","pen":"Wavering about the truths, which blocks wholesome states from arising."},{"id":"wrong-view","zh":"不正見","py":"bù zhèng jiàn","skt":"dṛṣṭi","en":"wrong view","cat":"factors","grp":"root","qzh":"云何為見？所謂五見：一、薩迦耶見，二、邊執見，三、邪見，四、見取，五、戒禁取。","qen":"What is wrong view? The five views: the view of a substantial body, the extremist view, wrong view proper, clinging to views, and clinging to rules and rituals.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"染污的慧，顛倒推度。分五見：身見、邊見、邪見、見取見、戒禁取見。","pen":"Defiled wisdom that reasons upside-down. It has five forms: view of a self, extremist view, wrong view proper, clinging to views, and clinging to rules and rituals."},{"id":"wrath","zh":"忿","py":"fèn","skt":"krodha","en":"wrath","cat":"factors","grp":"sec","qzh":"云何為忿？謂遇現前不饒益事心損惱為性。","qen":"What is wrath? The nature of a mind injured and vexed upon meeting some present harm.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"遇到眼前不利的境，當下憤怒爆發，甚至想動手。是瞋的一個分位。","pen":"A sudden flare of anger at some present harm, ready to strike. A phase of hatred."},{"id":"resentment","zh":"恨","py":"hèn","skt":"upanāha","en":"resentment","cat":"factors","grp":"sec","qzh":"云何為恨？謂結怨不捨為性。","qen":"What is resentment? The nature of harboring a grudge without letting go.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"忿過之後懷恨不放，結成怨仇，自己熱惱。","pen":"After the anger passes, holding the grudge and nursing enmity, which burns oneself."},{"id":"vexation","zh":"惱","py":"nǎo","skt":"pradāśa","en":"vexation","cat":"factors","grp":"sec","qzh":"云何為惱？謂發暴惡言尤䖧為性。","qen":"What is vexation? The nature of bursting out with harsh, cruel words that wound.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"忿恨在先，追想舊事而暴躁，說出尖刻傷人的話。","pen":"Prompted by wrath and resentment, it dwells on old grievances and lashes out with harsh, stinging words."},{"id":"concealment","zh":"覆","py":"fù","skt":"mrakṣa","en":"concealment","cat":"factors","grp":"sec","qzh":"云何為覆？謂於自罪覆藏為性。","qen":"What is concealment? The nature of hiding one's own wrongdoing.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"怕失去利益名譽，隱藏自己的過錯。後來會悔惱不安。","pen":"Hiding one's own wrongdoing for fear of losing gain or reputation; it leads to later remorse."},{"id":"deceit","zh":"誑","py":"kuáng","skt":"māyā","en":"deceit","cat":"factors","grp":"sec","qzh":"云何為誑？謂為誑他詐現不實事為性。","qen":"What is deceit? The nature of falsely presenting what is untrue, in order to deceive others.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"為了名利，假裝自己有德行，詭詐騙人。","pen":"Pretending to virtues one lacks, for gain or praise."},{"id":"flattery","zh":"諂","py":"chǎn","skt":"śāṭhya","en":"flattery","cat":"factors","grp":"sec","qzh":"云何為諂？謂覆藏自過方便所攝心曲為性。","qen":"What is flattery? The nature of a crooked mind, given to devices that conceal one's own faults.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"為了籠絡別人或掩飾過失，心機彎曲、曲意逢迎，不接受正直的教誨。","pen":"A crooked mind that ingratiates and maneuvers to win people over or cover its faults, closed to honest advice."},{"id":"arrogance","zh":"憍","py":"jiāo","skt":"mada","en":"arrogance","cat":"factors","grp":"sec","qzh":"云何為憍？謂於自盛事染著倨傲心恃為性。","qen":"What is arrogance? The nature of a mind conceited and presumptuous, attached to its own flourishing.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對自己的好事（家世、相貌、才能）沉醉傲慢。","pen":"Intoxicated pride in one's own fortunes — family, looks, talent."},{"id":"harmfulness","zh":"害","py":"hài","skt":"vihiṃsā","en":"harmfulness","cat":"factors","grp":"sec","qzh":"云何為害？謂於諸有情損惱為性。","qen":"What is harmfulness? The nature of injuring and vexing sentient beings.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對眾生沒有悲憫，損惱逼迫他們。是瞋的分位，與不害相反。","pen":"Lack of compassion that injures and oppresses beings. A phase of hatred; the opposite of non-harming."},{"id":"envy","zh":"嫉","py":"jí","skt":"īrṣyā","en":"envy","cat":"factors","grp":"sec","qzh":"云何為嫉？謂於他盛事心妬為性。","qen":"What is envy? The nature of a mind jealous of another's flourishing.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"為自己的名利，見不得別人好，妒忌憂戚。","pen":"Unable to bear another's success, for the sake of one's own gain; it brings gloom."},{"id":"stinginess","zh":"慳","py":"qiān","skt":"mātsarya","en":"stinginess","cat":"factors","grp":"sec","qzh":"云何為慳？謂施相違心悋為性。","qen":"What is stinginess? The nature of a mind that begrudges giving, the opposite of generosity.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"執著財物與佛法，捨不得給，祕藏吝惜。","pen":"Clinging to possessions — or to teachings — unwilling to give, hoarding."},{"id":"no-shame","zh":"無慚","py":"wú cán","skt":"āhrīkya","en":"lack of shame","cat":"factors","grp":"sec","qzh":"云何無慚？謂於所作罪不自羞恥為性。","qen":"What is lack of shame? The nature of feeling no shame in oneself for a wrong one has done.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"不顧自己的良知與法，輕視賢善。","pen":"Disregarding one's conscience and the Dharma, scorning the good."},{"id":"no-embarrassment","zh":"無愧","py":"wú kuì","skt":"anapatrāpya","en":"lack of embarrassment","cat":"factors","grp":"sec","qzh":"云何無愧？謂於所作罪不羞恥他為性。","qen":"What is lack of embarrassment? The nature of feeling no shame before others for a wrong one has done.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"不顧世間的眼光，崇尚暴惡。","pen":"Disregarding the world's judgment, favoring the harmful."},{"id":"no-faith","zh":"不信","py":"bù xìn","skt":"āśraddhya","en":"lack of faith","cat":"factors","grp":"sec","qzh":"云何不信？謂信所對治，於業果等不正信順，心不清淨為性。","qen":"What is lack of faith? The antidote to which is faith — the nature of a mind not made pure, not rightly trusting and according with karma and its fruit and the rest.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對真實、功德、能力不認可不喜樂，心穢濁。是懈怠的依靠。","pen":"No acceptance or joy toward what is true, virtuous, and possible; the mind stays murky. It is the basis of laziness."},{"id":"laziness","zh":"懈怠","py":"xiè dài","skt":"kausīdya","en":"laziness","cat":"factors","grp":"sec","qzh":"云何懈怠？謂精進所治，於諸善品心不勇猛為性。","qen":"What is laziness? The antidote to which is diligence — the nature of a mind not bold in wholesome things.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"斷惡修善時懶惰。勤於惡事也算懈怠。","pen":"Sluggishness in abandoning harm and cultivating good. Even energy spent on harmful things counts as laziness."},{"id":"heedlessness","zh":"放逸","py":"fàng yì","skt":"pramāda","en":"heedlessness","cat":"factors","grp":"sec","qzh":"云何放逸？謂即由貪瞋癡懈怠故，於諸煩惱心不防護，於諸善品不能修習為性。","qen":"What is heedlessness? The nature of a mind that, through craving, hatred, delusion, and laziness, fails to guard against the afflictions and is unable to cultivate wholesome things.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"不防惡、不修善，放縱散蕩。依貪瞋癡與懈怠而立，沒有獨立的體。","pen":"Neither guarding against harm nor cultivating good — drifting at will. It rests on craving, hatred, delusion, and laziness and has no separate entity."},{"id":"torpor","zh":"惛沈","py":"hūn chén","skt":"styāna","en":"torpor","cat":"factors","grp":"sec","qzh":"云何惛沈？謂心不調暢無所堪能蒙昧為性。","qen":"What is torpor? The nature of a mind unpliant, incapable, and clouded.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"心昏昧沉重，沒有堪能。障礙輕安與觀。","pen":"The mind heavy and dull, unworkable. It obstructs pliancy and insight."},{"id":"restlessness","zh":"掉舉","py":"diào jǔ","skt":"auddhatya","en":"restlessness","cat":"factors","grp":"sec","qzh":"云何掉舉？謂心不寂靜為性。","qen":"What is restlessness? The nature of a mind that is not still.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"心不寂靜，浮動向外。障礙行捨與止。","pen":"The mind not still, bobbing outward. It obstructs equanimity and calm abiding."},{"id":"forgetfulness","zh":"失念","py":"shī niàn","skt":"muṣitasmṛtitā","en":"forgetfulness","cat":"factors","grp":"sec","qzh":"云何失念？謂染污念，於諸善法不能明記為性。","qen":"What is forgetfulness? Defiled recollection — the nature of being unable to hold wholesome things clearly in mind.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對所緣記不清楚，是染污的念。散亂依它而起。","pen":"Failing to keep the object clearly in mind — defiled recollection. Distraction arises from it."},{"id":"incorrect-knowledge","zh":"不正知","py":"bù zhèng zhī","skt":"asaṃprajanya","en":"incorrect knowledge","cat":"factors","grp":"sec","qzh":"云何不正知？謂於身語意現前行中不正依住為性。","qen":"What is incorrect knowledge? The nature of resting incorrectly on present conduct of body, speech, and mind.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"對所觀的境錯誤理解，身口意的行為不能正確覺知，因而毀犯。","pen":"Misunderstanding what is observed and losing proper awareness of one's own actions, which leads to transgression."},{"id":"distraction","zh":"散亂","py":"sàn luàn","skt":"vikṣepa","en":"distraction","cat":"factors","grp":"sec","qzh":"云何散亂？謂貪瞋癡分心流蕩為性。","qen":"What is distraction? The nature of a mind drifting and scattering, a facet of craving, hatred, and delusion.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"心在不同的所緣間流蕩，換來換去。障礙正定。","pen":"The mind wandering from object to object. It obstructs right concentration."},{"id":"sleep","zh":"睡眠","py":"shuì mián","skt":"middha","en":"sleep","cat":"factors","grp":"indet","qzh":"云何睡眠？謂不自在轉心極昧略為性。","qen":"What is sleep? The nature of a mind turning without mastery of itself, utterly dim and contracted.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"令身不自在、心極闇昧收縮。善人、惡人都會睡，所以不定。","pen":"Makes the body heavy and the mind dim and contracted. Good and bad people alike sleep, so it is indeterminate."},{"id":"regret","zh":"惡作","py":"wù zuò","skt":"kaukṛtya","en":"regret","cat":"factors","grp":"indet","qzh":"云何惡作？謂心變悔為性。","qen":"What is regret? The nature of a mind that turns back on itself in remorse.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"「厭惡所作」：對做過或沒做的事追悔。悔惡是善，悔善是惡，所以不定。障礙止。","pen":"Literally \"disliking what was done\": remorse over what one did or failed to do. Regretting harm is wholesome; regretting good is not. It obstructs calm."},{"id":"coarse-thought","zh":"尋","py":"xún","skt":"vitarka","en":"coarse discursive thought","cat":"factors","grp":"indet","qzh":"云何為尋？謂能尋求意言分別思慧差別令心麁為性。","qen":"What is coarse discursive thought? The nature of a distinct working of volition and wisdom that searches through mental speech, making the mind coarse.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"在心中言語上粗略地尋求，心較急躁。","pen":"Rough searching through inner speech; the mind moves quickly and coarsely."},{"id":"subtle-thought","zh":"伺","py":"sì","skt":"vicāra","en":"subtle discursive thought","cat":"factors","grp":"indet","qzh":"云何為伺？謂能伺察意言分別思慧差別令心細為性。","qen":"What is subtle discursive thought? The nature of a distinct working of volition and wisdom that examines through mental speech, making the mind fine.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"在心中言語上細密地伺察，心較細緻。","pen":"Fine examining through inner speech; the mind moves subtly."},{"id":"eye","zh":"眼","py":"yǎn","skt":"cakṣus","en":"the eye","cat":"form","grp":"","qzh":"云何眼根？謂色為境清淨色。","qen":"What is the eye faculty? Translucent form that takes form as its object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"眼根：不是眼球，而是眼球中能發起眼識的清淨色（淨色根）。","pen":"The eye faculty: not the eyeball, but the subtle, translucent matter within it that lets eye consciousness arise."},{"id":"ear","zh":"耳","py":"ěr","skt":"śrotra","en":"the ear","cat":"form","grp":"","qzh":"云何耳根？謂聲為境清淨色。","qen":"What is the ear faculty? Translucent form that takes sound as its object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"耳根：能發起耳識的清淨色。","pen":"The ear faculty: translucent matter that lets ear consciousness arise."},{"id":"nose","zh":"鼻","py":"bí","skt":"ghrāṇa","en":"the nose","cat":"form","grp":"","qzh":"云何鼻根？謂香為境清淨色。","qen":"What is the nose faculty? Translucent form that takes smell as its object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"鼻根：能發起鼻識的清淨色。","pen":"The nose faculty: translucent matter that lets nose consciousness arise."},{"id":"tongue","zh":"舌","py":"shé","skt":"jihvā","en":"the tongue","cat":"form","grp":"","qzh":"云何舌根？謂味為境清淨色。","qen":"What is the tongue faculty? Translucent form that takes taste as its object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"舌根：能發起舌識的清淨色。","pen":"The tongue faculty: translucent matter that lets tongue consciousness arise."},{"id":"body","zh":"身","py":"shēn","skt":"kāya","en":"the body","cat":"form","grp":"","qzh":"云何身根？謂所觸為境清淨色。","qen":"What is the body faculty? Translucent form that takes the tangible as its object.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"身根：遍布全身、能發起身識的清淨色。","pen":"The body faculty: translucent matter throughout the body that lets body consciousness arise."},{"id":"visible","zh":"色","py":"sè","skt":"rūpa","en":"form","cat":"form","grp":"","qzh":"云何為色？謂眼境界，顯色、形色及表色等。","qen":"What is form? It is the object of the eye — color, shape, and expressive form, and the like.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"眼識的對象：顏色、形狀、動作表情。","pen":"The object of the eye: color, shape, and expressive movement."},{"id":"sound","zh":"聲","py":"shēng","skt":"śabda","en":"sound","cat":"form","grp":"","qzh":"云何為聲？謂耳境界，執受大種因聲，非執受大種因聲，俱大種因聲。","qen":"What is sound? It is the object of the ear — sound caused by appropriated great elements, sound caused by non-appropriated great elements, and sound caused by both together.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"耳識的對象：有情發出的、無情發出的、兩者共發的聲音。","pen":"The object of the ear: sounds from living beings, from inanimate things, or from both."},{"id":"smell","zh":"香","py":"xiāng","skt":"gandha","en":"smell","cat":"form","grp":"","qzh":"云何為香？謂鼻境界，好香、惡香、及所餘香。","qen":"What is smell? It is the object of the nose — good smell, bad smell, and every other smell.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"鼻識的對象：好香、惡香及其他氣味。","pen":"The object of the nose: pleasant, unpleasant, and other smells."},{"id":"taste","zh":"味","py":"wèi","skt":"rasa","en":"taste","cat":"form","grp":"","qzh":"云何為味？謂舌境界，甘味、酢味、醎味、辛味、苦味、淡味。","qen":"What is taste? It is the object of the tongue — sweet, sour, salty, pungent, bitter, and bland.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"舌識的對象：甘、酸、鹹、辛、苦、淡。","pen":"The object of the tongue: sweet, sour, salty, pungent, bitter, bland."},{"id":"tangible","zh":"觸","py":"chù","skt":"spraṣṭavya","en":"touch","cat":"form","grp":"","qzh":"云何為所觸一分？謂身境界，除四大種餘所造觸，滑性、澁性、重性、輕性、冷、飢、渴等。","qen":"What is part of the tangible? It is the object of the body — the further forms made, apart from the four great elements themselves: smoothness, roughness, heaviness, lightness, cold, hunger, and thirst, and the like.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"身識的對象：四大種，以及滑、澀、輕、重、冷、飢、渴等。注意：這是色法的「觸境」，不是遍行心所的「觸」。","pen":"The object of the body: the four elements, plus smoothness, roughness, weight, cold, hunger, thirst. Note: this is the tangible object, not the universal mental factor \"contact.\""},{"id":"dharma-form","zh":"法處所攝色","py":"fǎ chù suǒ shè sè","skt":"dharmāyatana-saṃgṛhīta-rūpa","en":"form included in the dharma sense field","cat":"form","grp":"","qzh":"云何名為無表色等？謂有表業及三摩地所生色等，無見無對。","qen":"What is called non-informative form and the rest? It is the form produced by informative action and by concentration, which is invisible and offers no resistance.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"只有意識能緣的色，例如受戒後身中的「戒體」（無表色）、定中所現的色、極微。","pen":"Form that only the mind consciousness can know — such as the \"precept body\" received at ordination (non-informative form), images arising in concentration, and atoms."},{"id":"possession","zh":"得","py":"dé","skt":"prāpti","en":"possession","cat":"dissoc","grp":"","qzh":"云何為得？謂若獲若成就。此復三種，謂若種子、若自在、若現前，如其所應。","qen":"What is possession? Acquisition, or attainment. It is again of three kinds — as seed, as mastery, or as presently manifest — as is appropriate in each case.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"某法「成就、不失」的狀態，例如成就種子、成就某種能力。依種子與現行假立。","pen":"The state of having acquired something and not losing it — a seed, a mastery, or something present. Provisionally set up on seeds and active states."},{"id":"life","zh":"命根","py":"mìng gēn","skt":"jīvitendriya","en":"the life faculty","cat":"dissoc","grp":"","qzh":"云何命根？謂於眾同分中，先業所引，住時決定為性。","qen":"What is the life faculty? The nature of a fixed span of abiding, drawn forth by prior karma, within one's class-commonality.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"前業決定的一期壽命。依第八識種子持身的功能假立。","pen":"The span of one life fixed by past karma. Provisionally set up on the eighth consciousness's power to hold the body."},{"id":"class","zh":"眾同分","py":"zhòng tóng fèn","skt":"nikāya-sabhāgatā","en":"class-commonality","cat":"dissoc","grp":"","qzh":"云何眾同分？謂諸有情自類相似為性。","qen":"What is class-commonality? The nature of resemblance among sentient beings of the same kind.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"同類眾生彼此相似的共同點，例如「人」之所以為人。","pen":"What beings of one kind share — what makes humans human, for example."},{"id":"ordinary","zh":"異生性","py":"yì shēng xìng","skt":"pṛthagjanatva","en":"the state of an ordinary being","cat":"dissoc","grp":"","qzh":"云何異生性？謂於諸聖法不得為性。如是等類已說行蘊。","qen":"What is the state of an ordinary being? The nature of not having attained the noble dharmas. Such is the aggregate of formations, now explained.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"還沒證得聖法的凡夫狀態。依見道所斷的種子尚未斷而假立。","pen":"The state of an ordinary person who has not attained the noble dharmas; it lasts as long as the seeds cut at the path of seeing remain."},{"id":"no-thought-att","zh":"無想定","py":"wú xiǎng dìng","skt":"asaṃjñi-samāpatti","en":"the attainment of no-thought","cat":"dissoc","grp":"","qzh":"云何無想等至？謂已離遍淨貪、未離上貪，由出離想作意為先，不恒現行心心法滅為性。","qen":"What is the attainment of no-thought? One who has become free of desire for the sphere of universal purity but not yet free of desire for what lies above — preceded by an attention set on the notion of release, it is the nature of the cessation of the mind and mental factors that are not constantly present.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"外道厭想而修的定，前六識心心所暫停；以為是涅槃，其實不是。","pen":"A meditative attainment practiced by outsiders who loathe perception: the first six consciousnesses stop. They mistake it for nirvana."},{"id":"cessation-att","zh":"滅盡定","py":"miè jìn dìng","skt":"nirodha-samāpatti","en":"the attainment of cessation","cat":"dissoc","grp":"","qzh":"云何滅盡等至？謂已離無所有處貪，從第一有更求勝進，由止息想作意為先，不恒現行及恒行一分心心法滅為性。","qen":"What is the attainment of cessation? One who has become free of desire for the sphere of nothingness and, from the summit of existence, seeks further advancement — preceded by an attention set on the notion of stilling, it is the nature of the cessation of the mind and mental factors that are not constantly present, together with a portion of those that are constantly present.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"聖者為了止息而入的定，前六識加上第七識的染污部分都暫停。","pen":"An attainment entered by noble ones for rest: the first six consciousnesses and the defiled part of the seventh all cease."},{"id":"no-thought-fruit","zh":"無想報","py":"wú xiǎng bào","skt":"āsaṃjñika","en":"the ripened fruit of no-thought","cat":"dissoc","grp":"","qzh":"云何無想所有？謂無想等至果。無想有情天中生已，不恒現行心心法滅為性。","qen":"What is the fruit of no-thought? The fruit of the attainment of no-thought. Once born among the sentient beings of the heaven of no-thought, it is the nature of the cessation of the mind and mental factors that are not constantly present.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"修無想定的果報：生在無想天，前六識長期不起。","pen":"The fruit of the attainment of no-thought: rebirth in the heaven of no-thought, where the first six consciousnesses long lie dormant."},{"id":"word","zh":"名身","py":"míng shēn","skt":"nāma-kāya","en":"word-groups","cat":"dissoc","grp":"","qzh":"云何名身？謂諸法自性增語為性。","qen":"What are word-groups? The nature of the terms that designate the own-nature of things.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"名詞：詮表事物自性，例如「眼」。","pen":"Words that name what a thing is, like \"eye.\""},{"id":"phrase","zh":"句身","py":"jù shēn","skt":"pada-kāya","en":"phrase-groups","cat":"dissoc","grp":"","qzh":"云何句身？謂諸法差別增語為性。","qen":"What are phrase-groups? The nature of the terms that designate the differentiation of things.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"句子：詮表事物的差別，例如「諸行無常」。","pen":"Phrases that state how things differ, like \"all formations are impermanent.\""},{"id":"syllable","zh":"文身","py":"wén shēn","skt":"vyañjana-kāya","en":"syllable-groups","cat":"dissoc","grp":"","qzh":"云何文身？謂諸字為性，以能表彰前二種故；亦名為顯，由與名句為所依止顯了義故；亦名為字，非差別門所變易故。","qen":"What are syllable-groups? The nature of the letters themselves, since they are what make the previous two manifest. They are also called \"the manifesting,\" since they serve as the basis on which words and phrases become clear in meaning; and they are also called \"letters,\" since they are not altered by the distinctions made through them.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"字母、音節：名與句的依靠。","pen":"Letters and syllables — what words and phrases rest on."},{"id":"birth","zh":"生","py":"shēng","skt":"jāti","en":"birth","cat":"dissoc","grp":"","qzh":"云何為生？謂於眾同分中，諸行本無今有為性。","qen":"What is birth? The nature by which, within a class-commonality, formations that were formerly absent now come to be.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"本來沒有，現在有了。","pen":"What was not, now is."},{"id":"aging","zh":"老","py":"lǎo","skt":"jarā","en":"aging","cat":"dissoc","grp":"","qzh":"云何為老？謂即如是諸行相續變異為性。","qen":"What is aging? The nature of the continuous alteration of these same formations.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"相續中前後變異。","pen":"Change within a continuity, from before to after."},{"id":"abiding","zh":"住","py":"zhù","skt":"sthiti","en":"abiding","cat":"dissoc","grp":"","qzh":"云何為住？謂即如是諸行相續隨轉為性。","qen":"What is abiding? The nature of the continuous carrying-on of these same formations.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"相續中暫時延續。","pen":"Continuing on for a time within a continuity."},{"id":"impermanence","zh":"無常","py":"wú cháng","skt":"anityatā","en":"impermanence","cat":"dissoc","grp":"","qzh":"云何無常？謂即如是諸行相續謝滅為性。","qen":"What is impermanence? The nature of the continuous passing away of these same formations.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"相續中謝滅。生、老、住、無常合為「四相」。","pen":"Passing away within a continuity. Birth, aging, abiding, and impermanence are the four characteristics."},{"id":"continuity","zh":"流轉","py":"liú zhuǎn","skt":"pravṛtti","en":"continuity","cat":"dissoc","grp":"","qzh":"流轉者，謂諸行因果相續不斷性。","qen":"Flow: the unbroken continuity of cause and effect among formations.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"因果相續不斷。","pen":"The unbroken chain of cause and effect."},{"id":"distinction","zh":"定異","py":"dìng yì","skt":"pratiniyama","en":"fixed distinction","cat":"dissoc","grp":"","qzh":"定異者，謂諸行因果各異性。","qen":"Determinate difference: the distinctness of each cause and effect among formations.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"善因得樂果、惡因得苦果，各有一定、不會混亂。","pen":"Each cause has its own fixed kind of effect — good brings happiness, harm brings suffering — never mixed up."},{"id":"correspondence","zh":"相應","py":"xiāng yìng","skt":"yoga","en":"correspondence","cat":"dissoc","grp":"","qzh":"相應者，謂諸行因果相稱性。","qen":"Correspondence: the matching of cause to effect among formations.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"因與果相稱、相配。","pen":"Cause and effect fit each other."},{"id":"swiftness","zh":"勢速","py":"shì sù","skt":"java","en":"swift efficacy","cat":"dissoc","grp":"","qzh":"勢速者，謂諸行流轉迅疾性。","qen":"Velocity: the swiftness of formations in their flowing on.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"諸行生滅流轉的迅速。","pen":"The swiftness with which formations arise and pass on."},{"id":"sequence","zh":"次第","py":"cì dì","skt":"anukrama","en":"sequence","cat":"dissoc","grp":"","qzh":"次第者，謂諸行一一次第流轉性。","qen":"Sequence: the one-after-another flowing on of formations.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"諸行一個接一個、有先後地流轉。","pen":"Formations flowing on one after another, in order."},{"id":"direction","zh":"方","py":"fāng","skt":"deśa","en":"direction","cat":"dissoc","grp":"","qzh":"方者，謂諸色行遍分齊性。","qen":"Place: the pervasive demarcation of formations that are form.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"空間方位：東西南北上下，依色法的分界假立。","pen":"Direction in space — east, west, up, down — set up on the boundaries of form."},{"id":"time","zh":"時","py":"shí","skt":"kāla","en":"time","cat":"dissoc","grp":"","qzh":"時者，謂諸行展轉新新生滅性。","qen":"Time: the ever-renewed arising and ceasing of formations, moment upon moment.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"時間：依諸行念念生滅假立，不是另有一個「時間」在流。","pen":"Time: a label for formations arising and ceasing moment by moment — not some separate thing that flows."},{"id":"number","zh":"數","py":"shù","skt":"saṃkhyā","en":"number","cat":"dissoc","grp":"","qzh":"數者，謂諸行等各別相續體相流轉性。","qen":"Number: the flowing on of formations as distinct continuities, each with its own substance and character.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"一、二、三：依諸法各別相續而假立的數目。","pen":"One, two, three: numbers set up on things being distinct continuities."},{"id":"combination","zh":"和合性","py":"hé hé xìng","skt":"sāmagrī","en":"combination","cat":"dissoc","grp":"","qzh":"和合者，謂諸行緣會性。","qen":"Combination: the meeting of the conditions of formations.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"眾緣聚合、事情得以成就。","pen":"Conditions coming together so that something can happen."},{"id":"non-combination","zh":"不和合性","py":"bù hé hé xìng","skt":"asāmagrī","en":"non-combination","cat":"dissoc","grp":"","qzh":"不和合者，謂諸行緣乖性。","qen":"Non-combination: the divergence of the conditions of formations.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"眾緣乖離、事情不成。","pen":"Conditions failing to come together, so that nothing happens."},{"id":"space","zh":"虛空無為","py":"xū kōng wú wéi","skt":"ākāśa","en":"space","cat":"uncond","grp":"","qzh":"云何虛空？謂若容受諸色。","qen":"What is space? Whatever accommodates form.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"真如離一切障礙，如虛空一般，因此假名虛空。","pen":"Suchness free of all obstruction, like open space — hence provisionally called space."},{"id":"pratisamkhya","zh":"擇滅無為","py":"zé miè wú wéi","skt":"pratisaṃkhyā-nirodha","en":"cessation through discrimination","cat":"uncond","grp":"","qzh":"云何擇滅？謂若滅是離繫。此復云何？謂由煩惱對治故諸蘊畢竟不生。","qen":"What is cessation through discrimination? A cessation that is freedom from bondage. What does this mean? It means that, through the antidote to the afflictions, the aggregates finally do not arise.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"以智慧揀擇、斷除煩惱所顯的寂滅，就是涅槃。","pen":"The cessation revealed when wisdom discerns and cuts off the afflictions — that is, nirvana."},{"id":"apratisamkhya","zh":"非擇滅無為","py":"fēi zé miè wú wéi","skt":"apratisaṃkhyā-nirodha","en":"cessation not through discrimination","cat":"uncond","grp":"","qzh":"云何非擇滅？謂若滅非離繫。此復云何？謂離煩惱對治而諸蘊畢竟不生。","qen":"What is cessation not through discrimination? A cessation that is not freedom from bondage. What does this mean? It means that, apart from the antidote to the afflictions, the aggregates finally do not arise.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"不是靠智慧斷，而是緣不具足，法就永遠不生。也指本來清淨的真如。","pen":"Cessation not by wisdom but because the conditions never come together, so the thing never arises. It also names suchness, pure from the start."},{"id":"immovable","zh":"不動滅無為","py":"bù dòng miè wú wéi","skt":"āniñjya","en":"immovable cessation","cat":"uncond","grp":"","qzh":"不動者，謂離遍淨欲得第四靜慮，於其中間苦樂離繫性。","qen":"The immovable: having become free of craving for the Universal Purity heaven, one attains the fourth meditative absorption, and in that interval there is release from bondage to pain and pleasure.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"第四禪離苦樂，不被搖動，在這時所顯的真如。","pen":"Suchness disclosed in the fourth absorption, where pain and pleasure no longer shake the mind."},{"id":"cessation-pf","zh":"想受滅無為","py":"xiǎng shòu miè wú wéi","skt":"saṃjñā-vedita-nirodha","en":"the cessation of perception and feeling","cat":"uncond","grp":"","qzh":"想受滅者，謂離無所有處欲入滅盡定，於其中間不恒現行心心法及恒行一分心心法滅，而離繫性。","qen":"The cessation of perception and feeling: having become free of craving for the sphere of nothingness, one enters the attainment of cessation, and in that interval those mind and mental factors that do not operate perpetually, together with a portion of those that do, cease — and this is release from bondage.","szh":"顯揚聖教論 卷一","sen":"Illuminating the Sacred Teaching, fascicle 1","url":"/sutras/xianyang-shengjiao-lun/fascicle-01/","pzh":"入滅盡定、想與受都止息時所顯的真如。","pen":"Suchness disclosed in the attainment of cessation, where perception and feeling stop."},{"id":"suchness","zh":"真如無為","py":"zhēn rú wú wéi","skt":"tathatā","en":"suchness","cat":"uncond","grp":"","qzh":"云何真如？謂諸法法性、法無我性。","qen":"What is suchness? The nature of dharmas as they are, the selflessness of things.","szh":"五蘊論","sen":"Treatise on the Five Aggregates","url":"/sutras/hundred-dharmas/part-02/","pzh":"諸法真實不虛、如常不變的本性，就是法無我、人無我所顯的實性。前五種無為都是依真如在不同情況下假立的名稱。","pen":"The true, unchanging nature of all dharmas — what the selflessness of persons and dharmas reveals. The other five unconditioned are names for this same suchness in different settings."}],"pairs":[{"a":"shame","b":"embarrassment","zh":"慚是向內，依自己的良知與對法的尊重而不作惡；愧是向外，因為在乎世間的評價而不作惡。一個人可以兩者都有。","en":"Shame looks inward — refraining from wrong out of self-respect and regard for the Dharma. Embarrassment looks outward — refraining out of regard for the world's judgment. A good person has both."},{"a":"restlessness","b":"distraction","zh":"掉舉是心「不靜」，在同一個所緣上浮動；散亂是心「換對象」，從這個所緣跑到那個所緣。","en":"Restlessness is the mind not being still — agitation even on one object. Distraction is the mind changing objects — wandering from one to another."},{"a":"torpor","b":"sleep","zh":"惛沈是心昏重沒有堪能，任何時候都可能出現；睡眠是身體不自在、心收縮闇昧的狀態。惛沈一定是染污，睡眠是不定。","en":"Torpor is heaviness that makes the mind unworkable and can come at any time; sleep is a state where the body loses control and the mind contracts. Torpor is always defiled; sleep is indeterminate."},{"a":"torpor","b":"restlessness","zh":"打坐兩大障礙：惛沈是太沉，掉舉是太浮。惛沈障觀，掉舉障止。","en":"The two great obstacles in meditation: torpor is too low, restlessness too high. Torpor blocks insight; restlessness blocks calm."},{"a":"coarse-thought","b":"subtle-thought","zh":"尋粗、伺細。像找鑰匙：尋是先在房間裡大概找，伺是在抽屜裡仔細翻。","en":"Coarse and subtle discursive thought — like looking for keys: first a rough search of the room, then a careful check through the drawer."},{"a":"wrath","b":"resentment","zh":"忿是當下爆發；恨是忿過之後懷恨在心不放。","en":"Wrath is the flare in the moment; resentment is holding the grudge afterward."},{"a":"resentment","b":"vexation","zh":"恨是悶在心裡結怨；惱是追想舊恨後發作出來，惡言傷人。","en":"Resentment is the grudge kept inside; vexation is when it bursts out as stinging words."},{"a":"deceit","b":"flattery","zh":"誑是假裝自己有德（假的「有」）；諂是曲意逢迎、掩飾過失（彎曲的心）。","en":"Deceit pretends to virtues one lacks; flattery is a crooked mind that ingratiates and covers its faults."},{"a":"arrogance","b":"conceit","zh":"慢是與人比較而高舉；憍是不用比較，沉醉於自己的好事。","en":"Conceit puffs up by comparing oneself with others; arrogance needs no comparison — it is intoxication with one's own fortunes."},{"a":"envy","b":"stinginess","zh":"嫉是見不得別人好；慳是捨不得自己的東西給人。","en":"Envy cannot bear others' success; stinginess cannot bear to give away one's own."},{"a":"harmfulness","b":"hatred","zh":"瞋是根本煩惱，對苦與苦因憎恚；害是瞋的分位，具體表現為想損惱眾生、沒有悲心。","en":"Hatred is the root affliction; harmfulness is one of its phases — the specific lack of compassion that wants to injure beings."},{"a":"recollection","b":"forgetfulness","zh":"念是對熟習的境明記不忘；失念是染污的念，對該記的善法記不住。","en":"Recollection keeps the familiar clearly in mind; forgetfulness is defiled recollection that loses hold of what is wholesome."},{"a":"wisdom","b":"incorrect-knowledge","zh":"慧是揀擇；不正知是染污的慧，對所觀的境理解錯誤。","en":"Wisdom discerns; incorrect knowledge is defiled wisdom that misunderstands what it observes."},{"a":"contact","b":"tangible","zh":"同一個「觸」字：遍行心所的觸（sparśa）是根、境、識的和合；色法的觸（spraṣṭavya）是身識所緣的觸境。","en":"The same character 觸: the universal mental factor (sparśa) is the meeting of faculty, object, and consciousness; the form dharma (spraṣṭavya) is the tangible object known by the body."},{"a":"mind-c","b":"manas","zh":"意識是第六識，緣一切法，時有間斷；末那是第七識，只緣第八識執為我，恆時不斷。","en":"The mind consciousness (sixth) takes any object and is sometimes interrupted; manas (seventh) takes only the eighth consciousness as a self, without interruption."},{"a":"eye","b":"eye-c","zh":"眼是色法（淨色根），本身不知；眼識是心法，依眼根才能了別色。","en":"The eye is form — a faculty that does not itself know; eye consciousness is mind, which knows visible form by depending on the eye."},{"a":"feeling","b":"perception","zh":"受是感受苦樂；想是取像命名。看到花：覺得舒服是受，認出「這是花」是想。","en":"Feeling experiences pleasant or painful; perception grasps features and names. Seeing a flower: enjoying it is feeling; recognizing \"a flower\" is perception."},{"a":"aspiration","b":"resolve","zh":"欲是「想要」；勝解是「確定」。想去聽經是欲，確信這部經是真理是勝解。","en":"Aspiration is wanting; resolve is being sure. Wanting to hear a teaching is aspiration; being convinced that it is true is resolve."},{"a":"equanimity","b":"feeling","zh":"行捨是善心所，令心平等不掉舉；捨受是不苦不樂的受，屬於遍行的受。名字相同，所屬不同。","en":"Equanimity of formations is a wholesome factor that keeps the mind even; neutral feeling is a kind of feeling — neither pleasant nor painful. Same word 捨, different dharmas."},{"a":"no-thought-att","b":"cessation-att","zh":"無想定是凡夫外道修的，只停前六識，求生無想天；滅盡定是聖者修的，連第七識的我執也停，為了寂靜休息。","en":"The attainment of no-thought is practiced by ordinary outsiders and stops only the first six consciousnesses; the attainment of cessation is entered by noble ones and also stills the self-grasping of the seventh."},{"a":"pratisamkhya","b":"apratisamkhya","zh":"擇滅靠智慧斷煩惱而得；非擇滅不靠智慧，是因為緣不具足，法根本不生。","en":"Cessation through discrimination is won by wisdom cutting off afflictions; cessation not through discrimination happens because conditions never gather, so the thing never arises."},{"a":"doubt","b":"no-faith","zh":"疑是對真理猶豫不決；不信是心穢濁，對真理不認可、不喜樂。","en":"Doubt wavers about the truth; lack of faith is a murky mind that does not accept or delight in it."},{"a":"heedfulness","b":"diligence","zh":"精進是勇猛的力量；不放逸是依精進與三善根「防惡修善」的作用，沒有獨立的體。","en":"Diligence is courageous energy; heedfulness is the function of guarding and cultivating that diligence and the three wholesome roots perform together."}]};
+  var root = document.getElementById('bf');
+  var BASE = '';
+  var D = DATA.dharmas, byId = {}, cats = {}, groups = {};
+  D.forEach(function(d,i){ d.no = i+1; byId[d.id] = d; });
+  DATA.cats.forEach(function(c){ cats[c.id] = c; });
+  DATA.groups.forEach(function(g){ groups[g.id] = g; });
+  function color(d){ return d.grp ? 'var(--g-'+d.grp+')' : 'var(--c-'+d.cat+')'; }
+  function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+  function el(html){ var t=document.createElement('template'); t.innerHTML=html.trim(); return t.content.firstChild; }
+  function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;} return a; }
+  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  root.classList.add('js');
+
+  /* storage (per-viewer convenience only) */
+  var KEY='ruyi-baifa-known', BKEY='ruyi-baifa-best', known={}, best={};
+  try{ (JSON.parse(localStorage.getItem(KEY))||[]).forEach(function(id){ if(byId[id]) known[id]=1; }); }catch(e){}
+  try{ best = JSON.parse(localStorage.getItem(BKEY))||{}; }catch(e){ best={}; }
+  function saveKnown(){ try{ localStorage.setItem(KEY, JSON.stringify(Object.keys(known))); }catch(e){} }
+  function saveBest(){ try{ localStorage.setItem(BKEY, JSON.stringify(best)); }catch(e){} }
+
+  /* ── hero mosaic ── */
+  var mos = document.getElementById('bfMosaic'), tip = document.getElementById('bfTip');
+  D.forEach(function(d,i){
+    var b = el('<button class="bf-mos" data-id="'+d.id+'" style="--mc:'+color(d)+'" aria-label="'+esc(d.no+'. '+d.zh+' '+d.en)+'"><span class="zh">'+esc(d.zh.charAt(0))+'</span></button>');
+    mos.appendChild(b);
+    setTimeout(function(){ b.classList.add('on'); }, reduce ? 0 : 120 + i*14);
+  });
+  mos.addEventListener('click', function(e){ var b=e.target.closest('.bf-mos'); if(b) openCard(b.dataset.id, b); });
+  mos.addEventListener('mouseover', function(e){ var b=e.target.closest('.bf-mos'); if(!b) return; var d=byId[b.dataset.id];
+    tip.innerHTML='<span class="zh">'+esc(d.zh)+'</span>'+esc(d.en); var r=b.getBoundingClientRect();
+    tip.style.left=Math.max(8,Math.min(innerWidth-tip.offsetWidth-8, r.left+r.width/2-tip.offsetWidth/2))+'px'; tip.style.top=(r.top-40)+'px'; tip.classList.add('show'); });
+  mos.addEventListener('mouseleave', function(){ tip.classList.remove('show'); });
+  var lg = document.getElementById('bfLegend');
+  DATA.cats.forEach(function(c){ lg.appendChild(el('<span><i style="background:var(--c-'+c.id+')"></i>'+esc(c.zh)+' '+c.n+'</span>')); });
+
+  /* count-up */
+  root.querySelectorAll('[data-count]').forEach(function(b){
+    var n=+b.dataset.count, t0=null; if(reduce){ b.textContent=n; return; }
+    function step(t){ if(!t0) t0=t; var p=Math.min(1,(t-t0)/1100); b.textContent=Math.round(n*(1-Math.pow(1-p,3))); if(p<1) requestAnimationFrame(step); }
+    setTimeout(function(){ requestAnimationFrame(step); }, 300);
+  });
+
+  /* ── five positions ── */
+  var ord = document.getElementById('bfOrder');
+  DATA.cats.forEach(function(c,i){
+    ord.appendChild(el('<a class="bf-pos" data-rv href="#cat-'+c.id+'" style="--cc:var(--c-'+c.id+');transition-delay:'+(i*.07)+'s"><div class="n">'+(i+1)+' · '+c.n+'</div><div class="t">'+esc(c.zh)+'</div><div class="e">'+esc(c.en)+'</div><div class="w"><span class="zh">'+esc(c.why_zh)+'</span> — '+esc(c.why_en)+'</div></a>'));
+  });
+  ord.addEventListener('click', function(e){ var a=e.target.closest('a'); if(!a) return; e.preventDefault(); var t=document.getElementById(a.getAttribute('href').slice(1)); if(t) t.scrollIntoView({behavior:reduce?'auto':'smooth'}); });
+
+  /* ── map ── */
+  var catsBox = document.getElementById('bfCats');
+  function tile(d){ return '<button class="bf-tile'+(known[d.id]?' known':'')+'" data-id="'+d.id+'" style="--tc:'+color(d)+'"><span class="no">'+d.no+'</span><span class="zh">'+esc(d.zh)+'</span><span class="py">'+esc(d.py)+'</span><span class="en">'+esc(d.en)+'</span></button>'; }
+  DATA.cats.forEach(function(c,i){
+    var items = D.filter(function(d){ return d.cat===c.id; });
+    var h = '<section class="bf-cat" id="cat-'+c.id+'" data-rv style="--cc:var(--c-'+c.id+')"><div class="bf-cat-h"><span class="num">'+(i+1)+'</span><h3>'+esc(c.zh)+'</h3><span class="en">'+esc(c.en)+'</span><span class="cnt">'+c.n+' DHARMAS</span></div>';
+    if(c.id==='factors'){
+      DATA.groups.forEach(function(g){
+        h += '<div class="bf-grp" style="--gc:var(--g-'+g.id+')"><b>'+esc(g.zh)+' '+g.n+'</b><span class="en">'+esc(g.en)+'</span><span class="d">'+esc(g.dzh)+' '+esc(g.den)+'</span></div><div class="bf-tiles">';
+        items.filter(function(d){return d.grp===g.id;}).forEach(function(d){ h+=tile(d); });
+        h += '</div>';
+      });
+    } else {
+      h += '<div class="bf-tiles">'; items.forEach(function(d){ h+=tile(d); }); h += '</div>';
+    }
+    catsBox.appendChild(el(h+'</section>'));
+  });
+  catsBox.addEventListener('click', function(e){ var b=e.target.closest('.bf-tile'); if(b) openCard(b.dataset.id, b); });
+
+  /* search */
+  function norm(s){ return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[\s\-]+/g,''); }
+  D.forEach(function(d){ d._k = norm([d.zh,d.py,d.skt,d.en,d.pen].join('|')); d._z = d.zh+d.pzh; });
+  var find = document.getElementById('bfFind'), hits = document.getElementById('bfHits'), empty = document.getElementById('bfEmpty');
+  find.addEventListener('input', function(){
+    var q = find.value.trim(), nq = norm(q), n=0;
+    catsBox.querySelectorAll('.bf-tile').forEach(function(t){
+      var d=byId[t.dataset.id], ok = !q || d._k.indexOf(nq)>=0 || d._z.indexOf(q)>=0;
+      if(ok) n++; t.classList.toggle('dim', !!q && !ok); t.classList.toggle('hit', !!q && ok);
+    });
+    catsBox.querySelectorAll('.bf-cat').forEach(function(s){ s.style.display = (!q || s.querySelector('.bf-tile:not(.dim)')) ? '' : 'none'; });
+    hits.textContent = q ? n+' match'+(n===1?'':'es')+' · '+n+' 筆' : '';
+    empty.style.display = q && !n ? 'block' : 'none';
+  });
+
+  /* ── compare ── */
+  var pairsBox = document.getElementById('bfPairs');
+  function vsBtn(d){ return '<button data-id="'+d.id+'" style="--tc:'+color(d)+'"><span class="zh">'+esc(d.zh)+'</span><span class="en">'+esc(d.en)+'</span></button>'; }
+  DATA.pairs.forEach(function(p,i){
+    var a=byId[p.a], b=byId[p.b];
+    pairsBox.appendChild(el('<article class="bf-pair" data-rv style="transition-delay:'+((i%2)*.08)+'s"><div class="bf-vs">'+vsBtn(a)+'<span class="x">vs</span>'+vsBtn(b)+'</div><p class="zh">'+esc(p.zh)+'</p><p class="en">'+esc(p.en)+'</p></article>'));
+  });
+  pairsBox.addEventListener('click', function(e){ var b=e.target.closest('button[data-id]'); if(b) openCard(b.dataset.id, b); });
+
+  /* ── card ── */
+  var card=document.getElementById('bfCard'), scrim=document.getElementById('bfScrim'), body=document.getElementById('bfCardBody'), meta=document.getElementById('bfCardMeta');
+  var cur=null, lastFocus=null;
+  function render(d){
+    cur=d; var c=cats[d.cat], g=d.grp?groups[d.grp]:null;
+    meta.textContent = 'No. '+d.no+' of 100';
+    var chips = '<span style="--tc:var(--c-'+d.cat+')">'+esc(c.zh)+' '+esc(c.en)+'</span>' + (g?'<span class="lt">'+esc(g.zh)+' '+esc(g.en)+'</span>':'');
+    var h = '<div class="bf-card-hd" style="--tc:'+color(d)+'"><div class="bf-chips" style="--tc:'+color(d)+'">'+chips+'</div><h2 class="zh" id="bfCardTitle">'+esc(d.zh)+'</h2><div class="py">'+esc(d.py)+'<i>'+esc(d.skt)+'</i></div><div class="ename">'+esc(d.en)+'</div></div>';
+    h += '<div class="bf-sec"><h5>In plain words<span class="zh">白話</span></h5><p class="zh">'+esc(d.pzh)+'</p><p class="en">'+esc(d.pen)+'</p></div>';
+    h += '<div class="bf-sec"><h5>From the treatise<span class="zh">論文</span></h5><blockquote class="bf-quote"><p class="zh">'+esc(d.qzh)+'</p><p class="en">'+esc(d.qen)+'</p></blockquote><div class="bf-src">'+esc(d.szh)+' · '+esc(d.sen)+' — <a href="'+BASE+d.url+'">read in context 讀原文 →</a></div></div>';
+    var cf = DATA.pairs.filter(function(p){ return p.a===d.id||p.b===d.id; });
+    if(cf.length){
+      h += '<div class="bf-sec"><h5>Easily confused with<span class="zh">易混淆</span></h5>';
+      cf.forEach(function(p){ var o=byId[p.a===d.id?p.b:p.a]; h += '<div class="bf-cf"><button data-id="'+o.id+'" style="--tc:'+color(o)+'"><span class="zh">'+esc(o.zh)+'</span>'+esc(o.en)+' →</button><p class="zh">'+esc(p.zh)+'</p><p class="en">'+esc(p.en)+'</p></div>'; });
+      h += '</div>';
+    }
+    var sib = D.filter(function(x){ return d.grp ? x.grp===d.grp : x.cat===d.cat; });
+    h += '<div class="bf-sec"><h5>Same group<span class="zh">同組</span> · '+sib.length+'</h5><div class="bf-sib" style="--tc:'+color(d)+'">';
+    sib.forEach(function(x){ h += '<button class="zh" data-id="'+x.id+'"'+(x.id===d.id?' aria-current="true"':'')+' title="'+esc(x.en)+'">'+esc(x.zh)+'</button>'; });
+    h += '</div></div>';
+    h += '<button class="bf-mark" id="bfMark" aria-pressed="'+(known[d.id]?'true':'false')+'">'+(known[d.id]?'✓ Known · 已熟悉':'Mark as known · 標記為熟悉')+'</button>';
+    body.innerHTML = h; card.scrollTop = 0;
+  }
+  function openCard(id, from){
+    var d=byId[id]; if(!d) return; tip.classList.remove('show');
+    if(!card.classList.contains('open')) lastFocus = from || document.activeElement;
+    render(d); card.classList.add('open'); scrim.classList.add('open'); card.setAttribute('aria-hidden','false');
+    document.documentElement.style.overflow='hidden';
+    try{ history.replaceState(null,'','#d-'+id); }catch(e){}
+    setTimeout(function(){ document.getElementById('bfClose').focus({preventScroll:true}); }, 60);
+  }
+  function closeCard(){
+    if(!card.classList.contains('open')) return;
+    card.classList.remove('open'); scrim.classList.remove('open'); card.setAttribute('aria-hidden','true');
+    document.documentElement.style.overflow='';
+    try{ history.replaceState(null,'',location.pathname+location.search+(curTab!=='map'?'#'+curTab:'')); }catch(e){}
+    if(lastFocus && lastFocus.focus) lastFocus.focus({preventScroll:true});
+  }
+  function step(k){ var i=(cur.no-1+k+100)%100; render(D[i]); try{ history.replaceState(null,'','#d-'+D[i].id); }catch(e){} }
+  document.getElementById('bfClose').onclick=closeCard; scrim.onclick=closeCard;
+  document.getElementById('bfPrev').onclick=function(){ step(-1); };
+  document.getElementById('bfNext').onclick=function(){ step(1); };
+  body.addEventListener('click', function(e){
+    var b=e.target.closest('button[data-id]'); if(b){ render(byId[b.dataset.id]); try{ history.replaceState(null,'','#d-'+b.dataset.id); }catch(x){} return; }
+    if(e.target.closest('#bfMark')){ if(known[cur.id]) delete known[cur.id]; else known[cur.id]=1; saveKnown(); render(cur); paintKnown(); }
+  });
+  document.addEventListener('keydown', function(e){
+    if(!card.classList.contains('open')) return;
+    if(e.key==='Escape') closeCard();
+    else if(e.key==='ArrowRight' && !/INPUT|TEXTAREA/.test(document.activeElement.tagName)) step(1);
+    else if(e.key==='ArrowLeft' && !/INPUT|TEXTAREA/.test(document.activeElement.tagName)) step(-1);
+    else if(e.key==='Tab'){ var f=card.querySelectorAll('button,a[href]'); if(!f.length) return; var a=f[0], z=f[f.length-1];
+      if(e.shiftKey && document.activeElement===a){ e.preventDefault(); z.focus(); } else if(!e.shiftKey && document.activeElement===z){ e.preventDefault(); a.focus(); } }
+  });
+  function paintKnown(){
+    var n=Object.keys(known).length;
+    document.getElementById('bfKnownN').textContent=n;
+    document.getElementById('bfRing').style.strokeDashoffset = 87.96*(1-n/100);
+    root.querySelectorAll('[data-id].bf-tile,[data-id].bf-mos').forEach(function(t){ t.classList.toggle('known', !!known[t.dataset.id]); });
+  }
+  paintKnown();
+
+  /* ── tabs ── */
+  var curTab='map';
+  function showTab(t, push){
+    curTab=t;
+    root.querySelectorAll('.bf-tab').forEach(function(b){ b.setAttribute('aria-selected', b.dataset.tab===t ? 'true':'false'); });
+    ['map','compare','practice'].forEach(function(x){ document.getElementById('bf-'+x).hidden = x!==t; });
+    if(push){ try{ history.replaceState(null,'', t==='map' ? location.pathname+location.search : '#'+t); }catch(e){} }
+    reveal();
+  }
+  root.querySelectorAll('.bf-tab').forEach(function(b){ b.addEventListener('click', function(){
+    showTab(b.dataset.tab, true);
+    var bar=root.querySelector('.bf-bar'); var y=bar.getBoundingClientRect().top+scrollY;
+    if(scrollY>y) scrollTo({top:y, behavior:reduce?'auto':'smooth'});
+  }); });
+
+  /* ── reveal ── */
+  var io = ('IntersectionObserver' in window) ? new IntersectionObserver(function(es){ es.forEach(function(x){ if(x.isIntersecting){ x.target.classList.add('in'); io.unobserve(x.target); } }); }, {rootMargin:'0px 0px -8% 0px'}) : null;
+  function reveal(){ root.querySelectorAll('[data-rv]:not(.in)').forEach(function(n){ if(io && !reduce) io.observe(n); else n.classList.add('in'); }); }
+
+  /* ── practice ── */
+  var mode='sort', scope='all';
+  var SLOTS=[{k:'mind',zh:'心法',en:'Mind'}].concat(DATA.groups.map(function(g){return {k:'g:'+g.id,zh:g.zh,en:g.en};}),[{k:'form',zh:'色法',en:'Form'},{k:'dissoc',zh:'不相應行',en:'Dissociated'},{k:'uncond',zh:'無為法',en:'Unconditioned'}]);
+  function slotOf(d){ return d.grp ? 'g:'+d.grp : d.cat; }
+  function slotColor(k){ return k.indexOf('g:')===0 ? 'var(--g-'+k.slice(2)+')' : 'var(--c-'+k+')'; }
+  var scopeBox=document.getElementById('bfScope');
+  [{k:'all',zh:'全部',en:'All 100'}].concat(DATA.cats.map(function(c){return {k:c.id,zh:c.zh,en:c.en.replace('Formations Dissociated from Mind','Dissociated')};})).concat([{k:'unknown',zh:'未熟',en:'Not yet known'}]).forEach(function(s){
+    scopeBox.appendChild(el('<button class="bf-chip" data-scope="'+s.k+'" aria-pressed="'+(s.k==='all')+'">'+esc(s.en)+'<span class="zh">'+esc(s.zh)+'</span></button>'));
+  });
+  scopeBox.addEventListener('click', function(e){ var b=e.target.closest('.bf-chip'); if(!b) return; scope=b.dataset.scope; scopeBox.querySelectorAll('.bf-chip').forEach(function(x){ x.setAttribute('aria-pressed', x===b); }); });
+  var modesBox=document.getElementById('bfModes');
+  modesBox.addEventListener('click', function(e){ var b=e.target.closest('.bf-mode'); if(!b) return; mode=b.dataset.mode; modesBox.querySelectorAll('.bf-mode').forEach(function(x){ x.setAttribute('aria-pressed', x===b); }); });
+  function paintBest(){ modesBox.querySelectorAll('.bf-mode').forEach(function(b){ var v=best[b.dataset.mode]; b.querySelector('.best').textContent = v!=null ? 'Best '+v+'/10' : ''; }); }
+  paintBest();
+
+  var quiz=document.getElementById('bfQuiz'), Q=[], qi=0, score=0, miss=[], round=null;
+  function pool(){
+    var p = D.filter(function(d){ return scope==='all' || (scope==='unknown' ? !known[d.id] : d.cat===scope); });
+    return p.length>=4 ? p : D.slice();
+  }
+  function distract(d, n, field){
+    var same = D.filter(function(x){ return x!==d && (d.grp ? x.grp===d.grp : x.cat===d.cat); });
+    var rest = D.filter(function(x){ return x!==d && same.indexOf(x)<0; });
+    var out=[], seen={}; seen[d[field]]=1;
+    shuffle(same).concat(shuffle(rest)).forEach(function(x){ if(out.length<n && !seen[x[field]]){ seen[x[field]]=1; out.push(x); } });
+    return out;
+  }
+  function mask(text, d){
+    var t=esc(text), parts=[d.zh, d.zh.replace(/無為$/,''), d.en.replace(/^the /,''), d.en];
+    parts.sort(function(a,b){return b.length-a.length;}).forEach(function(w){ if(w && w.length>0){ var e2=w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); var r=new RegExp(/^[\x00-\x7f]+$/.test(w)?'\\b'+e2+'\\b':e2,'gi'); t=t.replace(r,'<span class="blank"></span>'); } });
+    return t;
+  }
+  document.getElementById('bfStart').onclick=function(){
+    var p=shuffle(pool()).slice(0,10); round=mode; Q=p; qi=0; score=0; miss=[];
+    quiz.hidden=false; ask(); quiz.scrollIntoView({behavior:reduce?'auto':'smooth', block:'start'});
+  };
+  function ask(){
+    var d=Q[qi], h='<div class="bf-qtop"><span>'+(qi+1)+' / '+Q.length+'</span><div class="bf-prog"><i style="width:'+(qi/Q.length*100)+'%"></i></div><span>✓ '+score+'</span></div><div class="bf-q">', opts=[], right, grid='';
+    if(round==='sort'){
+      h += '<div class="ask">Where does it belong?<span class="zh">屬於哪一類？</span></div><div class="big">'+esc(d.zh)+'</div><div class="sub">'+esc(d.py)+' · '+esc(d.en)+'</div>';
+      right = slotOf(d); grid=' sort';
+      opts = SLOTS.map(function(s){ return {k:s.k, html:'<span class="zh">'+esc(s.zh)+'</span><span class="en">'+esc(s.en)+'</span>', c:slotColor(s.k)}; });
+    } else if(round==='meaning'){
+      h += '<div class="ask">Which dharma is this?<span class="zh">這是哪個名相？</span></div><p class="def zh">'+mask(d.pzh,d)+'</p><p class="def en">'+mask(d.pen,d)+'</p>';
+      right = d.id;
+      opts = shuffle([d].concat(distract(d,3,'zh'))).map(function(x){ return {k:x.id, html:'<span class="zh">'+esc(x.zh)+'</span><span class="en">'+esc(x.en)+'</span>'}; });
+    } else {
+      var zhToEn = Math.random()<.5;
+      right = d.id;
+      if(zhToEn){
+        h += '<div class="ask">Choose the English<span class="zh">選出英文</span></div><div class="big">'+esc(d.zh)+'</div><div class="sub">'+esc(d.py)+'</div>';
+        opts = shuffle([d].concat(distract(d,3,'en'))).map(function(x){ return {k:x.id, html:'<span class="en" style="font-size:16px;color:var(--ink)">'+esc(x.en)+'</span>'}; });
+      } else {
+        h += '<div class="ask">Choose the Chinese<span class="zh">選出中文</span></div><div class="big" style="font-family:var(--serif);font-size:clamp(28px,5vw,40px)">'+esc(d.en)+'</div><div class="sub"><i>'+esc(d.skt)+'</i></div>';
+        opts = shuffle([d].concat(distract(d,3,'zh'))).map(function(x){ return {k:x.id, html:'<span class="zh">'+esc(x.zh)+'</span><span class="en">'+esc(x.py)+'</span>'}; });
+      }
+    }
+    h += '</div><div class="bf-opts'+grid+'">';
+    opts.forEach(function(o){ h += '<button class="bf-opt" data-k="'+o.k+'"'+(o.c?' style="--oc:'+o.c+'"':'')+'>'+o.html+'</button>'; });
+    h += '</div><div class="bf-fb" id="bfFb" role="status"></div><button class="bf-go bf-next" id="bfNextQ">'+(qi+1<Q.length?'Next · 下一題 →':'See results · 看結果 →')+'</button>';
+    quiz.innerHTML=h; quiz.dataset.right=right;
+    requestAnimationFrame(function(){ var bar=quiz.querySelector('.bf-prog i'); if(bar) bar.style.width=((qi)/Q.length*100)+'%'; });
+  }
+  quiz.addEventListener('click', function(e){
+    var o=e.target.closest('.bf-opt');
+    if(o && !o.disabled){
+      var d=Q[qi], ok = o.dataset.k===quiz.dataset.right;
+      quiz.querySelectorAll('.bf-opt').forEach(function(b){ b.disabled=true; if(b.dataset.k===quiz.dataset.right) b.classList.add('right'); });
+      if(!ok){ o.classList.add('wrong'); miss.push(d); } else score++;
+      var where = d.grp ? cats[d.cat].zh+' › '+groups[d.grp].zh : cats[d.cat].zh;
+      var fb=document.getElementById('bfFb');
+      fb.className='bf-fb show '+(ok?'ok':'no');
+      fb.innerHTML='<b>'+(ok?'Correct · 答對了':'Not quite · 再看一次')+'</b><span class="zh" style="font-size:17px;font-weight:700">'+esc(d.zh)+'</span> '+esc(d.en)+' — '+esc(where)+'<br>'+esc(d.pzh)+'<br><span style="color:var(--ink-soft)">'+esc(d.pen)+'</span><br><button class="lnk" data-open="'+d.id+'">Open card · 打開卡片</button>';
+      quiz.querySelector('.bf-prog i').style.width=((qi+1)/Q.length*100)+'%';
+      quiz.querySelector('.bf-qtop span:last-child').textContent='✓ '+score;
+      var nx=document.getElementById('bfNextQ'); nx.classList.add('show'); nx.focus({preventScroll:true});
+      return;
+    }
+    var op=e.target.closest('[data-open]'); if(op){ openCard(op.dataset.open, op); return; }
+    if(e.target.closest('#bfNextQ')){ qi++; if(qi<Q.length) ask(); else finish(); return; }
+    if(e.target.closest('#bfAgain')){ document.getElementById('bfStart').click(); return; }
+    var mb=e.target.closest('.bf-miss button'); if(mb) openCard(mb.dataset.id, mb);
+  });
+  function finish(){
+    if(best[round]==null || score>best[round]){ best[round]=score; saveBest(); paintBest(); }
+    var msg = score===10 ? 'Perfect round. 全對！' : score>=8 ? 'Very good. 很好！' : score>=5 ? 'Keep going. 繼續加油。' : 'Review the cards, then try again. 先看卡片再試一次。';
+    var h='<div class="bf-end"><div class="score">'+score+'<small> / '+Q.length+'</small></div><p style="font-size:17px;margin:10px 0 0">'+msg+'</p>';
+    if(miss.length){ h+='<p style="color:var(--ink-soft);margin:18px 0 0;font-size:14px">Review these · 複習這幾個：</p><div class="bf-miss">'; miss.forEach(function(d){ h+='<button class="zh" data-id="'+d.id+'">'+esc(d.zh)+' <span style="color:var(--ink-soft)">'+esc(d.en)+'</span></button>'; }); h+='</div>'; }
+    h+='<button class="bf-go" id="bfAgain">Another round · 再來一回 →</button></div>';
+    quiz.innerHTML=h;
+  }
+
+  /* ── hash routing ── */
+  function route(){
+    var h=location.hash.slice(1);
+    if(h.indexOf('d-')===0 && byId[h.slice(2)]){ openCard(h.slice(2)); }
+    else if(h==='compare'||h==='practice'){ showTab(h,false); }
+  }
+  showTab('map', false); route();
+})();
+</script>
