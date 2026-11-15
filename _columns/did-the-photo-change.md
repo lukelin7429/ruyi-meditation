@@ -7,8 +7,6 @@ source: "https://ruyi99.org/column/Luke/photo-and-mind/"
 slug: did-the-photo-change
 ---
 
-# Did the Photo Change, or Did the Mind That Looked at It?
-
 This November, during a group practice session at Ru-Yi Meditation Center, a fellow practitioner shared an experience she had while taking part in *zhunian*, the practice of chanting the Buddha's name beside someone who has just died. That day, she and a group of dharma brothers and sisters went to the home of the deceased. When they first walked in, she noticed that the face in the memorial photo looked troubled and sorrowful. After two hours of chanting, she stepped out and looked at the photo again, and the face now seemed gentler, no longer weighed down by sorrow. What struck everyone even more was that on the ride home, several others who had chanted with her said they, too, had noticed a change in the face in the photo.
 
 Someone later asked our teacher how such a thing could happen. Our teacher explained it from the perspective of Yogācāra, the Consciousness-Only school. Because beings experience different karmic results, they are born with different bodies, senses, and minds, and so they do not necessarily have the same experience even when facing the same situation. Our teacher gave the example of water: humans see water; fish take water as their home; the gods see it as pure and radiant lapis lazuli; and hungry ghosts may see only pus and blood.
