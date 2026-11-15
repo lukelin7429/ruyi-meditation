@@ -101,6 +101,35 @@ excerpt: On the first day of winter, Venerable Yang Hui officiated at the Buddhi
   .bw-lb .pv{left:18px;top:50%;transform:translateY(-50%);}
   .bw-lb .nx{right:18px;top:50%;transform:translateY(-50%);}
   @media(max-width:620px){.bw-pair{grid-template-columns:1fr;}.bw-facts{margin-top:18px;}}
+  /* ---- VIDEOS (click-to-load YouTube) ---- */
+  .bw-vid{display:block;width:100%;border:0;padding:0;background:#fff;border-radius:14px;overflow:hidden;cursor:pointer;text-align:left;
+    box-shadow:0 18px 44px -28px rgba(30,20,10,.6);transition:transform .3s ease,box-shadow .3s ease;font:inherit;}
+  .bw-vid:hover{transform:translateY(-5px);box-shadow:0 30px 54px -26px rgba(30,20,10,.6);}
+  .bw-vid .fr{position:relative;aspect-ratio:16/9;background:#1a1410 center/cover;}
+  .bw-vid .fr::after{content:"";position:absolute;inset:0;background:rgba(20,10,8,.16);transition:background .25s;}
+  .bw-vid:hover .fr::after{background:rgba(20,10,8,.02);}
+  .bw-vid .pl{position:absolute;left:50%;top:50%;z-index:1;width:68px;height:68px;margin:-34px 0 0 -34px;border-radius:50%;background:rgba(140,47,18,.94);
+    box-shadow:0 10px 30px rgba(0,0,0,.35);transition:transform .25s ease;}
+  .bw-vid:hover .pl{transform:scale(1.1);}
+  .bw-vid .pl::after{content:"";position:absolute;left:27px;top:21px;border-left:22px solid #fff;border-top:13px solid transparent;border-bottom:13px solid transparent;}
+  .bw-vid iframe{position:absolute;inset:0;width:100%;height:100%;border:0;z-index:2;}
+  .bw-vid .cp{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 10px;padding:14px 18px 16px;}
+  .bw-vid .cp b{font-family:'Playfair Display',serif;font-size:19px;font-weight:600;color:#1a1a1a;}
+  .bw-vid .cp span{font-size:14.5px;color:#6a655c;}
+  .bw-vid .cp em{font-style:normal;margin-left:auto;font-size:12.5px;font-weight:700;letter-spacing:.1em;color:#b8431c;}
+  .bw-vid.is-playing{cursor:default;transform:none;}
+  .bw-trailer{max-width:860px;margin:40px auto 0;padding:0 26px;}
+  .bw-trailer .bw-vid .pl{width:84px;height:84px;margin:-42px 0 0 -42px;}
+  .bw-trailer .bw-vid .pl::after{left:33px;top:26px;border-left-width:27px;border-top-width:16px;border-bottom-width:16px;}
+  .bw-vgrid{display:grid;gap:22px;grid-template-columns:1fr;}
+  @media(min-width:720px){.bw-vgrid{grid-template-columns:1fr 1fr;}}
+  .bw-pl{text-align:center;margin:20px 0 0;font-size:15.5px;}
+  .bw-pl a{color:#b8431c;font-weight:700;}
+  .bw-vids{padding:70px 0 10px;background:#fff;}
+  .bw-vids .head{text-align:center;margin-bottom:28px;}
+  .bw-vids .eyebrow{color:#8c2f12;letter-spacing:.18em;font-size:12.5px;text-transform:uppercase;font-weight:700;}
+  .bw-vids h2{font-family:'Playfair Display',serif;font-size:clamp(28px,4.2vw,40px);color:#1a1a1a;margin:10px 0 6px;}
+  .bw-vids .head p{font-size:15px;color:#8a857c;margin:0;}
 </style>
 
 <!-- ===== HERO ===== -->
@@ -120,6 +149,11 @@ excerpt: On the first day of winter, Venerable Yang Hui officiated at the Buddhi
   <div><b>Officiant</b>Venerable Yang Hui</div>
   <div><b>Emcee</b>Luke Lin (Chinese &amp; English)</div>
   <div><b>Place</b>Ru-Yi Meditation Center, Fengguidou</div>
+</div>
+
+
+<div class="bw-trailer" data-reveal>
+  <button type="button" class="bw-vid" data-yt="YXjLk3biObA" aria-label="Play video: Highlights"><div class="fr" style="background-image:url(https://i.ytimg.com/vi/YXjLk3biObA/maxresdefault.jpg)"><span class="pl"></span></div><div class="cp"><b>Highlights</b><span>The whole day in a minute</span><em>1:11</em></div></button>
 </div>
 
 <!-- ===== STORY ===== -->
@@ -208,6 +242,24 @@ excerpt: On the first day of winter, Venerable Yang Hui officiated at the Buddhi
   </div>
 </section>
 
+<!-- ===== VIDEOS ===== -->
+<section class="bw-vids">
+  <div class="bw-wide">
+    <div class="head" data-reveal>
+      <div class="eyebrow">Watch</div>
+      <h2>The day in four films.</h2>
+      <p>Tap to play right here.</p>
+    </div>
+    <div class="bw-vgrid">
+      <div data-reveal><button type="button" class="bw-vid" data-yt="26mYr0STH9Q" aria-label="Play video: Red · The Vows"><div class="fr" style="background-image:url(https://i.ytimg.com/vi/26mYr0STH9Q/maxresdefault.jpg)"><span class="pl"></span></div><div class="cp"><b>Red · The Vows</b><span>Bowing, vows, and rings before the Buddha</span><em>4:35</em></div></button></div>
+      <div data-reveal><button type="button" class="bw-vid" data-yt="imwyhAJ5IEQ" aria-label="Play video: White · Gratitude"><div class="fr" style="background-image:url(https://i.ytimg.com/vi/imwyhAJ5IEQ/maxresdefault.jpg)"><span class="pl"></span></div><div class="cp"><b>White · Gratitude</b><span>The Dharma talk, the gift, and the group photo</span><em>3:15</em></div></button></div>
+      <div data-reveal><button type="button" class="bw-vid" data-yt="x0y0QHO9WSg" aria-label="Play video: Purple · Celebration"><div class="fr" style="background-image:url(https://i.ytimg.com/vi/x0y0QHO9WSg/maxresdefault.jpg)"><span class="pl"></span></div><div class="cp"><b>Purple · Celebration</b><span>Dom’s song, dancing, and the cake</span><em>1:59</em></div></button></div>
+      <div data-reveal><button type="button" class="bw-vid" data-yt="cbD3jHvxAFQ" aria-label="Play video: The Feast"><div class="fr" style="background-image:url(https://i.ytimg.com/vi/cbD3jHvxAFQ/maxresdefault.jpg)"><span class="pl"></span></div><div class="cp"><b>The Feast</b><span>Dinner in the courtyard and thanks at every table</span><em>1:13</em></div></button></div>
+    </div>
+    <p class="bw-pl" data-reveal><a href="https://www.youtube.com/playlist?list=PLV47zLhQYE-o" target="_blank" rel="noopener">Watch the full playlist on YouTube →</a></p>
+  </div>
+</section>
+
 <!-- ===== GALLERY ===== -->
 <section class="bw-gal">
   <div class="bw-wide">
@@ -273,6 +325,16 @@ excerpt: On the first day of winter, Venerable Yang Hui officiated at the Buddhi
   document.addEventListener('keydown',function(e){
     if(!lb.classList.contains('open')) return;
     if(e.key==='Escape') close(); else if(e.key==='ArrowLeft') step(-1); else if(e.key==='ArrowRight') step(1);
+  });
+  // videos: swap the thumbnail for the YouTube player on click
+  document.querySelectorAll('.bw-vid').forEach(function(b){
+    b.addEventListener('click',function(){
+      if(b.classList.contains('is-playing')) return;
+      var fr=b.querySelector('.fr'), f=document.createElement('iframe');
+      f.src='https://www.youtube-nocookie.com/embed/'+b.getAttribute('data-yt')+'?autoplay=1&rel=0';
+      f.allow='autoplay; encrypted-media; fullscreen; picture-in-picture'; f.allowFullscreen=true; f.title=b.querySelector('b').textContent;
+      fr.appendChild(f); b.classList.add('is-playing');
+    });
   });
 })();
 </script>
