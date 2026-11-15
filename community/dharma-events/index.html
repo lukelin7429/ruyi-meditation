@@ -128,6 +128,25 @@ excerpt: Every month we gather on Fengguidou mountain for a day of recitation an
   .de-book-sample b{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;font-weight:500;font-size:28px;color:#fff;line-height:1.25;}
   .de-book-sample i{font-style:normal;font-size:12.5px;color:#f0c98a;line-height:1.3;}
   .de-book-sample .en{margin-top:14px;padding-top:12px;border-top:1px solid rgba(255,255,255,.18);font-size:15px;line-height:1.5;color:#f1e9e2;font-style:italic;}
+  /* ---- STORIES (event reports) ---- */
+  .de-stories{padding:0 0 90px;background:#fff;}
+  .de-stories .de-head{text-align:center;max-width:640px;margin:0 auto 34px;}
+  .de-stories .eyebrow{color:#8c2f12;letter-spacing:.18em;font-size:12.5px;text-transform:uppercase;font-weight:700;}
+  .de-stories h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:#1a1a1a;margin:12px 0 0;}
+  .de-story{max-width:1028px;margin:0 26px;display:grid;grid-template-columns:1fr;border-radius:16px;overflow:hidden;background:#fff;border:1px solid #ece7df;
+    box-shadow:0 22px 50px -32px rgba(30,40,30,.55);text-decoration:none;color:inherit;transition:transform .3s ease,box-shadow .3s ease;}
+  @media(min-width:1080px){.de-story{margin:0 auto;}}
+  @media(min-width:800px){.de-story{grid-template-columns:1.1fr 1fr;}}
+  .de-story:hover{transform:translateY(-5px);box-shadow:0 32px 60px -30px rgba(30,40,30,.6);text-decoration:none;color:inherit;}
+  .de-story .ph{min-height:260px;overflow:hidden;}
+  .de-story .ph img{width:100%;height:100%;object-fit:cover;transition:transform 1.1s cubic-bezier(.22,.61,.36,1);}
+  .de-story:hover .ph img{transform:scale(1.06);}
+  .de-story .bd{padding:30px 32px 32px;display:flex;flex-direction:column;justify-content:center;}
+  .de-story .ssn{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#b8431c;}
+  .de-story h3{font-family:'Playfair Display',serif;font-size:clamp(24px,3vw,30px);color:#1a1a1a;margin:8px 0 4px;line-height:1.12;}
+  .de-story .zh{font-size:14px;color:#7a756c;margin-bottom:12px;}
+  .de-story p{font-size:16px;line-height:1.65;color:#4a4d53;margin:0 0 16px;}
+  .de-story .go{font-weight:700;color:#8c2f12;font-size:15px;}
 </style>
 
 <!-- ===== HERO ===== -->
@@ -283,6 +302,24 @@ excerpt: Every month we gather on Fengguidou mountain for a day of recitation an
       <div class="bd"><div class="ssn">Winter · New Year</div><h3>New Year Homecoming</h3><div class="zh">回娘家 · Returning home to the mountain</div><p>As the lunar year turns, old friends of the monastery come back up the mountain to begin the year in practice, blessing, and good company.</p></div>
     </article>
   </div>
+</section>
+
+<!-- ===== STORIES ===== -->
+<section class="de-stories">
+  <div class="de-head" data-reveal>
+    <div class="eyebrow">From the mountain</div>
+    <h2>Recent stories.</h2>
+  </div>
+  <a class="de-story" href="/community/dharma-events/buddhist-wedding-2026/" data-reveal>
+    <div class="ph"><img src="/assets/images/events/wedding-2026-01.jpg" alt="Richard and Dom exchange rings before the Buddha" loading="lazy"></div>
+    <div class="bd">
+      <div class="ssn">November 7, 2026 · Buddhist Wedding</div>
+      <h3>A wedding before the Buddha</h3>
+      <div class="zh">佛前結良緣 · Richard &amp; Dom</div>
+      <p>Venerable Yang Hui officiated as Richard Kuo and Dom Jones made their vows at Ru-Yi: refuge and tangyuan in the morning, vows before the Buddha in the afternoon, three outfits for three cultures, and a feast in the courtyard.</p>
+      <span class="go">Read the story →</span>
+    </div>
+  </a>
 </section>
 
 <!-- ===== JOIN US ===== -->
