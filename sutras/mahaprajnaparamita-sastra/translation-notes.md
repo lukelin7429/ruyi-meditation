@@ -57,6 +57,13 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-16
+
+- Fascicle 12 is complete, ending at 「如是等種種布施，是為菩薩布施生般若波羅蜜。」 Fascicle 13 opens Part Twenty-One and ends at 「復次，持戒之人，觀破戒人罪，應自勉勵，一心持戒。」
+- Resume in fascicle 13 at 0154b02: 「云何名為破戒人罪？破戒之人，人所不敬，其家如塚，人所不到。」
+- Added 2,588 Chinese characters: 1,334 in fascicle 12 and 1,254 in fascicle 13, excluding punctuation, whitespace, and textual-layer markers. Both additions are continuous CBETA matches; preserve the original śīla meaning gloss.
+- All 23 new paragraph pairs use individual translation-row elements. Fascicle 13 inherits the aligned-start layout. The index and both fascicles link to the new page.
+- The descriptions of karmic rewards, the meditating king, and the vessel of virtue remain attributed source teaching and narrative. Preserve the distinction between śīla's general definition and formal reception of precepts.
 ## Translation progress — 2026-11-15
 
 - Added 2,764 Chinese characters in 28 individually aligned paragraph pairs, excluding punctuation, whitespace, and textual-layer markers. Continuous CBETA source match verified from within 0150a27 into 0152a27.
