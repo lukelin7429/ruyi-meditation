@@ -1,0 +1,393 @@
+---
+layout: default
+title: Tiantai — A Reading Path
+permalink: /dharma/tiantai/
+excerpt: Every Tiantai text on this site in one place, arranged as a reading path — where to begin, Zhiyi's three great works, Zhanran and the Song masters, practice and repentance, the sūtras Tiantai leans on, and the key ideas that tie them together. 天台總覽。
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .tt{--maroon:#6f2a22;--maroon-deep:#3d1712;--gold:#e3b765;--saffron-deep:#b56a1c;
+      --jade:#2f6d5e;--jade-soft:#e8f1ed;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .tt *{box-sizing:border-box;}
+  .tt .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;}
+  .tt-wrap{max-width:1000px;margin:0 auto;padding:0 16px;}
+  @media(min-width:700px){.tt-wrap{padding:0 26px;}}
+
+  .js .tt [data-rv]{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease;}
+  .js .tt [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js .tt [data-rv]{opacity:1;transform:none;transition:none;}}
+
+  /* hero */
+  .tt-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 80% 15%,rgba(227,183,101,.26),transparent 60%),
+               linear-gradient(155deg,#7c2f24 0%,#6f2a22 40%,#3d1712 100%);}
+  .tt-hero-in{position:relative;z-index:2;max-width:1000px;margin:0 auto;padding:64px 16px 58px;}
+  @media(min-width:700px){.tt-hero-in{padding:84px 26px 74px;}}
+  .tt-glyph{position:absolute;right:-20px;bottom:-70px;font-size:300px;line-height:1;color:rgba(227,183,101,.12);z-index:1;pointer-events:none;}
+  .tt-eyebrow{font-size:12.5px;letter-spacing:.24em;text-transform:uppercase;font-weight:600;color:var(--gold);}
+  .tt-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(36px,7vw,64px);line-height:1.05;margin:14px 0 0;}
+  .tt-hero h1 em{color:var(--gold);}
+  .tt-rule{width:60px;height:3px;background:var(--gold);border-radius:3px;margin:22px 0;}
+  .tt-hero p{max-width:620px;font-size:18px;line-height:1.7;color:#f4e7d6;margin:0 0 14px;}
+  .tt-jump{display:flex;flex-wrap:wrap;gap:8px;margin-top:24px;}
+  .tt-jump a{font-size:13.5px;color:#fbeede;text-decoration:none;border:1px solid rgba(227,183,101,.45);background:rgba(255,255,255,.07);border-radius:30px;padding:7px 15px;}
+  .tt-jump a:hover{background:rgba(255,255,255,.16);text-decoration:none;}
+
+  /* sections */
+  .tt-sec{padding:62px 0;}
+  .tt-sec.cream{background:var(--cream);}
+  .tt-sec.white{background:#fff;}
+  .tt-head{max-width:660px;margin:0 0 30px;}
+  .tt-head .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);}
+  .tt-head h2{font-family:'Playfair Display',serif;font-size:clamp(27px,4.4vw,38px);color:var(--ink);margin:10px 0 10px;line-height:1.15;}
+  .tt-head p{font-size:16.5px;color:var(--ink-soft);line-height:1.65;margin:0;}
+
+  /* step list (where to begin) */
+  .tt-steps{display:grid;gap:18px;grid-template-columns:1fr;counter-reset:st;}
+  @media(min-width:760px){.tt-steps{grid-template-columns:repeat(3,1fr);}}
+  .tt-step{position:relative;display:block;text-decoration:none;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:16px;padding:26px 22px 22px;transition:transform .25s,box-shadow .25s;}
+  .tt-step:hover{transform:translateY(-4px);box-shadow:0 20px 40px -26px rgba(111,42,34,.5);text-decoration:none;}
+  .tt-step::before{counter-increment:st;content:counter(st);position:absolute;top:-14px;left:20px;width:30px;height:30px;border-radius:50%;background:var(--maroon);color:var(--gold);font-family:'Playfair Display',serif;font-weight:700;display:flex;align-items:center;justify-content:center;font-size:16px;}
+  .tt-step .why{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--jade);margin-bottom:8px;}
+  .tt-step h3{font-family:'Playfair Display',serif;font-size:21px;line-height:1.2;margin:0 0 4px;}
+  .tt-step .zh{font-size:15px;color:var(--saffron-deep);margin-bottom:10px;}
+  .tt-step p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0 0 14px;}
+  .tt-step .go{font-size:14px;font-weight:700;color:var(--maroon);}
+
+  /* text rows */
+  .tt-list{display:grid;gap:14px;grid-template-columns:1fr;}
+  @media(min-width:760px){.tt-list{grid-template-columns:1fr 1fr;}}
+  .tt-item{display:flex;flex-direction:column;text-decoration:none;color:var(--ink);background:#fff;border:1px solid var(--line);border-left:4px solid var(--maroon);border-radius:12px;padding:18px 20px;transition:transform .22s,box-shadow .22s;}
+  .cream .tt-item{background:#fff;}
+  .white .tt-item{background:#fdfaf4;}
+  a.tt-item:hover{transform:translateY(-3px);box-shadow:0 16px 32px -24px rgba(111,42,34,.55);text-decoration:none;}
+  .tt-item .meta{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:var(--ink-soft);}
+  .tt-item h3{font-family:'Playfair Display',serif;font-size:19px;line-height:1.25;margin:6px 0 2px;}
+  .tt-item h3 .zh{font-size:15px;color:var(--saffron-deep);margin-left:6px;font-weight:500;}
+  .tt-item p{font-size:14.5px;line-height:1.6;color:var(--ink-soft);margin:6px 0 0;}
+  .tt-item.soon{border-left-color:#c9b79c;opacity:.92;}
+  .tt-pill{display:inline-block;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);background:#fbeed6;border:1px solid #f0dcae;border-radius:20px;padding:2px 9px;margin-left:6px;vertical-align:middle;}
+
+  /* lineage */
+  .tt-line{position:relative;margin:8px 0 0;padding:0;list-style:none;}
+  .tt-line::before{content:"";position:absolute;left:11px;top:6px;bottom:6px;width:2px;background:linear-gradient(var(--maroon),var(--gold));}
+  .tt-line li{position:relative;padding:0 0 22px 40px;}
+  .tt-line li::before{content:"";position:absolute;left:4px;top:5px;width:16px;height:16px;border-radius:50%;background:#fff;border:3px solid var(--maroon);}
+  .tt-line .who{font-family:'Playfair Display',serif;font-size:19px;color:var(--ink);}
+  .tt-line .who .zh{font-size:15px;color:var(--saffron-deep);margin-left:6px;}
+  .tt-line .yrs{font-size:13px;color:var(--ink-soft);margin-left:6px;}
+  .tt-line p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:4px 0 0;}
+  .tt-line a{color:var(--maroon);font-weight:600;}
+
+  /* ideas */
+  .tt-ideas{display:grid;gap:14px;grid-template-columns:1fr;}
+  @media(min-width:640px){.tt-ideas{grid-template-columns:1fr 1fr;}}
+  @media(min-width:940px){.tt-ideas{grid-template-columns:repeat(3,1fr);}}
+  .tt-idea{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px;}
+  .tt-idea .zh{font-size:20px;color:var(--maroon);letter-spacing:.06em;}
+  .tt-idea h3{font-family:'Playfair Display',serif;font-size:18px;margin:4px 0 8px;color:var(--ink);}
+  .tt-idea p{font-size:14.5px;line-height:1.6;color:var(--ink-soft);margin:0;}
+  .tt-idea .see{display:block;margin-top:10px;font-size:13.5px;font-weight:600;color:var(--jade);}
+
+  /* method strip */
+  .tt-method{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;text-decoration:none;border:1px solid var(--line);border-radius:14px;padding:20px 24px;background:#fff;}
+  .tt-method:hover{text-decoration:none;box-shadow:0 16px 32px -24px rgba(120,80,30,.45);}
+  .tt-method span{font-size:15px;line-height:1.55;color:var(--ink-soft);max-width:560px;}
+  .tt-method b{font-size:14px;color:var(--maroon);white-space:nowrap;}
+</style>
+
+<div class="tt">
+
+  <!-- HERO -->
+  <section class="tt-hero">
+    <div class="tt-glyph zh" aria-hidden="true">台</div>
+    <div class="tt-hero-in">
+      <div class="tt-eyebrow">Tiantai School · <span class="zh">天台宗</span></div>
+      <h1>Tiantai — <em>a reading path</em></h1>
+      <div class="tt-rule"></div>
+      <p>Tiantai takes its name from the mountain in Zhejiang where Zhiyi (538–597) taught. It reads the whole of the Buddha's teaching through the <i>Lotus Sūtra</i>, and it insists that doctrine and meditation belong together, like the two wings of a bird.</p>
+      <p>Every Tiantai text on this site is gathered here and arranged in an order you can follow, from a short beginner's manual to Zhiyi's three great works and the later masters who argued over them. All translations are free to read.</p>
+      <nav class="tt-jump" aria-label="On this page">
+        <a href="#begin">Where to begin</a>
+        <a href="#three-great-works">Zhiyi's three great works</a>
+        <a href="#later-masters">Later masters</a>
+        <a href="#practice">Practice</a>
+        <a href="#sutras">Sūtras</a>
+        <a href="#ideas">Key ideas</a>
+        <a href="#lineage">Lineage</a>
+      </nav>
+    </div>
+  </section>
+
+  <!-- WHERE TO BEGIN -->
+  <section class="tt-sec cream" id="begin">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Start here</div>
+        <h2>Where to begin</h2>
+        <p>Three doors in, one for each of the things Tiantai holds together: sitting practice, a map of the teachings, and the sūtra at the root of it all.</p>
+      </div>
+      <div class="tt-steps">
+        <a class="tt-step" href="/sutras/xiao-zhiguan-jiangyi/" data-rv>
+          <div class="why">Sit</div>
+          <h3>The Essentials of Sitting Meditation</h3>
+          <div class="zh">修習止觀坐禪法要講述</div>
+          <p>Zhiyi's short manual for beginners, explained chapter by chapter by the modern Tiantai master Baojing: the preparations, the five hindrances, adjusting body and breath, and calming and insight in everyday life.</p>
+          <span class="go">Read by chapter →</span>
+        </a>
+        <a class="tt-step" href="/sutras/jiaoguan-gangzong/" data-rv style="transition-delay:.08s">
+          <div class="why">See the map</div>
+          <h3>Outline of the Teachings and Contemplation</h3>
+          <div class="zh">教觀綱宗</div>
+          <p>Ouyi Zhixu's compact outline of the whole system: the five periods, the eight teachings, and for each of the four teachings its own truths, six identities, and ten modes of contemplation. Read it before the longer works.</p>
+          <span class="go">Read by part →</span>
+        </a>
+        <a class="tt-step" href="/sutras/lotus-sutra.html" data-rv style="transition-delay:.16s">
+          <div class="why">Read the root</div>
+          <h3>The Lotus Sūtra</h3>
+          <div class="zh">妙法蓮華經</div>
+          <p>Kumārajīva's translation, complete in seven fascicles: the One Vehicle, skillful means, the burning house, the destitute son, the Buddha's lifespan, and Avalokiteśvara's universal gate.</p>
+          <span class="go">Open the sūtra →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- THREE GREAT WORKS -->
+  <section class="tt-sec white" id="three-great-works">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Zhiyi · <span class="zh">法華三大部</span></div>
+        <h2>Zhiyi's three great works</h2>
+        <p>Tiantai's foundation is three sets of lectures by Zhiyi, written down by his disciple Guanding. Together they explain the <i>Lotus Sūtra</i>'s meaning, its words, and how to practice it. All three are complete on this site, together with Zhiyi's treatise on meditation.</p>
+      </div>
+      <div class="tt-list">
+        <a class="tt-item" href="/sutras/fahua-xuanyi/" data-rv>
+          <span class="meta">Zhiyi · 10 fascicles · Complete</span>
+          <h3>Profound Meaning of the Lotus Sūtra <span class="zh">法華玄義</span></h3>
+          <p>The sūtra's doctrine as a system, unfolded through five headings: name, essence, cardinal doctrine, function, and the classification of the teachings.</p>
+        </a>
+        <a class="tt-item" href="/sutras/fahua-wenju/" data-rv>
+          <span class="meta">Zhiyi · 10 fascicles · Complete</span>
+          <h3>Words and Phrases of the Lotus Sūtra <span class="zh">法華文句</span></h3>
+          <p>A phrase-by-phrase commentary, reading each line in four ways: causes and conditions, the four teachings, trace and origin, and contemplation of mind.</p>
+        </a>
+        <a class="tt-item" href="/sutras/mohe-zhiguan/" data-rv>
+          <span class="meta">Zhiyi · 10 fascicles · Complete</span>
+          <h3>The Great Calming and Contemplation <span class="zh">摩訶止觀</span></h3>
+          <p>Tiantai's great meditation manual: the four samādhis, the twenty-five preliminaries, the ten objects and ten modes of contemplation, and "three thousand in a single thought."</p>
+        </a>
+        <a class="tt-item" href="/sutras/shi-chan-boluomi/" data-rv>
+          <span class="meta">Zhiyi · 10 fascicles · Complete</span>
+          <h3>The Graduated Dharma Gate of Dhyāna-Pāramitā <span class="zh">釋禪波羅蜜次第法門</span></h3>
+          <p>Zhiyi's earlier, step-by-step treatise on meditation: motivation, preliminaries, method, and the stages of dhyāna from the beginning to their fruit.</p>
+        </a>
+        <div class="tt-item soon" data-rv>
+          <span class="meta">Zhanran · 20 fascicles</span>
+          <h3>Annotations on the Profound Meaning <span class="zh">法華玄義釋籤</span><span class="tt-pill">In progress</span></h3>
+          <p>Zhanran's line-by-line commentary on the <i>Profound Meaning</i>, the standard guide to reading Zhiyi's first great work.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LATER MASTERS -->
+  <section class="tt-sec cream" id="later-masters">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Zhanran and the Song masters</div>
+        <h2>Later masters</h2>
+        <p>In the eighth century Zhanran revived the school and defended it against Huayan and Chan. In the Song dynasty Zhili defined orthodox Tiantai in a long debate over his works. These shorter texts are where the school's sharpest ideas are argued out.</p>
+      </div>
+      <div class="tt-list">
+        <a class="tt-item" href="/sutras/jingangpi/" data-rv>
+          <span class="meta">Zhanran · 1 fascicle · 5 parts · Complete</span>
+          <h3>The Vajra Scalpel <span class="zh">金剛錍</span></h3>
+          <p>A dream dialogue arguing that even walls, tiles, grasses, and trees have buddha-nature, ending with forty-six questions and advice on how to teach it.</p>
+        </a>
+        <div class="tt-item soon" data-rv>
+          <span class="meta">Zhanran</span>
+          <h3>The Ten Gates of Non-Duality <span class="zh">十不二門</span><span class="tt-pill">In progress</span></h3>
+          <p>A short essay, taken from Zhanran's commentary on the <i>Profound Meaning</i>, showing ten pairs, such as matter and mind or self and other, to be not two.</p>
+        </div>
+        <div class="tt-item soon" data-rv>
+          <span class="meta">Siming Zhili</span>
+          <h3>Essential Notes on the Ten Gates <span class="zh">十不二門指要鈔</span><span class="tt-pill">In progress</span></h3>
+          <p>Zhili's commentary on the <i>Ten Gates</i>, the text that set the terms of the Song-dynasty debate over what orthodox Tiantai teaches.</p>
+        </div>
+        <div class="tt-item soon" data-rv>
+          <span class="meta">Attributed to Zhiyi</span>
+          <h3>Profound Meaning of the Guanyin Chapter <span class="zh">觀音玄義</span><span class="tt-pill">In progress</span></h3>
+          <p>A study of the <i>Lotus Sūtra</i>'s Avalokiteśvara chapter, famous for teaching that the buddha-nature includes evil as well as good.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRACTICE -->
+  <section class="tt-sec white" id="practice">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Practice and repentance</div>
+        <h2>Practice</h2>
+        <p>Tiantai is a school of practice as much as of doctrine. Alongside the meditation manuals above, these texts are used at the cushion and in the shrine hall.</p>
+      </div>
+      <div class="tt-list">
+        <a class="tt-item" href="/sutras/great-compassion-repentance.html" data-rv>
+          <span class="meta">Zhili · abridged by Duti · Bilingual</span>
+          <h3>Great Compassion Repentance <span class="zh">大悲懺</span></h3>
+          <p>The repentance rite built on the Great Compassion Dhāraṇī, abridged from Zhili's manual and still performed in Chinese monasteries today.</p>
+        </a>
+        <div class="tt-item soon" data-rv>
+          <span class="meta">Zhiyi · 1 fascicle</span>
+          <h3>The Six Wondrous Dharma Gates <span class="zh">六妙法門</span><span class="tt-pill">In progress</span></h3>
+          <p>Six stages of meditation that begin with the breath: counting, following, stopping, contemplating, returning, and purity.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SUTRAS -->
+  <section class="tt-sec cream" id="sutras">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Scriptures Tiantai relies on</div>
+        <h2>Sūtras</h2>
+        <p>Besides the <i>Lotus</i>, Tiantai teachers cite these sūtras constantly. Zhiyi called the <i>Lotus</i> and the <i>Nirvāṇa Sūtra</i> together the teaching of the fifth and final period.</p>
+      </div>
+      <div class="tt-list">
+        <a class="tt-item" href="/sutras/mahaparinirvana-sutra/" data-rv>
+          <span class="meta">Dharmakṣema · 40 fascicles · Complete</span>
+          <h3>Mahāparinirvāṇa Sūtra <span class="zh">大般涅槃經</span></h3>
+          <p>The Buddha's final teaching that nirvāṇa is permanent, blissful, self, and pure, and that every being has buddha-nature. <i>The Vajra Scalpel</i> builds its argument on it.</p>
+        </a>
+        <a class="tt-item" href="/sutras/vimalakirti-sutra.html" data-rv>
+          <span class="meta">Kumārajīva</span>
+          <h3>Vimalakīrti Sūtra <span class="zh">維摩詰所說經</span></h3>
+          <p>The layman whose silence teaches non-duality. Zhiyi lectured on it at length late in his life.</p>
+        </a>
+        <div class="tt-item soon" data-rv>
+          <span class="meta">Kumārajīva · 2 fascicles</span>
+          <h3>Sūtra on the Non-Activity of All Dharmas <span class="zh">諸法無行經</span><span class="tt-pill">In progress</span></h3>
+          <p>Home of the story of the bodhisattva Joyful Root, which Tiantai teachers cite when they speak of "forcefully administering the poison."</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- KEY IDEAS -->
+  <section class="tt-sec white" id="ideas">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Vocabulary</div>
+        <h2>Key ideas</h2>
+        <p>A handful of terms run through every Tiantai text. Here they are in brief, with the place on this site where each is worked out.</p>
+      </div>
+      <div class="tt-ideas">
+        <div class="tt-idea" data-rv>
+          <div class="zh">三諦圓融</div>
+          <h3>The three truths</h3>
+          <p>Every dharma is at once empty, provisionally existing, and the middle. The three are not stages; each one contains the other two.</p>
+          <a class="see" href="/sutras/mohe-zhiguan/">See: The Great Calming and Contemplation →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">一心三觀</div>
+          <h3>Threefold contemplation in one mind</h3>
+          <p>The practice that matches the three truths: contemplating emptiness, the provisional, and the middle in a single moment of mind.</p>
+          <a class="see" href="/sutras/mohe-zhiguan/">See: The Great Calming and Contemplation →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">一念三千</div>
+          <h3>Three thousand in a single thought</h3>
+          <p>Ten realms, each containing all ten, with ten suchnesses and three worlds: a single moment of mind includes all of reality.</p>
+          <a class="see" href="/sutras/mohe-zhiguan/">See: The Great Calming and Contemplation →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">五時八教</div>
+          <h3>Five periods and eight teachings</h3>
+          <p>Tiantai's classification of all the Buddha's sūtras by when, how, and what he taught, with the <i>Lotus</i> as the culmination.</p>
+          <a class="see" href="/sutras/jiaoguan-gangzong/">See: Outline of the Teachings and Contemplation →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">六即</div>
+          <h3>The six identities</h3>
+          <p>From identity in principle to ultimate identity: beings are buddhas from the start, yet the stages of practice are real and must not be skipped.</p>
+          <a class="see" href="/sutras/jiaoguan-gangzong/">See: Outline of the Teachings and Contemplation →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">三因佛性</div>
+          <h3>Three causes of buddha-nature</h3>
+          <p>The correct cause (reality itself), the revealing cause (wisdom), and the conditioning cause (practice), all three inherent in every being.</p>
+          <a class="see" href="/sutras/jingangpi/">See: The Vajra Scalpel →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">性具</div>
+          <h3>Inherent inclusion</h3>
+          <p>The nature already includes all dharmas, defiled and pure alike. This is why, for Tiantai, even the insentient have buddha-nature.</p>
+          <a class="see" href="/sutras/jingangpi/">See: The Vajra Scalpel →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">本跡</div>
+          <h3>Origin and trace</h3>
+          <p>The Buddha who attained awakening under the tree is the trace. The Buddha awakened since the inconceivably distant past is the origin.</p>
+          <a class="see" href="/sutras/fahua-wenju/">See: Words and Phrases of the Lotus Sūtra →</a>
+        </div>
+        <div class="tt-idea" data-rv>
+          <div class="zh">四種三昧</div>
+          <h3>The four samādhis</h3>
+          <p>Constantly sitting, constantly walking, half walking and half sitting, and neither walking nor sitting: four frames for practice.</p>
+          <a class="see" href="/sutras/mohe-zhiguan/">See: The Great Calming and Contemplation →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LINEAGE -->
+  <section class="tt-sec cream" id="lineage">
+    <div class="tt-wrap">
+      <div class="tt-head" data-rv>
+        <div class="lbl">Who wrote what</div>
+        <h2>Lineage</h2>
+        <p>The teachers behind the texts on this page, from the school's founding to the twentieth century.</p>
+      </div>
+      <ol class="tt-line" data-rv>
+        <li><span class="who">Huisi <span class="zh">慧思</span></span><span class="yrs">515–577</span>
+          <p>Zhiyi's teacher, who guided him to his first awakening while reciting the <i>Lotus Sūtra</i>.</p></li>
+        <li><span class="who">Zhiyi <span class="zh">智顗</span></span><span class="yrs">538–597</span>
+          <p>The founder in practice. Author of the <a href="/sutras/fahua-xuanyi/">Profound Meaning</a>, <a href="/sutras/fahua-wenju/">Words and Phrases</a>, <a href="/sutras/mohe-zhiguan/">Great Calming and Contemplation</a>, and the <a href="/sutras/shi-chan-boluomi/">Graduated Dharma Gate</a>.</p></li>
+        <li><span class="who">Guanding <span class="zh">灌頂</span></span><span class="yrs">561–632</span>
+          <p>Zhiyi's disciple, who recorded and edited his lectures.</p></li>
+        <li><span class="who">Zhanran <span class="zh">湛然</span></span><span class="yrs">711–782</span>
+          <p>Revived the school and wrote its standard commentaries. Author of <a href="/sutras/jingangpi/">The Vajra Scalpel</a>.</p></li>
+        <li><span class="who">Siming Zhili <span class="zh">四明知禮</span></span><span class="yrs">960–1028</span>
+          <p>Defined Song-dynasty orthodoxy and composed the repentance manual behind the <a href="/sutras/great-compassion-repentance.html">Great Compassion Repentance</a>.</p></li>
+        <li><span class="who">Ouyi Zhixu <span class="zh">蕅益智旭</span></span><span class="yrs">1599–1655</span>
+          <p>A late-Ming master of Tiantai and Pure Land. Author of the <a href="/sutras/jiaoguan-gangzong/">Outline of the Teachings and Contemplation</a>.</p></li>
+        <li><span class="who">Baojing <span class="zh">寶靜</span></span><span class="yrs">1899–1940</span>
+          <p>A modern Tiantai lecturer. His talks on Zhiyi's <a href="/sutras/xiao-zhiguan-jiangyi/">Essentials of Sitting Meditation</a> are on this site.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- METHOD -->
+  <section class="tt-sec white" style="padding-top:0;padding-bottom:70px;">
+    <div class="tt-wrap" style="padding-top:40px;">
+      <a class="tt-method" href="/dharma/translation-method/">
+        <span>How are these translations made? Source texts from CBETA, AI-assisted drafting, Chinese and English set side by side paragraph by paragraph, and human doctrinal review.</span>
+        <b>Read the method note →</b>
+      </a>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  var els=document.querySelectorAll('.tt [data-rv]');
+  if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.08});
+  els.forEach(function(e){io.observe(e);});
+})();
+</script>
