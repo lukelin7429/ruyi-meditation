@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-17
+
+- Fascicle 13 now ends at 「如是等義，是名不殺生戒。」, completing the discussion of abstaining from killing in Part Twenty-Two.
+- Resume at 0156a16 with 「不與取者，知他物，生盜心，取物去離本處，物屬我，是名盜。」
+- Added 2,565 Chinese characters, excluding punctuation and whitespace, in 51 individually aligned paragraph pairs. The entire addition is a continuous match to CBETA XML, Taishō T25, no. 1509, from 0154b02 through 0156a16; original inline Dan annotations are retained and included in the count. Section headings and editorial apparatus are excluded.
+- Preserve the distinction between the competing Abhidharma classifications, the objection, and its reply. Translate 無記 as karmically indeterminate and 有漏 / 無漏 as subject to outflows / free of outflows. The stream-enterer narrative remains attributed source narrative.
+- Every Chinese paragraph and its English counterpart use their own translation-row: both paragraph starts share the same horizontal line on desktop, with blank space below the shorter cell; mobile shows each Chinese paragraph followed by its English counterpart.
+
 ## Translation progress — 2026-11-16
 
 - Fascicle 12 is complete, ending at 「如是等種種布施，是為菩薩布施生般若波羅蜜。」 Fascicle 13 opens Part Twenty-One and ends at 「復次，持戒之人，觀破戒人罪，應自勉勵，一心持戒。」
