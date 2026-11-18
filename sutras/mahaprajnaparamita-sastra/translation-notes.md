@@ -57,6 +57,14 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-18
+
+- Fascicle 13 now ends at 「如是種種不作，是為不妄語，名口善律儀。」, completing the discussions of abstaining from theft, sexual misconduct, and false speech.
+- Resume at 0158a27: 「不飲酒者，酒有三種：一者、穀酒，二者、果酒，三者、藥草酒。」
+- Added 2,841 Chinese characters, excluding punctuation and whitespace, in 50 individually aligned paragraph pairs. The complete addition continuously matches CBETA XML, Taishō T25, no. 1509, within 0156a16 through 0158a27. Original inline glosses are retained and included in the count; editorial apparatus is excluded.
+- Preserve the text's historical definitions and attributed karmic accounts. Keep Kokālika's accusation distinct from the narrator's account and the Buddha's correction. Uncertain hell names Aluoluo (阿羅邏), Apopo (阿婆婆), and Xiuxiu (休休) retain Chinese romanizations with source characters rather than speculative Indic forms.
+- Each Chinese paragraph and its English counterpart have their own translation-row, preserving aligned paragraph starts and blank space beneath the shorter cell on desktop.
+
 ## Translation progress — 2026-11-17
 
 - Fascicle 13 now ends at 「如是等義，是名不殺生戒。」, completing the discussion of abstaining from killing in Part Twenty-Two.
