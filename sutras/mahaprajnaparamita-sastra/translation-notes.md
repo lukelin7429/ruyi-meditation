@@ -57,6 +57,15 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-19
+
+- Fascicle 13 now ends at 「以是故，六日持齋受戒，得福增多。」, after abstaining from intoxicants, the five precepts, the one-day observance, and the first explanation of the six observance days.
+- Resume at 0160a28: 「問曰：何以故諸惡鬼神輩，以此六日惱害於人？」
+- Added 2,544 Chinese characters, excluding punctuation and whitespace, in 59 individually aligned paragraph pairs. The complete addition continuously matches CBETA XML, Taishō T25, no. 1509, from within 0158a27 through 0160a27, with CBETA gaiji CB01418 displayed using its declared normalized form 隸 in 波隸質妬樹. This normalized Chinese character is included in the count. Editorial apparatus is excluded.
+- Preserve the full thirty-five faults, heavenly-reward verses, refuge formulas, and precept vows. Distinguish abstention from sexual misconduct in the five precepts from complete sexual abstinence in the one-day observance. Retain the source's separate presentation of abstaining from eating after noon after the eight undertakings, without silently renumbering it.
+- Translate 布薩 as poṣadha with the source's meaning gloss, dwelling together; do not render 秦言 literally as in Qin. Heavenly rewards and spirit accounts remain attributed source teaching.
+- Each paragraph pair has its own translation-row, preserving aligned paragraph starts and blank space beneath the shorter cell on desktop.
+
 ## Translation progress — 2026-11-18
 
 - Fascicle 13 now ends at 「如是種種不作，是為不妄語，名口善律儀。」, completing the discussions of abstaining from theft, sexual misconduct, and false speech.
