@@ -57,6 +57,15 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## Translation progress — 2026-11-20
+
+- Fascicle 13 is complete, ending at 「是總名為戒，是為尸羅。」 Fascicle 14 now ends at 「如是持戒名為尸羅波羅蜜。」 after the venomous-dragon narrative and the bodhisattva's vow to liberate living beings.
+- Resume in fascicle 14 at 0162b10: 「復次，菩薩持戒，心樂善清淨，不為畏惡道，亦不為生天，但求善淨；以戒熏心，令心樂善，是為尸羅波羅蜜。」
+- Added 2,614 Chinese characters: 2,111 in fascicle 13 and 503 in fascicle 14, excluding punctuation and whitespace, in 61 aligned paragraph pairs (49 and 12 respectively). Each addition is a continuous CBETA XML match, Taishō T25, no. 1509: 0160a28–0161c21 and 0162a08–0162b10. Fascicle headings, colophons, and editorial apparatus are excluded.
+- Preserve the attribution of the spirit-origin account to the Sūtra on the Origins of Heaven and Earth and the text's ensuing distinction that days themselves are neither good nor bad in the Buddha's Dharma. Keep Utpalavarṇā's dialogue and the dragon's vows as attributed narratives.
+- Preserve the historical ordination categories and numbers, including the source's classification of four categories encompassing five named groups, and its stated ages and procedures. Do not silently modernize these source descriptions.
+- Fascicle 14 inherits the paragraph-pair layout: each Chinese paragraph and its English counterpart have their own translation-row with aligned starts on desktop. The index and fascicle navigation now link to fascicle 14; fascicle 13 is marked complete.
+
 ## Translation progress — 2026-11-19
 
 - Fascicle 13 now ends at 「以是故，六日持齋受戒，得福增多。」, after abstaining from intoxicants, the five precepts, the one-day observance, and the first explanation of the six observance days.
