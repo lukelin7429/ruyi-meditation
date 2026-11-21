@@ -57,6 +57,18 @@ Preferred translation:
 
 Each Chinese paragraph and its English counterpart must be placed in their own `translation-row`. On desktop, both paragraphs start at the same height, and the shorter cell keeps blank space beneath it until the longer paragraph ends. On mobile, show each Chinese paragraph immediately followed by its English translation. When continuing fascicle 9, preserve this layout rather than grouping multiple paragraphs into two independent columns.
 
+## 彼岸 — confirmed wording
+
+Retain `the far shore` for 彼岸. On 2026-11-21 the user confirmed that no additional explanatory gloss is needed for this expression.
+
+## Translation progress — 2026-11-21
+
+- Fascicle 14 now ends at 「以是故言『於罪、不罪不可得故，應具足尸羅波羅蜜』。」 (source quotation punctuation retained on the page), completing the discussion of the perfection of ethical discipline.
+- Resume at 0164b01, Part Twenty-Four, with 「〖經〗『心不動故，應具足羼提波羅蜜。』〖論〗問曰：云何名羼提？」, retaining the source's sutra/treatise markers and introducing the perfection of patience.
+- Added 2,575 Chinese characters, excluding punctuation and whitespace, in 52 individually aligned paragraph pairs. The entire addition is a continuous CBETA XML match, Taishō T25, no. 1509, from within 0162b10 through 0164a27. Editorial apparatus and the following section heading are excluded.
+- This passage explains how ethical discipline gives rise to the six perfections and why offense and non-offense cannot be apprehended. Preserve the explicit rejection of a crude or wrong-view reading, the distinction between physical sight and the eye of wisdom, and the question/reply structure concerning living beings and aggregates.
+- Each paragraph pair has its own translation-row, with both paragraph starts at the same height on desktop and blank space below the shorter cell.
+
 ## Translation progress — 2026-11-20
 
 - Fascicle 13 is complete, ending at 「是總名為戒，是為尸羅。」 Fascicle 14 now ends at 「如是持戒名為尸羅波羅蜜。」 after the venomous-dragon narrative and the bodhisattva's vow to liberate living beings.
