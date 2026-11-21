@@ -1239,6 +1239,8 @@ body.nav-overlay-open { overflow: hidden; }
   color: #4a4a4a;
 }
 .article-body hr { border: none; border-top: 1px solid #dee2e6; margin: 40px 0; }
+.article-body .zh-subtitle { font-family: 'PingFang TC', 'Apple LiGothic Medium', 'Microsoft JhengHei', sans-serif; font-size: 1.15em; color: #8c2f12; letter-spacing: .04em; margin-bottom: .6em; }
+.article-body .section-break { text-align: center; color: #c9912f; letter-spacing: .4em; margin: 2em 0; }
 .article-body ul, .article-body ol { padding-left: 1.5rem; margin-bottom: 1.2em; }
 .article-body li { margin-bottom: 0.5em; }
 .article-body a { color: #8c2f12; text-decoration: underline; text-underline-offset: 4px; }
