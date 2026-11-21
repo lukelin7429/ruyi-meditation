@@ -7,8 +7,6 @@ source: "Dom Jones, In the Buddha's Words reading class with Luke Lin, Class 1 e
 slug: holding-what-we-love-with-open-hands
 ---
 
-<p class="zh-subtitle" lang="zh-Hant">雙手敞開，慈心無執：無常中的放手與深愛</p>
-
 *Reflections on Impermanence, the Five Aggregates, and the Quiet Courage of Detached Caring*
 
 There is a paradox that sits at the heart of Buddhist practice: a deepening path can loosen even our tightest attachments to the people, roles, and endeavors we love most, yet this loosening is not unloving. In his introduction to Chapter I of *In the Buddha's Words*, Bhikkhu Bodhi explains how we construct a fragile sense of selfhood upon the five aggregates—form, feeling, perception, volitional formations, and consciousness—through two constant mental habits: identification ("this is me") and appropriation ("this is mine"). In *Anxiety Due to Change* (SN 22:7), the Buddha illustrates why this construction inevitably breeds suffering. When an uninstructed person regards an aggregate as self, any natural alteration in that aggregate shakes the foundation of their identity, leaving the mind obsessed, distressed, and anxious.
