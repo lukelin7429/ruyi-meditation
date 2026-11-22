@@ -61,6 +61,15 @@ Each Chinese paragraph and its English counterpart must be placed in their own `
 
 Retain `the far shore` for 彼岸. On 2026-11-21 the user confirmed that no additional explanatory gloss is needed for this expression.
 
+## Translation progress — 2026-11-22
+
+- Fascicle 14 now ends at 「以是種種因緣，於女人中除去情欲，忍不愛著。」 after the definition of patience, Devadatta's pursuit of offerings, the three sources of support, Māra's daughters, and the princess narrative.
+- Resume within 0166b27: 「云何瞋惱人中而得忍辱？當自思惟：『一切眾生有罪因緣，更相侵害。』」 (retain the source's quotation punctuation).
+- Added 3,059 Chinese characters, excluding punctuation, whitespace, and the sutra/treatise markers, in 57 individually aligned paragraph pairs. The complete addition continuously matches CBETA XML, Taishō T25, no. 1509, from 0164b01 through part of 0166b27. Editorial apparatus is excluded.
+- Part Twenty-Four begins with bold sutra and treatise markers. Translate 生忍 as patience toward living beings, 法忍 as patience concerning phenomena. Keep doctrinal alternatives attributed to their speakers and preserve the narrated and quoted settings of the historical descriptions of desire.
+- Use Chinese romanization with source characters for uncertain names: Jibin (罽賓), Miji (密迹), and Shupoqie (述婆伽). Retain the dialogue and verses rather than replacing them with a summary.
+- Each Chinese paragraph and English counterpart have their own translation-row, preserving aligned starts on desktop and blank space beneath the shorter cell.
+
 ## Translation progress — 2026-11-21
 
 - Fascicle 14 now ends at 「以是故言『於罪、不罪不可得故，應具足尸羅波羅蜜』。」 (source quotation punctuation retained on the page), completing the discussion of the perfection of ethical discipline.
