@@ -61,6 +61,14 @@ Each Chinese paragraph and its English counterpart must be placed in their own `
 
 Retain `the far shore` for 彼岸. On 2026-11-21 the user confirmed that no additional explanatory gloss is needed for this expression.
 
+## Translation progress — 2026-11-23
+
+- Fascicle 14 is complete, ending at 「如是等種種無量因緣故能忍，是名生忍。」 Fascicle 15 begins Part Twenty-Five and now ends at 「如是種種外法中忍，名曰法忍。」
+- Resume in fascicle 15 within 0169a06: 「問曰：云何內心法中能忍？答曰：菩薩思惟：『我雖未得道，諸結未斷，若當不忍，與凡人不異，非為菩薩。』」 (retain source punctuation).
+- Added 3,118 Chinese characters: 2,221 in fascicle 14 and 897 in fascicle 15, excluding punctuation and whitespace. All 55 new paragraph pairs (36 and 19 respectively) have individual translation-row elements. Each addition is a continuous CBETA XML match, Taishō T25, no. 1509, within 0166b27–0168a27 and 0168b08–0169a06. Fascicle headings, colophons, and editorial apparatus are excluded.
+- Preserve the distinctions between patience toward living beings and patience concerning phenomena, and between mental and nonmental phenomena. Keep the ascetic narrative, questions and replies, contemplative first-person reflections, and karmic explanations attributed to the source.
+- Fascicle 15 inherits the aligned paragraph-start layout, with blank space below the shorter cell. The index and fascicle navigation link to the new page; fascicle 14 is marked complete, with its hero description updated to cover ethical discipline and patience.
+
 ## Translation progress — 2026-11-22
 
 - Fascicle 14 now ends at 「以是種種因緣，於女人中除去情欲，忍不愛著。」 after the definition of patience, Devadatta's pursuit of offerings, the three sources of support, Māra's daughters, and the princess narrative.
