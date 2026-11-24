@@ -61,6 +61,14 @@ Each Chinese paragraph and its English counterpart must be placed in their own `
 
 Retain `the far shore` for 彼岸. On 2026-11-21 the user confirmed that no additional explanatory gloss is needed for this expression.
 
+## Translation progress — 2026-11-24
+
+- Fascicle 15 now ends at 「行者觀心生、滅，如流水、燈焰，此名入空智門。」
+- Resume within 0171b02: 「何以故？若一時生，餘時中滅者，此心應常。何以故？此極少時中無滅故；若一時中無滅者，應終始無滅。」
+- Added 3,118 Chinese characters, excluding punctuation and whitespace, in 57 individually aligned paragraph pairs. The entire addition continuously matches CBETA XML, Taishō T25, no. 1509, from within 0169a06 through part of 0171b02. Editorial apparatus is excluded.
+- This passage covers internal patience, the restraint rather than severance of fetters on the bodhisattva path, classifications as one/two/three, the fourteen unanswered questions and poisoned-arrow narrative, and debates concerning permanence, impermanence, existence, and nonexistence. Preserve the question/reply boundaries and the explicit distinction between clinging to a proposition and teaching without attachment.
+- The repeated cognitive classifications and the sheep narrative are paired at their complete semantic boundaries. Each Chinese paragraph and English counterpart have their own translation-row, preserving aligned starts on desktop and blank space beneath the shorter cell.
+
 ## Translation progress — 2026-11-23
 
 - Fascicle 14 is complete, ending at 「如是等種種無量因緣故能忍，是名生忍。」 Fascicle 15 begins Part Twenty-Five and now ends at 「如是種種外法中忍，名曰法忍。」
