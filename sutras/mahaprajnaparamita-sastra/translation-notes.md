@@ -61,6 +61,15 @@ Each Chinese paragraph and its English counterpart must be placed in their own `
 
 Retain `the far shore` for 彼岸. On 2026-11-21 the user confirmed that no additional explanatory gloss is needed for this expression.
 
+## Translation progress — 2026-11-25
+
+- Fascicle 15 now ends at 「如是種種因緣，觀精進利而得增益。」, after completing patience concerning phenomena and beginning Part Twenty-Six on diligence.
+- Resume within 0173c09: 「如是精進，佛有時說為欲，或時說精進，有時說不放逸。」
+- Added 3,103 Chinese characters, excluding punctuation, whitespace, and textual-layer markers, in 49 individually aligned paragraph pairs. The complete addition continuously matches CBETA XML, Taishō T25, no. 1509, within 0171b02–0173c09. Original inline meaning glosses are retained and counted; editorial apparatus and the section heading are excluded.
+- Preserve the distinction between emptiness without attachment and annihilation or absolute nonexistence. Part Twenty-Six retains bold sutra/treatise markers; translate 毘梨耶 as vīrya, diligence, and preserve the explanation of why it is listed fourth.
+- Retain Chinese romanizations with source characters for uncertain names Minda (民大), Luopinzhu (羅頻珠), and the abbreviated pair Ma and Jing (馬、井). Narrative accounts and the verses remain source translations rather than added practical instructions.
+- Each paragraph pair uses its own translation-row, with aligned starts and blank space below the shorter cell on desktop. The page introduction and index now describe both patience and diligence.
+
 ## Translation progress — 2026-11-24
 
 - Fascicle 15 now ends at 「行者觀心生、滅，如流水、燈焰，此名入空智門。」
