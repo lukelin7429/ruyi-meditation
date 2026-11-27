@@ -229,3 +229,22 @@ Confirmed from the source text: the close of 如來壽量品; 分別功德品 ("
 | 妙莊嚴王本事品 | "King Wonderful Adornment" | |
 | 普賢菩薩勸發品 | "Samantabhadra's Encouragement" | the sūtra's final chapter |
 | 四依 | the four kinds of reliance | teachers who transmit the sūtra after the Buddha's parinirvāṇa |
+
+## Readings noted by Zhanran (revision of November 27, 2026)
+
+Zhanran's *Notes on the Textual Commentary on the Lotus* (法華文句記, T1719), now translated on this site, comments on the *Wenju* line by line. In November 2026 every place where his reading differs from this translation was checked. Where he shows that the English was mistaken, the English has been corrected. In the places below, the received Chinese is kept as it stands and the English follows it; Zhanran's reading is recorded here.
+
+| Fascicle | Chinese | Zhanran's reading |
+|---|---|---|
+| 1 | 一佛為本，三佛為迹 | He explains the one buddha as the essence and the three as its function, both within the origin. |
+| 2 | 龍母嗷嘇之 | He glosses 嗷嘇 as "eating"; the sense of the word is uncertain, so "shrieks at him" is kept. |
+| 3 | 行施忍辱等，等於四度耳，此一行頌上六度大乘也 | He suspects two scribal errors: it should read "two lines," and 等 covers only the remaining two perfections. |
+| 3 | 為人悉檀故 | He takes 為人 here as "for the sake of persons" (three kinds of persons) rather than strictly the second of the four siddhāntas. |
+| 4 | 十七地論 | He thinks this is probably the treatise on the *Daśabhūmika*, with 七 superfluous. |
+| 4 | 為四譬之本 | He thinks the text should read "the basis of three parables." |
+| 5 | 是釋兩等 | He suspects 兩 is an error, the sense being the sameness given to the children. |
+| 6 | 雇作 | His text reads 顧作 and plays on 顧, "looking back"; the reading 雇 "hiring" is kept. |
+| 10 | 圓初住心即不退 | He thinks 初住 is probably an error for 初信, "first faith"; one version reads only 初心. |
+| 10 | 十信之第三心 | He thinks "third" is probably an error for "second," since 精進 is the second of the ten faiths in his list. |
+| 9 | 辛苦酢藥 | The English "bitter and sour medicines" leaves 辛 "pungent" untranslated, as Zhanran suspects the text should read 苦酢醎, "bitter, sour, and salty." |
+| 10 | 「神」名不測 | His text reads 神在於內, "the spiritual is within," taken as essence and cardinal doctrine. |
