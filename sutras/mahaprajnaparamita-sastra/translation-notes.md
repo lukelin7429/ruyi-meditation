@@ -61,6 +61,14 @@ Each Chinese paragraph and its English counterpart must be placed in their own `
 
 Retain `the far shore` for 彼岸. On 2026-11-21 the user confirmed that no additional explanatory gloss is needed for this expression.
 
+## Translation progress — 2026-11-27
+
+- Fascicle 15 is complete, ending at 「我當為此眾生故，懃修精進，早成佛道而度脫之。」 Fascicle 16 begins Part Twenty-Seven and now ends at 「如是等種種惡口讒賊，故受此罪。」 after the description of the Black Rope Hell.
+- Resume within 0176a07: 「見合會大地獄中，惡羅剎、獄卒作種種形」。
+- Added 3,062 Chinese characters: 581 in fascicle 15 and 2,481 in fascicle 16, excluding punctuation and whitespace. All 53 new paragraph pairs (9 and 44 respectively) use individual translation-row elements. Both additions continuously match CBETA XML, Taishō T25, no. 1509, within 0173c09–0174a20 and 0174a29–0176a07 respectively. Fascicle headings, colophons, and editorial apparatus are excluded.
+- Preserve the source's full enumeration of rebirth transitions and its distinction between ordinary diligence and the bodhisattva perfection. Translate 到彼岸 as reaching the far shore without an added gloss, as the user confirmed. Karmic descriptions and hell narratives remain attributed source teaching.
+- Fascicle 16 inherits aligned paragraph starts, with blank space below the shorter cell on desktop. The index and fascicle navigation link to the new page, and fascicle 15 is marked complete.
+
 ## Translation progress — 2026-11-25
 
 - Fascicle 15 now ends at 「如是種種因緣，觀精進利而得增益。」, after completing patience concerning phenomena and beginning Part Twenty-Six on diligence.
