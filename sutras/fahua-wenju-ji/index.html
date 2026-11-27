@@ -1,0 +1,449 @@
+---
+layout: default
+title: "Notes on the Textual Commentary on the Lotus"
+permalink: /sutras/fahua-wenju-ji/
+excerpt: "A complete bilingual translation of Zhanran's Notes on the Textual Commentary on the Lotus (法華文句記, T1719), his phrase-by-phrase subcommentary on Zhiyi's reading of the Lotus Sūtra."
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .asc{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .asc *{box-sizing:border-box;}
+  .asc-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .asc [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .asc [data-rv].in{opacity:1;transform:none;}
+  .asc-hero{background:linear-gradient(155deg,#2f6d5e 0%,#1c4038 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .asc-hero::after{content:"綱宗";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .asc-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .asc-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .asc-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .asc-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .asc h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:17ch;}
+  .asc-hero p{max-width:720px;color:#f3ece3;font-size:19px;line-height:1.7;}
+  .asc-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .asc-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .asc-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .asc-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .asc-intro{background:var(--cream);padding:64px 0 42px;}
+  .asc-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.asc-grid{grid-template-columns:1.15fr .85fr;}}
+  .asc-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .asc-panel h2,.asc-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .asc-panel p,.asc-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .asc-panel ul{padding-left:20px;margin:0;}
+  .asc-stats{display:grid;gap:12px;margin-top:18px;}
+  .asc-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .asc-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .asc-section{padding:70px 0;background:#fff;}
+  .asc-section-head{max-width:720px;margin-bottom:28px;}
+  .asc-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+
+  .ch-grid{display:grid;grid-template-columns:1fr;gap:14px;}
+  @media(min-width:640px){.ch-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .ch-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:20px;}
+  .ch-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .ch-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:22px;color:var(--ink);margin:6px 0 8px;line-height:1.2;}
+  .ch-desc{font-size:15px;color:var(--muted);line-height:1.55;}
+  .ch-parts{margin-top:10px;font-size:12.5px;font-weight:700;color:var(--terra-deep);letter-spacing:.03em;}
+
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:10px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid #b9d2c8;border-radius:8px;background:linear-gradient(180deg,#fff,#f5fbf8);padding:14px 16px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#7ea99a;text-decoration:none;}
+  .vol-num{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:16.5px;color:var(--ink);margin-top:5px;line-height:1.3;}
+
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .asc [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="asc">
+  <section class="asc-hero">
+    <div class="asc-hero-in">
+      <nav class="asc-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Notes on the Textual Commentary on the Lotus</nav>
+      <div class="asc-eyebrow" data-rv>Zhanran · Tang dynasty · 法華文句記</div>
+      <h1 data-rv style="transition-delay:.06s">Notes on the Textual Commentary on the Lotus.</h1>
+      <p data-rv style="transition-delay:.12s">Zhanran (湛然, 711–782) wrote these notes on the <em><a href="{{ '/sutras/fahua-wenju/' | relative_url }}">Fahua Wenju</a></em>, Zhiyi's line-by-line commentary on the <em><a href="{{ '/sutras/lotus-sutra.html' | relative_url }}">Lotus Sūtra</a></em> as recorded by Guanding. Going through the sūtra chapter by chapter, he explains Zhiyi's phrases, supplies the sources behind them, defends the fourfold reading — by causes and conditions, by the teachings, by origin and trace, and by contemplating the mind — and answers rival commentators, above all Ji's Yogācāra reading. With his notes on the <em><a href="{{ '/sutras/fahua-xuanyi/' | relative_url }}">Fahua Xuanyi</a></em> and on <em><a href="{{ '/sutras/mohe-zhiguan/' | relative_url }}">Mohe Zhiguan</a></em>, it completes the commentaries that made Zhiyi's three great works the core of the Tiantai school.</p>
+      <div class="asc-actions" data-rv style="transition-delay:.18s">
+        <a class="asc-btn primary" href="#parts">Browse the 30 parts →</a>
+        <a class="asc-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-intro">
+    <div class="asc-wrap asc-grid">
+      <div class="asc-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>Read it with the <em><a href="{{ '/sutras/fahua-wenju/' | relative_url }}">Fahua Wenju</a></em>: every phrase Zhanran quotes from it uses this site's English, so the two pages can be read side by side. Where he reads a phrase differently, the quotation keeps our wording and the note explains his reading.</p>
+        <p>Lotus quotations use this site's <em><a href="{{ '/sutras/lotus-sutra.html' | relative_url }}">Lotus Sūtra</a></em>.</p>
+      </div>
+      <div class="asc-panel" data-rv style="transition-delay:.08s">
+        <h2>What each page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation, paragraph by paragraph, checked character by character against the CBETA edition so that nothing is skipped.</li>
+          <li>A short introduction to each part, and reading notes on allusions, technical terms, and textual variants.</li>
+          <li>Terminology matched to this site's existing Tiantai translations.</li>
+        </ul>
+        <div class="asc-stats">
+          <div class="asc-stat"><b>30</b> of 30 parts translated — complete</div>
+          <div class="asc-stat"><b>290,393</b> Chinese characters translated in full</div>
+          <div class="asc-stat"><b>T1719</b> Taishō vol. 34, via CBETA</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="structure">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>The Text's Structure</h2>
+        <p>Ten fascicles, traditionally thirty (each in three sections; fascicle eight in four): thirty parts, one page each.</p>
+      </div>
+      <div class="ch-grid">
+        <div class="ch-card" data-rv style="transition-delay:0.00s">
+          <div class="ch-num">Part 1</div>
+          <div class="ch-zh">The Title, the Divisions of the Text, and the Four Modes of Explanation</div>
+          <div class="ch-desc">This part opens Zhanran's <em>Notes on the Textual Commentary on the Lotus</em> (法華文句記), his phrase-by-phrase subcommentary on Zhiyi's <em>Textual Commentary on the Lotus</em> as recorded by Guanding (Zhang'an).</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.05s">
+          <div class="ch-num">Part 2</div>
+          <div class="ch-zh">The General Prologue: From "Thus" to "Amid Vulture Peak"</div>
+          <div class="ch-desc">This part continues Zhanran's comments on the first fascicle of the <em>Textual Commentary</em>.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.10s">
+          <div class="ch-num">Part 3</div>
+          <div class="ch-zh">The Assembly of Śrāvakas and Ājñāta-Kauṇḍinya</div>
+          <div class="ch-desc">This part is the lower third of the first fascicle of Zhanran's <em>Notes on the Textual Commentary on the Lotus</em>.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.15s">
+          <div class="ch-num">Part 4</div>
+          <div class="ch-zh">The Great Disciples from Kāśyapa to Rāhula</div>
+          <div class="ch-desc">This part is the upper third of the second fascicle of Zhanran's <em>Notes on the Textual Commentary on the Lotus</em>.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.20s">
+          <div class="ch-num">Part 5</div>
+          <div class="ch-zh">The Lesser-Known Assembly, the Nuns, and the Bodhisattvas</div>
+          <div class="ch-desc">This part continues Zhanran's comments on the second fascicle of the <em>Textual Commentary</em>, covering the rest of the śrāvaka assembly and the whole of the bodhisattva assembly in the <em>Lotus</em>'s opening list.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.25s">
+          <div class="ch-num">Part 6</div>
+          <div class="ch-zh">The Miscellaneous Assembly and the Specific Prologue</div>
+          <div class="ch-desc">This part finishes Zhanran's comments on the assemblies listed at the start of the <em>Lotus</em> and begins his reading of the specific prologue.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.30s">
+          <div class="ch-num">Part 7</div>
+          <div class="ch-zh">The Six Signs of This World and the Questions of Maitreya</div>
+          <div class="ch-desc">This part is the upper third of the third fascicle of Zhanran's <em>Notes on the Textual Commentary on the Lotus</em>.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.35s">
+          <div class="ch-num">Part 8</div>
+          <div class="ch-zh">Mañjuśrī's Answer: Conjecture, Former Seeing, and Clear Judgment</div>
+          <div class="ch-desc">This part is the middle third of the third fascicle of Zhanran's <em>Notes on the Textual Commentary on the Lotus</em>.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 9</div>
+          <div class="ch-zh">The Three Explanations of "Skillful Means" and the Refutation of Earlier Interpretations</div>
+          <div class="ch-desc">With this part Zhanran reaches the Skillful Means chapter.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 10</div>
+          <div class="ch-zh">The Ten Pairs of the Provisional and the Real and the Praise of the Two Wisdoms</div>
+          <div class="ch-desc">This part continues the <em>Textual Commentary</em>'s broad explanation of the Skillful Means chapter and then begins its reading of the sūtra text.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 11</div>
+          <div class="ch-zh">The Profound State of the Ten Suchnesses and the Ten Points on the Three Rounds</div>
+          <div class="ch-desc">This part continues Zhanran's notes on the Skillful Means chapter.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 12</div>
+          <div class="ch-zh">Predictions, the Five Thousand, and Opening the Buddha's Knowledge and Vision</div>
+          <div class="ch-desc">This part completes Zhanran's notes on the <em>Textual Commentary</em>'s ten points of analysis for the three rounds of teaching in the Skillful Means chapter: why bodhisattvas offer no comprehension and receive no new predictions, why awakening deepens from round to round, how provisional and real hearers both benefit, and whether a hearer must "await the time." A series of questions follows: how …</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 13</div>
+          <div class="ch-zh">Opening, Showing, Awakening, Entering, and the Five Turbidities</div>
+          <div class="ch-desc">This part continues Zhanran's notes on the <em>Textual Commentary</em>'s reading of the Skillful Means chapter, from its use of the <em>Upadeśa</em> on the <em>Lotus</em> to the questions about the five turbidities.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 14</div>
+          <div class="ch-zh">The Five Turbidities, the Five Thousand, and the Small Goods of Humans and Gods</div>
+          <div class="ch-desc">This part completes Zhanran's notes on the prose of the Skillful Means chapter and follows the <em>Textual Commentary</em> well into the verses.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 15</div>
+          <div class="ch-zh">The Bases of the Parable and the Joy of Śāriputra</div>
+          <div class="ch-desc">This part comments on the close of the <em>Textual Commentary</em>'s fourth fascicle and the opening of its fifth: the verses of the Skillful Means chapter that "form the basis" for the parable of the burning house, and the beginning of the Parable chapter.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 16</div>
+          <div class="ch-zh">Śāriputra's Prediction, the Elder, and the Burning Gate</div>
+          <div class="ch-desc">This part comments on the rest of the <em>Textual Commentary</em>'s fifth fascicle, from Śāriputra's verses of receiving and understanding to the opening of the parable of the burning house.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 17</div>
+          <div class="ch-zh">The Burning House, the Ten Objections, and the Essence of the Cart</div>
+          <div class="ch-desc">This part follows the <em>Textual Commentary</em> through the prose of the parable of the burning house in the Parable chapter, from the children who "neither perceive nor know" the fire to the elder's equal bestowal of the great cart.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 18</div>
+          <div class="ch-zh">The Great Cart, the Burning House in Verse, and the Slanderers of the Sūtra</div>
+          <div class="ch-desc">This part finishes Zhanran's notes on the prose of the burning-house parable and follows the <em>Textual Commentary</em> through most of its verses.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 19</div>
+          <div class="ch-zh">Belief and Understanding: The Lost Son and the Lion's Throne</div>
+          <div class="ch-desc">This part opens Zhanran's commentary on the Belief and Understanding chapter, following the <em>Textual Commentary</em>'s sixth fascicle (the site's fascicle-006).</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 20</div>
+          <div class="ch-zh">Belief and Understanding: The Hired Son, the Household, and the Ten Kindnesses</div>
+          <div class="ch-desc">This part continues Zhanran's commentary on the Belief and Understanding chapter, following the second half of the <em>Textual Commentary</em>'s sixth fascicle (the site's fascicle-006).</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 21</div>
+          <div class="ch-zh">The Medicinal Herbs Chapter: One Ground, One Rain, and the Three Herbs and Two Trees</div>
+          <div class="ch-desc">This part covers Zhanran's commentary on the Medicinal Herbs chapter, following the opening of the <em>Textual Commentary</em>'s seventh fascicle (the site's fascicle-007).</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 22</div>
+          <div class="ch-zh">The Bestowal of Predictions and the Phantom City: Five Hundred Yojanas, the Cart, and the City</div>
+          <div class="ch-desc">This part, the first section of Zhanran's eighth fascicle, comments on the end of the <em>Textual Commentary</em>'s seventh fascicle (the site's fascicle-007): the Bestowal of Predictions chapter and the Phantom City chapter.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 23</div>
+          <div class="ch-zh">The Jewel in the Robe, Learners and Those Beyond Learning, and the Teacher of the Dharma</div>
+          <div class="ch-desc">This part contains two sections of Zhanran's eighth fascicle (the Taishō's 八之二 and 八之三).</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 24</div>
+          <div class="ch-zh">The Jeweled Stūpa, Devadatta, and the Upholding Chapter</div>
+          <div class="ch-desc">This part is the fourth and last section of Zhanran's eighth fascicle (the Taishō's 八之四).</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 25</div>
+          <div class="ch-zh">The Peaceful Practices: Practice-Ground, Approach-Ground, and the Four Practices</div>
+          <div class="ch-desc">This part is the first section of Zhanran's ninth fascicle.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 26</div>
+          <div class="ch-zh">Welling Up from the Earth and the Name of the Lifespan Chapter</div>
+          <div class="ch-desc">This part is the middle section of Zhanran's ninth fascicle.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 27</div>
+          <div class="ch-zh">The Three Bodies, the Six Clauses, and the Lifespan Not Exhausted</div>
+          <div class="ch-desc">This part is the lower section of Zhanran's ninth fascicle and completes his notes on the Lifespan chapter as explained in the site's fascicle-009 of the <em>Textual Commentary</em>.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 28</div>
+          <div class="ch-zh">The Three Bodies, the Ten Physicians, and the Four Faiths</div>
+          <div class="ch-desc">This part is the upper section of Zhanran's tenth fascicle.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 29</div>
+          <div class="ch-zh">Rejoicing, the Dharma Teacher's Six Faculties, and Never Disparaging</div>
+          <div class="ch-desc">This part is the middle section of Zhanran's tenth fascicle.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:0.40s">
+          <div class="ch-num">Part 30</div>
+          <div class="ch-zh">The Entrustment and the Last Six Chapters</div>
+          <div class="ch-desc">This is the last part of Zhanran's <em>Notes</em>, the lower section of the tenth fascicle.</div>
+          <div class="ch-parts">Translated</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="parts" style="background:var(--cream);">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>All 30 parts are translated. Each links to the full bilingual text with reading notes.</p>
+      </div>
+      <div class="vol-grid">
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1</span>
+          <span class="vol-title">The Title, the Divisions of the Text, and the Four Modes of Explanation</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-02/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 2</span>
+          <span class="vol-title">The General Prologue: From "Thus" to "Amid Vulture Peak"</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-03/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 3</span>
+          <span class="vol-title">The Assembly of Śrāvakas and Ājñāta-Kauṇḍinya</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-04/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 4</span>
+          <span class="vol-title">The Great Disciples from Kāśyapa to Rāhula</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-05/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 5</span>
+          <span class="vol-title">The Lesser-Known Assembly, the Nuns, and the Bodhisattvas</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-06/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 6</span>
+          <span class="vol-title">The Miscellaneous Assembly and the Specific Prologue</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-07/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 7</span>
+          <span class="vol-title">The Six Signs of This World and the Questions of Maitreya</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-08/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 8</span>
+          <span class="vol-title">Mañjuśrī's Answer: Conjecture, Former Seeing, and Clear Judgment</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-09/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 9</span>
+          <span class="vol-title">The Three Explanations of "Skillful Means" and the Refutation of Earlier Interpretations</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-10/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 10</span>
+          <span class="vol-title">The Ten Pairs of the Provisional and the Real and the Praise of the Two Wisdoms</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-11/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 11</span>
+          <span class="vol-title">The Profound State of the Ten Suchnesses and the Ten Points on the Three Rounds</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-12/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 12</span>
+          <span class="vol-title">Predictions, the Five Thousand, and Opening the Buddha's Knowledge and Vision</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-13/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 13</span>
+          <span class="vol-title">Opening, Showing, Awakening, Entering, and the Five Turbidities</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-14/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 14</span>
+          <span class="vol-title">The Five Turbidities, the Five Thousand, and the Small Goods of Humans and Gods</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-15/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 15</span>
+          <span class="vol-title">The Bases of the Parable and the Joy of Śāriputra</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-16/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 16</span>
+          <span class="vol-title">Śāriputra's Prediction, the Elder, and the Burning Gate</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-17/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 17</span>
+          <span class="vol-title">The Burning House, the Ten Objections, and the Essence of the Cart</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-18/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 18</span>
+          <span class="vol-title">The Great Cart, the Burning House in Verse, and the Slanderers of the Sūtra</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-19/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 19</span>
+          <span class="vol-title">Belief and Understanding: The Lost Son and the Lion's Throne</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-20/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 20</span>
+          <span class="vol-title">Belief and Understanding: The Hired Son, the Household, and the Ten Kindnesses</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-21/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 21</span>
+          <span class="vol-title">The Medicinal Herbs Chapter: One Ground, One Rain, and the Three Herbs and Two Trees</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-22/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 22</span>
+          <span class="vol-title">The Bestowal of Predictions and the Phantom City: Five Hundred Yojanas, the Cart, and the City</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-23/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 23</span>
+          <span class="vol-title">The Jewel in the Robe, Learners and Those Beyond Learning, and the Teacher of the Dharma</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-24/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 24</span>
+          <span class="vol-title">The Jeweled Stūpa, Devadatta, and the Upholding Chapter</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-25/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 25</span>
+          <span class="vol-title">The Peaceful Practices: Practice-Ground, Approach-Ground, and the Four Practices</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-26/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 26</span>
+          <span class="vol-title">Welling Up from the Earth and the Name of the Lifespan Chapter</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-27/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 27</span>
+          <span class="vol-title">The Three Bodies, the Six Clauses, and the Lifespan Not Exhausted</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-28/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 28</span>
+          <span class="vol-title">The Three Bodies, the Ten Physicians, and the Four Faiths</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-29/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 29</span>
+          <span class="vol-title">Rejoicing, the Dharma Teacher's Six Faculties, and Never Disparaging</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/fahua-wenju-ji/part-30/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 30</span>
+          <span class="vol-title">The Entrustment and the Last Six Chapters</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="notes" style="background:#fff;">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Key terms, kept consistent across the whole text and with this site's other Tiantai translations. See the <a href="{{ '/sutras/fahua-wenju-ji/translation-notes/' | relative_url }}">full translation notes</a>, and also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>四釋 — the four modes of explanation</b><span>Causes and conditions, the teachings, origin and trace, contemplating the mind.</span></div>
+        <div class="term"><b>本／迹 — origin / trace</b><span>The two gates of the Lotus.</span></div>
+        <div class="term"><b>開權顯實 — opening the provisional to reveal the real</b><span>The sūtra's purpose, in Zhanran's reading.</span></div>
+        <div class="term"><b>四眾 — the four assemblies</b><span>The initiating, the matching, the echoing, and those forming karmic affinity.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
