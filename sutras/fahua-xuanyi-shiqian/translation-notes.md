@@ -24,7 +24,7 @@ These notes record the main translation decisions for the Ru-Yi English translat
 | 迹 / 本 | the trace / the origin | The two gates of the Lotus Sūtra. |
 | 十妙 | the ten wondrous aspects | Object, wisdom, practice, stage, the three tracks, sympathetic response, spiritual powers, teaching the Dharma, the retinue, and merit and benefit. |
 | 三軌 | the three tracks | Real nature, contemplative illumination, and resource-and-accomplishment. |
-| 實相 | the true mark | The site's Fahua Xuanyi sometimes has "real mark"; it is kept inside quotations. |
+| 實相 | the true mark | Used throughout the Tiantai texts on this site, including the Fahua Xuanyi. |
 | 麁 / 妙 | coarse / wondrous | With 相待 / 絕待, the relative and the absolute wondrous. |
 | 五味 | milk, cream, fresh curdled butter, ripened butter, ghee | In quotations, the site's Fahua Xuanyi wording is kept. |
 | 正因 / 緣因 / 了因 | the correct cause / the conditioning cause / the revealing cause | The three causes of buddha-nature, matched to this site's Fahua Xuanyi and Mahāparinirvāṇa Sūtra. |
